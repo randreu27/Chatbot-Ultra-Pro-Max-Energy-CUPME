@@ -68,7 +68,8 @@ if __name__ == '__main__':
         messages=[
             {'role': 'system', 'content': instruction_prompt},
             {'role': 'user', 'content': input_query},
-        ]
+        ],
+        stream=True
         )
         print(completion.choices[0].message.content)
         time.sleep(3)
