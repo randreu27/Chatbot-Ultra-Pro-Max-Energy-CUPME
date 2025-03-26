@@ -40,8 +40,8 @@ if __name__ == '__main__':
         # # Question examples # #
         #input_query = 'How long should I wait to perform the first inspection after installing the 8VM3 Blue GIS?'
         #input_query = 'Can you tell me the technical details (voltage, frequency, ...) of 8VM3 Blue GIS?'
-        #input_query = 'Can you explain me the technical details of 3AV1 Blue Circuit Breaker?'
-        #input_query = 'Which is the recomended maintenance schedule of 3AV1 Blue Circuit Breaker?'
+        #input_query = 'Can you tell me the technical details (voltage, frequency, ...) of Bluegas insulated busducts?'
+        #input_query = 'Which is the recomended maintenance schedule of Bluegas insulated busducts?'
         retrieved_knowledge = retrieve(input_query)
 
         # # # Debbug code - Not definitive # # #
@@ -68,8 +68,6 @@ if __name__ == '__main__':
         messages=[
             {'role': 'system', 'content': instruction_prompt},
             {'role': 'user', 'content': input_query},
-        ],
-        stream=True
-        )
+        ])
         print(completion.choices[0].message.content)
         time.sleep(3)
