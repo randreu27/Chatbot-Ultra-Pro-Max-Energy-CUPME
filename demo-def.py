@@ -9,7 +9,7 @@ ollama.pull("hf.co/CompendiumLabs/bge-base-en-v1.5-gguf")
 
 # # # Text Extraction (for PDFs) # # #
 file_path = "8VM3BlueGIS.pdf"
-file_path2 = "3AV1BlueCB.pdf"
+file_path2 = "Bluegas-insulatedbusducts.pdf"
 text, tables_as_text = extract_text_and_tables(file_path)
 text2, tables_as_text2 = extract_text_and_tables(file_path2)
 
@@ -21,19 +21,19 @@ fragmentos2 = [f.strip() for f in fragmentos2 if f.strip()]
 
 for chunk in fragmentos:
     add_chunk_to_database(chunk, file_path)
-print(f'Added chunks {len(fragmentos)} to the database')
+#print(f'Added chunks {len(fragmentos)} to the database')
 
 for chunk in fragmentos2:
     add_chunk_to_database(chunk, file_path2)
-print(f'Added chunks {len(fragmentos2)} to the database')
+#print(f'Added chunks {len(fragmentos2)} to the database')
 
 
 # # # MAIN # # #
 if __name__ == '__main__':
     end = False
-    print('Hi! Im the Siemens Energy specialized ChatBot that serches information for you. Is there some information you need? (To end the converstion just say "End")')
+    print('Hi! Im the Siemens Energy specialized ChatBot that searches information for you.')
     while not end:
-        input_query = input('Do you have any more questions? (To end the converstion just say "End") \n')
+        input_query = input('Do you have any questions? (To end the converstion just say "End") \n')
         if input_query == 'End' or input_query == 'end':
             break
 
@@ -45,9 +45,9 @@ if __name__ == '__main__':
         retrieved_knowledge = retrieve(input_query)
 
         # # # Debbug code - Not definitive # # #
-        print('Retrieved knowledge:')
-        for chunk, similarity, source in retrieved_knowledge:
-            print(f' - (similarity: {similarity:.2f}) [Source: {source}] {chunk}')
+        #print('Retrieved knowledge:')
+        #for chunk, similarity, source in retrieved_knowledge:
+        #    print(f' - (similarity: {similarity:.2f}) [Source: {source}] {chunk}')
 
         # # # LLM # # #
         instruction_prompt = '''You are a helpful chatbot.
