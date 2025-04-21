@@ -54,7 +54,7 @@ def cosine_similarity(a, b):
   norm_b = sum([x ** 2 for x in b]) ** 0.5
   return dot_product / (norm_a * norm_b)
 
-def retrieve(query, top_n=20):
+def retrieve(query, top_n=30):
     query_embedding = ollama.embed(model=EMBEDDING_MODEL, input=query)['embeddings'][0]
     similarities = []
     
