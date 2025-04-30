@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain_community.vectorstores import Chroma
+from langchain_pinecone import PineconeVectorStore
 from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -14,18 +14,21 @@ load_dotenv()
 
 # Define the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
-persistent_directory = os.path.join(current_dir, "db", "chroma_db_products")
 
 # Define the embedding model
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
 
 # Load the existing vector store with the embedding function
-db = Chroma(persist_directory=persistent_directory, embedding_function=embeddings)
+vector_store = PineconeVectorStore(
+    embedding=embeddings,
+    index_name="langchain-intro",
+    namespace="default"  
+)
 
 # Create a retriever for querying the vector store
 # `search_type` specifies the type of search (e.g., similarity)
 # `search_kwargs` contains additional arguments for the search (e.g., number of results to return)
-retriever = db.as_retriever(
+retriever = vector_store.as_retriever(
     search_type="similarity",
     search_kwargs={"k": 3},
 )

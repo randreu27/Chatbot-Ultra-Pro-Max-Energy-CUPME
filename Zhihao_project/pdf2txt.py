@@ -14,6 +14,6 @@ def pdf_a_txt(ruta_pdf, ruta_txt):
 
 if __name__ == "__main__":
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_dir, "products", "8VM3BlueGIS.pdf")
-    output_path = os.path.join(current_dir, "products", "8VM3BlueGIS.txt")
+    file_path = os.path.join(current_dir, "products", "Bluegas-insulatedbusducts.pdf")
+    output_path = os.path.join(current_dir, "products", "Bluegas-insulatedbusducts.txt")
     pdf_a_txt(file_path, output_path)
