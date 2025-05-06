@@ -20,7 +20,8 @@ if not os.path.exists(books_dir):
     raise FileNotFoundError(f"The directory {books_dir} does not exist. Please check the path.")
 
 # Load all .txt files
-book_files = [f for f in os.listdir(books_dir) if f.endswith(".txt")]
+#book_files = [f for f in os.listdir(books_dir) if f.endswith(".txt")]
+book_files = ['documentos.txt'] # Replace with your actual file names
 documents = []
 
 for book_file in book_files:
@@ -41,7 +42,11 @@ print(f"Number of document chunks: {len(docs)}")
 
 # Create embeddings
 print("\n--- Creating embeddings ---")
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
+embeddings = HuggingFaceEmbeddings(
+    model_name="BAAI/bge-small-en-v1.5",
+    model_kwargs={"device": "cuda"}  # Use GPU
+)
+
 print("--- Finished creating embeddings ---")
 
 from langchain_pinecone import PineconeVectorStore
@@ -51,8 +56,7 @@ print("\n--- Creating and persisting vector store ---")
 vector_store = PineconeVectorStore.from_documents(
     documents=docs,
     embedding=embeddings,
-    index_name="langchain-intro",
+    index_name="rag-siemens-embed384",
     namespace="default"  
 )
 print("--- Finished creating and persisting vector store ---")
-

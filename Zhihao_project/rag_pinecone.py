@@ -16,12 +16,14 @@ load_dotenv()
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Define the embedding model
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
-
+embeddings = HuggingFaceEmbeddings(
+    model_name="BAAI/bge-small-en-v1.5",
+    model_kwargs={"device": "cuda"}  # Use GPU
+)
 # Load the existing vector store with the embedding function
 vector_store = PineconeVectorStore(
     embedding=embeddings,
-    index_name="langchain-intro",
+    index_name="rag-siemens-embed384",
     namespace="default"  
 )
 
@@ -30,7 +32,7 @@ vector_store = PineconeVectorStore(
 # `search_kwargs` contains additional arguments for the search (e.g., number of results to return)
 retriever = vector_store.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 3},
+    search_kwargs={"k": 10},
 )
 
 # Create a ChatOpenAI model
@@ -66,13 +68,15 @@ history_aware_retriever = create_history_aware_retriever(
 # This system prompt helps the AI understand that it should provide concise answers
 # based on the retrieved context and indicates what to do if the answer is unknown
 qa_system_prompt = (
-    "You are an assistant for question-answering tasks. Use "
-    "the following pieces of retrieved context to answer the "
-    "question. If you don't know the answer, just say that you "
-    "don't know. Use three sentences maximum and keep the answer "
-    "concise."
+    "You are an assistant for question-answering tasks of the products of Siemens-Energy. Use "
+    "the following pieces of retrieved context to answer the question. "
     "\n\n"
     "{context}"
+    "\n\n"
+    "If you don't know the answer, just say that you "
+    "don't know. Use three sentences maximum and keep the answer concise."
+    "NO COMMENTS. NO ACKNOWLEDGEMENTS."
+    "DO NOT SAY ANYTHING ABOUT THE RETRIEVED CONTEXT."
 )
 
 # Create a prompt template for answering questions
