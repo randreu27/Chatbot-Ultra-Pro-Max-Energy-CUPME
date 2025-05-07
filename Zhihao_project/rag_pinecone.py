@@ -18,7 +18,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 # Define the embedding model
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-small-en-v1.5",
-    model_kwargs={"device": "cuda"}  # Use GPU
+    #model_kwargs={"device": "cuda"}  # Use GPU
 )
 # Load the existing vector store with the embedding function
 vector_store = PineconeVectorStore(
