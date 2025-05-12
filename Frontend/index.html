@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot RAG</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-100 flex justify-center items-center min-h-screen">
+
+    <div class="bg-white p-6 rounded-lg shadow-lg w-full max-w-md">
+        <h1 class="text-2xl font-bold text-center mb-4">Chatbot</h1>
+
+        <div id="chatbox" class="space-y-4 mb-4 h-60 overflow-y-auto px-2 border border-gray-300 rounded-lg">
+            <!-- Mensajes del chat aparecerán aquí -->
+        </div>
+
+        <div class="flex">
+            <input type="text" id="inputMessage" class="border p-2 rounded-lg flex-grow" placeholder="Escribe tu mensaje...">
+            <button id="sendButton" class="bg-blue-500 text-white p-2 rounded-lg ml-2">Enviar</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
