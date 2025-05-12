@@ -6,12 +6,27 @@ from langchain_community.document_loaders import TextLoader
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_pinecone import PineconeVectorStore
 
+def process_source(link):
+    """
+    Process the source string to extract the relevant part.
+    """
+    # Replace the "___" with "/"
+    link = link.replace("___", "/")
+    # Replace the "---" with "?"
+    link = link.replace("---", "?")
+    # Replace the ".txt" with ".html"
+    link = link.replace(".txt", ".html")
+    # Add "https://..." to the beginning of the link
+    link = "https://www.siemens-energy.com" + link
+
+    return link
+
 # Load environment variables from .env
 load_dotenv()
 
 # Define directories
 current_dir = os.path.dirname(os.path.abspath(__file__))
-books_dir = os.path.join(current_dir, "products")
+books_dir = os.path.join(current_dir, "ALL_pages")
 
 print(f"Books directory: {books_dir}")
 
@@ -20,8 +35,8 @@ if not os.path.exists(books_dir):
     raise FileNotFoundError(f"The directory {books_dir} does not exist. Please check the path.")
 
 # Load all .txt files
-#book_files = [f for f in os.listdir(books_dir) if f.endswith(".txt")]
-book_files = ['documentos.txt'] # Replace with your actual file names
+book_files = [f for f in os.listdir(books_dir) if f.endswith(".txt")]
+#book_files = ['documentos.txt'] # Replace with your actual file names
 documents = []
 
 for book_file in book_files:
@@ -30,7 +45,7 @@ for book_file in book_files:
     book_docs = loader.load()
     for doc in book_docs:
         # Add source metadata without overwriting existing data
-        doc.metadata.update({"source": book_file})
+        doc.metadata.update({"source": process_source(book_file)})
         documents.append(doc)
 
 # Split the documents

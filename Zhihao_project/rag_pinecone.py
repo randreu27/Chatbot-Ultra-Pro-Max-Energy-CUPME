@@ -18,7 +18,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 # Define the embedding model
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-small-en-v1.5",
-    #model_kwargs={"device": "cuda"}  # Use GPU
+    model_kwargs={"device": "cuda"}  # Use GPU
 )
 # Load the existing vector store with the embedding function
 vector_store = PineconeVectorStore(
@@ -73,10 +73,10 @@ qa_system_prompt = (
     "\n\n"
     "{context}"
     "\n\n"
-    "If you don't know the answer, just say that you "
-    "don't know. Use three sentences maximum and keep the answer concise."
-    "NO COMMENTS. NO ACKNOWLEDGEMENTS."
-    "DO NOT SAY ANYTHING ABOUT THE RETRIEVED CONTEXT."
+    "If you DO NOT KNOW the answer, just say that you "
+    "don't know. Use five sentences maximum and keep the answer concise. "
+    "NO ACKNOWLEDGEMENTS, NO EXPLANATIONS"
+    "At the end of your answer, cite your sources by writing USEFUL SOURCES: followed by the source links."
 )
 
 # Create a prompt template for answering questions
@@ -88,15 +88,7 @@ qa_prompt = ChatPromptTemplate.from_messages(
     ]
 )
 
-# Create a chain to combine documents for question answering
-# `create_stuff_documents_chain` feeds all retrieved context into the LLM
-question_answer_chain = create_stuff_documents_chain(llm, qa_prompt)
-
-# Create a retrieval chain that combines the history-aware retriever and the question answering chain
-rag_chain = create_retrieval_chain(history_aware_retriever, question_answer_chain)
-
-
-# Function to simulate a continual chat
+# Simply modify the continual_chat function to show sources
 def continual_chat():
     print("Start chatting with the AI! Type 'exit' to end the conversation.")
     chat_history = []  # Collect chat history here (a sequence of messages)
@@ -104,13 +96,45 @@ def continual_chat():
         query = input("You: ")
         if query.lower() == "exit":
             break
-        # Process the user's query through the retrieval chain
-        result = rag_chain.invoke({"input": query, "chat_history": chat_history})
+        
+        # First get documents from retriever to access their metadata
+        if chat_history:
+            contextualized_question = history_aware_retriever.invoke({
+                "input": query,
+                "chat_history": chat_history
+            })
+            docs = contextualized_question
+        else:
+            docs = retriever.invoke(query)
+        
+        # Extract sources
+        sources = [doc.metadata.get('source', 'Unknown source') for doc in docs]
+        
+        # Create context with source information
+        context_with_sources = []
+        for i, doc in enumerate(docs):
+            source = sources[i]
+            context_with_sources.append(f"{doc.page_content}\nSOURCE: {source}")
+        
+        # Join all context pieces
+        combined_context = "\n\n".join(context_with_sources)
+        
+        # Process the query manually using the prompt and LLM
+        formatted_prompt = qa_prompt.format(
+            context=combined_context,
+            chat_history=chat_history,
+            input=query
+        )
+        
+        response = llm.invoke(formatted_prompt)
+        answer = response.content
+        
         # Display the AI's response
-        print(f"AI: {result['answer']}")
+        print(f"AI: {answer}")
+        
         # Update the chat history
         chat_history.append(HumanMessage(content=query))
-        chat_history.append(AIMessage(content=result["answer"]))
+        chat_history.append(AIMessage(content=answer))
 
 
 # Main function to start the continual chat
