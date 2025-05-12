@@ -1,4 +1,5 @@
 import os
+import torch
 
 from dotenv import load_dotenv
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
@@ -9,16 +10,19 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
+
 # Load environment variables from .env
 load_dotenv()
 
 # Define the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+
 # Define the embedding model
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-small-en-v1.5",
-    model_kwargs={"device": "cuda"}  # Use GPU
+    model_kwargs={"device": device}  # Use GPU
 )
 # Load the existing vector store with the embedding function
 vector_store = PineconeVectorStore(
