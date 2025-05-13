@@ -1,5 +1,4 @@
 import os
-import torch
 
 from dotenv import load_dotenv
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
@@ -9,7 +8,10 @@ from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
+import torch
 
+# Check if GPU is available and set the device accordingly
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
 # Load environment variables from .env
 load_dotenv()
@@ -17,12 +19,10 @@ load_dotenv()
 # Define the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
-device = 'cuda' if torch.cuda.is_available() else 'cpu'
-
 # Define the embedding model
 embeddings = HuggingFaceEmbeddings(
     model_name="BAAI/bge-small-en-v1.5",
-    model_kwargs={"device": device}  # Use GPU
+    model_kwargs={"device": device} 
 )
 # Load the existing vector store with the embedding function
 vector_store = PineconeVectorStore(
@@ -36,7 +36,7 @@ vector_store = PineconeVectorStore(
 # `search_kwargs` contains additional arguments for the search (e.g., number of results to return)
 retriever = vector_store.as_retriever(
     search_type="similarity",
-    search_kwargs={"k": 10},
+    search_kwargs={"k": 5},
 )
 
 # Create a ChatOpenAI model
@@ -78,9 +78,9 @@ qa_system_prompt = (
     "{context}"
     "\n\n"
     "If you DO NOT KNOW the answer, just say that you "
-    "don't know. Use five sentences maximum and keep the answer concise. "
-    "NO ACKNOWLEDGEMENTS, NO EXPLANATIONS"
-    "At the end of your answer, cite your sources by writing USEFUL SOURCES: followed by the source links."
+    "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
+    "Use five sentences maximum and keep the answer concise."
+    "At the end of your answer, cite your sources (if necessary) by writing SOURCES: followed by the source links. (separated by a line break). "
 )
 
 # Create a prompt template for answering questions
@@ -102,30 +102,14 @@ def continual_chat():
             break
         
         # First get documents from retriever to access their metadata
-        if chat_history:
-            contextualized_question = history_aware_retriever.invoke({
-                "input": query,
-                "chat_history": chat_history
-            })
-            docs = contextualized_question
-        else:
-            docs = retriever.invoke(query)
-        
-        # Extract sources
-        sources = [doc.metadata.get('source', 'Unknown source') for doc in docs]
-        
-        # Create context with source information
-        context_with_sources = []
-        for i, doc in enumerate(docs):
-            source = sources[i]
-            context_with_sources.append(f"{doc.page_content}\nSOURCE: {source}")
-        
-        # Join all context pieces
-        combined_context = "\n\n".join(context_with_sources)
+        contextualized_question = history_aware_retriever.invoke({
+            "input": query,
+            "chat_history": chat_history
+        })
         
         # Process the query manually using the prompt and LLM
         formatted_prompt = qa_prompt.format(
-            context=combined_context,
+            context=contextualized_question,
             chat_history=chat_history,
             input=query
         )
