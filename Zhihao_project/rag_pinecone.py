@@ -66,15 +66,15 @@ contextualize_q_prompt = ChatPromptTemplate.from_messages(
 # Create a history-aware retriever
 # This uses the LLM to help reformulate the question based on chat history
 history_aware_retriever = create_history_aware_retriever(
-    llm, retriever, contextualize_q_prompt
-)
-
-# Answer question prompt
-# This system prompt helps the AI understand that it should provide concise answers
+    llm should provide concise answers
 # based on the retrieved context and indicates what to do if the answer is unknown
 qa_system_prompt = (
     "You are an assistant for question-answering tasks of the products of Siemens-Energy. Use "
-    "the following pieces of retrieved context to answer the question. "
+    "the following pieces of retrieved context to answer the question. , retriever, contextualize_q_prompt
+)
+
+# Answer question prompt
+# This system prompt helps the AI understand that it"
     "\n\n"
     "{context}"
     "\n\n"
