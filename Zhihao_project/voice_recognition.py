@@ -6,13 +6,13 @@ class VoiceRecognition:
     def __init__(self):
         # Initialize the recognizer and microphone
         self.recognizer = sr.Recognizer()
-        self.microphone = sr.Microphone()
+        # self.microphone = sr.Microphone()
         self.is_recording = False
         self.audio_data = None
         self.recording_thread = None
         
         # Adjust for ambient noise once during initialization
-        with self.microphone as source:
+        with sr.Microphone() as source:
             self.recognizer.adjust_for_ambient_noise(source, duration=1)
     
     def start_recording(self):
@@ -32,8 +32,9 @@ class VoiceRecognition:
     
     def _record_audio(self):
         """Internal method to record audio"""
-        with self.microphone as source:
+        with sr.Microphone() as source:  # Use a fresh instance here
             try:
+                self.recognizer.adjust_for_ambient_noise(source, duration=1)
                 self.audio_data = self.recognizer.listen(source, timeout=10, phrase_time_limit=None)
             except sr.WaitTimeoutError:
                 pass
