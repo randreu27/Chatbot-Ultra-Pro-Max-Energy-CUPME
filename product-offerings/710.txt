@@ -1,0 +1,390 @@
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Manuel du  
+Fournisseur   
+Demande de   
+Propos ition (RfP)  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 TABLE DES MATIÈRES  
+ 
+1. DEMANDE DE PROPOSITION – APERÇU  ................................ ................................ ................................ ..........................  3 
+1.1. Introduction  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2. Invitat ion à une RfP  ................................ ................................ ................................ ................................ .....................  3 
+2. NAVIGATION DANS SAP ARIBA  ................................ ................................ ................................ ................................ ..........  4 
+2.1. Se connecter à ARIBA  ................................ ................................ ................................ ................................ .................  4 
+2.2. Aperçu du tableau de bord  ................................ ................................ ................................ ................................ ........  5 
+2.3. Paramètres du profil  ................................ ................................ ................................ ................................ ...................  7 
+2.4. Résolution des problèmes  ................................ ................................ ................................ ................................ .........  9 
+3. PROCESSUS RELATIF À LA RFP  ................................ ................................ ................................ ................................ .........  10 
+3.1 Répondre à une RfP  ................................ ................................ ................................ ................................ ..................  10 
+3.2 Examen des prérequis  ................................ ................................ ................................ ................................ ..............  11 
+3.3 Liste de contrôle  ................................ ................................ ................................ ................................ ........................  12 
+3.3.1  Examen des détails de l'événement  ................................ ................................ ................................ .................  12 
+3.3.2  Examiner et accepter les prérequis  ................................ ................................ ................................ ..................  13 
+3.3.3  Sélectionner les lots/lignes d'articles  ................................ ................................ ................................ ..............  13 
+3.4 Soumission  ................................ ................................ ................................ ................................ ................................ ... 14 
+3.4.1  Soumettre la réponse  ................................ ................................ ................................ ................................ ...........  14 
+3.4.2  Soumettre la réponse complète  ................................ ................................ ................................ ........................  17 
+3.4.3  Réviser la réponse  ................................ ................................ ................................ ................................ .................  18 
+3.5 Phase d'attribution  ................................ ................................ ................................ ................................ ....................  19 
+3.5.1  Tableau de bord des sélections en attente  ................................ ................................ ................................ .... 19 
+3.5.2  Notification de sélection en attente  ................................ ................................ ................................ ................  19 
+3.5.3  Statut Terminé  ................................ ................................ ................................ ................................ .......................  20 
+3.5.4  Notification  ................................ ................................ ................................ ................................ .............................  20 
+3.5.5  Suivi de la RfP  ................................ ................................ ................................ ................................ .........................  21 
+4. POUR PLUS D'INFORMATIONS, CONSULTEZ LE SITE WEB DU FOURNISSEUR COCKPIT  ................................ .. 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dans ce manuel, le masculin générique est utilisé pour une meilleure lisibilité. Les identités féminines et les autres identi tés de genre sont ex-
+plicitement inclu ses dans la mesure où cela est nécessaire pour l'énoncé .  
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. DEMANDE DE PROPOSITION (RFP)– APERÇU  
+1.1. Introduction  
+Ce manuel vous donne un aperçu de la manière de répondre à une RfP , ce que vous devez garder à l'esprit 
+lorsque vous remplissez une demande de propositions et comment vous pouvez surveiller le processus d'appel 
+d'offres.  
+ 
+ 
+1.2. Invitation à une RfP  
+La demande de proposition, ou RfP, est un processus formel standard permettant à Siemens Energy de 
+donner aux fournisseurs la possibilité d'envoyer leurs offres conformément à la demande .  
+Une fois sélectionné(e) comme participant(e) à une RfP, vous serez automatiquement informé(e) par e -mail  
+de l'événement, c'est -à-dire de la demande (1).  
+ 
+  
+              
+                                
+                                            
+                                          
+1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGATION DANS SAP ARIBA  
+2.1. Se connecter à ARIBA  
+Il existe deux façons de se connecter à votre profil ARIBA:  
+Vous pouvez également vous connecter via le site Web du fournisseur ARIBA , lequel est accessible à partir de 
+l'adresse service.ariba.com. Si vous avez oublié votre nom d'utilisateur et/ou votre mot de passe , veuillez 
+cliquer sur «  Nom d'utilisateur/mot de passe oublié  » (“forgotten Username/password”) (1).  
+ 
+ 
+Vous devez ensuite cliquer sur l'onglet «  Propositions et questionnaires  » (“Proposals  & Questionnaires”) (2) 
+dans la liste déroulante en haut de la page (1).  
+ 
+  
+1 
+1 
+2 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 Vous pouvez également cliquer directement  sur le lien fourni (1) dans  l'e-mail reçu . Vous serez alors 
+redirigé(e) vers la page de connexion du site Web du fournisseur ARIBA.  Une fois connecté(e), vous accéderez 
+directement à la demande . 
+ 
+ 
+2.2. Aperçu du tableau de bord  
+Avant de nous concentrer sur le formulaire de demande, nous allons vous donner un aperçu du tableau de bord 
+dans votre profil ARIBA. Vous y trouverez tous les événements, par exemple les RfP, pour lesquels vous 
+avez été invité avec le statut correspondant:  
+« Terminé  » (“Completed”) (1), «  Ouvert  » (“Open”) (2), «  En attente de sélection  » (“Pending selection”) (3) ou 
+« Aperçu  » (“Preview”) (4).  
+ 
+  
+1 
+4 3 2 1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 Dans la colonne «  Type d'événement  » (“Event Type”) (1), vous pouvez voir les détails respectifs , par exemple 
+s'il s'agit d'une RfP. À côté de cette colonne figure l' heure de fin (2), qui indique le moment auquel votre 
+réponse est attendue  par le client.   
+Dans la colonne «  Participé  » (“Participated”) (3) vous voyez au premier coup d'œil si vous avez participé à un 
+événement, ou non. Si vous souhaitez personnaliser votre tableau de bord , vous pouvez le faire en cliquant 
+sur l'icône correspondante en haut du tableau (4).  
+ 
+ 
+Vous trouverez en bas de la page d'autres catégories à titre de référence , par exemple  : « Questionnaires 
+d'enregistrement  » (“Registration Questionnaires”) (1), «  Questionnaires de qualification  » (“Qualification 
+Questionnaires”) (2), «  Questionnaires  » (“Questionnaires”) (3), «  Certificats  » (“Certificates”) (4) et «  Tâches  » 
+(“Tasks”) (5).  
+ 
+  
+1 2 3 
+5 4 3 2 1 4 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3. Paramètres du profil  
+Vous pouvez modifier vos paramètres de base  dans ARIBA en cliquant sur l'icône de votre profil  (1), puis sur 
+« Mon compte  » (“My Account”) (2).  
+ 
+ 
+Toutes les informations relatives à votre compte (1) et à vos contacts (2) , ainsi que vos paramètres de 
+langue (3)  sont répertoriés. Vous pouvez les modifier.  
+   
+ 
+  
+2 1 
+1 
+3 
+2 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 Si vous cliquez sur l'icône de votre profil (1), vous pouvez cliquer sur la section «  Paramètres  » (“Settings”) (2) 
+puis «  Utilisateurs  » (“Users”) (3) pour modifier les paramètres de votre compte. Il peut par exemple s'agir 
+du rôle (4) et des paramètres utilisateur  (5). 
+ 
+ 
+ 
+  
+1 
+3
+ 
+ 2 
+4 2 
+5 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 2.4. Résolution des problèmes  
+Des messages d'erreur (1)  peuvent s'afficher en haut de votre page lorsque vous remplissez le formulaire.   
+Veuillez les lire attentivement . ARIBA vous indiquera exactement les informations manquantes ou 
+incorrectement saisies.  Veuillez vous rendre à l'endroit correspondant et mod ifier les champs en 
+conséquence . Les messages d'erreur devraient disparaître. La page et donc toutes les informations de 
+l'événement sont remplies correctement . 
+ 
+ 
+ 
+  
+1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3. PROCESSUS RELATIF À LA RFP  
+3.1 Répondre à une RfP  
+Revenons à l'invitation que vous avez reçu au sujet d'une RfP. Si vous cliquez sur le lien indiqué dans l'e -mail, ou 
+si vous cliquez sur la RfP ouverte dans votre tableau de bord, vous serez redirigé(e) vers le formulaire  de ré-
+ponse du RfP dans ARIBA . Vous  verrez tous les détails de l'événement de votre RfP (1) . Le temps restant  
+jusqu'à la clôture de la RfP sera affiché dans le coin supérieur droit (2).     
+ 
+ 
+Avant de pouvoir soumettre une réponse ou de modifier des données dans le formulaire, il est nécessaire 
+d'examiner et de répondre aux  prérequis , c'est -à-dire aux Conditions générales . Pour cela, veuillez cliquer sur 
+le bouton bleu correspondant «  Examiner les conditions préalables  » (“Review Prerequisites”) (1).  
+ 
+ 
+ 
+1 2 
+1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 3.2 Examen des prérequis  
+Veuillez lire les prérequis et accepter les termes de l'accord (1) . Pour continuer, veuillez cliquer sur le bouton 
+« OK » (2) puis sur « Soumettre le présent Accord  » (“Submit this agreement”) (3).  
+ 
+ 
+  
+1 
+2 
+3 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3 Liste de contrôle  
+Après avoir accepté les prérequis, vous pouvez commencer à répondre à la demande  et saisir toutes les 
+informations nécessaires dans ARIBA. Vous pouvez voir sur le côté gauche de la page une liste de contrôle (1). 
+ 
+ 
+3.3.1  Examen des détails de l'événement  
+Dans la première section «  Examiner les détails de l'événement  » (“Review Event Details”) (1), vous trouverez 
+un résumé de tous les détails qui concerne votre RfP . Des règles relatives aux délais ou aux offres  (2) ont 
+été définies. Elles sont pertinentes pour la RfP.  Dans cette section, vous pouvez également voir les fichiers 
+joints d u client (3) ou ses questions (4). 
+ 
+ 
+1 
+1 
+2 3 4 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 3.3.2  Examiner et accepter les prérequis  
+Sous «  Examiner et accepter les prérequis  » (“Review and Accept Prerequisites”) (1), vous verrez le résumé des 
+Conditions générales (2) que vous avez acceptées à l'étape précédente . 
+ 
+ 
+3.3.3  Sélectionner les lots/lignes d'articles  
+Dans la section «  Sélectionner les lots/lignes d'articles  » (“Select Lots/Line items”) (1), vous trouverez les lots 
+et les articles définis par le client dans la RfP .  
+Vous pouvez sélectionner les différents articles  (2) pour lesquels vous souhaitez répond re à la demande.  
+Veuillez les confirmer  en cliquant dessus et en les validant comme il se doit (3).  
+ 
+1 2 
+1 
+2 
+3 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 3.4 Soumission  
+3.4.1  Soumettre la réponse  
+Une nouvelle page s'affiche. Vous devrez répondre à toutes les catégories  définies par le client. Par exemple  : 
+prix de certains articles (1) ou réponses à des questions (2). Les champs obligatoires  sont marqués d'un 
+astérisque rouge (3).  
+Remarque  : vous avez toujours la possibilité de vérifier les formules de calcul si vous d evez saisir un prix 
+pour chaque article.  (4). Comme il peut y avoir des calculs particuliers concernant la ventilation des coûts , 
+il est recommandé de les vérifier avant de soumettre votre réponse.  
+ 
+ 
+  
+1 
+2 
+ 3 
+ 4 
+ 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 En cliquant sur «  Mettre à jour les totaux  » (“Update Totals”) (1), votre RfP sera calculée et le « Prix étendu  » 
+(“Extended Price”) ( 2) ainsi que les «  Coûts totaux  » (“Total Costs”)  (3) s'afficheront dans le tableau.  
+Pour toute  question , vous pouvez en faire part et entrer en contact avec votre client en cliquant sur le bouton 
+« Rédiger un message  » (“Compose Message”)  (4). Une nouvelle page s'affichera (5). Vous pouvez y saisir 
+directement votre message et l'envoyer.  
+ 
+ 
+  
+1 2 3 
+4 
+5 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 Vous avez également la possibilité de répondre en créant une feuille Excel (1)  qui sera intégrée à votre 
+soumission. Vous pouvez y exporter et importer le contenu de la RfP et soumettre des offres (2) . Une fois 
+toutes les informations nécessaires téléchargées, cliquez sur le bouton «  Terminé  » (“Done”) (3). Veuillez ne 
+pas modifier le format Excel.  
+ 
+ 
+  
+1 
+3 2 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17 3.4.2  Soumettre la réponse complète  
+Une fois le formulaire rempli, veuillez cliquer sur le bouton « Soumettre la réponse complète  » (“Submit Entire 
+Response”) (1) puis sur «  OK » (2) pour finaliser votre offre et enfin soumettre votre réponse.  
+ 
+ 
+ 
+ 
+  
+1 
+2 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 3.4.3  Réviser la réponse  
+Veuillez noter que vous pouvez réviser votre réponse  aussi souvent que vous le souhaitez  et aussi 
+longtemps que la RfP est ouverte . Vous pouvez également contrôler le statut  dans votre tableau de bord 
+(1). Si vous souhaitez réviser votre demande , vous pouvez cliquer sur la RfP (2) et apporter les modifications 
+nécessaires (2).  
+ 
+ 
+ 
+  
+1 
+3 2 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 3.5 Phase d'attribution  
+3.5.1  Tableau de bord des sélections en attente  
+Après la clôture de la RfP, le statut passe à «  En attente de sélection  » (“pending selection”) (1).  
+ 
+ 
+3.5.2  Notification de sélection en attente  
+Vous recevrez également une notification par e -mail  vous informant que plus aucune réponse n'est acceptée 
+(1). Cela signifie que l'événement a été clôturé . 
+ 
+ 
+ 
+1 
+1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20 3.5.3  Statut Terminé  
+Vous pouvez suivre  la RfP dans votre tableau de bord jusqu'à  ce que la phase d'attribution soit terminée . 
+Une fois que le client a décidé quel devis sera finalement choisi, le statut de la RfP passera à «  Terminé  » 
+(“completed”) (1) dans votre tableau de bord.  
+ 
+ 
+3.5.4  Notification  
+Vous pouvez recevoir un message  lorsque vous avez été retenu pour la RfP, certains articles ou certaines 
+pondérations (1).  
+ 
+ 
+ 
+ 
+1 
+1 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 3.5.5  Suivi de la RfP  
+Il vous est toujours possible de cliquer sur la RfP dans votre profil ARIBA  pour  voir le résumé de votre 
+offre au premier coup d'œil.  
+Vous pouvez maintenant  : « Télécharger le contenu  » (“download the content”) (1), «  Examiner les prérequis  » 
+(“review the prerequisites”) de cet événement (2), «  Imprimer les informations relatives à l'événement  » (“print 
+the event information”) (3), «  Examiner l'offre  » (“review the bidding”) (4), «  Consulter les prix  » (“view the 
+awards”) (5) et «  Télécharger le rapport récapitulant les prix  » (“download the award summary report”)(6).  
+ 
+ 
+ 
+  
+1 2 3 4 5 6 
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22 4. POUR PLUS D'INFORMATIONS, CONSULTEZ LE SITE WEB DU 
+FOURNISSEUR COCKPIT  
+Pour toute question, veuillez consulter le site Web du cockpit des fournisseurs de Siemens Energy . Vous y 
+trouverez également des informations concernant les différentes possibilités d'assistance. Vous pouvez 
+accéder à la page en cliquant sur ce lien .  
+  
+  
+
+Manuel du Fournisseur : Demande de Proposition  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 M unich   
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/globa l/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+July  2022   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

@@ -1,0 +1,61 @@
+FlexAssist  
+with extended Automatic 
+Generation Control (AGC)
+Unit Modular Coordinator
+siemens-energy.com
+Larger AGC capacity range  
+for higher performance
+Siemens Energy Unit Modular Coordinator is a series of  
+standard supervisory automation modules that govern the 
+plant’s control system. As a part of extending the AGC range,  
+Siemens Energy have standardized a new controls philosophy 
+which will integrate and add the auxiliary load from the Duct 
+Burners in the AGC scheme. This automation solution will 
+enhance the timing of the Duct Burners Startup sequence and 
+govern the plant’s auxiliary load needs by equally distributing 
+a flow setpoint to the unlaying flow controller. 
+This in part, is done by varying the duct burner load to keep 
+the combustion turbine‘s away from their upper and lower 
+limits. The AGC range consists of the CT load range for AGC, 
+plus a major portion of the duct burner operating range. The 
+role of the CT is to maintain fast and immediate response to 
+the dispatched  
+load demand throughout the AGC range. 
+This approach will reduce manual operator action, ensure 
+startup consistency and reduce operator loading. As dispatch 
+and market demands have changed, Siemens Energy are 
+seeing that the Duct Burners are being utilized to maintain 
+the CTs operating point at a load level to fulfill the AGC across  
+the complete range. Improvements
+• Increased potential for higher ancillary services  
+(AGC) revenue.
+• Larger AGC Capacity range
+• Higher performance factor potential despite relatively  
+slow duct burner response and steam turbine delays.
+• The use of the CTs for fast and immediate response  
+are intended to overcome steam turbine delays, resulting 
+in an improved performance factor. 
+Technical Benefits
+• Potential AGC ancillary services enhancement.  
+Approximately $15k per year per additional  
+mega watt AGC capacity.
+• Potential performance factor improvements  
+from 60% range to 100% range.
+© 2023 Siemens Energy Page 1
+Published by
+Siemens Energy, Inc.,  
+4400 N Alafaya Trail  
+Orlando, Florida 32826
+For more information, please visit our website: siemens-energy.com
+© Siemens Energy, 2022
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may undergo 
+modification in the course of further development of the products.  
+The requested performance features are binding only when they are 
+expressly agreed upon in the concluded contract. All product designations 
+may be trademarks or product names of Siemens Energy Global GmbH  
+& Co. KG or other companies whose use by third parties for their own 
+purposes could violate the rights of the owners.
+Siemens Energy is a trademark licensed by Siemens AG.
+© 2023 Siemens Energy Page 2Siemens Energy l  

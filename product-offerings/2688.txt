@@ -1,0 +1,155 @@
+22   •  www.turbomachinerymag.comSiemens Energy is developing three technologies—an advanced rotor hydrogen compressor, a Turbo Heater, 
+and a rotating olefins cracker—to drive the energy transition and reduce carbon emissions.
+BY KIRK LUPKESSIEMENS ENERGY:  
+Turbomachinery-Based 
+Technologies for DecarbonizationPRODUCT SPOTLIGHT
+s industrial 
+decarboniza -
+tion drives 
+full speed ahead, innova -
+tions in rotating equip -
+ment are needed at scale 
+to accelerate the energy 
+transition and close 
+technological gaps. 
+Siemens Energy 
+has developed three 
+technologies that are 
+in the early stages of 
+commercialization: 
+an advanced rotor 
+hydrogen compressor, 
+a Turbo Heater, and 
+a rotating olefins 
+cracker (ROC).
+HYDROGEN COMPRESSOR
+Utilizing turbocompressors for 
+low-mole-weight gases like hydrogen 
+presents several technical challenges. 
+A large amount of specific work is required to 
+achieve meaningful pressure ratios, as there is 
+a comparatively lower pressure rise per stage Arelative to heavier gases, such as 
+methane or CO 2.
+Siemens Energy’s STC-SVm 
+single-shaft turbocompres -
+sor with advanced rotor 
+technology was designed 
+to address these 
+limitations. The 
+platform utilizes a 
+multi-stage rotor that 
+permits circumfer -
+ential speeds at the 
+impeller outer 
+diameter of up to 
+600 m/s without 
+exceeding material 
+stress limits as 
+specified in API 617. 
+This enables significant 
+compressor stage count 
+reduction and a smaller 
+overall footprint by up to 50% 
+compared to a conventional 
+turbocompressor solution in 
+low-mole-weight gas applications.
+The STC-SVm platform can operate on 
+100% hydrogen and applies to all major 
+industrial markets with case ratings up to 
+350 bar(g) and discharge temperatures up to 
+Advanced rotor hydrogen compressor  
+prototype on the closed-loop test stand.
+Turbomachinery International  •  November/December 2024  •  23Next year, the first field demonstra-
+tion project will take place at a pulp and 
+paper mill in Washington, providing 
+process heat to a rotary kiln. Siemens 
+Energy was awarded a $1.7M matching 
+grant from the Washington State Clean 
+Energy Fund to support this effort.
+ROTATING OLEFINS 
+CRACKER
+The ROC is a turbomachine that 
+utilizes the same fluid dynamic princi-
+ples as the Turbo Heater to produce olefins 
+without the combustion of fossil fuels. The 
+technology is being developed as part of a joint 
+effort between Siemens Energy and Technip 
+Energies. The two companies have already 
+validated the fundamentals of reactor 
+chemistry in a laboratory setting and success-
+fully tested a turbomachine prototype 
+operating with inert gas.
+Like the Turbo Heater, the ROC can be 
+driven by an electric motor or a hydrogen-fired 
+gas turbine. Kinetic energy produced via 
+rotation is converted rapidly to heat through a 
+controlled shock wave, creating a near-instan -
+taneous temperature rise in the gas to initiate pyrolysis reactions without heat transfer from heat exchanger surfaces.
+In addition to eliminating fossil-fuel 
+combustion, the rapid temperature increase 
+optimizes the reaction volume to better 
+control chemical kinetics and maximize the yield of the desired high-value chemicals 
+compared to the gradual heating and long 
+residence times dictated by the bulk volume 
+of long tube bundles in conventional furnace 
+heating coils. Eliminating the reliance on 
+surface heat exchange in tube coils will lower 
+the propensity for coke formation. The ROC is 
+compact, highly scalable, and can convert 
+large quantities of energy to heat in 
+a small footprint. 
+Turbo Heater wit h
+electric drive motor
+Kirk Lupkes is the Head of Future 
+Technology – Compression at Siemens 
+Energy.
+193° C. It is suited for applications with 
+high-hydrogen flows where installing several 
+reciprocating compressor packages is 
+uneconomical or impractical due to footprint 
+constraints. In applications with high operating 
+flexibility, the STC-SVm can also be combined 
+with reciprocating units in hybrid compression 
+packages to reduce total cost of ownership.
+The development and testing of the new 
+rotor technology included operation on 
+100% helium in a closed loop. Further 
+validation testing and additional technology 
+development using 100% hydrogen will 
+continue in a new Siemens Energy test facility 
+located in Redmond, WA. 
+TURBO HEATER
+Siemens Energy’s Turbo Heater is a turboma -
+chine that employs high-speed gas dynamics to 
+directly heat gas through a shock wave train. 
+The machine is driven by an electric motor and 
+does not require the direct burning of fossil 
+fuels or a heat exchanger. With the Turbo 
+Heater, fluid is accelerated to high velocities 
+using several stages, each consisting of 
+rotating blades followed by stator vanes 
+redirecting the flow into subsequent stages. 
+The flow is then directed to a stationary 
+diffuser that rapidly reduces the flow velocity 
+and converts the fluid’s kinetic energy into 
+thermal energy, producing a rapid increase in 
+static temperature.
+The Turbo Heater also features scalability: 
+The flow capacity and therefore the amount of 
+energy transferred to the flow is approxi-mately a quadratic function of linear dimen-
+sions. This means doubling the machine’s 
+diameter results in a flow-capacity increase of 
+roughly four times.
+Proof-of-Concept Test
+A 1.6 MW prototype successfully completed a 
+proof-of-concept test campaign covering a 
+wide range of operating conditions. The test 
+program demonstrated outlet temperatures 
+above 700° C, which matched the pre-test 
+performance predictions. A four-hour API 
+mechanical run test was also completed. 
+Achievable temperature levels are projected to 
+reach up to 1000° C using materials and design 
+practices proven in gas turbines and other 
+turbomachinery products.
+Rotating olefins cracker prototype

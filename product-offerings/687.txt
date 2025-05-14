@@ -1,0 +1,417 @@
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Lieferanten  Manual   
+Englis che Auktion  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 Inhaltsverzeichns  
+ 
+1. ÜBERBLICK ENGLISCHE AUKTION  ................................ ................................ ................................ ................................ ..... 3 
+1.1. Einleitung  ................................ ................................ ................................ ................................ ................................ ....... 3 
+1.2. Einladung zu einer eAuction  ................................ ................................ ................................ ................................ ..... 3 
+2. NAVIGATION DURCH SAP ARIBA  ................................ ................................ ................................ ................................ ....... 4 
+2.1. ARIBA Login  ................................ ................................ ................................ ................................ ................................ ... 4 
+2.2. Dashboard Überblick  ................................ ................................ ................................ ................................ ...................  5 
+2.3. Profil & Grundeinstellun gen ................................ ................................ ................................ ................................ ..... 7 
+2.4. Fehlermeldungen  ................................ ................................ ................................ ................................ .........................  9 
+3. AUKTIONSPROZESS  ................................ ................................ ................................ ................................ ............................  10 
+3.1. Teilnahme an einer Auktion  ................................ ................................ ................................ ................................ .... 10 
+3.2. Nutzungsbedingungen  ................................ ................................ ................................ ................................ .............  11 
+3.3. Checkliste  ................................ ................................ ................................ ................................ ................................ ..... 12 
+3.3.1  Event Details  ................................ ................................ ................................ ................................ ..........................  13 
+3.3.2  Nutzungsbedingungen einsehen und akzeptieren  ................................ ................................ .......................  14 
+3.3.3  Einzelposten auswählen  ................................ ................................ ................................ ................................ ...... 14 
+3.4. Einreichungsproze ss ................................ ................................ ................................ ................................ .................  15 
+3.4.1  Einreichen eines Gebots  ................................ ................................ ................................ ................................ ...... 15 
+3.4.2  Bieten  ................................ ................................ ................................ ................................ ................................ ....... 16 
+3.4.3  Endgültiges Gebot einreichen  ................................ ................................ ................................ ............................  17 
+3.4.4  Überprüfung der Abgabe  ................................ ................................ ................................ ................................ .... 17 
+3.5. Vergabephase  ................................ ................................ ................................ ................................ .............................  18 
+3.5.1  Ausstehende Auswahl  ................................ ................................ ................................ ................................ ..........  18 
+3.5.2  Benachrichtigung zur ausstehenden Auswahl  ................................ ................................ ...............................  19 
+3.5.3  Status “abgeschlossen” ................................ ................................ ................................ ................................ ........  19 
+3.5.4  Benachrichtigung  ................................ ................................ ................................ ................................ ..................  20 
+3.5.5  Zusammenfassung des Angebots  ................................ ................................ ................................ .....................  21 
+4. WEITERE INFORMATION – LIEFERANTEN WEBSITE  ................................ ................................ ................................ ... 22 
+ 
+ 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. ÜBERBLICK ENGLISCHE  AUKTION   
+1.1. Einleitung  
+In diesem Handbuch  erhalten Sie einen Überblick darüber, wie Sie an einer Englis chen Auktion in ARIBA 
+teilnehmen , was Sie beim Ausfüllen des Formulars  beachten müssen und wie Sie den Prozess in ARIBA 
+überwachen  können . 
+ 
+ 
+1.2. Einladung zu  einer  eAuction  
+Sobald Sie als Teilnehmer für eine  Englische  Auktion ausgewählt wurden, werden Sie automatisch per E -Mail  
+über das Event , d.h. diese Auktion , informiert . 
+ 
+
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGA TION  DURCH  SAP ARIBA  
+2.1. ARIBA Login  
+Sie haben zwei Möglichkeiten, sich bei Ihrem ARIBA -Profil anzumelden : 
+Sie können sich entweder über die ARIBA -Lieferanten -Website  anmelden, die Sie unter service.ariba.com  
+erreichen. Sollten Sie Ihren Benutzernamen und/oder Ihr Passwort vergessen  haben, nutzen Sie bitte die 
+Option "Benutzername/Passwort vergessen"  (forgotten Username/password)  (1). 
+ 
+ 
+Klicken Sie dann auf d en Reiter  "Angebote & Frageb ögen“ (Proposals & Questionnaires ) (1) in der Dropdown -
+Liste oben auf der Seite.  
+ 
+ 
+ 
+1 
+1 
+2 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 Oder Sie klicken direkt auf den bereitgestellten Link (1) in Ihrer Einladungsmail , welcher  Sie zur ARIBA  
+Login -Maske  weitergeleitet . Nach erfolgreichem Login gelangen Sie direkt zur Anfrage.  
+ 
+ 
+2.2. Dashboard  Über blick  
+Bevor wir uns mit dem Auktionsformular vertraut machen , geben wir Ihnen einen Überblick über das 
+Dashboard in Ihrem ARIBA -Profil . Hier sehen Sie alle Events , zum Beispiel eAuctions, zu denen Sie 
+eingeladen wurden, mit dem jeweiligen Status:  
+“Abgeschlossen “ (Completed) (1),  “Offen “ (Open) (2), “Ausstehende Auswahl “ (Pending selection) (3) or  “ 
+Vorschau“ ( Preview ) (4). 
+ 
+ 
+  
+1 
+4 3 
+4 3 2 1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 In der Spalte "Event Art“ (Event Type) (1) sehen Sie die jeweiligen Details, zum Beispiel ob es sich um eine 
+Auktion handelt oder nicht.  Direkt neben dieser Spalte ist d er “Endzeit punkt “ (End Time)  (2) jeder einzelnen 
+Auktion aufgeführt.  
+Bitte beachten Sie, dass die Startzeit  im eAgreement angegeben und definiert ist. In der Spalte 
+"Teilgenommen“ (Participated ) (3) sehen Sie auf den ersten Blick, ob Sie an einem Event, z.B. RfP oder 
+Auktion, teilgenommen haben oder nicht.  
+Falls Sie Ihr Dashboard anpassen möchten, können Sie dies tun, indem Sie auf das entsprechende Symbol am 
+oberen Rand der Tabelle klicken (4 ).  
+ 
+ 
+Am Ende der Seite finden Sie auch andere Kategorien , z. B: “Registrierungs fragebögen“ (Registration 
+Questionnaires) (1), “Qualifizierungs fragebögen“ (Qualification Questionnaires) (2), “ Fragebögen “ 
+(Questionnaires)  (3), “Zertifikate“ (Certificates) (4) und Kategorien innerhalb der Prozesse des 
+Lieferantenleebnszyklus (Supplier Lifecycle Processes) (5 ). 
+ 
+  
+1 2 3 
+5 4 3 1 
+2 4 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3. Profil & Grundeinstellungen  
+Sie können Ihre Grundeinstellungen in ARIBA ändern,  indem Sie auf Ihr Profilsymbol  (1) und dann auf “Mein 
+Accoun t“ (My Account) (2) klicken .  
+ 
+ 
+Hier können Sie alle  Ihre Konto - (1) und Kontaktinformationen  (2) sowie Ihre Spracheinstellungen  (3) 
+bearbeiten.   
+ 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+1 
+2 3 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 Wenn Sie auf " Einstellungen“ (Settings) (2)  unter Ihrem Profilsymbol (1) klicken, können Sie  unter dem Reiter 
+"Nutzer“ (Users)  (2) auch die Rollen - (4) und Benutzereinstellungen (5) ändern .    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+3 
+2 
+4 5 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 2.4. Fehlermeldungen  
+Möglicherweise erhalten Sie beim Ausfüllen des Formulars Fehlermeldungen  (1), die oben auf der Seite 
+angezeigt werden.   
+Bitte lesen Sie diese aufmerksam  durch , denn ARIBA teilt Ihnen genau mit, welche Informationen fehlen 
+oder falsch eingegeben wurden . Bitte gehen Sie zu der  angeg ebenen  Stelle und ändern Sie die Felder  
+entsprechend. Die Fehlermeldungen sollten verschwinden, wenn das Formular  und damit alle Angaben zu m 
+Event korrekt ausgefüllt  sind . 
+ 
+ 
+ 
+  
+1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3. AUKTIONSPROZESS  
+3.1. Teilnahme an einer Auktion  
+Kehren wir zu Ihrer Einladung zu einer English  Auktion zurück. Wenn Sie auf die entsprechende Schaltfläche in 
+der E -Mail oder auf Ihre offene Auktion im Dashboard (1) klicken, werden Sie zum Antwortformular des 
+Events  in ARIBA weitergeleitet .  
+ 
+ 
+Hier sehen Sie alle Event details der Auktion  (1). Oben rechts sehen Sie die verbleibende Zeit (2), bis die 
+Auktion beendet wird .  
+Bevor Sie eine Antwort abgeben oder Daten im Formular ändern können, müssen Sie die 
+Geschäftsbedingungen lesen und akzeptieren . Klicken Sie dazu bitte auf die entsprechende blaue 
+Schaltfläche " Vereinbarungen überprüfen“ ( Review Prerequisites)  (3). 
+ 
+1 
+1 2 
+3 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 3.2. Nutzungsbedingungen  
+Bitte lesen Sie die Nutzungsbedingungen  und akzeptieren Sie diese  (1). Um fortzufahren, klicken Sie bitte 
+auf die Schaltfläche "OK" ( 2), gefolgt von " Diese Vereinbarung einreichen“ ( Submit this agreement ) (3). 
+Bitte beachten Sie, dass Sie nicht an der Auktion teilnehmen können, wenn Sie die Vereinbarungen nicht 
+akzeptieren .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+3 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3. Checklist e 
+Nachdem Sie die Nutzungsbedingungen  akzeptiert haben, können Sie damit beginnen, alle notwendigen 
+Informationen zur Englischen  Auktion in ARIBA auszufüllen . Auf der linken Seite der Ansicht sehen Sie den 
+Abschnitt Checkliste (1 ).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 3.3.1  Event  Details  
+Unter dem ersten Abschnitt "Überprüfung der Eventinformationen“ (Review Event Details) (1) sehen Sie die 
+Zusammenfassung aller Details der Auktion  und weitere Informationen über das Auktionsformat, in diesem 
+Fall eine Englischen  Auktion (2). Es wurden Zeit - und/ oder Bietregeln  (Event Overview and Timing Rules) (3) 
+definiert, die für die Auktion relevant sind. In diesem Abschnitt können Sie auch  vom Kunden  angehängte 
+Dateien ( 4) oder Fragen ( 5) sehen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+3 
+4 5 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 3.3.2  Nutzungsbedingungen  einsehen und akzeptieren  
+Unter " Überprüfung und Akzeptieren der Nutzungsbedingungen“ ( Review and Accept Prerequisites)  (1) sehen 
+Sie die Nutzungsbedingungen  zusammengefasst (2), die Sie im vorherigen Schritt akzeptiert haben.  
+ 
+ 
+ 
+ 
+ 
+3.3.3  Einzelposten auswählen  
+Der Abschnitt " Wähle Einzelposten“ (Select Lots/Line items)  (1) enthält die vom Kunden festgelegten 
+Einzelposten der Auktion.  
+Sie müssen alle Einzelposten auswählen , zu denen Sie eingeladen worden sind. Diese sind bereits 
+vorausgefüllt, und Sie müssen sie nur noch durch Klicken auf die entsprechende Schaltfläche " Bestätige 
+ausgewählte Einzel posten“ ( Con firm selected lots/line items)  (2) akzeptieren . 
+ 
+ 
+1 2 
+1 
+2 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.4. Einreichungsprozess  
+3.4.1  Einreichen  eines Gebots  
+Sobald Sie auf den vierten Abschnitt " Gebote einreichen“ (Submit Bids)  (1) klicken, erscheinen zwei neue 
+Kategorien auf der linken Seite de r Ansicht .  
+Sie sehen den " Event Inhalte“ (Event Contents)  (2) mit vorläufigen Informationen über die Auktion , für die 
+Sie bieten sollen. Auch zu beantwortende Fragen oder Anhänge des Kun den sind in dieser Tabelle sichtbar . 
+Unter der Rubrik " Wähle Einzelposten“ ( Choose Lot ) (3) können Sie die jeweiligen vom Kunden definierten 
+Einzelposten einsehen , auf welche Sie antworten, oder bieten können .  
+ 
+  
+1 
+2 
+3 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 3.4.2  Bieten  
+Um Ihr Gebot für die jeweiligen Positionen abzugeben, klicken Sie bitte auf "Alle Einzelposten  anzeigen"  (View 
+all lots)  (1) und geben Sie Ihr Gebot entsprechend ein. Klicken Sie bitte auf "Summen aktualisieren"  (Update 
+totals)  (2), um den errechneten Zusc hlagspreis sowie die Gesamtkosten für die Positionen zu sehen, die an 
+den Kunden übertragen werden . 
+Pflichtfelder, die ausgefüllt werden müssen, sind mit einem roten Sternchen gekennzeichnet (3 ). 
+Bitte beachten Sie den speziell definierten Wert des Abwärtsgebots (4), der den Mindestwert zum 
+Unterbieten des aktuellen Angebots angibt .  
+Sie können Gebote innerhalb der vordefinierten Zeit  (5) abgeben. Sobald das Gebot innerhalb der letzten drei 
+Minuten abgegeben wurde, verlängert sich die Laufzeit der Au ktion um weitere drei Minuten. Wird während 
+einer Verlängerungszeit ein weiteres Gebot abgegeben, verlängert sich die Auktion um weitere drei Minuten . 
+ 
+ 
+  
+1 2 5 
+4 3 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17 3.4.3  Endgültiges  Gebot einreichen  
+Sobald Sie Ihr Gebot ausgefüllt haben, klicken Sie bitte auf die Schaltfläche " Gesamtes Gebot abgeben“ 
+(Submit Entire Response ) (1), um Ihr Gebot einzureichen und abzuschließen . 
+ 
+3.4.4  Überprüfung  der Abgabe  
+Ihr Gebot  wurde abgegeben. Sie können während der Laufzeit der Auktion so oft Sie wollen neue Gebote 
+abgeben (1). Bitte beachten Sie, dass Sie Ihr Gebot durch Klicken auf die Schaltfläche "Letztes Gebot neu 
+laden" (Reload Last Bid) (2) revidieren  können, solange die Auktion noch läuft  und offen ist .  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+2 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 Sie können den Status  Ihrer Auktion  in Ihrem Dashboard in ARIBA überwachen (1).   
+ 
+ 
+3.5. Vergabephase  
+3.5.1  Ausstehende  Auswahl  
+Nach Beendigung des Events  wird der Status auf “ ausstehende Auswahl “ (pending selection)  (1) geändert . 
+Dies können Sie  in Ihrem ARIBA -Dashboard unter dem jeweiligen Abschnitt sehen.  
+ 
+ 
+ 
+  
+1 1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 3.5.2  Benachrichtigung  zur ausstehenden Auswahl  
+Sie erhalten eine Benachrichtigung per E -Mail , sobald  keine weiteren Antworten  mehr angenommen 
+werden (1) . Das bedeutet  die Auktion ist beendet . 
+ 
+3.5.3  Status “ abgeschlossen ” 
+Sie können die Auktion in Ihrem Dashboard verfolgen, bis die Vergabephase  abgeschlossen ist . Der S tatus 
+wird dann als "abgesc hlossen“ (completed) (1) angezeigt . 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20 3.5.4  Benachrichtigung  
+Je nach den Einstellungen erhalten Sie eine Nachricht (1), die Ihnen anzeigt, ob Sie die Auktion  gewonnen 
+haben  und den Zuschlag erhalten oder ob Sie die Auktion nicht gewonnen haben . 
+ 
+ 
+  
+1 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 3.5.5  Zusammenfassung  des Angebots  
+In Ihrem ARIBA -Profil können Sie jederzeit auf das Ereignis klicken, um die Zusammenfassung Ihres 
+Angebots  auf einen Blick zu sehen . 
+Sie können nun: den Inhalt herunterladen  (Download Content)  (1), die Vereinbarungen  für diese Auktion 
+nachlesen  (Revi ew Pre requisites)  (2), die Event informationen ausdrucken  (Print Event Information)  (3), die 
+Gebote überprüfen  (Review Bidding)  (4), den Bericht über Gebotsänderungen herunterladen  (Download  Bid 
+Change Report)  (5), die Zuschläge ansehen  (View Awards) (6) und den Bericht über die Zuschlagserteilung 
+herunterladen  (Download Award Summary Report)  (7). 
+ 
+  
+1 2 3 4 6 7 5 
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22 4. WEITERE  INFORMATION – LIEFERANTEN WEBSITE  
+Bei Fragen besuchn Sie bitte unsere Siemens Energy Lieferanten Website . Hier erhalten Sie auch 
+Informationen zu den Supportmöglichkeite n. Die Seite erreichen Sie ganz einfach über diesen Link .  
+ 
+ 
+  
+
+Supplier Manual: English Auction  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 23 
+ 
+ 
+ 
+ 
+ 
+Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 Munich  
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+August  2022   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

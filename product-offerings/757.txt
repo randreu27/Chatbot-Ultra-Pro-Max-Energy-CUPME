@@ -1,0 +1,154 @@
+Omnivise  
+Diagnostics
+Early failure notifications  
+your experts can trust Proven by our experts, ready for yours
+siemens -energy.com/omnivise -asset -management
+Page 2Omnivise Diagnostics
+Omnivise Diagnostics
+Omnivise Diagnostics gives you the solution you’ve 
+always needed, ready to use now. Do you want to reduce unplanned 
+outages and serious equipment failures?
+Do your experts need access to better,  
+earlier actionable insights?Omnivise Diagnostics transforms data into insights, unlocking its hidden value and enabling early 
+fault detection by your expert teams.
+Increased Availability Using Real -time insights on asset condition to maximize uptime and eliminate 
+unplanned outages. Increased Reliability By making risks transparent and connecting criticality  
+with failure effect information. Lower operating costs Through targeted, predictive maintenance, 
+delivering savings from lower repair and replacement costs. Increased Efficiency Giving your 
+diagnostic experts an asset -centric view and supporting them with guided case resolution, leading  
+to deeper, fuller asset coverage. 
+Up to 98%
+asset availability *Failures detected  
+up to
+6 months
+early, 
+9 days early 
+on average *Findings
+> 80%
+accurate *Do you want to understand your 
+asset risks more clearly?
+* Based on actual case study; individual results may vary.
+
+Page 3Omnivise Diagnostics
+Omnivise Diagnostics integrates different data sources and monitoring functions to provide integrated, synchronized views  
+of asset condition for local and centralized diagnostic teams. The solution draws your experts’ attention to critical cases f irst.  
+An integrated diagnostic workflow then gives them the guidance they need for fast and effective case resolution.Reliable synchronized information  
+and guided case resolution
+Collect
+Diagnosticians gain access to process data from Distributed 
+Control System (DCS), manual readings and vibration data  
+in one central location. Sensor calculation capability compensates 
+for any missing data from unavailable sensors. 
+Monitor
+Automatic monitoring functions, such as Diagnostic Rules, 
+Anomaly Detection, Image Analytics and Vibration Diagnostics,  
+are integrated to provide a synchronized view on the asset. 
+Inform
+Omnivise Diagnostics allows diagnosticians to efficiently prioritize 
+and manage their assigned assets, indicating relevant events and 
+permitting fast intervention, backed by smart prioritization based 
+on asset criticality and failure severity. 
+Analyze
+Open alerts are summarized in an asset -centric overview ,con-
+textualized with most probable known failure modes. Diagnosti -
+cians receive both advanced trend analysis and insights to events 
+in Operations and Maintenance. Customers can also access on -
+demand support from Siemens Energy specialists via the Power 
+Diagnostic Center. 
+Act
+Based on an identified failure, the user can hand over pre -defined 
+work -requests to Operations and Maintenance.Asset Template Library and EditorRequests for 
+implementationRequests for 
+investigation
+Ofﬂine real time 
+data feedRequests 
+for action
+Online real time 
+data feedMaintenance 
+OperationsReliability 
+Templates/ 
+ModelsDiagnostics
+Collect Monitor Inform Analyze ActMonitoring MethodsIndicators
+Failure Mode and Effect AnalysisFailure Mode and Effect Analysis
+Statistical Methods
+Vibration Analysis
+Deep LearningFailure Mode and Effect AnalysisFailure Mode and Effect Analysis
+Page 4Omnivise Diagnostics
+1.Asset centric
+Integrated asset view aggregates all information from every 
+relevant monitoring function: process data from DCS,  
+manual readings and vibration data, with advanced pattern 
+recognition, image recognition and other forms of machine 
+learning. It delivers a single, integrated and synchronized  
+view of the assets and avoids multiple tool -specific views.2. User and workflow -centric
+Gives diagnosticians end -to-end digital workflow support, 
+from collection to action, including efficient collaboration 
+across roles with guided handover -workflows, such as from 
+Diagnostics to Maintenance. Provides experts with guided 
+case resolution, delivering all information needed to 
+conclude cases fast and effectively, including Assigned 
+Failure Modes and Effects (FMEA), criticality, asset history, 
+and other factors.3. Siemens Energy knowledge integration
+Provides codified knowledge via comprehensive asset templates 
+(incl. FMEA and indicators). Use of the support button gives 
+fast, direct access to the Siemens Energy expert network for 
+know -how, experience and consulting help.How Siemens Energy makes the difference
+Page 5Omnivise Diagnostics
+Omnivise Asset Management Suite
+Reliability Diagnostics Maintenance OperationsRemote Operator 
+Rounds & InspectionsAsset Performance 
+ManagementFull Plant 
+MonitoringRemote Operations 
+& Autonomous Plant
+Shared Services
+User Management Asset Data Management Data Management Content Libraries
+Customer DataModular software suite, built and used by Siemens Energy experts. Its four modular applications cover all power generation co re 
+processes and domains, supporting both local and remote teams. Built on a single platform, so users can draw on the same data
+and insights. Seamless workflows between applications enable cross -role collaboration, while supporting broader use cases, such 
+as Remote Operator Rounds & Inspections, Asset Performance Management, Full Plant Monitoring, or Remote Operations up to 
+Autonomous Plant. How Omnivise Asset Management 
+adds value:
+Focus on roles 
+Tailored solutions precision -engineered for specific 
+roles, such as Diagnosticians, Reliability Engineers, 
+Maintenance Managers and Engineers, Operations 
+Managers, Operators and Shift Supervisors.
+Workflow -centric
+Both role -specific workflows and cross -role collabo -
+ration, always based on a single source of the truth.
+Latest methods and technologies
+Continuously evolves to include the most advanced 
+methods, including Predictive Maintenance based on 
+state -of-the-art Analytics and most current concepts 
+of Reliability Centered Maintenance.
+One platform, highly modular 
+Single platform, based on micro -services. The modular 
+structure enables customers to select exactly th eele-
+ments they require, gradually expanding to reflect 
+emerging goals and stages on their digital journey. 
+Asset -agnostic
+The same outstanding results for every kind of asset, 
+independent of vendor (Siemens Energy and non -
+Siemens Energy).
+Proven by our experts, ready for yours
+Built by engineers who use the same tools every day. 
+Integrates Siemens Energy operator and engineer 
+knowledge in a comprehensive, constantly updated 
+Asset Template Library.
+©Siemens Energy 2024
+Subject tochanges and errors. The information given inthis document only contains 
+general descriptions and/orperformance features which may notalways specifically reflect 
+those described, orwhich may undergo modification inthecourse offurther development 
+oftheproducts. The requested performance features arebinding only when they are 
+expressly agreed upon intheconcluded contract.
+Allproduct designations trademarks orproducts ofSiemens Energy Global GmbH &Co.KG 
+orother companies whose usebythird parties fortheir own purposes could violate the 
+rights oftheowners.
+Siemens Energy isatrademark licensed bySiemens AG.
+Published by
+Siemens Energy Global GmbH & Co. KG
+Siemenspromenade 9, 
+91058 Erlangen, Germany
+For more information, please visit our website:
+siemens -energy.com/omnivise -asset -management
+Visit our website

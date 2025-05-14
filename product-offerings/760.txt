@@ -1,0 +1,491 @@
+siemens-energy.comGreen Bond  
+Framework
+January 2023 
+LET’S MAKE TOMORROW DIFFERENT TODAY
+Formed in April 2020 following the spin-off of the Gas & Power  
+unit of Siemens AG, Siemens Energy AG (“Siemens Energy”, the 
+“Company”), is a global leader of the energy sector, generating 
+EUR29bn revenues in 2022. Siemens Energy provides a wide spec -
+trum of products, solutions and services across the energy value 
+chain, from power generation, transmission, and storage to opti -
+mizing energy consumption in industrial processes. With its Gas 
+Services, Grid Technologies and Transformation of Industry business 
+areas, Siemens Energy has consistently positioned its business 
+along three pillars: low- or zero-emission power generation, trans -
+port and storage of energy, and reduction of greenhouse gas emis -
+sions and energy consumption in industrial processes. 
+With the majority stake in Siemens Gamesa Renewable Energy S.A. 
+(“SGRE”, “Siemens Gamesa”), the Company also has a leading supplier of 
+onshore and offshore wind energy in-house. On May 21, 2022, Siemens 
+Energy announced a voluntary tender offer for all outstanding shares in 
+SGRE which has been authorized by Spain’s National Securities Market 
+Commission (“CNMV”) on November 7, 2022 and was successfully con-
+cluded in December 2022. 
+Following the successful completion of the transaction, Siemens Energy 
+intends to delist SGRE from the Spanish stock exchanges and fully inte -
+grate it. For Siemens Energy, this integration is an important strategic 
+step. The goal is to play a decisive role in shaping the energy transition 
+as a leading energy technology company.1 Introduction
+Siemens Energy’s structure
+Siemens Energy Green Bond Framework
+Page 2Therein indepentently 
+Managed BusinessesTransformation 
+of Industries
+CEO SGREChristian Bruch
+Executive Board
+Reporting SegmentsMaria Ferraro Karim Amin Tim HoltAnne-Laure  
+de Chammard Vinod Philip Jochen Eickholt
+CFO
+Siemens EnergyGas Services Grid Technology Transformation  
+of IndustryGlobal Functions
+Grid Technology Recondition Gas Service SGRE
+Siemens Energy Green Bond FrameworkPage 3  1.1 Sustainability at Siemens Energy
+1  Siemens Energy Sustainability Report 2022:  www.siemens-energy.com/sustainability- report-2022 . Sustainability is firmly anchored in our company strategy. It aims to become 
+the integrated energy company of the future – combining a global and local 
+approach with solutions along the complete value chain and a focus on 
+sustainability. The Sustainable Development Goals (“SDGs”) guide us in our 
+ambition to become a sustainability leader in the industry. To ensure our 
+efforts have the biggest impact we focus on five SDGs: 
+• To achieve SDG 5 “Gender Equality”, we are striving to create equal 
+opportunities, in the firm belief that not just our company, but society as 
+a whole can benefit from inclusion and diversity. 
+• By providing reliable, cost-effective, and sustainable energy for our 
+ customers, we are contributing to SDG 7 “Affordable and Clean Energy”. 
+• We cover SDG 8 “Decent Work and Economic Growth” with the inno-
+vative power of our global operations, which stimulates economic 
+ development in many countries and creates decent, future-proof jobs.
+• Meanwhile, our products, services, and solutions for decarbonizing 
+energy systems worldwide contribute to SDG 9 “Industry, Innovation, 
+and Infrastructure”. 
+• We enact SDG 13 “Climate Action” by helping our customers reduce 
+greenhouse gas emissions and by working toward a net-zero goal across 
+the value chain.
+In fiscal year 2020 and 2021, Siemens Energy conducted a materiality  ana - 
+lysis with internal and external stakeholders to help determine the most 
+relevant sustainability topics to focus on. The main priority identified via 
+these materiality exercises revolve around climate and the goal to reduce 
+the carbon footprint of Siemens Energy and their products. 1 At the core of the Sustainability Program is the goal to deliver sustainable 
+energy systems along the entire value chain. Different topics around respon -
+sible operations reflect Siemens Energy’s determination to take its ambition 
+seriously by implementing respective programs. The businesses, regional 
+entities, and central functions are responsible for implementing the Sustain -
+ability Program.
+1.1 a Decarbonizing our business 
+We have established our company strategy on three pillars:
+Low- or zero-emission power generation:
+We are continually developing new products and technologies that have 
+either zero emissions or significantly lower emissions, in both service and 
+new units. Our SGRE reporting segment plays an essential role in the transi -
+tion to zero-emission power generation.
+Transport and storage of electricity
+We are developing new products, services and solutions for the transport 
+and storage of electricity, thereby expanding our transmission and hydrogen 
+business.
+Reducing greenhouse gas (“GHG”) footprint and energy consumption in 
+industrial processes
+We are helping our process industry customers to realize sustainable 
+concepts for their brownfield facilities and for future installations.
+Siemens Energy is committed to decarbonization along the value chain – 
+from the supply chain to own operations to the use phase of products. In 
+May 2022, Siemens Energy announced the aspiration to reach net zero across the entire value chain, in line with a 1.5°C pathway. Central to this is 
+the target to become climate neutral in own operations by 2030. 
+Ambitious targets guide this ambition: 
+Targets Performance in FY22
+Reduce Scope 1 and 2 GHG emissions by 46% 
+by 2025 (previously: 2030) compared to 2019-21% (FY22 to FY21), 
+-50% (compared to baseline 2019)
+100% renewable electricity by 2023 90% (FY21: 76%)
+28% reduction of Scope 3 GHG emission from the 
+use of sold products by 2030 vs 2019t-3% (FY22 to FY21), 
+-12% (compared to baseline 2019)
+30% reduction of Scope 3 GHG emissions from  
+the supply chain by 2030, compared to 2018, 
+calculated in kg CO2e / € PVO spent-4% (FY22 to FY21)
+-10.85% (compared to baseline 2019)
+In 2021, the Science Based Targets Initiative (SBTi) validated the absolute 
+GHG reduction targets for the Gas & Power reporting segment, not only for 
+the own operations target (Scope 1 and 2), but also for the use phase of sold 
+products (a category of Scope 3). This confirms that the targets are in line 
+with the Paris Climate Agreement.
+SBTi also verified that the reporting segments SGRE’s emission reduction 
+targets (Scope 1 and 2) are aligned to meet the 1.5°C Paris Climate Agree -
+ment goal. SGRE achieved climate neutrality in its own operations in 2019, 
+including offsetting unavoidable emissions. It plans to achieve its Scope 1 
+and 2 neutrality without offsets in 2030. 
+Siemens Energy Green Bond FrameworkPage 4In accordance with a simplified approach allowed by the EU for first-time 
+application 2, for fiscal year 2022 Siemens Energy discloses the shares of 
+taxonomy-eligible economic activities in revenues, capital expenditures, 
+and operating expenses related to the environmental objectives of climate 
+change mitigation and climate change adaption. For further information 
+please refer to Siemens Energy Annual Financial Report 2022. 3
+EU Taxonomy Reporting 
+for Fiscal Year 2022 TotalTaxonomy 
+eligible %Taxonomy  
+non-eligible %
+Revenue 28.997 16.613 57% 12.385 43%
+Capital expenditures 1.573 1.239 79% 334 21%
+Operating expenses 1.309 530 40% 780 60%
+1.1 b Responsible operations 
+Beyond climate action, Siemens Energy has put in place a comprehensive 
+program to showcase our ambition as a sustainability leader in our own 
+operations. It is broken down into the following main thematic areas:
+Health and Safety
+Safe workplaces and healthy employees are our utmost priority. We have 
+clear measures in place to identify risks, avoid accidents, and promote 
+employee wellbeing.
+Conservation of resources
+Siemens Energy aims to limit the environmental impact of our own opera -
+tion by reducing waste, freshwater withdrawal and air pollution and 
+protecting biodiversity.
+2   Application of the EU Taxonomy for Companies (eu-taxonomy.info).
+3   https://assets.siemens-energy.com/siemens/assets/api/uuid:2c6beb5b-85ef-4200-a361-6a4550a31b9b/2022-12-12-siemens-energy-ag-annual-report-2022.pdf. Product stewardship
+Our approach to product stewardship includes all environmental aspects 
+with a strong focus on climate change adaptation and resource efficiency. It 
+takes into account all life cycle phases, including product development and 
+design, manufacturing, operation, service, and end of life. Measures include 
+life cycle assessments (“LCA”), environmental product declarations (“EPD”), 
+component upgrades, and lifetime extensions as well as recycling.
+Sustainable supply chain
+Due to our global operations, Siemens Energy has suppliers in about 140 
+countries. We are conscious of the impact our activities have on the people 
+who work for us, on our suppliers as well as on local communities and the 
+environment. We therefore share responsibility for protecting human rights, 
+fair labor practices, anti-corruption measures, and environmental protection 
+along the entire value chain.
+We have put in place a Code of Conduct (CoC) for Suppliers and Third-Party 
+Intermediaries, which is based on the Business Conduct Guidelines (BCG) 
+and the Principles of the UNGC (as defined below), and that all our suppliers 
+and third-party intermediaries must sign. 
+Human rights
+As a globally operating company, we are aware of the impact our business 
+has on people around the world, especially from our large-scale energy proj -
+ects. We are dedicated to responsible business conduct and are committed 
+to ensuring respect for human rights within our spheres of influence. Identi -
+fying and managing our human rights impacts and mitigating risks along 
+our entire value chain is therefore imperative.
+Compliance and integrity
+As we operate globally with customers from a wide range of industries in 
+the private and public sectors, we are confronted with complex regulatory 
+requirements coupled with increasing stakeholder expectations regarding 
+integrity and risk management. In this context, we are committed to a 
+strong culture of ethics and compliance. We pursue a zero-tolerance approach toward corruption, violations of the principles of fair competition, 
+and other breaches of the law. When such cases do occur, we take imme -
+diate action. 
+Working at Siemens Energy
+With our People and Culture strategy  as a foundation, we aim to be the 
+differentiator in the market for our customers, investors, suppliers, part -
+ners, employees, and society. 
+1. We strive to be the employer of choice in the energy industry and to 
+develop a future-ready workforce
+2. We focus on creating diverse, inclusive, and welcoming workplaces 
+where people want to work 
+3. We are investing in our strategic People Agenda, which is aligned with 
+our company strategy, values, and behaviors
+Social engagement
+The Siemens Energy societal engagement approach combines a global 
+framework with autonomy for local implementation in the countries in 
+which we operate. To focus our activities and increase our impact, we have 
+defined three focus areas based on our strategic context, our core compe -
+tencies, the global targets for sustainable development, and the influence 
+various global megatrends (demographics, urbanization, climate change, 
+globalization, and digitalization) have on our industry and our business. The 
+focus areas are:
+1. Driving the Energy Transition: Supporting clean energy R&D
+2. Access to Education: Promoting science, technology, engineering, and 
+mathematics (“STEM”) subjects and climate education – especially for 
+underrepresented demographics
+3. Sustaining Communities: Disaster recovery – especially related to elec -
+tricity supply and actively reducing poverty
+Siemens Energy Green Bond FrameworkPage 51.2 External ESG Ratings
+Our ESG rating results show that we are on track with our sustainability 
+program and in achieving our targets. Both the Gas & Power and SGRE 
+reporting segments are rated by various ESG rating agencies, such as ISS ESG, 
+Sustainalytics, MSCI ESG and CDP. The ratings support the objective assess -
+ment of our organization and identify areas for improvement. For more infor -
+mation on our ratings and rankings, please visit our  corporate website . Infor -
+mation on SGRE’s latest ESG ratings is available on their website.
+Siemens Gamesa at a glance
+SGRE was created in 2017 following the announcement of the merger of 
+Siemens’ wind power business and Gamesa the year before. 
+SGRE focuses on the design, development, manufacturing and installation 
+of products, as well as the provision of technologically advanced services in 
+the renewable energy sector, with a focus on wind turbines. With EUR 10.2 bn 
+of revenue and 118 GW installed worldwide, SGRE has become a leading 
+global wind power player. 4
+SGRE R&D Team is also exploring new market opportunities to support the 
+decarbonization of the energy value chain, and in particular the integration 
+of electrolyzer into offshore wind turbines to produce green hydrogen.
+4  For more information please refer to Siemens Energy Annual Report 2021 and Siemens Gamesa Annual Report 2021.
+5   Siemens and Gamesa to merge wind businesses to create a leading wind power player | Press | Company | Siemens .
+6   siemens-gamesa-consolidated-non-financial-statement-2022-en.pdf  (siemensgamesa.com), p. 76.Siemens Gamesa plays a key role in Siemens Energy’s transition towards 
+providing lower-carbon products and services, and in our sustainability 
+strategy overall. With the announcement in May 2022 of our bid for the 
+remaining minority stakes in Siemens Gamesa, Siemens Energy is reinforc ing 
+the commitment towards providing cleaner energy solutions for our clients 
+and thereby contributing to the achievement of the targets set out by the 
+Paris Agreement. We are convinced that a single well-diversified energy 
+company supporting our customers through the transition to a more sustain -
+able world will allow us to accelerate the development of our renewable 
+energy products and services, and therefore the acquisition of the remaining 
+shares of Siemens Gamesa constitutes a landmark event in our sustainability 
+journey. 
+With the acquisition of the remaining shares of Siemens Gamesa and the 
+full consolidation of the two entities, Siemens Energy continues the ambi -
+tious plans first set by the merger of Siemens and Gamesa announced in 
+June 2016: the merger of Siemens’ wind power business with Gamesa aimed 
+at creating a leading global wind power player with a global footprint in 
+Northern America, Northern and Southern Europe, India and Latin America 
+with a product offer covering all wind classes 5. The positive environmental 
+impact is illustrated by the growth in cumulative GW installed from GW 88.8 
+in FY 18 to GW 127.5 in FY 22. This growth is expected to accelerate with the 
+consolidation of the two entities. 6
+Furthermore, the full consolidation of the two entities will facilitate the collab -
+oration between the current SGRE and Gas & Power segments of Siemens 
+Energy for the development of innovative sustainable energy products and 
+solutions based on the expertise of both entities. In particular, Siemens 
+Gamesa and Siemens Energy partnered in 2021 for the development of indus -
+trial scale system to harvest green hydrogen from offshore wind, combining Siemens Gamesa’s long standing expertise in offshore wind and Siemens 
+Energy’s abilities to deliver best-in-class new electrolysis products adapted to 
+offshore wind conditions. Such strategic developments with clear environ -
+mental impact will be boosted following the full merging of the two entities.
+The present Green Bond Framework (the “Framework”) will allow Siemens 
+Energy to issue an inaugural Green Bond aimed at either refinancing the 
+existing debt of Siemens Energy, initially put in place in May 2022 for the 
+acquisition of the remaining shares outstanding of Siemens Gamesa or re  - 
+financing the existing debt of Siemens Gamesa, where Siemens Gamesa is 
+considered a pure player company as further described in this Framework. 1.3 Rationale for establishing a Green Bond Framework
+2 Siemens Energy Green Bond Framework
+Siemens Energy commits to providing information with transparency, accu -
+racy and integrity according to the four core components of the Green Bond 
+Principles 2021 (“GBP”) 7 as administered by ICMA:
+1.  Use of proceeds
+2. Process for project evaluation and selection
+3.  Management of proceeds
+4.  Reporting
+The Eligible Green Categoy as defined below 
+substantially contribute to UN Sustainable 
+Development Goals 7 (“Affordable and Clean 
+Energy”) and 13 (“Climate Action”) and EU 
+environmental objectives. 
+The Framework also takes into consideration the EU Taxonomy Regulation 8 
+(the “EU Taxonomy”) and the EU Taxonomy Delegated Acts on Climate 
+Change Mitigation and Adaptation 9 adopted in December 2021.
+This Framework may be updated from time to time to ensure compliance 
+with applicable law and continued alignment with voluntary market prac -
+tices (including the ICMA Principles), developing standards (including the 
+EU Green Bond Standard) and classification systems. For any material revi -
+sion of the Framework, Siemens Energy will seek to obtain a refreshed 
+Second Party Opinion (“SPO”).
+  7  ICMA Green Bond Principles 2021:  Green-Bond-Principles-June-2021-100621.pdf (icmagroup.org) .
+  8  Regulation (EU) 2020 / 852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019 / 2088.
+  9  EU Taxonomy Delegated Act on Climate Change Mitigation and Adaptation published in April 2021 and adopted in December 2021:  EUR-Lex-32021R2139-EN-EUR-Lex (europa.eu). 
+10   siemens-gamesa-consolidated-non-financial-statement-2022-en.pdf (siemensgamesa.com) .2.1 Use of Proceeds
+An amount equivalent to the net proceeds from the issuance of any Green 
+Bond under this Framework will be allocated to finance and/or refinance, in 
+whole or in part, new or existing Eligible Green Expenditures defined 
+following the below eligibility criteria. 
+Eligible Green Expenditures may include majority acquisitions of companies 
+or minority equity participations in entities that derive 90% or more of their 
+revenues from activities meeting the eligibility criteria described in the table 
+below, also called ‘pure player companies’ as well as re-financing of existing 
+debt of a pure player company.
+Eligible Green Categories – Eligibility Criteria
+Eligible categories Eligibility Criteria EU environmental objectives EU Taxonomy mapping
+Renewable energyExpenditures related to the design, development, 
+manufacturing and installation of onshore and 
+offshore wind turbines 
+Climate change mitigation3.1 Manufacture of renewable energy 
+ technologies
+Expenditures related to the operation and mainte -
+nance of onshore and offshore wind farms 7.6 Installation, maintenance and repair of 
+renewable energy technologiesSiemens Gamesa reports 10 over ninety-nine percent (99.28%) of its reve -
+nues in fiscal year 2022 as EU-Taxonomy eligible. Of this, 76.9% corresponds 
+to the wind turbine manufacturing activity (3.1 Manufacture of renewable 
+energy technologies), and 22.4% to the Service activity (7.6 Installation, 
+maintenance, and repair of renewable energy technologies). Only 0.7% of 
+total revenue, which corresponds to the sale of gearboxes and electric cabi -
+nets to third parties in different sectors, is reported as non-eligible.
+Siemens Energy Green Bond Framework
+Page 6
+Siemens Energy Green Bond FrameworkPage 72.2 Process for Project Evaluation and Selection
+11   https://press.siemens-energy.com/global/en/pressrelease/siemens-energy-ag-announces-voluntary-cash-tender-offer-all-outstanding-shares-siemensLow and zero emissions power generation is one of the three strategic 
+pillars of Siemens Energy, with SGRE already playing an essential role in 
+driving Siemens Energy’s offering in this area. With the full integration of 
+SGRE, Siemens Energy aims to further strengthen its ESG capabilities and 
+be best positioned to support their customers in the energy transition. The 
+integration will allow Siemens Energy to provide a one-stop-shop approach 
+to customers across all energy products and solutions and consolidate the 
+company’s leadership in wind power generation solutions. 11 Thanks to its 
+current 67% stake in SGRE, Siemens Energy believes it has an appropriate 
+overview of SGRE’s activity and product offering to assess the potential 
+positive environmental benefits of this operation and to ensure SGRE quali -
+fies as a pure player company as defined in section 2.1 of this Framework.a   ESG Risk Management
+Siemens Energy systematically monitors business risks. Within the Enter -
+prise Risk Management (“ERM”) process, the Executive Board is informed 
+quarterly and aligns on the reporting of all significant risks and opportuni -
+ties throughout the Company, including climate issues. 
+As a company with a strong focus on sustainability, it is essential that we 
+integrate the consideration of ESG criteria in our decisions. We have done so 
+by developing a criteria catalog and scoring methodology to evaluate the 
+ESG impacts of current and potential portfolio elements, considering both 
+risks and opportunities.
+Furthermore, we have developed a list of ESG-related questions to be used 
+when analyzing our merger and acquisition activities.
+Siemens Energy’s priority is to manage all acquisitions in an environmen -
+tally and socially responsible manner.-
+The Siemens Energy ESG due diligence process, that may also be applied to 
+M&As, is based on a set of ESG criteria related to laws and regulations, 
+working standards (e. g. respect of human and labor rights, health & safety 
+management, job creation, diversity & inclusion, employee engagement  
+& development), environmental considerations (e. g. climate change mitiga -
+tion, biodiversity conservation, natural resources protection, pollution 
+prevention and control), social considerations (e. g. cultural heritage, local 
+development, land acquisition and resettlement, dialogue with communities) 
+and governance considerations (e. g. ESG policies and programs, business 
+ethics, cyber security, data protection, interests of stakeholders, responsible 
+procurement). Our criteria are aligned with EU Taxonomy criteria.As a globally operating company, we are aware of the impact our business 
+has on people around the world, especially from our large-scale energy 
+projects. We are dedicated to responsible business conduct and are 
+committed to ensuring respect for human rights within our spheres of 
+influence. Identifying and managing our human rights impacts and miti -
+gating risks along our entire value chain is therefore imperative. Our 
+actions go beyond compliance with applicable laws and regulations; they 
+include our commitment to:
+• International Bill of Human Rights
+• European Convention on Human Rights 
+• ILO (International Labour Organization) Tripartite Declaration of 
+Principles concerning Multinational Enterprises and Social Policy 
+• ILO Declaration on Fundamental Principles and Rights at Work  
+(in particular on the following topics: elimination of child labor,  
+abolition of forced labor, prohibition of discrimination, freedom of 
+ association and the right to collective bargaining, and fundamental 
+ freedoms) 
+• UN Sustainable Development Goals specifically SDG 8 “Decent Work 
+and Economic Growth”, which we have defined as one of our priority 
+SDGs 
+• United Nations Guiding Principles on Business and Human Rights 
+(“UNGPs”) 
+• OECD Guidelines for Multinational Enterprises 
+• United Nations Global Compact Principles,  to which we are a 
+ signatory (“UNGC”) 
+Siemens Energy’s high ESG standards apply to all our subsidiaries, including 
+Siemens Gamesa, who is equipped with a comprehensive set of corporate 
+ESG policies including a Sustainability Policy, Diversity & Inclusion Policy, 
+Siemens Energy Green Bond FrameworkPage 8Health and Safety policy, Human Rights policy, Social commitment policy, 
+Supplier relationship policy and a Supplier Code of Conduct 12. 
+With the full integration of SGRE within Siemens Energy, the respective ESG 
+risk policies and procedures will be consolidated aiming for the highest 
+possible standards. 
+b   Green Bond Committee
+Siemens Energy has established a dedicated internal Green Bond Committee 
+(the “Committee”) chaired by the Head of Treasury and Corporate Finance 
+and formed of representatives from the following teams: Treasury and 
+Corporate Finance, Accounting and Controlling, Sustainability, Investor 
+Relations.
+The Committee will be responsible for validating the amount to be funded 
+via Green Bonds, identifying Eligible Green Expenditures and overseeing 
+and verifying the annual reporting on allocation and impact of the net 
+proceeds raised through the Green Bond(s). The Committee will also 
+monitor the ongoing evolution of the Green Bond Principles and the Green 
+Bond market in general, particularly in relation to disclosure and reporting, 
+to ensure that Siemens Energy remains in line with best market practices.
+The Committee will meet at least once and on an annual basis until full allo -
+cation, or more frequently if required, to review proposed allocation and 
+impact reporting and ensure that these are in alignment with the Frame -
+work. 
+12  For more information please refer to Siemens Gamesa 2022 Consolidated Non Financial Statement 2022:  siemens-gamesa-consolidated-non-financial-statement-2022-en.pdf (siemensgamesa.com) 
+13   https://www.icmagroup.org/assets/documents/Sustainable-finance/2021-updates/Handbook-Harmonised-Framework-for-Impact-Reporting-June-2021-100621.pdf 2.3 Management of Proceeds
+An amount equivalent to the net proceeds of the Green Bonds raised under 
+this Framework will be deposited in Siemens Energy’s general account and 
+will be earmarked for allocation to the portfolio of Eligible Green Expendi -
+tures that will be managed and overseen by the Treasury and Corporate 
+Finance team. 
+The Treasury and Corporate Finance will ensure, on a best efforts basis that 
+the portfolio of Eligible Green Expenditures exceeds, or at least is equal to, 
+the net proceeds of Green Bonds raised under this Framework.
+Siemens Energy commits on a best effort basis to reach full allocation within 
+24 months following each issuance of a Green Bond. 
+Pending full allocation, the net proceeds will be invested on a temporary 
+basis, in accordance with relevant internal treasury policies, in cash, cash 
+equivalents or similar instruments.
+In the case of an Eligible Green Expenditure disposal or if an Eligible Green 
+Expenditure no longer meets the eligibility criteria or is subject to a major 
+ESG controversy, the proceeds will be reallocated to another Eligible Green 
+Expenditure held by Siemens Energy, as soon as reasonably practicable.2.4 Reporting
+Within one year from the first issuance date and until an amount equivalent 
+of the net proceeds has been allocated in full to Eligible Green Expenditures, 
+and later in case of any material change, Siemens Energy will publish annu -
+ally (i) an Allocation Report and (ii) an Impact Report, the latter subject to 
+the availability of suitable information and data. 
+The reports will be publicly available on the Siemens Energy website:
+ https://www.siemens-energy.com/global/en/company/investor-relations/  
+publications-ad-hoc.html#QuarterlyandAnnualResults
+Wherever possible, Siemens Energy intends to align its reporting with the 
+approach described in the “Handbook – Harmonised Framework for Impact 
+Reporting” (June 2021) 13.
+Allocation Report
+With the aim of providing disclosure on the allocation of net proceeds, the 
+Allocation Report will include: 
+• Overview of the Green Bond(s) outstanding 
+• The share of refinancing vs new financing
+• The balance of unallocated proceeds invested in cash and/or cash equiv -
+alents, if any
+Siemens Energy Green Bond FrameworkPage 9Impact Report
+The Impact Report will provide information on the associated environmental 
+outcomes of the Green Bond(s), subject to the availability of suitable infor -
+mation and data. 
+The impact report may include qualitative and / or quantitative evaluation of 
+the environmental benefits, based on Siemens Energy’s sustainability ambi -
+tion for the new fully consolidated entity. 
+Currently, Siemens Energy’s economic interest in Siemens Gamesa is diluted 
+by minority shareholders. By using proceeds to reduce this dilution, the 
+owners of Siemens Energy will be able to immediately invest more net 
+economic resources into Wind Power.
+Along these lines, impact indicators may include:
+• Installed Wind Power capacity, net to Siemens Energy (GW)
+• R&D related to Wind Power, net to Siemens Energy (million Euros)
+• CAPEX invested in Wind Power, net to Siemens Energy (million Euros)2.5 External Review
+Second Party Opinion (SPO)
+Sustainalytics has been appointed to review Siemens Energy’ Framework 
+and ultimately verify its alignment with the ICMA Green Bond Principles 
+2021 and market practices. The SPO can be found here: 
+ https://www.siemens-energy.com/global/en/company/investor-relations/
+publications-ad-hoc.html#QuarterlyandAnnualResult 
+Post-issuance external review 
+An external auditor will be appointed to provide a Limited Assurance of each 
+Allocation Report published with regard to use of net proceeds having been 
+allocated in accordance with the Framework.Disclaimer
+The statements contained herein represent Siemens Energy AG’s current 
+view and may be revised in the future. The expressed views are inten -
+tions and actual decision or events may differ materially from those 
+expressed or implied in such statements. Siemens Energy AG does not 
+assume any liability for the accuracy, completeness and compliance 
+with the statements. Siemens Energy AG offers no assurance that its 
+intentions or targets will be achieved and does not assume any obliga -
+tion to update any views or statements to account for new information 
+or future events. None of the statements contained herein constitute 
+any offer or recommendation or solicitation of any offer of certain 
+investments or any securities, even if individual issuers or securities are 
+mentioned. Information given in this document should not be treated as 
+substitute for specific investment advice and prior to any investment, 
+prospective investors should consult with their professional advisors 
+(including financial, accounting, legal and tax advisors).
+This document is not intended for distribution to, or use by, any person 
+or entity in any jurisdiction or country where such distribution or use 
+would be contrary to law or regulation. Persons who might come into 
+possession of this document must inform themselves about and comply 
+with any applicable legal or regulatory restrictions. 
+Published by
+Siemens Energy AG  
+Otto-Hahn-Ring 6  
+81739 Munich  
+Germany
+Treasury & Corporate Finance: group-funding.se@siemens-energy.com   
+Sustainability: sustainability@siemens-energy.com  
+Media Relations: press@siemens-energy.com  
+Investor Relations: investorrelations@siemens-energy.com
+siemens-energy.com/sustainability
+© Siemens Energy, 2023
+Siemens Energy is a trademark licensed by Siemens AG. siemens-energy.com
+ twitter.com/siemens_energy
+ linkedin.com/siemens-energy

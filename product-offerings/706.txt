@@ -1,0 +1,424 @@
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Manual de Negoci-
+ación  de contratos 
+con proveedores  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 TABLA DE CONTENIDO  
+ 
+1. DESCRIPCIÓN GENERAL DE LA NEGOCIACIÓN CON PROVEEDORES  ................................ ................................ ..... 3 
+1.1. Introducción  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2. Registrarse en ARIBA  ................................ ................................ ................................ ................................ ..................  3 
+1.3. Invitación a la negociación  ................................ ................................ ................................ ................................ .........  3 
+2. NAVEGACIÓN A TRAVÉS DE SAP ARIBA  ................................ ................................ ................................ ..........................  4 
+2.1. Iniciar sesión en ARIBA  ................................ ................................ ................................ ................................ ...............  4 
+2.2. Descripción general del panel de instrucciones  ................................ ................................ ................................ ... 5 
+2.3. Perfil y configuración de usuario  ................................ ................................ ................................ .............................  7 
+3. PROCESO DE NEGOCIACIÓN  ................................ ................................ ................................ ................................ ..............  9 
+3.1 Iniciar la tarea de negociación  ................................ ................................ ................................ ................................ .. 9 
+3.2 Descripción general de la tarea de negociación  ................................ ................................ ................................  10 
+3.3 Aceptar la propuesta  ................................ ................................ ................................ ................................ ................  12 
+3.4 Pregunta aclaratoria  ................................ ................................ ................................ ................................ .................  12 
+3.5 Crear una contrapropuesta  ................................ ................................ ................................ ................................ ..... 13 
+3.6 Contrapropuesta aceptada  ................................ ................................ ................................ ................................ ..... 15 
+3.7 Nueva ronda de negociación  ................................ ................................ ................................ ................................ ... 15 
+4. AÑADIR NUEVOS CONTACTOS  ................................ ................................ ................................ ................................ ........  16 
+4.1. Añadir un nuevo contacto por parte de Siemens Energy  ................................ ................................ ................  16 
+4.2. Añadir un nuevo contacto por parte del contacto principal del proveedor  ................................ ...............  21 
+4.3. Credenciales de inicio de sesión para segundos contactos mediante correo electrónico  ......................  22 
+5. MÁS INFORMACIÓN EN EL SITIO WEB COCKPIT DEL PROVEEDOR  ................................ ................................ ....... 24 
+ 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. DESCRIPCIÓN GENERAL DE LA NEGOCIACIÓN CON PROVEEDORES  
+1.1. Introducción  
+En este manual encontrará una descripción general de cómo debe negociar un contrato mediante ARIBA y 
+con Siemens Energy , además de cómo debe añadir un contacto de proveedor adicional a su perfil de 
+proveedor de ARIBA .  
+ 
+ 
+1.2. Registrarse en ARIBA  
+Antes de que pueda negociar un contrato con Siemens Energy mediante ARIBA, debe estar registrado como 
+proveedor en ARIBA . Si no es el caso, diríjase  AQUÍ , en el sitio web del proveedor para obtener más infor-
+mación . 
+ 
+1.3. Invitación a la negociación  
+Cuando Siemens Energy quiera negociar un contrato  con usted a través de ARIBA, usted recibirá un correo 
+electrónico, similar al que se muestra a continuación, que incluirá «Negociar Contrato» (“Negotiate Con-
+tract”)  (1) en el título y que contendrá una «Descripción de la Tarea» (“Task Description”) (2) y que puede con-
+tener «Notas» (“Notes”) (3) relativas al p roceso de negociación . 
+ 
+  
+1 
+2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVEGACIÓN A TRAVÉS DE SAP ARIBA  
+2.1. Iniciar sesión en ARIBA  
+Existen dos maneras de iniciar sesión  en su perfil de ARIBA : 
+Puede iniciar sesión a través del sitio web de proveedores de ARIBA , accesible desde service.ariba.com . En 
+caso de que haya olvidado su nombre de usuario o contraseña , utilice la opción «Olvidé mi nombre de usuario 
+o contraseña» (“Forgot Username or Password”)  (1).  
+ 
+ 
+ 
+  
+1 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 O haga clic directamente  en el enlace provisto (1) en su  correo recibido , donde será dirigido a la máscara de 
+inicio de sesión del sitio web del proveedor de ARIBA . Después de iniciar sesión correctamente, será dirigido a 
+la negociación . 
+ 
+ 
+2.2. Descripción general del panel de instrucciones  
+Cuando haya iniciado sesión en ARIBA, asegúrese de que se encuentra en la pestaña correcta «Gesti ón de 
+contratos de Ariba» (“Ariba Contract Management”)  (2). Si, en la esquina superior izquierda (1), no ve 
+«Gestión de contratos de Ariba» (“Ariba Contract Management”), sino que ve «Propuestas y Cuestionarios de 
+Ariba» (“Ariba Proposals and Questionnaires”) o «Descubrir Ariba» (“Ariba Discovery”), haga clic en ella y, en la 
+lista desplegable, podrá seleccionar «Gestión de contratos de Ariba» (“Ariba Contract Management”)  (2). Ahora 
+cuenta con una descripción general de todas sus tareas relaci onadas con los contratos .  
+ 
+  
+1 
+1 
+2 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 El panel de instrucciones le ofrecerá una descripción general de todas sus tareas relacionadas con los con-
+tratos . Esta descripción general de la tarea mostrará el «Nombre» (“Name”) (1), el «Estado» (“Status”) (2), la 
+«Fecha límite» (“Due Date”) (3) y la «Fecha de finalización» (“Completion Date”) (4) de dicha tarea . En caso de 
+que haya notificaciones especiales, las podrá encontrar en «Alertas» (“Alerts”) (5). 
+ 
+ 
+ 
+  
+1 2 3 4 5 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3. Perfil y configuración de usuario  
+Puede cambiar su configuración básica  en ARIBA haciendo clic en el icono de su perfil (1), seguido de «Mi 
+cuenta» (“My Account”) (2). Aquí, se muestra y se puede editar toda la información de su cuenta (3) y de sus 
+contactos (4), incluida la configuración de idioma (5).  
+ 
+ 
+ 
+ 
+  
+2 1 
+3 
+5 
+4 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 Si hace clic en el icono de su perfil (1), puede hacer clic en la sección «Configuración» (“Settings”) (2) y, luego, en 
+«Usuarios» (“Users”) (3) para cambiar la configuración de su cuenta, como el rol (4) y la configuración de 
+usuario  (5). 
+ 
+ 
+ 
+ 
+ 
+1 
+3
+ 
+ 2 
+4 2 
+5 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 3. PROCESO DE NEGOCIACIÓN  
+3.1 Iniciar la tarea de negociación  
+Puede abrir la tarea de negociación  a través de la descripción general de la tarea, haciendo clic en «Negociar 
+Contrato» (“Negotiate Contract”) (1). 
+ 
+ 
+ 
+Como alternativa, puede hacer clic en el enlace que aparece en el correo electrónico (1) e iniciar sesión con 
+sus credenciales. A partir de ahí, será dirigido a la tarea «Negociar Contrato» (“Negotiate Contract”) .    
+ 
+  
+1 
+1 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3.2 Descripción general de la tarea de negociación  
+En la  parte superior izquierda de la descripción general de la tarea , puede ver el documento que está 
+negociando en ese momento  (1). Puede abrir el documento haciendo clic en él (2) y, después, en «Descargar» 
+(“Download”)  (3). El documento se descarga automáticamente y puede abrirlo para ver su contenido .  
+ 
+ 
+Si se desplaza hacia abajo, puede ver las pestañas «Propiedades» (“Properties”) (1) e «Historial de Tareas» (“Task 
+History”) (2). En «Propiedades» (“Properties”), se muestran resumidos (3) los detalles principales del contrato  
+y puede ver las rondas previa s de la negociación que se muestra debajo . 
+ 
+  
+1 
+2 
+3 
+1 2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 La pestaña «Historial de Tareas» (“Task History”)  le ofrece una descripción general de todas las tareas ac-
+tuales y previas  (1). 
+ 
+ 
+A continuación, hay dos posibles pasos a seguir : «Aceptar la Propuesta» (“Accept proposal”) (1) o «Crear una 
+Contrapropuesta» (“Create Counter Proposal”) (2). 
+ 
+  
+1 
+1 
+2 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3 Aceptar la propuesta  
+En caso de que esté de acuerdo con el contrato, haga clic en «Aceptar la Propuesta» (“Accept Proposa l”) 
+y, después, en «OK» (“OK”)  (1) para informar al comprador de que está de acuerdo con las condiciones del 
+contrato y de que tiene intención de firmarlo . Una vez que haya «Aceptado la Propuesta» (“Accepted Proposal”), 
+no necesitará realizar ninguna otra acción hasta que reciba otro correo electrónico, en el que se le invitará a 
+firmar el contrato . 
+ 
+ 
+3.4 Pregunta aclaratoria  
+En caso de que tenga preguntas relacionadas con el contrato que deban ser aclaradas , pero no desee aceptar 
+directamente el contrato o crear una contrapropuesta, puede enviar una pregunta directamente al compra-
+dor. 
+Para ello, haga clic en la pestaña «Historial de Tareas» (“Task History”) (1). Aquí puede ver todos los mensajes 
+previos del proceso de negociación . Puede hacer clic en el nombre del comprador que se muestra arriba del 
+mensaje al que quiere responder (2) y hacer clic en «Responder» (“Reply”)  (3). 
+ 
+1 
+1 
+2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 Se abre una nueva máscara desde donde puede enviar un mensaje al comprador con, por ejemplo, una 
+pregunta relacionada con un aspecto concreto del contrato . El proveedor recibirá su mensaje directamente 
+a través de un correo electrónico y le responderá . Igualmente, se le informará sobre ello a través del correo 
+electrónico . 
+ 
+ 
+3.5 Crear una contrapropuesta  
+Si usted no está de acuerdo con el documento, haga clic en «Crear una Contrapropuesta» (“Create Counter 
+Proposal”)  (1). Al hacer clic en el botón «Crear una Contrapropuesta» (“Create Counter Proposal”), indica que 
+desea responder a la tarea con cambios o preguntas sobre uno o más documentos .  
+ 
+  
+1 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 Se abre un nuevo formulario desde donde puede enviar un mensaje a Siemens Energy  para indicar los cambios 
+que desea realizar y, también, para subir un documento adaptado . Para ello, tiene dos opciones : Puede realizar 
+cambios en el documento que ha descargado previamente y subirlo o puede descargar el documento haciendo 
+clic en el icono «Word» (“Word”) (1), que se encuentra junto al título del documento, descargarlo y realizar los 
+cambios directamente en Word . Cuando haya realizado los cambios deseados, guarde el documento y súbalo. 
+Para ello, haga clic en «Elegir Archivo»  (“Choose File”) (2) y seleccione el archivo que desee subir . 
+ 
+En caso de que desee ajustar los usuarios que pueden ver el contenido de este contrato, puede usar la opción 
+«Control de Acceso» (“Access Control”) (1). Para obtener más información sobre esta función, haga clic en el 
+icono «I» (“I”) (2). Seleccione el men ú desplegable para elegir las diferentes restricciones . Este campo no es 
+obligatorio, así que ajústelo solo cuando sea necesario . 
+En caso necesario, también puede añadir archivos adjuntos a través de «Adjuntar archivo» (“Add attachment”) 
+(3). No suba el co ntrato revisado aquí, suba únicamente archivos adjuntos . 
+Por último, haga clic en «OK» (“OK”) (4) para finalizar su contrapropuesta . Al crear una contrapropuesta, 
+enviará los documentos modificados al propietario de la tarea para que los valore . 
+Tenga en c uenta que, tras hacer clic en «OK» (“OK”), la contrapropuesta será automáticamente enviada a 
+Siemens Energy y ya no podrá hacer ningún otro ajuste o editar su contrapropuesta . 
+ 
+1 2 
+1 2 
+3 
+4 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.6 Contrapropuesta aceptada  
+Si su contrapropuesta es aceptada, usted recibirá un correo electrónico en el que se indicará que la negoci-
+ación ha finalizado . No necesitará realizar ninguna otra acción hasta que reciba otro correo electrónico, en el 
+que se le invitará a firmar el contra to. 
+ 
+ 
+3.7 Nueva ronda de negociación  
+Si la contrapropuesta no es aceptada, se le informará a través del correo electrónico  y podrá repetir los 
+pasos previos  hasta que usted y el comprador lleguen a un acuerdo . Una vez que hayan llegado a un acuerdo, 
+no necesitará realizar ninguna otra acción hasta que reciba otro correo electrónico, en el que se le invitará a 
+firmar el contrato . 
+ 
+ 
+
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 4. AÑADIR NUEVOS CONTACTOS  
+En caso de que usted o un colega deban, adicionalmente, ser añadidos como contactos al perfil de 
+proveedores de ARIBA , puede solicitar a Siemens Energy o al contacto principal del perfil de proveedores de 
+ARIBA que añada un contacto .  
+4.1. Añadir un nuevo conta cto por parte de Siemens  Energy  
+Si Siemens Energy le añade como contacto, por ejemplo, para negociar un contrato, usted recibirá un cor-
+reo electrónico para registrarse en ARIBA . Este correo electrónico indicará en el título que se le ha habilitado 
+para com pletar el «Cuestionario de registro para proveedores» (“Supplier Registration Questionnaire”)  (1). 
+Haga clic en el enlace (2) para ser dirigido a la página de inicio de sesión y haga clic en «Registrarse» (“Sign up”) 
+(3), rellene la información para la cre ación de la cuenta (4) y haga clic en «Crear cuenta y continuar» (“Create 
+account and continue”) (5). 
+ 
+ 
+1 
+2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17  
+Una vez que haya creado su cuenta personal, se le dirigirá al cuestionario específico de registro para 
+proveedores . Puesto que este ya fue rellenado por el contacto principal, NO MODIFIQUE ninguna información 
+y haga clic directamente en «Volver al panel de instrucciones de Siemens Energy» (“Go back Siemens En-
+ergy Dashboard”)  (1), que encontrará en la esquina superior izquierda .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+5 
+1 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 A continuación, en la esquina superior izquierda, haga clic en «Propuestas y cuestionarios de Ariba» (“Ariba Pro-
+posal and Questionaries”) (1) y seleccione «Contratos de Ariba» (“Ariba Contracts”) (2). Ahora verá una descrip-
+ción general de las tareas relaci onadas con el contrato , como el proceso de negociación (3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 Para completar el proceso, el contacto principal de la cuenta de su proveedor debe aprobar el nuevo con-
+tacto . Para ello, el contacto principal recibe un correo electrónico en el que se indica que una nueva cuenta de 
+usurario requiere aprobación (1). Al hacer clic en el enlace (2), el contacto principal es dirigido a la página de 
+inicio de sesión . Tras iniciar sesi ón (3), el contacto principal debe hacer clic en la pestaña «Gestionar usuarios no 
+aprobados» (“Manage Unapproved Users”) (4) y seleccionar al usuario pertinente (5). Al hacer clic en «Aprobar» 
+(“Approve”) (6) se completa el proceso para añadir al contacto . 
+ 
+ 
+ 
+1 
+2 
+3 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4 
+5 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 4.2. Añadir un nuevo contacto por parte del contacto principal del 
+proveedor  
+Como contacto principal del proveedor, usted también puede añadir un nuevo contacto . Para ello, haga clic 
+en sus iniciales, en la esquina superior derecha (1), seleccione «Configuración» (“Settings”) (2) y, después, «Usu-
+arios» (“Users”)  (3). 
+Seleccione «Gestionar usuarios» (“Manage Users”) (4) y añada al usuario haciendo clic en el icono «+» (“+”) .  
+Rellene toda la i nformación pertinente (6) y asigne un rol al usuario . Una vez que haya hecho clic en «Hecho» 
+(“Done”) (7), el usuario recibirá 2 correos electrónicos . 
+ 
+ 
+1 
+3 
+2 
+4 
+5 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22  
+ 
+ 
+4.3. Credenciales de inicio de sesión para segundos contactos 
+mediante correo electrónico  
+El nuevo contacto recibirá un correo electrónico con un nombre de usuario  (1) y otro correo electrónico 
+con una contraseña temporal  (2), además del enlace para dirigirle a la página de inicio de sesión . Al uti lizar el 
+nombre de usuario y la contraseña temporal, el proceso se habrá completado y el nuevo contacto puede realizar 
+las tareas relacionadas con el contrato . 
+ 
+6 7 
+1 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 23   
+2 
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 24 5. MÁS INFORMACIÓN EN EL SITIO WEB COCKPIT DEL PROVEEDOR  
+En caso de que tenga alguna pregunta, póngase en contacto con el sitio web cockpit del proveedor de 
+Siemens Energy , donde también obtendrá información sobre las posibilidades de soporte . Puede acceder a la 
+página haciendo clic en este enlace .  
+  
+  
+
+Manual de Negociación de contratos con proveedores  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 M unich   
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+November  2022   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

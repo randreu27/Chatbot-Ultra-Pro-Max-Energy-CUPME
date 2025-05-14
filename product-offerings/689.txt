@@ -1,0 +1,441 @@
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Lieferanten  Manual   
+Sealed Bid  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 Inhaltsverzeichnis  
+ 
+1. ÜBERBLICK SEALED BID  ................................ ................................ ................................ ................................ .......................  3 
+1.1. Einleitung  ................................ ................................ ................................ ................................ ................................ ....... 3 
+1.2. Einladung zu einer eAuction  ................................ ................................ ................................ ................................ ..... 3 
+2. NAVIGATION DURCH S AP ARIBA  ................................ ................................ ................................ ................................ ....... 4 
+2.1. ARIBA Login  ................................ ................................ ................................ ................................ ................................ ... 4 
+2.2. Dashboard Überblick  ................................ ................................ ................................ ................................ ...................  5 
+2.3. Profil & Grundeinstellungen  ................................ ................................ ................................ ................................ ..... 7 
+2.4. Fehlermeldungen  ................................ ................................ ................................ ................................ .........................  9 
+3. AUKTIONSPROZESS  ................................ ................................ ................................ ................................ ............................  10 
+3.1. Teilnahme an einer Auktion  ................................ ................................ ................................ ................................ .... 10 
+3.2. Nutzungsbedingungen  ................................ ................................ ................................ ................................ .............  11 
+3.3. Checkliste  ................................ ................................ ................................ ................................ ................................ ..... 12 
+3.3.1.  Event Details  ................................ ................................ ................................ ................................ ......................  12 
+3.3.2.  Nutzungsbedingungen einsehen und akzeptieren  ................................ ................................ ..................  13 
+3.3.3.  Einzelposten auswählen  ................................ ................................ ................................ ................................ . 13 
+3.4. Einreichungsphase  ................................ ................................ ................................ ................................ .....................  14 
+3.4.1.  Einreichen eines Gebots  ................................ ................................ ................................ ................................ .. 14 
+3.4.2.  Bieten  ................................ ................................ ................................ ................................ ................................ .. 15 
+3.4.3.  Vollständiges Gebot einreichen  ................................ ................................ ................................ ....................  16 
+3.4.4.  Gebot ü berarbeiten  ................................ ................................ ................................ ................................ .........  17 
+3.5. Vergabephase  ................................ ................................ ................................ ................................ .............................  18 
+3.5.1.  Ausstehende Auswahl  ................................ ................................ ................................ ................................ ..... 18 
+3.5.2.  Benachrichtigung zur ausstehenden Auswahl  ................................ ................................ ..........................  18 
+3.5.3.  Status “abgeschlossen”  ................................ ................................ ................................ ................................ ... 19 
+3.5.4.  Benachrichtigung  ................................ ................................ ................................ ................................ ..............  19 
+3.5.5.  Zusammenfasung des Angebots  ................................ ................................ ................................ ..................  20 
+4. WEITERE INFOR MATIONEN – LIEFERANTEN WEBSITE  ................................ ................................ ..............................  21 
+ 
+ 
+ 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. ÜBERBLICK SEALED BID   
+1.1. Einleitung  
+In diesem Handbuch erhalten Sie einen Überblick darüber, wie Sie an einer Sealed Bid Auktion in ARIBA 
+teilnehmen , was Sie beim Ausfüllen des Formulars  beachten müssen und wie Sie den Prozess in ARIBA 
+überwachen  können .
+ 
+ 
+1.2. Einladung  zu einer eAuction  
+Sobald Sie als Teilnehmer für eine Sealed Bid Auktion ausgewählt wurden, werden Sie automatisch per E -
+Mail über d as Event , d.h. diese Auktion, informiert .
+ 
+
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGATION  DURCH  SAP ARIBA  
+2.1. ARIBA Login  
+Sie haben zwei Möglichkeiten, sich bei Ihrem ARIBA -Profil anzumelden : 
+Sie können sich über die ARIBA -Lieferanten -Website  anmelden, die Sie unter service.ariba.co m erreichen. 
+Sollten Sie Ihren Benutzernamen und/oder Ihr Passwort vergessen  haben, nutzen Sie bitte die Option 
+"Benutzername/Passwort vergessen"  (forgotten Username/password)  (1). 
+ 
+ 
+Klicken Sie dann auf den Reiter  "Angebote & Fragebögen“ ( Proposals & Questionnaires ) (1) in der Dropdown -
+Liste oben auf der Seite.  
+ 
+ 
+ 
+1 
+1 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 Oder Sie klicken direkt auf den bereitgestellten Link (1) in Ihrer Einladungsm ail, welcher  Sie zur ARIBA  
+Login -Maske  weitergeleitet. Nach erfolgreichem Login gelangen Sie direkt zur Anfrage.  
+ 
+ 
+2.2. Dashboard  Überblick  
+Bevor wir uns mit dem Auktionsformular vertraut machen , geben wir Ihnen einen Überblick über das 
+Dashboard in Ihrem ARIBA -Profil . Hier sehen Sie alle Events , zum Beispiel eAuctions, zu denen Sie 
+eingeladen wurden, mit dem jeweiligen Status:  
+Abgeschlossen “ (Completed) (1),  “Offen “ (Open) (2), “Ausstehende Auswahl “ (Pending selection) (3) und  
+“Vorschau“ ( Preview ) (4). 
+ 
+ 
+ 
+ 
+1 
+1 
+4 
+3 
+2 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6  
+In der Spalte " Event Art“ (Event Type)  (1) sehen Sie die jeweiligen Details, zum Beispiel ob es sich um eine 
+Auktion handelt oder nicht.  Direkt neben dieser Spalte ist d en “Endzeit punkt “ (End Time)  (2) jeder 
+einzelnen Auktion aufgeführt.  
+Bitte beachten Sie , dass die  Startzeit  im eAgreement angegeben und definiert ist. In der Spalte 
+"Teilgenommen“ (Participated)  (3) sehen Sie auf den ersten Blick, ob Sie an einem Event , z.B. RfP oder 
+Auktion, teilgen ommen haben oder nicht.  
+Falls Sie Ihr Dashboard personalisieren  möchten, können Sie dies tun, indem Sie auf das entsprechende 
+Symbol am oberen Rand der Tabelle klicken (4).  
+ 
+ 
+Am Ende der Seite finden Sie auch andere Kategorien , z. B: “Registrierungs fragebögen “ (Registration 
+Questionnaires) (1) , “Qualifizierungs frageb ögen“ (Qualification Questionnaires) (2),  “ Fragebögen “ 
+(Questionnaires ) (3),  “Zertifikate “ (Certificates)  (4) und Ka tegorien innerhalb der Prozesse des 
+Lieferantenleebnszyklus (Supplier Lifecycle Processes)  (5). 
+ 
+ 
+1 2 3 
+5 4 3 1 
+2 4 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7  
+2.3. Profil & Grundeinstellungen  
+Sie können Ihre Grundeinstellungen in ARIBA ändern,  indem Sie auf Ihr Profilsymbol  (1) und dann auf “Mein 
+Accoun t“ (My Account)  (2) klicken .  
+ 
+ 
+Hier können Sie alle  Ihre Konto - (1) und Kontaktinformationen  (2) sowie Ihre Spracheinstellungen  (3) 
+bearbeiten.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+1 
+2 3 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8  
+Wenn Sie auf " Einstellungen“ (Settings)  (2) unter Ihrem Profilsymbol (1) klicken, können Sie  unter  dem Reiter  
+"Nutzer“ (Users)  (2) auch die Rollen - (4) und Benutzereinstellungen (5) ändern .    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+3 
+2 
+4 
+5 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 2.4. Fehlermeldungen  
+Möglicherweise erhalten Sie beim Ausfüllen des Formulars Fehlermeldungen  (1), die oben auf der Seite 
+angezeigt werden.   
+Bitte lesen Sie diese aufmerksam , denn ARIBA teilt Ihnen genau mit, welche Informationen fehlen oder 
+falsch eingegeben wurden . Bitte gehen Sie zu der  angegebenen  Stelle und ändern Sie die Felder  
+entsprechend. Die Fehlermeldungen sollten verschwinden, wenn das Formular  und damit alle Angaben zu m 
+Event korrekt ausgefüllt  sind . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3. AUKTIONS PROZESS  
+3.1. Teilnahme an einer Auktion  
+Kehren wir zu Ihrer Einladung zu r Seal ed Bit zurück. Wenn Sie auf die entsprechende Schaltfläche in der E -Mail 
+oder auf Ihre offene Auktion im Dashboard (1) klicken, werden Sie zum Antwortformular des  Events  in 
+ARIBA weitergeleitet.  
+ 
+ 
+Hier sehen Sie alle Eventdetails de s Sealed Bi d (1). Wenn die Auktion bereits geöffnet ist, können  Sie die 
+verbleibende Zeit  (2) bis zur Beendigung der Auktion  sehen .   
+Bevor Sie eine Antwort abgeben oder Daten im Formular ändern können, müssen Sie die 
+Geschäftsbedingungen lesen und akzeptieren . Klicke n Sie dazu bitte auf die entsprechende blaue 
+Schaltfläche " Vereinbarungen  überprüfen “ (Review Prerequisites)  (3). 
+ 
+1 
+1 2 
+3 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11  
+3.2. Nutzungsbedingungen  
+Bitte lesen Sie die Nutzungsbedingungen  und akzeptieren Sie diese  (1). Um fortzufahren, klicken Sie bitte 
+auf die Schaltfläche "OK" ( 2), gefolgt von " Diese Vereinbarung einreichen“ ( Submit this Agreement ) (3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+3 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3. Checklist e 
+Nachdem Sie die Nutzungsbedingungen  akzeptiert haben, können Sie damit beginnen, alle notwendigen 
+Informationen zur Sealed Bid  Auktion  in ARIBA auszufüllen . Auf der linken Seite der Ansicht  sehen Sie den 
+Abschnitt Checkliste  (Checklist)  (1).    
+ 
+3.3.1.  Event De tails  
+Unter dem ersten Abschnitt " Überprüfung der Eventinformationen“ ( Review Event Details)  (1) sehen Sie eine 
+Zusammenfassung aller Details der Auktion  und weitere Informationen über das Auktionsformat, in diesem 
+Fall eine  Sealed Bid  Auktion (2). Es wurden Zeit - oder Bietregeln  (Event Overview and Timing Rules) (3) 
+definiert, die für die Auktion relevant sind. In diesem Abschnitt können Sie auch  vom Kunden  angehängte 
+Dateien ( 4) oder Fragen ( 5) sehen.  
+ 
+ 
+ 
+1 
+1 
+2 
+3 4 5 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 3.3.2.  Nutzungsbedingungen  einsehen und akzeptieren  
+Unter " Überprüfung und Akzeptieren der Nutzungsbedingungen “ (Review and Accept Prerequisites)  (1) sehen 
+Sie die Nutzungsbedingungen  zusammengefasst (2), die Sie im vorherigen Schritt  akzeptiert haben.  
+ 
+3.3.3.  Einzelposten auswählen  
+Der Abschnitt " Wähle Einzelposten“ (Select Lots/Line items)  (1) enthält die vom Kunden festgelegten 
+Einzelposten der Auktion.  
+Sie müssen alle Einzelposten auswählen , zu denen Sie eingeladen worden sind. Diese sind bereits 
+vorausgefüllt, und Sie müssen sie nur noch durch Klicken auf die entsprechende Schaltfläche " Bestätige 
+ausgewählte Einzelposten“ ( Con firm selected lots/line items)  (2) akzeptieren . 
+ 
+ 
+1 2 
+1 
+2 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 3.4. Einreichungsphase  
+3.4.1.  Einreichen eines Gebots  
+Sobald Sie auf den vierten Abschnitt " Gebote einreichen“ (Submit Bids)  (1) klicken, erscheinen zwei neue 
+Kategorien auf der linken Seite de r Ansicht .  
+Sie sehen den " Event Inhalte“ (Event Contents)  (2) mit vorläufigen Informationen über die Auktion , für die 
+Sie bieten sollen. Auch zu beantwortende Fragen oder Anhänge des Kun den sind in dieser Tabelle sichtbar.   
+Unter der Rubrik " Einzelposten  wählen " (Choos e Lot)  (3) können Sie in die jeweiligen vom Kunden 
+definierten P osten  springen , auf die Sie ant worten oder bieten sollen . 
+Bitte beachten Sie den speziell definierten Wert d es Abwärtsgebots, der den Mindestwert zum Unterbieten 
+des aktuellen Angebots angibt (4).  
+ 
+ 
+  
+1 
+2 
+3 4 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.4.2.  Bieten  
+Um Ihr Gebot für die jeweiligen Positionen einzugeben , klicken Sie bitte auf "Alle Einzelposten  anzeigen" 
+(View All Lots ) (1) und geben Sie Ihr Gebot entsprechend ein. Klicken Sie bitte auf "Summen aktualisieren"  
+(Update Totals ) (2), um den errechneten Zuschlagspreis sowie die Gesamtkosten für die Positionen zu sehen, 
+die an den Kunden übertragen werden.  
+Pflichtfelder, die Sie ausfüllen müssen, sind mit einem roten Sternchen (3) gekennzeichnet.  
+Bei Fragen können Sie mit Ihrem Kun den in Kontakt treten , indem Sie auf den entsprechenden Button 
+"Nachricht verfassen"  (Compose Message ) (4) klicken. Es erscheint eine neue Maske, in die Sie direkt Ihren 
+Text eingeben und absenden können.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 2 3 
+4 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 3.4.3.  Vollständiges Gebot einreichen  
+Wenn Sie das Angebot ausgefüllt haben , klicken Sie bitte auf die Schaltfläche „Vollständiges Angebot 
+abgeben “ (Submit Entire Response  ) (1), um Ihr Gebot  abzuschließen und klicken Sie auf "OK"  (2). 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17 3.4.4.  Gebot überarbeiten  
+Ihr Gebot  wurde abgegeben. Sie können während der Laufzeit der Auktion so oft Sie wollen neue Gebote 
+abgeben. Bitte beachten Sie, dass Sie Ihr Gebot durch Klicken auf die Schaltfläche "Letztes Gebot neu 
+laden" (Reload Last Bid) ( 1) revidieren  können, solange die Au ktion noch läuft  und offen ist.  
+ 
+ 
+Sie können den Ereignisstatus Ihrer Auktion  in Ihrem Dashboard in ARIBA monitoren  (1).   
+ 
+ 
+ 
+  
+1 
+1 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 3.5. Vergabephase  
+3.5.1.  Ausstehende Auswahl  
+Nach Beendigung des Events  wird der Status auf “ ausstehende Auswahl “ (pending selection)  (1) geändert . 
+Dies können Sie  in Ihrem ARIBA -Dashboard unter dem jeweiligen Abschnitt sehen.  
+ 
+3.5.2.  Benachrichtigung zur ausstehenden  Auswahl  
+Sie erhalten eine Benachrichtigung per E -Mail , sobald  keine weiteren Antworten  mehr angenommen 
+werden (1) . Das bedeutet  die Auktion ist beendet . 
+ 
+ 
+  
+1 
+1 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 3.5.3.  Status “abgeschlossen”  
+Sie können den Status der  Auktion in Ihrem Dashboard verfolgen, bis die Zuschlagsphase abgeschlossen 
+ist. Der Status wird dann als " abgesc hlossen“ ( completed ) (1) angezeigt.  
+ 
+3.5.4.  Benachrichtigung  
+Je nach Einstellungen des Kunden erhalten Sie eine Nachricht  (1), ob Sie die Auktion gewonnen  und den 
+Zuschlag  erhalten haben oder ob Sie die Auktion nicht gewonnen haben . 
+ 
+  
+1 
+1 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20 3.5.5.  Zusammen fasung  des Angebots  
+In Ihrem ARIBA -Profil können Sie jederzeit auf das E vent  klicken, um die Zusammenfassung Ihres Angebots  
+auf einen Blick zu sehen.  
+Sie können jetzt: Den I nhalt herunterladen ( download the content ) (1), die Vereinbarungen  für diese Auktion 
+ansehen  (Review Prerequisites)  (2), die Event Informationen drucken (Print Event Information)  (3), die 
+Gebotsabgabe überprüfen (Review Bidding) (4), den Bericht über Gebotsänderungen herunterladen 
+(Download Bid Change Repor t) (5), die Vergabe  ansehen (View Awards) (6), und eine Zusammenfassung über 
+die Zuschläge herunterladen (Download Award Summary Report (7). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 2 3 4 6 7 5 
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 4. WEITERE INFORMATIONEN – LIEFERANTEN  WEBSITE  
+Bei Fragen besuchn Sie bitte unsere  Siemens Energy Lieferanten Website . Hier erhalten Sie auch 
+Informationen zu den Supportmöglichkeite n. Die Seite erreichen Sie ganz einfach über diesen Link .  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+Supplier Manual: Sealed Bid  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22 
+ 
+ 
+Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 Munich  
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+August 2022   Copyrights: All rights, al so that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

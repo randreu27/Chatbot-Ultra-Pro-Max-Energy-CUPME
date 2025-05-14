@@ -1,0 +1,248 @@
+As a top tier supplier of 
+compressors, Siemens Energy
+has the domain expertise and 
+experience across the range of 
+several well-known legacy brands 
+of compressors including the 
+Siemens legacy and the Dresser-
+Rand legacy. This expertise comprises both the 
+compressors themselves as well as the decades of 
+experience in compressor control. The enhanced 
+Compressor Train One Control (in the following ab-
+breviated as One Control) core functions are used 
+in both the worldwide leading SIMATIC PCS 7/S7 
+automation product family from Siemens Energy 
+or the well-established Allen-Bradley.
+Siemens Energy’s One Control anti-surge
+algorithm is based on a patented universal control 
+map that is used to accurately predict the surge 
+point over a wide range of changing conditions, 
+especially in process applications with variable gas 
+composition.
+siemens-energy.comCompressor Train
+One Control
+Anti-Surge Control
+Application
+The One Control anti-surge controller provides optimum 
+safety of the overall plant as the energy costs, lifetime of  
+the compressor and quality of the overall process depend  
+on closedloop control. The system is specially designed for 
+compressor applications that can react extremely quickly to 
+changes in volume flow and pressure at the compressor. It 
+protects the compressor from surging in an uncontrolled  
+flow event that invokes large variations in pressure and cyclic 
+reversal of the direction of flow. If excessive surges occur, 
+high levels of vibration and excessive thermal loading will 
+result. Damage to various components of the compressor, 
+such as bearings, seals, impellers, and rotors can occur which 
+can cause significant repair costs and production outages. 
+Even in the absence of any obvious damage, the service life 
+and efficiency of the compressor will be adversely affected.
+Surge Control Operation
+Figure 1 illustrates the use of the universal surge control map. 
+The compressor flow setpoint is provided by the control line. 
+The control line is positioned to the right of the surge line 
+which provides a safety margin for the surge controller PI 
+(Proportional & Integral) algorithm. The PI control loop is 
+used to compare the control setpoint to the operating point 
+of the compressor and provides an output to the surge valve 
+to prevent the flow from decreasing below the control line. 
+The optimum control line in relation to the surge line is 
+determined either in a factory in-house test or during an 
+on-site commissioning test.
+Under normal operating conditions, PI control is used, and 
+surge control action is initiated at the control line by opening 
+the surge valve as required to maintain forward flow through 
+the compressor. This prevents the compressor operating point 
+from reaching the surge line.Backup Line with Valve Step Function
+The backup line is positioned between the surge line and the 
+control line (ref. to figure 1) and provides a basis for 
+additional control action. If the operating point of the 
+compressor de-creases to flow values less than those defined 
+by the backup line, traditional PI control is overridden by the 
+Open Loop Step Logic control function to facilitate rapid 
+opening of the anti-surge valve.
+The anti-surge valve position is forced to increase in discrete, 
+timed steps, thus opening the valve much quicker than 
+possible with conventional PI control. Compressor surge is 
+avoided by this quick incremental control of the surge valve 
+thus minimizing the effects of process upsets.
+Setpoint Shift
+If the flow decreases to the backup line a predetermined 
+number of times (adjustable) within a given period 
+(indicating a recur-ring problem), the surge control setpoint is 
+shifted to the right via the Setpoint Shift Logic. This action 
+establishes a larger mar-gin of safety from the surge line.
+The flow setpoint continues to be shifted as necessary until 
+the backup line crossings cease. The intent of the setpoint 
+shift is to prevent surge until the cause of the instability can 
+be corrected. This bias remains in effect until reset by the 
+operator.
+Floating Proportional Algorithm
+Derivative action as known from a conventional PID controller 
+would tend to make the compressor control unstable.
+Thus, the derivative gain is replaced by a Floating 
+Proportional gain action that takes effect when normal PI 
+control response would be too slow to prevent compressor 
+flow from dropping below the control line during rapid 
+system upsets. To cope with this challenge, the Floating 
+Proportional Control Algorithm is initiated, and anti-surge 
+valves are opened preemptively for fast changes in flow 
+before the operating point reaches the control line. This 
+function is triggered if both the operating point is close to  
+the surge limit line and the flow is decreasing too rapidly.
+Normal PI control is resumed when the process upset has 
+been stabilized.However, there are cases where the PI control cannot cope 
+with the operational changes. In the case of rapid reductions 
+in flow, such as process upsets, three additional controls are 
+implemented.
+First , a backup line, located between the control line and the 
+surge line, is used. If the operating point reaches this line, the 
+One Control’s Open Loop Step Logic quickly forces the surge 
+valve open as required to increase forward flow through the 
+compressor.
+Second , if the operating point of the compressor reaches the 
+backup line a certain number of times within a specified 
+period, the control setpoint will be shifted to the right via 
+One Control’s Setpoint Shift Logic.
+Third , a variable proportional gain action has been added to 
+the control loop to assist in stabilizing the process when rapid 
+de-creases in compressor flow are encountered.
+Figure 1: Universal Control Map
+Adaptive Control
+Unlike conventional anti-surge applications, the One Control 
+anti-surge controller automatically adjusts PI gains to 
+optimum values if the default gains set at the time of unit 
+commissioning cannot adequately provide timely control 
+response under changing process conditions.Decoupling
+In case of multiple controllers or a multi-variable system, the 
+relation between controller output and input might be 
+coupled, which is a characteristic property. For a control 
+system that has independent inputs and outputs, a 
+decoupling mechanism might be necessary.
+One Control has several decoupling mechanisms integrated 
+to decouple the integrated controllers:
+o Decoupling ASC ↔ ASC
+o Decoupling ASC ↔ Performance controller
+o Decoupling ASC ↔ Load sharing controller
+Surge Protection *)
+The surge protection application is used to protect the machin-
+ery from damage as a result of repeated surge events. Surge 
+cycles are often accompanied by flow reversals and high varia-
+tions of process variables. This is why One Control offers two 
+kinds of surge protection.
+*) There is a separate technical flyer available on this topic
+Surge protection - Control Deviation mode
+The Control Deviation mode of surge protection is included  
+within the anti-surge controller function. This type of surge 
+protection is monitoring the compressor operation point in 
+rela-tion to the control line. The monitor is activated when the 
+control deviation falls below a preset negative value. The surge 
+cycle is detected, when this preset value is passed again in 
+direction to the control line.
+Surge protection - Gradient mode
+The Gradient mode of surge protection is realized by a separate 
+surge protection function block in the same PLC or in external 
+hardware. This mode of surge protection monitors the gradients 
+of up to four process signals (e.g., discharge pressure, flow, 
+motor current or suction pressure). A surge is detected if one 
+of the gradients exceeds the gradient limit that was configured 
+during commissioning.
+Both types of surge protection can be configured to create a 
+warning or open an ASV valve before a compressor shutdown is 
+initiated (in general, at the 3rd or 4th surge event).Limit Control
+An additional function of the anti-surge controller limits the 
+pressure ratio thereby ensuring that no undesirable process 
+states occur. In addition, a choke limit control system is also 
+implemented to be activated where required.
+Additional limit controllers, such as motor current, discharge 
+pressure or suction pressure limiters can be easily combined 
+to the anti-surge control loop.
+Temperature Correction
+For high deviations from the reference suction condition, 
+both the anti-surge controller and the pressure ratio limiter 
+can be temperature compensated. This feature is mostly used 
+for ad-justable inlet guide vane compressors with 
+atmospheric inlet pressure conditions and gear-type 
+compressors in general.Anti-surge control features –  
+in a nutshell
+•  Universal Control Map (Invariant to suction MW, T, Z)
+•  Backup Line with Valve Step Function
+•  Setpoint Shift Logic
+•  Floating Proportional Algorithm
+•  Adaptive Control
+•  Limit Control
+•  Temperature Correction
+•  Decoupling
+•  Surge Protection
+•  Load Sharing Control
+Long-term Archive
+The One Control system contains a long-term archive for diag-
+nostic and maintenance purposes. This archive contains both 
+data and process variables relevant to the anti-surge 
+controller.
+Process Controller
+Many chemical processes demand a high degree of accuracy 
+with regard to process parameters of compressed gas. This is 
+typically a constant suction or discharge pressure or a 
+specified flow to the process. These tasks are performed by 
+integrated process controllers (refer to fig. 2) that are 
+combined with anti-surge controllers and limiters.Operating and Monitoring
+In addition to the control software running in a PLC system, 
+we provide an innovative HMI (Human Machine Interface) for 
+operator control that is mostly based either on Siemens 
+SIMATIC PCS7®, Aveva Wonderware® or Rockwell FactoryTalk® 
+platforms. All One Control systems incorporate surge control 
+as an integral part of the PLC program without the need for 
+additional external hardware. Compressor inlet flow, suction 
+pressure, and discharge pressure measurements are input 
+directly into the system using standard PLC analog inputs. The 
+tuning parameters are displayed and adjusted from the HMI 
+screen. A live compressor map with the anti-surge control line 
+including limiters, operating point, temperature correction 
+and back-up line is displayed on the HMI monitor as well as 
+system parameter and process variable trends.
+Furthermore, it also provides the user with extensive 
+functions for operating and monitoring machines and 
+systems, as it offers a balance between cost-effectiveness and 
+user-friendliness.
+Figure 2: Example of HMI with process controller
+Figure 3: Example of HMI with anti-surge controller
+Thanks to the standardized HMI and the pretested 
+interface to the automation system, the benefits  
+become apparent as early as the commissioning phase.
+Siemens Energy Global GmbH & Co. KG 
+Transformation of Industry
+Siemens promenade 9
+91058 Erlangen, Germany
+For the U.S. published by 
+Siemens Energy, Inc. 
+Transformation of Industry 
+4400 N Alafaya Trail
+Orlando, FL 32826, USA
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks
+or product names of Siemens Energy Global GmbH & Co. KG or 
+other companies whose use by third parties for their own purposes 
+could violate the rights of the owner.
+Siemens Energy is a trademark licensed by Siemens AG.Load Sharing Control *
+One Control also features a patented load sharing 
+algorithm, which helps equalize surge margins and maximize 
+system efficiency by sharing flow among multiple 
+compressors that are connected to common suction and 
+discharge lines.
+Conventional load sharing algorithms are based upon the 
+relationship between compressor inlet flow and the
+respective flow at the control line. This does not account for 
+any recycled flow. To eliminate this problem, One Control’s 
+algorithm uses a Coefficient of Export Flow (CEF). This value 
+accounts for the effective flow to the process instead of 
+considering only the compressor inlet flow. That is the reason 
+we are able to provide effective load sharing even if the 
+compressors are in recycle operation.
+*) There is a separate technical flyer available on this topic

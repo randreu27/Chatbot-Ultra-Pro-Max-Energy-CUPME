@@ -1,0 +1,459 @@
+ 
+   sheet 1 of 10 
+ 
+ 
+  
+siemens -energy.com  SIPREC ODS  
+Electrostatic Precipitator  – Operation, Visualization, 
+Data Archiving,  Optimization & D iagnostic  
+
+ 
+   sheet 2 of 10 
+SIPREC ODS Functions   
+The SIPREC ODS application  is based on 
+WINDOWS operating system and supports the 
+Siemens Energy high voltage power supply 
+systems for electrostatic precipitators (ESPs). 
+SIPREC ODS (SCADA) connects simultaneously 
+to all high voltage power supply controller s 
+for comfortable central oper ation, 
+visualization, data archiving of measured 
+operating values, for optimization of the ESP 
+operation and diagnostic purposes.  
+SIPREC ODS optimize s the ESP collecting 
+efficiency to achieve lowest power 
+consumption. The extensive diagnostic 
+functions bes ide the fault analysis enable the 
+evaluation of the ESP operating process and provide information for the predictive maintenance. Furthermore, the diagnostic 
+functions also form the basis for the fast and 
+inexpensive Siemens Energy remote service.  
+The following SIPREC ODS software versions 
+are available:  
+ 
+ SIPREC ODS 
+Light  SIPREC ODS 
+Full Version  
+SIPREC ODS Server  x x 
+SIPREC ODS Client  x x 
+DataArc  x x 
+Autostart   x 
+FuzzyOpt   x 
+RappCtrl   x 
+DataCopy  x x 
+Month Report   x 
+ 
+In addition, SIPREC ODS single  client  licenses are 
+offered for client installations at additional 
+workplaces.  
+The SIPREC ODS Server coordinates the bus 
+communication to the ESP controller relieving 
+bus traffic. Furthermore, the SIPREC ODS Server provides the data for  multiple SI PREC ODS client 
+installations at different locations of the TCP/IP network. The SIPREC ODS client user rights can 
+be individual ly adjusted. With the SIP REC 
+Autostart  function the single SIPREC ODS 
+applications are starting automatically.  
+ 
+ 
+ 
+SIPREC ODS Requirements  
+For the installation of SIP REC ODS a PC or 
+laptop is required with WINDOWS 7 or 
+WINDOWS 10 operating system. SIPREC ODS 
+supports the following ESP controll er: 
+ 
+• SIFUPIC F  
+• PIC410F  
+• PIC420F  
+• SIPREC T  
+• SIPREC I  
+ 
+The controls provide an optical interface and support USS or PROFIBUS.  PCF optical fiber 
+cables are used for the connection.  
+USS-Bus: 
+A special USS -bus adapter is used to convert 
+the optical signals  to connect to PC Serial 
+interface or USB.  
+Multiple Controls can be star -coupled via an 
+SIPREC PICOLM 5s  
+PROFIBUS:  
+The Optical link module ( OLM ) is used to 
+convert from optical bus to electrical bus which 
+can be connected to the PROFIBUS 
+
+ 
+   sheet 3 of 10 
+Communication Pr ocessor of the SIPREC  PC 
+( e.g. CP5711 / CP5613 / CP 5623 . . . ) .   
+Multiple Controls can be star -coupled or bus -
+connected via SIPREC PICOLM 5s, OLM P11/P12 
+or similar devices.   
+ 
+SIPREC ODS is a PROFIBUS Master. For the 
+parallel operation of SIPREC ODS with other 
+PROFIBUS masters such as PLC or DCS on the 
+same PROFIBUS segment, the other master must have multi -master capability.  
+Required for the remote service is an existing 
+internet connection as well as a possibility for 
+remote access and remote control with 
+appropriate access rights.  
+ 
+ 
+ 
+ 
+ 
+ Operation / Visualization 
+The parameter settings of the ESP controls are 
+clearly displayed in tabular form in various 
+frames/dialogs. In addition, a parameter report with configurable content is available in which 
+parameter settings can also be made. The 
+parameter settings can be saved (clipboard, 
+PDF, specific file), printed, reloaded and 
+transferred to the controls.  
+Example for parameter settings  and report : 
+     
+ 
+ 
+ 
+        ……..  
+  
+
+ 
+   sheet 4 of 10 
+Example for visualization of measured values : 
+ 
+ 
+ 
+ 
+Visualization f eatures:  
+• selectable views  
+• overview for different ESP's  
+• tabular and 3D graphical representation of 
+all measured values (HV power supplies and 
+process signals)  • status messages of all H.V. power supplies 
+and rapper drives  
+• operation of individual T/R sets or ESP group  
+• adjustable scale  
+ 
+Data Archiving and Trend 
+Charts  
+All measurement values and status signals of 
+the ESP controls as well as process signals, are 
+stored in individual daily archive files  in a 
+selectable time- interval . The data can either be 
+displayed with the trend function or imported 
+into Excel or similar for further analysis.  
+ 
+Trend chart features:  
+• max. 10 signals visualized simultaneously  
+• max. 16 signals selectable per ESP controller  
+• individual presentation and scaling  
+• sample rate up to 1sec.  
+• 1h or 24h time axis  
+• zooming  
+• selectable averag e calculation  
+• pre-selected profiles can be stored and 
+loade d  
+• trends can be copied to clipboard and 
+printed  
+ The data archiving is an independent 
+application that runs in the background. This 
+means that the rec ording of the measured 
+values is not interrupted when the SIPREC ODS Client program is closed.  
+
+ 
+   sheet 5 of 10 
+Optimizations  
+SIPREC ODS includes the separate application 
+FuzzyOpt through the optimizations, e.g. the 
+energy minimization is carried out depending 
+on the emiss ion monitoring signal and is based 
+on fuzzy logic.  
+Different ESP designs (number of electrical fields in series, number of parallel zones, ESPs in parallel or series connection) can be easily 
+configured and up to 10 ESP systems can be 
+optimized at the same time. 10 independent 
+parameter sets are available, through which 
+individual settings for different process 
+conditions (start- up / shutdown operation, 
+partial / full load, different fuels / primary 
+materials etc.) can be specified.  
+ 
+ 
+ 
+The optimization program first transforms 
+the ESP configuration into a 3- zone model. 
+Depending on the settings made for each parameter set and the ESP configuration, the 
+potential for each of the  3 zones of the ESP 
+model is determined cyclically. After eac h 
+cycle, the reverse transformation takes place 
+with individual setpoints for each ESP 
+controller.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+If the ESP controller control the rapper systems, 
+the collecting electrode rapping is coordinated by the SIPREC ODS RapCtrl  application to avoid 
+emission peaks caused by  unwanted  
+simultaneous rapping  of consecutive ESP fields. 
+Like FuzzyOpt , RapCtrl  is a separate application 
+that runs in the background.  
+ 
+Diagnosis  
+Numerous diagnostic functions are available 
+with SIPREC ODS thanks to the adjustable 
+measurement data recording of the ESP 
+control ler and the available operating data. 
+These enable an operational analysis of the 
+high voltage power supply, the ESP control ler 
+and the ESP without the need for additional 
+measuring equipment.  
+Oscilloscope Function   
+The recording parameters  are selected in  
+SIPREC ODS and transferred to the ESP controls. 
+After the measurement data have been 
+transmitted, they are displayed in the 
+oscilloscope window . 
+
+ 
+   sheet 6 of 10 
+ 
+ 
+Oscilloscope features:  
+• sampling rate minimum 100µs with 3 curves 
+simultaneously (ESP voltage / current, 
+primary current)  
+• trigger mode AUTO, SINGLE, NORMAL  
+• trigger on  e.g. flashover, ESP voltage/ 
+current, primary current  
+• adjustable trigger delay  
+• zooming  
+• charts can be stored, reloaded and printed  
+• import of measured values into WINDOWS 
+Excel for further analysis  
+• open as many oscilloscope windows  as 
+controllers connected and run them simultaneously  
+• recorder function for sample rates above 
+50ms/DIV  
+• automatic storage of oscilloscope recordings  
+for unattended recording and later 
+evaluation  
+ 
+The oscilloscope feature is always connected 
+without no need to connect/disconnect measuring wires to the cubicles or to walk around with additional equipment saving time 
+and effort
+. 
+ V / I Curve Scanning  
+The V / I characteristic is used to diagnose the 
+ESP electrical field operation and the 
+mechanical state of the electrical field in 
+comparison to other fields or to different 
+operating conditions (e.g. with / without load).  
+ 
+ 
+V / I curve features:  
+• scanning ESP current and ESP voltage 
+(minimum / maximum and average value)  
+• selection of scaling and curve  
+• charts can be stored, reloaded and printed  
+• zooming  
+• measured values importable into Windows 
+Excel  
+• scan of V  / I curve with ESP overview 
+individual or with one mouse click  
+ 
+Status Messages  
+A quick overview of all digital and analog 
+inputs / outputs of the filter controls is given. In 
+this way, interface errors can be identified 
+quickly.  
+
+ 
+   sheet 7 of 10 
+ 
+ 
+Parameter History  
+The history of the parameter changes carried 
+out via SIPREC ODS is logged. The effects of changed  parameter settings can be verified 
+with  the trend charts.   
+ 
+ 
+Fault History  
+The error messages of the ESP controls are displayed with the date, time, status of the 
+fault and fault message. With double-click on a fault message, the trend chart is 
+automatically opened at the time of the 
+fault. 
+  
+ 
+The errors are also saved in the archive files. 
+An additional SIPREC ODS tool analyzes all 
+archive files and creates a statistic  with 
+grouped fault events.  
+ 
+Additional Features  
+Month Report  
+With the month report the power consumption 
+of all ESP's including the opacity values are summarized per month in a table or as 3D 
+chart. The data also can be imported into 
+Windows Excel.  
+ 
+ 
+ 
+ 
+ 
+
+ 
+   sheet 8 of 10 
+Data Copy  
+With this tool, the archive files of a selectable 
+time frame can be copied or moved for further 
+use. 
+ 
+ 
+Services  
+Services in conjunction with SIPREC ODS are 
+provide on -site or by the Siemens Energy 
+remote service for:  
+ 
+• Fault analysis and troubleshooting  
+• Commissioning / support for 
+commissioning  
+• Evaluation / optimization of ESP operation after changed operating 
+condit ions 
+• System check for predictive 
+maintenance  
+• Customer training  
+• Software upgrades  
+ 
+Fault A nalysis and Troubleshooting  
+The archived SIPREC ODS data (fault and 
+oscilloscope history, trend charts etc.) of the 
+high voltage transformer rectifier systems is 
+analy zed. Additional tests and detailed analyzes 
+are carried out depending on the type of fault.  In case of the remote service this is carried out 
+in cooperation with the customer personnel on-site.  
+In case of a hardware failure instructions are 
+provided for the exchange to be carried out by 
+customer staff .  
+ 
+Commissioning / Support for Commissioning  
+The commissioning of the high  voltage power 
+supply  is typically carried out by our special 
+commissioning engineers on- site with SIPREC 
+ODS  as the basic equipment.  However, if this 
+should not be possible due to e.g. travel 
+requirements, the commissioning can also be 
+carried out by remote service in conjunc tion 
+with on -site staff. For this, SIPREC ODS must be 
+available on - site.  
+ 
+Optimization of ESP controller parameter 
+settings  
+A change in the ESP operating conditions 
+(primary material, increased load, changed ESP 
+mechanical condition  etc.) typically requir es 
+optimization of the ESP controller parameters 
+to maintain the best possible ESP collecting 
+efficiency. The optimization will be carried out 
+in conjunction with the available emission monitoring signal (continuous measurement 
+downstream of the ESP). The emission 
+monitoring signal must be available to SIPREC 
+ODS. Is this signal not available, t he 
+optimization is carried out by maximizing the 
+corona power.  
+  
+
+ 
+   sheet 9 of 10 
+System C heck  
+Typically,  a detailed system check is carried out 
+once a year consisting of:  
+High voltage power supplies  
+• Analysis of the available archive/log 
+files (measured values, fault history, 
+warnings etc.)  
+• Analysis of the controller digital 
+input/output signals  
+• Analysis of  the controller analogue 
+input wave forms (oscilloscope)  
+• Analysis of the optical fiber connection 
+to the transformer rectifier sets  
+• Evaluation of all operating values with 
+recommendations for eliminating 
+operating faults or preventive measures  
+ 
+SIPREC ODS PC  / laptop  
+• Review/analysis of hardware and 
+software resources (memory capacity, 
+CPU usage, task manager processes / 
+system services, etc.)  
+• Review/analysis of the bus connection 
+between the ESP controller and SIPREC 
+ODS  
+• Checking the connection to the remote control  
+• Implementation of minor optimizations  
+(parameters, settings, etc.)  
+• Storage of inspection and maintenance 
+activities  
+ 
+Customer Training  
+With the help of SIPREC ODS and the 
+documents provided for the training, the 
+following topics are typically trained : 
+• SIPREC ODS –  operation and use  of 
+applications   • SIPREC high voltage power supply –  
+operation and functionality, fault analysis / 
+troublesh ooting, maintenance  
+• ESP –  function, operating conditions, fault 
+analysis  
+ 
+Software Upgrade 
+With an additional function of SIPREC ODS, the 
+latest software updates are loaded into the ESP 
+controls, adjustments to the settings are made 
+and the new functions are checked under 
+operating c onditions.  
+ 
+Reporting  
+For each service carried out, a specific detailed 
+report is provided presenting:  
+• Information on the work carried out  
+• Measurement and analysis results  
+• Parameter report  
+• Compilation of commissioning data (commissioning checklist)  
+• Recommendations for the 
+maintenance of the high voltage power supplies and ESP(s)  
+ 
+ 
+ 
+    sheet 10 of 10 
+Take advantage from our experience  
+ 
+We are looking forward answering your questions concerning the modernization of ESP high voltage 
+power supplies, the data exchange to the PLC / DCS, the possible increase in ESP collecting efficiency, 
+potential for power savings or other questions related to the ESP operation.  
+ 
+Just get in contact with us.  
+ 
+           
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG  
+SE GP G IC DE Electrostatic Precipitator  
+Freyeslebenstrasse 1,  
+91058  ERLANGEN, Germany  
+For more information, please visit our website:  
+www. siemens -energy.com  
+Or sent an email to :  siprec.energy@siemens -energy.com  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance  
+features which may not always specifically reflect those  
+described, or which may undergo modification in the course of  
+further development of the products. The requested performance  
+features are binding only when they are expressly agreed upon in  
+the concl uded contract.  
+ 
+Siemens Energy is a registered trademark licensed by Siemens AG.    
+   

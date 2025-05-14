@@ -1,0 +1,389 @@
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Supplier Manual   
+Supplier  
+Negotiation  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 TABLE OF CONTENT  
+ 
+1. SUPPLIER NEGOTIATION OVERVIEW  ................................ ................................ ................................ ...............................  3 
+1.1. Introduction  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2. Registration for ARIBA  ................................ ................................ ................................ ................................ ...............  3 
+1.3. Invitation to Negoti ate ................................ ................................ ................................ ................................ ...............  3 
+2. NAVIGATION THROUGH SAP ARIBA  ................................ ................................ ................................ ................................ . 4 
+2.1. Login to ARIBA  ................................ ................................ ................................ ................................ ..............................  4 
+2.2. Dashboard Overview  ................................ ................................ ................................ ................................ ...................  5 
+2.3. Profile & User Settings  ................................ ................................ ................................ ................................ ...............  7 
+3. NEGOTIATION PROCESS  ................................ ................................ ................................ ................................ ......................  9 
+3.1 Start Negotiation Task ................................ ................................ ................................ ................................ ................  9 
+3.2 Negotiation Task Overview  ................................ ................................ ................................ ................................ ..... 10 
+3.3 Accept Proposal  ................................ ................................ ................................ ................................ .........................  12 
+3.4 Question for Clarification  ................................ ................................ ................................ ................................ ........  12 
+3.5 Create Counter Prop osal  ................................ ................................ ................................ ................................ .........  13 
+3.6 Counter Proposal Accepted  ................................ ................................ ................................ ................................ .... 15 
+3.7 New Round of Negotiation  ................................ ................................ ................................ ................................ ..... 15 
+4. ADDING NEW CONTACTS  ................................ ................................ ................................ ................................ ..................  16 
+4.1. Adding a New Contact by Siemens Energy  ................................ ................................ ................................ ..........  16 
+4.2. Adding a New Contact by Supplier Primary Contact  ................................ ................................ ........................  21 
+4.3. Second Contacts Log -In Credentials via Email  ................................ ................................ ................................ .... 22 
+5. FURTHER INFORMATION – SUPPLIER COCKPIT WEBSITE  ................................ ................................ ........................  24 
+ 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. SUPPLIER NEGOTIATION  OVERVIEW  
+1.1. Introduction  
+In this video you will get an overview on how you negotiate  a contract  via ARIBA and with Siemens Energy  
+and ho w to add an additional supplier  contact to your ARIBA supplier profile.  
+ 
+ 
+1.2. Registration for ARIBA  
+Before you can negotiate a contract with Siemen s Energy via ARIBA , you  must be registered as a supplier in 
+ARIBA . If this is not the case, please go  HERE  on the supplier website to receive more information . 
+ 
+1.3. Invitation to Negotiate  
+When Siemens Energy wants to negotiate a contract  with you via ARIBA , you will receive a similar email like 
+shown  below that states “Negotiate Contract ” (1) in the title and will have a  “Task Description ” (2) and pos-
+sible “Notes ” (3) regarding the negotiation  process . 
+ 
+ 
+  
+1 
+2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGAT ION  THROUGH  SAP ARIBA  
+2.1. Login to ARIBA  
+There are two ways for yo u to login  to your ARIBA profile:  
+You  can login  via the ARIBA Supplier website , reachable un der service.ariba.com . In case you have forgotten 
+your username and/or password , please us the option “ Forgot  Username  or P assword ” (1).  
+ 
+ 
+ 
+  
+1 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 Or you click d irectly  on the provided link (1) in your  received mail , where you will be directed to the login 
+mask of th e ARIBA supplier website. After your successful login you will be directe d to the negotiation . 
+ 
+ 
+2.2. Dashboard Overview  
+When you have logged into ARIBA, please make sure y ou are in the correct tab  “Ariba Contract Manage-
+ment ” (2). If on the top left -hand corner  (1), you do not see “Ariba Contract  Manage ment ” but instead see for 
+example “Ariba Proposals and Questionnaires ” or “Ariba Discovery ” please cli ck on it and, in the dropdown, you 
+will have the option to select “Ariba Contract  Management ” (2). Now you ha ve an overview of all your contract 
+tasks.   
+ 
+  
+1 
+1 
+2 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 The dashboard will give you  an overview of all your contract tasks . This task ove rview will sho w the “ Name ” 
+(1), “Status ” (2), “Due  Date ” (3) and “ Completion Date ” (4) of the regardi ng task. In case of specia l notifications, 
+you find them under “ Alerts ” (5). 
+ 
+ 
+  
+1 2 3 4 5 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3. Profile & User Settings  
+You can also change your basic settings  in ARIBA  by c licking on your profile icon  (1), followed by “ My Account ” 
+(2). Here, all your account (3) and contact informatio n (4), including your language  settings  (5), are displayed,  
+and can be e dited.  
+ 
+ 
+ 
+  
+2 1 
+3 
+5 
+4 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 If you click on  your profile icon  (1), you ca n click on the section “Settings ” (2) and then “ Users ” (3) to change 
+your account settin gs like the role (4) and u ser settings  (5). 
+ 
+ 
+ 
+1 
+3
+ 
+ 2 
+4 2 
+5 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 3. NEGOTIATION  PROCESS  
+3.1 Start Negotiation Task  
+You can open the negotiation task  via the task overview by clic king on “ Negotiate Contract ” (1). 
+ 
+ 
+Alternatively, you can click on the link in the em ail (1), log in with yo ur cr edentials and yo u are directly 
+forwarded to the “ Negotiate Contract ” task.     
+ 
+  
+1 
+1 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3.2 Negotiation Task Overview  
+In the upper left of the  task overview , you see the document you are cur rently negotiating  (1). You can open 
+the doc ument by clicking it (2) and then “Download ” (3). The document automatically downloads, and you can 
+open it to see the actual content.   
+ 
+ 
+When scrolling down, y ou can see the tabs “ Properties ” (1) and “Task History ” (2). Under “ Properties ” the basic 
+details  of the contract  are sum mariz ed (3), and you can view previous rounds of the negotiation  below . 
+ 
+  
+1 
+2 
+3 
+1 2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 The “ Task History ” tab gives you an overview of all current and past tasks  (1). 
+ 
+ 
+Following there are two possible next steps : “Accept propos al” (1) or “Create Coun ter P roposal ” (2). 
+ 
+  
+1 
+1 
+2 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3 Accept Proposal  
+In case you agree with the contract, click on “ Accept Proposal ” and then “OK” (1) to inform the  buyer that 
+you agree with the terms of the contract and would sign it. Once you have “Accepted  Proposal ” no further 
+action s are needed until you re ceive another email, inviting you to sign the contract.  
+ 
+ 
+3.4 Question for Clarification  
+In case you have questions regarding the contract that need clarification , but you don’t want to directly 
+accept th e contract or create a count er proposal, you can send a question directly to the buyer.  
+You can do that by clicking the “Task History ” tab  (1). Here you can see all past messages of the negotiation 
+process. You can click the name of the buyer above  the mes sage you want to reply to (2) and click “ Reply ” (3). 
+ 
+  
+1 
+1 
+2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 A new mask opens where you can send a message to the buyer with for example a questio n regarding  a 
+specific  aspect of the contract.  The supplier will then receive your message directly via ema il and will come 
+back t o you . You will be informed about that via email as well . 
+ 
+ 
+3.5 Create Counter Prop osal  
+If you disagree with the document, click on “Create  Counter Proposal ” (1). Clicking the  “Create Counter 
+Proposal ” button indicates you want to resp ond to the task with ch anges  or questions to one or more 
+documents .  
+ 
+  
+1 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 A new form opens where you can send a m essage to Siemens Energy , to indicate your ch ange wishes and/ or 
+also upload an adjusted document . For that you have two options. You may eit her make changes in the  
+prev iously downloaded document and upload it or you can download the document by clicking t he “Word ” (1) 
+icon next to the document’s tit le download  the document and make the changes  directly in Word . When you 
+made all desired changes, save the document,  and upload it by clicking “Choose File” (2) and selecting the 
+file you want to upload . 
+ 
+In case you want to adjust the users, who can see the content of this contract negotiation, you can use the 
+“Access Control ” option  (1). To understand this functionality bette r click on the “I” icon  (2). Select the dropdown 
+menu to choose different restrictions. This field is not mandatory, so only a djust  if necessary . 
+If needed, you can also attach additional attachments via “ Add attachment ” (3). Do not upload the revised 
+contract here but only additional attachments . 
+Lastly, click on “ OK” (4) to finalize your counter pr oposa l. Creating a counter pro posal will send the modified 
+documents to the task owner for consideration . 
+Please note that after clicking “ OK”, the counter proposal will automatically be sent to Siemens Energy , and 
+you may not make f urther adjustments or e dits to your counter proposal . 
+ 
+1 2 
+1 2 
+3 
+4 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.6 Counter Proposal  Accepted  
+If your counter proposal is accepted, you will receive an email, indicating that the negotiation is now com-
+pleted. No further actions from your side are needed until you receive another ema il, inviting you to sign the 
+contract . 
+ 
+ 
+3.7 New Round  of Negotiation  
+If the counter proposal is not accepted, you will be informed via email,  and you repeat the previous steps  
+until you and the buyer have reached an agreement. Once yo u have reached an agree ment,  no furt her actions 
+from your side are needed until you get another email inviting you to sign the contract . 
+ 
+ 
+
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 4. ADDING NEW CONTACTS  
+If you or a colleague  should be additionally added as a contact to the ARIBA Supplier profile , you can ask 
+Siemens Energy or the primary contac t of th e ARIBA supp lier profile  to add a con tact.  
+4.1. Adding a  New Contact by Siemens  Energy  
+If Siemens  Energy  adds you as a cont act for example  to negotiate a contract you will receive an email to 
+register in A RIBA . This email will state  in the title  that yo u are added a s a respondent to the “Supplier Regis-
+tration  Questionnaire ” (1). Click on the link  (2) to be forw arded to the sign in page and click  on “Sign up ” (3) and 
+fill in the information for the account creation  (4) and click on “Create account and c ontinue ” (5). 
+ 
+ 
+1 
+2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17  
+Once you have  created your personal account, you will be taken to the supplier specific registration question-
+naire.  As this was already filled in by the primary contact, do NOT CHANGE any information here  and click 
+dire ctly on “Go back Sieme ns Energ y Dashboard ” (1) on the top left-hand  corner.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+5 
+1 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 Then on click the top left -hand corner  on “Ariba Proposal and Questionaries ” (1) and select “Ariba Contracts ” 
+(2). Now you  see an overview of the contract related tasks  like the negotiati ons p rocess  (3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 To complete the process,  the primary contact of your supplier account must  approve the new contact . For 
+that the primar y contact receives an email that  a new user account  requires an approval (1). By clickin g on the 
+link (2) the p rimary contact is forwarded  to the login page . After logging in  (3), the primary contact must click  
+on the tab “Manage Una pproved Users ” (4) and select the relevant user  (5). By clicking  “Approve ” (6) the contact 
+adding process  is co mplete d. 
+ 
+ 
+1 
+2 
+3 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+4 
+5 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 4.2. Adding a  New Contact by Supplier Primary Contact  
+As a  supplier primary contact you can  also  add a new contact . For that  click on your initials on the top right -
+hand corner  (1), select “Settings ” (2) and then “Users” (3). 
+Select “Manage Users ” (4) and add the user  by clicking on the “+” (5) icon.  
+Fill in all relevant  contact information ( 6) and  assign the user a role. Once you have clicked “Done ” (7) the user 
+will receive 2 emails.  
+ 
+ 
+1 
+3 
+2 
+4 
+5 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22  
+ 
+ 
+4.3. Second  Contacts  Log -In C redentials v ia Email  
+The new contact will receive an email with a username  (1) and an e mail with the temp orary password  (2) 
+which will also contain th e lin k to take them to the log in page. By using the username and the new temporary  
+pass word, the process is completed,  and the new contact can do the contract related tasks.  
+ 
+6 7 
+1 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 23   
+2 
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 24 5. FURTHER INFORMATION – SUPPLIER COCKPIT WEBSITE  
+In case of questions, kindly reach out to the Siemens Energy suppli er cockpit website , where you also get 
+informatio n reg arding the possibilities for support. You can access the page by clicking on this Link .  
+  
+  
+
+Supplier Manual: Supplier Negoti ation  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Pub lishe d by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 M unich   
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https:// www.s iemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+July  2022   Copyrights: All rights, also  that of translation, reprint and copy, or parts 
+thereof, are reserved. T his document will not be recalled in the  event of  
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

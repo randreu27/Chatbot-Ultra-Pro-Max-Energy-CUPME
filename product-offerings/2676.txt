@@ -1,0 +1,207 @@
+ 
+       sheet 1 of 8 
+ 
+ 
+  
+siemens -energy.com  SIPREC  C 
+Thyristor  Controller Upgrade - HV Power Supply for 
+Electrostatic Precipitator ESP  
+
+ 
+       sheet 2 of 8 SIPREC C Technical Description  
+The upgrade of existing ESP thyristor controller is typically carried out when:  
+ 
+• Due to missing functionality of the existing controller the maximum required ESP collecting 
+efficiency cannot be reached  
+• No energy management available to reduce the operating costs  
+• No services provided by the OEM  
+• No spare parts available  
+• No possibility f or bus coupling to subordinated control systems (PLC/DCS) with additional 
+diagnostic data for ESP operation  
+• The required availability cannot be ensured any more 
+ 
+SIPREC C is a thyristor controller upgrade set for the retrofit of existing thyristor control ler of different 
+brands. The existing control cubicle with all power components (fused disconnector/circuit breaker, 
+main contactor, SCR -thyristor stack, CT) and peripheral components (interface relays, terminals etc.) 
+are reused.  
+In case the power components are already obsolete with increasing failure rate or when the cubicle is 
+worn down , it is recommended to install new thyristor control cubicles.  
+The effort of the upgrade depends on the design (OEM, type), the condition of the equipment, the peripheral connections and installation type of the HV power supplies. In case the power components 
+of the control cubicle and the transformer rectifier set ( TR set) can be reused, essentially only the 
+control components in  the control cubic le and inside the TR set junction box needs to be exchanged.  
+To achieve highest electromagnetic compatibility optical fiber cables are installed for the signal 
+exchange between thyristor controller (control cubicle) and TR set. In case no optical fiber ca bles are 
+installed with the previous installation and the installation of new optical fiber cables is not possible , 
+then the existing signal cables can be reused for the signal exchange.  
+Based on the circuit diagrams of the existing HV power supplies, opt imized solutions for the retrofit 
+and signal exchange in conjunction with the new available controller functions, are suggested and defined. For this purpose, the SIPREC controller consist of sufficient number of configurable digital and 
+analogue in- /outpu ts.   
+Typically, nowadays only the safety signals are hardwired where all other control, signal and diagnosis 
+signals are communicated via bus. For highest EMC standard all SIPREC controller provide the optical 
+PROFIBUS interface. Special optical link modu les, converter and gateways enable the easy networking 
+to existing PLC/DCS with the required bus protocol.  
+ 
+       sheet 3 of 8  
+ 
+ 
+SIPREC C Installation 
+Thyristor control cubicle 
+     Typically, the new SIPREC controller (PIC 167 controller board) will 
+be installed inside the control cubicle and the new SITOUCH operating panel in the control cubicle front door.  
+ For the retrofit of previous thyristor controller type COROMATIC -F / 
+SIFUPIC F installed in a box (PICBOX) at the cubicle door, the 
+controller is replaced with installation of a new PICBOX.  
+For the retrofit of previous thyristor controller type COROMATIC -F / 
+SIFUPIC F installed in a mounting rack, the rack will be reused for 
+the installation of the SIPREC controller board.  
+ 
+
+ 
+       sheet 4 of 8 If not already existing, the optical fiber cable can be laid during plant operation. This saves plant down 
+time when the upgrade shall be done during operation. The existing optical fiber cable can be reused 
+with original CORO MATIC -F / SIFUPIC F installations.  
+Depending on plant configuration the SIPREC installation can be carried out one by one with electrostatic 
+precipitator in operation or during a plant down time.  
+The following installation steps are typically carried out at the control cabinet:  
+     
+   
+   Remove of old controller ( e.g.  EFST, COROMATIC C/R/F, FSR6x, 
+PROFIMAT, TH S3 -6, ELIN, SCHRACK,  ……)  and non- reusable 
+controller components and cables  
+ 
+ Installation of the new SIPREC PIC167 controller board depending on 
+type of installation (see above)  
+ Remove existing operating panel/displays. Carry out cubicle door 
+cut-out and installation of the new SITOUCH operating touch panel.  
+ Installation of new EFIP 167 thyristor firing board closed to the SCR 
+(thyristor stack)  
+ Installation of the SITOP 24V DC power module for the SIPREC PIC167 
+controller board and  SITOUCH operating panel  
+ 
+ 
+ 
+ 
+ Installation for optional components:  
+Isolation amplifier  
+• For integration of analogue process signals (like process load 
+conditions, ESP gas temperature, emission value, …)  
+• For r emote trending of the analogue signals for ESP voltage / 
+current  
+• SIPREC PIC167 analogue input for ESP voltage/current signal in 
+case the optical fiber cable is not or cannot be installed  
+
+ 
+       sheet 5 of 8  Coupling re lays 
+• For the control of rapper motors  
+• For integration of additional signals as e.g. calibration 
+emission monitoring system, WESP protection, monitoring 
+main contactor, remote acknowledgement etc .  
+ Execute of cable connections for the 24V DC power supply, for the 
+control of the thyristors, fo r all analogue and  digital in -/outputs of 
+the  SIPREC PIC167 controller board, for the isolation amplifier and 
+the current transformer . 
+  Installation of optical fiber cables and optical link modules for 
+PROFIBUS coupling to PLC/DCS and SIPREC ODS.  
+ 
+ 
+Examples for realized thyristor controller upgrades:  
+   
+ 
+ 
+PIC167 installed at 
+cubicle mounting plate  PIC167 installed at existing 
+controller rack  PIC167 /  SITOUCH operating 
+panel  installed in controller 
+box at cubicle front door  
+  
+  
+
+ 
+       sheet 6 of 8 HV Transformer rectifier set ( TR set)  
+Old TR set may not be equipped with an internal or external HV divider for the measurement of the 
+secondary voltage. As this is required for the operation of today’s thyristor controller, the installation of 
+a new TR set is recommended rather than the cost intensive installation of a separate HV divider.  
+Available analogue signal cables for the secondary voltage and current 
+measurement and the binary TR set protection signals may be reused. For highest electromagnetic c ompatibility however,  it is recommended to use 
+the standard solution with optical fiber cables and HV acquisition unit. 
+With the optical fiber cable beside the TR set analogue signals also the 
+binary signals of the TR set protection device(s) are transmitted to the SIPREC controller. Therefore, beside the power cable and the optical fiber 
+cable no other cable is required between TR set and control cubicle.  
+The following modifications are carried out at the TR  set junction box:  
+Reuse of the existing analogu e signals and 
+cables:  Depending on the analogue signal value the existing 
+shunt modules at TR set junction box and isolation 
+amplifiers at the control cubicle may be exchanged.  
+Transmission of TR set signals via optical 
+fiber cable:  
+ 
+     Installation of the SIPREC  HS-230 HV acquisition unit 
+and exchange of the shunt module and surge arrestors.  
+No modifications are required for the retrofit of the 
+COROMATIC -F / SIFUPIC F controller with optica l fiber 
+cable connectors type DUPLEX.  
+ 
+ 
+In general: When a HV cable is installed for the HV supply to the ESP field, a high voltage damping resistor 
+must be installed at the cable end on ESP side.  
+ 
+Addon: SIPREC ODS  
+The SIPREC ODS program based on WINDOWS operating system supports the S IPREC HV  power supply 
+systems for the central operation, visualization, data archiving of measured operating values, for 
+optimization of the ESP operation  and diagnostic purposes.  
+SIPREC ODS optimize s the ESP collecti ng efficiency at lowest power consumption. The extensive 
+diagnostic functions enable beside the fault analysis , the evaluation of the ESP operating process and 
+provide information for the predictive maintenance. Furthermore, the diagnostic functions also f orm the 
+basis for the fast and inexpensive Siemens Energy remote service.  
+ 
+
+ 
+       sheet 7 of 8  
+ 
+ 
+For further information please see our separate SIPREC ODS brochure . 
+ 
+Time Frame  
+The installation  / commissioning must be carried out only by special qualified personal. The time required 
+for the installation/commissioning work depend s on the type of controller upgrade, the additional 
+peripheral connections to be installed and the condition of the installation (one by one during operation 
+or during plant down -time).  
+The installation  / commissioning of the first TR set of course takes longer compared to the next sets. The 
+upgrade of four thyristor controller takes typically 5 working days carried out by two of our experienced 
+specialists. This estimation is based on a typical installation excluding works for cable installation (optical 
+fiber cable).  
+The time required for the technical instructions (customer training) depends on number of employees 
+to be trained and the availability of the attendees. Suggested is to  do the training already during the 
+installation and commissioning period.  
+
+ 
+       sheet 8 of 8 
+Take advantage from our experience  
+ 
+We are looking forward answering your questions concerning the modernization of ESP high voltage 
+power supplies, the data exchange to the PLC / DCS, the possible increase in ESP collecting efficiency, 
+potential for power savings or other questions related to the ESP operation.  
+Just g et in contact with us . 
+ 
+ 
+ 
+        
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG  
+SE GP G IC DE Electrostatic Precipitator  
+Freyeslebenstrasse 1,  
+91058  ERLANGEN, Germany  
+For more information, please visit our website:  
+www. siemens -energy.com  
+Or sent an email to :  siprec.energy@siemens -energy.com  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance  
+features which may not always specifically reflect those  
+described,  or which may undergo modification in the course of  
+further development of the products. The requested performance  
+features are binding only when they are expressly agreed upon in  
+the concluded contract.  
+ 
+Siemens Energy is a registered trademark licensed by Siemens AG.    
+   

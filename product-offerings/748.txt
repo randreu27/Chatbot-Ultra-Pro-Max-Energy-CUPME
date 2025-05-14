@@ -1,0 +1,253 @@
+siemens -energy.comDecarbonization
+Transitioning to a net zero future with 
+Omnivise Performance
+Climate change is the most urgent problem we face   
+on planet Earth, yet the global demand for energy and  
+electricity increases year after year. Navigating this  
+fundamental challenge drives our quest to discover more  
+sustainable solutions to meet net zero goals. With a proven  
+history of turning ideas into reality, Siemens Energy is  
+dedicated to helping our customers transition to a more  
+sustainable world. Despite the rapid build -out of carbon -
+free and carbon -neutral power generation technologies 
+and infrastructure, we cannot neglect the legacy fossil fuel  
+assets that supply energy to the world today —they  
+continue to play a crucial role in guaranteeing our energy  
+supply while renewable sources are added to the mix and  
+energy storage technologies evolve.  
+Our forward -leaning technologies and approaches help 
+bridge the gap between fossil and carbon -neutral sources  
+of power generation. 
+Omnivise Performance Portfolio . Realizing that existing  
+fossil power plants were not built to accommodate the  
+flexibility needs of modern -day power grids, Siemens  
+Energy developed Omnivise Performance solutions. The 
+Omnivise Performance portfolio helps you advance  
+toward your country’s net zero goals by increasing  
+efficiency and reducing emissions. Even without full 
+access to renewables, traditional plants and energy  
+suppliers can take steps today to reduce emissions and  
+decrease fuel use, all while increasing energy output to  
+meet consumer demands. We see our energy customers  
+and partners falling in one of three steps toward a net zero 
+future: 1) Fossil -based power generation assets that can 
+reduce emissions and decrease fuel use with performance  
+solutions, but have not done so yet, Preface
+Figure 1 Steps you can take towards a net zero future.Fossil fuel -based generation  
+of power and steamEmission reduction,
+avoidance and neutralityNet zero energy systems
+Current statusPathways to net zero with customized 
+Performance solutions to decrease  
+emissions and maximize performanceTarget scenarios
+© 2024 Siemens Energy Page 2Transitioning to a net zero future with Omnivise Performance
+(2) Emissions -reduced,  fossil -based power generation 
+assets that have decreased  emissions through 
+performance solutions, and (3) Net zero energy systems 
+that prioritize renewables and retain access  to 
+emissions -reduced and performance -maximized fossil -
+based power generation when renewables are 
+unavailable.  Our solutions target the center and right of 
+the net zero energy  system journey, enabling traditional 
+power plants to take  steps now toward carbon 
+neutrality. 
+The Omnivise Performance Portfolio helps reduce 
+emissions of legacy fossil burning assets through a broad 
+range of digital products, optimization solutions, and 
+managed  services. But Omnivise Performance also 
+moves beyond  these areas to address the increasingly 
+complex market for  energy management/dispatch 
+planning and energy trading  for hybrid fleets. 
+Omnivise Performance leverages new energy 
+management  hardware and software to lower the 
+carbon footprint of  your fleet while safeguarding 
+profitability. By combining years of operational data from 
+a global fleet of power  plants with high -fidelity digital 
+twins, we were able to  develop detailed simulations that 
+increase plant efficiency  and flexibility under a large 
+array of operational conditions. 
+Today, Omnivise Performance solutions are proven in 
+real world applications and continue to help our 
+customers  efficiently meet their energy needs every 
+single day as they begin their journey to support a net 
+zero future. 
+Efficient generation means less carbon emissions.
+Our Omnivise Performance solutions have been deployed to more than 400 projects worldwide, involving 4,500 control systems, 
+7,000 gas turbines, and 1,000 steam turbines. No matter your plant’s type, complexity or purpose, we have the know -how to help 
+you achieve your decarbonization objectives. Our solutions span from reducing fuel use and CO2 emissions at start -up to full -scale 
+energy system management to optimize energy dispatch. These solutions enable more flexible operations that would otherwise be 
+restricted to standard load requirements (see Figure 2). This paper will overview ways you can cut emissions, save costs and reach 
+desired performance across energy operations .
+Reduced emissions during Startup.
+Startup & Stop Performance solutionsLow Loss Start addresses these challenges in a way that 
+reduces fuel consumption upon startup and thereby 
+reduces emissions –ideal for plants also looking to reduce 
+fuel consumption costs.
+This is a turnkey solutions that incorporate a dynamic 
+digital twin, adaptive open -and closed -loop controls, as 
+well as server, software, and predictive controls  
+to realize optimal set points for main control loops. 
+These optimizations will improve your plant’s efficiency 
+while  reducing fuel consumption and emissions .Figure 2 Omnivise Performance solutions can cut emissions for your fleet and optimize performance in many waysTransitioning to a net zero future with Omnivise Performance
+© 2024 Siemens Energy Page 3and  electricity prices, design limits, and current plant 
+conditions (e.g., cold/warm or hot start.) 
+Slow and non -linear control loops like steam
+temperature control make the automation of the  
+optimal startup a complex control problem, one that  
+often requires manual operator interventions.for both combined -cycle and steam power 
+plants can help reduce emissions. 
+Starting up a power plant  optimally is a 
+challenging task, involving the  
+consideration of various factors like fuel 
+
+Fortunately, Siemens Energy has solutions that help your 
+equipment run at a highly efficient state while 
+minimizing the carbon output.
+Our use of equipment -specific, high -fidelity digital twins 
+can model your power plant’s performance at all 
+operating loads while infusing our fleet engineering and 
+operating experience into your plant’s maintenance 
+plan. This helps to ensure your plant continues to 
+operate at a highly efficient state month after month.
+GT Auto Tuner ( Stability and Emissions Module) 
+autonomously introduces refinements to fuel 
+distribution and exhaust temperature control to optimize 
+and reduce emissions (NOx) and combustion dynamics 
+in both part -load and base -load conditions.
+© 2024 Siemens Energy Page 4Transitioning to a net zero future with Omnivise Performance
+Temperature Optimizer uses a dynamic digital twin to 
+model the complex and non -linear interactions between  
+gas turbines, heat recovery steam generators (HRSGs), 
+and  duct burners. By doing so, we better control steam 
+temperature fluctuations. The result is the plant can 
+increase steam temperature set points and improve 
+overall efficiency.
+Performance Monitoring is a digital application and a 
+managed service that allows you to identify and 
+understand all the areas that contribute to efficiency 
+loss. We use high -fidelity digital twins combined with an 
+intelligent rule base that continuously monitors your 
+equipment’s thermal performance. If a loss in 
+performance efficiency  is identified, a team of 
+experienced performance  engineers from Siemens 
+Energy will evaluate. The team will deliver quantified 
+evidence of the loss as well as a  plan for how to address 
+it. Siemens Energy will even follow up after the 
+proposed maintenance is complete so you can see the 
+performance improvements firsthand.GT Auto Tuner (Performance Module ) helps to 
+compensate for power losses due to degradation of the gas 
+turbine to maintain base load power. In addition, the 
+accuracy of the engine control is increased, which has a 
+positive effect on the service life of the turbine. In the case 
+of a combined cycle configuration, the increased thermal 
+energy of the exhaust gas is used to generate more steam in 
+the boiler, thereby increasing the output of the steam cycle.Our solutions include Primary Frequency Control  (PFC), 
+Secondary Frequency Control (SFC) and  Automatic 
+Generation Control (AGC) to help ensure stability for grids 
+with significant wind and solar generation. At the same 
+time, our solutions can also help avoid  shutdowns during 
+periods of low power demand by  reducing your plant’s 
+minimum power output limit, and therefore reducing 
+emissions.Demand Response solutions for 
+combined cycle and steam power plants can 
+improve power output and provide flexibility 
+and grid  support to stabilize carbon -free, 
+variable generating assets in your hybrid fleet.
+Maximum Load Plus is both an efficiency and megawatt 
+output improvement for plants that already employ the grid 
+services described above.
+It works by incorporating the steam cycle into the frequency 
+response. The benefit is that combined cycle plants can run 
+their gas turbines at higher load while still delivering the 
+frequency reserve. This enables the gas turbines to run more 
+efficiently and produces more heat for the steam cycle.Minimum Load Reduction improves open -and closed -
+loop controls to consume less energy and allow plants to 
+continue operating at times of depressed electricity prices  
+while keeping the impact on efficiency as low as possible. 
+For one customer whose plant meets the energy needs of  
+2.5 million people per day, the minimum load reduction  
+solution reduced fuel consumption by 30% during low  
+demand times while increasing dispatch control capability  
+four times.
+Continuous improvement  
+means staying efficient.
+Emissions and Efficiency it’s  
+inevitable that power generation 
+equipment will degrade with use and grow 
+less efficient. 
+Your equipment operates under extreme mechanical and 
+thermal stress, which –combined with environmental 
+factors –will eventually cause it to decline in power output. 
+Over time, this also results in higher carbon release per 
+megawatt generated.The biggest challenge facing power producers in the coming 
+years will be how to determine the right dispatch plan, one 
+that allows you to maximize your revenues while minimizing 
+your carbon output. 
+Today’s producers have a variety of power generation 
+equipment available to dispatch. These bring different 
+variables into play affecting the best time to dispatch. Economic dispatching means 
+artfully integrating fossil assets 
+with new carbon -free MWh  
+production.
+Power grids now ask power producers to submit bids for as 
+little as 5 -minute intervals, and those intervals are expected 
+to get even smaller in the future. Such a trading 
+environment demands advanced AI simulation scenarios 
+with virtual power plants that connect to integrated hybrid 
+controllers that help determine the most economical 
+dispatch decisions. With the help of AI, you can set an 
+objective function for optimizing revenue within a target 
+carbon output goal. Siemens Energy offers these solutions as 
+part of our Energy Management suite so you can integrate 
+new carbon -free power generating assets into your existing 
+fleet.Create the foundation for 
+decarbonization.
+The choices we make today will have a profound impact on 
+the world’s climate. Although it’s important to act with 
+urgency, we recognize that the change to a net zero world 
+will not happen in the blink of an eye, but we can take the 
+first steps to getting there. The Omnivise Performance 
+portfolio will help decrease the carbon output of your fleet 
+through reduced emissions, less auxiliary power 
+consumption, and lower fuel consumption from existing 
+fossil assets. Additionally, our solutions enable the creation 
+of an integrated economic dispatch plan for your entire 
+fleet. 
+With Siemens Energy at your side, you can implement 
+solutions today to create the foundation for a deeply 
+decarbonized world.
+Contact your Siemens Energy sales representative to 
+schedule a presentation or visit our website
+Authors
+Nico Lehmann, Darren McGuire, Katie Hanley 
+Published by
+Siemens Energy, Inc. 
+4400 N Alafaya Trail 
+Orlando, Florida 32826
+For more information, please contact  
+sppa -p3000.energy@siemens -energy.com
+© Siemens Energy, 2024
+Siemens Energy is a trademark licensed by Siemens AG. 
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may undergo 
+modification in the course of further development of the products. The 
+requested performance features are binding only when they are expressly 
+agreed upon in the concluded contract. All product designations may be 
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or 
+other companies whose use by third parties for their own purposes could 
+violate the rights of the owners.
+© 2024 Siemens Energy Page 5Transitioning to a net zero future with Omnivise Performance
+Energy Management is a suite of solutions 
+that enables you to optimize the dispatch of your 
+hybrid fleet of power generation equipment 
+towards a particular goal, such as maximizing your 
+carbon -free generation. 
+Recent simulation studies for one of our clients show a 
+potential reduction of up to 98.4 ktons per year of CO2 in a 
+desalinization plant. In another plant, we reduced fuel use 
+and cost by .33%, resulting in CO2 reduction and cost savings 
+of $4 million per year. These solutions also facilitate 
+forecasting and  ultimately help you manage your energy 
+trading. In essence,  they offer a one -stop shop for virtual 
+energy planning and  dispatch, a key to success in the 
+complex energy markets of  the future.  
