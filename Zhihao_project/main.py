@@ -8,98 +8,70 @@ import uvicorn
 import os
 from typing import List, Dict, Any
 
-# Importar nuestro RAG
-from rag_pinecone import (
-    llm,
-    qa_prompt, 
-    history_aware_retriever,
-    retriever
-)
+# Import our RAG assistant class
+from rag_pinecone import SiemensEnergyAssistant
 
-# Inicializar la aplicación FastAPI
+# Initialize the SiemensEnergyAssistant
+assistant = SiemensEnergyAssistant()
+
+# Initialize the FastAPI application
 app = FastAPI(title="Siemens Energy ChatBot")
 
-# Habilitar CORS
+# Enable CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Puedes restringir a dominios específicos en producción
+    allow_origins=["*"],  # You can restrict to specific domains in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Montar archivos estáticos (frontend)
+# Mount static files (frontend)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
-# Definir el modelo de entrada para el chat
+# Define the input model for the chat
 class ChatRequest(BaseModel):
     message: str
-    history: List[Dict[str, str]]  # Lista de dicts con {"user": ..., "ai": ...}
+    history: List[Dict[str, str]]  # List of dicts with {"user": ..., "ai": ...}
 
-# Endpoint para el chat
+# Chat endpoint
 @app.post("/chat")
 async def chat(request: ChatRequest):
     print(request)
     try:
-        # Convertir el historial a mensajes para LangChain
+        # Convert history to LangChain message format
         chat_history = []
-        for message in request.history:
+        for pair in request.history:
             chat_history.append(HumanMessage(content=pair["user"]))
             chat_history.append(AIMessage(content=pair["ai"]))
-
-        # Obtener documentos del retriever con su metadata
-        if chat_history:
-            contextualized_question = history_aware_retriever.invoke({
-                "input": request.message,
-                "chat_history": chat_history
-            })
-            docs = contextualized_question
-        else:
-            docs = retriever.invoke(request.message)
         
-        # Extraer fuentes
-        sources = [doc.metadata.get('source', 'Unknown source') for doc in docs]
+        # Set the assistant's chat history
+        assistant.chat_history = chat_history
         
-        # Crear contexto con información de fuentes
-        context_with_sources = []
-        for i, doc in enumerate(docs):
-            source = sources[i]
-            context_with_sources.append(f"{doc.page_content}\nSOURCE: {source}")
+        # Process the query using the assistant
+        answer = assistant.process_query(request.message)
         
-        # Unir todas las piezas de contexto
-        combined_context = "\n\n".join(context_with_sources)
-        
-        # Procesar la consulta usando el prompt y LLM
-        formatted_prompt = qa_prompt.format(
-            context=combined_context,
-            chat_history=chat_history,
-            input=request.message
-        )
-        
-        response = llm.invoke(formatted_prompt)
-        answer = response.content
-        
-        # Devolver la respuesta
+        # Return the response
         return {"response": answer}
 
     except Exception as e:
-        # Manejar errores
+        # Handle errors
         print(f"Error: {str(e)}")
-        raise HTTPException(status_code=500, detail="Error al procesar la consulta")
+        raise HTTPException(status_code=500, detail="Error processing the request")
 
-# Servir el archivo index.html en la ruta raíz
+# Serve the index.html file at the root path
 @app.get("/")
 async def root():
     return FileResponse("static/index.html")
 
-# Endpoint de salud
+# Health endpoint
 @app.get("/health")
 async def health_check():
-    return {"status": "ok", "message": "API ChatBot Siemens Energy está funcionando"}
+    return {"status": "ok", "message": "Siemens Energy ChatBot API is running"}
 
 if __name__ == "__main__":
-    # Asegurarse de que existe el directorio static
+    # Ensure the static directory exists
     os.makedirs("static", exist_ok=True)
     
-    # Ejecutar en todas las interfaces (0.0.0.0) para que sea accesible desde otros dispositivos
+    # Run on all interfaces (0.0.0.0) to be accessible from other devices
     uvicorn.run(app, host="0.0.0.0", port=8000)

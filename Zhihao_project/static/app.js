@@ -1,5 +1,10 @@
 // Variables to store message history
 let chatHistory = [];
+let isRecording = false;
+let recognition = null;
+
+// Check if the browser supports the Web Speech API
+const isSpeechRecognitionSupported = 'webkitSpeechRecognition' in window || 'SpeechRecognition' in window;
 
 // Get DOM elements when document is ready
 document.addEventListener('DOMContentLoaded', function() {
@@ -8,11 +13,92 @@ document.addEventListener('DOMContentLoaded', function() {
     const chatbox = document.getElementById('chatbox');
     const attachmentButton = document.getElementById('attachmentButton');
     const clearButton = document.getElementById('clearButton');
+    const voiceInputButton = document.getElementById('voiceInputButton');
+    const voiceModal = document.getElementById('voiceModal');
+    const startVoiceBtn = document.getElementById('startVoiceBtn');
+    const stopVoiceBtn = document.getElementById('stopVoiceBtn');
+    const cancelVoiceBtn = document.getElementById('cancelVoiceBtn');
+    const voicePrompt = document.getElementById('voicePrompt');
+    const voiceResult = document.getElementById('voiceResult');
+    const voiceStatus = document.getElementById('voiceStatus');
+    const voiceAnimation = document.getElementById('voiceAnimation');
 
     // Check that all necessary elements exist
     if(!sendButton || !inputMessage || !chatbox) {
         console.error('Could not find the necessary elements');
         return;
+    }
+
+    // Set up speech recognition if supported
+    if (isSpeechRecognitionSupported) {
+        setupSpeechRecognition();
+    } else {
+        console.log('Speech Recognition not supported');
+        voiceInputButton.classList.add('opacity-50');
+        voiceInputButton.title = 'Voice input not supported in this browser';
+    }
+
+    // Function to set up the Web Speech API
+    function setupSpeechRecognition() {
+        // Use the browser's recognition engine
+        const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        recognition = new SpeechRecognition();
+        
+        // Configure speech recognition
+        recognition.continuous = false;
+        recognition.interimResults = true;
+        recognition.lang = 'en-US'; // Default language
+
+        // Handle speech recognition events
+        recognition.onstart = function() {
+            isRecording = true;
+            voicePrompt.textContent = "Listening...";
+            voiceStatus.classList.remove('hidden');
+            voiceStatus.classList.add('bg-red-500', 'animate-pulse');
+            startVoiceBtn.classList.add('hidden');
+            stopVoiceBtn.classList.remove('hidden');
+            voiceAnimation.classList.add('active');
+        };
+
+        recognition.onresult = function(event) {
+            const transcript = Array.from(event.results)
+                .map(result => result[0])
+                .map(result => result.transcript)
+                .join('');
+            
+            voiceResult.textContent = transcript;
+            voiceResult.classList.remove('hidden');
+        };
+
+        recognition.onend = function() {
+            isRecording = false;
+            voicePrompt.textContent = "Processing...";
+            setTimeout(() => {
+                if (voiceResult.textContent) {
+                    voiceModal.classList.add('hidden');
+                    inputMessage.value = voiceResult.textContent;
+                    sendMessage();
+                } else {
+                    voicePrompt.textContent = "I didn't catch that. Please try again.";
+                }
+                resetVoiceUI();
+            }, 1000);
+        };
+
+        recognition.onerror = function(event) {
+            console.error('Speech recognition error', event.error);
+            voicePrompt.textContent = "Error: " + event.error;
+            resetVoiceUI();
+        };
+    }
+
+    // Reset the voice UI elements
+    function resetVoiceUI() {
+        voiceStatus.classList.add('hidden');
+        voiceStatus.classList.remove('bg-red-500', 'animate-pulse');
+        startVoiceBtn.classList.remove('hidden');
+        stopVoiceBtn.classList.add('hidden');
+        voiceAnimation.classList.remove('active');
     }
 
     // Function to get current time in format HH:MM AM/PM
@@ -71,7 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
         let formattedMessage = message;
         
         // Look for a sources section at the end
-        const sourcesIndex = message.indexOf('USEFUL SOURCES:');
+        const sourcesIndex = message.indexOf('SOURCES:');
         
         if (sourcesIndex !== -1) {
             // Separate the message and sources
@@ -81,9 +167,9 @@ document.addEventListener('DOMContentLoaded', function() {
             // Format sources in an elegant card
             formattedMessage = `${messageContent}<div class="sources-card mt-4 p-3 bg-gray-50 rounded-lg border-l-4 border-siemens-primary">
                 <div class="font-medium text-siemens-secondary mb-1">
-                    <i class="fas fa-book-open mr-2"></i>USEFUL SOURCES
+                    <i class="fas fa-book-open mr-2"></i>SOURCES
                 </div>
-                <div class="text-sm">${sourcesContent.replace('USEFUL SOURCES:', '')}</div>
+                <div class="text-sm">${sourcesContent.replace('SOURCES:', '')}</div>
             </div>`;
         }
 
@@ -229,7 +315,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <i class="fas fa-robot text-siemens-primary"></i>
                 </div>
                 <div class="bg-siemens-light p-4 rounded-2xl rounded-tl-none max-w-[75%] shadow-md">
-                    <p class="text-gray-800 message-text">Hello, I'm the Siemens Energy Assistant. I'm here to help you with information about our sustainable energy solutions, services, and innovations. How can I assist you today?</p>
+                    <p class="text-gray-800 message-text">Hello, I'm the Siemens Energy Assistant. I'm here to help you with information about our sustainable energy solutions, services, and innovations. You can type or use voice input to ask me questions. How can I assist you today?</p>
                 </div>
             </div>
             <p class="text-xs text-gray-500 ml-14 mt-1">${getCurrentTime()}</p>
@@ -239,6 +325,40 @@ document.addEventListener('DOMContentLoaded', function() {
         chatHistory = [];
     };
 
+    // Function to handle voice input
+    function handleVoiceInput() {
+        // If browser doesn't support speech recognition
+        if (!isSpeechRecognitionSupported) {
+            alert('Voice input is not supported in your browser. Please use Chrome, Edge, or Safari.');
+            return;
+        }
+        
+        // Show the voice modal
+        voiceModal.classList.remove('hidden');
+        voiceResult.textContent = '';
+        voiceResult.classList.add('hidden');
+        voicePrompt.textContent = 'Press Start to begin speaking';
+    }
+
+    // Function to start voice recording
+    function startVoiceRecording() {
+        if (recognition) {
+            try {
+                recognition.start();
+            } catch (err) {
+                console.error('Speech recognition error on start:', err);
+                voicePrompt.textContent = 'Error starting voice input. Please try again.';
+            }
+        }
+    }
+
+    // Function to stop voice recording
+    function stopVoiceRecording() {
+        if (recognition && isRecording) {
+            recognition.stop();
+        }
+    }
+
     // Add event to the send button
     sendButton.addEventListener('click', sendMessage);
     console.log('Click event assigned to send button');
@@ -246,6 +366,32 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add event to the clear button
     if (clearButton) {
         clearButton.addEventListener('click', clearChat);
+    }
+
+    // Add event to the voice input button
+    if (voiceInputButton) {
+        voiceInputButton.addEventListener('click', handleVoiceInput);
+    }
+
+    // Start voice recording
+    if (startVoiceBtn) {
+        startVoiceBtn.addEventListener('click', startVoiceRecording);
+    }
+
+    // Stop voice recording
+    if (stopVoiceBtn) {
+        stopVoiceBtn.addEventListener('click', stopVoiceRecording);
+    }
+
+    // Cancel voice recording
+    if (cancelVoiceBtn) {
+        cancelVoiceBtn.addEventListener('click', function() {
+            if (isRecording && recognition) {
+                recognition.abort();
+            }
+            voiceModal.classList.add('hidden');
+            resetVoiceUI();
+        });
     }
 
     // Also send the message when you press Enter
