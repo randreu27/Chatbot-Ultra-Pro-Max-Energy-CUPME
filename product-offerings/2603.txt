@@ -1,0 +1,68 @@
+RestrictedSiemens Energy 2024. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.
+Ikke kontrollert hvis utenfor dokumentstyringssystemet
+Side 1aviiDokumentnavn: BRUKSANVISNING FOR TRYKKTESTADAPTER TC6A -349 OG
+TC6A -797
+Dokumentnummer: E1A4041813
+Revisjon Skrevet av Kontrollert av Godkjent av Utgitt dato
+A D. MCDOUGLE C. HARRISON S. KELLY 07.05.2024
+FØRSTE UTGAVE
+REVISJONSKONTROLL: Historikk for revisjonskontroll administreres av dokumentstyringssystemet.
+OPERATING GUIDELINES FOR PRESSURE TEST ADAPTORS
+TC6A -349 AND TC6A -797Dok.nr.: E1A4041813
+Rev: A
+Side: 1av2
+RestrictedSiemens Energy 2024. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke for Siemens AG.1FORMÅL OG OMFANG
+Formålet med denne prosedyren er å beskrive prosessen for bruk av trykktestadapterne TC6A -349 og TC6A -
+797 med konnektorer som krever hydrostatisk trykktesting under installasjon. Aktuelle konnektorer er oppført
+i det relevante adapterproduktdatabladet (PDS ).
+2TILHØRENDE DOKUMENTER OG TEGNINGER
+Nummer Navn Sted
+10009195 TC6A -797 PDS Teamsenter
+SD00021194 TC6A -349 PDS Teamsenter
+T14850 TC6A -349 Tegning og tilhørende BOM Teamsenter
+T20448 TC6A -797 Tegning og tilhørende BOM Teamsenter
+10204852 ElecTRON - Installasjons -, drifts - og
+vedlikeholdshåndbokSiemens -energy.com/subsea
+3UTSTYR
+Følgende utstyr kreves for å fullføre denne installasjonen:
+Kalibrert 16 mm momentnøkkel delenr. NOR -13019 (15 til 80 lbf ft) (eller tilsvarende)
+3/4" A/F nøkkel med åpen ende delenr. NOR -29709 (eller tilsvarende)
+5 mm unbrakonøkkel
+4GENERELL SIKKERHETSINFORMASJON OG RISIKOER
+1.For fullstendig sikkerhets -og fareinformasjon, se ElecTRON IOM eller sikkerhetsdatabladet for
+testmediene som brukes.
+Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor mineralbaserte
+oljer.
+Bruk egnet håndbeskyttelse ved håndtering av produkter eller mineraloljer eller syntetiske oljer.
+Advarsel! Risiko for mindre personskade og/eller skade på materiale eller miljø under montering.
+Det må utvises forsiktighet under montering for å sikre at koplinger og hydraulisk/pneumatisk utstyr
+er riktig installert.
+Advarsel! Risiko for personskade som følge av at trykkbærende deler skytes ut på grunn av for høyt
+trykk i systemet.
+Advarsel! Risiko for hydraulisk injisering. Skal kun brukes til MAWP med olje og egnet pumpe i
+samsvar med (sikkerhets -) forskrift om trykkpåkjent utstyr eller relevant lokalt alternativ ved bruk i
+utlandet.
+5KLARGJØRING
+1.Inspiser adapterenheten visuelt for å sikre at det ikke er skade på tetningskjeglen, gjengene eller
+hoveddelen av adapteren. Hvis det er tvil om adapterens integritet, må arbeidet stoppes umiddelbart
+og Siemens Energys tekniske avdeling kontaktes.
+
+OPERATING GUIDELINES FOR PRESSURE TEST ADAPTORS
+TC6A -349 AND TC6A -797Dok.nr.: E1A4041813
+Rev: A
+Side: 2av2
+RestrictedSiemens Energy 2024. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke for Siemens AG.6PROSESS
+1.Se den relevante monterings -/installasjonsprosedyren og konnektor -/omfangstegningen for
+testtrykket som skal brukes og testportens plassering.
+2.Fest testadapteren som brukes løst til konnektoren som testes.
+3.For TC6A -349 skal settskruen kun strammes for hånd (4 Nm) med en 5 mm unbrakonøkkel for å
+fjerne eventuell slakk i tilkoblingen.
+4.Stram testfestet til 5 til 10 Nm med momentnøkkel NOR -13019 og ¾" adapter NOR -29709.
+5.Utfør trykktest i samsvar med relevant monterings -/installasjonsprosedyre.
+6.Avlast systemtrykket ned til omgivelsestrykk.
+7.Fjern testadapteren fra konnektoren som testes, og fjern eventuell gjenværende olje på konnektoren
+og adapteren.
+SLUTT PÅ PROSEDYREN

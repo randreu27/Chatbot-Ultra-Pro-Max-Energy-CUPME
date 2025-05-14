@@ -1,0 +1,30 @@
+Transaction:
+Published 05/27/2021
+LEI 5299005CHJZ14D4FDJ62
+Date 05/25/2021 UTC+2
+Type of transaction Other
+Acquisition (joint deposit with spouse)
+Description of financial instrument: Share
+ISIN DE000ENER6Y0
+Place Xetra
+a) Price and Volume Price Volume
+EUR 26.30000 EUR 28,982.60
+EUR 26.29000 EUR 17,482.85
+EUR 26.25000 EUR 3,228.75
+EUR 26.26000 EUR 31,669.56
+EUR 26.27000 EUR 11,007.13
+EUR 26.28000 EUR 39,025.80
+b) Aggregated information Price Volume
+EUR 26.27930 EUR 131,396.69
+  
+Details of person:
+Name/Company Jochen Eickholt
+Reason Member of the managing body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

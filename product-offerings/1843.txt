@@ -1,0 +1,125 @@
+unrestricted © Siemens Energy, 2021 Siemens Energy is a trademark licensed by Siemens AG.
+Use Case:
+Reverse Engineering
+of a closed Impeller
+unrestricted © Siemens Energy, 20212
+2021 -08
+•Impeller of water pump damaged but no 
+more spare parts available
+•Neither model nor drawing of the impeller 
+existing due to age of part
+•Part to be produced as a one-to-one copy 
+from original damaged part
+•Very low quantity needed leading to 
+consideration of additive manufacturing
+•No design changes allowed to ensure 
+same future pump performance  Pump ImpellerProject overview
+No Mfg. drawingsNo 3D data
+No database
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Data Acquisition –GOM scan of part
+The 3D scan had 
+big holes in the 
+internal  channels. 
+(green contours)
+Outer edges of the 
+model were not 
+sharp and showed 
+wear effects, too.
+Hole and bore 
+geometries are 
+not exact and 
+inhibit defects.
+One rib is missing: Is there 
+a technical need for these 
+features at all, can the 
+geometry be modified here?
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Design development –One-to-one copy
+Scan data Wireframe External geometry
+Internal channels Internal wireframe CAD model
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Part analysis to develop print strategy
+Wall thickness [mm]Increased 
+internal 
+surface angle
+Thin wall 
+analysis
+Undesired wall 
+thickness 
+distributionWall thickness analysis
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Build job preparation
+Volume edge 
+supportsInternal channel 
+volume supports
+Bottom volume 
+supportsAdditional clamping
+to ease milling  
+Edge blende to improve 
+adherence to the built plateFeatures simplifications 
+and material addition
+Print orientation:
+ Support Strategy:
+Build direction
+Overhanging 
+SurfacesMaterial addition to 
+match fitting tolerances
+unrestricted © Siemens Energy, 20217
+2021 -08
+Project results
+•Successful printing of impeller
+•Support structures suitable to support 
+overhanging surfaces and to be removed
+•Enough stock on critical surfaces to 
+machine to final dimensions
+•Model available to print future spare part 
+with significantly reduced lead time
+•Spare part successfully running in pump 
+application with same performance 
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Disclaimer
+This document has been prepared in respect of Siemens Energy AG (together with its subsidiaries, 
+“Siemens Energy ”), under which the majority of the energy business of Siemens Aktiengesellschaft 
+(together with its subsidiaries, “ Siemens ”) will be bundled. It is intended to admit the shares in Siemens 
+Energy to trading on the regulated market of the Frankfurt Stock Exchange. This document does not 
+constitute or form part of any offer or invitation to sell or issue, or any solicitation of any offer to purchase or 
+subscribe for, any shares or other securities of Siemens or Siemens Energy in any jurisdiction.
+This document contains statements relating to the future business and financial performance and future 
+events or developments involving Siemens and Siemens Energy that may constitute forward -looking 
+statements. These statements may be identified by words such as “expect,” “look forward to”, “anticipate”, 
+“intend”, “plan”, “believe”, “seek”, “estimate”, “will”, “project” or words of similar meaning. Such statements 
+are based on the current expectations and certain assumptions, of which many are beyond Siemens’ and 
+Siemens Energy’s control. These are subject to a number of risks and uncertainties. Should one or more of 
+these risks or uncertainties materialize, should decisions, assessments or requirements of regulatory 
+authorities deviate from our expectations, or should underlying expectations not occur or assumptions prove 
+incorrect, actual results, performance or achievements of Siemens or Siemens Energy may (negatively or 
+positively) vary materially from those described explicitly or implicitly in the relevant forward -looking 
+statement. Neither Siemens nor Siemens Energy intend, nor assume any obligation, to update or revise 
+these forward -looking statements in light of developments which differ from those anticipated.The information and opinions contained in this document are provided as at the date of this presentation 
+and are subject to change without notice. They do not purport to contain all information that may be required 
+to evaluate Siemens or Siemens Energy and have not been verified independently. Historical financial or 
+operative information contained in this document has been taken or derived from Siemens’ financial 
+statements, accounting records or management reporting. The combined financial statements for Siemens 
+Energy are currently being prepared. These may deviate substantially from the information included in this 
+document. The information in this document is of a preliminary and abbreviated nature and may be subject 
+to updating, revision and amendment, and such information may change materially. In addition, the 
+historical financial and operative information included in this document does not necessarily fully reflect 
+changes that will occur when Siemens Energy operates as a separate group of companies. Accordingly, 
+such information is not necessarily indicative for the future consolidated results of operations, financial 
+position or cash flows of the prospective Siemens Energy business on a stand -alone basis.
+This document includes –in the applicable financial reporting framework not clearly defined –supplemental 
+financial measures that are or may be alternative performance measures (non -GAAP -measures). These 
+supplemental financial measures should not be viewed in isolation or as alternatives to measures of 
+Siemens’ or Siemens Energy’s net assets and financial positions or results of operations as presented in 
+accordance with the applicable financial reporting framework in its consolidated financial statements and 
+combined financial statements, respectively. Other companies that report or describe similarly titled 
+alternative performance measures may calculate them differently. Due to rounding, numbers presented 
+throughout thisand other documents may not add up precisely to the totals provided and percentages may 
+not precisely reflect the absolute figures.
+This document contains forecasts, statistics, data and other information relating to markets, market sizes, 
+market shares, market positions and other industry data on Siemens’ or Siemens Energy’s business and 
+markets (together the “ market data ”) provided by third party sources as interpreted by us. This market data 
+is, in part, derived from published research and additional market studies prepared primarily as a research 
+tool and reflects estimates of market conditions based on research methodologies including primary 
+research, secondary sources and econometric modelling, which may not be representative.

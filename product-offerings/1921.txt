@@ -1,0 +1,383 @@
+Decarbonization of district 
+heating and industrial
+heat production 
+Reduce CO2 emissions from networks with CHP 
+(Combined Heat and Power) and P2H (Power-to-Heat)
+Affordability 
+Efficiency improvements and the use 
+of waste heat can play a major role in 
+decarbonizing heat production at rea-
+sonable cost. The technologies to decar -
+bonize industrial- and district-heating 
+already exist and are ready to be scaled. 
+Sustainability  
+A rapid reduction in carbon emissions 
+can be achieved by transitioning from 
+coal- or oil-based steam plants to gas 
+turbine powered CHP systems. Deep 
+decarbonization can be reached by 
+switch-ing from nat-ural gas to biofuels 
+or hydrogen. Even negative CO 2 emis- 
+sions can be attained by combining CCS 
+(Carbon Capture Storage) with biofuels 
+(BECCS).
+Due to their high CoP (Coefficient of 
+Performance) heat pumps provide low 
+carbon heat. They are completely carbon 
+neutral, if they are powered with renew-
+able electricity. 
+Flexibility
+Heat can be stored significantly more 
+cost effective than electricity. The com-
+bination of P2H with CHP stabilizes the 
+power market. Heat pumps are prefer-
+ably operated at times of low power 
+prices due to surplus renewable energy. 
+When power prices are high CHP plants 
+can profitably sell power and produce 
+heat at the same time. At peak heat 
+demand it is possible to operate the heat 
+pump together with the CHP plant.Siemens Energy’s heat decar -
+bonization solutions provide 
+several benefits
+Transforming heat production 
+We meet you at your starting point
+The decarbonization of heat generation has emerged 
+as a critical imperative in the pursuit of sustainable 
+and climate-friendly industrial processes and district 
+heating networks. Heat generation for industrial 
+purposes and district heating networks often relies 
+on fossil fuel combustion, contributing significantly 
+to greenhouse gas emissions and ex-acerbating the 
+global climate crisis. Recognizing the urgent need 
+to transition to cleaner and more sustainable alter -
+natives, the focus has shifted towards decarbonizing 
+heat generation.
+Decarbonizing heat generation for district heating 
+networks is crucial for creating resilient and efficient 
+heating systems. Traditionally, these systems have 
+relied on fossil fuel-based boilers or CHP plants. 
+Transitioning to low-carbon heat sources, such as 
+environmental heat, waste heat recovery, or the 
+combustion of biofuels or hydrogen, has the poten -
+tial to not only reduce greenhouse gas emissions but 
+also to improve air quality. Decarbonization of dis -
+trict heating networks also supports the integration 
+of intermittent renewable energy sources, enabling 
+better utilization of excess electricity during periods 
+of high generation.
+Similarly, decarbonizing heat generation in indus -
+trial processes holds immense importance. Many 
+industrial sectors, such as manufacturing, chemicals, 
+and refining, rely on high-temperature heat for their 
+operations. These processes often involve the com -
+bustion of fossil fuels, leading to substantial green -house gas emissions. By shifting towards low-carbon 
+or carbon-neutral heat sources, such as renewable 
+energy-based technologies, industrial processes can 
+substantially reduce their carbon footprint, mitigat-
+ing climate change impacts and enhancing environ -
+mental sustainability.
+In conclusion, transitioning heat generation for in -
+dustrial purposes and district heating networks into 
+net zero CO 2 heating systems is of paramount im -
+portance to combat climate change, reduce carbon 
+emissions, and create sustainable energy systems. Heat production accounts for half of the world’s 
+final energy consumption and contributes 40% of 
+global carbon dioxide (CO ₂) emissions. 
+Figure 1: Compressor of a low-temperature heat pump
+Decarbonization of district heating and industrial heat production  - Unrestricted Information
+2
+Increasing fuel efficiency with gas 
+Turbine based CHP solutions 
+Hydrogen and biofuels
+Biomass
+Electrification of heat with 
+power-to-heat technologies
+01
+02
+03
+04What is heat decarbonization?
+Heat decarbonization, also known 
+as heat transition, is a process for 
+reducing CO 2 emissions from heat 
+production. This can be achieved in 
+different ways. One possibility is to 
+switch to a low-carbon fuel and to 
+make the fuel usage more efficient. 
+This low-carbon fuel can also be replaced with a carbon-free fuel. 
+Alternatively, heat production can 
+also be electrified by using power 
+from renewable energy. Existing 
+heat infrastructure can be trans -
+formed fast and at large scale into 
+affordable and flexible low-carbon 
+energy systems. Prepare your 
+plant for a 
+carbon-free 
+future
+Technologies to decarbonize heatingCarbon footprint reduction in heat generation
+CHP generates electricity and heat from a sin-
+gle fuel source. Depending on the fuel used, the 
+CO 2 emissions per kWh of thermal energy from 
+traditional heating plants, differ widely and range 
+between ~200 gr/kWh for natural gas to ~380 
+gr/kWh for lignite. Therefore, even a simple fuel 
+switch may reduce CO 2 emissions by nearly 50%. 
+In addition, the efficiency of the plant can be sig -
+nificantly increased by converting it into GT-pow-
+ered CHP or into a CCPP (Combined Cycle Power 
+Plant) with heat extraction. 
+The most modern combined cycle power plants 
+achieve electric efficiencies of up to 64%. A total energy efficiency of up to 90% can be achieved 
+by using combined heat and power or combined 
+cold and power solutions. Siemens Energy has a 
+proven track record of providing best-in-class 
+products, solutions, and services for CHP. This 
+is demonstrated by hundreds of cogeneration 
+plants worldwide. From single gas and steam 
+turbines or heat recovery steam generators to  
+full turnkey installations, from waste treatment         
+in Scotland to textile manufacturing in Mexico. 
+The same commitment is iterated in all of our 
+projects around the globe, bringing out the best  
+in CHP.01
+Increasing fuel efficiency with 
+gas turbine based CHP solutions 
+Find out which gas turbine fits best for your application
+Figure 2: Sector coupling scenario including decarbonized heat
+5
+Decarbonization of district heating and industrial heat production  - Unrestricted Information
+Clean fuels, like green hydrogen or biofuels, can significantly lower CO ₂  
+emissions and eliminate fossil fuel dependency in gas turbines. This ap-
+proach is an effective way to future-proof CHP plants and maximize 
+their lifespan.02 Hydrogen and biofuels
+Our hydrogen power plants include use 
+cases for newly built as well as existing in -
+stallations. Our goal is clear: we support 
+our customers with their hydrogen ambi- 
+tions, whether for existing or new units,    
+and we can help with creating a roadmap 
+to a full hydrogen power plant.
+The hydrogen power plant can be cus -
+tomized to your project-specific ne eds.              
+Find out how much carbon footprint you 
+can reduce by burning green hydrogen in 
+your gas turbine. Calculate your CO₂ reduc -
+tion and cost-savings potential on carbon 
+certificates.Hydrogen
+Figure 3: Siemens Energy hydrogen power plantBiogas
+Biogas is suitable where existing gas infrastructure is in place 
+and can be blended with natural gas in a transitional phase. 
+Flexible mixing of hydrogen with biogas also strengthens the 
+gas turbine competitiveness as it allows the installed gas tur -
+bines to operate also when hydrogen is expensive. 
+Liquid biofuels
+Liquid biofuels are suitable for back-up or peaking applica- 
+tions, especially where no gas infrastructure is in place, like in 
+remote applications and island grids. Liquid biofuels can also 
+be a backup fuel to natural gas, hydrogen or biogas. That way, 
+the storage capacity for the gas can be dimensioned for the 
+normal operational profile, while liquid biofuel can be avail-
+able for more unusual events and provide an alternative in 
+cases of interruption of gas supply. Biofuels like biogas, biodiesel, biomethanol and bioethanol are other important 
+decarbonized fuels and part of our gas turbine R&D roadmap at Siemens Energy. 
+Shift to operation with new greener fuels can be done in new and already exist-
+ing gas turbines.Biofuels
+H2 fired CHP may play an important role in future 
+energy systems.
+Competitivity of the technology will depend on: Hydrogen decarbonization calculator
+• Availability and cost of H₂ • Cost of natural gas • CO₂ certificate prices or taxes
+7
+Decarbonization of district heating and industrial heat production  - Unrestricted Information 6
+03 Biomass
+Another decarbonization path is to transform 
+fossil fired heat generation by switching to sus -
+tainably produced biomass in CHP plants. 
+We are looking forward to support you on this 
+journey with our broad portfolio offerings, from 
+steam turbine technology to instrumentation 
+and controls and cyber security solutions.
+When adding CCS, biomass- or biofuel-based 
+CHP plants can be further transformed into 
+BECCS (BioEnergy with Carbon Capture and 
+Storage), thus allowing for negative emissions 
+and energy production at the same time.
+Biomass power plant solutions
+9
+Decarbonization of district heating and industrial heat production  - Unrestricted Information
+04
+Electrification of heat with power-to-heat 
+technologies
+P2H systems signal a paradigm shift in the capabilities of 
+low-carbon energy systems. Since these technologies can be 
+exclusively powered by green electricity, it allows the inte-
+gration of renewable energy sources in heat energy produc -
+tion ‒ an integration that is both crucial and long overdue. 
+There are several technologies used in power-to-heat sys -
+tems, each with its unique working principles and advan -
+tages. The choice of the right P2H technology depends, 
+besides other factors, on the required temperature level.  
+In this document we would like to focus on four different 
+technologies:
+Heat pumps
+Electrical boilers
+Turbo heatersHeat pumps use waste or environmental heat 
+from various sources and raise their temper-
+ature level with the help of electricity. There-
+fore, it is possible to achieve CoP that are much 
+higher than the efficiency of electrical heaters. 
+As a result of their low electricity consumption, 
+their operational cost (OPEX) is significantly 
+lower. Hence, they serve as an excellent option 
+for providing a long-term heat supply.
+Heat pumps are suitable for temperature levels 
+of up to 150°C. Temperatures of up to 270°C 
+can be achieved in combination with a steam 
+compressor. Siemens Energy can look back 
+on numerous large heat pumps installed in 
+the 1980s and 1990s, mainly in Scandinavian 
+countries. We have been offering solutions 
+with thermal outputs of up to 70 MW from 
+one unit. Also, the contribution goes beyond 
+mere hardware delivery, we offer tailor-made comprehensive turnkey solutions from concep -
+tual design to installation, commissioning and 
+maintaining large heat pumps by using our 
+own compressor portfolio.
+        Learn more about our heat pumps
+Electrical boilers work with heating rods 
+or electrodes. They are a well-established 
+technology, simple, fast to install, and 
+require relatively low capital expendi-
+tures (CAPEX). However, despite the fact 
+that their efficiency is close to 100% they 
+consume significantly more power than 
+heat pumps. Electrical boilers can achieve 
+temperature levels of up to 370°C. Induction heating
+Induction heating is already used in many 
+industrial processes for direct heating and 
+melting of electrically conductive mate -
+rials. With growing pressure for decar-      
+bonization of industrial applications solu-
+tions for indirect heating of non-conduc-
+tive fluids or gases emerge. The advantage 
+of this innovative technology are tempera -
+ture levels of up to 1000°C, compact space 
+requirements, fast heat gradients and lim-
+ited losses, as it can be directly integrated 
+into the industrial processes.
+Turbo heaters are another innovative 
+technology for heating up process gases 
+to temperature levels of up to 1000°C. A 
+compressor accelerates the gas to a super -
+sonic level. The resulting shock wave then 
+converts the mechanical energy quite 
+effectively into heat. 
+ Figure 4: Low-temperature heat pump installation with buildingFigure 5: Industrial heat pump configuration for up to 150°C 
+forwarding temperature and 70 MWth
+Decarbonization of district heating and industrial heat production  - Unrestricted Information
+11 10
+What is the best decarbonization option for your 
+heating infrastructure? 
+For maximum efficacy, it often makes sense to 
+combine different technologies. To make the 
+best choice, there are several factors to consider. 
+One of them is the required temperature level. 
+Others are the need for dispatchable power, 
+green electricity cost, availability of waste heat 
+and annual heat curve. For instance, if you have 
+a lot of renewable energy, it makes sense to 
+consider P2H.As most of the factors influencing the technol-
+ogy choice depend on the location of the heat -
+ing network, there is no one-fits-all solution. 
+However, a pre-selection of suitable technologies 
+can be done. The matrix below shows the tem -
+perature level that can be achieved with different 
+technologies.Repowering of existing heat production facilities 
+for a decarbonized energy economy
+Transforming existing heat infrastructure is an 
+important lever for heat decarbonization. This can 
+either be done by repowering heating plants or 
+pure power plants into cogeneration plants. Alter -
+natively, you can convert an existing heating or 
+CHP plant into a P2H (Power to Heat) application.
+For such undertakings we have developed our 
+brownfield transformation approach. It is a holis -
+tic approach to decarbonize legacy plants within a 
+short time frame and with reduced permitting 
+efforts while saving costs by re-using as much of 
+the existing infrastructure as possible. 
+We start where you are! We know that power- and heat producers and 
+industries have different starting points and move 
+at different speeds on their energy transition 
+journey. That’s why, no matter where you are, we 
+help you pick up speed on your road to decar- 
+bonization be it during the concept state, techni -
+cally or exploring different financing models.
+Our experienced service team is ready to assist 
+you in deciding which solution is the right one 
+for you. Please do not hesitate to contact your 
+local Siemens Energy representative for further 
+information.
+Visit our Customer Energy Portal  cep.siemens-
+energy.com  or our  webpage  siemens-energy.com .Contact UsContact us today to find the best solution 
+for decarbonizing your heat network!
+Figure 7: Decarbonization pathways for heat systems Figure 6: Comparison of technologies for heat decarbonization 
+13
+Decarbonization of district heating and industrial heat production  - Unrestricted Information 12
+Low carbon 
+heat examples
+The numerous advantages of P2H and CHP make it an ideal 
+solution for an even greater number of possible applications. 
+See how businesses across the globe benefit from Siemens 
+Energy products, from district heating in China to textile 
+manufacturing in Mexico:
+Heat pump application for district 
+heating in Mannheim
+MVV Mannheim heat pump | Siemens 
+Energy Global (siemens-energy.com)
+District heating from waste heat in Berlin
+Making the Most of Waste Heat | Siemens 
+Energy Global (siemens-energy.com)02 I Germany
+ 03 I Sweden
+Biofuels in CHP plants in Stockholm 
+and Gothenburg 
+Green fuels | Distributed Power 
+Generation | Siemens Energy Global 
+(siemens-energy.com)01 I Mexico
+CHP in Mexico‘s textile industry
+SGT-750 for Grupo Kaltex in Mexico 
+| Siemens Energy Global (siemens-
+energy.com)
+04 I China
+Replacing coal-fired CHP with highly 
+efficient and low-carbon CCPPs in the 
+Guangdong-Hong Kong-Macao greater 
+bay area.
+Siemens Energy to supply F-class gas tur -
+bines to power China’s Greater Bay Area 
+development | Press | Siemens Energy 
+(siemens-energy.com)
+Decarbonization of district heating and industrial heat production  - Unrestricted Information
+15 14
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Otto-Hahn-Ring 6  
+81739 München, Germany
+For the US published by
+ 
+Siemens Energy, Inc.  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+For more information, please visit our website:  
+siemens-energy.com/website
+Article No. CB3-23-0135-BP-EN-01
+© Siemens Energy, 2023
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains 
+general descriptions and/or performance features which may not always specifically reflect 
+those described, or which may undergo modification in the course of further development 
+of the products. The requested performance features are binding only when they are 
+expressly agreed upon in the concluded contract. All product designations may be 
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or other 
+companies whose use by third parties for their own purposes could violate the rights of 
+the owners .

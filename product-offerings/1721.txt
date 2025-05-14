@@ -1,0 +1,188 @@
+Advancing transformer 
+performance with 
+DC compensation 
+technology
+38    TECHNOLOGY Advertorial
+TRANSFORMERS  MAGAZINE  |  Special Edition: Digitalization  |  2024
+  39         www.transformers-magazine.comPeter HAMBERGER  
+peding DC current flow and preserving 
+grid harmony.
+Combatting DC bias: Technical 
+insights into noise reduction
+Modern power transformers are man -
+ufactured using highly optimized 
+grain-oriented steel and core stacking 
+technologies. Even modest levels of DC 
+bias can push transformer core magneti -
+zation to saturation, resulting in signifi -
+cant noise emission. Stricter environ -
+mental noise regulations exacerbate this 
+issue and can cause serious problems 
+with the operation of transformers. Dif -
+ferent sources of DC bias are discussed 
+in the technical brochure of the ongoing 
+CIGRE working group A2.57.
+Siemens Energy’ s innovative DC com -
+pensation (DCC) technology has been 
+developed to eliminate the adverse ef -
+fects of parasitic DC bias, thereby en -
+abling transformers to operate with un -
+disturbed efficiency.
+Balancing act: How DC 
+compensation reshapes 
+transformer operation
+The DC compensation technology ef -
+fectively addresses the issue of DC bias 
+at the core. By utilizing a robust sensor 
+technique to measure the DC magnetiza -
+tion of the core accurately, the DC com -
+pensation system can counteract the DC 
+bias ampere turns by injecting opposing 
+DC ampere turns into a small auxiliary 
+winding located at the core limb. This 
+pioneering technology, known as DC 
+compensation, has been developed with 
+a focus on high robustness and avail -
+ability without the need for installation 
+of electronics or semiconductors inside 
+the transformer tank. Extensive testing 
+has demonstrated the capability of DCC 
+to completely neutralize the adverse ef -
+fects of parasitic DC bias, allowing the 
+transformer to operate with normal 
+and undisturbed properties in the field. 
+Furthermore, DC compensation has no 
+adverse impact on the power network, 
+enabling DC bias currents to flow freely 
+across the transformer windings with -
+out imposing any blocking voltages. 
+Additionally, it can compensate for un -
+symmetrical DC bias loading, a unique 
+feature of this technology, and is galvani -nents in the power grid, a direct conse -
+quence of renewable integration, has 
+escalated concerns around acoustic per -
+formance in transformers. T raditional 
+mitigation strategies have proven inade -
+quate, prompting the need for innovative 
+solutions. Siemens Energy is leading the 
+charge with its state-of-the-art DC com -
+pensation (DCC) technology, ensuring 
+silent transformer operation without im -The power transmission and dis -
+tribution landscape is evolving 
+rapidly as the integration of re -
+newable energy sources intro -
+duces complex challenges for transform -
+er operations. Among these, mitigating 
+noise pollution in densely populated 
+areas is paramount, given its impact on 
+public health and urban quality of life. 
+The rise of direct current (DC) compo -Siemens Energy’s DC compensation tech-
+nology ensures silent transformer operation 
+while preserving grid harmony amid renew -
+able energy integration
+Noise under DC bias uncompensated results acceptance test 
+on transformer
+Change of no-load losses vs. DC in HV of 134.4 MVA unit
+40    TRANSFORMERS  MAGAZINE  |  Special Edition: Digitalization  |  2024TECHNOLOGY
+cally decoupled from the power systems, 
+further enhancing its appeal.
+Mechatronic marvel: Exploring 
+the inner workings of DC 
+compensation technology
+DC compensation is effective across 
+all power systems of the transformer, 
+mitigating the impact of parasitic DC 
+bias and obviating the need for cost -
+ly enclosure of power transformers to 
+meet sound emission standards. This 
+integrated mechatronic system com -
+prises electromechanical and electronic 
+components responsible for DCC sen -
+sor signal processing and the regulation 
+of compensating DC ampere turns to counterbalance any DC magnetization 
+of the core. The system can be divided 
+into a DC-ready part, encompassing all 
+preinstallable components at the trans -
+former, allowing for future retrofitting to 
+achieve a fully functional DCC system. 
+The development of DCC-ready equip -
+ment prioritizes the use of passive ele -
+ments, such as the DCC sensor made of 
+silicon steel and copper coils without any semiconductor elements, and the DC 
+compensation winding, a small auxiliary 
+winding situated at the core limb, which 
+requires no replacement or maintenance 
+throughout the transformer’ s lifespan. 
+Completing the system retrofit involves 
+a Silicon Controlled Rectifier (SCR) 
+controlled reactor for DC injection, 
+sensor signal processing electronics, 
+and controller electronics, with a small  The mechatronic DC compensation system 
+eliminates parasitic DC bias impacts, 
+requiring no semiconductor elements and 
+allowing future retrofitting
+www.transformers-magazine.com
+  41         
+and its tailored solutions for mitigat -
+ing the impact of parasitic DC bias in 
+power transformers, contact us today 
+to discuss how Siemens Energy can ad -
+dress your specific needs and ensure 
+optimal performance in your power  
+systems.
+ 
+ 
+ derscores the efficacy of DCC technology 
+in resolving noise issues associated with 
+power transformers in a demanding op -
+erational environment.
+T o explore the transformative poten -
+tial of DC compensation technology Programmable Logical Controller (PLC) 
+ensuring comprehensive system oper -
+ation control. Standardized DCC solu -
+tions, tailored to different compensation 
+power requirements, can be selected to 
+address specific DC bias currents, with 
+the flexibility to easily scale up the sys -
+tem for high compensation power and 
+customize it to meet specific needs.
+From conceptualization to 
+field application: DCC in 
+practice
+Siemens Energy’ s commitment to advanc -
+ing transformer technology is evident in 
+the successful real-world applications of 
+DCC. A notable implementation includes 
+the full integration of DCC within 470 
+MV A transformers at a key connection 
+point for an offshore wind park within the 
+Scottish Power Grid. This application un -Successful applications, like the integration of DCC in offshore wind park 
+transformers, showcase its ability to resolve noise issues in demanding 
+environments
+Author  
+Peter Hamberger possesses a diverse background in 
+transformer technology. Since joining Siemens Energy 
+Grid T echnologies in 1995, he has managed several 
+projects and R&D teams for transformer engineering, 
+numerical modeling and had the responsibility for 
+global R&D for medium power transformers. On the 
+material side, he is a member of the Siemens Energy 
+global commodity team for grain-oriented steel. Following his passion for 
+new solutions, he is currently the senior key expert for power transformers 
+in Siemens Energy.
+Tank
+DC ready transformer (left) and upgrade package to a 
+full DC compensation on the right (simpliﬁed)Comp. Wdg.Winding
+blockCoreField
+sensor
+Auxiliary
+power
+SCADA
+system
+DC injecting
+and limiting
+device
+(self-powered)DC detection
+and regulation 
+unit
+42    TRANSFORMERS  MAGAZINE  |  Special Edition: Digitalization  |  2024TECHNOLOGY

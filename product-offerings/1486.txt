@@ -1,0 +1,78 @@
+Siemens Energy Sustainability Report 2021 – SASB IndexPage 1Topic Accounting Metric Code Reference Explanation
+Energy Management Total energy consumed RT-EE-130a.1  Sustainability Report 2021:   
+Decarbonization, pp. 28-34 
+Percentage grid electricity
+Percentage renewable
+Hazardous Waste Management Hazardous Waste Management RT-EE-150a.1  Sustainability Report 2021:   
+Conservation of Resources, pp. 43-46 
+Number and aggregate quantity of 
+reportable spills, quantity recoveredRT-EE-150a.2  Sustainability Report 2021:   
+Conservation of Resources, pp. 43-46 We are reporting significant environmental incidents. During the fiscal year 2021, there were two significant environmental incidents related 
+to Siemens Energy (fiscal year 2020: zero). One was due to the malfunction of a gas cylinder valve leading to a loss of SF6 to the atmosphere 
+and the second incident was a release of synthetic lubricant to a water stream.
+Product Safety Number of recalls issued, total units 
+recalledRT-EE-250a.1 not applicable By continually analyzing our products, solutions and services, quantifying their impacts and determining areas of improvement, we are 
+building the foundation for deriving and implementing measures contributing to a circular economy. Product stewardship at Siemens Energy 
+follows the key standards of the ISO 14000 series, with individual approaches for each Division. The approach is centrally supported by the 
+respective Global EHS departments. It is also an integral part of our Zero Harm approach, which aims to prevent adverse effects to health and 
+the environment due to our business and operational activities. Product safety and product quality topics are also addressed via defined 
+circulars, reporting lines and organizational structures. Customers, developers and manufacturers are provided with user and service manuals 
+that describe the safe use of products, functionality and product maintenance requirements.
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with product safetyRT-EE-250a.2  Annual Report 2021:   
+Note 14, Provisions, p. 92 ;  
+Note 18, Legal proceedings, pp. 94-95 Siemens Energy – Sustainability Report 2021:
+SASB Index
+Siemens Energy Sustainability Report 2021 – SASB IndexPage 2Topic Accounting Metric Code Reference Explanation
+Product Lifecycle Management Percentage of products by revenue 
+that contain IEC 62474 declarable 
+substancesRT-EE-410a.1  Sustainability Report 2021:   
+Product Stewardship, pp. 47-49 We are currently not reporting products by revenue that contain IEC 62474 declarable substances. However, Siemens Energy uses globally 
+standardized materials and substances registers for restricted and declarable substances and products. The lists identify any substances that 
+need to be declared for each product and are updated every six months according to current directives from the European Chemicals Agency. 
+As part of the Siemens Energy supplier assessment and qualification process, suppliers are required to identify whether any of their products 
+or components contain substances that need to be declared according to the specific legislation. Suppliers then need to provide a detailed 
+declaration should any such substances be used within their design and manufacturing activities. 
+We encourage our suppliers to use the industry substance management platform BOMCheck to share declarations for substances of very high 
+concern (SVHC) and link this information to our IT systems. In this way, we can proactively manage risks related to substance restrictions. This 
+year, we have started several projects to continue the implementation of the new reporting requirement “SCIP” (Substances of Concern In 
+Products), a database established under the EU’s Waste Framework Directive that registers products containing SVHC.
+Percentage of eligible products, by 
+revenue, that meet ENERGY STAR® 
+criteriaRT-EE-410a.2 not applicable 
+Revenue from renewable energy-  
+related and energy efficiency-related 
+productsRT-EE-410a.3  Sustainability Report 2021:   
+Decarbonization, pp. 28-34 In fiscal year 2020, we were still part of the Siemens AG Environmental Portfolio (EP) reporting, an annual report which indicates how much 
+GHG is reduced by the products and solutions which qualify as Environmental Portfolio elements and how much revenue they generate. As an 
+independent energy company, we have revisited the existing approach and especially considered an increasing stakeholder focus on carbon 
+budgets as well as the upcoming reporting requirements on sustainable revenue, capital expenditure and operating expenses in line with EU 
+Taxonomy criteria. In the light of these developments, we decided to end the EP reporting and to implement a reporting on absolute Scope 3 
+emissions from the use of sold products (indirect emissions from assets not owned or controlled by the reporting organization) instead.
+Materials Sourcing Description of the management of 
+risks associated with the use of 
+critical materialsRT-EE-440a.1  Sustainability Report 2021:   
+Product Stewardship, pp. 47-49 ; 
+Sustainable supply chain management, 
+pp. 51-54 
+Business Ethics Description of policies and practices 
+for prevention of: 
+(1) corruption and bribery and
+(2) anti-competitive behaviorRT-EE-510a.1  Sustainability Report 2021:   
+Compliance and integrity, pp. 57-60 
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with bribery or corruptionRT-EE-510a.2  Annual Report 2021:   
+Note 14, Provisions, p. 92 ;  
+Note 18, Legal proceedings, pp. 94-95 
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with anticompetitive behavior 
+regulationsRT-EE-510a.3  Annual Report 2021:   
+Note 14, Provisions, p. 92 ;  
+Note 18, Legal proceedings, pp. 94-96 
+Activity Metric Number of units produced by product 
+categoryRT-EE-000.A not applicable To get an understanding of our company structure, please refer to  Sustainability Report 2021:  Siemens Energy at a glance, p. 8.
+Number of employees RT-EE-000.B  Sustainability Report 2021:   
+Working at Siemens Energy, pp. 62-69 

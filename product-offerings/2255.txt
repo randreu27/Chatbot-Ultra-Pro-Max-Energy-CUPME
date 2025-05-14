@@ -1,0 +1,300 @@
+TECH CORNER
+RECIPROCATING COMPRESSORS
+Modern reciprocating compressors can reach a 
+given compression ratio in fewer stages than turbo 
+compressors. By Timothy Ablondi and Mark BartonCompressors are 
+hydrogen ‘colour blind’ 
+Hydrogen is poised to play a crucial 
+role in the energy transition 
+and has emerged as a powerful 
+decarbonization agent for many carbon-
+intensive sectors, including process 
+industry, transportation, mobility, and power 
+generation.
+Compressors are an essential part of 
+the hydrogen value chain and are needed 
+to efficiently transport and store hydrogen 
+from its point of production to end-use. This 
+includes the gathering of emissions-free 
+“Green” hydrogen produced by electrolyzers; 
+“Grey” hydrogen from steam methane 
+or autothermal reformers (SMRs/ATRs); 
+or “Blue” hydrogen, which is essentially 
+“grey” hydrogen with CO 2 removed from 
+the generating source.  Other applications 
+include transporting hydrogen via short or 
+long-distance pipelines, compressing it to the 
+pressure levels required by vehicle fueling 
+stations, fuel cells, supplying gas turbines, 
+or other downstream and petrochemical 
+processes. 
+Hydrogen compressors do not “see” 
+the hydrogen production method “colour”, 
+as every process produces the same low 
+molecular (i.e., mole) weight hydrogen gas. 
+However, there are several factors that must be considered when selecting a machine 
+for a given application. In this article, we will 
+discuss a few key variables, including:
+■  Gas Composition
+■  Water Content
+■  Wet vs. Dry Process Gas Flow
+■  Suction Pressure
+■  Process Gas Temperature
+■  Compression Ratio
+■  Cylinder Lube-oil Carryover
+For end-users, failure to specify these 
+values to OEMs submitting bids can result in 
+a number of undesirable outcomes, including 
+higher costs (in both CAPEX and OPEX) and 
+confusion as to which compressor solution is 
+best suited for the application. 
+Hydrogen Compression Basics
+Hydrogen has a mole weight of 2.02 g/mol 
+and a density approximately 1/8th that of 
+natural gas. This has important implications 
+for compression as each compressor 
+technology is impacted differently basis the 
+low gas mole weight.Reciprocating compressors work on the 
+principle of positive displacement; therefore, 
+efficiency is not affected by the molecular 
+weight of the process gas compressed. This 
+is in contrast to centrifugal-type turbo-
+compressors, which utilize high-speed 
+impeller rotation to increase the kinetic 
+energy of the gas which is then converted 
+to pressure through the stationary diffuser.  
+The gas kinetic energy is a direct function 
+of its velocity and mass (molecular weight).  
+Since the mole weight of hydrogen is low, the 
+velocity of the gas will need to be higher to 
+achieve an equivalent pressure compared to 
+a heavier mole weight gas.
+Increasing the kinetic energy can be done 
+two ways: the first is increasing impeller tip 
+speed by increasing rotational speed and/or 
+expanding the diameter of the impeller. The 
+limiting factor here is often the mechanical 
+strength limits of the impeller materials. 
+The second is by incorporating additional 
+compressor stages. 
+Currently, state-of-the-art reciprocating 
+compressors can achieve a given overall 
+compression ratio in fewer stages than 
+FIGURE 11 Reciprocating compressors are 
+currently the most efficient option for 
+compressing hydrogen in most applications.
+EDITOR’S NOTE: 
+A portion of this article was published 
+in the August/September issue of 
+COMPRESSORTECH2. Because of the last-
+minute cuts in the previous issue, this 
+article is republished here in its entirety. >
+REPRINTED FROM COMPRESSORTECH2 OCTOBER 2022
+TECH CORNER
+RECIPROCATING COMPRESSORS
+turbo-compressors.  For example, achieving 
+a pressure ratio of 4:1 on hydrogen gas 
+would typically require only two stages in 
+a reciprocating compressor. With a turbo-
+compressor, the same application may take 
+as many as six stages and would likely come 
+at a higher CAPEX as well. 
+While turbo-compressors have limitations 
+in hydrogen service, progress is being made 
+on advancing the technology for improving 
+compression ratio capabilities. Research  
+and development efforts are currently 
+focusing on several areas, including the 
+design of the core compressor, bearings, 
+materials, seals, train architecture, and 
+packaging. 
+Ultimately, the choice of compressor 
+will be dictated by the unique requirements 
+of the process. Turbo-compressors are 
+generally a better option for situations 
+with moderate to high flows and lower 
+compression ratios (i.e., hydrotreating units 
+in refineries).  Reciprocating compressors, 
+on the other hand, are better suited for 
+lower volumes and higher pressures, or 
+where a high range and flexibility in part-
+load operation is expected. A prime example 
+would be downstream of an electrolyzer unit 
+in a green hydrogen production plant. 
+Design Considerations for 
+Reciprocating Compressors
+Siemens Energy is a leading provider of 
+both reciprocating and turbo-compressors 
+to the hydrogen market. With over 2,500 
+reciprocating units (more than 2.5 million 
+horsepower) installed worldwide in hydrogen 
+rich services, the company has extensive 
+experience designing these machines for a 
+wide range of applications. To ensure optimal 
+compressor solutions are obtained, the 
+impacts of critical process parameters need 
+to be clearly understood. Some of the most 
+important are outlined below. 
+GAS COMPOSITION - Gas composition 
+dictates gas compressibility and gas 
+molecular weight. It is possible for different 
+gas mix combinations to have the same 
+combined molecular weight but different 
+compressibility values. This is critical, 
+as compressibility will impact power 
+consumption of the compressor, which in turn will affect motor selection and lifecycle 
+costs of the plant. 
+Generally, a lower molecular weight will 
+require larger cylinders vs. the equivalent 
+mass flow of a higher molecular weight gas. 
+Specifying the exact make-up of the gas to 
+the compressor OEM (i.e., 100% H 2 vs. 99% 
+H2, 1% O 2) will ensure that the correct design 
+is selected, and that costs and energy 
+consumption are optimized.  
+WATER CONTENT & WET VS. DRY FLOW – Water 
+content also impacts gas molecular weight 
+and compressibility. 100% dry hydrogen 
+gas will have a lower molecular weight than 
+100% hydrogen gas saturated with water. 
+A gas containing water can have its flow 
+represented as a “dry flow” where the water 
+content is not considered or as a “wet flow” 
+which does take water into account. A wet 
+gas application will typically require a smaller 
+compressor solution if it is sized on the basis 
+of wet flow rather than the same value as 
+a dry flow. Additional scope and material 
+considerations may also be required if water 
+is present in the gas.
+SUCTION PRESSURE - Reciprocating 
+compressors are highly sensitive to suction 
+pressure, especially near atmospheric (1 
+BarA). This is because positive displacement 
+machines need to physically create 
+the volume to be compressed. A unit 
+compressing gas at 1BarA will require first 
+stage cylinders roughly twice the volume of 
+the equivalent service compressing the gas 
+from 2 BarA. This sensitivity is noticeable even when comparing 1.05 BarA to 1.1 BarA. 
+Therefore, it is important to be precise when 
+defining the pressure as “atmospheric”.
+GAS TEMPERATURE - A higher temperature 
+gas will require larger bore cylinders to create 
+the same volume as a lower temperature gas 
+at the same pressure. Compressing a gas 
+with a higher suction temperature will have 
+a higher discharge temperature. This can 
+result in discharge temperature limits being 
+reached sooner, thus additional stages of 
+compression may be required.
+COMPRESSION RATIO – As mentioned 
+previously, achieving higher compression 
+ratios requires additional stages of 
+compression; and additional stages require 
+additional cylinders. Compressor staging 
+requirements will also be influenced by 
+discharge temperature limits. For hydrogen, 
+depending on process gas temperatures, the 
+compression ratio per stage would typically 
+be around ≈2.
+LUBE-OIL CARRYOVER - Lubrication provides 
+protective film for wear parts and is critical 
+to compressor reliability and availability. To 
+improve reliability and availability, non-
+lubricated services require a slower piston 
+speed. This is met by reducing electric motor 
+RPM, or shortening the compressor stroke. 
+Reduced piston speed will necessitate 
+larger bore cylinders to meet equivalent flow 
+capacities. Non-lube applications have lower 
+discharge pressure limits and bore diameter 
+limitations.
+To illustrate how even slight changes 
+FIGURE 22 Assumptions between two OEMs submitting bids for the same compressor project.
+>
+REPRINTED FROM COMPRESSORTECH2 OCTOBER 2022
+TECH CORNER
+RECIPROCATING COMPRESSORS
+REFERENCES:
+[1] Strategy and Part of the PWC Network, The dawn of green 
+hydrogen in https://www.strategyand.pwc.com/ m1/en/
+reports/2020/the-dawn-of-green-hydrogen/ the-dawn-of-green-
+hydrogen.pdf 
+[2] H2 Compression: An Integral Part of the H Value Chain’, Siemens 
+Energy, (2021).in the above parameters will impact 
+compressor selection, let us examine a 
+hydrogen compression application with 
+the following requirements specified by the 
+end-user:
+■   Application: Green Hydrogen (Electrolysis 
+Plant)
+■  Suction Pressure: Atmospheric
+■  Discharge Pressure: 30bar
+■  Hydrogen Production Volume: 420 kg/hr
+Now although it seems the provided 
+data by the end-user is complete, the data 
+is in fact open enough to allow two different 
+compressor OEMs submitting bids for the 
+project to make their own assumptions about 
+several parameters. These assumptions are 
+included in Figure 2. 
+Based on these assumptions, the 
+design and cost difference between the 
+compressors specified by the OEMs are 
+substantial.For OEM 1, the solution might look like: 
+■  3 cylinders
+■  3 stages of intercooled compression
+■  500 kW motor
+■  $2MM CAPEX
+Whereas, OEM 2 would have a different 
+solution:
+■  6 cylinders
+■  5 stages of intercooled compression
+■  900 kW motor
+■  $3MM CAPEX
+The OPEX of both solutions is difficult to 
+quantify without a more detailed description 
+of the site parameters and client operating 
+philosophy. However, we can see that the 
+discrepancy in total cost of ownership 
+(TCO) would be further compounded 
+when comparing the two solution’s power 
+consumption and different maintenance 
+requirements.
+The Road Ahead
+Through 2050, global production of hydrogen 
+is forecast to reach as high as 750 million 
+tonnes per annum (mtpa) – a 10-fold increase 
+from the 74 mtpa produced in 2018 [1]. 
+However, to realize its full potential in the global Energy Transition, the production 
+of hydrogen must be decarbonized 
+dramatically. This means accelerating the 
+build out of both “blue” and “green” hydrogen 
+capacity. Today, 95% of all hydrogen is 
+still “grey”, with associated emissions of 
+around 9-10 tons of CO 2 per ton of hydrogen 
+produced [2]. 
+Compressors are an enabling technology 
+and are needed at virtually every step of 
+the hydrogen value chain. Regardless of 
+the hydrogen application or the type of 
+compressor being used (reciprocating or 
+turbo), end-users can benefit by engaging 
+early with OEMs to clearly define the 
+requirements of the process, as well as any 
+potential constraints. Doing so ensures right 
+sizing of the compressor and that design 
+attributes are selected which will provide the 
+lowest TCO over the life of the unit.
+With a broad compression portfolio 
+and 100+ years of experience in 
+hydrogen compression, Siemens Energy 
+can remain compressor “neutral”, thus 
+ensuring that the optimal equipment solution 
+is selected, no matter the colour of the 
+hydrogen. CT2
+FIGURE 33 Compressors are needed at virtually 
+every step of the hydrogen value chain.
+If you enjoyed this article, subscribe to the COMPRESSORTECH2 magazine.  
+www.compressortech2.com/subscribe

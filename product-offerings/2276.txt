@@ -1,0 +1,2348 @@
+        Gas Field Policy, Index 
+February, 2021  
+Siemens Energy is a trademark licensed by Siemens AG.    
+Gas Field Policy Index  
+ 
+Description Policy 
+Number Date 
+   
+Commercial GFPs 
+   
+Order Entry Policy GFP-1 Feb. 2021 
+Pre-Start and Startup Forms GFP-8 Feb. 2021 
+Order Cancellation Policy GFP-26 Feb. 2021 
+   
+Technical GFPs   
+Compressor Performance Policy GFP-2 Feb. 2021 
+Low Molecular Weight Applicat ions (MW<12) GFP-11 Feb. 2021 
+Acid Gas Applications GFP-12 Feb. 2021 
+FPSO GFP-14 Feb. 2021 
+Air or Nitrogen Service GFP-15 Feb. 2021 
+Carbon Dioxide Service (wit h H20) GFP-16 Feb. 2021 
+Low Temperature Service GFP-17 Feb. 2021 
+Sour Gas Service GFP-18 Feb. 2021 
+Torsional Vibration An alysis GFP-21 Feb. 2021 
+Comments to API 618, 5th Edition ( 08/2002) – HOS/HOSS GFP-22 Feb. 2021 
+Comments to API 618, 5th Edition (08/2002) – MOS GF P-22 Feb. 2021 
+Non-Lube Service GFP-23 Feb. 2021 
+Comments to ISO 13631 GFP-27 Feb. 2021 
+Quality Control/Quality Assur ance Procedures GFP-28 Feb. 2021 
+Maintenance GFP-29 Feb. 2021 
+ 
+ 
+ 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GPF 1 
+Februar y, 2021 
+ 
+Gas Field Policy 1:  Order Entry Policy 
+ 
+ 
+In addition to a signed Purchase Order Document, customers must provide the requirements of the compressor(s)  
+being ordered. 
+ 
+Specific information needed includes:  
+•   Commercial Information 
+ 
+•  Information on customer contacts for commercial and technical questions, sending engineering  
+information, etc. 
+ 
+• Special accessories ordered 
+ 
+• Cylinder orientation required 
+ 
+• Lubrication system requirements 
+ 
+• Compressor gas analysis and performance requirements (final) 
+ 
+• Torsional analysis information 
+ 
+• Any electrical conditions 
+ 
+• Any special QA/QC requirements 
+ 
+• Any other special requirements 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+Gas Field Policy 2:  Compressor Performance Policy 
+ 
+It is the responsibility of the Reseller to quote and sell Siemens Energy compressors only for conditions of 
+service that are within the limits of the compressor. It is also the responsibility of the Reseller to design and 
+manufacture their package so that the Siemens Energy  compressor is protected from having any of its 
+limitations exceeded, at any time, while operating at any normal or upset condition (including relief valve 
+discharge pressure). 
+ 
+Orders can be accepted only if no compressor limitati on outlined below is exceeded at any time except for those 
+specifically approved by Siemens Energy HSRC Group. 
+ 
+ 
+COMPRESSOR PERFORMANCE LIMITATIONS 
+ 
+Siemens Energy HSRC Group will review the guarantee poi nt performance and any off-design performance, of 
+new Siemens Energy compressors, calculated using the latest version of t he Siemens Energy HSRC 
+sizing/performance program, during t he quote stage or at the time of the order, at no additional charge.  
+Siemens Energy HSRC Group will advise the Reseller of any limitations exceeded, special construction 
+required, or any other problems or concerns. As a part of this review, Siemens Energy HSRC Group will check the internal gas and combined rod loads at the suction and discharge pressures that result in the highest rod 
+loads, adding the margins listed below to the discharge pressure to allow for a reasonable margin between the 
+compressor load limits and protective devices.  These l oads will be checked and confirmed for all speeds within 
+the range of the driver. 
+ 
+Stage Discharge 
+Pressure (PSIG ) Margin Above 
+Dischar ge Pressure Stage Discharge 
+Pressure (PSIG ) Margin Above 
+Dischar ge Pressure 
+-14.7 to 150 15 PSI 2501 to 3500 8% 
+151 to 2500 10% 3501 to 6000 6% 
+ 
+Based on the various criteria contained herein, Siemens Energy HSRC Group must be satisfied that the internal 
+gas load does not exceed the Maximum Allowable Cont inuous Gas Load (MACGL) and the combined rod load 
+does not exceed the Maximum Allowable Continuou s Combined Rod Load (MACCRL) at any time. 
+ Additional criteria and limitations to be considered wh en reviewing compressor performance are as follows: 
+ 
+•  Maximum Allowable Working Pressure (MAWP) s hall not exceed that as defined by the cylinder 
+rating. 
+ 
+•  Horsepower/Throw shall not exceed that defined by the frame (except as specifically approved 
+by DR HSRC Marketing) 
+. 
+• Discharge Volumetric Efficiencies shall not fall below 10%. 
+ 
+•  Adiabatic Discharge Temperature (for pressures less than 4000 PSIG) shall not exceed 300°F 
+(149°C). For pressures greater than 4000 PSIG, see additional information herein. 
+ 
+• Predicted Actual Discharge Temperatur es shall not exceed 350°F (177°C). 
+ 
+•  Alarm on Discharge Temperature should be set at 25°F higher than predicted actual discharge 
+temperature. 
+ 
+•  Rod Reversal shall exceed 40°. 
+  
+• The ratio of tension load to compression load or vice-versa, shall exceed 20%. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+ 
+• The recommended maximum allowable RPM of compressors operating at high discharge 
+pressure and / or heavy mole weight gases can be found on the following curves. See Figures 1 
+& 2. 
+ 
+1. Use the discharge pressure (psig) to  determine the maximum allowable adiabatic 
+discharge temperature. 
+ 
+2. Divide the Molecular Weight (MW) by the lowest encountered compressibility (Z) to 
+determine MW / Z. 
+ 3. Find the "Maximum Speed Factor" limitati on from Figure 1 based on both the Pressure 
+(top curve) and MW / Z (bottom curve), and use whichever is lower. 
+ 
+4. Find the Maximum Allowable Speed for a frame from Figure 2 using the "Maximum 
+Speed Factor". 
+ 
+Example 1 -  For a discharge pressure of 4000 ps ig and MW/Z of 20, the Maximum Speed Factor is 
+12 and the maximum allowable adiabatic disc harge temperature is 300 degree F. For a 
+6" stroke frame the Maximum Allowable Speed is 1200 RPM. 
+ 
+Example 2 -  For a discharge pressure of 2000 ps ig and a MW/Z of 50, the Maximum Speed Factor 
+is 9 and the maximum allowable adiabatic discharge temperature is 300 degree F. For 
+a 4" stroke frame the Maximum Allowable Speed is 1350 RPM.  
+ 
+Example 3 -  For a discharge pressure of 6000 ps ig and a MW/Z of 20, the Maximum Speed Factor 
+is 9 and the maximum allowable adiabatic discharge temperature is 270 degree F. For a 3.5" stroke frame the Maxi mum Allowable Speed is 1543 RPM. 
+ 
+Any application outside these recommended limits should be approved by Siemens Energy HSRC Group prior 
+to quoting. 
+ 
+ 
+SPECIAL APPLICATION REVIEW 
+ 
+Siemens HSRC Group should also review and approve any applications with any of the following parameters 
+before Resellers quote them:  
+• Discharge pressures 6000 PSIG or greater. 
+ 
+• Differential pressures greater than 3000 PSIG for a given stage. 
+ 
+• Predicted actual discharge temperatures of 325° F or greater. 
+ 
+• All Non-Lubricated applications. 
+ 
+• Heavy gas applications (ie MW >40). 
+ 
+• Applications involving process gases i.e., hy drogen, oxygen, chlorine, carbon monoxide, etc. 
+ 
+ 
+ 
+ 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+ 
+Speed Restrictions for HSRC Compressors 
+  
+ 
+ 
+Figure 1 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+ 
+Figure 2  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+CAPACITY CONTROL OPTIONS 
+ 
+Acceptable methods of capacity control are listed below: 
+A.  SPEED CONTROL - The preferred method of redu cing compressor  capacity is speed reduction, 
+where variable speed drivers are employed. 
+ 
+B. FLOW REDUCTION BY ADDING CLEARANCE - Clearance may be added to the head end of 
+cylinders with manual variable-volume clearanc e pockets, or to the head end with pneumatic 
+fixed-volume clearance pockets, clearance bottl es, and/or split-valve-yokes. Any time clearance 
+is added, care must be taken to insure that t he discharge volumetric efficiency for any cylinder 
+end is ten percent (10%) or more, for proper valve operation and so that temperature 
+pyramiding does not occur. With special "Pi peline" or "Storage" cylinders, pneumatic fixed 
+volume clearance pockets may be also added to crank end. 
+ 
+C.  TOTAL UNLOADING OF CYLINDER ENDS - T he preferred method is suction valve removal. 
+Normally the head end is unloaded first to avoid cross-head non-reversal problems. The 
+minimum number of degrees of rod reversal (40 degrees) and ratio of minimum combined load 
+to maximum combined load (>20 percent) must be met. This must be checked throughout the operating RPM range. 
+ 
+D.  TOTAL CYLINDER END UNLOADING BY PNEUMA TIC UNLOADERS - When it is not possible 
+to shut down, vent and purge the compressor and  system to remove the suction valve(s), 
+pneumatically-operated "plug" or "port" unloader s may be furnished. (Finger type unloaders are 
+no longer recommended.) As above, the head-end of  the cylinder must be unloaded before the 
+crank-end, unless otherwise approved by Siemens Energy HSRC Group, after a review of the 
+entire operating range of the compressor. When  end unloading is required, please consult 
+Siemens Energy HSRC Group for guidance and approval. Normally cylinders should not be 
+completely unloaded with pneumatic unloaders except for very brief periods at startup. 
+Pneumatic unloaders reduce valve lift areas and de crease cylinder efficiency. They should be 
+used only when absolutely required. 
+ 
+E.  SIEMENS ENERGY RECOMMENDS THAT A PULSATION STUDY OF THE PIPING SYSTEM 
+BE PERFORMED WHENEVER IT IS ANTICI PATED THAT THE COMPRESSOR WILL BE 
+OPERATED WITH ANY CYLINDER END(S)  TOTALLY UNLOADED BY ANY METHOD. 
+ 
+F.  BYPASS - A bypass from final discharge to init ial suction, through a throttling valve, may be 
+used either as a sole means of capacity control or, more commonly, in conjunction with other 
+methods. Since the cooling effect of ex pansion across a throttling valve is normally not enough 
+to remove the heat of compression, capacity c ontrol using a throttling bypass usually requires 
+taking gas downstream of the aftercooler, or providing cooling for the bypass, to prevent heat 
+buildup through the system. The opposite case of  too much cooling across the valve can also 
+be a problem because of a potential for freezing of  the throttling valve due to localized cooling 
+due to expansion. Maximum differential across the valve will depend on operating temperature, 
+ambient temperature, and gas composition. St eps to prevent freeze-up include multi-step 
+throttling and heat tracing of the valve. Please note:  Any cooled bypass, whether for throttling 
+or for start-up, should be returned to the inlet si de of the unit upstream of the separator element 
+due to the potential of entrained moisture being carried into the inlet gas stream. 
+ 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+ 
+PERFORMANCE GUARANTEE POLICY 
+ 
+Siemens Energy will guarantee the design point performance of its new (unused) compressors, when the 
+performance has been reviewed and approved by Siemens Energy HSRC Group in accordance with procedures 
+outlined above. This review affords Siemens Energy the opportunity to detect possible input errors, and / or the 
+exceeding of compressor design limitations which may have been overlooked during the proposal stage. 
+ 
+Siemens Energy guarantees the compressor flow an d horsepower, independently, within a tolerance of 3%, 
+subject to the following conditions: 
+ 
+1.  All cylinders must be double-acting. (Singl e-acting cylinders may be used for off-design 
+conditions, as outlined above). 
+ 
+2. The compressed gases must be delivered to the suction flange of each cylinder with 99.9%, by 
+weight, of all entrained solid and liquid part icles, ten microns and larger, removed. 
+ 
+3.  Performance falls within RPM guidelines spec ified in above. If it falls outside the guidelines, 
+guarantee tolerance becomes 6%. 
+ 
+4.  Suction pressure of all stages and/or services  is higher than 10 PSIG. If pressure is less than 10 
+PSIG, guarantee tolerance becomes 6%. 
+ 
+Any field performance test must be in accordance with the following: 
+ 
+1.  The test must be performed in accordance with ISO 1217.  
+2.  The test must be performed within 60 days of initial start-up. 
+ 
+3. The compressor owner shall ensure that all equipmen t is in "as-new" condition at the time of the 
+test. 
+ 4.  The extrapolation from guarantee point to actual test point, if necessary, will be done by 
+Siemens Energy, utilizing Siemens Energy form ulas and computer performance prediction 
+programs. Suction and discharge pressures ar e measured at the respective compressor 
+cylinder suction and discharge flanges. 
+ 
+5.  A pulsation study of the process pi ping system must have been performed. 
+ 
+6. The compressor driver must have been performan ce tested at the driver manufacturer's factory. 
+ 
+7. The charges for Siemens Energy servicemen, te chnicians and /or engineers, to verify the field 
+testing procedures and / or results, if required,  will be in accordance with the applicable service 
+rates and conditions in effect at the time of the verification. 
+ 
+        
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Gas Field Policy, GFP2 
+Februar y, 2021 
+ 
+PERFORMANCE CURVE POLICY 
+ 
+1.  Basic Performance Curves can be generated fr om the latest version of the Siemens Energy 
+HSRC Sizing/Performance Program. 
+ 
+2. Special Performance Curves required to  be generated by Siemens Energy HSRC Group will be 
+priced upon request with full definition of the number and scope required. Pricing will depend 
+upon the estimated engineering hours required to generate the Performance Curves. This 
+applies to both new and used compressors. 
+ 
+3.  As noted above, Siemens Energy's policy is  to guarantee only one Design Point performance 
+on new compressors. Performance is not guar anteed on used compressors. All performance 
+will be generated with the latest version of t he Siemens Energy HSRC Sizing/Performance 
+Program using the most accurate cylinder data available. 
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+ 
+Part 1: “Pre-Startup Information and Checks”  
+ 
+Note:  Most measurements can be compar ed to the Operations & Maint enance Manual or the factory 
+assembly record form number QAF- 262. All readings are assumed to be in English units. If metric is 
+used, please label accordingly.        
+Reseller:______________________________________________   Date:___________________________ 
+ 
+Compressor Model:______________________________________   Compressor S/N:__________________________________________ 
+ 
+Reseller’s Unit #:_______________________________________  Customers Unit #:__________________________________________  
+Driver Make:__________________________________  Driver Model:_________________________  Driver S/N:____________________ 
+ Driver Rated HP: ______________       Driver Rated RPM: _____ __________   Variable Frequency  Drive (VFD)? Yes_______ No ______ _ 
+ 
+Customer:_________________________  Customer Contact:__________________________  Customer Phone#: ___________________  
+Reseller Contact:____________________________________     Reseller Phone #:___________________________________________ 
+ Siemens Energy Rep. Contact (i f applicable): ____________________________  Siemens Energy Rep. Phone #:_____________________ 
+ 
+Unit Location( Address):______________________________________________ State:__________________  Zip:___________________ 
+ Frame Oil Make:__________________________________________  Frame Oil Grade:_________________________________________ 
+ 
+Cylinder Oil Make:________________________________________  Cylinder Oil Grade:________________________________________  
+Compressor Application (booster, storage, transmi ssion, EOR, gathering, lift, etc.)____________________________________________ ___ 
+  
+1) Record the pull-down readings on the frame hold down bolts.  
+ 
+Frame 
+Foot Bolt #  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+10  
+11  
+12 
+Pull-down Readin
+g             
+ 
+ 
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+2) Check the main bearing clearances. Use a .0015” feeler to c heck at positions A, B, and F. Fo r A and B positions you should s tart at the bearing split 
+line and move downward approximately 1 to 1-1/2. You are only lo oking for the presence of clear ance at these locations and can record the results as 
+pass or fail in the table below. At point F you should not be able to insert a .0015” feeler and can record as pass or fail. Se lect a feeler that fits best at 
+position E and record that number in the table below.  Note: There may be some bearings that cannot be accessed practically- leave those spaces 
+blank. 
+ 
+Note: Main Bearing #1 starts from the oil pump end 
+Location A B E F 
+Bearing # 1  
+  
+     
+Bearing # 2   
+ 
+    
+Bearing # 3   
+     
+Bearing # 4   
+ 
+    
+Bearing # 5   
+ 
+    
+Bearing # 6  
+  
+     
+ 
+  3) Piping and bottle supports have been checked to ensure they are not inducing strain on the compressor cylinders or frame.   Yes____ 
+ 
+If strain has been found, where was it and what was done to fix it? _________________________________________________________________________________________________________________________ 
+ 
+_________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________________________________ 
+ 
+  
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+4) Check the crosshead clearances. Note: Use a .0015” feeler to probe at the bottom loca tions C and D and record Pass or Fail. The .0015” feeler 
+can go in as much as ½” and still pass. Select a feeler that fi ts best at locations A and B and record those readings in the ta ble below. 
+ 
+Throw 
+# A B C D 
+1     
+2     
+3     
+4     
+5     
+6     
+ 
+ 
+5) Check piston rod run out. Note: Sweep the piston from outer end to the frame end when taking these readings. The dial indicator should be 
+as close as possible to the packing flange during these checks. 
+ 
+Throw 
+# Vertical Runout Horizontal Runout 
+1   
+2   
+3   
+4   
+5   
+6   
+ 
+ 6) Check piston end clearances. Note: Do not use lead wire- feelers only.  
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+ 
+Throw # Outer End 
+Clearance Frame End 
+Clearance 
+1   
+2   
+3   
+4   
+5   
+6   
+ 
+ 7) Are there cylinder inboard or outboard supports installed? Check each that apply. 
+ 
+Throw 
+# Inboard 
+Support Outboard 
+Support 
+1   
+2   
+3   
+4   
+5   
+6   
+ 
+ 8) What are the “cold” c oupling alignment readings?  
+ 
+  0.000   0.000 
+ 
+ 0.____________     Face    0.____________ 0.____________      Rim    0.____________ 
+ 
+  
+                         0.___________                          0.___________ 
+  9) If equipped with a flywheel- have the bol ts been checked for proper torque? Yes ______ What torque was used? ______________ (ft-lbs) 
+ 
+10) All coupling bolts have been check ed for proper torque? Yes_____  What torque was used?_______________ (ft-lbs) 
+ 
+11) Driver rotation matches the compressor rotation? Yes______    
+ 12) What is the compressor crankshaft thrust reading?  _______________ (inches) 
+ 
+13) The compressor crankcase has been fill ed with oil to the proper level? Yes______ 
+ 
+14) Is there a frame oil heater installed? Yes______ No______   If Yes, is the heater connected and working?  Yes______  
+ 15) The compressor crankcase oil level controller has been set to the proper height? Yes______  
+ 
+16) Lubricator box has been filled with oil? Yes______  17) Are the cylinders and packings lubr ication frame fed? Yes______ No________ 
+ 
+18) Is the low oil pressure switch tubed to the main bearing header (at the flywheel end)? Yes______  
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+ 
+19) Crankcase breather(s) are installed and open? Yes______ Note: If the unit is inside of a building the frame vents need to b e piped to the outside. 
+ 
+20) All vent and drain lines (Frame, VVCP, Packing, Distance Piece, Unloader actuators & stem seals) are installed, properly lo cated, and unrestricted.               
+Yes _______   
+21) The cylinder and packing lubricati on has been primed for running Yes______  
+ 22) Cylinder lubrication no flow s huts the unit down? Yes_____ No _______  
+ 
+23) Lubricator pumps are set to maximum flow? Yes______  
+24) Is there a vibration switch located on the frame? Yes______ No______ If not a switch needs to be installed. 
+ 25) The vibration switch shuts the unit down? Yes______ No _______  
+ 
+26) All safety shutdowns on the package have been tested? Yes______   
+27) Pre-Lube pump has been installed and tested. Yes _______ Test pressure?_________________________________ (psig) 
+ 28) All gas line connections have been blow n out prior to hook up to the compressor to ensure they are clean? Yes_____ 
+ 
+29) Are there a startup screen(s) installed? Yes_____ No______ If so is there a way to measure pressure drop across the screen in case it becomes       
+plugged?    
+     Yes______ No______  
+ Where are the screen(s) located? ____________________________________________________________________________________ 
+ 
+ 30) All fasteners with gasketed joints have been rechecked for pr oper torque? Yes _______ These can include, but are not limite d to outer head VVCP     
+nuts, all frame and distance piece cover bolting, valve cover bolting, front cover bolts, any oil piping fasteners, piston rod packing nuts, etc.. List any that 
+were not properly torqued.  
+_________________________________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________________________________ 
+ 
+_________________________________________________________________________________________________________________________  
+31) Have all clearance pockets been positioned according to  the original performance? (if equipped)  Yes _______ N/A _______ 
+ 32) The compressor has been barred over at least one full revolution to ensure there are no obstructions? Yes______ 
+ 
+33) List any issues found during the Pre-Startup C hecks and what was done to resolve those issues:  
+ 
+_________________________________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________________________________ 
+ 
+_________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Part 2: “Startup Information and Checks” 
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+               
+Note:  Most measurements can be compar ed to the Operations & Maint enance Manual or the factory 
+assembly record form number QAF- 262. All readings are assumed to be in English units. If metric is 
+used, please label accordingly.   
+Startup Date: ___________________ 
+ Customer Contact:_______________________________________  Customer Phone #: __________________________  
+ 
+Compressor S/N:__________________________________________  
+Reseller Contact:____________________________________     Reseller Phone #:___________________________________________ 
+ Siemens Energy Rep. Contact (i f applicable): ____________________________  Siemens Energy Rep. Phone #:________________________ __ 
+ 
+1) Is the frame pre-lube pump running prior to starting the compressor? Yes______ No______   What is the pre-lube pressure? ___ ____________ 
+(psig)  
+2) Main compressor oil pump pressure came up imm ediately after starting the compressor?  Yes______   
+     What is the main oil pump pressure?_________________(psig)       
+3) What is the ambient temperature? ______________ ( ˚F) 
+ 4) What was the oil temperature just prior to start up? ______________ ( ˚F)   
+ 
+5) What was the oil temperature when the unit was loaded? ___________ ( ˚F)   
+ 
+6) What is the oil filter differ ential pressure? _________________________ (psid)  
+ 7) Were there any gas, oil, or coolant leaks? Yes______ No______ If so explain where and what was done to repair the affected a rea. 
+ 
+_________________________________________________________________________________________________________________________  
+_________________________________________________________________________________________________________________________ 
+ _________________________________________________________________________________________________________________________ 
+ 
+_________________________________________________________________________________________________________________________   
+ 
+  
+ 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ Note: All values are assumed to be taken basis full load conditions for steps 8-13. 
+ 
+8) Does the original performance fall in line with the ac tual running conditions? Yes_______ No ______ List the running conditio ns below. 
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+Cylinder  
+# Cylinder 
+Serial Number Suction 
+Pressure 
+(psig) Suction 
+Temperature ˚F Discharge 
+Pressure 
+(psig) Discharge 
+Temperature ˚F 
+1      
+2      
+3      
+4      
+5      
+6      
+RPM  Flow Rate MMSCFD   
+ 
+ 9) If the compressor is equipped with main bearing RTD’s, record the temperatures below. Note: Main Bearing #1 starts from the oil pump end of the 
+compressor. 
+ 
+Main 
+Bearin g # Temperature  ˚F 
+1  
+2  
+3  
+4  
+5  
+6  
+ 
+ 
+10) Cylinder jacket water cooling temperature (if equipped) 
+ 
+Cylinder # Temperature In ˚F Temperature Out ˚F 
+1   
+2   
+3   
+4   
+5   
+6   
+   
+ 
+ 
+9) If the compressor is equipped with packing RTD’s, record the temperatures below. Note: Packing #1 starts from the oil pump end of the 
+compressor. 
+ 
+ 
+          
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 8 
+Februar y, 2021 
+Packing # Temperature  ˚F 
+1  
+2  
+3  
+4  
+5  
+6  
+ 
+ 
+ 11) What is the differential pressure across the suction screen(s)_________psig  Location_____________________________ 
+ 
+          _________psig  Location_____________________________     
+          _________psig  Location_____________________________ 
+  
+12) Heat exchanger oil temperature IN ________________( ˚F)  Heat exchanger oil temperature OUT __________________( ◦F) 
+ 13) Heat exchanger coolant  temperature IN ________________( ˚F)  Heat exchanger coolant temperature OUT __________________( ◦F) 
+ 
+14) The cylinder lubrication no fl ow shuts the unit down? Yes_____  
+ 
+15) The vibration switch(s) shut the unit down? Yes______   
+ 16) Is the low frame oil pressure switch is working? Yes______  
+ 
+      What is the shut down pressure? _________________psig     
+17) Cycle pin indicators in the cylinder lubric ation system cycle (if equipped) Yes______ N/A______  
+ 18) All coolant flow indicators are working? (if equipped) Yes _______ N/A_______ 
+ 
+19) What is the supply pressure to the pneumatic va lve unloaders or pockets? (if equipped)  __________________ (psig) 
+                          
+      Which is being used to operate the devices?  Air _____________   Process Gas _________________ 
+  
+20)  Has a “hot” coupling alignment been done? Yes______ No_______ (should not exceed .005” TIR) 
+  
+ 0.000   0.000 
+  
+0.____________     Face    0.____________ 0.____________      Rim    0.____________ 
+  
+ 
+                         0.___________                          0.___________  
+ 
+21) Discharge bottle chocks have been adjusted to support the weight of the bottle after unit has been heat soaked? Yes_______ 
+ 
+22) Lube pump(s) are set to maximum flow? Yes ________ 
+ 23) What is the master divider block cyc le pin indicator cycle time? ____________ (seconds) 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 11 
+Februar y, 2021 
+ 
+Gas Field Policy 11:  Low Molecular Weight Application 
+ 
+The following guidelines must be met before a Siemens Energy Compressor can be offered for Lubricated 
+Hydrogen or other Low Molecular Weight Applications: 
+ 
+1.  All sizing and performance must be reviewed and approved by Siemens Energy HSRC Group prior to 
+quoting. 
+ 
+2.  Maximum discharge pressure limitation is normally  2000 PSIG. Refer any higher pressure applications 
+to Siemens Energy HSRC Group for review. 
+ 3.  Water-cooled cylinders are required where there is end unloading and/or predicted discharge 
+temperatures above 225°F. 
+ 4.  MOS cylinders require a distance piece. HOS and HOSS will require an extra long distance piece. All 
+distance pieces must be sealed and purged. 
+ 5.  All applications must be review ed at stage relief valve setting conditions to ensure they are within 
+allowable rod loads. 
+ 6. Piston rod packing material and piston ring material must be Durawear DW173 material or equivalent. 
+ 
+7.  Compressor cylinder oil may be crankcase oil if it is clean and dry. Otherwise, a separate oil system and 
+day tank are required - see co mpressor instruction book. 
+ 
+8.  Compressor valves need to be reviewed by Siemens Energy HSRC and the lift and flow area will likely 
+be reduced to promote reliable operation. 
+ 
+9.  No manual unloading systems such as VVCP' s. Acceptable unloading sy stems are FVCP's and 
+pneumatically operated valve unloaders. 
+ 10.  The maximum period that the compressor can be run without a load is 3-5 minutes. 
+ 
+11.  Helium test on compress or cylinders is required. 
+ 
+12.  Actual predicted discharge temperatures should be 275°F or less at normal operating performance 
+point. 
+ 
+13.  Special attention should be paid to sealing the process gas system. No fiber gaskets are allowed. 
+ 14.  HOS and HOSS 26.00-28.00" "clamshell type" cylinder cannot be used. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 12 
+Februar y, 2021 
+ 
+Gas Field Policy 12:  Acid Gas Application 
+ 
+Acid Gas Compressor Applications typically involve the compression of flare gas from oil field amine 
+regeneration systems, but these Guidelines can be app lied to any similar gas stream. Normally "Acid Gas" 
+contains 50 - 100% H2S and CO2 with minor amounts of other common gas field gases and is saturated with 
+water vapor. It is important to have an accurate gas analysis and definition of the full range of operation 
+pressures and temperatures. Also see: GFP-16 Car bon Dioxide Service (With H20) and GFP-18 Sour Gas 
+Service. 
+ 
+The following guidelines must be met before a Siemens Energy Compressor can be offered for an Acid Gas 
+Application.  
+1.  All sizing and performance must be reviewed and approved by Siemens Energy HSRC Group prior to 
+quoting.  
+ 
+2.  Due to the high specific gravity of Acid Gas,  rotative speeds 90% or less than design RPM are 
+preferred. 
+ 
+3.  Gas cooled cylinders are preferred but water-co oled designs are acceptable. If a circulating water 
+system is utilized, care must be taken to k eep temperature at least 10 deg. F above inlet gas 
+temperatures. 
+ 
+4.  Siemens Energy standard cast iron and nodular  iron cylinder materials (ASTM A278 Class 40 (Gray 
+Iron) and ASTM A536 (Ductile Iron) Grade 65-45-12 or ASTM A395 (Ductile Iron) Grade 60-40-18 are 
+acceptable up to rated pressures.  Forged steel cylinders must use "s our gas" billets. Non-lubricated 
+applications are limited to < 1000 PSIG max. 
+ 
+5.  All pressure packing and wiper packing cases should be of purged design.  
+ 
+6.  Packing rings should be DW173 with CI pr essure breaker and backup rings as necessary. Non-
+lubricated cylinders should use PEEK pa cking rings. All piston rings and/or rider rings  should be DW173 
+material. 
+ 
+7.  HOS and HOSS compressors may require an extra long distance piece. MOS cylinders require an 
+added distance piece. All distance pieces must be  sealed and either purged or vented to a safe area. 
+Slingers may be provided which will require extra-long distance pieces. 
+ 8.  Please refer to GFP-16 for special consi deration with regard to cylinder lubrication.  
+ 
+9.  Compressor valve springs should be Elgiloy. Wh ere steel valve seats and guards are standard, they 
+should be changed to stainless steel. A "Dynamic Valve Analysis" is recommended to ensure proper 
+valve action on each application. Valve lifts reduced from standard may be required. Valve seat gaskets 
+should be soft iron or aluminum. 
+ 
+10. Piston rods should be age hardened 17-4 PH stai nless steel with full length TC3 coating through the 
+packing and scraper rings. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 12 
+Februar y, 2021 
+ 
+ 
+11.  VVCP, FVCP, etc. are acceptabl e methods of capacity regulation. Any vents should be piped to a safe 
+place. 
+ 
+12.  Other optional features that should be considered: 
+ 
+a.  Stainless steel LO piping downstream of frame LO filter. 
+b.  Sour gas studs and nuts for components in gas stream. c.  Torsional analysis of compressor/motor driver system. 
+d.  Compressor flywheel if required by torsional analysis. 
+ 
+13.  In addition to the compressor itself, there are many special requirements for the packaged unit 
+components for Acid Gas Compressor Applications. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 14 
+February, 2021 
+ 
+Gas Field Policy 14:  FPSO 
+ 
+FPSO 
+(Floating Production Storage Off-Loading)  
+ 
+ 
+The following criteria must be considered before a Siemens Energy compressor can be offered for an FPSO 
+application: 
+ 1.  Frames must be dry-sump compatible. 
+ 
+2. Opposing throws must be balanced within 1.0 lb. or less. 
+ 
+3. Offshore platforms may fall under similar criteria. 
+ 
+4. Ensure all specifications pertaining to t he specific project have been reviewed for scope 
+compliance and noncompliance. 
+ 
+5. Special documentation requirements are usually as follows: 
+ 
+a.  EC Compliance/Certification b.  NR13 
+c.  ASME U1A Reports for Filters and Coolers 
+d.  Comments/Exceptions to API 618 and ISO 13631 (See GFP 22 and 24, respectively) 
+e.  Numerous QA/QC 
+- MTR's 
+- Inspection Reports - Hydrostatic Test Charts 
+ 
+6. Additional scope may apply: 
+ 
+a. SS and/or Coated Fasteners  
+b. Paint requirements that entail numerous coat s and surface preparation that may include  
+ blasting and masking  
+c.  ABS (or equivalent) Certif ication may be required. 
+ 
+7. If the crankshaft driven frame oil pump is suppli ed, the "lift" between the pump suction and oil 
+sump feed shall not exceed 6 ft. 
+ 
+8. Reseller supplied piping between the oil sump and the oil pump suction connection on the frame 
+must be clean and free from pipe scale. Stainle ss steel piping is recommended along with an 
+1/8" square welded wire screen to prevent debris from entering the frame oil pump. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 15 
+Februar y, 2021 
+ 
+Gas Field Policy 15:  Air or Nitrogen Service 
+ 
+The following criteria must be met before a Siemens Energy compressor can be offered for air or nitrogen 
+service: 
+ 
+ 
+1. All air applications must be lubric ated with synthetic oil.  This may require distance pieces or extra-
+long distance pieces to allow for an oil slinger sinc e synthetic oil is not compatible with mineral oil 
+and must be kept from migrating into the frame. 
+ 
+2. All sizing and performance must be reviewed and approved by Siemens Energy HSRC Group prior 
+to quoting. 
+ 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 16 
+Februar y, 2021 
+ 
+Gas Field Policy 16:  Carbon Dioxide Service (with H2O) 
+ 
+GENERAL: 
+ 
+Carbon dioxide is a colorless, odorless gas which is normally obtained by combustion of carbon (in any form) with an excess of oxygen. It is also obtained from the heating of limestone or from the action of acids on 
+carbonate materials, or as a by-produ ct of fermentation. Carbon dioxide is soluble in water, alcohol and alkalies. 
+Its water solution is carbonic acid which is very corrosive.  
+Although carbon dioxide is not poisonous, it  induces asphyxia by excluding oxygen. CO
+2 does not react with air 
+or oxygen and is therefore neither explosive nor combustible.   
+ 
+MATERIALS OF CONSTRUCTION:  
+CO
+2 is substantially non-corrosive. Synthetic rubbers have commercial resistance to this gas. 
+ 
+In the presence of water, however, CO 2 will cause severe corrosion of unp rotected iron and steel, which could 
+be significant during idle periods with low cylinder wall temperatures.  
+Please refer to Section 15.4 (Carbon Dioxide) of API 11P Second edition, dated November 1, 1989. 
+ 
+1.  If the concentration of CO
+2 (in a wet gas phase), at the suction pr essure of any stage, falls into the 
+"A" range (see curve page 2), Siemens Energy re commends its standard materials of construction. 
+ 
+2.  If the concentration of CO 2 (in a wet gas phase), at the suction pr essure of any stage, falls into the 
+"B" range (see curve page 2), Siemens Energy requ ires the following construction for maximum 
+resistance to corrosion.   
+1.  Age Hardened 17-4 PH stainl ess steel piston rods with Siemens Energy "TC3" coating in the 
+area of packing travel. 
+ 
+2. Stainless steel internal bolting in "clamshell" type cylinders. 
+ 3. Suction port oilers located in cylinder or suction piping. 
+ 
+4. Stainless steel or pickled and oiled frame lube oil piping. 
+ 
+5. Frequent bore inspections to determine proper  cylinder lubrication rate (See “Commissioning”  
+ Section below). 
+ 
+6. Valve cover "O" rings can be 90 durometer Viton or AFLAS.  
+7. Valve cover o-rings may also be made from Virgin Teflon® material. This has proven successful 
+ in reducing/eliminating explosive decompression (ED) in standard o-rings.  
+8. Oil slingers are required due to oil compatibility and longer distance pieces may be required. 
+ Note: Please refer Siemens Energy HSRC Grou p for any other special requirements. 
+ 
+3. In all cases, the distributor and operator must insure that liquids are not allowed to form or 
+accumulate in any compressor cylinder. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 16 
+Februar y, 2021 
+CYLINDER LUBRICATION: 
+ 
+1. CO 2  is soluble in mineral oils, thereby reducing the oil / gas mixture viscosity.  Mineral oils are 
+complete miscible into CO 2 which can have a major effect on an oil’s ability to lubricate.  PAG (poly-
+alkaline-glycol) synthetic lubricants are commonl y used where there is a specified level of CO 2 
+concentration associated with a given operational CO 2 gas pressure (see following graph). 
+ 
+2. If the concentration of CO 2  and suction pressures are greater than prescribed values in the 
+following graph, a pure synthetic PAG (poly-alkaline- glycol) with a viscosity index of 150 or greater 
+is recommended. 
+ 3. Again, in all cases, the distri butor and operator must insure that liquids are not allowed to form or 
+accumulate in any compressor cylinder. 
+ 
+4. Cylinder pre-lube can be employed if you have an off-mounted lubrication system.  As CO
+2 has an 
+affinity to sweep away oil, a pre-lube will ensur e that there will not be a dry start on the cylinder 
+bore.  A suggested time for pre-lube would be 10-15 minutes.  Adjust pre-lube time as dictated by 
+cylinder bore inspections. 
+ 
+ 
+COMMISSIONING: 
+ 
+1. Verifying proper lubrication rates is critical to  the successful operational life of compressor cylinders 
+and pressure packing, especially within  the first days and weeks of operation. 
+ 
+2. After establishing and making preparations for t he correct oil to lubricate the cylinder bore and 
+pressure packing, a stepped procedure for periodic cylinder bore inspections is to be carried out. 
+ 
+3. During “break-in”, initial cylinder bore lube oil rates should be established as per the unit Operation 
+and Maintenance Manual.  Note that the compressor s leave the factory with their lube pumps set at 
+the maximum flow rate which typically exceeds the recommended break-in rate by 10-20%. 
+ 
+4. Cylinder bores should be inspected for proper lu brication after the first three days of operation and 
+once a week thereafter for the next three weeks of  operation.  All inspections should use the 
+“Cigarette Paper” test (see manual for details). 
+ 
+5. After the first three weeks of operation, if t he cylinders are showing adequate lubrication using the 
+“Cigarette Paper” test, the lubrication rates may be adjusted down assuming more than adequate 
+lubrication is present during the inspections above. 
+ 
+6. Lubrication rates should be adjusted down in increments of 5-10% maximum. 
+ 
+7. Once the lubrication rate is turned down, all cylinder bores should be inspected weekly using the 
+“Cigarette Paper” test.  Assuming this inspec tion passes the “Cigarette Paper” test, it is 
+recommended the unit be ran for three weeks before turning down the lubrication rates again. 
+ 
+8. There should always be enough oil present to we t the “Cigarette Paper”.  If the paper doesn’t wet, 
+then the lubricator rates should be increased. 
+ 
+NOTE  
+ 
+The “Cigarette Paper” test only gives indication of oil 
+film quantity.  It does not give an indication of viscosity 
+quality.  Oils diluted with water, hydrocarbons or other constituents 
+may produce what appears to be an adequate film but the oil may 
+not have the required load-carrying capability due to dilution. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 16 
+Februar y, 2021 
+ 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.  Gas Field Policy, GFP 17 
+Februar y, 2021 
+ 
+Gas Field Policy 17:  Low Temperature Service 
+ 
+GENERAL: 
+ 
+High Speed Reciprocating Compressors wi th standard construction may be applied to temperatures -20°F and 
+above.   
+Applications below -20°F must be reviewed by Siem ens Energy Marketing Group pr ior to quoting. (In most 
+cases, aluminum pistons must have a slightly oversi ze O.D.; the allowable cylinder working pressure and 
+differential pressure limits must be redu ced; an ethylene-glycol static cylinde r jacket cooling must be used with 
+all water cooled cylinders.  
+ 
+INLET GAS PREHEAT:  
+A:  Cylinders with Gas Cooling: 
+ 
+The following method for estimating inlet preheat app lies to all Siemens Energy gas field compressors 
+using cylinders with gas cooling. 
+  
+                             
+  
+ 
+ 
+Where: 
+ 
+K   =  C
+p/Cv 
+ T
+i      =  Given Inlet Temperature (°F) 
+ 
+Ta     = Ambient Temperature (°F) 
+ R
+c     =  Ratio Of Compression 
+ 
+T’i     =  Preheated Inlet Temperature (°F) 
+(Use T’i As Inlet Temperature For Performance Calculations) 
+ [                    ]  (Ti  +  459.59) 
+        20 (Ta -  T i) 
+    20 T’i = T i +  (R    - 1 )                               +  K - 1 
+  K 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.  Gas Field Policy, GFP 17 
+Februar y, 2021 
+ 
+ 
+B:  Cylinders with forced Cooling: 
+ 
+The following method for estimating inlet preheat app lies to all Siemens Energy gas field compressors 
+using cylinders with forced cooling. 
+ 
+                               
+ 
+ 
+ 
+Where: 
+ K      =  C
+p/Cv  
+ 
+Ti      =  Given Inlet Temperature (°F) 
+ 
+Tw        =  Incoming Jacket Water Temperature (°F) 
+ 
+Rc     =  Ratio Of Compression 
+ T’
+i     =  Preheated Inlet Temperature (°F) 
+(Use T’i As Inlet Temperature For Performance Calculations) 
+  
+ (Tw -  T i) 
+    20 T’i = T i +  (R    - 1 )                               +  K - 1 
+  K (Ti  +  459.59) 
+        20 [                    ]  
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+Gas Field Policy 18:  Sour Gas Service 
+ 
+GENERAL: 
+ 
+Hydrogen Sulfide H 2S is a colorless gas which is harmful at concent rations of 20 ppm in air. At concentrations of 
+800 ppm death results within 30 minutes due to destruction of lung tissues. At low concentrations (1 to 20 ppm), 
+it has a strong rotten egg odor and is harmless. However,  at higher concentrations, the sense of smell is 
+anesthetized and the gas is odorless. It is heavier than air (mole. wt. 34) and so tends to accumulate in low 
+places. Due to the hazardous nature of this gas, compressors handling H 2S should not be approached unless 
+H2S leak detection equipment is functioning. 
+ Effects on metals: H
+2S tends to cause sulfide stress cracking in st eels when all of the following four conditions 
+exists: 
+ A.  The H
+2S concentration and pressure condition fall into the "sulfide stress cracking region: of NACE MR-
+0175 (figure 1). 
+ B. The steel component has a hardness over 22 Rockwell "C". 
+ 
+C. The steel component is stressed.  
+D. Moisture is present in the gas. 
+ Sulfide stress cracking is more aggressive if chlorides are also present in the gas. 
+ 
+To prevent sulfide stress cracking of components that lie within the NACE definit ion of sour gas service, 
+materials of less than 22 HRC must be used. Alternatively,  materials with a greater resistance to attack may be 
+used (e.g. Age Hardened 17-4 PH stainless steel piston rods). 
+ 
+ 
+MATERIALS OF CONSTRUCTION:  
+A. If the concentration of H
+2S, at the discharge pressure of any stag e, falls into the "B" range (figure 1), 
+Siemens Energy recommends its standard materials of construction. 
+ 
+B. If the concentration of H 2S, at the discharge pressure of any stag e, falls into the "A" range (figure 1), 
+Siemens Energy requires the following construction for maximum resistance to sulfide stress cracking and containment of the gas. 
+ 
+1) Distance pieces: Distance pieces must be arranged so that potentially harmful leakage of H
+2S to 
+the atmosphere cannot occur. Possible alternatives are: 
+ 
+A) For all applications Siemens Energy recommends the use of a single compartment 
+distance piece equipped with purged packing case, purged  wiper case and slinger if 
+desired (figure 2). The distance piece and pa cking vents should be piped to a flare or 
+recovery system. In some cases an extra long distance piece may be required. 
+ 
+B) Standard single-compartment distance pieces may be used with caution if a sweet gas 
+packing purge and vacuum scavenge pump is us ed to maintain the distance piece at 
+negative pressure and gas leakage is eliminated. Piston rod oil slingers are 
+recommended to minimize frame oil contamination. 
+ 
+C) Two compartment distance pieces are ava ilable if preferred. Please consult with the 
+Siemens Energy HSRC Group for further details. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+2) Bolting: 
+ 
+A) Bolting that is in the cylinder end distance  piece is outside the NACE definition of sour 
+gas service (less than 65 PSIG). Theref ore, Siemens Energy will use standard 
+materials for the distance piece studs, nuts and bolts. 
+ 
+B) Bolting that is external of the cylinde r uses standard materials; e.g. outer head-to-
+cylinder studs which are located outside the head gasket; pulsation bottle-to-cylinder bolting; etc. 
+ 
+C) ASTM A193, Grade B7M is used on certai n cylinder designs where the head bolting is 
+in the process gas passageway; e.g., Clamshell head designs. 
+ 
+3) Standard piston with rider bands or combination rings 
+ 
+4)  Piston rods shall be ann ealed 4142 carbon steel (18-22 HRC) with Siemens Energy TC3 
+coating in the area of packing travel. (If the gas also contains CO
+2, please refer to "GFP-16". If 
+stainless steel rods are required, they will be made out of age hardened 17-4 PH material and 
+TC3 coated.) 
+ 
+5) Suction port oilers are recommended. Alternat ively, the valves can be supplied with special 
+spring material. 
+ 
+6) Siemens Energy standard nodular iron valves will be furnished when pressures allow. 
+ 
+7) If forged steel cylinders are required for the application, a modified AISI 4132 steel alloy is 
+required. 
+  
+EXCEPTIONS TO NACE MR01 75-94 SPECIFICATION: 
+ 
+1) A combination of Siemens Energy field experience  and reference to specifications NACE MR0-175-94 
+and API 11P has been used to compile this GFP. Siem ens Energy has taken into account stress levels, 
+type of stress, exposure to sour gas and the critical nature of the part. 
+ 
+2) Hardness of Carbon and Low-Allo y Steels (3.2), and ferritic stainl ess steels (3.6) materials shall not 
+exceed 22 HRC. 
+ 
+A) Tube Fittings. Tube fittings will be type 316 stai nless steel double ferrule type. The hardness of 
+the ferrule will exceed 22 HRC. Field experience with these fittings has been excellent. 
+ 
+B) Chrome Silicon Springs are not listed by NACE as an acceptabl e material. Siemens Energy has 
+had favorable experience with this material in compressor valve service. 
+ 
+C) AISI 440C Stainless Steel hardened and tempered  to 50 HRC. This material is used as a guide 
+ring on PF valves. The stress level is minimal. Siemens Energy has had favorable experience. 
+ 
+D) Steel Nut, PF Valve. The stress level is lo w and Siemens Energy has favorable experience. 
+ 
+E) Rollpin. This is used as a valve plate guide on the PF valve. The stress level is low. Siemens 
+Energy has favorable experience in lubricated valve service. 
+ 
+F) Piston rods made from AISI 4142 alloy steel are tempered back to 22 HRC or less. After the 
+tempering heat treatment, threads are rolled on the rods, causing hardness at the roots of the 
+threads to exceed 22 HRC. However, field experience in sour gas has been very good due to 
+favorable residual stress pattern, surface finish, and grain flow patterns. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+3)  Siemens Energy has favorable experience with the following cast irons: 
+ A) ASTM A278 Class 40 (Gray Iron), ASTM A536 (Ductile Iron) (Grade 65-45-12) and ASTM A395 
+(Ductile Iron) (Grade 60-40-18) for compressor cylinders and other components. 
+ 
+B) Continuous Cast Gray Iron is used on solid pi stons and some small cylinder heads. It is 
+equivalent to a Class 30/35 iron. 
+ 
+C) Centrifugally Cast Gray Iron is used for cyli nder liners. It is equivalent to a Class 35 iron. 
+ 
+D) NiResist ASTM A436 Type 5 with 34-36% Ni (Minovar) is used as a piston rod collar on 
+aluminum pistons due to its low coefficient of  thermal expansion. The material is under 
+compression at all times. 
+ 
+E) Ductile Iron, Continuous Cast Grade 80-55- 06 is used for fully machined low to medium 
+pressure valve seats and stopplates & guards. 
+ 
+F) Ductile Iron Castings Grade 100-70-30 is used fo r low to medium pressure PF valve seats and 
+stopplates & guards. 
+ 
+4)  COMMENTS TO NACE MR0175 SPECIFICATION: 
+ A) Paragraph 6.2.2.1, ASTM A193, Grade B7 M bolting 80,000 psi minimum yield strength and 
+HRC 22 maximum hardness. This material is us ed on certain cylinder designs where the head 
+bolting is in the process gas passageway; e.g., Clamshell head designs. It is also used as an 
+option for cylinder bolting at an extra cost. This bolting meets the requirements of this 
+Paragraph, however, it may exceed the 90,000 psi maximum yield strength limitation as outlined 
+by API 11P, Paragraph 15.3.2.2. AISI 4142 alloy steel piston rods may al so exceed the 90,000 
+psi yield strength limitation up to a maximum of 95,000 psi. 
+ 
+B) Paragraph 10.7.2, Aluminum Alloy 335, Temper T-7 (ASTM B-26). Siemens Energy uses either 
+Alloy 355-T7, Alloy SR 319.0-T51, or Frontier 40H for aluminum pistons. 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+ 
+ 
+ 
+FIGURE 1 
+  
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+FIGURE 2 
+ 
+PURGED PACKING / PURGED WIPER ARRANGEMENT 
+FOR SOUR GAS APPLICATIONS 
+ 
+1. PURGED ROD PACKING - In our "standard" rod pack ing, the vent line is just  ahead of the last packing 
+cup (closest to the frame). For sour gas service, t he packing rings of the last  two cups are exchanged 
+for "side loaded" rings, with a PURGE line in between. This is so that any PURGE gas leakage will be in 
+both directions (into the VENT line and into the di stance piece), and any no rmal PROCESS gas leakage 
+will be carried away by the VENT line. 
+ 
+2.  PURGED WIPER CASE - For an extra measure of safety, two sets of "side loaded" rings, with a 
+PURGE line in between, are added to the wiper case (at the frame end of the distance piece). Any 
+leakage of PURGE gas will be in both directions (into the distance piece and into the frame extension). 
+ 3.  DISTANCE PIECE - Any leakage into the distan ce piece, of either PURGE or PROCESS gas, will be 
+carried away by the distance piece VENT line. An "oil  slinger" (if required per the order) can be attached 
+to the piston rod to keep any oil which has had contact with the PROCESS gas (from the rod packing) 
+from traveling along the piston rod and into the fram e. This may require an extra long distance piece. 
+ 
+This distance piece configuratio n creates a double buffer between t he PROCESS gas and the frame. This 
+arrangement produces the same effect as the API 11P Type 3 distance piece option. 
+Both PURGE gas lines should be protected from back pres sure by a check valve outside the distance piece, 
+supplied by the Reseller.  
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+Gas Field Policy 21:  Torsional Vibration Analysis 
+ 
+TORSIONAL VIBRATION ANALYSIS OF SIEMENS ENERGY HSRC 
+COMPRESSORS AND DRIVING MACHINERY  
+ 
+Siemens Energy, upon request, will act as a consultant and perform a torsional vibration analysis of the 
+separable drive system. Please refer to the appropri ate price page for the cost of this service. 
+ 
+Siemens Energy’s responsibility is limited to providing a proper engineering torsional analysis. The responsibility 
+for engineering of the system components (other than t he compressor), and the supply of these components 
+must remain with others. 
+ 
+The analysis will either confirm satisfactory torsional operat ion of the system as submi tted, or it will recommend 
+the changes that need to be made to the shafting system fo r satisfactory operation over the conditions specified 
+by the customer. 
+ The torsional vibration analysis is not intended to chec k or give approval to the transmission shafting in such 
+areas as sensitivity to misalignment or any other engi neering aspect connected with the selection, mounting, 
+and operation of a separable compressor and its drivi ng machinery. The responsibility for satisfactory 
+engineering in these areas is outside Si emens Energy’s scope of responsibility. 
+ 
+The following guidelines are to better define when a torsional analysis is required:  
+I. Torsional Analysis  Study Requirement 
+ 
+A. A torsional study is required when a separabl e compressor is driven; by a turbine or 
+engine through a gear; or by any motor. 
+ 
+B. A Siemens Energy HSRC compressor directly coupled to an engine driver does not 
+require a torsional analysis if the coupling is selected based on the maximum BHP capability of the compressor or engine frame, whichever is less (rather than the 
+maximum BHP of the specific compressor app lication). In this case the mass elastic 
+properties of the system will be suffi cient to provide torsional stability. 
+ 
+C. If the coupling is selected for less than the maximum BHP capability of both the 
+compressor and engine frame and the compressor is directly coupled to an engine, then a torsional study will be required if the operating conditions of the unit fit into one 
+or more of the following criteria: 
+ 
+1. Discharge pressure is higher than 1400 psig 
+2. Compression ratio is less than 1.8 
+3. Single acting cylinder is used for any condition 4. Two-in-one cylinder configuration is used 
+5. The ratio of tension and compression frame loads is more than 2.5 or less than 0.4 
+6. Large rod load and small BHP applications, where RLR (Rod Load Ratio) - HPR  
+ (Horsepower Ratio) is greater than or equal to 35. 
+ 
+ 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+If no torsional analysis is required, the coupling select ion can be based on the maximum BHP of the specific 
+compression application. In this case, WR 2 is provided by the engine manufacturer's standard flywheel. 
+ 
+If a torsional analysis is required, the coupling selection and required flywheel WR 2, if any, will be determined 
+by Siemens Energy at the time of the analysis.  
+The coupling used in any engine-compressor drive system must be torsionally stiff but be able to 
+accommodate some axial misalignment. A suitable coupling is Thomas or equivalent.  
+II. Data Required By Siemens Energy For The Torsional Analysis 
+ 
+A. The complete operating performance envelope of the compressor including speed ranges and 
+unloaded conditions. 
+ 
+B. The complete description of the drive train,  including name of manufacturer(s), model numbers 
+and diameters for the gear reducer and engine sha fts, plus the tentative coupling selections. 
+ 
+C. The WR
+2 of the motor rotor, and shaft drawings of the driver and gear reducer rotating parts. 
+The driver shaft drawing must include the keyway dimensions, including radius, and shaft 
+material including ultimate tensile strength. 
+ 
+D. The method of unloading the compressor for st art-up. (If bypass, pipe sizes are required.) 
+ 
+E. All information of the driver and shaft syst em must be supplied by the customer to Siemens 
+Energy. A completed "Torsional Analysis Informat ion" form (see GFP-1) must be a part of the 
+order. 
+ 
+III. SCOPE OF TORSIONAL ANALYSIS  
+A. The scope of Siemens Energy’s analysis  is to select the proper flywheel WR
+2 (if required) and 
+coupling stiffness, to ensure safe unit operation. Turbine or engine driven unit operation will be 
+investigated, over the customer's specified sp eed range, for the presence of any critical speed 
+at which the unit operation would be unsafe. 
+ 
+B. The torsional analysis studies the effects of th e compressor torque on the mass-elastic system 
+of the entire drive system. It is not intended to stud y vibrations (lateral or torsional), within the 
+gears or between the gear reducer and turbine, generated by gear irregul arities, since these 
+types of vibration must be investigated by the gear manufacturer, during the design stage. 
+ 
+C. Shutdown of the unit under no-load and vented conditions is permissible in any system, and is 
+therefore not a part of this study. 
+ 
+D. For direct drive motor units, the vibratory stress in the moto r shaft will be evaluated to check 
+that it is in a safe range according to Siemens Energy standards. 
+ IV. MOTOR DRIVER RECOMMENDATIONS: 
+ 
+A. Motor shaft diameter should be as large as possible with the minimum acceptable diameter 
+(anywhere on the shaft) determined by the following formula: 
+ 
+B. The ultimate tensile strength of the motor shaft material should be 75,000 PSI minimum. 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+C. If the above motor shaft recommendations are not followed, and the analysis determines that 
+the submitted shaft is not suitable, additional charges for further study will be applicable. 
+ 
+D. The motor manufacturer must be advised that  the motor will be driving a reciprocating 
+compressor which is a severe duty and must be designed suitable for the following vibratory 
+torques: 
+ 
+2 throw compressor   +/- 200% Motor nameplate torque 
+4 throw compressor   +/- 175% Motor nameplate torque 
+6 throw compressor   +/- 150% Motor nameplate torque 
+ 
+This means that for a motor driving a 2 thro w compressor the motor must be suitable for a 
+torque variation within each revolution of a mean torque equal to nameplate torque,maximum 
+torque equal to positive 300% of nameplate torque and minimum torque equal to negative 100% nameplate torque. 
+ 
+E.  The motor shaft should be designed without a keyw ay. If the shaft is designed with a keyway full 
+details of the design must be included with the shaft information supplied to Siemens Energy. 
+ 
+F. The prime mover HP must include allowance fo r the tolerance on compressor BHP (See GFP2). 
+Failure to adhere to this practice may prohibit unit operation at full load. It is further 
+recommended that prime movers be selected in accordance with ISO-13631: 2002 Section 8. 
+ 
+G. Adherence to these guidelines may reduce the need for a flywheel under certain conditions of 
+service, or possible rejection of the motor. 
+ 
+H. For reference, motor suppliers should use the following inertia values when determining 
+breakaway torque requirements. This data r epresents the highest inertia that could be 
+encountered for the given frame. 
+ 
+Compressor Size & Type Inertia (lb-ft2)   Compressor Size & Type Inertia (lb-ft2)  
+5 - MOS 2 60  7 - HOS 2 165 
+5 - MOS 4 95  7 - HOS 4 290 
+5 - MOS 6 135  7 - HOS 6 370 
+6 - MOS 2 85  5 - HOSS 2 210 
+6 - MOS 4 135  5 - HOSS 4 315 
+6 - MOS 6 185  5 - HOSS 6 400 
+7 - MOS 2 115  6 - HOSS 2 270 
+7 - MOS 4 185  6 - HOSS 4 400 
+7 - MOS 6 250  6 - HOSS 6 505 
+5 - HOS 2 115  7 - HOSS 2 345 
+5 - HOS 4 175  7 - HOSS 4 505 
+5 - HOS 6 230  7 - HOSS 6 635 
+6 - HOS 2 135    
+6 - HOS 4 215    
+6 - HOS 6 285    
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+V.  TORSIONAL ANALYSIS REPORT 
+ When Siemens Energy performs a Torsional Vibrat ion Analysis, the standard report will contain the 
+following information: 
+ 
+A.  Compressor crank effort 
+ 
+B.  First and second mode critical speeds 
+ 
+C. Resonant speeds for first and second node mode of vibration 
+ 
+D. Mass elastic information 
+ 
+E. Mass elastic curve for first and second node mode of vibration 
+ 
+F. Vibratory stress vs. speed curve 
+ 
+G.  Forced vibration analysis 
+ 
+H. Current pulsation analysis (electric motor drive only) 
+ 
+I. Selection of coupling and flywheel (lb-ft
+2, if flywheel is required) 
+ 
+J.  The following disclaimer: 
+ 
+The recommendations and predictions contained herein represent Siemens Energy’s best 
+Engineering judgement, based on the information ava ilable to Siemens Energy. In offering these 
+recommendations, no warranties or guarantees of any nature are expressed or implied. Any 
+decisions made and/or work performed as a result of said recommendations shall be at the entire 
+risk of the user. 
+ 
+Siemens Energy shall in no event be liable to the Purchaser, any successors in interest or any 
+beneficiary of an order or contract for any conseque ntial, incidental, indirect, special or punitive 
+damages arising out of the contract  or any breach thereof, whether or not such loss or damage is 
+based on contract, warranty, negligence, i ndemnity, strict liability or otherwise. 
+ 
+The liability of Siemens Energy with respect to an order or contract shall not exceed an amount 
+equal to the contract pric e paid by the Purchaser. 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Gas Field Policy 22:  API 618 Comments & E xceptions, 5th Edition (December, 2007)  
+ 
+Siemens Energy builds compressors in basic compliance with this edition of API-618.  Our experience 
+has shown that a few of the requirements do not a dd commensurate life or reliability and therefore the 
+following clarifications are indicated.  
+SIEMENS ENERGY HOS AND HOSS COMPRESSORS 
+ Paragraph                                                                    Comment  
+ 
+6.1.1 The compressors offered are designed and cons tructed for a minimum service life of 20 years.  
+They are suitable for continuous full load duty for at least 3 years between major overhauls, and 
+should only require replacement of recognized wear  components (rings, valves , packing, oil filters, 
+etc.) during this period.  Siemens Energy strongly recommends that normal published maintenance schedules be followed. 
+ 
+6.1.3 Unless specifically stated otherwise, capacity may vary by +/- 3%.  
+6.1.6 If required, Siemens Energy can furnish typical or expected noise level data for this equipment.  
+These noise levels may not comply with the requirements of API 615. 
+ 
+6.1.18 Unless specifically stated otherwise, horsepower may vary by +/- 3%. 
+ 6.1.26 Spare/replacement pa rts...to meet (Par. 9.3.6) except Siem ens Energy will not provide specific 
+materials of construction (identified by  applicable international standards). 
+ 6.2.1 Threads on the HOS/HOSS VVCP piston rod ar e 2.5"-3 ACME-3G and do not conform to the 8 
+pitch requirement 1.00" and over diameter. 
+ 6.2.3 Internal socket fasteners can be found on the mu lti-screw tensioners used on piston retainment for 
+the HOS and HOSS compressors.  Slotted nut desi gns have successfully been used for piston 
+retainment on the HOS of decades.  
+ 
+6.2.5 The piston rod for all Siemens Energy HSRC Pr oducts is not positively locked to the crosshead 
+assembly.  HOS conn rod bolts no longer have a "positive" locking mechanism and now rely only on stretch. 
+ 
+6.3.1 On larger bore cylinders, piston rod vertical  run out may exceed the . 00015 in./in. of stroke 
+limitation. 
+ 
+6.5.1 The maximum predicted temperature shall not  exceed 300°F (adiabatic) and 350°F (actual).  In 
+hydrogen rich service, the maximum predicted te mperature shall not exceed 275°F (adiabatic) and 
+300°F (actual). 
+ 6.8.1.3 Some of the larger cylinder patterns, when placed  side by side, do not allow access to water jacket 
+covers.  Some types of unloaders on large cylinde rs placed side by side are difficult to access. 
+ 6.8.1.5 The overbore allowance is 0.062" over the original diameter on all Siemens Energy HSRC 
+Products. 
+ 6.8.1.6 Although Siemens Energy’s standard for thread ed holes in castings is 1-1/2 times the stud 
+diameter, there are a few cases on the HOS and HOSS cylinders which do not meet this criteria. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                    Comment  
+ 
+6.8.2.1 Some large cylinders require a cylinder sup port which attaches to the outer head.  On packaged 
+units, smaller cylinders are normally supported on ly from the outer end of  the distance piece. 
+ 6.8.2.2 All cylinders (except billets) will normally be s upplied without liners.  Minimum liner thickness is .25" 
+for cylinders up to 9.5" diameter. 
+ 6.8.2.3 Finish of typical lubricated compressor cylinder bores is 32RMS. 
+ 
+6.8.3.1 HOS and HOSS cylinders with water jacket s are available.  All forms of cooling can be 
+accommodated by these cylinder water jackets. 
+ 
+6.8.3.4.1 Refer to 6.8.3.1.  
+6.8.4.1.10 HOS and HOSS cylinders utilize an extend ed plug with a hex head to reduce fixed clearances 
+within a given cylinder. 
+ 
+6.8.4.1.12 Siemens Energy only supplies mating flange s and gaskets for the 6000# lens type flanges found on 
+the H.P. billet cylinders. 
+ 
+6.8.4.1.15 Siemens Energy’s standard  is 90RMS or 100-150 circular fini sh.  All inlet/outlet flanges are ANSI 
+standard with the exception of the HOS/HOSS clamshell cylinders. 
+ 
+6.8.4.2.5 Rectangular flange and bolting dimensions for clamshell cylinders can be found on the cylinder 
+outline drawings provided to the Resellers.  Ring type joints w ill be found on all 4000 psi billet 
+cylinders and lens flanges on the 6000 psi billet cylinders. 
+ 
+6.9.1.3 Siemens Energy valves are not 100% polarized .  The valves are designed with a capscrew that 
+protrudes from the valve on the bac k side of the valve to prevent valves from being installed upside 
+down.  In the event a valve was installed upside  down, this capscrew would contact the piston 
+during barover inspection and prevent crankshaft ro tation alerting operators that the valves are 
+installed improperly.  An inlet valve cannot be in stalled into a discharge valve port because the 
+nose of the valve is too large in diameter.  Shoul d a discharge valve inadvertently be installed in a 
+suction valve hole, the valve will not co mpletely seat, so no damage can occur. 
+ 
+6.9.1.5 On a non-conventional cylinder  such as the DDV series, the valves are placed, by design, in the 
+cylinder bore. 
+ 
+6.9.1.6 Siemens Energy provides no such valve installation/removal tool. 
+ 6.10.2.1 The piston rod is not positively locked to the crosshead on any Siemens Energy HSRC compressor 
+design. 
+ 6.10.3.2 HOS and HOSS cylinders are furnished with combination rings, which act as both the wear band 
+and sealing ring.  These assemblies are designed for bearing loads under 15 psig.  Wear bands 
+and piston rings, designed for the specified beari ng load limits, are available as an option. 
+ 
+6.10.4.1 HOS and HOSS cylinders will have the piston rod induction hardened in the area of interest.  A 
+tungsten carbide coating (TC3) is available for all Siemens Energy HSRC Products. 
+ 
+6.11.3 The HOS relies on achieving the prescribed bolt stretch to keep the joint tight. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+ 
+Paragraph                                                                    Comment  
+ 
+6.11.4 HOS and HOSS models utilize a box style cr osshead of ASTM A536 Grade 65-45-12.  This 
+material offers higher strength, durability and better castability than the cast steel.  HOS 
+compressors use integral, non-adjustable shoes as standard.  Replaceable shim adjustable shoe 
+crossheads are available for HOS models.  HOSS models have shim adjustable shoes as standard. 
+ 6.12.2.3 The distance pieces are designed for a maximum pressure of 25 psig.   
+ 
+6.12.2.4 On packaged units, a common vent/drain may be ut ilized at the bottom of the distance piece, if the 
+gas is heavier than air.  Vent may be smaller than  the 1-1/2" npt specified.  Packing gland cooling 
+connections are inlet at the bottom of the distance piece and outlet at the top to avoid formation of 
+air pockets in the packing. 
+ 
+6.12.2.5 External connections may be smaller than the 1" npt specified. 
+ 6.12.2.7 In addition to the Austenitic stainless steel t ubing and fittings, Siemens Energy may employ a teflon 
+flexible hose with stainless steel braid on pressures below 3000 psi. 
+ 6.13.2.3 The HOS/HOSS uses cooled packings for lubricat ed cylinders with MAWP of 2000 psig or greater 
+as standard.  Cooled packings avail able for all cylinders upon request.   
+ 6.14.2.1.1 For pressurized oil systems,  temperatures up to 180°F are acceptable provided the proper grade of 
+oil is being used. 
+ 6.14.2.1.2 Lubrication system is not built in accordance with API-614. 
+ 
+6.14.2.1.4 j. Standard Siemens Energy relief valves hav e a cast iron body and hardened steel internals.  
+                          Any other available combination can be provided at an additional cost. 
+ k. HOS and HOSS uses carbon steel upstream of the filter and 300 series stainless tubing with 
+  carbon steel fittings downstream.  
+6.14.2.1.5 Shell and tube cool ers utilize cast iron bonnets. 
+ 6.14.2.3 b. Siemens Energy standar d coolers are not TEMA Class C, but these can be supplied for an 
+                          additional cost. 
+ c. .375 diameter tubes with wall thickness of 22, 24 & 25 BWG and not the 18 BWG as specified. 
+ 
+6.14.2.4 a. All Siemens Energy HSRC Products are 25 micron particle size. 
+ 6.14.2.6 Standard Siemens Energy relief valves are lo cated outside the crankc ase and have a cast iron 
+body with hardened steel internals.  All compressors have their return lines entering the pump 
+suction and do not dump back into the crankcase. 
+ 
+6.14.2.7 Siemens Energy does not supply an oil temperature regulator as standard. 
+ 6.14.3.2.2 a. A resettable spring-loaded indicator pin for ea ch outlet is not standard but is available.  Instead, 
+  Siemens Energy supplies a cycle pin indicator on the distribution block which indicates proper  
+  cycling.  d. A cycle monitor is not provided. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                    Comment  
+ 
+6.15.1.11 Siemens Energy does not consider external fast eners or fasteners internal to the distance piece to 
+fall within NACE guidelines.  Therefore, Siemens Energy does not require special bolting for these 
+components, however, these items can be supp lied if required in the specifications. 
+ 
+6.15.2.1 Siemens Energy reviews cylinder designs wi th the aid of modern engineering analysis tools to 
+determine cylinder MAWP.  Siemens Energy has su ccessfully applied nodul ar iron as a cylinder 
+material at pressures up to 2750 PSIG (190 bar). 
+ 
+6.15.3.2.1 Siemens Energy nodular ir on castings are typically poured to ASTM A536 but can be provided to 
+ASTM A395. 
+ 
+6.15.3.2.2 Charpy V-notch tests are not included as standard. 
+ 
+6.15.3.2.5 Brinell hardness readings  are taken at the crankend and headend of the cylinder castings.  
+Readings at other locations are not feasible and are not considered necessary. 
+ 
+6.15.4 Forged steel cylinders are AISI 4132 or AISI  4131 which exceeds the properties of ASTM A668. 
+ 6.16.3 Frame nameplates are made from zinc and cylinder nameplates from stainless steel. 
+ 
+6.16.4 Frame nameplates do not include Purchaser's item number or other references.  An individual 
+nameplate can be added however, if required. 
+ 
+7.2.1.9 All Siemens Energy HSRC cr ankshafts are a keyless design.  
+ 
+7.6.6.1 The alarm/shutdow n system is the respons ibility of the Reseller. 
+ 7.7.2.3 The HOS and HOSS uses carbon steel upstream of the filter and 300 series stainless tubing with 
+carbon steel fittings downstream. 
+ 7.7.3.1 Internal oil feed lines (when pressures are le ss than 3000 psi) may be stainless steel braided teflon 
+hose. 
+ 7.7.7.2 Vent connections in  the packing case and interc onnecting tubing will be either  a 3/8" stainless steel 
+braided hose, 1/4" - 300 series stainless st eel tubing x .065" wall, depending on discharge 
+pressures. 
+ 
+7.11.1 A "tool kit" specifically designed for each of the compressor models is provided in a "ship loose" kit. 
+ 7.11.2 b. Siemens Energy does not supply such a valve lifting device. 
+ d. Siemens Energy does not supply a crosshead removal and installation tool. 
+ e. Siemens Energy HSRC does not have any joints requiring a hydraulic tensioning tool.  
+7.11.3 Tool boxes are made from heavy g auge Rubbermaid plastic and not steel. 
+ 7.11.4 Siemens Energy HSRC do not provide a suit able means of barring compressor over for 
+maintenance unless Siemens Energy is  contracted to furnish a flywheel. 
+  
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                   Comment 
+ 
+8.3.2.2 a. A helium pressure test is not conducted as standard for cylinders compressing H2S; only a  
+      hydrotest. 
+ b. A nitrogen/air pressure test is not conducted as standard for cylinders compressing gases other  
+  than those prescribed. 
+ 
+8.4.13 Lifting points only (not center of gravity) are identified on frame ou tline drawings that are submitted 
+to the Resellers. 
+ 
+8.4.15 Ship loose items such as tools do not have se curely affixed, corrosion-resistant metal identification 
+tags indicating items and serial numbers. 
+ 
+9.2.2.1 b. No cross-sectional drawings are provided.  c. The only schematic drawings provided are for the cylinder lube oil. 
+d. No sketches are provided, however, the lifti ng lug locations are noted on the frame and gear  
+outline drawings. 
+ 
+9.2.3. b. If required, Siemens Energy can furnish typica l or expected noise level data for this equipment.   
+  These noise levels may not comply with the requirements of API 615.  
+9.3.1.2 Any submitted drawings will not include date of certification or proj ect identification data. 
+ 9.3.1.3 Siemens Energy HSRC does not furnish certified copies of drawings. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Gas Field Policy 22:  API 618 Comments & E xceptions, 5th Edition (December, 2007)  
+ 
+Siemens Energy builds compressors in basic compliance with this edition of API-618.  Our experience 
+has shown that a few of the requirements do not a dd commensurate life or reliability and therefore the 
+following clarifications are indicated.  
+SIEMENS ENERGY MOS COMPRESSORS 
+ Paragraph                                                                     Comment  
+ 
+6.1.1 The compressors offered are designed and cons tructed for a minimum service life of 20 years.  
+They are suitable for continuous full load duty for at least 3 years between major overhauls, and 
+should only require replacement of recognized wear  components (rings, valves , packing, oil filters, 
+etc.) during this period.  Siemens Energy strongly recommends that normal published maintenance schedules be followed. 
+ 
+6.1.3 Unless specifically stated otherwise, capacity may vary by +/- 3%.  
+6.1.6 If required, Siemens Energy can furnish typical or expected noise level data for this equipment.  
+These noise levels may not comply with the requirements of API 615. 
+ 
+6.1.18 Unless specifically stated otherwise, horsepower may vary by +/- 3%. 
+ 6.1.26 Spare/replacement pa rts to meet (Par. 9.3.6)  except Siemens Energy will not provide specific 
+materials of construction (identified by  applicable international standards). 
+ 6.2.1 Threads on the MOS VVCP piston rod are 2.5" -3 ACME-3G and do not conform to the 8 pitch 
+requirement 1.00" and over diameter. 
+ 6.2.3 Internal socket fasteners can be found on the mu lti-screw tensioners used on piston retainment for 
+the MOS compressors. 
+ 6.2.5 The piston rod for all Siemens Energy HSRC Pr oducts is not positively locked to the crosshead 
+assembly.   
+ 6.3.1 On larger bore cylinders, piston rod vertical  run out may exceed the . 00015 in./in. of stroke 
+limitation. 
+ 6.5.1 The maximum predicted temperature shall not  exceed 300°F (adiabatic) and 350°F (actual).  In 
+hydrogen rich service, the maximum predicted te mperature shall not exceed 275°F (adiabatic) and 
+300°F (actual). 
+ 
+6.8.1.3 Some of the larger cylinder patterns, when placed  side by side, do not allow access to water jacket 
+covers.  Some types of unloaders on large cylinde rs placed side by side are difficult to access. 
+ 
+6.8.1.5 The overbore allowance is 0.062" over the original diameter on all Siemens Energy HSRC 
+Products. 
+ 
+6.8.1.6 Although Siemens Energy’s standard for thread ed holes in castings is 1-1/2 times the stud 
+diameter, there are a few cases on the MOS cylinders which do not meet this criteria. 
+ 
+6.8.2.1 Some large cylinders require a cylinder sup port which attaches to the outer head.  On packaged 
+units, smaller cylinders are normally supported on ly from the outer end of  the distance piece. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                     Comment  
+ 
+6.8.2.2 All cylinders (except billets) will normally be s upplied without liners.  Minimum liner thickness is .25" 
+for cylinders up to 9.5" diameter. 
+ 6.8.2.3 Finish of typical lubricated compressor cylinder bores is 32RMS. 
+ 
+6.8.3.1 All MOS cylinders are non-jacketed.   
+ 
+6.8.4.1.10 MOS cylinders utilize an ext ended plug with a hex head to reduce fixed clearances within a given 
+cylinder. 
+ 
+6.8.4.1.12 Siemens Energy only supplies mating flange s and gaskets for the 6000# lens type flanges found on 
+the H.P. billet cylinders. 
+ 
+6.8.4.1.15 Siemens Energy’s standard is 90RMS or 100-150 circular finish. 
+ 6.8.4.2.5 Ring type joints will be found on all 4000 psi billet cylinders and lens flanges on the 6000 psi billet 
+cylinders. 
+ 6.9.1.3 Siemens Energy valves are not 100% polarized .  The valves are designed with a capscrew that 
+protrudes from the valve on the back side of the valve to prevent valves from being installed upside 
+down.  In the event a valve was installed upside  down, this capscrew would contact the piston 
+during barover inspection and prevent crankshaft ro tation alerting operators that the valves are 
+installed improperly.  An inlet valve cannot be in stalled into a discharge valve port because the 
+nose of the valve is too large in diameter.  Shoul d a discharge valve inadvertently be installed in a 
+suction hole, the valve will not comple tely seat, so no damage can occur. 
+ 
+6.9.1.5 On a non-conventional cylinder  such as the DDV series, the valves are placed, by design, in the 
+cylinder bore. 
+ 
+6.9.1.6 Siemens Energy provides no such valve installation/removal tool.  
+6.10.2.1 The piston rod is not positively locked to the crosshead on any Siemens Energy HSRC compressor 
+design. 
+ 
+6.10.3.2 MOS cylinders are furnished with combinati on rings, which act as both the wear band and sealing 
+ring.  These assemblies are designed for bearing loads under 15 psig.  Wear bands and piston rings, designed for the specified bearing load limits, are available as an option. 
+  
+6.10.4.1 MOS piston rods are not c oated or hardened as standard.  A tungsten carbide coating (TC3) is 
+available for all Siemens Energy Separable Products. 
+ 
+6.11.4 The MOS compressor utilizes a box style cros shead of ASTM A536 Grade 65-45-12.  This material 
+offers higher strength, durability and better castability than  the cast steel.  MO S uses integral, non-
+adjustable shoes as standard. 
+ 6.12.1.1 MOS compressors ar e supplied without a distance piece as standard. 
+ 
+6.12.2.3 The distance pieces are design ed for a maximum pressure of 25 psig. 
+ 
+6.12.2.4 On packaged units, a common vent/drain may be ut ilized at the bottom of the distance piece, if the 
+gas is heavier than air.  Vent connections may be smaller than the 1-1/2" npt specified.  Packing 
+gland cooling connections are inlet at the bottom of the distance piece and outlet at the top to avoid 
+formation of air pockets in the packing. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                     Comment  
+ 
+6.12.2.5 External connections may be smaller than the 1" npt specified. 
+ 
+6.12.2.7 In addition to the Austenitic stainless steel t ubing and fittings, Siemens Energy may employ a teflon 
+flexible hose with stainless steel braid on pressures below 3000 psi. 
+ 
+6.13.1.6 To comply, all MOS compressors w ould require the optional distance piece. 
+ 
+6.13.2.3 MOS cylinders do not utilize water cooling as standard.   
+ 6.14.2.1.1 For pressurized oil systems,  temperatures up to 180°F are acceptable provided the proper grade of 
+oil is being used. 
+ 6.14.2.1.2 Lubrication system is not built in accordance with API-614. 
+ 
+6.14.2.1.4 j. Standard Siemens Energy relief valves have a cast iron body and hardened steel internals.    
+                          Any other available combination can be provided at an additional cost. 
+ k.   Siemens Energy uses carbon steel upstream of  the filter and 300 series stainless tubing with 
+  carbon steel fittings downstream.  
+6.14.2.1.5 Shell and tube cool ers utilize cast iron bonnets. 
+ 6.14.2.3 b. Siemens Energy standar d coolers are not TEMA Class C, but these can be supplied for an 
+                          additional cost. 
+ c. Available upon request.  
+6.14.2.6 Standard Siemens Energy relief valves are lo cated outside the crankc ase and have a cast iron 
+body with hardened steel internals.  All compressors have their return lines entering the pump suction and do not dump back into the crankcase. 
+ 
+6.14.2.7 Siemens Energy does not supply an oil temperature regulator as standard. 
+ 
+6.14.3.2.2 a. A resettable spring-loaded indicator pin for ea ch outlet is not standard but is available.  Instead,  
+  Siemens Energy supplies a cycle pin indicato r on the distribution block which indicates proper 
+                          cycling. 
+ d. A cycle monitor is not provided. 
+ 6.15.1.11 Siemens Energy does not consider external fast eners or fasteners internal to the distance piece to 
+fall within NACE guidelines.  Therefore, Siemens Energy does not require special bolting for these 
+components, however, these items can be supp lied if required in the specifications. 
+ 
+6.15.2.1 Siemens Energy reviews cylinder designs wi th the aid of modern engineering analysis tools to 
+determine cylinder MAWP.  Siemens Energy has su ccessfully applied nodul ar iron as a cylinder 
+material at pressures up to 2750 psig (190 bar). 
+ 
+6.15.3.2.1 Siemens Energy nodular ir on castings are typically poured to ASTM A536 but can be provided to 
+ASTM A395. 
+ 
+6.15.3.2.2 Charpy V-notch tests are not included as standard. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                     Comment  
+ 
+6.15.3.2.5 Brinell hardness readings  are taken at the crankend and headend of the cylinder castings.  
+Readings at other locations are not feasible and are not considered necessary. 
+ 6.15.4 Forged steel cylinders are AISI 4132 or AISI  4131 which exceeds the properties of ASTM A668. 
+ 
+6.16.2 MOS models do not have direction arrows curren tly.  Direction of rotation is noted on the frame 
+outline drawings. 
+ 
+6.16.3 Frame nameplates are made from zinc and cylinder nameplates from stainless steel. 
+ 
+6.16.4 Frame nameplates do not include Purchaser's item number or other references.  An individual 
+nameplate can be added however, if required. 
+ 
+7.2.1.9 MOS crankshafts are a keyless design. 
+ 7.6.6.1 The alarm/shutdow n system is the respons ibility of the Reseller. 
+ 
+7.7.2.3 MOS uses carbon steel upstream of the filter  and 300 series stainless tubing with carbon steel 
+fittings downstream. 
+ 
+7.7.3.1 Internal oil feed lines (when pressures are le ss than 3000 psi) may be stainless steel braided teflon 
+hose. 
+ 
+7.7.7.2 Vent connections in  the packing case and interc onnecting tubing will be either  a 3/8" stainless steel 
+braided hose, 1/4" - 300 series stainless st eel tubing x .065" wall, depending on discharge 
+pressures. 
+ 7.11.1 A "tool kit" specifically designed for each of the compressor models is provided in a "ship loose" kit. 
+ 
+7.11.2 b. Siemens Energy does not supply such a valve lifting device.  d. Siemens Energy does not supply a crosshead removal and installation tool. 
+ e. Siemens Energy HSRC does not have any joints requiring a hydraulic tensioning tool. 
+ 7.11.3 Tool boxes are made from heavy g auge Rubbermaid plastic and not steel. 
+ 
+7.11.4 Siemens Energy HSRC do not provide a suit able means of barring compressor over for 
+maintenance unless Siemens Energy is  contracted to furnish a flywheel. 
+ 
+8.3.2.2 a. A helium pressure test is not conducted as standard for cylinders compressing H2S; only a  
+      hydrotest. 
+ b. A nitrogen/air pressure test is not conducted as standard for cylinders compressing gases other  
+  than those prescribed.  
+8.4.13 Lifting points only (not center of gravity) are identified on frame ou tline drawings that are submitted 
+to the Resellers. 
+ 
+8.4.15 Ship loose items such as tools do not have se curely affixed, corrosion-resistant metal identification 
+tags indicating items and serial numbers. 
+ 
+9.2.2.1 b. No cross-sectional drawings are provided. 
+ c. The only schematic drawings provided are for the cylinder lube oil. 
+d. No sketches are provided, however, the lifti ng lug locations are noted on the frame and gear  
+outline drawings. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 22 
+Februar y, 2021 
+ 
+Paragraph                                                                     Comment  
+ 
+9.2.3. b. If required, Siemens Energy can furnish typica l or expected noise level data for this equipment.   
+  These noise levels may not comply with the requirements of API 615. 
+ 9.3.1.2 Any submitted drawings will not include date of certification or proj ect identification data. 
+ 
+9.3.1.3 Siemens Energy HSRC does not furnish certified copies of drawings. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 23 
+April, 2021 
+ 
+ 
+Gas Field Policy 23:  Non-Lube Service 
+ 
+The following criteria must be met before a Siemens Ener gy compressor can be offered for non-lube service:  
+ 
+1. Discharge pressures are generally limited to 1500 PSIG. 
+ 
+2. Average piston speeds ar e not to exceed 750 ft/min. 
+ 
+3. Distance pieces are required. 
+ 
+  4.   Oil slingers must be provided on all piston rods . To accommodate these, dist ance pieces are required on 
+        the MOS and extra long distance pieces ma y be required on HOS/HOSS depending on the cylinder size  
+        and/or pressure rating. 
+   5.   Packing cases must be water cooled when discharge pressures exceed 250 psig. 
+ 
+  6.   Cylinder bores must have a 16 RM S special finish and be sprayed with teflon. 
+ 
+  7.   Piston rods to be coated only when application absolutely requires it. 
+   8.   There may be special requirements beyond what is normally required for lubed applications such as 
+        cylinder liners, special pistons, distance pieces, etc. 
+   9.   Estimated actual discharge gas temperature is no t to exceed 250° F for gas cooled cylinders and 300° F  
+        for water cooled cylinders. 
+ 10.   Process vessels and piping must be carefully desi gned to prevent liquids and foreign debris from entering  
+        the compressor. They must be very carefull y cleaned prior to mounting on the compressor packaged unit.  
+        Siemens Energy also recommends that a coat ing such as Hunting Industrial #8101 (or equal) be applied  
+        to all vessels and gas piping to help maintain cleanliness. Foreign debris from the vessels or piping along  
+        with liquids can form a greasy paste that has  the potential to block the vent ing of piston and packing rings 
+        and/or adhere to the cylinder bore and valves with a detrimental effect on service life. 
+ 
+11.   Abrasive fines from such things  as molecular sieves or desiccant dryers, glass or ceramics from towers or  
+        columns, etc. must be eliminated or at least filtered to below 1 micron. 
+ 
+12.   Siemens Energy will provide the non-lubricat ed compressor cylinders and packing cases drilled for 
+        lubricated service and plugged. In the ev ent that the Process Gas Syst em requirements cannot be  
+        achieved to provide acc eptable service life, this will facilitate c onversion to lubricated construction and  
+       operation if necessary.  
+13.   Wear parts in non-lubricated compressor cylinders  typically experience shorter service life than do wear  
+        parts in lubricated compressor cylinders which tr anslates into more frequent maintenance stoppages. The  
+        user should ensure they have an adequate supply of replacement parts on hand to avoid unnecessary    
+        down time. 
+ 14.   Start-up procedures must be submitted to Siemens Energy for review.   
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 26 
+Februar y, 2021 
+ 
+Gas Field Policy 26:  Order Cancellation Policy 
+ 
+When a purchase order is received, it is accepted in good faith. In order to meet our quoted ship date, 
+immediate action is required by multiple departments. This  includes Engineering, Bill of Material generation and 
+material planning with the ordering of any long lead-time components, and Production Planning. A Purchase 
+Order cancellation, even very early within the order, has  a significant cost impact on  the factory. Likewise, a 
+Purchase Order cancellation later in the schedule usually  results in a loss of factory productive capacity. 
+ 
+For these reasons, Siemens Energy has established t he amount of Cancellation Charges as a percentage of the 
+total order value relative to the percentage of time elapsed for the scheduled delivery of an order. See Siemens 
+Energy Form MD001.  
+When notification is received that an order is to be he ld up, cancellation charges based upon this schedule will 
+be presented to the Purchaser to assist him in determini ng whether to cancel the order or proceed with work. An 
+indefinite "hold up" is not acceptable.  An early decision must be reached as to cancellation or release to 
+complete the equipment. Upon cancellation, all material becomes the property of the Supplier. 
+ Additional cancellation charges may apply to orders that  have very specialized equipment and will be addressed 
+on a case-by-case basis. Likewise, orders that have special circumstances will be reviewed on a case-by-case 
+basis.  
+Major changes to orders after entry, such as cylinder size or type changes -- or frame stroke changes -- will also 
+be evaluated for cancellation charges on a case-by-case basis.  
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 27 
+Februar y, 2021 
+ 
+Gas Field Policy 27:  ISO 13631 (E), August 1, 2002,  Comments / Exceptions 
+ 
+Paragraph      Comments 
+ 
+3.7  Siemens Energy defines MAWP as the maximum continuous gauge pressure for which the 
+manufacturer nameplates it's compressors (o r relevant part thereof) when handling the 
+specified fluid at the specified temperature.  It is also the maximum relief valve setting. 
+ 
+3.10  Siemens Energy defines RDP (rated discharge pressure) as being MAWP/1.10 or MAWP - 25 
+PSIG (1.8 kg/cm2) whichever is greater. I.E., a cylinder would have an RDP of 1000 PSIG (70.3 
+kg/cm2) and a MAWP of 1100 PSIG (77.3 kg/cm2) - or a cylinder with a MAWP of 100 PSIG (7.0 
+kg/cm2) would have an RDP of 75 PSIG (5.3 kg/cm2). The MAWP is the controlling rating.  
+ 
+3.11  Siemens Energy Sizing performance program calculates "Rated Power" by assuming some 
+general pressure drops for each of these factors. Each Reseller designs their own pulsation 
+suppression devices, orifices, process piping, in tercoolers and separators. Siemens Energy will 
+not be responsible for errors granted via outside suppliers equipment. 
+ 
+3.13   Capacity can be expressed with no negative tolerance if so specified. 
+ 3.15  Volume flow referred to 0.1013 Mpa (1.013 bar A) and a temperature of 0° C (32° F) if so 
+specified. 
+ 6.3  Discharge temperatures can be limited to 135°  C (275° F) if so spec ified. Siemens Energy 
+sizing program flags T (adiabatic) @300° F (149° C) and T (estimated actual) at the cylinder 
+design limit of 350° F (177° C). Both temperatures are shown on standard output form. 
+ 
+6.4.1.2  Siemens Energy calculates gas rod load at  the compressor flange at 0 and 180 degrees. Gas 
+rod load can be calculated at relief valve set pressure, if specified. 
+ 
+6.5.1.1  Siemens Energy compressor cylinder "maxim um allowable working pressure" (MAWP) exceeds 
+the "rated discharge pressure" (RDP) by 10% or as a minimum 25 PSI (1.8 kg/cm
+2). 
+ 
+6.5.2.1  Siemens Energy recommends outboard cy linder supports on all cylinders, 15" (381.0 mm) 
+diameter or larger and all  cylinders with HOVVCP. 
+ 
+6.5.2.3.3  Siemens limitation is -51° C (-60° F) before  special stud material is required. For temperatures 
+of -20° C (4° F) but warmer than -51° C (-60° F) , Siemens Energy can supply special material at 
+an extra price. Note that stainless steel metallic  valve plates are required on PF valves for 
+temperatures colder than -29° C (-20° F). 
+ 
+6.5.3.1  Siemens Energy 26.0" (660.4 mm), 26. 5” (673.1 mm) and 28.0" (711.2 mm) HOS/HOSS 
+cylinders have a machined rectangular studded flange. Forged steel billet cylinders to 4400 PSI (309.4 kg/cm
+2) MAWP typically use "ring joint" flanges . Forged steel billet cylinders from 4400 
+psi (309.4 kg/cm2) to 6600 PSI (464.0 kg/cm2) MAWP use "lens" style connections. 
+ 6.6.2.1  Siemens Energy Model PF valves ar e not 100% polarized. Should a discharge valve 
+inadvertently be installed in a suction valve hol e; the valve will not completely seat so no 
+damage can occur. 
+ 
+6.7.1 Siemens Energy standard does not include provision to positively lock piston rods into 
+crossheads. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 27 
+Februar y, 2021 
+6.7.3.  Siemens Energy standard complies with the requirement 
+that combo piston rings or wear bands do not ov er-travel the valve ports or counter-bores by 
+over 1/2 the axial width of the combo piston ring or wear band. 
+ 
+6.7.4.  Siemens Energy Model MOS/HOS/HOSS/BO S compressors comply. Siemens Energy Model 
+MOS compressors are not hardened to meet the 50Rc hardness requirement in the packing 
+travel area. If specified, this can be provided at an extra price. 
+ 
+6.9.3  Siemens Energy distance piece come standar d with a 3/4" (19.1 mm) NPT vent connection. If 
+so specified, a larger connection can be furnished at an extra price. 
+ 
+6.10.2  Siemens Energy has a few MOS, HOS and HOSS applications where the packing cases are 
+rated slightly less than the MAWP of the cylinde r, however field experience has proven these to 
+be reliable. 
+ 
+6.11.2  Siemens Energy standard oil level gauge is a "Bulls Eye" type with a single line only. The 
+Instruction Book defines how to determine minimum and maximum levels with this gauge. 
+ 
+6.11.3.1  All Siemens Energy current pr oduction line compressor models comply.  
+ 6.11.3.2  Siemens Energy recommends the use of an electric motor driven pre-lube pump on all electric 
+motor driven compressors. These are normally supplied by the Reseller, but Siemens Energy 
+can supply at an extra price if specified. 
+ 
+6.11.6  Siemens Energy supplies a machined connection point for a crankcase oil-level control device. 
+Oil level control device and oil storage tank are normally supplied by the Reseller but can be supplied by Siemens Energy at an extra price if specified. 
+ 
+6.11.7  Siemens Energy’s long time supplier of lubricator heaters exceeds the 2 W/cm^2 maximum 
+heat flux specified. 
+ 
+6.12.1  Siemens Energy standard is to supply 300 Se ries stainless steel tubing and fittings for all 
+cylinder lubrication tubing lines. 
+ 6.12.2  Siemens Energy’s standard cy linder lubrication system uses oil supplied from the crankcase to 
+the lubricator pumps and then to the distribution block system. This system can be modified to 
+one supplied from a separate oil tank if specified. 
+ 
+6.13.1.3  Siemens Energy has had many years of sati sfactory experience with both cast iron and nodular 
+iron cylinders that exceed these ratings. (For example, 10.5" (266.7 mm)  CI cylinders to 1500 
+PSIG (105.5 kg/cm
+2), 6.0 (152.4 mm) - 7.0" (177.8 mm)  NI cylinders to 2750 PSIG (193.3 
+kg/cm2), 8.5 (215.9 mm) -9.0 (228.6 mm) - 9.5"  (241.3 mm) cylinders to 1925 PSIG (135.3 
+kg/cm2), etc.) 
+ 
+6.13.3.3  When used, drilled plugs for plug repair ar e subject to a liquid dye penetrant examination and 
+tested via hydrotest after repair is complete. 
+ 
+7.4.1  Siemens Energy Sizing Performa nce Program uses a "warning flag" for discharge volumetric 
+efficiencies lower than  10% rather than a suction volumetric efficiency limit. 
+ 
+ 
+ 
+7.4.2  Siemens Energy does not vent the outboard side of hand operat ed variable volume clearance 
+pockets as standard. This can be done at an extra price if specified. 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 27 
+Februar y, 2021 
+ 
+9.3.3  Siemens Energy offers the Model HOSS co mpressor using a 2.875" (73.0 mm) piston rod 
+standard design packing cases. Water cooled packing cases can be supplied for high pressure applications or for special gases when specified. 
+ 
+17.3.4.1  Siemens Energy can perform a pressure test  with helium (in addition to the hydrotest) for gases 
+with a MW of 12 or less or with 0.001 mole fracti on of H2S when specified at an extra price. 
+ 
+20.2  Hydrogen Sulfide: Siemens Energy has years of satisfactory experience supplying compressors 
+for H2S service. General Guidelines are included in GFP18 Sour Gas Service which is included 
+in the Application and Data Book or is ava ilable on request. Standard nodular iron cylinder 
+material is ASTM A536. Special materials are available upon request. 
+ 
+20.3  Carbon Dioxide: Siemens Ener gy has years of satisfactory ex perience supplying compressor for 
+CO2 service. General Guidelines are included in GFP16 Carbon Dioxide Service which is 
+included in the Application and Data Book or is available upon request. 
+ 21.8  Siemens Energy’s standard primer is Sher win Williams Red Oxide "Kem-Flash" 500 primer. Top 
+coats supplied by the Reseller need to be compatible with this primer. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 28 
+Februar y, 2020 
+ 
+Gas Field Policy 28:  Quality Control/Qualit y Assurance Procedures 
+ 
+Siemens Energy standard QC/QA procedures includes a vi sual and dimensional inspection and material content 
+reviewed for all major components. Inspection procedur es are per Siemens Energy standard manufacturing 
+specifications and all records for t he standard procedures listed below ar e maintained at the Siemens Energy 
+Painted Post Plant. All frame and running gear with cylinders  normally mounted are mechanically run tested with 
+a shop driver and cylinders are hydro-tested. Material test  reports and certificates are kept at the supplier's 
+location. 
+ 
+Siemens Energy standard compressor assembly record (QAF-262, form available in the Packager Guidelines) 
+included with each compressor Instruction Book consists of: 
+• Run test documentation. 
+• Frame and running gear assembly clearances. 
+• Cylinder and piston measurements. 
+• Piston rod runout. 
+• Piston ring clearances. 
+• FE and OE clearance measurements. 
+• Balance information. 
+ 
+Siemens Energy standard cylinder hydrot est record (QAF14) is included with each compressor Instruction Book. 
+ The following checks are made to major components: 
+ 
+FRAME AND RUNNING GEAR: (No documentation is provided) 
+Frame - A frame leak test is performed. 
+All frames are electronically measured on a Coordinate Measuring Machine (or wire aligned) - Chemical and 
+physical properties confirmed. 
+ 
+Crankshaft - Chemical and physical properties confir med. Magnetic particle and ultra-sonic tests made. 
+ 
+Connecting Rods - Chemical and physical properties confirmed. 
+ Connecting Rod Bolts - Chemical and physical prop erties confirmed. Magnetic particle tests made. 
+ 
+Crossheads - Chemical and physical properties confirmed.  
+Crosshead Pins - Chemical and physical properties confirmed. Magnetic particle tests made. 
+ Distance Pieces - Chemical and physical properties confirmed. 
+ 
+CYLINDER: (No documentation is provided other than QAF14) 
+Cylinder barrel - 1/2 hour hydrot est at 1.5 times MAWP, QAF14. 
+Chemical and physical properties confirmed. 
+ Piston Rods - Chemical and physical properties  confirmed. Magnetic particle tests made. 
+ 
+Valving - Leak tested. 
+ 
+NOTE: Over 90% of Siemens Energy HSRC orders require only Siemens Energy standard QC/QA Procedures. Any QC/QA 
+additions to the above, such as material certifications, additi onal tests, and/or customer witness of any of the tests, etc. ca n 
+be provided at an additional cost. Any additional non-standard QC/QA requirement must be confirmed at time of order 
+to ensure that adequate time is allotted for extra  QC/QA material information procurement, witness test 
+notifications, additional tests performed so that the all required information can be gathered from the pertinent 
+sources.  
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Gas Field Policy 29:  Maintenance 
+ 
+ 
+ROUTINE OPERATION AND MAINTENANCE  
+ 
+High speed reciprocating compressors are designed and built for long periods of continuous and reliable full-load operation.  It should be equipped with automatic safety devices to protect it and shut it down in case of low frame oil pressure, vibration, extreme temperatures or pressures and lack of cylinder lubrication.  It can also be equipped with addi tional safety devices to obtain practically any 
+degree of protection desired pending on the service and/or owner requirements. 
+ When the unit is first placed in operation and the machine is operating at normal speed and load and with stable operating pressures and temperatures, all safety alarm and shutdown controls should be carefully checked for correct operation and adjust ed where necessary.  Never disconnect the safety 
+shutdown devices and allow the unit to run unprotected. 
+ 
+Every compressor requires a certain amount of super vision and care if it is to give continued 
+satisfactory performance and long service life.  A time schedule of duties for the operator must be subject to alteration by experience to fit the actual conditions and operating environment.  The following minimum schedule is suggested based on the continuous duty of 720 hours per month. 
+ 
+ 
+NOTE  
+ 
+The time schedule of routine inspections and maintenance for the 
+compressor must be used in conjunction with the schedule and duties 
+recommended by the driver manufacturer for this machine.  This also applies to the other accessory equipment. 
+ 
+ 
+Daily:  
+ 
+1. Keep the exterior of the compressor/driver clean, as well as the surrounding work area. 
+ 
+2. Check the oil level in the frame sump and add the proper oil as required to maintain the level 
+at the oil level line on the gauge.  Check that the oil tank (if so equipped) is also filled to the proper level. 
+ 
+3. Check the oil level in the lubricator drive box and add the proper oil as necessary.  If the oil 
+level has increased, then check the pumps for leakage past the plungers.  Make sure that all the pumping units are working and also inspect the distribution blocks for leakage, indicator pins “popped up”, or other problems. 
+ 4. Keep a daily log of all gas temperatures, water temperatures and gauge pressures.  One of 
+the principal means of keeping track of the physical condition of a compressor and its 
+equipment is by these daily log readings.  Watch carefully for any marked changes which indicate that further attention is warranted.  Use the interstage pressures and temperatures to detect abnormal conditions.  A decrease in the interstage pressure and temperature means that the lower pressure cylinder has reduced capacity.  An increase in interstage pressure and 
+temperature means that the next higher stage cylinder has reduced capacity.  These effects 
+can be attributed to leaking valves, worn piston rings or broken parts. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+NOTE  
+ 
+In every case, because of variable operating conditions, the operator should establish the frequency of draining off the various drains.  This frequency will be determined by the amount of liquid that collects at each drain point. 
+ 
+5. If separators are used in the compressor system, a schedule must be established whereby 
+they are periodically drained to prevent any liquid carryover into the compressor cylinders, which can cause serious damage.  If automatic drains are furnished, check them for proper operation and be sure that no liquid has accumulated in the level gauge. 
+ 
+6. Watch for signs of excessive heating and listen for any unusual noises while the machine is 
+operating.  Any abnormal condition should be investigated immediately. 
+ 7. Visually inspect the unit for loose fasteners and supports or for any excessive shaking from 
+tubing or hoses and secure where appropriate. 
+ 
+8. Check all the gas, water and oil piping for leaks. 
+ 
+ 
+First Week:  
+ 
+1. Visually inspect and spot check with torque wrenches, the fasteners on joints with gaskets and 
+the entire cylinder to frame bolting with the unit shut down.  Take note of any fasteners that have loosened and pay close attention to these fasteners.  Increase the periodic checking of these fasteners if necessary. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during operation.  
+Tighten the fasteners as required following the procedures outlined in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 
+3. Check the runout of the compressor piston rods.  Make sure the piston rod is not scored, 
+scratched or discolored. 
+ 4. Check the oil scraper packing, piston rod packing and distance piece vents for excessive 
+blowby and/or oil leakage.  If blowby is occurring, determine the cause and if required, replace 
+the packing rings. 
+ 5. Check for adequate cylinder and packing lubrication.  This may require the removal of the 
+outer head and/or valve covers.  Compressors typically leave the factory with the cylinder lubrication system set at the maximum flow rate for break-in.  Refer to Section 2-3.4 in this Instruction Manual before reducing the flow rate. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Monthly (ALL Daily Checks Plus):  
+NOTE  
+ 
+When the compressor is being operated in an extremely dirty 
+atmosphere, or where it is installed outdoors, operated intermittently, 
+handling foul gas in the cylinders, or operating with high oil temperatures in a very hot atmosphere, it may be necessary to change the oil more often.  Most reputable oil companies offer laboratory analysis of oil samples, the use of this type service is recommended. 
+ 
+1. Take a sample of the frame oil for analysis.  Compare the oil analysis to a clean reference 
+sample.  Change the oil and oil filter per the analysis or per the compressor manufacturer's recommendations. Refer to Chapter 2 Section 2-2.8. 
+ 2. Visually inspect all the loaded joints for motion across the joint (winking) during operation.  
+Tighten the fasteners as required following the procedures outlined in CHAPTER 5 GENERAL 
+DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 3. Visually check the oil scraper packing, piston rod packing and distance piece vents for 
+excessive blow-by and/or oil leakage. 
+ 
+ 
+Every Three Months (ALL Monthly Checks Plus):  
+ 
+1. Check all of the safety shutdowns and the operation of the loading and unloading devices for 
+proper operation. 
+ 
+2. Lubricate all of the variable volume clearance pocket (VVCP) packing grease fittings (See CHAPTER 4 MAINTENANCE Section 4-19.2 in this Instruction Manual) and check for free motion by moving the pocket in and out with the unit not operating.  Reset the pocket to the 
+correct clearance setting. 
+ 
+3. Check the frame crankcase breather(s) and clean or replace as necessary. 
+ 
+4. Clean the lubricator reservoir and pumping units as necessary or according to the manufacturer’s instructions. 
+ 
+5. Check the compressor piston rings and piston rod for wear and the cylinder bore for scoring, 
+and remove any accumulation of foreign material.  Replace the piston rings if they are worn to their limit.  Benchmark the wear data.  See CHAPTER 4 MAINTENANCE Section 4-14, in this 
+Instruction Manual for the proper procedures on checking the wear rate of, and renewing, 
+PTFE piston and rider rings. 
+ 
+6. Clean the separator sight glasses (if so equipped). 
+ 
+7. Utilizing a temperature measuring gun, measure the temperature of the valve covers; record 
+and benchmark all the data. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+8. Check the frame and driver foundation bolts for tightness.  Follow the required procedures and 
+tighten to the proper torque values given in CHAPTER 5 GENERAL DATA AND 
+SPECIFICATIONS Section 5-3, found in this Instruction Manual. 
+ 
+9. Inspect the drive coupling.  Replace any worn or broken components.  Tighten as required. 
+ 
+ 
+Every Six Months (ALL Three Month Checks Plus):  
+ 
+1. Check the crankshaft end play. 
+ 
+2. Inspect the piston rod, pressure packing and oil scraper case for discoloration or excessive 
+leakage.  Replace the rings as required. 
+ 3. Replace the cylinder lubricator filters.  
+ 
+Annually (ALL Six Month Checks Plus):  
+ 
+1. Check all of the running gear clearances and compare them to the benchmark readings.  If a 
+change is detected, disassemble and inspect those affected parts.  Replace any bearings and/or bushings where necessary. 
+ 2. Clean and flush the oil cooler and any other heat exchanger supplied.  
+3. Check the accuracy of the compressor pressure gauges and recalibrate them as required. 
+4. Remove all of the inlet and discharge valves.  Clean and inspect the valves for excessive wear 
+and broken parts.  Lap the seats and guards and replace all internal parts.  Refer to the compressor valve instructions located in CHAPTER 4 MAINTENANCE Section 4-18 in this Instruction Manual. 
+ 
+5. Remove the compressor piston and piston rod assemblies and inspect the piston rods, 
+pistons, piston rings and cylinder bore diameters.  Record the cylinder bore diameters.  Replace components where necessary.  Inspections of this nature will indicate the replacement schedule for parts that are subject to wear. 
+ 
+6. Safety valves used in the compressor gas system should have their settings tested at least 
+once a year, and more often under extreme conditions, by a hydraulic test. 
+ 7. Examine any separators, bottles, dampers and similar equipment that may be used in the 
+compressor system for accumulation of dirt, rust and other foreign material.  Remove the 
+vessel from the system and clean it if necessary. 
+ 8. Visually inspect the packing cups; re-lap as required; replace pressure packing and oil wiper 
+rings. 
+ 
+9. Pull the cylinder lubricator box pump covers and inspect the internal gears and cam shaft.  
+Replace pumps where necessary. 
+ 10. Pressure test divider valves if a block distribution system.  11. Visually inspect cylinder gas passages for debris and remove where needed. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Every 4-6 Years (Overhaul):  
+ 
+1. Completely disassemble the compressor.  2. Replace the oil pump.  
+3. Replace all valves. 
+ 4. Replace all wear items such as bearings, bushings, pistons and rings.  5. Replace all seals. 
+ 
+6. Replace piston and piston rod if necessary.  7. Replace all cylinder lubricator pumps and divider blocks.
+  
+ 

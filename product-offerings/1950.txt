@@ -1,0 +1,680 @@
+   
+Geschäftsbedingungen Produktgeschäft – Siemens Energy Austria GmbH , Version 12/2024  
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+1/11 
+ 
+Siemens Energy Bedingungen für das Produktgeschäft   
+ 
+1. Allgemeines  
+1.1 Der Umfang, die Quantität, Qualität, Funktionalität und technische Spezifikationen der von Siemens Energy zu 
+liefernden Produkte, Ausstattung, Dokumentation,  Digital e/r Service /s oder zu erbringenden Werk - und/oder 
+Dienstleistungen („ Lieferungen “), ergeben sich ausschließlich aus der Auftragsbestätigung von Siemens Energy 
+oder dem zwischen dem Kunden und Siemens Energy geschlossenen Vertrag.  
+1.2  "Digitaler Service " oder " Digitale  Services " bezeichnet alle Lieferungen und Leistungen, wie sie in diesem Ver-
+trag und den jeweiligen Nachträgen zu diesem Vertrag näher beschrieben sind. Digitale Services können aus 
+Hardwareteilen, Software und/oder Anwendungen bestehen. "Anwendung" bezeichnet die (i) Software, (ii) Web-
+seiten, (iii) Konnektivität, (iv) Infrastruktur und (v) Hardware, die sich außerhalb des Standorts des Kunden befin-
+den und die von Siemens E nergy zur Erbringung der Digitalen Services genutzt werden.  
+1.3  Das Angebot von Siemens Energy mit diesen Geschäftsbedingungen und die im Angebot ausdrücklich als Teil 
+des Vertrages aufgeführten sonstigen Unterlagen stellen zusammen die vollständige Vereinbarung zwischen den 
+Parteien („ Vertrag “) dar. Etwaige Geschäftsbedingungen des Kunden gelten nur insoweit, als Siemens Energy 
+diesen ausdrücklich schriftlich zugestimmt hat.  
+ 
+2. Nutzungsrechte  
+2.1 Sämtliche Rechte am geistigen Eigentum und gewerbliche Schutzrechte an den Lieferungen, an allen von Sie-
+mens Energy in Verbindung mit diesem Vertrag zur Verfügung gestellten Dokumenten („ Dokumente “) und der 
+gesamten Software, Hardware, dem gesamten Know -how („ geistiges  Eigentum “) und sonstigen in Verbindung 
+mit den Lieferungen und den Dokumenten zur Verfügung gestellten Gegenstände n sind und verbleiben aus-
+schließliches Eigentum von Siemens Energy, soweit nicht etwas anderes vereinbart wird. Soweit zwingende s 
+Recht nachfolgende Beschränkung nicht verbietet, darf der Kunde die Lieferungen oder Teile davon nicht zurück-
+entwickeln  (reverse engineering) , dekompilieren oder reproduzieren und muss sicherstellen, dass Dritte die Lie-
+ferungen oder Teile davon nicht zurückentwickeln  (reverse engineering) , dekompilieren oder reproduzieren.  
+ 
+2.2 Der Kunde ist berechtigt, die Dokumente unverändert und in dem für den Betrieb und die Routinewartung der 
+Lieferungen notwendigen Umfang durch kundeneigenes Personal zu verwenden, sofern Siemens Energy dem 
+Kunden nicht schriftlich weitergehende Rechte einr äumt.  
+  
+2.3 Soweit die Lieferungen Software von Siemens Energy enthalten, wird diese Software nach den in der Software -
+Dokumentation, in der Software selbst oder in beigefügten (Siemens Energy Software -) Lizenzbedingungen ent-
+haltenen Bestimmungen ( jeweils „Anwendbare Software Bedingungen “) lizenziert. Die Anwendbaren Software 
+Bedingungen gelten vorrangig vor den in dieser Ziffer  2 enthaltenen Bedingungen. Die Software wird im Objekt-
+code ohne Quellcode geliefert. Siemens Energy gewährt dem Kunden das nicht -exklusive Rec ht zur Nutzung der 
+Software gemäß der Beschreibung in den Anwendbaren Software Bedingungen oder, falls solche Bedingungen 
+nicht gestellt werden, für den Zweck des Betriebs und der Wartung der Lieferungen.  
+ 
+2.4 Die Lieferungen können Lizenzsoftware Dritter enthalten. Soweit für die Lizenzsoftware besondere Lizenzbedin-
+gungen  (z.B. EULA)  des jeweiligen Lizenzgebers gelten, stellt Siemens Energy dem Kunden diese Lizenzbedin-
+gungen zusammen mit den Lieferungen zur Verfügung. Diese allein gelten im Hinblick auf die Haftung des jewei-
+ligen Lizenzgebers dem Kunden gegenüber. Der Kunde hat die Lizenzbedingungen des jeweiligen Lizenzgebers 
+einzuhalten.  
+ 
+2.5 Soweit die Software Open -Source -Software („ OSS “) enthält, stellt Siemens Energy die geltenden OSS -Lizenz-
+bedingungen zusammen mit den Lieferungen zur Verfügung. Die OSS -Lizenzbedingungen gelten vorrangig vor 
+diesem Vertrag. In der Software -Dokumentation befinden sich Einzelheiten zu in den Lieferungen enthaltener 
+Drittsoftware und OSS (z.B. README_OSS).  
+ 
+2.6  Soweit Open -Source -Software in den Lieferungen  enthalten ist, wird diese in der Readme_OSS -Datei der Soft-
+ware aufgeführt. Der Kunde ist berechtigt, die Open Source Software gemäß den jeweils geltenden Lizenzbedin-
+gungen der Open Source Software zu nutzen, die Vorrang vor diesem Vertrag haben. Die Open -Source -Soft-
+ware -Lizenzbedingungen haben auch im Verhältnis zu den geschützten Siemens Energy -Komponenten Vorrang, 
+soweit die Open -Source -Software -Lizenzbedingungen dem Kunden bestimmte Nutzungsrechte aufgrund d er 
+Verbindung von OSS -Komponenten mit geschützten Siemens Energy -Komponenten einräumen. Siemens 
+Energy stellt dem Kunden auf dessen Wunsch den Quellcode der Open Source Software gegen Zahlung einer 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+2/11 
+Aufwandsentschädigung zur Verfügung, soweit die Lizenzbedingungen der Open Source Software eine solche 
+Herausgabe des Quellcodes vorsehen.  
+ 
+2.7  Die in Ziffer  2 gewährten Rechte sind nur zusammen mit dem Eigentum an den Lieferungen auf Dritte übertrag-
+bar. 
+ 
+2.8  Unbeschadet des geistigen Eigentums des Kunden und im Rahmen der anwendbaren Gesetze dürfen Siemens 
+Energy und seine verbundenen Unternehmen für eigene Unternehmenszwecke jegliche in Verbindung mit den 
+Lieferungen empfangene Daten sammeln, nutzen, ändern und kopieren. Sämtliche rechtliche Verpflichtung en 
+bezüglich persönlicher Daten bleiben hiervon unberührt.  
+ 
+3. Preise und Zahlungsbedingungen  
+3.1 Die Preise verstehen sich ohne Verpackung, Fracht, Versicherung und aller anderen zusätzlichen Gebühren (wie 
+z.B. Lagerung, Inspektionen durch Dritte), soweit nicht anderweitig vereinbart. Der vom Kunden für die Lieferun-
+gen nach diesem Vertrag zu zahlende Preis wird als „ Vertragspreis “ bezeichnet.  
+ 
+3.2 Der Vertragspreis beinhaltet nicht ggf. anfallende indirekte Steuern (wie Vermögens -, Lizenz -, Umsatz -, Ge-
+brauchs -, Mehrwert - oder ähnliche Steuern) und/oder Zölle oder öffentliche oder sonstige Abgaben im Zusam-
+menhang mit dem Vertrag. Der Kunde verpflicht et sich, Steuern, Zölle, öffentliche oder sonstige Abgaben , welche 
+Siemens Energy bezüglich der Lieferungen auferlegt werden, zu bezahlen oder zu erstatten. Sämtliche Zahlun-
+gen erfolgen ohne Abzug (z.B. Abzug von Quellensteuer) innerhalb von 30 Tagen nach Ausstellung der Rech-
+nung auf das von Siemens Energy genannte Bankkonto. Ist der Kunde aufgrund gesetzlicher Bestimmungen 
+verpflichtet, einen Abzug vorzunehmen, so erhöht sich die zu zahlende Summe derart, dass Siemens Energy 
+einen Nettobetrag in Höhe des B etrags ohne den Abzug erhält. Der Kunde legt Siemens Energy innerhalb eines 
+angemessenen Zeitraumes entsprechende Nachweise der zuständigen Behörden vor, die in Verbindung mit den 
+Zahlungen stehen.  
+ 
+3.3 Unbeschadet sonstiger Rechte kann Siemens Energy Verzugszinsen in Höhe von 9 Prozentpunkten über dem 
+jeweils aktuellen Basiszinssatz der Europäischen Zentralbank verlangen.  
+ 
+3.4 Jede Partei ist verpflichtet, alle im Zusammenhang mit diesem Vertrag stehenden Forderungen der jeweils ande-
+ren Partei ohne Aufrechnungen, Gegenforderungen, Abzüge oder Einbehalte jeglicher Art zahlen, soweit nicht 
+etwas anderes schriftlich vereinbart oder  gesetzlich vorgesehen ist.  
+ 
+4. Lieferzeiten, Verzug und pauschalierter Schadensersatz  
+4.1 Ist Siemens Energy an der Einhaltung vereinbarter Liefertermine für die Erbringung von (Teil -) Lieferungen durch 
+Dritte oder durch unterlassene, verzögerte oder fehlerhafte Mitwirkungshandlungen bzw. Obliegenheiten des 
+Kunden gehindert, verschieben sich di e Termine um einen angemessenen Zeitraum. Dies umfasst insbesondere 
+auch die Zurverfügungstellung erforderlicher Unterlagen (z.B. Genehmigungen und Freigaben), die fristgerechte 
+Leistung aller durch den Kunden oder durch einen vom Kunden beauftragten Dritt en zu erbringenden Lieferungen 
+und Leistungen und die Einhaltung der vereinbarten Zahlungsmodalitäten.  
+ 
+4.2 Soweit zumutbar, kann Siemens Energy die Lieferungen in Teilen erbringen und ist berechtigt, entsprechende 
+Teilrechnungen zu stellen.   
+ 
+4.3 Hält Siemens Energy den vereinbarten endgültigen Liefertermin aus Gründen, die Siemens Energy allein zu ver-
+treten hat, nicht ein, so ist der Kunde berechtigt, von Siemens Energy pauschalierten Schadensersatz in Höhe 
+von 0,5  % des Preises für denjenigen Tei l der Lieferungen, der wegen des Verzugs der beabsichtigten Verwen-
+dung nicht zugeführt werden konnte , für jede vollendete Woche des Verzugs zu verlangen, in der dem Kunden 
+infolge dieses Verzugs Verluste entstanden sind. Der wegen Verzugs zu zahlende pausc halierte Schadensersatz 
+ist begrenzt auf 5  % des Preises für den Teil der Lieferungen, der wegen des Verzugs der beabsichtigten Ver-
+wendung nicht zugeführt werden konnte.  
+ 
+4.4 Weitergehende und andere Ansprüche und Rechte des Kunden gegen Siemens Energy wegen Verzugs als die 
+ausdrücklich in Ziffer  4 und in Ziffer  15. 2 a) genannten, sind – soweit gesetzlich zulässig – ausgeschlossen.  
+ 
+4.5 Im Falle von Lieferverzögerungen, die auf das Verhalten des Kunden, seiner Vertragspartner oder anderer vom 
+Kunden beauftragter Dritter zurückzuführen  sind, hat der Kunde Siemens Energy alle angemessenen zusätzli-
+chen Kosten und Aufwendungen zu erstatten, die aufgrund dieser Verzögerung entstanden sind.  
+ 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+3/11 
+4.6 Werden vertraglich vereinbarte Leistungskennzahlen aus Gründen nicht erreicht, die Siemens Energy allein zu 
+vertreten hat, wird Siemens Energy ein angemessener zusätzlicher Zeitraum für die Erreichung dieser Kennzah-
+len gewährt, in dem Siemens Energy die se inerseits für erforderlich gehaltenen Leistungen auf eigene Kosten 
+ausführt. Falls nach Ausführung und aller weiteren Leistungstests die Leistungskennzahlen nicht erreicht werden, 
+ist der Kunde berechtigt, einen ggf. vertraglich vereinbarten pauschalierten  Schadensersatz zu verlangen, der 
+jedoch keinesfalls 5  % des Preises für den die vereinbarten Kennzahlen nicht erfüllenden Teil der Lieferungen 
+übersteigt. Alle weiteren Ansprüche und Rechte des Kunden im Zusammenhang mit der Nichterreichung vertrag-
+lich ve reinbarter Leistungskennzahlen sind ausgeschlossen.  
+ 
+4.7 Die Parteien sind sich des aktuellen, weltweiten Ausbruchs des Coronavirus (COVID -19) bewusst, der die Durch-
+führung des Vertrages beeinträchtigen könnte. Die Parteien sind sich darüber einig, dass Siemens Energy zu 
+angemessenen Anpassungen der vereinbarten Liefertermine für die Erbringung von (Teil -) Lieferungen und Leis-
+tungen und zu Mehrko stenerstattungen berechtigt ist, soweit die Verzögerung direkt oder indirekt durch den Aus-
+bruch des Coronavirus verursacht wird.  
+ 
+4.8 Die Parteien sind sich der unsicheren geopolitischen Lage, insbesondere  durch den Krieg in der Ukraine bewusst, 
+deren Effekte zum Zeitpunkt des Vertragsabschlusses nicht vorhersehbar sind und welche direkt und indirekt die 
+Erfüllung des Vertrages beeinflussen können, einschließlich, aber nicht nur im Hinblick auf die Verfügbarkeit 
+bestimmter Geräte, Materialien, Metalle, Rohstoff e ebenso wie Transportmöglichkeiten und Gas. Aufgrund des-
+sen ist Siemens Energy zur Anpassung der Lieferzeiten und/oder des Vertra gspreises berechtigt, solange dies 
+auf Umstände zurückzuführen ist, welche mit der oben genannten geopolitischen Lage direkt oder indirekt in 
+Zusammenhang stehen.  
+ 
+5. Gefahr - und Eigentumsübergang  
+5.1 Die Gefahr der Beschädigung oder des Verlusts der Lieferungen oder Teilen davon geht bei Zustellung auf den 
+Kunden über.  
+  
+5.2 Die Lieferungen gelten als zugestellt, wenn und sobald der Kunde die Annahme der Zustellung ohne wichtigen 
+Grund versäumt. In diesem Fall können die Lieferungen auf Gefahr und Kosten des Kunden gelagert und versi-
+chert werden; etwaige Zahlungen werden fälli g. Dieselben Folgen gelten für den geplanten Liefertermin, wenn 
+die Auslieferung aus dem Kunden zuzurechnenden Gründen verschoben wird.  
+ 
+5.3  Das Eigentum an sämtlichen Teilen der Lieferungen verbleibt bei Siemens Energy bis Siemens Energy die voll-
+ständige Zahlung für diesen Teil der Lieferungen erhalten hat.  
+ 
+6. Höhere Gewalt  
+6.1 „Ereignisse höherer Gewalt “ sind Umstände, die außerhalb des Einflussbereichs einer Partei oder ihrer Sub-
+unternehmer liegen, die nicht durch Anwendung der in der Branche üblichen Sorgfalt hätten verhindert werden 
+können und die dazu führen, dass eine Partei , ihre verbundenen Unternehmen oder ihre Subunternehmer („ be-
+troffene Partei “) ihre Verpflichtungen nicht erfüllen kann oder dass sie die vollumfängliche oder teilweise Erfül-
+lung nach diesem Vertrag nur verzögert leisten kann. Ereignisse höherer Gewalt umfassen u.a. kriegerische 
+Handlungen, Aufstände, innere Unruhen, Terrorismus, Naturkatastrophen, Epidemien, Streiks, Ausschließungen, 
+Angriffe auf das IT -System  von Siemens Energy (wie Virenangriffe, Hackerangriffe, Ausfall oder Nichtverfügbar-
+keit von Telekommunikationsnetzen, Nichtverfügbarkeit von Strom, Angriffe durch Schadsoftware, Ausnutzung 
+von Schwachstellen und andere Angriffe auf vertragsrelevante IT -Systeme und Betriebszentren z.B. Hackeran-
+griffe) sowie Nich terteilung von Lizenzen, Genehmigungen oder Zustimmungen, oder sonstige Handlungen oder 
+Unterlassungen von Behörden oder Embargos oder sonstige Sanktionen.  
+ 
+6.2 Bei Eintreten eines Ereignisses höherer Gewalt verstößt die betroffene Partei solange und soweit nicht gegen 
+ihre vertraglichen Verpflichtungen, wie dies zur Bewältigung der Auswirkungen des Ereignisses höherer Gewalt 
+erforderlich ist.  
+ 
+6.3 Die betroffene Partei benachrichtigt die jeweils andere Partei zeitnah über das Ereignis höherer Gewalt und ihre 
+davon betroffenen Verpflichtungen.  
+ 
+6.4 Dauern ein oder mehrere Ereignisse höherer Gewalt und deren Auswirkungen in Summe länger als 180 Tage an, 
+so ist jede Partei berechtigt, den Vertrag durch schriftliche Mitteilung gegenüber der jeweils anderen Partei be-
+züglich des noch nicht bereitgestellte n Teils der Lieferungen zu kündigen. In Bezug auf den noch nicht bereitge-
+stellten Teil der Lieferungen ist Siemens Energy zur Erstattung seiner unvermeidbaren Kosten als Folge der 
+Kündigung berechtigt.  
+ 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+4/11 
+7. Mitwirkungspflichten des Kunden  
+7.1 Der Kunde beantragt alle für die Inbetriebnahme, Abnahme und Nutzung der Lieferungen erforderlichen Lizen-
+zen, Genehmigungen und Freigaben und holt diese ein.  
+ 
+7.2 Um Digitale Services zu empfangen , hat der Kunde alle Maßnahmen zu ergreifen, die für den Empfang der Digi-
+talen Services erforderlich sind, einschließlich, aber nicht beschränkt auf die ordnungsgemäße Installation, den 
+Betrieb und die Wartung der Vor -Ort-Ausrüstung (d.h. Steuerungs - und Kommunikationssystem, Netzwerk kom-
+ponenten) und die Bereitstellung der Datenverbindung.  
+ 
+7.3 Der Kunde ist allein verantwortlich für die Konzeption, Implementierung und Aufrechterhaltung eines dem aktuel-
+len Stand der Technik entsprechenden ganzheitlichen Sicherheitsk onzepts, welches die Anlagen, Systeme, Ma-
+schinen und Netzwerke, für die die Lieferungen und Leistungen erbracht werden, vor Cyberbedrohungen schützt. 
+„Cyberbedrohung “ ist jeder Umstand oder jedes Ereignis , das geeignet ist, die Anlagen, Systeme, Maschinen 
+und Netzwerke des Kunden durch unberechtigten Zugriff, Zerstörung, Offenlegung und /oder Veränderung von 
+Informationen, Denial -of-Service -Attacken oder vergleichbare Szenarien nachteilig zu beeinflussen.  
+ 
+Ein solches Konzept sollte u.a. Folgendes beinhalten:  
+a) Der Zugang zu den Räumlichkeiten des Kunden und zu seinen Anlagen, Systemen, Maschinen und Netzein-
+richtungen ist auf das absolut Notwendige zu beschränken . 
+b) Die Installation von Updates, sobald diese zur Verfügung stehen gemäß der Installationsanleitung von Sie-
+mens Energy und unter Verwendung der neuesten Version. Dies kann den Erwerb von Hardware - und Soft-
+ware -Upgrades durch den Kunden sowie Patch -Management -Dienste erfordern, jedoch vorbehaltlich einer 
+vorherigen Prüfung der Kompatibilität und der Auswirkungen auf die Funktionalität der gesamten Anlage oder 
+des Systems. Die Verwendung von Versionen, die nicht mehr unterstützt werden, und/oder das Versäumnis, 
+die neuesten Updates zu installieren, kann die Gefährdung des Kunden durch Cyberbedrohungen erhöhen.  
+Ein „Update “ ist generell jede neue Software -Version, die hauptsächlich  
+i. Korrekturen von Softwarefehlern („ Bugfixes “), 
+ii. Behebungen von Schwachstellen („ Patches “) und/oder  
+iii. minimale Erweiterungen oder Verbesserungen der Hardware und/oder Software der Lieferungen und 
+Leistungen,  
+jedoch keine signifikanten, neuen Eigenschaften enthält.  
+Im Gegenzug dazu ist generell „ Upgrade " jede neue Hardware/Software -Version, die in erster Linie wesentli-
+che Verbesserungen des Produkts und neue Funktionen enthält und auch Updates beinhalten kann. Die Ver-
+wendung von Versionen, die nicht mehr unterstützt werden, und eine nicht durchgeführte I nstallation der neu-
+esten Ausgabestände kann die Gefährdung des Kunden durch Cyberbedrohungen erhöhen . 
+c) Die Befolgung von Sicherheitshinweisen und die Durchführung von anderen damit zusammenhängenden 
+Maßnahmen, die u.a. unter  https://www.siemens -energy.com/global/en/company/about/cybersecurity/cert -
+services.html  veröffentlicht sind . 
+d) Regelmäßiges Scannen und Testen der Hardware und/oder Software der Lieferungen auf Schwachstellen, 
+jedoch unter der Voraussetzung, dass (i) dies nicht während der Nutzung der Komponenten erfolgt und (ii) die 
+Systemkonfiguration und das Sicherheitsniveau von  Teilen der Komponenten nicht verändert werden. Stellt 
+der Kunde Schwachstellen fest, so hat er Siemens Energy innerhalb einer angemessenen Frist schriftlich zu 
+informieren. Der Kunde wird mit Siemens Energy kooperieren und darf die Schwachstelle nicht ohn e vorherige 
+schriftliche Zustimmung von Siemens Energy offenlegen.  
+e) Die Einführung und Aufrechterhaltung einer dem Stand der Technik entsprechenden Passwortrichtlinie . 
+f) Die Anbindung der Anlagen, Systeme, Maschinen und Netze, für die die Lieferungen vorgesehen sind, an ein 
+Firmennetzwerk oder das Internet darf nur erfolgen, wenn dies unbedingt erforderlich ist und wenn geeignete 
+Sicherheitsmaßnahmen (z.B. Firewalls, Netzwerk -Client -Authentifizierung und/oder Netzwerksegmentierung) 
+vorhanden und die Richtlinien der jeweiligen Hersteller erfüllt sind  
+g) Minimierung des Risikos einer Malware -Infektion (z.B. durch Inhalte von USB -Speichermedien und anderen 
+angeschlossenen Wechseldatenträgern) durch Malware -Scanner mit vom Hersteller zugelassener Kompati-
+bilität oder andere geeignete Schutzmaßnahmen .  
+h) Sensibilisierung des Personals des Kunden für die mit Cyber bedrohungen verbundenen Gefahren. Dazu ge-
+hören auch regelmäßige Schulungen.  
+ 
+„Schwachstelle (Vulnerabilität) " bezeichnet eine Schwachstelle in einem Produkt, die ausgenutzt werden 
+könnte, um einen unbefugten Zugriff, eine unbefugte Nutzung oder eine unbefugte Änderung des Produkts oder 
+der Computerumgebung zu ermöglichen.  
+ 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+5/11 
+7.4 Der Kunde bestätigt, dass durch Lieferungen vor Ort Sondermüll entstehen und/oder zu Tage treten kann, für 
+den spezielle gesetzliche oder behördliche Vorgaben nach den geltenden Gesetzen für „Gefahrstoffe“ oder „Son-
+dermüll“ gelten. Der Kunde stellt auf seine Kosten Behälter zur Verfügung, die alle gesetzlichen und behördlichen 
+Vorgaben erfüllen und hält beim Umgang mit und der Lagerung und Entsorgung von Sondermüll die geltenden 
+Gesetze ein.  
+ 
+Vor und während der Durchführung von Arbeiten vor Ort informiert der Kunde Siemens Energy über potenzielle 
+Gesundheits - oder Sicherheitsrisiken, die sich aus den Anlagen oder der Ausstattung des Kunden ergeben oder 
+am Einsatzort des Kunden vorliegen, insbe sondere über Gefahrstoffe, die möglicherweise zusätzlich zu den be-
+reits vertraglich ausdrücklich angesprochenen vorliegen können oder im Rahmen der Lieferungen möglicher-
+weise erzeugt oder freigesetzt werden („ EHS Risiken “).   
+ 
+Wenn im Rahmen der Erbringung der Lieferungen ein Gesundheits - oder Sicherheitsrisiko entsteht, kann Sie-
+mens Energy ohne Einschränkung seiner weiteren Ansprüche und Rechte die Erbringung der Lieferungen aus-
+setzen, bis das jeweilige Gesundheits - oder Sicher heitsrisiko dauerhaft beseitigt wurde oder seitens des Kunden 
+Schutz - und Vorsichtsmaßnahmen, die von Siemens Energy gefordert werden, ergriffen wurden.  
+ 
+Der Kunde erstattet Siemens Energy sämtliche durch besondere Schutzmaßnahmen und präventive Maßnahmen 
+verursachte zusätzliche Kosten, die von Siemens Energy als notwendig erachtet werden, um mit bereits entstan-
+denen EHS Risiken angemessen umzugehen, sowie sämtliche aus der Aussetzung der vertraglichen Pflichten 
+entstehenden Kosten. Die vertraglichen Zeitpläne, vereinbarten Termine und sonstigen Fristen werden entspre-
+chend angepasst.  
+ 
+Der Kunde ist für die Gesundheits - und Sicherheitsbedingungen am Einsatzort verantwortlich. Er befolgt geltende 
+Gesetze – und ergänzend die Gesetze und Richtlinien der Europäische Union - und führt eine Risikoeinschätzung 
+bezüglich möglicher Sicherheits - und Gesundheitsgefährdungen des Personals am Einsatzort durch, um diese 
+Risiken zu kontrollieren (einschließlich geeigneter Sicherheits - und Arbeitsvorschriften für den Einsatz vor Ort, 
+Notfall - und Evakuierungsszenarien und einsatzfähige Erste -Hilfe-System e und Ressourcen) und möglicherweise 
+notwendige Abhilfemaßnahmen zu schaffen.  
+ 
+Vor Ausführung der Lieferungen - und Leistungen vor Ort stellt der Kunde dem Personal und den Nachunterneh-
+mern von Siemens Energy die erforderlichen Sicherheits - und Arbeitsvorschriften sowie entsprechende Schulun-
+gen zur Verfügung.  
+ 
+Falls Siemens Energy dem Kunden ein Dokument mit EHS Bezug für den Ausführungsort zur Verfügung stellt, 
+hält sich der Kunde an die darin enthaltenen Regularien sowie Updates hierzu.  
+ 
+7.5 Der Kunde ist für die Aufbewahrung und Entsorgung der Elektro - und Elektronikaltgeräte sowie der Batterien auf 
+eigene Kosten gemäß den am Einsatzort geltenden gesetzlichen Bestimmungen verantwortlich.  
+ 
+7.6 Sofern sich Lieferungen wegen Umständen verzögern, für die Siemens Energy nicht verantwortlich ist, zahlt der 
+Kunde Siemens Energy alle aus dieser Verzögerung entstehenden zusätzlichen Kosten.  
+ 
+8. Änderungen  
+8.1  Werden geltende Gesetze, Regelungen und Vorschriften, technische Normen und Leitfäden und von Gerichten 
+oder Behörden erlassene Entscheidungen nach dem Zeitpunkt der Vertragsunterzeichnung geändert oder er-
+gänzt, ist Siemens Energy zur Anpassung des Vertrag es, vor allem des Vertragspreises, der Zeitpläne und des 
+Lieferumfangs berechtigt, soweit dies notwendig ist, um aus diesen Änderungen folgende Nachteile oder zusätz-
+liche Anforderungen auszugleichen.  
+ 
+Siemens Energy ist verpflichtet, nur die technischen Normen und Vorschriften einzuhalten, die in den technischen 
+Spezifikationen zum Zeitpunkt des Vertragsschlusses aufgeführt sind. Sollten zwingende Normen und Vorschrif-
+ten im Land der Projektausführung restriktivere Vorgaben in Bezug auf die Lieferungen und Leistungen zu einem 
+späteren Zeitpunkt festlegen, ist der Kunde verpflichtet, Siemens Energy hierrüber zu informieren. Der Kunde hat 
+dann bei Siemens Energy ein Nachtragsangebot einzuholen, welches Angaben über die Auswirkungen dieser 
+restriktiveren Vorgaben in Bezug auf den Vertragspreis, vertragliche Ausführungsfristen, Zahlungsbedingungen 
+und anderweitige Bestimmungen unter diesem Vertrag  enthält. Auf Basis  dieses Nachtragsangebots hat der 
+Kunde mit Siemens Energy eine Vertragsanpassung gemäß dieser Ziffer zu vereinbaren.  
+8.2  Die Bezeichnungen, Funktionen und das Erscheinungsbild der Digitalen Services und der Anwendungen spiegeln 
+den aktuellen Entwicklungsstand zum Zeitpunkt des Vertragsabschlusses wider. Siemens Energy ist berechtigt, 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+6/11 
+nach eigenem Ermessen Updates, Upgrades und/oder Änderungen an den Digitalen Services und/oder den An-
+wendungen vorzunehmen, z.B. um die Digitalen Services zu verbessern. Siemens Energy wird den Kunden über 
+alle wesentlichen Aktualisierungen, Upgrades und Änderungen informieren. Sind für solche Aktualisierungen, 
+Upgrades oder Änderungen zusätzliche Gebühren zu entrichten, so werden diese nur nach zusätzlicher  Verein-
+barung zwischen den Parteien wirksam.  
+8.3  Unbeschadet des Rechts der Parteien, Änderungen des Lieferumfangs zu verlangen, kann Siemens Energy die 
+Lieferungen jederzeit ohne vorherige Zustimmung des Kunden ändern, vorausgesetzt, diese Änderungen durch 
+Siemens Energy haben keine nachteiligen Auswirkungen auf die vereinbarte Betriebsfähigkeit, Funktionalität oder 
+die vereinbarten technischen Eigenschaften der Lieferungen. Siemens Energy hat in Bezug auf solche Änderun-
+gen keinen Anspruch auf zusätzliche Zahlungen,  Fristverlängerung oder sonstige Anpassungen des Vertrages.  
+ 
+9. Mängelhaftung  
+9.1 Vorbehaltlich Ziffer  9.2, wird ein Mangel nur als jede Abweichung der Beschaffenheit der Lieferungen von den 
+ausdrücklichen Bestimmungen dieses Vertrages aufgrund von Umständen, die bereits zum Zeitpunkt des Ge-
+fahrübergangs vorlagen, definiert („ Mangel “). Die Beschaffenheit der Lieferungen ist dabei abschließend in der 
+jeweiligen zum Vertragsgegenstand gehörigen Spezifikation beschrieben.   
+ 
+9.2 Als Mängel gelten insbesondere nicht:  
+a) Abweichungen aufgrund von natürlicher Abnutzung oder übermäßiger Beanspruchung ; 
+b) Abweichungen infolge unsachgemäßen Betriebs , Nichtbefolgung von Anweisungen oder Empfehlungen in 
+Betriebs - oder Wartungshandbüchern und anderen Unterlagen;  
+c) Fälle von nicht durch Siemens Energy durchgeführter Installation, Errichtung, Veränderung, Inbetriebnahme 
+oder Vor -Inbetriebnahme ; 
+d) nicht reproduzierbare Softwarefehler, außerdem gelten Softwarefehler ausschließlich als Mangel, wenn der 
+Mangel in der zum jeweiligen Zeitpunkt aktuellsten Softwareversion auftritt;  
+e) Mängel, die die Nutzung der jeweiligen Lieferungen nicht wesentlich beeinträchtigen.  
+ 
+9.3 Der Kunde prüft die Lieferungen bei Zustellung umgehend und hat etwaige Mängel unverzüglich schriftlich ge-
+genüber Siemens Energy zu rügen. Kommt der Kunde dieser Verpflichtung nicht oder nicht fristgerecht nach, 
+sind Mängelansprüche des Kunden bei offensic htlichen Mängeln ausgeschlossen.  
+ 
+Auf diese schriftliche Rüge hin wird Siemens Energy einen Mangel beseitigen, indem Siemens Energy nach 
+eigener Wahl entweder nachbessert, neu liefert oder neu erbringt. Siemens Energy muss angemessene Zeit und 
+Gelegenheit zur Beseitigung des Mangels gewähr t werden. Für diesen Zweck gewährt der Kunde Siemens 
+Energy auf eigene Kosten Zugang zu den fehlerhaften Lieferungen, führt notwendige De - und/oder Remontage 
+auf eigene Kosten durch und gewährt Zugriff auf Betriebs - und Wartungsdaten. "De - und/oder Remonta ge" bein-
+haltet auch das Anbringen und Entfernen des Vertragsgegenstands. Nach Anforderung von Siemens Energy 
+stellt der Kunde sicher, dass das Eigentum an dem ersetzten mangelhaften Teil auf Siemens Energy übergeht. 
+Der Kunde ist verantwortlich für die Zol labfertigung in dem Land, in dem die Arbeiten durchgeführt werden, sowie 
+im Fall von Mängeln für den Weitertransport der Ausrüstungsgegenstände zur Behebung von Mängeln. Auf An-
+forderung des Kunden ist Siemens Energy verpflichtet, dem Kunden entsprechend an fallende Zollgebühren ge-
+gen Nachweis und Rechnung zu erstatten.  
+ 
+9.4 Sofern nicht anderweitig vereinbart, beträgt die Verjährungsfrist für Mängelansprüche 12  Monate. Sie beginnt 
+zum Zeitpunkt des Gefahrübergangs.  
+ 
+ Die Verjährungsfrist für nacherfüllte Teile der Lieferungen beträgt 6 Monate ab dem Datum der Nacherfüllung, 
+wenn die ursprüngliche Verjährungsfrist für Mängelansprüche vorher abläuft. In jedem Fall endet jegliche Verjäh-
+rungsfrist für Mängelansprüche für nacherfüllte Teile der Lieferungen spätestens 24  Monate nach dem Begin n 
+der Verjährungsfrist für die ursprünglich erbrachten Lieferungen.  
+ 
+9.5 Der Kunde ist für die Konzeption, Umsetzung und Aufrechterhaltung eines ganzheitlichen, dem Stand der Technik 
+entsprechenden Sicherheitskonzepts gemäß Punkt 7.3 verantwortlich. Siemens Energy sichert nicht zu, gewähr-
+leistet nicht und garantiert nicht, dass die Lieferungen und Leistungen sicher vor Cyberbedrohungen sind oder 
+dass sie keine Schwachstellen (Vulnerabilität) enthalten.  
+9.6 Ist die Software mangelhaft, ist Siemens Energy nur dann verpflichtet, dem Kunden eine aktualisierte Version der 
+Software, in der der Mangel behoben ist, zur Verfügung zu stellen, wenn die Bereitstellung einer solchen aktua-
+lisierten Version für Siemens Ene rgy zumutbar ist oder, wenn Siemens Energy nur Lizenznehmer ist, eine solche 
+aktualisierte Version vom Lizenzgeber von Siemens Energy in zumutbarer Weise verfügbar ist. Ist die Software 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+7/11 
+von Siemens Energy geändert oder individuell entwickelt worden, wird Siemens Energy dem Kunden darüber 
+hinaus bis zur Bereitstellung einer aktualisierten Version der Software, in der der Mangel behoben ist, eine Um-
+gehungs - oder Zwischenlösung zur Verfügung  stellen, wenn eine solche Umgehungs - oder Zwischenlösung mit 
+vertretbarem Aufwand durchführbar ist und andernfalls der Geschäftsbetrieb des Kunden eingestellt oder erheb-
+lich behindert würde.  
+9.7 Wenn Siemens Energy Nacherfüllungsmaßnahmen durchführt und letztendlich nicht festgestellt wird, dass ein 
+Mangel vorlag, sind Aufwendungen für diese Maßnahmen einschließlich Fehlerdiagnosen vom Kunden zu erstat-
+ten. 
+ 
+9.8 Eine weitergehende Haftung von Siemens Energy sowie Ansprüche, Rechte und Rechtsbehelfe des Kunden 
+wegen Mängeln der Lieferung sind ausgeschlossen, soweit nicht in dieser Ziffer 9 oder in Ziffer 15.2 b) ausdrück-
+lich etwas anderes bestimmt ist, wobei eine w esentliche Vertragsverletzung erst vorliegt, wenn Siemens Energy 
+mindestens dreimal mit der Beseitigung des Mangels gescheitert ist. Alle Garantien, Zusicherungen, Bedingun-
+gen und alle anderen Bestimmungen gleich welcher Art, die durch Gesetz oder Gewohnhe itsrecht impliziert sind, 
+werden, soweit dies nach geltendem Recht zulässig ist, von diesem Vertrag ausgeschlossen.  
+ 
+10. Gewerbliche Schutzrechte und Urheberrechte Dritter („Schutzrechte“)  
+10.1 Sofern ein Dritter wegen der Verletzung von Schutzrechten durch von Siemens Energy erbrachte Lieferungen 
+gegen den Kunden berechtigte Ansprüche erhebt, nimmt Siemens Energy vorbehaltlich folgender Regelungen 
+dieser Ziffer  10 nach eigener Wahl und auf eigen e Kosten eine der folgenden Handlungen vor:  
+a) entweder ein Nutzungsrecht für die betroffenen Lieferungen zu erwirken ;  
+b) Lieferungen so zu verändern, dass sie das jeweilige Schutzrecht nicht mehr verletzen ; oder 
+c) die rechtsverletzenden Teile der Lieferungen auszutauschen.  
+ 
+Ist Siemens Energy der Ansicht, dass keine der vorgenannten Handlungen mit angemessenem Aufwand möglich 
+ist, nimmt Siemens Energy den betreffenden Teil der Lieferungen zurück und erstattet den Preis für diesen Teil.  
+ 
+10.2 Die vorstehend genannten Verpflichtungen von Siemens Energy bestehen nur, soweit der Kunde:  
+a) Siemens Energy über die vom Dritten geltend gemachten Ansprüche unverzüglich schriftlich verständigt und 
+Siemens Energy Kopien aller Informationen, Mitteilungen, Dokumente und sonstiger Maßnahmen bzgl. der 
+behaupteten Schutzrechtsverletzung bereitstellt ; 
+b) eine Verletzung nicht anerkennt, Siemens Energy ausreichend bevollmächtigt, angemessen informiert und 
+ordnungsgemäß bei der Verteidigung mitwirkt ; und  
+c) Siemens Energy alle Abwehrmaßnahmen (einschließlich der Auswahl eines Rechtsanwalts) und Vergleichs-
+verhandlungen vorbehält.  
+ 
+Stellt der Kunde die Nutzung der Lieferungen oder eines maßgeblichen Teils derselben ein, ist er verpflichtet, 
+den Dritten schriftlich darauf hinzuweisen, dass mit der Nutzungseinstellung kein Anerkenntnis einer Verletzung 
+von Schutzrechten verbunden ist.  
+ 
+10.3 Jegliche Ansprüche und Rechte des Kunden sind ausgeschlossen, soweit der Kunde (einschließlich seiner Ver-
+treter, Mitarbeiter oder Auftragnehmer) die Schutzrechtsverletzung zu vertreten hat. Der Kunde ist insbesondere 
+verantwortlich soweit die Verletzung vo n Schutzrechten basiert auf (i) spezielle Vorgaben des Kunden ; (ii) einen 
+Einsatz der Lieferungen für einen Zweck oder auf eine Weise, die für Siemens Energy nicht vorhersehbar war ; 
+(iii) eine Veränderung der Lieferungen durch den Kunden oder (iv) die Nutz ung der Lieferungen zusammen mit 
+sonstiger Ausrüstung.  
+ 
+10.4  Alle Rechte, Titel, Berechtigungen und das Know -how an den Digitalen Services und den Anwendungen sowie 
+an allen Teilen und allen Verbesserungen oder Weiterentwicklungen davon, die hier nicht ausdrücklich einge-
+räumt werden, verbleiben vollständig bei Siemens Energy oder ihren Drittanbietern und/oder Lizenzgebern.  
+ 
+10.5  Diese Ziffer  10 regelt abschließend die gesamte Haftung von Siemens Energy für die Verletzung von Schutzrech-
+ten Dritter und sonstige Rechtsmängel. Weitergehende und andere Ansprüche oder Rechte des Kunden sind 
+ausgeschlossen.  
+ 
+11. Haftung  
+11.1 Soweit die Haftung von Siemens Energy in diesem Vertrag nicht ausdrücklich anders geregelt ist, regelt Ziffer 11 
+abschließend die Haftung von Siemens Energy für alle Schäden, Kosten und Aufwendungen aus oder im Zusam-
+menhang mit diesem Vertrag, gleich aus welchem Rechtsgrund, einschließlich aller pauschalierten Schadens - 
+und Aufwendungsersatzansprüche sowie Freistellungsverpflichtungen.  
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+8/11 
+11.2  Für Personenschäden und in Fällen des Vorsatzes haftet Siemens Energy nach den gesetzlichen Vorschriften.  
+ 
+11.3  Die Gesamthaftung von Siemens Energy aus oder im Zusammenhang mit diesem Vertrag, gleich aus welchem 
+Rechtsgrund, ist wie folgt begrenzt:  
+ 
+  Bei Sachschäden den niedrigsten der folgenden Beträge:  
+a) Vertragspreis;  
+b) Selbstbehalt der Sachversicherung des Kunden gegen alle Risiken ; oder 
+c) 250.000  € pro Schadensereignis mit einer Gesamtgrenze von 2 Schadensereignissen pro Kalenderjahr.  
+ 
+ Keinesfalls übersteigt die Gesamthaftung von Siemens Energy gegenüber dem Kunden aus oder im Zusammen-
+hang mit diesem Vertrag den Vertragspreis oder 1.000.000  €, je nachdem, welcher Betrag niedriger ist.  
+Dies gilt auch für Schäden oder Verluste, die an den Liefergegenständen durch Mängel oder Nachbesserungs-
+arbeiten von Siemens Energy nach Lieferung oder Abnahme der Liefergegenstände durch den Kunden entste-
+hen. 
+ Weitergehende Schaden - oder Aufwendungsersatzansprüche, gleich aus welchem Rechtsgrund, sind ausge-
+schlossen. Siemens Energy haftet in keinem Fall für entgangenen Gewinn oder entgangene Einnahmen, Produk-
+tionsausfall, Betriebsunterbrechung oder Nutzungsausfa ll, Kapitalkosten, Zinsverlust, Informations - und/oder Da-
+tenverlust, für aus Verträgen zwischen dem Kunden und Dritten entstehende Ansprüche, Verlust von Kohlenwas-
+serstoffen, Leistungsabfall, Spannungsunregelmäßigkeiten, Frequenzschwankungen, Kosten für g ekauften 
+Strom oder Ersatzstrom, oder für sonstige Vermögens - oder Folgeschäden.  
+ 
+11.4  Die in diesem Vertrag festgelegten Haftungsbegrenzungen gelten auch zugunsten verbundener Unternehmen, 
+Subunternehmer, Mitarbeiter, Vertreter von Siemens Energy oder sonstiger für Siemens Energy handelnder Per-
+sonen.  
+ 
+11.5  Wenn der Kunde nicht der alleinige Endnutzer und endgültige Eigentümer der Lieferungen ist oder sein soll oder 
+sie zugunsten irgendeiner Art von Gemeinschaftsunternehmen beschafft, ist der Kunde verpflichtet, in jedem 
+Vertrag im Zusammenhang mit den Lieferungen oder Teilen davon eine schriftliche Zusicherung der Haftungs-
+beschränkungen und -ausschlüsse zugunsten von Siemens Energy, den Direktoren von Siemens Energy sowie 
+den Mitarbeitern, Vertretern, Lieferanten  und Subunternehmern von Siemens Energy ( die „geschützten Perso-
+nen"), die denen mindestens gleichwertig sind, die Siemens Energy im Rahmen des Vertrags gewährt werden, 
+zu erzielen. Der Kunde hat die geschützten Personen von allen Verbindlichkeiten freizustellen und schadlos zu 
+halten, die über die Verbindlichkeiten hinau sgehen, die entstanden wären, wenn der Kunde seiner Verpflichtung 
+aus dem vorstehenden Absatz nachgekommen wäre.  
+ 
+11.6  Jegliche Haftung von Siemens Energy nach diesem Vertrag endet mit Ablauf der Verjährungsfrist für Mängelan-
+sprüche für die Lieferungen.  
+ 
+12.  Abtretung und Unterbeauftragung  
+12.1 Der Kunde ist nicht berechtigt, den Vertrag oder Teile davon einschließlich der darin geregelten Rechte und 
+Pflichten auf Dritte zu übertragen, es sei denn, es liegt die vorherige schriftliche Zustimmung von Siemens Energy 
+vor. 
+  
+12.2  Siemens Energy darf den Vertrag oder Teile davon einschließlich der darin geregelten Rechte und Pflichten auf 
+verbundene Unternehmen von Siemens Energy übertragen.  
+ 
+12.3  Siemens Energy ist außerdem berechtigt, den Vertrag im Fall eines Verkaufs oder eines anderweitigen Betriebs -
+übergangs oder Teilbetriebsübergangs des betroffenen Geschäftsteils von Siemens Energy auf einen Dritten 
+ganz oder teilweise an einen Dritten abzutreten.  
+ 
+12.4  Siemens Energy ist berechtigt, für die Erfüllung der Lieferungen  Subunternehmer zu beauftragen.  
+ 
+13.  Geheimhaltung  
+13.1  Die von den Parteien einander zur Verfügung gestellten Unterlagen, das Know -how, die Daten oder andere In-
+formationen („ Vertrauliche  Informationen “) sind vertraulich zu behandeln, d.h. insbesondere Dritten nicht zu-
+gänglich zu machen und ausschließlich zu dem Zweck zu verwenden, zu dem sie überlassen wurden und nur 
+denjenigen Mitarbeitern oder potenziellen Subunternehmen zugänglich zu machen, die diese zur Erfüllung des 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+9/11 
+zugrunde liegenden Zweckes benötigen, vorausgesetzt sie sind zu einer mindestens gleichwertigen Geheimhal-
+tung schriftlich verpflichtet. Die die Vertraulichen Informationen empfangende Partei haftet für einen Verstoß ge-
+gen diese Verpflichtungen durch ihre Mitarbeiter oder einen Dritten.  
+ 
+13.2  Diese Geheimhaltungsverpflichtung gilt nicht für Vertrauliche Informationen, die  
+a) allgemein bekannt sind oder später ohne, dass die empfangende Partei dies zu vertreten hat, allgemein be-
+kannt werden ; 
+b) der empfangenden Partei von einem Dritten rechtmäßig ohne Verletzung einer Geheimhaltungsverpflichtung 
+zugänglich gemacht wurden ; 
+c) von der empfangenden Partei selbständig entwickelt werden ; 
+d) der empfangenden Partei bereits vor Inkrafttreten dieses Vertrages ohne Verpflichtung zur Vertraulichkeit be-
+kannt waren ; oder  
+e) aufgrund einer bindenden behördlichen oder richterlichen Anordnung oder eines Gesetzes zu offenbaren sind 
+(wobei die empfangende Partei der offenlegenden Partei dieses Erfordernis rechtzeitig mitteilen muss).  
+ 
+13.3  Diese Geheimhaltungsverpflichtung besteht nach der Beendigung dieses Vertrages 5 Jahre fort. 
+ 
+14.  Aussetzung vertraglicher Pflichten  
+14.1  Siemens Energy ist berechtigt, die Erfüllung der vertraglichen Verpflichtungen auszusetzen, wenn (i) der Kunde 
+mit einer Zahlung oder der Bereitstellung einer nach diesem Vertrag erforderlichen Zahlungssicherheit mit mehr 
+als 30  Tagen in Verzug ist ; (ii) der Kunde diejenigen seiner Verpflichtungen nicht erfüllt, die nötig sind, damit 
+Siemens Energy die Lieferungen vornehmen kann ; oder (iii) der Kunde seine Vertragspflichten anderweitig we-
+sentlich verletzt hat.  
+ 
+14.2  Wenn Siemens Energy seine vertraglichen Verpflichtungen nach Ziffer  14.1 aussetzt oder wenn der Kunde seine 
+vertraglichen Verpflichtungen ohne ausdrückliche schriftliche Vereinbarung mit Siemens Energy aussetzt, sind 
+alle bereits zugestellten Teile der Lieferungen sofort zur Zahlung fällig. Der Kunde erstattet Siemens Energy 
+außerdem alle in Folge dieser Aussetzung der vertraglichen Pflichten entstandenen angemessenen Kosten und 
+Ausgaben (z.B. Zahlungen an Subunternehmer, Kosten der Wartezeit, Personaldeaktivierung und -reaktivierung 
+usw.). Vertragliche Termine werden für eine n angemessenen Zeitraum verschoben, um die Auswirkungen der 
+Aussetzung auszugleichen.  
+ 
+15.  Kündigung  
+15.1  Jede Partei ist berechtigt, diesen Vertrag mit sofortiger Wirkung durch schriftliche Mitteilung zu kündigen, wenn 
+über das Vermögen der andere n Partei  ein Insolvenzverfahren eröffnet wird oder ein Antrag auf Einleitung eines 
+Insolvenzverfahrens mangels hinreichenden Vermögens abgewiesen wird.    
+ 
+15.2  Sofern nicht in Ziffer  6.4 und Ziffer 15.1 etwas anderes vorgesehen ist, kann der Kunde den Vertrag nur unter 
+den nachfolgend aufgeführten Umständen und jeweils mit einer Frist von 14  Tagen schriftlich gegenüber Siemens 
+Energy kündigen:  
+a) bei Verzug, wenn die maximale pauschalierte Verzugsentschädigung nach Ziffer  4.3 zu zahlen ist, Siemens 
+Energy eine zusätzliche, angemessene Nachfrist für die Lieferungen gewährt wurde und diese abgelaufen ist 
+und Siemens Energy innerhalb dieses Zeitraums keine Zusage gemacht hat, für den fortgesetzten Verzug 
+weiteren pauschalierten Schadensersatz über die hierfür festgesetzte maximale Obergrenze hinaus zu zah-
+len; oder  
+b) bei einer wesentlichen Vertragsverletzung durch Siemens Energy, die nicht innerhalb einer angemessenen 
+Frist nach Eingang einer schriftlichen Mitteilung durch den Kunden behoben wurde.  
+ 
+15.3  Eine Kündigung durch den Kunden betrifft nicht den Anteil der Lieferungen, der bereits vor der Kündigung ver-
+tragsgemäß zugestellt oder geleistet wurde. Im Fall einer Kündigung des Vertrages gemäß Ziffer  15.2 bleibt der 
+Kunde Siemens Energy weiterhin zur Za hlung für alle bereits vor der Kündigung zugestellten Teile der Lieferun-
+gen verpflichtet. Der Kunde hat Anspruch auf Entschädigung für über den Vertragspreis hinaus entstandene 
+angemessene Kosten, wenn er die die Lieferungen von einem Dritten vornehm en lässt. Ziffer  11 gilt auch im 
+Kündigungsfall. Das Rücktrittsrecht ist ausgeschlossen.  
+ 
+15.4  Unbeschadet weiterer Ansprüche und Rechte ist Siemens Energy berechtigt, den Vertrag zu kündigen, wenn  
+a) der Kunde unter die unmittelbare oder mittelbare Beherrschung durch einen Wettbewerber von Siemens 
+Energy gelangt ; oder 
+b) der Kunde eine wesentliche Vertragsverletzung begangen hat und diese nicht innerhalb einer angemessenen 
+Frist nach Mitteilung durch Siemens Energy behoben hat oder mit einer Zahlung oder der Bestellung einer 
+nach diesem Vertrag erforderlichen Zahlungssicherheit mit mehr als 60  Tagen  in Verzug ist ; oder  
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+10/11 
+c) die Vertragspflichten für mehr als 60  Tage ausgesetzt wurden.  
+ 
+Im Fall einer solchen Kündigung des Vertrages durch Siemens Energy hat Siemens Energy Anspruch auf volle 
+Vergütung, abzüglich der aufgrund der vorzeitigen Beendigung des Vertrages ersparten Aufwendungen und Kos-
+ten sowie Anspruch auf Ersatz von Schäden und vergeblichen Aufwendungen, die Siemens Energy aufgrund der 
+vorzeitigen Beendigung entstanden sind.  
+ 
+16.  Streitbeilegung / Geltendes Recht  
+16.1 Sollten aus oder im Zusammenhang mit diesem Vertrag Streitigkeiten entstehen, so werden sich die Parteien 
+bemühen, diese gütlich durch Vereinbarung beizulegen. Auf Verlangen einer Partei wird auf beiden Seiten ein 
+Vertreter des höheren Managements an den V erhandlungen beteiligt. Jede Partei kann diese Bemühungen je-
+derzeit durch schriftliche Erklärung gegenüber der anderen Partei für beendet erklären.  
+ 
+16.2 Der Vertrag und aus oder im Zusammenhang mit ihm oder seinem Gegenstand oder seiner Errichtung entste-
+hende Streitigkeiten oder Ansprüche ( einschließlich  außervertraglicher Streitigkeiten oder Ansprüche) unterlie-
+gen österreichischen materiellem Recht und werden in Übereinstimmung mit diesem ausgelegt. Das UN -Über-
+einkommen über Verträge über den internationalen Warenkauf findet keine Anwendung.  
+ 
+16.3 Für all e Streitigkeiten oder Ansprüche, die sich aus oder im Zusammenhang mit diesem Vertrag ergeben, ein-
+schließlich Streitigkeiten über dessen Gültigkeit, Verletzung, Auflösung oder Nichtigkeit, wird die Zuständigkeit 
+des Handelsgerichtes Wien vereinbart.  
+ 
+17. Einhaltung von Exportkontrollbestimmungen  
+17.1  Der Kunde hat bei Weitergabe der Lieferungen von Siemens Energy (Hardware und/ oder Software und/ oder 
+Technologie sowie dazugehörige Dokumentation, unabhängig von der Art und Weise der Zurverfügungstellung) 
+oder der von Siemens Energy erbrachten Werk - und Dienstleistungen (einschließlich technischer Unterstützung 
+jeder Art) an Dritte die jeweils anwendbar en Vorschriften des nationalen und internationalen (Re -) Exportkontroll-
+rechts einzuhalten. In jedem Fall sind bei Weitergabe der Lieferungen an Dritte die (Re -) Exp ortkontrollvorschrif-
+ten der  Republik Österreich,  der Europäischen Union und der Vereinigten Staaten von Amerika zu beachten.  
+ 
+17.2  Sofern zur Durchführung von Exportkontrollprüfungen durch Behörden oder durch Siemens Energy erforderlich, 
+wird der Kunde Siemens Energy nach entsprechender Aufforderung unverzüglich alle Informationen über den 
+Endempfänger, den Endverbleib und den Verwend ungszweck der Lieferungen von Siemens Energy sowie dies-
+bezüglich geltende Exportkontrollbeschränkungen zur Verfügung stellen.  
+ 
+17.3  Der Kunde stellt Siemens Energy von allen Ansprüchen, die von Behörden oder sonstigen Dritten gegenüber 
+Siemens Energy wegen der Nichtbeachtung vorstehender exportkontrollrechtlicher Verpflichtungen durch den 
+Kunden geltend gemacht werden, in vollem Umfang frei und verpflichtet sich zum Ersatz aller Siemens Energy in 
+diesem Zusammenhang entstehenden Schäden und Aufwendunge n. 
+ 
+18. Verbot der Wiederausfuhr nach Russland  und Belarus  („No Russia Clause “) 
+18.1 Siemens Energy untersagt dem Kunden und der Kunde verpflichtet sich, die nach diese m Vertrag durch Siemens 
+Energy an den Kunden verkauften, gelieferten, verbrachten oder ausgeführten Güter (Hardware und/oder Soft-
+ware und/oder Technologie sowie dazugehörige Dokumentation, unabhängig von der Art und Weise der Zurver-
+fügungstellung) weder direkt noch indirekt nach Russland oder Belarus oder zur Verwendung in Russland oder 
+Belarus wiederauszuführen oder weiterzuleiten.   
+ 
+18.2 Siemens Energy steht im Falle eines Verstoßes des Kunden gegen die Verpflichtung gem. 18.1 diese s Vertrages  
+ein außerordentliches Kündigungsrecht zu. Die Kündigung ist schriftlich gegenüber dem Kunden zu erklären. Der 
+Kunde trägt im Falle einer solchen Kündigung alle Siemens Energy in diesem Zusammenhang entstehenden 
+Kosten und Schäden. In jedem Fall ist der Ku nde verpflichtet, Siemens Energy einen pauschalierten Schadens-
+ersatz in Höhe von 20 % des  Vertragspreises  zu zahlen.  
+ 
+18.3 Unbeschadet der Regelung in Ziffer 18.2 stellt der Kunde Siemens Energy von allen Ansprüchen, die von Behör-
+den oder sonstigen Dritten gegenüber Siemens Energy wegen eines Verstoßes durch den Kunden gegen die 
+Verpflichtung gem. Ziffer 18.1 diese s Vertrages geltend gemacht werden, in vollem Umfang frei und verpflichtet 
+sich zum Ersatz aller Siemens Energy in diesem Zusammenhang entstehenden Schäden und Aufwendungen.  
+ 
+19. Verschiedenes  
+19.1  Die Vertragserfüllung durch Siemens Energy steht unter dem Vorbehalt, dass der Erfüllung keine Hindernisse 
+aufgrund von nationalen oder internationalen Vorschriften des Außenwirtschaftsrechts sowie keine Embargos 
+   
+ 
+Geschäftsbedingungen Produktgeschäft, Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.  
+11/11 
+und/oder sonstige Sanktionen entgegenstehen , insbesondere nicht solche der Vereinten Nationen, der EU oder 
+der USA, die, nach dem Ermessen von Siemens Energy, Siemens Energy oder eines seiner verbundenen Un-
+ternehmen Sanktionen, Strafen oder anderen nachteiligen Maßnahmen von Behörden aussetzen können . 
+ 
+19.2  Sollte eine Regelung dieses Vertrages von einem zuständigen Gericht untersagt oder für unwirksam oder nicht 
+durchsetzbar erklärt werden, berührt dies nicht die Wirksamkeit oder Durchsetzbarkeit einer anderen Regelung. 
+Anstelle der unwirksamen oder nicht durchsetzbaren Bestimmung, soll eine Regelung gelten, die, soweit rechtlich 
+möglich, dem am nächsten kommt, was die Parteien gewollt haben oder nach dem Sinn und Zweck gewollt 
+hätten, sofern sie bei Vertragsabschluss diesen Punkt bedacht hätten.  
+ 
+19.3  Nachträge, Änderungen oder Ergänzungen zu diesem Vertrag müssen in Form einer von befugten Vertretern 
+beider Parteien unterzeichneten schriftlichen Vereinbarung erfolgen.  Die Schriftform wird auch gewahrt durch (i) 
+eine einfache elektronische Signatur sowie (ii) die Einhaltung eines aufrechten EDI Vertrages.  
+ 
+19.4  Ein Verzug oder Versäumnis einer der Parteien bei der Ausübung von gesetzlichen oder vertraglichen Rechten, 
+Befugnissen oder Rechtsbehelfen berührt oder beeinträchtigt diese Rechte, Befugnisse oder Rechtsbehelfe nicht 
+und stellt diesbezüglich keinen Verzicht dar.  
+ 
+19.5  Dieser Vertrag stellt die vollständige Vereinbarung zwischen den Parteien dar und ersetzt alle vorherigen schrift-
+lichen oder mündlichen Vereinbarungen, Versprechen, Garantien, Gewährleistungen, Zusicherungen und Ab-
+sprachen zwischen ihnen in Bezug auf seine n Gegenstand. Jede Partei erkennt an, dass sie sich beim Abschluss 
+dieses Vertrages nicht auf Erklärungen, Zusicherungen, Garantien oder Gewährleistungen (seien sie gutgläubig 
+oder fahrlässig abgegeben worden) beruft, die nicht in diesem Vertrag nied ergelegt sind, und dass ihr diesbezüg-
+lich keine Rechtsbehelfe zur Verfügung stehen. Jede Partei stimmt zu, dass sich aus einer gutgläubigen oder 
+fahrlässigen Falschdarstellung in Bezug auf eine Aussage in diesem Vertrag keinerlei Ansprüche für sie ergeben.  
+ 
+19.6  Dieser Vertrag ist in deutscher Sprache aufgesetzt. Sollte dieser Vertrag in eine andere Sprache übersetzt wer-
+den, so bleibt die deutsche Fassung in jedem Fall die maßgebende.  
+ 

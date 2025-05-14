@@ -1,0 +1,92 @@
+NOTICE TO SUPPLIERS    
+ 
+   
+© Siemens AG 2015. All rights reserved  Page  1 of 2 
+ 
+ 
+ 
+Subject:  
+1. Lapse in Production  rule for Unclassified parts  
+2. Siemens SMC Form  (Supplier Initiated Changes)  
+ 
+Originator: Cristina Curceanu   
+NTS Number: SC024 
+Job Title: Manager, Suppl ier Quality  Issue: 001  
+Product Line: Aero -Derivative Gas Turbine (AGT)  Date: 9th November  2019 
+Siemens Business Unit: Siemens Canada Limited  (Gas & Power)   
+ 
+To the attention of Managing Director  
+ 
+Dear Sir or Madam  
+ 
+1. Lapse in Production rule for Unclassified Parts : 
+In an effort to align Siemens AGT Montreal’s best practices with Siemens GT, we are relax ing Lapse in Production rule for 
+unclassified  parts  to 3yrs . This rule is in effect immediately  and will apply to all AGT product lines .  
+ 
+Once a supplier has more than 3yrs of lapse in production  on unclassified parts , they shall submit a S iemens SMC Form 
+(Supplier Initiated Changes) to Siemens Canada Limited thru their aligned MRPC. Siemens Supplier Quality shall review the 
+form and inform supplier on the decision / requirements.  The decision can be an extension of previous validation, mini -PPQ, or 
+a full -PPQ.  
+ 
+Important :  
+- This relaxed rule does not  apply to Classified (Critical & Sensitive)  parts. All classified parts shall still follow 2yrs 
+rule for lapse in production.  
+- This rule does not apply to Aero -common parts  also. See below for the list of Aero -common prefixes.  
+ 
+ 
+ 
+ 
+ 
+2. Siemens SMC Form  (Supplier Initiated  Changes)  
+A new SMC Form (Supplier Initiated Changes) is introduced that will be replac ing the old Sabre SMC Form  for Siemens AGT 
+business . The new  form is made simpler a nd directed to Siemens AGT’s needs. It shall be used to capture changes related to;  
+• Source & Method  
+• Site relocation  
+• Lapse in Production  
+• Major equipment  repairs  etc 
+ 
+In relation to lapse in production, t he form also includes set of standard questions which will help commodity SQMs to take 
+rapid decisions instead of losing time in back & forth commu nications. Form is self -explanatory having two sections. First 
+section is for gathering information on the change and is to be completed by supplier. Section 2 is for Siemens Canada to 
+complete and will detail decision / requirements.  A copy of the form is  attached.  
+ 
+Siemens AGT SMC 
+Form (supplier initiated) - Template.xlsx
+ 
+ 
+ 
+ 
+In case of any queries, contact your aligned SQ A or MRPC.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ Page  2 of 2 
+ 
+_  
+Abbreviations:  
+AGT Aero -derivative Gas Turbine  
+GT Gas Turbine  
+SMC  Source & Method Change  
+PPQ Product & Process Qualification  
+SQA  Supplier Quality Assurance Engineer  
+SQM  Supplier Quality Manager  
+MRPC  Material Requirement Planning Controller  
+ 
+ 
+ 
+ 
+With kind regards,  
+ 
+  
+ 
+ 
+ 
+Signature   
+Florina Cristina Curceanu, Head of Supplier Quality

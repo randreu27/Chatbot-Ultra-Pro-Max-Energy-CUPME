@@ -1,0 +1,71 @@
+1. Subsea Transformer
+The subsea transfo rmer is the main interface 
+between a subsea transmission line and a subsea 
+power distribution system. As a her metically 
+sealed, fluid-fill ed and pressure-compensated 
+unit, the subsea transformer enables long step-
+outs, providing  the right voltage level to a wide 
+range of consumer s, like subsea swi tchgears, 
+subsea compressors and subsea pumps. Its 
+natural-convection cooling reduces mai ntenance 
+requirements and  provides excellent reliability.
+Siemens Energy sub sea transformer design can 
+be implemented i n a wide power range. The 
+electrical desi gn is based on tradi tional onshore 
+distribution transformers, but with an enhanced 
+insulation system. All materials have been tested 
+for pressure and fluid compatibil ity in an 
+extensive qualifi cation program. In addition, the 
+design was verifi ed using a prototyp e 
+throughout extensive tests in factory and in 
+shallow water conditions, performed  in Norway.
+The subsea transfo rmer has also an in tegrated 
+condition and mo nitoring system that is 
+seamlessly integrated in the Siemens Energy 
+subsea power control system and can easily be 
+integrated with th ird party systems. This 
+provides the operator with excel lent 
+transparency into the equipment and  the status 
+of its integrity, enabling optimization operation 
+for enhanced performance and safety.An integrated sensor and monitoring system can 
+be seamlessly connected with Siemens Energy 
+Subsea Power Control system. This provides the 
+operator with a continuous status display of the 
+transformer integrity, and the ability to optimize 
+operations for enhanced safety.
+Key features Subsea Transformer
+•Voltages up to 145 kVac
+•Power rating up to 100 MVA
+•Pressure-compensated design
+•Robust enclosure design with optimi zed 
+natural cooling  properties
+•Biodegradable and  environmentally friendly 
+MIDEL 7131® fluid filling
+•Flexible interfaces (dry or wet-mate 
+connections)
+•Advanced condition monitoring system
+•Qualified for 3,000 meters water depth siemens-energy.com/subsea
+Subsea Transformer
+Supporting the factory on the seabed:  The next 
+generation of subsea transformers
+© 2021 Siemens Energy Page 1
+Figure  1 Subsea Transformer illustration
+In 2021, the Siemens Energy Subsea Tran sformer was successfully operated  in shallow water (Trondheim, Norway )
+For more inform ation, please visit our websi te: siemens-energy.com/ subsea
+Subject to change s and errors. The information gi ven in this document   only contains general descriptions  and/or performance features 
+which may not al ways specifical ly reflect those described, or which may undergo modification in the course of further devel opment of 
+the products.  The requested performance features are bindi ng only when they are expressly agree d upon in the concluded contract.
+Siemens Energy  is a trademark licensed by Siemens AG.
+© 2021 Siemens Energy Page 2
+Published by
+Siemens Energy Global GmbH & Co. KG
+Trans formation o f Industry
+Siemenspromenade 9
+91058 Erlangen
+Germany
+For the US Published by
+Siemens Energy, Inc.
+Trans formation o f Industry
+4400 N Alafaya Trail
+Orlando, F L 32826
+USA

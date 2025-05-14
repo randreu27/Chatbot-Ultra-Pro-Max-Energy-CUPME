@@ -1,0 +1,28 @@
+Transaction:
+Published 11/16/2023
+LEI 5299005CHJZ14D4FDJ62
+Date 11/16/2023 UTC+1
+Type of transaction Acquisition
+Description of financial instrument: Share
+ISIN DE000ENER6Y0
+Place Xetra
+a) Price and Volume Price Volume
+EUR 10.76000 EUR 19,486.36
+EUR 10.74000 EUR 2,094.30
+EUR 10.74500 EUR 25,089.58
+EUR 10.75000 EUR 33,529.25
+EUR 10.75500 EUR 27,317.70
+b) Aggregated information Price Volume
+EUR 10.75170 EUR 107,517.19
+  
+Details of person:
+Name/Company Joe Kaeser
+Reason Member of the administrative or supervisory body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

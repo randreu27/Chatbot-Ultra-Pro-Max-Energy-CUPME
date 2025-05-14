@@ -1,0 +1,435 @@
+ 
+Frei verwendbar  Technical Information Package SCC-8000H | SeaFloat |2021  1 
+ 
+SeaFloat SCC -800 0H 
+Technical Solution Information  
+©Siemens Energy 2022  
+Siemens Energy is a trademark  licensed  by Siemens AG  
+www.siemens -energy.com/seafloat  
+ 
+Frei verwendbar  Technical Information Package SCC-8000H | SeaFloat |2021  2 
+ 
+  
+ 
+Substitution of aged coal fired power plants with  
+high efficient combined cycle solutions  
+Emissions compared to coal fired plants  
+More than 50% savings in CO2 Emissions  
+with related impact on project financing/tax  
+Fuel supply from shore or via separate FSRU  
+possible – alternatively with FSRP** concept  Substitution of coal fired power plants without 
+inte rference with existing asset during off -site 
+construction  
+ - up tp  20% better LCoE*  
+ - No Brownfield Risk such as demolishing works, 
+relocation of existing infrastructure.  SeaFloat SCC -8000H  
+For location where Real Estate is a prime actor such 
+as megacities with water access  Key Benefits of SeaFloat SCC -8000 H 1+1 
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 3 
+ 
+ 
+ 
+ 
+Figure: Typical Single -lift Package with SGT -800  
+1x1 SCC -8000H = 170m x 56m (length x width) ; Draft 7m  -10m  
+Scope of supply and services  
+The Siemens Energy  scope of supply for main 
+components of the SCC -8000H in a 1x1 
+configuration comprises the following major 
+equipment:  
+ 
+• SGT -8000H gas turbine  
+• SGen -2000P gas turbine generator  
+• SST-5000 steam turbine  
+• SGen -100A steam turbine air -cooled 
+generator  
+• Steam  condense r 
+• Drum type, triple pressure , reheat heat 
+recovery steam generator  
+• Power control center for Siemens 
+supplied items (including uninterrupted 
+power supply, battery, low voltage 
+switchgear)  
+• SPPA -T3000 plant control system  
+• Sampling and chemical dosing skid  
+• Components for gas handling (including 
+gas flowmeter, gas -chromatograph, gas -
+preheater)  
+• Main pumps  
+• Erection and commissioning service for 
+Siemens supplied items (as a separate 
+contract)  
+ 
+All remaining scope of supply is within the 
+obligation of the shipya rd or third party, which 
+closely aligns with Siemens Energy to ensure a 
+state of the art and reliable power plant.  
+ 
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 4 Outstanding performance available in SeaFloat application  
+The SGT -8000H based combined cycle power plant, in a multi shaft 
+arrangement, has been optimized for the SeaFloat application ( i.e., it can be 
+installed on floating devices such as barges or platforms). The design is based 
+on Siemens Energy's proven land -based reference power plant, known to 
+provide reliable electricity at high efficiency and low cost.  
+ 
+SCC-8000H SeaFloat multi shaft plants are arranged in 1x1 arrangement: one 
+(1) gas turbine, one (1) HRSG, and one (1) steam turbine.  If desired simple 
+cycle  installation can be provided as well.  The SeaFloat adaption of the SGT -8000H is designed to withstand typical 
+maritime conditions motions (roll & pitch, accelerations), hull deflections and 
+respective environmental conditions.  With the SCC -8000H SeaFloa t power 
+plant, the proven H -class benefits have now been complemented with all the 
+benefits of a mobile, floating power plant.  
+ 
+The SCC -8000H based SeaFloat combined cycle power plant provides an 
+optimum balance between capital cost, plant performance as w ell as operation 
+and maintenance benefits.  
+ 
+ 
+Key benefits of SGT 8000H  
+• High efficiency (up to 41% SC, >61% CC)  
+• Fast start -up capability, high operational flexibility  
+• Low lifecycle costs  
+• High reliability and availability  
+• High serviceability  
+• Reduced emissions per kWh  
+• High efficiency and low emission also in part -load 
+operation  
+• Future fit: capable of burning up to 30% hydrogen  
+ 
+ 
+ 
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 5 Brief description of the main components  
+Pre-designed single lift packages will be installed at highly qualified shipyards. 
+The high grade of pre -fabrication of Siemens  Energy  in-house Heat Recovery 
+Steam Generator ( HRSG ) contributes to the quick installation on the barge.  
+Commissioning of the systems, inclusive HRSG cleaning, is done at the 
+shipyard, thus the ho ok up and hot commissioning at final destination is 
+minimized . 
+ 
+Gas Turbine  (GT)  
+ 
+The SGT -8000H is a single shaft gas turbine of single casing design with high 
+efficiency, low fuel consumption and low emissions , high availability and 
+reliability, and a service -oriented design with  long inspection intervals. 
+Following a long history of successful Siemens  Energy  gas turbine 
+development, the SGT -8000H provides the following advanced design 
+features:  
+- 16 can annular c ombustor -based Platform Combustion System (PCS)  
+- Axial 13 stage compressor with high mass flow and four rows of variable 
+guide vanes for improved turndown  
+- Four stage turbine : rows 1 to 3 with improved thermal barrier coated  
+blades and vanes, proven casting materials  
+- Disc -type rotor with central tie bolt and radial serrations  
+- Two journal bearings and one thrust bearing  
+- Generator drive at compressor intake  
+- Axial exhaust diffuser  
+The rotor is supported by two journal bearings and one thrust bearing. The 
+combined journal and thrust bearing are located at the compressor end and 
+the second journal bearing at the exhaust end of the turbine.  
+The rotor is an assembly of blade carrying di sks, and hollow shaft sections, 
+held together by a pre -stressed central tie bolt. Hirth serration ensures the 
+alignment of disks and hollow shaft sections at the same time allowing free 
+radial expansion and contraction. The turbine rotor is air -cooled inte rnally. The combustion system consists of 16 baskets with air cooled transitions. The 
+annular arrangement provides a remarkable uniformity of the exhaust gas 
+temperature field over the full cross -sectional area of the turbine inlet, thus 
+eliminating hot an d cold spots. The ultra -low NOx technology reduces the 
+formation of thermal NOx without injection of steam or water. This 
+combustion system combines all the advantages of optimal combustion, 
+including : 
+- Low NOx and CO emissions  
+- Low pressure drop  
+- High operat ing flexibility  
+- Optimal size and number of burners  
+- Compact design with easy accessibility  
+ 
+Gas Turbine G enerator  
+The two -pole SGen -2000P generator uses a directly water -cooled stator 
+winding and a radially direct air -cooled rotor winding. The air coolers a re 
+arranged at the bottom of the base frame, divided into three sections. The 
+three -phase winding inserted in the stator core slots is of two -layer 
+transposed -bar design. The winding is vacuum pressure impregnated together 
+with the stator core. The high -voltage insulation is provided according to the 
+proven MICALASTIC system. The generator rotor shaft is a vacuum -cast 
+forging and is supported in two babbitt -lined journal pedestal bearings. At 
+each end of the generator , a shaft -mounted low -pressure single -stage 
+compressor circulates of the pressurized cooling air. Cold and warm gas 
+temperatures are monitored in the relevant areas. The air gauge pressure is 
+controlled in relation to the actual loading to optimize the part load efficiency. 
+The stator winding ba rs contain stainless steel cooling ducts. Demineralized 
+cooling water flows through these ducts and dissipates the heat from the stator 
+winding. The water flows from the inlet manifold into the stator bar ends of 
+the top stator bar through TeflonTM insulat ed hoses. When being discharged 
+from the bars at the other end, the water is redirected into the bottom bar, 
+collected by hoses and a discharge manifold , and is returned to the skid 
+mounted water tank.  
+An excitation transformer is used to take the excitation current from the 
+auxiliary power system. A start -up frequency converter is provided for start -
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 6 
+up of the turbine generator unit. The generator acts as a motor in the converter 
+mode to start the gas turbine set without an additional rotating prime  mover. 
+The converter forms part of the static excitation equipment.  
+Features of the generator:  
+- highest efficiency  
+- proven epoxy -mica insulation system of stator winding  
+- low maintenance costs  
+ 
+Steam Turbine (ST)  
+ 
+High Pressure (HP)/Intermediate Pressure ( IP) Turbine  
+With the compact design of the combined HP/IP turbine , hot steam conditions 
+are confined to the middle of the casing, while the steam glands at the casing 
+ends are in regions of relatively low steam conditions. Tempe rature decay is 
+much slower when compared to the design with individual turbine casings. 
+Consequently, the start -up times are significantly shorter.  
+This compact design perfectly fits to the SeaFloat application which aims to 
+decrease the footprint of the entire plant as much as possible.  
+ 
+Low Pressure ( LP) Turbine  
+The main feature of the LP turbine is the double shell inner casing, which can 
+be displaced axially by means of pushrods. The differential expansion between 
+rotor and casings is thus minimized un der all operating conditions. This is 
+essential for high efficiency.  Condensing Plant  
+The condenser is a box -type surface condenser. The steam space is of a 
+rectangular cross -section in order to achieve optimum utilization of the 
+enclosed volume for the necessary condensing surface. The condenser is 
+located below the LP turbine and forms an integral part of it.  
+The steam dome, shell, hotwell  and the water boxes are steel fabrications. The 
+condenser is fixed to the foundation. Thermal expansion will be 
+accommodated by means of Teflon pads.  
+The double -flow LP turbine outer casing is connected to the condenser via the 
+steam dome. The steam dome is welded to the exhaust casing of the turbine to 
+form one unit.  
+Final design of the condenser and the connection type to the LP section of the 
+steam turbine can vary dependent on specific customer or site conditions.  
+Baffle plates in  the water boxes preve nt sloshing of water due to anticipated 
+movement of the barge.  
+ 
+Steam Turbine Generator  
+The generator is of two -pole type, with direct radial air rotor cooling and 
+indirect air cooling for the stator winding.  This generator  uses either brushless 
+excitatio n with a stationary field exciter and rotating bridge -connected 
+rectifier or static excitation, whereby the excitation power is taken from static 
+excitation equipment and supplied to the rotor winding via the brush gear, 
+carbon brushes and slip rings.  
+The standard design is IM 7215 according to IEC 60034 -7 and features 
+pedestal type sleeve bearings.   
+ 
+ 
+
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 7 Heat Recovery Steam Generator (HRSG)   
+ 
+The HRSG provided is a triple pressure reheat natural -circulation drum -type 
+steam generator and generates steam in high, intermediate , and low -pressure 
+section s. 
+A condensate preheater is integrated in the HRSG. This arrangement enables 
+higher efficiencies of the combined cycle power plant by using the exhaust gas 
+energy to preheat the condensate before it pas ses t hrough  the feed water 
+pump and into the LP system.  
+The HRSG is designed for outdoor installation and there is no bypass stack 
+between the gas turbine and the HRSG.  
+Baffle plates in in the drums prevent sloshing of water due to anticipated 
+movement o f the barge.  
+ 
+ 
+ 
+ 
+ Instrumentation and Control  
+To meet the technical, economic , and environmental aspects of modern power 
+plants, Siemens  Energy  offer s the SPPA -T3000 digital control system. Siemens 
+Energy’s  instrumentation and control expertise and in -depth knowledge of the 
+power plant process shape automation solutions. It is a well proven, 
+structured , and redundant concept to ensure a maximum of availability and 
+reliability.  
+Siemens  Energy  power plant automation will be used for almost the entire 
+power plant equipment: turbines , generators , and main systems. It is based on 
+open standards in hardware and software technology. Therefore , it can benefit 
+from the continuous innovations being made in microelectronics. It is open for 
+interfaces to automat ion systems supplied by other vendors , and to a possible 
+extension of the plant in the future.  
+ 
+Electrical Plant (Power Control Center)  
+The electrical plant is designed to ensure maximum reliability of the plant’s 
+auxiliary power supply in all modes of operation, using reliable, proven and 
+standardized equipment.  
+The necessary auxiliary power is taken from the generator s. The auxiliary 
+consumers are connected to different voltage levels in accordance with  their 
+function and power rating requirements.  
+The electrical equipment , such as  batteries, battery chargers, LV switchgear, 
+etc. is arranged in container -type enclosures (Power Control C enter s) which 
+are pre -assembled,  and factory tested. The transformers and the generator 
+circuit breaker s are located outdoors.  
+ 
+Plant Start-up Times  
+Plant start -up time begins with GT ignition and is completed with GT at base 
+load (inlet guide vane position at base load position) as well as HP and IP steam 
+bypass station s closed.  
+Defining values for plant start -up conditions are ST HP/IP rotor temperat ures  
+and pressures and temperatures of HP -drum and HP -superheater. Plant 
+
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 8 shutdown durations before start -up are predicted based on average cool -down 
+rates.  
+ 
+Cold Start  
+A cold start -up is defined as a start -up after a plant shutdown of more than 48h 
+but not  longer than 120h.  
+ 
+Warm Start -up  
+A warm start -up is defined as a start -up after a plant shutdown of more than 
+8h but not longer than 48h.  
+ 
+Hot Start -up  
+A hot start -up is defined as a start -up after a plant shutdown not longer than 
+8h.  
+ 
+Frequency Range (Example for 50Hz Cycle)  
+The continuous operational frequency range of the power plant without 
+restrictions is from 49 Hz to 51 Hz.  
+Operation in the freque ncy ranges from 47 Hz to 49 Hz and from 51 Hz to 52 
+Hz is limited to 30 seconds per event. After this time span the protection 
+system will disconnect the power plant from the grid. The accumulated 
+operation time in these frequency ranges is limited to 30 m inutes in total. After 
+30 minutes an inspection is recommended. At 47 Hz and 52 Hz , power plant 
+disconnection is initiated without time delay.  
+ 
+Fulfilment of Grid Code Requirements  
+Primary Frequency Control is achieved by an increase or decrease of the gas 
+turbine output. Primary Frequency Control is available in the inlet guide vane  
+range of the Gas Turbine. The load dynamics during Primary Frequency 
+Control depend on the project sp ecific requirements. The maximum value is 
+up to 3%/s of the GT nominal output. The droop setting is adjustable at the GT 
+speed controller. Typical droop setting values are in the range from 3% to 8%. 
+Secondary Frequency Control is achieved by load setpoint  adjustment by the 
+load dispatch center, provided that the plant is operated in part load 
+accordingly.  
+ Motion Detection on GT, ST and HRSG  
+As the power plant is built on a barge/ship the movement of the barge/ship is 
+monitored by motion detectors ( acceleration & angles). The f ollowing 
+directions are monitored:  
+- x = surge/longitudinal  
+- y = sway/transversal  
+- z = heave/vertical  
+If the plant is in operation and the GT, ST or HRSG exceeds the allowed level of 
+acceleration, the equipment will be tripped.  
+ 
+Con sideration of Marine Conditions  
+While the SCC -8000H based SeaFloat power plant uses well proven equipment 
+from Siemens  Energy ’s vast experience in land based combined power plants, 
+the marine conditions, mainly movements, acceleration and hull deflection 
+have been addressed by the following main measures : 
+- Multiple supports with vibration de -coupling of rotating equipment  
+- Stiffening of steel structures and frames ( e.g., in HRSG)  
+- Flexible elements and interfaces  
+- Optimization of bearings of rotating equipment  
+- Baffle plates in lube oil reservoirs, boiler drums and condenser to avoid 
+sloshing  
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 9 Main Features and Performance Information  
+SGT -8000H based SeaFloat power plants provide the highest floating combined cycle plant efficiency, even at part load operation. Dry low -NOx single or dual fuel 
+burners ensure low NOx and CO emissions.  
+- High GT reliability of 99.5%  
+- High CC availability  
+- Highest efficiency, refer to below table  
+- Dry Low Emissions (DLE)  
+- Low water consumption for steam cycle make up, no condensate polishing plant on board  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+Emissions, NOx, [ppmV]   <25 @ 15% O2 (50 -100% GT load)  
+Emissions, CO, [ppmV]   <10 @ 15% O2 (50-100% GT load)  
+Installed performance at ISO conditions  
+ 
+  Combined Cycle  1x1 /50Hz  1x1 /60Hz  
+Gross power output    ~675 MW   ~470 MW  
+Gross plant efficiency  >61% >61%  
+Number of gas turbines  1  1 
+   Simple Cycle   50Hz   60Hz  
+Gross p ower 
+output    450 MW   310 MW  
+Gross efficiency         >41%             >40%  
+Typical fuel gas 
+mass f low ~22 kg/s  ~16kg/s  
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 10  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  List of Attachments  
+Attachment 1  Plant Layout Drawing 1x1 – Top  View  
+Attachment 2  Plant Layout Drawing 1x1 – Side View  
+Attachment 3  Typical main flow diagram  
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 11 Attachment1  – Top  view  
+  
+
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 12 
+Attachment  2 – Side view  
+  
+ 
+Technical Information Package SCC -8000H | SeaFloat | 202 2 13 
+Attachment 3 – Typical main flow diagram  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by © Siemens Energy 202 2| Siemens Energy is a trademark licensed by Siemens AG  
+The information supplied in this technical package is for information only. Not guaranteed. Actual results are dependent on -site specifics , subject to changes and provided on an “as is” basis without 
+any express or implied representation or warranty of any kind and without any verification as to accuracy, suitability , or completeness. Terms subject to a final contract between the parties. Actual 
+benefits and results are dependent on a variety of factor s such as plant specification, site specifics, operational profile , and local market conditions.  

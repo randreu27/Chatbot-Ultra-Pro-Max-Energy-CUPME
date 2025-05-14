@@ -1,0 +1,148 @@
+Siemens Energy is a trademark licensed by Siemens AG.
+First EU Innovation 
+Conference
+Workshop -
+Acceleration of the digital 
+energy transition
+March 26, 2025 , Innovation Center Berlin
+Maiya Kukushkina
+Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 20252
+Siemens Energy is a trademark licensed by Siemens AG.Agenda
+AllActivity 2
+15’ Activity 35’ Individually Activity 115’ Maiya Welcome & Setting the stage
+Group 20’
+Conclusion Maiya 5’Let’s discuss today the main challenges associated with the AI and 
+digital technologies trends, its implementation and operational rollout. Challenge
+2025 -03-26
+3
+4/8/2025
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Digital Innovation: Huge potential, but hard to get it right
+Time horizonExpectations
+Innovation 
+TriggerPeak of 
+inflated 
+expectationsTrough of 
+disillusionmentSlope of 
+enlightenmentPlateau of 
+productivityArtificial Intelligence Hype Cycle Gartner, 2024  
+Computer 
+Vision
+Cloud AI
+ServiceKnowledge 
+GraphEdge AI
+Synthetic 
+Data
+Generative AISmart Robots &
+Drones
+First-Principles AINeuro -Symbolic AIAI SimulationMultiagent SystemDecision IntelligenceEnergy Management
+Energy optimization across the entire 
+value chain: generation, transmission, 
+distribution, and consumption.CostRevenue
+Autonomous Operations
+Transitioning to fully integrated and 
+autonomous operations through 
+manning optimization and increasing 
+safety
+Intelligent Equipment 
+AI and digital technology integrated 
+throughout the entire equipment 
+lifecycle from design to service
+CostRevenueCostRisk
+Autonomous 
+vehicleFoundational model
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 20252025 -03-26
+4
+4/8/2025
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Activity 1: Individual Work Session (5 Minutes)
+1.Identify aspecific use case related toone ofthe
+described applications, detailing either asuccessful
+implementation orachallenging scenario .Challenge
+2.Consider which business value pool thisusecase
+contributes to
+Energy Management
+Energy optimization across the entire 
+value chain: generation, transmission, 
+distribution, and consumption.CostRevenue
+Autonomous Operations
+Transitioning to fully integrated and 
+autonomous operations through 
+manning optimization and increasing 
+safety
+Intelligent Equipment 
+AI and digital technology integrated 
+throughout the entire equipment 
+lifecycle from design to service
+CostRevenueCostRisk
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+5
+4/8/2025
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Activity 2: Group Work Session (20 Minutes)
+1.Please share and discuss your use case within
+your group, emphasizing theprimary challenge or
+key success factor and position your use cases
+within theprovided matrix .Challenge Business value 
+potential 
+Lifecycle Pilot Scale Up Roll OutIncrimental 
+( < ±5 %)Distruptive
+( > ±50 %)
+2.Please work together withyour group tobrainstorm
+potential solutions .
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+6
+4/8/2025
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Activity 3 : Collaborative Discussion (15 Minutes)
+1.Please present oneoftheusecases totheteam,
+emphasizing theparticular challenge itposes and
+thepotential solutions thatcanbeimplemented .Challenge Business value 
+potential 
+Lifecycle Pilot Scale Up Roll OutIncrimental 
+( < ±5 %)Distruptive
+( > ±50 %)
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+Siemens Energy is a trademark licensed by Siemens AG.Workshop Summary
+Acceleration of the Digital Energy Transition
+Maiya Kukushkina
+Overview
+The workshop, conducted over the span of one hour, facilitated engaging discussions centered on the application of AI and dig ital technologies. Participants 
+from diverse backgrounds convened to address the key challenges associated with current trends in AI and digital technologies , focusing on their 
+implementation and operational rollout.
+Presentations
+Maiya Kukushkina has shared her reflections on the Gartner AI Hype Cycle, setting the stage for a further engaging discussion . She emphasized three key 
+areas of AI application: energy management optimization, autonomous operations and intelligent maintenance.
+Discussions
+The presentations were followed by a robust discussion session where attendees engaged with the speakers through questions an d comments. Key 
+discussion  points  included :
+• Identified a range of use cases within the energy management and autonomous operations areas, highlighting their relevance an d applicability to 
+current industry needs.  
+• Conducted an evaluation of each use case from a value proposition perspective, assessing potential business impact and mappin g them to their 
+respective technology lifecycle stages.  
+• Pinpointed the most impactful use case, currently in the early stages of technology maturity, and discussed potential strateg iesto address existing 
+challenges and enhance its development.
+technologies
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+Your topic
+Whom to talk to for details? 
+8Thank you !
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26Thomas Schoch 
+Lead Technical Expert
+Controls and Digitalization
+Siemens Energy 
+Phone +49 173 3407698
+E-mail Thomas.Schoch@siemens -energy.comMaiya Kukushkina
+Field of Action lead
+Condition -based Service Intervention
+Siemens Energy –SE I IM
+Phone +47 46899916
+E-mail maiya.kukushkina@siemens -energy.com
+Antonio Segarra Lleixà
+Head of Business & Technology Evaluation
+Siemens Energy –Innovation Center Berlin
+Phone +34 629 48 94 03
+E-mail antonio.segarra.ext@siemens -energy.com
+Bjoern Beckmann
+Lead Technical Expert
+Data Analytics & AI -Machine Learning
+Siemens Energy 
+Phone +49 173  2359862
+E-mail bjoern.beckmann@siemens -energy.com

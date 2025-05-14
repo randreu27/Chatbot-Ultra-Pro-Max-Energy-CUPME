@@ -1,0 +1,301 @@
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 0 3.202 3) 
+ 
+Page  1 of 6 Siemens Energy is a trademark licensed by Siemens AG.  1. Order and Confirmation of Order  
+1.1 These General Terms and Conditions (" T&C ") shall apply and are hereby incorporated to all Customer's  Purchase Orders (“PO”) and shall 
+constitute an integral part thereof. For the purpose hereof "PO" shall mean a written purchase  order issu ed by Siemens Energy to the Suppli er, 
+accompanied by or otherwise referring to these  T&C and all of the r equire ments, sp ecifications or appendi ces attached thereto, and "Supplier" shall 
+mean any person  and/or  corpor ation which shall engage with Siemens Energy regarding  the pro vision and/or s ale and/or transfer of any goods 
+and/or s ervices as specified in the PO.  
+1.2 The PO shall be deemed accepted unless the Supplier  had informed  Siemens Energy in writing otherwise within two business days. The 
+acceptance of a PO by the Supplier shall strictly correspond to the PO, including any and all of its terms and conditions . Any deviation thereof and/or 
+supplement thereto shall not bind Siemens Energy unless otherwise pre -agreed by the Parties in writing.  
+1.3 Any alterations, amendments or additions to the order shall only become a part of the contract if Siemens Energy accepts such in writing. In 
+particular, Siemens Energy is bound by the general terms and conditions of the Supplier only to the extent that such are in accordance with these 
+T&C or if Siemens Energy agrees to such in writing. The acceptance of deliveries or s ervices as well as payments does not constitute such agreement. 
+Any provisions in other documents provided by the Supplier (such as but not limited to specifications, data sheets, technical  documentation, 
+advertising materials, order confirmation and/or sh ipping documents) regarding legal terms, liability, restriction of use, restriction of application 
+and/or restriction of suitability, or any other provision that changes the provisions of these T&C shall not be applicable.  
+1.4 Siemens Energy may cancel th e order if the Supplier has not confirmed acceptance of the order (confirmation) in writing within two weeks of 
+receipt.  
+1.5 Subcontracting to third parties shall not take place without the prior written consent of the Customer. Upon demand the Suppl ier shall make 
+available to the Siemens Energy a list of the subcontractors used in connection with its deliveries and services.  
+2. Rights of Use  
+2.1 The Supplier hereby grants Siemens Energy the following non -exclusive,  transferable, worldwide and  perpetual rights:  2.1.1 to use the deliveries 
+and services including related documentation, to integrate them into other products and to distribute  them;  2.1.2 to install, launch, test and operate 
+software and its related documentation (hereinafter collectively referred to as "Software"); 2.1.3 to sublicense the right of  use under section 2.1.2 
+above to any  company, partnership or other leg al entity which directly or indirectly controls, is controlled by or is under common control  with the 
+Siemens Energy (hereinafter referred to as "Affiliates") to  contracted third parties, to distributors and to end customers;  2.1.4 to license to Affiliates  
+and distributors the right to sublicense  the right of use under section 2.1.2 above to end customers;  2.1.5 to use the Software for integration into 
+other products and to  copy the Software, or to allow Affiliates, contracted third parties or distributors to use and copy the Software. 2.1.6 to 
+distribute, hire out, lease and make ready for download or make publicly available the Software, e.g. in the context of Appli cation Service Providing 
+or in other contexts, and to copy the Software to the extent requir ed, always provided that the number of licenses being used at any one time does 
+not exceed the number of licenses purchased; 2.1.7 to sublicense the right of use under section 2.1.6 above to Affiliates con tracted third parties and 
+distributors.  
+2.2 In addi tion to the rights granted in section 2.1 above, Siemens Energy, Affiliates and distributors are authorized to allow end cust omers to 
+transfer the respective licenses.  
+2.3 All sublicenses granted by Siemens Energy must contain appropriate protection for t he intellectual property rights of the Supplier in the Software, 
+containing the same contractual provisions as used by Siemens Energy to protect its own intellectual property rights .  
+2.4 The Supplier shall, in good time but at the latest by the time of or der confirmation, inform Siemens Energy in writing whether the deliveries and 
+services contain open -source  components. In the context of this provision, " open -source  components" means any software, hardware or other 
+information that is provided royalty -free by the respective licensor to any user on the basis of a license with the right to modify and/or to distribute. 
+Should the deliveries and services by the Supplier co ntain open -source  components, the Supplier shall comply with all applicable open -source  
+license terms and shall grant all those rights to Siemens Energy  and provide all information which Siemens Energy  needs in order to comply with the 
+applicable license t erms. In particular, the Supplier must deliver to the Siemens Energy  promptly after the order is confirmed the following:  A 
+schedule of all open-source components used, indicating the relevant license, its version and including a copy of the complete text of such license 
+and including a reference to copyright and/or authorship. Such schedule must have an understandable structure and contain a t able of contents.  The 
+complete source code of the relevant open -source  software, including scripts and information regarding its generating environment in so far as the 
+applicable opensource conditions require this.  
+2.5 The Supplier shall, in good time but at the latest by the time of order confirmation, inform the Siemens Energy  in writing whether any open -
+source  licenses used by Supplier might be subject to a Copyleft Effect, which could affect the products of the customers. In the contex t of this 
+provision, “Copyleft Effect” means that the provision of the open -source  license requires that certain of the Supplier’s products, as well as any 
+products derived from such products, may only be redistributed in accordance with the terms of the open -source  license, e.g. only if the source 
+code is disclosed. In case any open -source  licenses used by Supplier would be subject t o a Copyleft Effect, Siemens Energy shall be entitled to cancel 
+the order within two weeks of receipt of such information without any cost and liability consequences for the Customer.  
+3. Term and Delay in Delivery  
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 05.2022)  
+ 
+Page  2 of 6  Siemens Energy is a trademark licensed by Siemens AG.  3.1 For the purposes of establishing the timeliness of delivery the relevant point in time is the date of receipt at the place of destination/delivery 
+according to Incoterms ® 2020 designated by Siemens Energy , and for deliveries involving installation, erection, commissioning or assembly as well  as 
+for services (including rectification) the relevant point in time shall be the date of acceptance by Siemens Energy or the end customer, as applicable . 
+3.2 If any delay in delivery or performance or rectification is anticipated, Siemens Energy shall be  notified immediately and its decision sought. In 
+order to conform with delivery or performance deadlines the Supplier shall in good time undertake all suitable measures (e.g.  shift work, overtime, 
+any necessary expedited transport) in order to avoid any d elay. The costs for such measures shall be borne by the Supplier. 3.3 In the event of non -
+compliance with the agreed delivery or performance deadlines, Siemens Energy may, without setting any further deadline, waive  the right to 
+performance and rescind the  contract without any cost and liability consequences for Siemens Energy and without derogating from any of Siemens 
+Energy 's rights and remedies, including  those under these T&C and under  applicable law. 
+3.4 Any delay of delivery or performance of a Purchase Order shall constitute a material breach of these T&C and award Siemens Energy  with  a 
+liquidated damages  equivalent to amount of 0.5% for each commenced day of delay, but not exceeding 10% of the total PO amount.  The payment 
+of such liquidated damages by the Supplier shall not affect any other contractual or legal rights based on late delivery or p erformance and shall not 
+release the Supplier from any of its contractual or legal obligations arising from the PO.  
+3.5 In case of postponed or subsequently  agreed delivery or performance deadlines the agreed liquidated damages apply accordingly.  
+4. Deliveries and Services of the Supplier  
+4.1 Unless agreed otherwise, DDP (named place of destination) Incoterms ® 2020 shall apply.  
+4.2 The Supplier warrants that deliveries and services will be in accordance with the contract and in perfect condition, free of any defect of title or 
+deficiency, produced with raw materials free of any defect and fully functional without limitation and fit for the intended purp ose. This shall include 
+in particular compliance with official and legal provisions and safety regulations of the countries of prod uction, destination as well as the State of 
+Israel. The Supplier guarantees that deliveries and services at the time of transfer of risk are in accordance with the curre nt state of the art. Siemens 
+Energy may return defective goods to the Supplier at the S upplier's cost and demand replacement in accordance with the PO.  
+4.3 Any services of the Supplier shall be provided with the greatest care with the use of qualified and trained personnel.  
+4.4 Deliveries and services of the Supplier and sub -suppliers shall be subject to the Siemens Energy ’s quality assurance system in accordance with 
+ISO9001:2015 standard. Siemens Energy ’s suppliers and sub -suppliers shall be assessed accordingly.  
+5. Transfer of  Title and Risk  
+For deliveries involving installation, erection, commissioning or assembly as well as services, risk shall transfer to Siemen s Energy on acceptance and 
+for deliveries not involving services risk shall transfer to Siemens Energy upon receipt  by Siemens Energy at the place of destination/delivery 
+according to Incoterms ® 2020 designated by Siemens Energy.  Transfer of title shall be upon delivery or acceptance by Siemens Energy or the end 
+customer , as the case may be.  
+6. Packing and Dispatch  
+6.1 Unless otherwise agreed, the costs for adequate packaging shall be borne by the Supplier. The packing shall be environmental friendly and shall 
+ensure protection against any damage, soiling and moisture during transport and storage.  
+6.2 In case transport ation costs are borne by Siemens Energy , notice of readiness for dispatch shall be given together with the information set out in 
+section 6.3 hereunder. Transport shall be arranged by the Supplier at the lowest possible cost, insofar as Siemens Energy has  not requested a 
+particular method of delivery or the conclusion of the contract for carriage by Siemens Energy . 
+6.3 Each delivery shall include a packing note or delivery note with details of the contents as well as the complete order number . 
+6.4 As far as  Siemens Energy and the Supplier agree that the Supplier orders the transport of deliveries containing dangerous goods for acc ount of 
+Siemens Energy , the Supplier is responsible to transfer the necessary legally required dangerous goods data to the freight  forwarder nominated by 
+Siemens Energy when placing the transport order. The Supplier is in these cases also responsible for packing, marking, labeli ng etc. in compliance 
+with the regulation to the mode(s) of transport used.  
+7. Payment, Invoices  
+7.1 The prices set in any respective PO,  shall be set, final, and conclusive   )including VAT) . Unless otherwise agreed, payments are to be made 90  
+(ninety) days following t he end of the months in which the goods w ere delivered and/or the s ervices were performed, as applicable ("Shotef" +  
+90). 
+7.2 The order number as well as the number of each individual  item and a description shall be detailed in invoices. Insofar as any such detai ls are 
+omitted, invoices shall not be payable. Copies of invoices  shall be marked as duplicates . 
+7.3 The period for payment shall commence as soon as any delivery or service is completed and a correctly issued invoice is  received. Is the Supplier 
+required to provide material testing,  test records or quality control documents or a ny other documentation, such shall be a part of the requirements 
+of the completeness of the delivery and service.  
+7.4 Payment does not constitute an acknowledgement that the corresponding deliveries or services were provided in accordance with  the contract  
+(in particular in relation to quantity or quality). Any rights of Siemens Energy to claim shall therefore remain unaffected a lso after payment for the 
+deliveries or services. 7.5 Default in payment by Siemens Energy shall require a demand notice subsequen t to the amount being due.  
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 05.2022)  
+ 
+Page  3 of 6  Siemens Energy is a trademark licensed by Siemens AG.  8. Inspections  
+8.1 The Supplier shall inspect the delivery for quantity and quality before dispatch . 
+8.2 The delivery shall be inspected by the Siemens Energy as soon as possible after receipt at the named place of destination on  the basis of random 
+samples in relation to the type of delivery as  well as quantity and any externally recognizable transportation damage or other obvious deficiencies.  
+9. Warranty  
+9.1 Supplier warrants that the deliveries and services supplied by it shal l be of good quality, shall be unused in all cases, and shall meet the required 
+standards under the PO (including any applicable specifications document) performance and good industry standards. The Suppli er agrees, subject 
+to Siemens Energy ’s written request, promptly and at its own expense (including shipping and handling costs and insurance costs but not costs of 
+disassembly and reassembly) to repair, remedy, or replace any part of the said deliveries and services which proves in any wa y defective as to design, 
+material, or workmanship or otherwise. For the avoidance of doubt rectification or replacement shall be carried out by the Su pplier at the choice of 
+Siemens Energy . 
+9.2 The Supplier shall be liable for any and all costs, expenses and  damages resulting to Siemens Energy by way of deficient deliveries or services.  
+9.3 Until proved to the contrary, during the entire warranty period it shall be assumed that any deficiency existed at the time o f the transfer of risk.  
+9.4 Siemens Energy reserves the right to retain any payment in whole or in part until, (i) the Supplier has completely fulfilled its duty to rectify the 
+deficiency or the replacement delivery in accordance with the contract, or (ii) the parties have agreed on  other alternative measures, such as but not 
+limited to rescission, price reduction or damages in a binding manner.  
+9.5 From the time of notification of a deficiency the Supplier shall bear the risk for deficient deliveries.  The Supplier shall,  additional ly bear the costs 
+incurred to remove, disassemble, return, reassemble, re -install, re -construct, re -inspect and retest of deficient deliveries as well as all other costs 
+(including internal costs), expenses and damage of Siemens Energy in connection with t he complaint and rectification of the deficiency.  
+9.6 Should the Supplier fail to rectify (i.e. repair or replacement) within a reasonable time set by Siemens Energy, Siemens Ener gy is entitled, at the 
+expense of the Supplier, to undertake any  rectificatio n or replacement it Siemens Energy or arrange for a third party to  do so.  Any deficiency in 
+deliveries or services detected at the  time of acceptance, inspection or commissioning may be  rectified by Siemens Energy or it may arrange for 
+such to  be rectifie d by third parties immediately at the expense of the  Supplier without the need to set a further deadline if the Supplier delivered 
+or provided such in delay.  The same shall apply if Siemens Energy has a particular interest in immediate rectification or re placement delivery in case 
+of urgency or in order  to avoid delay .  
+9.7 The warranty period shall be two years, unless a longer warranty period is given by law.  
+9.8 For deliveries not involving installation, erection, commissioning, assembly the warranty p eriod begins to run with receipt at the place of 
+destination named by Siemens Energy. For deliveries involving installation, erection, commissioning or assembly as well as fo r services the warranty 
+period begins to run with acceptance by Siemens Energy. Up on delivery to locations where Siemens Energy is operating outside its premises, the 
+warranty period begins by acceptance by the end customer, in no case later than one year after the transfer of risk.  
+9.9 In case the Supplier has redelivered or rectified  in terms of the warranty, the warranty period shall start anew. The warranty period shall extend 
+for the period during which the deliveries cannot be used to the full extent as a result of deficiencies.  
+9.10  Any further or additional legal claims are res erved.  
+9.11  Acknowledgement of re ceipt of goods, inspections, directions or instructions by the Siemens Energy or by any person acting on behalf of the 
+Siemens Energy shall not limit the right to claim under the contract, in particular with regard to deficiencies.  
+10. Liability for Intellectual Property Right Infringements  
+10.1  The Supplier guarantees that no intellectual property  rights,  including but not limited to copyright, constitute a hindrance  for any use.    
+10.2  In the event that any third party  makes any claims against the  Siemens Energy, Affiliates or an end customer of Siemens Energy  in relation to 
+intellectual property rights, Siemens Energy shall inform the Supplier of such. The Supplier shall indemnify Siemens Energy a gainst all costs (in 
+particular including lawyers and court costs) and justified claims of third parties in connection with intellectual property r ights.  
+10.3  In addition Siemens Energy may demand that the Supplier at its own expense and without delay either (i) obtains a right  of use from the party 
+in control of the intellectual property right or, (ii) changes those parts of delivery infringing the intellectual property r ights or exchanges such for 
+parts which do not infringe the intellectual property rights.  
+10.4  The right of  Siemens Energy to enforce any further legal claims shall not be affected hereby.  
+11. Provided Material, Information  
+11.1  The Supplier is obliged to examine components such as, e.g.  raw material provided by Siemens Energy or provided by the  Supplier’s supp liers, 
+manufacturers or other third parties at the time of receipt of such components as to whether these components show any obviou s or hidden 
+defects. In case any defects are discovered in the course of such inspections, the Supplier shall immediately in form its suppliers or – in case the 
+components are provided by the Siemens Energy – inform the Customer.  
+11.2  Material and information provided by Siemens Energy remains the property the Siemens Energy and are to be stored, labeled as property of 
+Siemens En ergy and administered separately at no expense. Its use is limited to the orders of Siemens Energy only. The Supplier shall s upply 
+replacements in the event of reduction in value or loss. This also applies transfer of allocated material. Any processing or transformation of the 
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 05.2022)  
+ 
+Page  4 of 6  Siemens Energy is a trademark licensed by Siemens AG.  material and information shall take place for Siemens Energy. Siemens Energy immediately become owner of the new or transform ed product. 
+Should this be impossible for legal reasons, Siemens Energy and the Supplier hereby agree that Si emens Energy shall be the owner of the new 
+product at all times during the processing transformation. The Supplier shall keep the new product for Siemens Energy at no e xtra cost to Siemens 
+Energy and doing shall exercise the duty of care of a merchant.  
+12. Tools, Patterns, Samples, Confidentiality  
+12.1  Any tools, patterns, samples, models, profiles, drawings,  specification, printing templates, gauges and other material  provided by Siemens 
+Energy or made on its behalf, as well   as any materials derived there from, shall remain the property  of Siemens Energy and shall not be made 
+available to any third  party nor used for any other purpose than contractually  agreed, except with the prior written consent of Siemens Energy.  Such 
+materials shall be protected agains t unauthorized access or use and shall be labeled as the property of Siemens Energy. Notwithstanding any other 
+rights, the Siemens Energy may demand the immediate return of such materials if the Supplier breaches its contractual obligat ions.   
+12.2  Siemens Energy is not responsible for the content of any information, data, drawings, specifications and materials which it makes ava ilable to 
+the Supplier in connection with the order. The Supplier shall have a responsibility to check that it is up to date and co rrect and, if this should not be 
+the case or in case of any possible contradictions, the Supplier shall inform Siemens Energy of such without delay in writing  and shall seek 
+clarification as to how to proceed. Any incorrectness shall not affect the respons ibility of the Supplier in relation to its scope of deliveries and 
+services.  
+12.3 The Supplier shall treat as confidential and shall not make available to third parties any data, drawings, specifications,  materials, knowledge or 
+findings, documents, terms  of reference, business processes or other information that it receives  from or about the Siemens Energy in the context of 
+performing the  deliveries and services, as well as the conclusion of the contract and any results, with regard to third parties – and shall keep the 
+same confidential beyond the term of the contract -for as long as and insofar as such information has not become  publicly known by legal means or 
+Siemens Energy has not consented in writing to its transfer in the individual case. In the e vent the Supplier is r equired to dis close such information b y 
+law or pursuant to a ruling of a court of competent jurisdi ction, it shall promptly notify Siemens Energy of  such requirement, disclose only the 
+Confidential Information expressly prescribed therein and allow Siemens Energy  a reasonable time to oppose such disclosure, if and to the extent 
+applicable.  
+12.4  The Supplier shall use this information exclusively for the purpose of   performing the deliveries and services. The Supplier shall  make 
+Information available only to those employees who need  the Information for the fulfillment of their duties and shall ensure that such employees are 
+also subject to a duty to treat  such information as confidential. Insofar as Siemens Energy agrees to any su bcontracting to third parties, such shall 
+be made subject to a corresponding duty in writing.  
+12.5  The Supplier hereby undertakes to return  any and all information received from Siemens Energy upon its request or the termination of the 
+engagement of Siemens Energy and the Su pplier, the earlier to occur.  
+13. Supplier’s Liability  
+13.1  The Supplier shall be fully responsible and liable with respect to any defect, fault, da mage, har m, deficiency and/or non-compatibility relating 
+to and/or in connection with any goods and/or other deliverables delivered and/or any services performed by it under any PO. 
+13.2  If Siemens Energy is made subject to any claims by third parties in connection with deliveries by the Supplier, Siemens Energy will notify the 
+Supplier of such. The Supplier shall indemnify Siemens Energy against all justified claims of third parties as well as the co sts (including in particular 
+lawyers and court costs), provided such are caused by a defic iency in the deliveries from the Supplier. The Supplier shall support Siemens Energy in 
+such dispute.  
+13.3  In addition, the Supplier shall reimburse Siemens Energy for all costs caused thereby as a result of measures Siemens Energy must take in order 
+to prevent any risk, such as but not limited to warnings or precautionary recall actions of a defective product . Any costs for the determination of the 
+risk (in particular expert costs) as well as internal administration and processing costs of Siemens Energy shall be borne by  the Supplier unless the 
+Supplier provide the proof of cause.  
+14. Assignment of Claims, Set -off 
+Any assignment of claims existing in relation to Siemens Energy as well as any set -off of counterclaims is only allowed with the prior written approval 
+of Siemens Energy . 
+15. Right to Terminate  
+15.1  In addition to any rights provided by law  to withdraw from or cancel a contract, the Siemens Energy may cancel the contract in whole or in part 
+in case (a) the Supplier is in delay with its delivery or service and such delay – despite a corresponding demand notice by Siemens Energy – persists 
+for more than 2 weeks after receipt of such demand notice, or in case (b) that the adherence to the contract by Siemens Energy ca nnot reasonably 
+be expected from the Siemens Energy because of a reason attributable to the Supplier and taking into consideration the circumstances in the 
+individual case as well both parties’ interests. This might, in particular, apply in case of an actual or possible deteriorat ion of the Supplier’s financial 
+situation thus threatening the due fulfillment of the Supplier’s obligatio ns under the contract.  
+15.2  Siemens Energy may also terminate the contract in case insolvency proceedings or similar proceedings in relation to the asset s of the Supplier 
+are applied for or commenced.  
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 05.2022)  
+ 
+Page  5 of 6  Siemens Energy is a trademark licensed by Siemens AG.  15.3  In case of a termination by Siemens Energy Siemen s Energy may continue to utilize existing facilities, deliveries and services already performed 
+by the Supplier in exchange for reasonable payment.  
+16. Code of Conduct for Suppliers, Security in the Supply Chain  
+16.1  The Supplier is obliged to comply with the laws of the applicable legal system(s). In particular, the Supplier shall not engage, actively or 
+passively, nor directly or indirectly in any form  of bribery, in any violation of basic human rights of employees  or any child labor. Moreover, the 
+Suppli er shall be responsible  for the health and safety of its employees and shall fulfill the  applicable minimum wage requirements. By acting in 
+accordance with the applicable environmental laws the Supplier shall  take adequate measures to avoid the deployment of so -called  conflict minerals 
+and shall create transparency over the origin of raw materials. The Supplier shall provide a protected grievance mechanism fo r its own employees to 
+report possible violations of this Code of Conduct and will use reasonable ef forts to promote this Code of Conduct among its suppliers.  
+16.2  The Supplier shall provide necessary organizational instructions and take measures, particularly with regard to the following  security: premises 
+security, packaging and transport, business par tner, personnel and information in order to guarantee the security in the supply chain according to 
+the requirements of respective internationally recognized initiatives based on the WCO SAFE Framework of Standards (e.g. AEO,  C-TPAT). The 
+Supplier shall pr otect the deliveries and services provided to Siemens Energy or provided to third parties designated by Siemens Energy agains t 
+unauthorized access and manipulation. The Supplier shall only deploy reliable personnel for those deliveries and services and  shall obligate any of its 
+suppliers to take equivalent security measures.  
+16.3  In addition to other rights and remedies Siemens Energy may have, Siemens Energy may terminate the contract in case of breach  of these 
+obligations by the Supplier. However, provide d that the Supplier's breach of contract is capable of remedy, the Customer's right to terminate is 
+subject to the proviso that such breach has not been remedied by the Supplier within a reasonable grace period set by Siemens  Energy.  
+17. Product Conformity , Product Related Environmental Protection, Dangerous Goods, Occupational Health and Safety  
+17.1  Should the Supplier deliver products to which product related statutory and legal requirements apply, then the Supplier must ensure 
+compliance of the products with these requirements at the time of transfer of risk. Furthermore, the Supplier shall ensure that all documents and 
+information which are necessary to provide the proof of conformity of products with the respective requirements can be furnis hed immediately to 
+Siemens Energy upon request. Should the delivery contain goods which are classified as da ngerous goods according to international regulations, the 
+Supplier shall inform Siemens Energy hereof in a form agreed upon between the Supplier and Siemens Energy, but in no case lat er than the date of 
+order confirmation.  
+17.2  The Supplier is obliged to c omply with all legal requirements regarding the health and safety of the personnel employed by the Supplier. It must 
+ensure that the health and safety of its personnel as well as indirect sub -contractors employed to per - form the deliveries and services ar e 
+protected.  
+18. Cybersecurity  
+18.1  Supplier shall take appropriate organizational and technical measures to ensure the confidentiality, authenticity, integrity and availability of 
+Supplier Operations as well as products and services. These measures shall be consistent with good industry practice and shall include an 
+appropriate information security management system consistent with good industry standards. “Supplier Operations” means all a ssets, processes 
+and systems (including information systems), data ( including Siemens Energy data), personnel, and sites, used or processed by Supplier from time to 
+time in the performance of this Agreement.  
+18.2  Should products or services contain software, firmware, or chipsets:  18.2.1 Supplier shall implement appropriat e standards, processes and 
+methods to prevent, identify, evaluate and repair any vulnerabilities, malicious code, and security incidents in products and  services which shall be 
+consistent with good industry practice; 18.2.2 Supplier shall continue to suppo rt and provide services to repair, update, upgrade and maintain 
+products and services including the provision of patches to Siemens Energy remedying vulnerabilities for the reasonable lifet ime of the products and 
+services; 18.2.3 Supplier shall provide to Siemens Energy a bill of materials identifying all third -party software components contained in the 
+products. Third -party software shall be up -to-date at the time of delivery to Customer;18.2.4 Supplier shall grant to Siemens Energy the right, but 
+Siemens Energy shall not be obliged, to test or have tested products for malicious code and vulnerabilities at any time, and shall ad equately support 
+Customer;  18.2.5 Supplier shall provide Siemens Energy a contact for all information  security related issues (avai lable during business hours).   
+18.3  Supplier shall promptly report to Siemens Energy all relevant information security incidents occurred or suspected and vulner abilities 
+discovered in any Supplier Operations, services and  products, if and to the extent Si emens Energy is or is likely to be materially affected.  
+18.4 Supplier shall take appropriate measures to achieve that its  subcontractors and suppliers shall, within a reasonable time,  be bound by 
+obligations similar to the provisions of this section  18. 
+18.5  Upon Siemens Energy’s request, Supplier shall provide written evidence of its compliance with this section 18 including gener ally accepted 
+audit reports.  
+19. Export Control and Foreign Trade Data Regulations  
+19.1 The Supplier shall comply with all app licable export control,  customs and foreign trade regulations (“Foreign Trade Regulations”). In particular, 
+Supplier represents and warrants that none of its Products nor its Services provided under this Agreement contain products an d/or services 
+restricte d for import under the Foreign Trade Regulations applicable to the Buyer, including but not limited to Council Regulations (E U) 833/2014, 
+General Terms and Conditions of Purchase  
+Siemens Energy Ltd. (“Siemens Energy”) (Version 05.2022)  
+ 
+Page  6 of 6  Siemens Energy is a trademark licensed by Siemens AG.  692/2014, 2022/263 or 765/2006, each as amended, and import restrictions enforced by the U.S. Customs and Border Prote ction.X.2 Supplier shall 
+advise Buyer in writing within [weeks/days prior to] of receipt of the order - and in case of any changes without undue delay - of any information 
+and data required by Buyer to comply with all Foreign Trade Regulations in case of e xport and import as well as re -export, including without 
+limitation: All applicable export list numbers, including the Export  Control Classification Number according to the U.S.   Commerce Control List 
+(ECCN); and - The statistical commodity code according to  the current  commodity classification for foreign trade statistics and  the HS (Harmonized 
+System) coding; and - The country of origin (non -preferential origin) and – upon  request of Siemens Energy - Supplier’s declaration of preferential 
+origin (in case of E uropean suppliers) or preferential certificates (in case of non -European suppliers).   
+19.2  Supplier shall be liable for any expenses and/or damage incurred by Buyer due to any breach of the obligations according to 1 9.1. 
+19.3 Siemens Energy shall not be obligated to fulfill the contract if such fulfillment is prevented by any impediments arising out of  national and 
+international foreign trade or customs requirements or any embargos or other sanctions.  
+20. General provision  
+20.1 These T &C are the binding  and final expression  of the parties’ agreements and un derstandings, as a complete and exclusive statement with 
+respect to all of its su bject matters and su persede any and all pri or and contemporaneous agreements and communications, whether oral, written or 
+otherwise, concerning  any and all matters contained.  
+20.2 Non-Waiver: The failure of Siemens Energy to  insist  upon stri ct performance of any provision of these T&C and/or any PO or to e xercise 
+any right arising out of s uch neither impairs th at provision or right nor constitut es a waiver of th at provision or right, in  whole or in part, in th at 
+instance or in any other inst ance.  
+20.3.  Severabilit y: If a court of competent jurisdi ction adjudi cates any part of this A greement in valid, unenforceable or illegal, such adjudication 
+shall not affect or impair, in whole at in part, th e validity, enforceability, or legality of any remaining portions of this A greement. All remaining 
+portions re main in full force and effect as if the original Agreement had been executed without the in validated, unenforc eable or illegal part.  
+20.4  The Supplier's undertakings under Sections 9., 10,12.3, 12.4 & 13  shall survive the expiration or termination of any PO, agreement and/or any 
+other written instru ment signed by Siemens and the Sup plier. 20.5 Governing Law; Jurisdi ction:  This Agreement shall be governed by the l aw of the 
+State of Israel with  exclusive and sole juris diction of the competent courts of Tel Aviv, Israel. 

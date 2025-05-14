@@ -1,0 +1,108 @@
+The iFlow™ g3 Monitoring System  
+is one of the most advanced  
+real-time continuous reciprocating 
+compressor monitoring systems 
+available in the market today.
+Applicable to Reciprocating Compressors
+Siemens Energy offers a comprehensive portfolio of 
+reciprocating compression solutions for upstream, midstream, 
+and downstream applications. Compressor solutions can be 
+standardized or tailored to your needs in a variety of 
+applications – such as on- or offshore gas production, natural 
+gas transmission and distribution, air separation, chemicals, 
+petrochemicals, and refining. The iFlow™ g3 monitoring system 
+is applicable to Siemens Energy OEM and non-OEM 
+Reciprocating Compressors.iFlow™ g3 Monitoring System
+The iFlow™ g3 system is a proactive automated monitoring 
+system that effectively captures critical data for reciprocating 
+compressors. The iFlow™ system uses continuously measured 
+pressure data and combines it with temperature and other 
+system parameters gathered to generate mathematical models 
+for comparison with the actual pressure parameters. The 
+system effectively monitors, logs, and analyzes data coming in 
+from each end of the compressor cylinders. A single iFlow™ g3 
+system can monitor up to 10 double-acting cylinders (20 
+ends).
+With these comparisons, the iFlow™ g3 system identifies 
+anomalies (such as suction valve leakage, discharge valve 
+leakage and ring leakage) in the compression and reexpansion 
+events of the compression cycles. Any checks that do not pass 
+the diagnostic evaluations are annunciated to the operator via 
+the Modbus and through the user interface software. These 
+diagnostics are performed on every cylinder, every cycle.
+In addition, the myConnect™ box, which is a state-of-theart 
+connectivity module, allows for efficient data gathering, 
+packaging, and transmission; the myConnect™ box will allow 
+a remote troubleshooting functionality for the iFlow™ g3 
+system.siemens-energy.comiFlow™ g3  
+Monitoring
+System
+Applicable to Reciprocating  
+Compressors 
+Turning operational 
+data into value by 
+identifying potential 
+issues before they 
+impact on site 
+operations.
+Technical design and improvements
+•  New diagnostic capabilities in order to proactively identify 
+anomalies in the compression and re-expansion events in 
+the compression cycle.
+•  Consistent data capture and rapid communication. All 
+system data (current performance, statistical and pressure 
+curves for each cylinder) is provisionally stored on the micro 
+controller and is easily linked to a PC or HMI for data archival 
+or historical analysis.
+•  A simplified user interaction with a newly developed and 
+intuitive PC/Windows software used for both operation and 
+configuration of the iFlow™ g3 system.
+Features and benefits
+The iFlow™ g3 offers various benefits to your operation, inclu-
+ding:
+•  Increasing reliability and availability through proactive sup-
+port and identifying a potential issue before it impacts site 
+operation.
+• Leveraging OEM design and fleet wide experience.
+•  Various integrity diagnostics are performed on every cylin-
+der, every cycle for improved responsiveness and advanced 
+troubleshooting.Remote diagnostic capability to ensure 
+peace of mind through active data monitoring by diagnostic 
+engineers.Applicability
+As the compressor OEM, Siemens Energy is best suited to 
+provide a conversion solution that ensures the best overall 
+compressor performance and maintenance, from a single 
+source. Applicable to all Siemens Energy OEM and non-OEM 
+Reciprocating Compressors.
+Support Services and Implementation
+Siemens Energy Services experts support the customer in all 
+the aspects of installation. Providing upgrade, revamp, repair 
+solutions, and technical support at all levels of client projects.
+Scope of Work
+Typical manufacturing lead times range for standard parts 
+depending on the factory workload. Packing installation and 
+maintenance access must also be considered.
+• Engineering design and drafting
+• Procurement and documentation
+• Installation and supervision
+• Commissioning
+Published by  
+Siemens Energy Global GmbH & Co. KG  
+Transformation of Industry  
+Siemens promenade 9  
+91058 Erlangen, Germany
+Published by  
+Siemens Energy, Inc.  
+Transformation of Industry  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USASubject to changes and errors. The information given in this  
+document only contains general descriptions and/or performance  
+features which may not always specifically reflect those described,  
+or which may undergo modification in the course of furhter  
+development of the products. The requested performance features  
+are binding only when they are expressly agreed upon in the  
+concluded contract. All product designations may be trademarks  
+or product names of Siemens Energy Global GmbH & Co. KG or  
+other companies whose use by third parties for their own purposes  
+could violate the rights of the owner.
+Siemens Energy is a trademark licensed by Siemens AG.Figure 1- Threshold Screen Figure 2- Data Summary

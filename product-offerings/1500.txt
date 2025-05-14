@@ -1,0 +1,990 @@
+Non-financial report
+Getting
+Started
+Siemens Energy Non-Financial Report 2020
+2A. Basis of Preparation
+Basis of preparationThis non-financial report of Siemens Energy Group 
+(“Siemens Energy”) with its parent company Siemens Energy AG, 
+headquartered in Munich, is prepared in accordance with paragraph 
+315b to 315c GCC (German Commercial Code; “Handelsgesetzbuch”) in 
+conjunction with paragraph 289c to 289e GCC and the specifying 
+reporting requirements of GAS 20 (German Accounting Standard; 
+“Deutscher Rechnungslegungs Standard”). 
+In May 2019, Siemens AG announced its plan to spin-off its Gas and 
+Power business with a subsequent public listing, including the transfer 
+of Siemens AG’s shareholding in Siemens Gamesa Renewable Energy 
+(SGRE), Spain. After completion of carve-out procedures, the approval 
+of the spin-off by the Extraordinary Shareholders' Meeting in July 2020 
+and successful listing end of September 2020, Siemens Energy AG and 
+consequently the whole Group became an independent business. Given 
+the above restructuring and the underlying timeline, part of the 
+reported contents within this non-financial report take reference to 
+targets, measures and performance measures designed, implemented 
+and monitored by the former parent company, Siemens AG. Such 
+references and interdependencies are clearly indicated throughout this 
+document.
+The reportable aspects environmental, employee and social matters, 
+human rights protection as well as anti-corruption and bribery 
+matters represent cornerstones of the Group’s comprehensive 
+Sustainability Program, led by our Chief Sustainability Officer (CSO), Dr. 
+Christian Bruch, who also holds the role of the Group’s CEO. Our 
+Sustainability Department is responsible for driving sustainability within 
+Siemens Energy Group and for steering the company-wide 
+sustainability activities, programs and measures. It is part of the 
+Strategy Function. This includes a close coordination with our segments 
+Gas and Power (“GP”) and SGRE. Whereas the approach to the 
+reportable aspects is aligned throughout the Group as a whole, any 
+company-specific characteristics are highlighted as such, if material in 
+accordance with paragraph 315c in conjunction with paragraph 289c 
+section 3 GCC.This non-financial report is designed to provide for a concise and 
+focused summary of our targets, implemented measures and 
+monitoring of target achievements based on suitable performance 
+indicators. This intention requires to abstract from other reporting 
+frameworks like the GRI (Global Reporting Initiative) standards for 
+sustainability reporting or the structural orientation towards the UN 
+Global Compact or the UN Sustainable Development Goals. Without 
+limiting the informative coherence and compliance with legal 
+requirements for this non-financial report according to the GCC, we 
+refer to our separate Sustainability Report (www.siemens-
+energy.com/sustainability-report).
+The reportable contents presented in this non-financial report and 
+subsumed under the reportable aspects are identified based on the 
+Group’s materiality assessment in fiscal year 2020 in accordance with 
+paragraph 315c section 2 GCC. Therefore, this report concentrates on 
+those topics that are relevant for an understanding of the Group’s 
+development, financial performance and position, and our operational 
+activities impacting the reportable aspects. We did not identify any risks 
+associated with our business activities, relationships and offerings that 
+very likely may have or have severe adverse impacts on the reportable 
+aspects.
+Siemens Energy is active along almost the entire energy technology and 
+service value chain with a comprehensive and differentiated products, 
+solutions and services offering. A detailed description of our business 
+model is included in chapter A.1.1.2 Business Model of our combined 
+management report, being part of the Annual Report for fiscal year 
+2020. With the exception of this cross-reference, any referrals to non-
+mandatory information presented outside this report do not form part 
+of the non-financial report. The non-financial report was subject to a 
+voluntary limited assurance engagement according to ISAE 3000 
+(revised) – Assurance Engagements Other Than Audits Or Review Of 
+Historical Financial Information. The Independent Auditor’s Limited 
+Assurance Report is reproduced in chapter C.
+Siemens Energy Non-Financial Report 2020
+3B. Reportable aspects
+B.1 Environmental matters
+Global energy markets are changing, presenting our customers with a 
+multitude of structural changes throughout the energy value chain – 
+whether due to the need for decarbonization, increasing 
+decentralization as well as digitalization and because of the resulting 
+demands on their flexibility. 
+Many of our customers are confronted with long-term, disruptive 
+changes in their business models. The trend away from regulated, 
+centralized markets toward market-oriented, decentralized structures is 
+accompanied by growing public and regulatory pressure to reduce 
+greenhouse gas (“GHG”) emissions, which will lead to widespread 
+decarbonization of the energy landscape in the coming decades. 
+This will bring about long-term changes in the relevance of traditional 
+energy technologies but will also create opportunities in new areas of 
+business, such as increased electrification, renewables, hydrogen 
+technologies and Power-to-X technologies. Our mission is to support 
+our customers in transitioning to a more sustainable world, by 
+providing a sustainable, affordable and reliable energy supply, based on 
+our innovative technologies and our project execution capabilities. 
+This is enabled by our portfolio along the energy value chain – from 
+products, services and solutions for the process industries sector, oil 
+and gas sector, to conventional and renewable energy generation, 
+energy transmission and decentralized energy solutions – together with 
+our increased customer orientation.
+For a successful transition, interim solutions will be required. The shift 
+from coal to natural gas could be one such interim solution on the way 
+towards a sustainable energy landscape. Combining conventional and 
+renewable energy systems is key to meeting the world’s need for 
+sustainable, reliable and affordable energy. Green hydrogen will also 
+play a major role in our future energy mix.
+Targets
+We are committed to accompanying our customers on their way to a 
+more sustainable energy future. We are driving decarbonization along 
+the entire value chain: from the supply chain to our own operations, 
+and especially in our portfolio. In doing so, we aim to be the partner of 
+choice for our customers and to support them in their transition to a 
+sustainable energy world.
+At the same time, we are working diligently on climate neutrality in 
+our own operations and intend to be climate neutral by 2030. SGRE 
+achieved carbon neutrality at the end of fiscal year 2019, including 
+offsetting of unavoided emissions. It expanded its ambitions by 
+incorporating the net-zero emissions target by 2050. 
+In order to advance carbon neutrality across the entire value chain, we 
+are also working on concepts to reduce CO2 emissions in the supply 
+chain. As an important part of the value chain, we encourage our 
+suppliers to take action to protect the climate. Carbon reduction is 
+already part of our suppliers’ supply chain management and we 
+therefore continue to encourage them to increase their efforts.Measures
+Our biggest lever to reduce GHG emissions are our products, solutions 
+and services. Focusing on our customers and their business challenges 
+not only allows us to seize business opportunities, expand existing 
+business and develop new business but also leads to ongoing progress 
+towards decarbonization. In particular, this applies to value chains in 
+the energy industry, but also in other sectors such as industry and 
+transportation. Drawing on our broad technology and solutions 
+expertise, we aim to make a significant contribution to the energy 
+transition. With our new market- and customer-oriented organization 
+as well as key account management (KAM) we are adapting to 
+customer needs and ensuring customer proximity. This also leads to an 
+increased focus on co-creation and partnering for innovation. One 
+example is the Werner-von-Siemens Centre for Industry and Science 
+e.V. (WvSC), of which Siemens Energy is a key partner. WvSC is a 
+dynamic research and development collaboration involving more than 
+20 partners from industry and science, small and medium-sized 
+enterprises, young companies and start-ups. It addresses important 
+topics of the future such as the energy transformation, mobility and 
+production technology. The WvSC allows co-located collaboration to 
+speed up innovation in the focus areas addressed.
+Our research and development (R&D) activities are aimed at 
+developing innovative, sustainable solutions both for our customers 
+and for our business. Therefore, we will continue to invest 
+approximately € 1 billion per year in R&D to maintain our innovative 
+edge with an emphasis on sustainability. In addition to renewable 
+energy in SGRE, we have identified five areas of action called Energy of 
+Tomorrow (EoT) Fields of Action for Gas and Power to form the basis of 
+Siemens Energy’s portfolio transformation and to becoming a 
+sustainability leader in the industry. 
+Across all businesses, digitalization facilitates new and promising 
+approaches for new ways of working, for example technology-based 
+services such as remote operations or remote services, resulting not 
+only in better performance throughout product and equipment life 
+cycles but also more efficient operation with lower emissions.
+In the demanding energy market for CO2-free power generation, 
+continuous investment in R&D allows SGRE to optimize its 
+competitiveness and supply the customer with superior turbine 
+technologies for on- and offshore applications. SGRE’s R&D efforts focus 
+on developing the next generation of technology that will lead to 
+improved and more cost-effective products, solutions and services. To 
+accomplish that goal, SGRE is developing reliable and efficient 
+operating wind turbines, cost-effective energy storage solutions, and 
+solutions for hybridization that are designed to help utility customers 
+optimize the use of renewable energy, thereby increasing profitability. 
+Product improvements (upgrades) and product innovation (new 
+design) of onshore and offshore wind turbines are launched to suit our 
+customers situation and reduce Levelized Cost of Energy (LCoE) or 
+increase annual energy production. Another focus area is digitalization: 
+Advances in this field enable more intelligent monitoring and analyses 
+Siemens Energy Non-Financial Report 2020
+4of turbine conditions as well as smart diagnostic services. SGRE also 
+explores profitable opportunities in adjacent business fields, including 
+other renewable sources, hybrid parks and storage in order to supply 
+solutions for the system integration of renewables.
+Activities and customer offerings that support decarbonization are 
+clustered in three areas: Efficiency increase, Fuel shift / Hybridization 
+and Full decarbonization.
+• Efficiency increase: Products, services, solutions and technologies 
+that improve the efficiency of conventional products and reduce 
+GHG emissions
+• Fuel shift / Hybridization: Products, services, solutions and 
+technologies that support the transition from fossil-based to 
+alternative fuels or that combine conventional and renewable 
+sources of generation to reduce GHG emissions
+• Full decarbonization: Products, services, solutions and technologies 
+for energy generation in different industries and sectors, which 
+substantially reduce GHG emissions to zero or negative emissions. 
+The majority stake in SGRE is an important step toward a climate 
+neutral portfolio. SGRE offers one of the industry’s broadest wind 
+power product portfolios, with both offshore and onshore 
+technology as well as industry-leading service solutions. The 
+installed products and technology have a total capacity base of more 
+than 100 GW.
+In addition to our action areas Siemens AG established the 
+Environmental Portfolio (“EP”) already in 2007. It includes portfolio 
+elements that make a contribution to energy efficiency and CO2 
+reduction. Products, systems, solutions and services (known as 
+“Environmental Portfolio elements”) must meet one of the following 
+criteria to qualify for inclusion: 
+•an increase in energy efficiency of 20% or more; or
+•a reduction in emissions of at least 100,000 metric tons of CO2 or 
+other GHG per reporting period in the use phase at our customers 
+versus a reference solution (baseline); or
+•technologies for use of renewables.
+These EP elements reduce the emission of CO₂ at our customers. The 
+reduction is measured by carrying out comparisons with baselines and 
+includes the option of a before/after comparison, a direct comparison 
+with a reference technology and a comparison with the installed base. 
+The EP helps customers not only to cut their CO₂ emissions and reduce 
+their energy costs, but also to increase their financial benefits thanks to 
+higher productivity and asset performance.
+We have launched our Climate Neutral Program and aim to be climate 
+neutral by 2030. In the program, we push for the reduction of emissions 
+by various measures, including division targets. The strongest levers to 
+achieve climate neutrality by 2030 are: 
+• Reducing energy consumption: Energy efficiency projects at our 
+own locations, including installation of LED lighting (dimmers, 
+motion sensors), installation of smart meters to increase 
+transparency, building automation systems (e.g., heating, 
+ventilation, air conditioning).
+• Using renewable electricity: 100% of Siemens Energy’s global 
+electricity consumption shall be met by power from renewable 
+sources by 2023.
+• New mobility concepts: We want to significantly reduce our vehicle 
+fleet’s emissions and the related fuel costs. The details of an 
+appropriate car policy are currently being worked out. SGRE also 
+implements local country specific mobility and transportation 
+policies, thereby ensuring that e-mobility is the preferred option for internal transportation and promoting the transition of service 
+vehicles to electric drives.
+In 2020, we initiated a Carbon Reduction@Suppliers pilot project, 
+cooperating with an external service provider who had worked with 
+Siemens AG to develop an economic model that identifies the CO2 
+footprint of all suppliers. Based on this model, Siemens Energy 
+encouraged 35 global focus suppliers to share their implemented and 
+planned CO2 reduction measures. 80% of the suppliers we surveyed 
+responded to our Carbon Web Assessment. This confirms their 
+awareness of and interest in the matter, as they outline CO2 reduction 
+measures already implemented and further plans for the upcoming 
+years. After analyzing the data and methodology and evaluating the 
+lessons learned, we plan to further develop our approach to reduce 
+emissions in collaboration with our suppliers.
+SGRE plans to engage more with key suppliers to encourage them to 
+reduce their Scope 1 and Scope 2 emissions related to products and 
+services they supply to SGRE. It has sharpened its focus on sustainable 
+business practices in supplier selection and performance management, 
+for example urging logistics companies, in particular marine and 
+terrestrial companies, to move away from fossil fuels in their activities.
+Performance indicators
+Environmental Portfolio
+The contribution of our EP to an accelerated decarbonization can be 
+summarized as follows:
+Results of the Environmental Portfolio1FY 2020 FY 2019
+Revenue generated from the Siemens Energy 
+Environmental Portfolio (in € billion)19.3 20.1
+Reduction in annual GHG emissions at our customers 
+due to new elements of the Siemens Energy 
+Environmental Portfolio installed in the reporting 
+period (in millions of metric tons)35 40
+Cumulative reduction in annual GHG emissions at our 
+customers due to elements of the Siemens Energy 
+Environmental Portfolio in the reporting period (in 
+millions of metric tons)522 493
+1 As there are currently no accepted international standards addressing the identification and reporting of 
+“green products”, we report the revenue from our Environmental Portfolio and the cumulative annual customer 
+reductions in carbon dioxide emissions generated by it in accordance with internal regulations defined in our 
+Environmental Portfolio Guideline. This Guideline sets out criteria and processes for the qualification of 
+elements for the Environmental Portfolio, defines roles and responsibilities as well as processes to account for 
+annual customer reductions in carbon dioxide emissions and refers to financial reporting guidelines on revenue 
+recognition. As a result, these figures may not be comparable with the data published under the same or similar 
+designations by other companies. For a detailed description of our methodology, we refer to the Annex of our 
+separate Sustainability Report.
+Own Operations
+We monitor energy consumption at our office locations and 
+manufacturing facilities. It is calculated by adding the primary and 
+secondary consumption of fuels and electricity and enables us to track 
+the success of our climate neutral program.
+Siemens Energy’s total energy consumption during the reporting period 
+was 5.8 million gigajoules. Compared with fiscal year 2019, this is a 
+reduction of 16,6%.
+Over the reporting period, Siemens Energy collected the following data 
+regarding the level of scope 1 and 2 emissions related to its business 
+activities.
+• Scope 1 (direct) emissions: Direct GHG arise from sources in the 
+company’s ownership or under its control.
+Siemens Energy Non-Financial Report 2020
+5• Scope 2 (indirect) emissions: Indirect GHG refer to the 
+consumption of purchased electrical energy and district heating.
+Scope 1 and 2 Emissions
+(1,000 metric tons of CO2 equivalent) FY 2020 FY 2019
+Scope 1 221 266
+Scope 2171 175
+Total 292 440
+1 We calculate our emissions resulting from electrical consumption based on carbon emission factors of our 
+local sites according to the market-based approach.
+In fiscal 2020, our share of green electricity was 78% and we aim to 
+achieve 100% by 2023.
+Siemens Energy Non-Financial Report 2020
+6B.2 Employee matters
+Our vision is to become the most valued energy technology company 
+in the world. To achieve this goal, we will create a culture within our 
+company which is based on our four values (responsible, agile, 
+respectful, caring). We strive for a diverse workforce and ensure that 
+we develop our current employees and attract the best future talents. 
+As a truly global player, people from 138 nationalities work in our 
+company. The global reach with direct access to local expertise and 
+market understanding is an asset with competitive advantages which 
+we continuously develop for our customers, employees and 
+shareholders world-wide. Our strategy and operating model are aimed 
+at transforming our business, and our people are the ones who make it 
+real. Our culture transformation program builds on our values and 
+behaviors. 
+At Siemens Energy
+• inclusion and diversity are key to our culture of openness and 
+innovation, 
+•we aim to transform to a future-fit learning organization,
+•and we prioritize the health and safety of our people.
+For our reporting segment Gas and Power, the People Agenda, 
+designed in May 2020, will help achieve our business priorities. With 
+tailored programs and actions along three pillars we aim to enable Gas 
+and Power to excel through our people: Vibrant workforce, game-
+changing leaders, and thriving environment. 
+Our reporting segment SGRE’s purpose is “Empower people to lead 
+the future". It goes beyond selling and delivering to customers, it is 
+what drives the business strategy, the way the company is organized, 
+how decisions are made, who is hired, and how the company and 
+employees grow. Therefore, SGRE established the “Culture of Trust 
+program” to ensure and support the development of a shared company 
+culture across the group. It is based on three pillars: continuous 
+learning, empowerment and diversity.
+Targets
+Inclusion and Diversity
+At Siemens Energy, we strive to create safe, attractive workplaces with 
+cultures that encourage equality and belonging in the whole 
+organization. With our focus on inclusion and diversity, we aim to
+•have access to broader talent pools from which to source diverse 
+capabilities we need to power our innovation
+•bring together different experiences and perspectives to solve the 
+complex challenges of our industry
+•be more productive through faster, better quality decisions with less 
+cognitive bias or group think
+•enhance our reputation while being representatives of the 
+communities we serve
+We have already started to foster long term gender balance in our 
+talent pools and going forward, our focus will also be on: 
+• Equal opportunity - use open and transparent processes to attract, 
+promote, develop and retain people with different skills, abilities and 
+ideas • Belonging - create an inclusive culture where people feel respected, 
+engaged, able to speak up and be themselves 
+• Society and partnership - work together with customers and 
+partners to support us and our industry to become more diverse and 
+inclusive
+Our reporting segment Gas and Power aims to reach a share of 25% 
+women in top leadership functions by September 30, 2025 and a share 
+of 30% women in top leadership functions by September 30, 2030. 
+Our reporting segment SGRE aims to reach a share of 25% women in 
+headcount by September 30, 2025 and a share of 25% women in 
+management positions by September 30, 2025.
+Training and Learning
+We aspire to transform to an agile learning organization where 
+individuals, teams and organizational units will have access to digital, 
+real-time and personalized state of the art learning offerings. The 
+opportunity to learn and grow is a core component of the Employee 
+Experience. Learners own their learning and we support them in their 
+learning journey. 
+Health and Safety
+Siemens Energy’s key objective is to provide a safe and healthy 
+working environment for all employees, partners, contractors and 
+suppliers. We want our employees to be able to work in a safe 
+environment that promotes health, and we focus all our attention on 
+avoiding accidents and occupational illnesses. Our goal is zero 
+occupational accidents.
+To support our health and safety policy, the ISO 45001 standard 
+provides guidance so that international and local regulation, laws, 
+standards and practices that govern health and safety are observed and 
+complied with wherever Siemens Energy operates. The standard sets a 
+framework for the deployment of effective management systems, 
+identification of potential risks and hazards, management of non-
+conformities, opportunities for improvement as well as internal audit 
+and review. It also provides guidance on safe and healthy workplaces 
+contributing to the prevention and reduction of work-related injuries 
+and ill health. In the reporting period, one of Siemens AG’s objectives 
+was to have all Operational Health and Safety (OHS) management 
+systems within the business certified to ISO 45001. Siemens Energy has 
+the same operational objective and all business units will be expected 
+to review and update their local integrated management systems and 
+current certifications.
+Measures
+Inclusion and Diversity
+Our activities contribute to the promotion of diversity, equality and 
+inclusion. Some examples for our activities in fiscal year 2020 are: 
+•Under the umbrella of a family-friendly corporate policy, Gas and 
+Power employees in Germany can avail themselves of a range of 
+opportunities to tailor their working times and place of work to their 
+needs, for example, part-time and mobile working, and to have the 
+flexibility to care for children or sick relatives.
+Siemens Energy Non-Financial Report 2020
+7•We advocate equal opportunity for people with disabilities, their 
+inclusion in society and the workplace, and their self-determined 
+participation and right to be treated with respect. In Germany, for 
+example, Siemens AG has concluded an inclusion agreement on this 
+matter with the employee representatives that is also applicable to 
+Gas and Power. We work to achieve a barrier-free work environment 
+so that workplaces are accessible to people with disabilities. This is 
+something we also intend to facilitate outside Germany with IT 
+applications, barrier-free, accessible communication, and training 
+seminars.
+•Gas and Power is an active member of the Society of Women 
+Engineers (SWE) Corporate Partner Council in the US. As an official 
+member, we promote opportunities for women in the engineering 
+and technology workforce, share best practices by supporting the 
+annual conference such as the last one in November 2019, address 
+retention and advancement issues, and partner on diversity 
+initiatives with other local organizations. 
+To ensure impactful implementation, we have developed a Global 
+Inclusion and Diversity dashboard for Gas and Power to measure our 
+progress. It includes KPIs covering multivariant diversity such as share 
+of women and minorities in management and hiring, number of 
+employee networks of all dimensions of inclusion and the “SE Voices” 
+employee survey results. It has been initiated to be regularly reported 
+to the Chief Diversity Officer (CIDO), a role established on board level, 
+and relevant management groups.
+SGRE’s Diversity and Inclusion Policy sets the framework and the 
+principles that are common to all the group’s companies, in the 
+different countries where the Company operates. The purpose of this 
+policy is to promote equal opportunity, diversity, inclusion, equality and 
+dignity in the Company’s culture in general, and in all the Company’s 
+policies and practices of selection, hiring, remuneration, training, 
+promotion and termination. SGRE was included in 2020 Bloomberg 
+Gender-Equality Index. This global index tracks the financial 
+performance of public companies committed to supporting gender 
+equality through policy development, representation, and 
+transparency. SGRE is one of the 140 companies that are signatories of 
+the initiative “Mas mujeres, mejores empresas” promoted by the 
+Ministry of Equality of the Spanish Government. With this initiative the 
+company declares its commitment to promote an equal participation of 
+women and men in the company’s board of directors, and the adoption 
+of measures to increase the female representation in the leadership 
+positions and the executive committees in four years.
+ 
+Training and Learning
+In fiscal year 2020, Gas and Power employees had unrestricted access 
+to further education programs of Siemens AG covering a broad 
+interdisciplinary field of activities as well as to our complementary 
+product academies, such as the Power Academy. For the future, a 
+dedicated learning platform for company-wide access to learning 
+opportunities was created. 
+SGRE employees had access to separate training courses and 
+continuous learning opportunities offered by SGRE's own learning units 
+such as the Wind Academy. Their learning services provide 
+consultancy, tools and delivery of different activities throughout the 
+business.
+Health and Safety
+At Siemens Energy, we have implemented mandatory behaviors, such 
+as “no calls while driving” or “stopping unsafe behavior”. By giving clear guidance and having the authority to act on all levels, we drive 
+ownership and accountability across our company. At the same time, 
+we put a special focus on our managers. During regular “eye on safety” 
+reviews, we share actual cases, learnings and preventive measures with 
+the operational management to ensure a high level of awareness and 
+sharpen competencies. 
+At Siemens Energy, we are fully committed to protecting not only our 
+employees, but also our customers, contractors and suppliers from 
+any potential risk of harm that could be caused by our activities. To 
+support this objective, we place emphasis on the health and safety 
+standards in our supplier qualification process, share our health and 
+safety principles before we sign a contract and monitor our supplier 
+safety performance, which serves as feedback to our suppliers. Also, our 
+customers and contractors are involved in various local and site-specific 
+health and safety activities.
+Siemens Energy continued to support Siemens AG’s “Zero Harm Culture 
+at Siemens” program throughout the last fiscal year which focuses on 
+health and safety cultural development and has now developed its 
+own zero-harm principles and minimum behaviors that Siemens Energy 
+expects from its employees and other stakeholders, such as:
+• Risk assessment – Emphasizing the need for effective risk 
+assessment and control. 
+• STOP! - Empowering employees and other stakeholders to stop a 
+work activity due to an unsafe action or unsafe conditions.
+• Incident management - Reporting all incidents and near misses. 
+Identifying causes and actions to prevent reoccurrence. We will not 
+leave any incident unreported or unaddressed.
+• Driving – Operating and driving vehicles safely and responsibly. 
+• Health – Being physically and mentally ready to perform our 
+assigned tasks. 
+• Environment - Reducing the environmental impacts of our work 
+activities and establishing opportunities to protect the environment 
+and resources.
+To support the fundamental requirements for good OHS, we have 
+established a health and safety policy that aligns with our zero-harm 
+principles and behaviors demonstrating:
+•Strong leadership, ownership and commitment,
+•Promotion of good health and safety conduct,
+•Commitment to continuous improvement,
+•Hazard identification, risk assessment and prevention,
+•Compliance with principles, standards and behaviors.
+In fiscal year 2020, Siemens AG completed a series of OHS audits 
+related to high-risk activities and, both internally and externally, 
+inspections were conducted at country and organization level to 
+establish the effectiveness of safety risk management at 
+manufacturing, service and project sites, including activities and sites 
+that now form part of Siemens Energy. Although many sites 
+demonstrated robust and effective safety controls, others fell 
+significantly below expectations and revealed the need for decisive 
+corrective action and continuous improvement.
+Siemens Energy will continue with a robust approach to OHS auditing 
+that is based on the current practices deployed throughout Siemens AG. 
+Occupational Health and Safety audits and their results will continue to 
+be quantified, providing details for the effective implementation of 
+optimization measures, lessons learned and continuous improvement 
+recommendations.
+Siemens Energy Non-Financial Report 2020
+8SGRE also works hard to instill a strong safety and zero-harm culture 
+across the entire business and has launched initiatives to foster and 
+promote a zero-harm culture, including: 
+•“Safety is My Choice,” which aims to bring focus to individual 
+behaviors by reminding employees of their own role and 
+responsibility in safety at work as a key success.
+•Ten life-saving rules, introduced globally, are intended to raise 
+awareness of safety hazards through incidents and to avoid 
+reoccurrence. They include: permit to work, energy isolation, safety 
+guards, driving safety, vehicle movements, suspended loads, drugs 
+and alcohol, working at height, use of personal protective 
+equipment and tools and dropped objects.
+•“LeadSafe” aims to enable the organization to accelerate its progress 
+towards zero accidents and injuries by focusing on raising risk 
+awareness throughout the company, building leadership skills 
+related to safety management and improving the safety of our 
+engineering processes.
+Performance indicators
+Inclusion and Diversity
+Our reporting segment Gas and Power reached a share of 21% women 
+in top leadership functions by September 30, 2020. 
+Our reporting segment SGRE reached a share of 19% women in 
+headcount by September 30, 2020 and a share of 12% women in 
+management positions by September 30, 2020.
+Training and Learning
+In fiscal year 2020 Siemens Energy spent around €60 million on further 
+education (FY19: € ~70 million), an average of €654 per employee 
+(FY19: €795).
+Health and Safety
+The overall Lost Time Injury Frequency Rate1 (LTIFR) for employees2 was 
+0.27 at the end of the fiscal year 2020 (FY19: 0.31) and is based on the 
+total number of lost time injuries per 200,000 hours worked.
+During the reporting period, Siemens Energy regrettably had five work-
+related fatal accidents (FY19: two)3. One fatal accident was related to 
+underwater diving and cleaning of dosing line of water intake pipe and 
+involved a contractor. One accident was related to fatal injuries from 
+electric shock and involved a SGRE employee. Three fatal accidents 
+involved SGRE subcontractors and were related to preparational work, 
+lifting operations and falling from a platform during concrete tower 
+assembly. Each serious event or fatal accident causes grief for families, 
+friends and colleagues, and as a company we will investigate, assess 
+and derive measures that will prevent such accidents from happening 
+again.
+1 Lost Time Injury Frequency Rate: Number of Lost Time Injuries (LTI) x 200 000/work hours performed. LTIs 
+are accidents that result in at least one lost day of work
+2 Incl. temporary workers; excl. contractors
+3 Excluding cases beyond Siemens Energy’s influence. e.g. force majeure, third party violence or outside of 
+Siemens Energy scope of responsibility
+Siemens Energy Non-Financial Report 2020
+9B.3 Social matters
+Societal engagement has been embedded in our DNA since Werner von 
+Siemens founded the company in 1847 and will continue to be of 
+relevance for Siemens Energy in the future. For us, societal 
+engagement is not only a charitable endeavor; it creates value, is a 
+source of opportunity and provides a competitive advantage.
+We are currently establishing a new societal engagement approach for 
+Siemens Energy that will be rolled out globally in the months to come. 
+For this, we have analyzed the donations of past years to get an 
+understanding of the contributions to communities worldwide and 
+defined three focus areas on the basis of our strategic context, core 
+competencies, the global targets for sustainable development, global 
+megatrends (demographics, urbanization, climate change, 
+globalization and digitalization) and stakeholder dialog. 
+SGRE has put in place a social commitment strategy that focusses on 
+the company’s social commitment with the aim of reducing poverty, 
+fighting climate change and promoting Science, Technology, 
+Engineering and Mathematics (STEM) education in our communities. 
+The approach is underpinned by the Social Commitment Policy and 
+forms part of a long-term strategy aligned with the UN SDGs.
+Targets
+Our approach combines a global framework with selected local 
+activities in the countries in which we operate. The objective of the new 
+approach is to 
+•Enhance relationships with customers and partners
+•Boost employee engagement
+•Generate awareness of our brand and 
+•Support the company’s competitive context
+In order to focus our activities and increase our impact, we have 
+developed a framework with our three focus areas that allows for global 
+consolidation but also local autonomy: 
+• Driving the Energy Transition – Support sustainable energy 
+research and development 
+• Access to Education – Promote STEM subjects and climate 
+education (especially for underrepresented demographics) 
+• Sustaining Communities – Disaster recovery (especially related to 
+electricity supply) 
+The tools to monitor the implementation of the approach will be 
+developed with a focus on keeping them as lean and easily useable as 
+possible.
+Measures
+Siemens Energy contributes to societal development all over the world 
+through a range of projects that play well into the newly defined focus 
+areas: 
+Driving the Energy Transition − Public energy infrastructure is one of 
+the most important prerequisites for the sustainable development of 
+societies. This is especially true for countries where not all citizens have 
+access to a reliable, sustainable and affordable power supply. We 
+draw on our core competencies and portfolio offerings in order to help 
+rural areas get better access to basic infrastructure. In the future, we will mainly focus on shaping the energy transition by supporting 
+projects on decarbonization, access to energy and systemic change.
+Access to Education – We work to extend educational opportunities to 
+more people and improve research, especially in STEM subjects. 
+Siemens Energy leverages its competencies to spark interest in STEM 
+subjects, reduce skills gaps and match industry requirements, creating 
+industry-ready youth.
+Sustaining Communities – Access to basic provisions is essential for 
+sustaining communities. Our community-related activities focus on 
+serving local needs and include immediate relief and rehabilitation 
+support in the wake of disasters as well as various initiatives increasing 
+the well-being of communities by targeting the inclusion of 
+underserved members and equal opportunities for all.
+In FY20, examples for our activities are our engagement as response to 
+the global COVID-19 pandemic, relief and rehabilitation support in the 
+wake of disasters such as the tragic accident in Beirut, Lebanon, and 
+various activities to foster education for STEM subjects as well as local 
+community engagements worldwide.
+Siemens Energy Non-Financial Report 2020
+10B.4 Human rights protection
+Siemens Energy is a global business affecting people and the 
+environment all around the world, especially in the course of large 
+energy projects. We are conscious of the responsibility that this global 
+impact brings and consider respect for human rights to be a core 
+element of responsible business conduct along the whole value chain. 
+Siemens Energy, including SGRE, is thus committed to ensuring respect 
+for human rights which goes beyond compliance with applicable laws 
+and regulations and includes our commitment to: 
+• International Bill of Human Rights, consisting of: Universal 
+Declaration of Human Rights; International Covenant on Civil and 
+Political Rights; and International Covenant on Economic, Social and 
+Cultural Rights;
+• European Convention on Human Rights;
+• ILO (International Labour Organization) Tripartite Declaration of 
+Principles concerning Multinational Enterprises and Social Policy, ILO 
+Declaration on Fundamental Principles and Rights at Work (in 
+particular, on the following topics: elimination of child labor, 
+abolition of forced labor, prohibition of discrimination, freedom of 
+association and the right to collective bargaining) and fundamental 
+freedoms
+• UN Sustainable Development Goals (SDG), specifically SDG 8 
+“Decent Work and Economic Growth”, which we have defined as one 
+of our priority SDGs;
+• United Nations Guiding Principles on Business and Human Rights 
+(UNGPs);
+• OECD guidance on responsible business conduct and human 
+rights;
+• UN Global Compact principles, to which we are a signatory.
+Targets
+Human rights topics that have been identified as material by the Group 
+are clustered into the subsets “supply chain”, “workplace” and “customer 
+projects”, in summary reflecting our value chain. We are committed to 
+ensure respect for human rights within our spheres of influence along 
+the complete value chain.
+Measures
+Targets and associated actions to preserve human rights have been 
+selected based on a comprehensive stakeholder survey in 2019 as well 
+as on input from external experts, business network exchanges and our 
+experiences with critical and controversial projects. Siemens Energy is 
+currently evaluating which existing networks Siemens Energy will 
+continue to participate in.
+Our commitment to respect human rights is written into Siemens 
+Energy’s Business Conduct Guidelines (BCGs), with special emphasis 
+on Siemens Energy’s company values caring, agile, respectful and 
+accountable. The BCGs are binding on all executives and employees 
+worldwide, who have to actively accept them and are being trained in 
+their content via mandatory web-based training sessions. In the 
+reporting period, Siemens AG BCGs were applicable with regular 
+reporting routines of human right matters and associated discussion by 
+the Siemens AG Sustainability Board. The Supervisory Board of Siemens 
+AG was also briefed on the challenges that arose in protecting human 
+rights. On October 1, the Group released its own BCGs, keeping the essence of the Siemens AG guidelines. In the course of fiscal year 2021, 
+all employees will be required to accept the BCGs anew and undergo 
+the related training. Due to its legal independence, SGRE has 
+implemented its own BCGs, which, in line with the group-wide 
+approach and underpinned by a human rights policy, aim to define 
+respect for human rights as an integral part of corporate responsibility. 
+To enforce this commitment, employees are trained in the use of BCGs, 
+evaluation and approval processes considering human rights are 
+mandatory in the sales function, compliance risk assessments are 
+carried out, complemented with an ongoing monitoring process and 
+reporting routines by SGRE's Chief Compliance Officer.
+Human rights at Siemens Energy’s workplaces relate to excellent 
+health and safety standards, fair working conditions and the prohibition 
+of discrimination, all of these being at the heart of our Human 
+Resources activities summarized in chapter 0.
+During the reporting period, business partners in the supply chain were 
+required to comply with the Siemens Group Code of Conduct for 
+Suppliers and Third-Party Intermediaries. With regards to human 
+rights, the Code emphasizes respect for the basic human rights of 
+employees, including fair remuneration, freedom of assembly, health 
+and safety standards, and prohibition of discrimination, forced labor 
+and child labor. Siemens Energy has taken over the content of the 
+Siemens AG Code of Conduct for Suppliers and implemented its own 
+Code as of October 1, 2020. In addition, Siemens Energy is committed 
+to preventing the use of minerals from conflict-affected and high-risk 
+areas that impose a threat on human rights. Therefore, Siemens Energy 
+adopted Siemens AG’s Responsible Minerals Sourcing Policy 
+(formerly “Conflict Minerals Policy”) and integrated it into its 
+procurement process. This policy provides a uniform, group-wide 
+supply chain management standard in this area and follows the risk-
+based requirements of the OECD Due Diligence Guidance. To determine 
+the use, sources and origin of these minerals in our supply chains, we 
+investigate the smelters involved. Siemens Energy is planning to 
+continue Siemens AG’s active membership in the Responsible Minerals 
+Initiative (RMI), which provides audit programs for smelters. Over 380 
+industrial companies are part of the RMI.
+In fiscal year 2020, Siemens Energy followed Siemens AG’s approach to 
+human rights due diligence in customer projects. Due diligence is 
+mandatory in the sales phase for projects that meet defined risk criteria. 
+The results of the due diligence are decisive for the project’s decision-
+making process. 
+Any violations of human rights associated with our areas of influence 
+can be reported via our grievance mechanisms, including our 
+communication channels such as our “Speak Up” reporting system and 
+ombudsperson.
+Siemens Energy Non-Financial Report 2020
+11B.5 Anti-corruption and bribery matters
+Siemens Energy works with customers from a wide range of industries 
+in the private and public sectors. The environments that we navigate as 
+a result are accordingly complex. Siemens Energy operates globally and 
+is thus confronted with complex regulatory requirements while 
+pursuing a zero-tolerance approach toward corruption, violations of the 
+principles of fair competition and other breaches of the law.
+Anti-corruption measures combined with strong compliance systems 
+protect companies as well as their employees and shareholders from 
+the risk of possible misconduct. The elimination of bribery and 
+corruption in all their forms promotes fair competition which benefits 
+innovation-driven companies like Siemens Energy and fosters economic 
+growth and social development which benefits entire countries, 
+regions and their populations.
+Integrity is the foundation for all our decisions and activities. Our 
+fundamental premise which applies worldwide and to all levels of our 
+organization is: only clean business is Siemens Energy business. 
+Siemens Energy top management supports this with a strong tone from 
+the top for Integrity and Compliance which is mirrored throughout the 
+organization.
+Siemens Energy´s compliance approach is based on the three levels of 
+action “prevent, detect, respond”, centering around management’s 
+responsibility, and comprising focus areas such as Anti-Corruption, 
+Anti-Money Laundering, Antitrust, Data Privacy, Export Control and 
+Human Rights. Gas and Power and SGRE each have in turn implemented 
+a compliance system and Business Conduct Guidelines of their own.
+The Legal and Compliance Department falls directly under the purview 
+of our CEO and reports directly to him. The Siemens Energy Chief 
+Compliance Officer has direct access to the Executive Board and 
+Supervisory Board and reports regularly on compliance matters. 
+Siemens Energy Compliance combines strong central governance with 
+the work of qualified compliance officers who ensure that the 
+compliance system is implemented worldwide. They work closely with 
+employees and managers who assume personal responsibility for 
+compliance in their respective areas.
+Targets
+Siemens Energy pursues a zero-tolerance approach that requires 
+continuous effort to maintain and develop its holistic compliance 
+system, consisting of measures to ensure that business is always carried 
+out in full accordance with the law as well as our internal principles and 
+rules. Siemens Energy continuously maintains and develops its 
+compliance system. In this way, we want to ensure that our values and 
+reputation are protected.
+Measures
+We continuously adapt and improve our compliance system to mitigate 
+challenges and risks arising from changing market conditions and 
+inherent in our business activities. Preventive measures include the 
+Siemens Energy Compliance training program, communication 
+channels such as our “Speak Up” reporting system and ombudsperson, 
+compliance risk management, and guidelines and procedures such as 
+the Siemens Energy BCG which lay the foundations for internal 
+regulations and give expression to the values, compliance-related 
+responsibilities and behavioral framework for all managers, employees and Managing Board members worldwide. Our Code of Conduct is 
+mandatory for our business partners and covers legal compliance in 
+general and our anti-corruption policies in particular, including 
+provisions against anti-competitive practices and conflicts of interest.
+Our global compliance training program consists of in person and e-
+learning courses and requires all managers and employees in positions 
+with a specific risk profile to complete compliance training. Our 
+objective is to continuously adapt our training material to the changing 
+risks our businesses face and permanently maintain awareness of 
+compliance issues.
+By the end of fiscal year 2020, the new global and web-based BCG 
+training had already been completed by 87% of Siemens Energy 
+employees in the target group (excluding SGRE). 
+At Siemens Energy, we offer all employees and external third parties 
+protected reporting channels such as the “Speak Up” Hotline and the 
+external Siemens Energy ombudsperson for reporting violations of 
+external and internal rules confidentially and anonymously as needed.
+Compliance risk management is an integral part of the company-wide 
+enterprise risk management (ERM) program enabling us to rapidly and 
+continuously identify potential risk scenarios and take appropriate 
+action. This enables the compliance organization to help the company 
+achieve its goals. In this context, the regular Compliance Risk 
+Assessment (CRA) was conducted for Gas and Power and separately for 
+SGRE in fiscal year 2020. The risks identified in the process were 
+addressed through local and central measures.
+In fiscal year 2020 we established a stand-alone compliance system 
+for Siemens Energy, including the relevant tools and processes. It is 
+built on the solid foundations provided by the Siemens compliance 
+system. To ensure that our compliance system is developed further in 
+line with the rapidly changing business and technology environment, 
+Siemens AG initiated a comprehensive project in cooperation with 
+Siemens Energy. In this context, various internal compliance processes 
+were optimized, and a stronger risk focus was adopted. We also started 
+to modernize the compliance tool landscape.
+Siemens Energy responds to all allegations of possible violations of 
+external and internal rules in accordance with the applicable formal 
+company-wide processes and takes appropriate disciplinary action in 
+the event of proven violations. Once a compliance investigation has 
+been completed and compliance violations have been identified, our 
+internal processes provide guidance to ensure that appropriate action 
+is taken in respect of the employees concerned. Consequences are 
+evaluated and resolved through disciplinary processes at central or local 
+level, and implementation is systematically monitored.
+Performance indicators
+In fiscal year 2020, Siemens Energy is not aware that it has been 
+convicted of any corruption, bribery, or antitrust violations.
+In fiscal 2020, 143 compliance cases requiring further inquiries or 
+investigations were reported. We believe that the number of cases 
+compared to 152 reported in fiscal 2019 lies within the normal range 
+of variation, considering inter alia the Coronavirus-pandemic (COVID-
+Siemens Energy Non-Financial Report 2020
+1219). The total number of disciplinary sanctions for compliance 
+violations in fiscal 2020 was 65. 
+Numbers for disciplinary sanctions in a fiscal year do not necessarily 
+correspond to cases reported during that period: Sanctions are 
+frequently not implemented in the same year in which the case was 
+reported or the investigation – that follows a due process – was 
+completed. In addition, a single case may result in multiple sanctions, 
+or none at all. 
+We believe that, once again, the evidence demonstrates that our 
+Compliance System is well-designed and being implemented 
+effectively. Based on the nature of our businesses, the environments in 
+which we work, and the wide range of different geographical regions, 
+we do not regard the number of incidents as unusual.
+Compliance indicators FY 2020 FY 2019
+Compliance cases reported1143 152
+Disciplinary sanctions265
+of which warnings 33
+of which dismissals 30
+of which other32
+1 In fiscal years 2019 and 2020, in certain countries, Siemens Energy’s Gas and Power business was carried out 
+under agency and distributorship agreements that were concluded between Siemens Energy and Siemens AG 
+subsidiaries. The number of reported compliance cases in fiscal year 2020 includes eight cases related to 
+Siemens Energy business carried out by these Siemens AG subsidiaries on Siemens Energy’s behalf (fiscal year 
+2019: 13 cases).
+2 The disciplinary sanctions reporting in FY 2019 was performed on Siemens AG level and could not be broken 
+down to Siemens Energy level.
+3 Includes loss of variable and voluntary compensation components, transfer and suspension.
+13Non-financial Declaration 2020
+Munich, November 27, 2020
+The Executive Board
+Christian Bruch Maria Ferraro Tim Holt Jochen Eickholt
+Siemens Energy Non-Financial Report 2020
+14C. Independent Auditor’s 
+Limited Assurance Report
+The assurance engagement performed by Ernst & Young GmbH 
+Wirtschaftsprüfungsgesellschaft relates exclusively to the German PDF-
+version of the group non-financial report of Siemens Energy AG. The 
+following text is a translation of the original German Inde-pendent 
+Assurance Report.
+TO SIEMENS ENERGY AG, MUNICH
+(until April 3, 2020 Kyros 52 Aktiengesellschaft)
+We have performed a limited assurance engagement on the group non-
+financial report of Siemens Energy AG according to 
+§ 315b HGB (“Handelsgesetzbuch”: German Commercial Code) 
+including the chapter A.1.1.2 „Business Model” in the combined 
+management report being incorporated by reference for the reporting 
+period from October 1, 2019 to September 30, 2020 (hereafter non-
+financial report).
+MANAGEMENT'S RESPONSIBILITY
+The legal representatives of Siemens Energy AG are responsi-ble for the 
+preparation of the non-financial report in accordance with §§ 315c in 
+conjunction with 289c to 289e HGB. 
+This responsibility includes the selection and application of appropriate 
+methods to prepare the non-financial report as well as making 
+assumptions and estimates related to individual disclosures, which are 
+reasonable in the circumstances. Fur-thermore, the legal 
+representatives are responsible for such internal controls that they have 
+considered necessary to enable the preparation of a non-financial 
+report that is free from – in-tended or unintended - material 
+misstatement. 
+AUDITOR'S DECLARATION RELATING TO INDEPENDENCE AND 
+QUALITY CONTROL
+We are independent from the Company in accordance with the 
+provisions under German commercial law and professional 
+requirements, and we have fulfilled our other professional re-
+sponsibilities in accordance with these requirements. 
+Our audit firm applies the national statutory regulations and 
+professional pronouncements for quality control, in particular the by-
+laws regulating the rights and duties of Wirtschaftsprüfer and vereidigte 
+Buchprüfer in the exercise of their profession [Berufssatzung für 
+Wirtschaftsprüfer und vereidigte Buchprüfer] as well as the IDW 
+Standard on Quality Control 1: Requirements for Quality Control in audit 
+firms [IDW Qualitätssicher-ungsstandard 1: Anforderungen an die 
+Qualitätssicherung in der Wirtschaftsprüferpraxis (IDW QS 1)].
+AUDITOR'S RESPONSIBILITY 
+Our responsibility is to express a limited assurance conclusion on the 
+non-financial report based on the assurance engage-ment we have 
+performed.We conducted our assurance engagement in accordance with the 
+International Standard on Assurance Engagements (ISAE) 3000 
+(Revised): "Assurance Engagements other than Audits or Reviews of 
+Historical Financial Information", issued by the In-ternational Auditing 
+and Assurance Standards Board (IAASB). This Standard requires that we 
+plan and perform the assurance engagement to obtain limited 
+assurance about whether the non-financial report of the Company has 
+been prepared, in all mate-rial respects, in accordance with §§ 315c in 
+conjunction with 289c to 289e HGB. In a limited assurance engagement 
+the as-surance procedures are less in extent than for a reasonable 
+assurance engagement and therefore a substantially lower level of 
+assurance is obtained. The assurance procedures selected depend on 
+the auditor's professional judgment. 
+Within the scope of our assurance engagement, which has been 
+conducted in November 2020, we performed amongst others the 
+following assurance and other procedures:
+•Inquiries of employees and inspection of documents regard-ing the 
+selection of topics for the non-financial report, the risk assessment 
+and the concepts for the topics that have been identified as material,
+•Inquiries of employees responsible for data capture and con-
+solidation as well as the preparation of the non-financial report, to 
+evaluate the reporting processes, the data capture and compilation 
+methods as well as internal controls to the extent relevant for the 
+assurance of the non-financial re-port, 
+•Identification of likely risks of material misstatement in the non-
+financial report,
+•Inspection of relevant documentation of the systems and processes 
+for compiling, aggregating and validating data in the reporting 
+period and testing such documentation on a sample basis, 
+•Analytical evaluation of disclosures in the non-financial report at 
+Group level and at the level of the segments Gas and Power and 
+Siemens Gamesa Renewable Energy,
+•Inquiries and inspection of documents on a sample basis relating to 
+the collection and reporting of selected data and disclosures,
+•Evaluation of the presentation of disclosures in the non-financial 
+report.
+ASSURANCE CONCLUSION
+Based on our assurance procedures performed and assurance evidence 
+obtained, nothing has come to our attention that caus-es us to believe 
+that the group non-financial report of Siemens Energy AG for the period 
+from October 1, 2019 to September 30, 2020 has not been prepared, 
+in all material respects, in accord-ance with §§ 315c in conjunction with 
+289c to 289e HGB.
+INTENDED USE OF THE ASSURANCE REPORT
+We issue this report on the basis of the engagement agreed with 
+Siemens Energy AG. The assurance engagement has been performed 
+for the purposes of the Company and the report is solely intended to 
+inform the Company as to the results of the assurance engagement and 
+must not be used for purposes other than those intended. The report is 
+not intended to provide third parties with support in making (financial) 
+decisions. 
+Siemens Energy Non-Financial Report 2020
+15ENGAGEMENT TERMS AND LIABILITY
+The “General Engagement Terms for Wirtschaftsprüfer and 
+Wirtschaftsprüfungsgesellschaften [German Public Auditors and Public 
+Audit Firms]” dated 1 January 2017 are applicable to this engagement 
+and also govern our relations with third parties in the context of this 
+engagement (www.de.ey.com/general-engagement-terms). In 
+addition, please refer to the liability pro-visions contained there in no. 
+9 and to the exclusion of liability towards third parties. We assume no 
+responsibility, liability or other obligations towards third parties unless 
+we have conclud-ed a written agreement to the contrary with the 
+respective third party or liability cannot effectively be precluded. 
+We make express reference to the fact that we do not update the 
+assurance report to reflect events or circumstances arising after it was 
+issued unless required to do so by law. It is the sole re-sponsibility of 
+anyone taking note of the result of our assurance engagement 
+summarized in this assurance report to decide whether and in what way 
+this result is useful or suitable for their purposes and to supplement, 
+verify or update it by means of their own review procedures. 
+Munich, November 27, 2020
+Ernst & Young GmbH
+Wirtschaftsprüfungsgesellschaft
+Spannagl Johne 
+Wirtschaftsprüfer Wirtschaftsprüferin 
+(German Public Auditor) (German Public Auditor)
+Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 Munich
+Media Relations: press@siemens-energy.com
+Investor Relations: investorrelations@siemens-energy.com
+Siemens Energy is a registered trademark licensed by 
+Siemens AG.
+© Siemens Energy, 2020

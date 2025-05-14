@@ -1,0 +1,1303 @@
+siemens-energy.com/factsGrid Stabilization
+Making the energy transition happen
+Wind turbines
+ElectrolyserBatteries and
+storage solutions
+E-mobility Solar panels
+1 Challenges in changing grids  
+Page 4
+2 Complexity in grid stabilizing  
+Page 8
+2.1 Voltage stability
+2.2 Frequency stability
+2.3 Load flow management
+3 Pathways to solutions  
+Page 12
+3.1 Our approach
+3.2 Grid consulting – from grid challenge  
+to the solution
+3.3 We’ll be there for you – around all  
+your needs
+4 Grid stabilizing technology  
+Page 18
+4.1 State-of-the-art approach
+4.2 SVC PLUS® 
+ 4.3 SVC PLUS FS® (Frequency Stabilizer)
+4.4 Synchronous Condenser
+4.5 MVDC PLUS® 
+4.6 UPFC PLUS®
+4.7 Fixed Series Capacitor
+5 Global references  
+Page 36
+5.1 SVC PLUS® – Kriftel, Germany
+5.2 SVC PLUS® – Sortland, Norway
+5.3 SynCon – Robertstown, Australia
+5.4 SynCon – Oberottmarshausen, Germany
+5.5 FSC – Castanhal, Brazil
+5.6 FSC – Hirvisuo, Finland
+1. Challenges in changing grids
+The worldwide power sector has witnessed 
+significant disruption, growth, and change in 
+recent years. Three components driving these 
+developments include decarbonization, electrifi -
+cation, and the increasing liberalization of 
+energy markets. On the generation side, inte -
+grating renewable energy sources, mainly photo -
+voltaic and wind power, alters the operation of 
+conventional power systems. One factor is the 
+intermittent nature of renewable energy 
+sources. In addition, associated technologies 
+have power electronics at the grid interface, 
+decreasing overall inertia due to a lack of 
+rotating masses directly connected to the grid. 
+This issue is exacerbated by the increasing 
+demand for electricity and the need for stronger 
+interconnections between power systems.  
+ 
+ These factors pose new challenges for grid 
+stability along three domains: voltage stability, 
+frequency stability, and load flow management.
+Voltage stability  
+The system voltage must be maintained within 
+allowable voltage ranges to ensure stable power 
+system operation and safeguard people, equip -
+ment, and consumer devices. A sufficient supply 
+of reactive power is needed to maintain voltage 
+stability and leverage the transmission capacity 
+of existing transformers and lines. Both in trans -
+mission and distribution grids, voltage stability 
+requirements increase in transmission and  
+distribution grids, compared to a corresponding 
+decrease in conventional power plants.  
+Therefore, more grid services must be used.  
+ 
+ Transforming HV-grids from conventional…
+4
+Frequency stability   
+Frequency control ensures that power fed into 
+the grid corresponds with power consumption, 
+as any deviations in the total balance can result 
+in a change in frequency. The transmission 
+system operator must quickly return the  
+required frequency to the rated value and can  
+do so with the help of grid service products.  
+ The rising fluctuation in generation capacity 
+due to renewables has led to the increased 
+demand for grid services.  
+ 
+Load flow management   
+Power system supply and demand must be  
+kept in balance. Thermal overloads in power  
+transmission lines and a growing number of  
+instances in which frequency and voltage approach critically acceptable range limits –  
+or even exceed them – may require costly  
+redispatch interventions to resolve current and 
+voltage factors. System operators must optimize 
+the utilization of transmission lines to get  
+the most from existing grid capacity while  
+maintaining maximum protection, reducing  
+the risk of power failures, and minimizing  
+redispatch costs.  
+ 
+Increasing complexity   
+To manage these interrelated factors, grid opera -
+tors are looking for flexible, scalable solutions 
+that fit within local requirements in terms of 
+energy supply areas.
+UPFC PLUS
+Siemens Energy transmission solutionSTATCOMUnified Power
+Flow Controller
+STATCOM Frequency
+StabilizerSynchronous
+CondenserHVDCOffshore Grid
+Connection
+…to decarbonized and renewable power supply
+ 5
+Trends in electric 
+energy supply
+• Shutdown of conventional fossil and  
+nuclear power plants  
+• Large-scale integration of renewables  
+• Increasing power demand in existing grids  
+• Continuous evolution of power market  
+rules and regulationsSiemens Energy | Grid Stabilization
+6
+...cause grid 
+stability risks
+• Decreases grid strength and  
+frequency stability  
+• Increases inverter-connected generation  
+• Decreases voltage stability  
+• Increases unbalanced load flows, congestion,  
+and redispatch  
+V
+ HzL4
+L3
+L1
+L2ΣP
+B A
+ 7
+Voltage stability V Frequency stability fLoad flow management P
+Dynamic voltage control
+To ensure voltage stability at any 
+time, reactive power output is  
+controlled with a fast response time.Inertia contribution
+When large rotating generators that 
+previously provided inertia are  
+replaced by non-synchronous  
+generation, inertia must come  
+from other sources.Dynamic load flow control
+Volatile renewable generation may 
+cause temporary overload of certain 
+power lines and must be avoided.
+Stationary voltage control
+To react to slow grid changes, the full 
+output range will be provided,  
+initiated by the control system or 
+manually by the operator.Fast frequency response
+If the frequency suddenly deviates 
+from its nominal value, additional 
+power is needed immediately.Stationary load flow control
+Adding power generation into the 
+grid can overload power lines, while 
+freeing capacity for others.
+Active filtering
+Modern semiconductors promote 
+flexibility and utilization of the  
+remaining capacity in the operating 
+range to actively filter existing  
+background grid harmonics. Primary frequency response
+If the fast frequency response does 
+not resolve the frequency deviation, 
+additional measures must be taken 
+with an increased amount  
+of active power.Grid coupling
+If two non-synchronized grids are 
+connected, an intermediate  
+circuit is needed.
+Short circuit contribution
+In case of a fault in the grid, short 
+circuit power is needed to avert a 
+system-wide voltage collapse and 
+enable the protection equipment  
+to detect the fault.Power oscillation
+If power oscillation is detected, the 
+control system will automatically 
+mitigate power swings.
+Grid forming capability
+Converters exhibiting voltage source 
+behavior for grid stability provide 
+instantaneous power (reserve),  
+ensuring stable operation at  
+low short circuit levels.Sub-synchronous resonance
+To protect the large power generator 
+shafts, torsional interaction should 
+be avoided; if this occurs, additional 
+measures must be taken.2. Complexity in grid stabilizing
+The challenges within frequency stability, voltage stability, and load 
+flow management are highly complex. System services available to 
+support reliable grid operation are detailed in the following table.Siemens Energy | Grid Stabilization
+8
+V
+V
+t2.1 Voltage stability
+When talking about voltage stability, 
+many aspects play a role. All consumer 
+and electrical devices work at a speci -
+fied voltage. Malfunction or damage to these 
+devices can occur due to under or overvoltage. 
+Keeping the voltage stable means keeping the 
+voltage in the allowed bandwidth for which the 
+devices in the electrical system are designed. 
+Voltage stability is also essential for dynamic 
+events in networks such as faults, where the 
+voltage may collapse for a short time and 
+recover after fault clearing. If the recovery takes 
+too long or does not fully recover, there may be 
+system brownouts or blackouts. 
+The topic of voltage stability is not new and has 
+been prevalent since we have electrical systems. 
+There were always measures to stabilize volt -
+ages, and electrical systems were optimized to 
+avoid outages and increase system availability. 
+These measures were based on the system 
+topologies we had in the past, where power  
+ 
+ 
+ generation was centralized and close to the big 
+loads. Decarbonization goals lead to a shift in 
+the way we generate power. There is a transi -
+tion from known big centralized to smaller 
+decentralized power generation, which is chal -
+lenging to manage. 
+Changing how we generate power also changes 
+the transmission systems and their physical 
+topology. Decarbonization-based changes also 
+impact voltage stability in the systems mainly 
+because the system changes. We transmit 
+power over longer distances, as renewable 
+sources are not always close to large consumers. 
+In addition, voltage stability is impacted by the 
+volatility of renewable sources. Voltage stability 
+in modern power system topologies is a consid -
+erable challenge – and dynamic reactive power 
+compensation is the solution to tackle it and 
+make decarbonization possible. VStable operation Event RestabilizationSiemens Energy | Grid Stabilization
+ 9
+Hz
+tFrequency eventf2.2 Frequency stability
+Like voltage stability, it is critical to keep 
+the frequency of a power system stable. 
+Over- or under-frequency leads to 
+malfunctions and can also cause system shut -
+downs. Conventional power plant generators 
+control the frequency in power systems, where 
+the sum of the rotating mass of generators and 
+turbines measures the strength of the system 
+frequency.  
+ 
+However, the frequency is not always constant 
+due to minor mismatches between generation 
+and consumption. These discrepancies happen 
+continuously when loads are disconnected and 
+generation needs to be reduced. The strength of 
+the system frequency, called system inertia, 
+measures the system’s sensitivity to these 
+mismatches. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today, we see a change in power generation 
+where more power is generated based on power 
+electronic converters than conventional power 
+plants with large rotating masses. The reduction 
+of rotating masses –and therefore system 
+frequency strength – leads to higher deviations 
+from the nominal frequency in generation and 
+consumption mismatches.
+Frequency stabilizing solutions are necessary  
+to maintain the frequency within acceptable 
+limits, especially during high converter based 
+generation.fStable operation Event RestabilizationSiemens Energy | Grid Stabilization
+10
+L3
+L1
+L2ΣP
+P1 B AL4
+L3
+L1
+L2ΣP
+B AL4
+L3
+L1
+L2ΣP
+B A2.3 Load flow management
+An electric power system consists of 
+interconnected transmission and distri -
+bution lines carrying energy from points 
+of generation to consumption. It is crucial to 
+perform load flow planning for all possible 
+scenarios, as grid components can only with -
+stand a certain amount of current. Transmission 
+grid operation follows the N-1 criterion in which 
+electrical components do not operate at 
+maximum thermal capacity to withstand 
+scenarios where one line is out of service, and 
+other parts must assume power flow on top of 
+their regular loading. Following this criterion 
+ensures reliable and secure grid operation,  
+especially for system faults.  
+ 
+ 
+ 
+ 
+ As the load flow in power systems is becoming 
+increasingly complex, we must account for even 
+more scenarios. Volatile generation from renew -
+able energy sources directly impacts line 
+loading, but system underutilization remains a 
+point of discussion. Due to the growth of renew -
+ables and increased energy needs, optimal utili -
+zation of all assets is imperative.PStable operation Event RestabilizationSiemens Energy | Grid Stabilization
+ 11
+As a leader in the power transmission industry, 
+Siemens Energy has developed modern, flexible, 
+high-capacity grid stabilizing solutions, including 
+Flexible AC Transmission Systems (FACTS), to 
+prevent high voltage fluctuations and power  
+ failures, optimize network asset utilization, and 
+mitigate load-induced disturbances. Our solu -
+tions efficiently and reliably regulate voltage, 
+impedance, and phase angle, providing inertia 
+and short-circuit power.  
+ 3.1 Our approach3. Pathways to solutions
+Power generation now utilizes more efficient and environmentally 
+friendly technologies. Given the changes in power consumption sites, 
+HV grids must use state-of-the-art technologies to provide essential 
+stability and reliability.
+Load flow management  
+PFrequency stability  
+ fVoltage stability  
+VFrequency
+stabilityVoltage
+stability
+Load ﬂow
+managementSiemens Energy
+Grid stability 
+solutions
+12
+Tech-
+nology
+System
+service SVC PLUS®SVC PLUS FS®SynCon MVDC PLUS®UPFC PLUS®FSC
+Dynamic 
+voltage control
+Stationary 
+voltage control
+Active  
+filtering
+Inertia  
+contribution
+Grid  
+forming
+Fast frequency  
+response
+Primary frequency 
+response
+Short circuit  
+contribution
+Dynamic load  
+flow control
+Stationary load  
+flow control
+Grid  
+coupling
+POD / SSR  
+damping
+Load flow management  
+PFrequency stability  
+ fVoltage stability  
+VGrid stabilizing solutions
+At Siemens Energy, we provide grid stabilization 
+solutions to address even the most complex 
+problems and network instability. We are also 
+developing new solutions to manage current 
+and future grid challenges while improving 
+transmission system stability and performance.  
+ 
+ 
+ With our grid stabilizing solutions, power 
+companies can better utilize their existing  
+transmission networks, substantially increase 
+the availability and reliability of their line 
+networks, and improve dynamic and transient 
+network stability while ensuring a better quality 
+of supply. The table below highlights some  
+solutions offered by Siemens Energy.Siemens Energy | Grid Stabilization
+ 13
+Strategic grid planning
+Data- and simulation-driven decision support
+Study 
+portfolioModel development
+Digital representation  
+of transmission and  
+generation assets  Solution design
+Dimensions, selection,  
+design, and verification  
+of transmission and  
+generation solutions  Grid integration
+Grid interconnection of  
+transmission and generation 
+technologies  3.2 Grid consulting – from grid 
+challenge to the solution
+Moving from the identification of grid challenges 
+to the optimal solution definition is not always 
+trivial, as many questions arise:
+•Which grid stabilizing devices are the
+best choice?
+•How large should they be, and how many
+are needed?
+•Which locations in the grid should they
+be installed??
+•When are they required, and how do they fitinto the long-term grid development plan?Applying simulation-based studies and using 
+their grid expertise and extensive product  
+knowledge, our highly experienced team of grid 
+consultants can answer these questions and guide you toward a tailor-made solution.
+These services range from initial optioneering 
+and component selection to full-scale long-term grid development masterplans, as shown in the portfolio overview below.
+Siemens Energy | Grid Stabilization
+14
+What our customers say
+„The ongoing energy transition leads to substantial new chal-
+lenges for the safe operation of our transmission grid. This 
+need is covered by the increased use of grid stabilizing solu-
+tions, such as synchronous condensers with additional 
+flywheels, and STATCOMs with multiuse capabilities. For the future we see a further need for new solutions providing instantaneous reserve and for grid forming control concepts. 
+With its technical expertise and innovative capabilities, 
+Siemens Energy is an important partner for our journey 
+towards a green future.”
+Dr. Daniel Eichhoff, Grid Projects, Senior Manager Substations, Amprion
+Amprion’s STATCOM substation in Kriftel to support the power supply for the 
+greater Frankfurt area in Germany with its almost six million inhabitants.
+ 15
+3.3 We’ll be there for you – 
+around all your needs
+From the early phases throughout the lifecycle, Siemens Energy is your 
+reliable partner and ensures no gaps in the full cycle. Our in-house  capability minimizes risk across all phases of the project.
+Consulting and feasibility studies
+Financing
+Project management
+System design andengineering
+Civil design and works
+ProcurementFactory testingTransportInstallation supervision and worksCommissioning & performance testAfter-sales services, condition spare     parts & based       maintenance
+Siemens Energy | Grid Stabilization
+16
+Siemens Energy offers a single source for all 
+necessary grid stabilizing solutions and a comprehensive range of complementary services, including system design, modeling, network analyses, civil works, project manage-ment, functional performance tests, delivery, and installation. In addition, we assist with commissioning, onsite tests, and training of operating personnel. 
+Siemens Energy analyzes and calculates the 
+power system requirements, develops  
+customized solutions for complete system  configurations and plants, and quickly imple-ments them. Siemens Energy can deliver turnkey solutions and create new solutions, enabling timely grid stability improvements in rapidly changing energy systems. We provide innova-tive, proven grid stabilization solutions, including in-house components. Siemens Energy offers services for nearly all customer require-ments, including design studies, financing support, project management, assembly, commissioning, and after-sales service.  
+We are your trusted partner for all project stages.
+ 17Arrange a consultation: Cl ick here
+4. Grid stabilizing technology
+Siemens Energy is the world leader in state-of-the-art grid stabilizing 
+solutions and pioneered modular multilevel converter technology.  Our grid stabilization portfolio features decades of success in solving the most complex customer challenges. Siemens Energy succeeds through our combined engineering expertise and innovative  capabilities. Most importantly, common hardware and software  platforms enable us to stay ahead of the technological edge.
+Our grid stabilization hardware solutions based 
+on power electronics use the uniform, highly modularized PLUS platform, delivering unmatched reliability and durability.
+The modular multilevel converter (MMC),  
+introduced by Siemens Energy over a decade 
+ago, is the reference standard for high voltage, high power voltage source converter (VSC)  
+applications.
+In Siemens Energy PLUS systems, one MMC has 
+identical converter arms, each containing several series of connected sub-modules to form the required AC voltage. Each contributes a small voltage step and is individually controlled. A discrete voltage source with a local capacitor defines its voltage step without creating ripple voltage distortion across the MMC’s other phases. This way, it can achieve the required sinusoidal AC output voltage waveforms without excessive harmonic distortion and HF noise.
+4.1 State-of-the-art approach
+A wide portfolio based on the same principles - PLUS Platform 
+Power moduleSiemens Energy | Grid Stabilization
+18
+Control SystemSVC PLUS®
+•Inertia
+•
+Voltage control
+•
+Active ﬁlterUPFC PLUS® E
+•Dynamic load ﬂow control
+•
+Voltage control
+SVC PLUS FS®
+•Intertia
+•
+Voltage control
+•
+Reactive power compensation
+•
+Active ﬁlterMVDC
+•Intertia
+•
+Voltage control
+•
+Active ﬁlter
+•
+Stationary load ﬂow
+=
+=The insulated-gate bipolar transistors (IGBTs) at 
+the core of the sub-modules are fully control-
+lable. The output currents can be varied over the entire operating range smoothly and linearly. This feature enables independent and flexible control of active and reactive power to support the connected AC grid.
+By changing the number of sub-modules and 
+their electrical interconnections, Siemens Energy’s grid stabilization solutions deliver a variety of converter configurations. Standardized electrical and mechanical designs for different converter sizes ensure maximum safety and an optimal footprint of the overall plant.
+Siemens Energy has over a decade of expertise 
+in grid integration of MMC technology. From day one, we developed and refined our solutions and will continue to do so.
+Our goal is to offer solutions based on the same field-proven hardware while providing reliable grid stabilization.
+Siemens Energy recognizes that new challenges 
+in the high-voltage grid will have to be met by system operators in the future and is constantly developing new solutions. All of our new power electronics-based solutions will incorporate the PLUS platform.
+Overview of some Siemens Energy’s grid stabilization solutions based on power electronicsMMC branchSiemens Energy | Grid Stabilization
+ 19
+Control and protection (C&P) systems are critical 
+to managing power flows and protecting grid 
+components in FACTS plants. Both are para -
+mount in light of increasingly complex grid 
+architectures and fluctuating power infeed from 
+renewable energy sources. As a result, system 
+operators must contend with three main chal -
+lenges. The first involves a quick reaction to 
+market needs and the short lead time of the C&P 
+system. The second pertains to reliable and 
+secure operations throughout the entire lifecycle 
+while safeguarding the low total cost of owner -
+ship. Lastly, the C&P system should allow for the 
+easy expansion of new solutions and services. 
+Addressing these challenges is crucial to 
+managing the ongoing energy system transfor -
+mation and leveraging future innovations.Modularity meets reliability
+With our new modular C&P platform, Siemens 
+Energy is tackling these challenges head-on. Our 
+platform approach provides a common, proven, 
+reliable basis for applications, processes, prod -
+ucts, and technologies. Our pre-integrated and 
+ready-to-use reference projects – called refer -
+ence project lines – allow us to configure 
+customer-specific solutions following your 
+performance requirements. Based on these 
+configured reference projects, customer-specific 
+delta engineering leads to significantly reduced 
+engineering and lead times.The new control and protection platform 
+Siemens Energy | Grid Stabilization
+20
+The platform philosophy is incorporated in all areas of the system:
+• Software applications for control and protection, field, and operations levels  
+• Hardware for control and protection, communications, field, and operations levels
+• An open and digitalized engineering ecosystem
+SoftwareDigital twin for offline
+testing
+Model driven system
+engineeringHardware independent
+software development
+Reusable building blocks
+(start engineering from
+standardized templates)Software applications 
+Our state-of-the-art methods and tools increase 
+software development speed, efficiency, and 
+accuracy. One such method is model-driven 
+system engineering  with MATLAB® and 
+Simulink®,1 which creates a single point of code 
+transformation, including software develop -
+ment, simulation, and offline testing.  
+Functionalities can be seamlessly integrated and 
+simulated, facilitating the identification and 
+correction of design errors from an early stage.
+The same advantage applies to the digital twin  
+– tests can be performed automatically and 
+offline without impacting the physical process.   
+ 
+The digital twin escorts the system from the 
+beginning, enhancing documentation and trace -
+ability.
+Throughout the development process, we 
+generate building blocks and functions  for 
+reuse in other projects. Engineering starts from 
+standardized templates using reference project 
+lines, significantly reducing the risk of errors and 
+allowing for project implementation in parallel. 
+We can also leverage the advantage of hard -
+ware-independent software development  
+– even with hardware changes, software appli -
+cations remain usable.
+1 MATLAB® und Simulink® are registered trademarks of Mathworks, Inc.Siemens Energy | Grid Stabilization
+ 21
+The third component of our state-of-the-art 
+approach is common processes with a high 
+degree of engineering digitalization and project 
+execution.
+Digitalization has a profound impact on the way 
+we can deliver projects. Siemens Energy offers 
+the complete package, including project 
+management and engineering. Using the latest digital management and engineering methods, 
+we provide endless flexibility in collaboration 
+and communication, ensuring a seamless and 
+successful experience for our customers and 
+partners.
+Digital engineering and execution mean working 
+with all stakeholders on a common data plat -
+form for agile project collaboration and efficient Digital engineering and execution platformEngineering environment 
+Digitalization offers unparalleled opportunities 
+for collaboration, co-creation, and stakeholder 
+involvement. With the new C&P platform, we are 
+leveraging this potential to accelerate engi -
+neering and execution – for the benefit of all. 
+The plant data digital twin  is a common data 
+backbone for agile collaboration throughout the 
+lifecycle. With the cloud-based engineering 
+portal , all stakeholders in the engineering 
+process gain full transparency and access to 
+current and accurate data, enabling them to  
+ 
+ work in parallel. The underlying common cloud 
+infrastructure  enabled by a DevOps mindset 
+and principles helps manage the build and 
+release process and promotes fast deployment 
+– a crucial aspect to react to and seize the poten -
+tial of the energy transformation. 
+However, it is only not about engineering speed 
+– equally important is operative reliability. With 
+SensOTS, a cloud-based operator training 
+simulator , staff can be trained in advance to 
+operate the C&P system, “read” data if using the 
+option for analytics, and manage condi -
+tion-based maintenance.Control-level hardware 
+The hardware concept at the control level 
+focuses on quick reaction, robustness, and 
+secure functionality and data exchange. In addi -
+tion, scalable rail-mounted PC technology  
+makes it easy to extend the system at any time 
+in computing and processing power.
+A wide range of internal standard protocols , 
+from IEC61850 to EtherCAT, allows for fast and 
+seamless communications. Short bus cycle 
+times of up to 250µs enable closed-loop control 
+tasks and deliver the performance to support 
+new features.
+ With the ever-faster digital revolution, we’ve 
+invested extensive expertise and diligence into 
+cyber security . The primary hardware will run 
+on an industrially proven open-source Unix  
+operating system, creating a small footprint 
+since every running service and configuration 
+can be justified and explained. There are no 
+dependencies on other operating systems. 
+Thanks to open-source distribution, the  
+functionality of the operating system and its 
+applications can be verified, which is essential  
+to comply with future security legislation  
+initiatives. Continuous updates and life-long 
+patch management complete the package. Siemens Energy | Grid Stabilization
+22
+0100100100101001001001
+01001001001010100100100100101001001001
+010010100100100101001001001
+01001001001
+“As a partner of SE, I expect to 
+exchange data in a seamless and 
+integrated way to improve my  
+effectivity and level of collaboration.”
+“As an SE employee, I want to 
+drive value in my daily tasks, 
+turning data into insights.”“As a regulator, I expect SE to use their 
+expertise to create data-driven insights 
+to help us shape our way toward future 
+sustainable, carbon-free energy.”“As a government, I rely on SE to help utility 
+players achieve our ambitious climate goals 
+offering engineering and D&A solutions.”
+“As a customer, I want SE to 
+help me run my business more 
+efficiently.”“As a citizen, I 
+expect SE to focus 
+their engineering  
+expertise on  
+decarbonized future 
+energy sources.”operation, enabling the reduction of execution 
+time and steps, data exchange and access in the 
+cloud, and improved efficiency. Digital engi -
+neering and execution also facilitate collabora -
+tion between different project stakeholders, 
+reduce project lead time and risk, and increase 
+data safety.
+Examples of digital engineering and execution 
+platform use include building information 
+modeling (BIM) applications for planning,  
+ 
+ 
+ 
+ design, and construction (e.g., 4D time sched -
+uling, 3D modeling, design, collaboration) and 
+modeling tools for simulation (e.g., plant noise 
+simulations).
+The following figure presents an overview of the 
+complex global digital cooperation for state-of-
+the-art digital operations. The use of digital tools 
+for engineering accelerates project delivery and 
+establishes maximum transparency for all stake -
+holders involved in the project.Siemens Energy | Grid Stabilization
+ 23
+4.2 SVC PLUS®
+Static synchronous compensator (STATCOM) technology is a dynamic 
+solution for voltage control in the power grid by injecting and  absorbing reactive power. Siemens Energy created the latest techno-logical development – modular multilevel STATCOM, or SVC PLUS
+® –  
+to offer optimal performance to our customers.
+Based on high-performance IGBT transistors
+SVC PLUS® is the leading technology in reactive 
+power compensation and is based on VSC  
+technology, using high-performance transistors 
+(IGBTs) as the primary semiconductor device. This modular multilevel system has several advantages compared to previous STATCOM configurations:
+•IGBT switching frequency is significantlydecreased, resulting in low electrical lossesand less stress on components, increasingequipment lifetimes.
+•The waveform produced as output is almostideally sinusoidal, nearly eliminating the needfor filtering due to the negligible amount ofharmonics generated by SVC PLUS
+®.
+•The number of outdoor components isdramatically reduced for a compact footprintand efficient use of space.Systematically improved under-voltage 
+performance
+The electrical characteristics of SVC PLUS® differ 
+from a classic SVC. SVC PLUS® output power is 
+proportional to the system voltage, while a 
+classic SVC’s output is proportional to the voltage squared. SVC PLUS
+® current control 
+delivers superior under-voltage performance, supporting the network longer and at lower voltages.
+In addition, the built-in IGBTs can operate during 
+a temporary overload, providing up to 25 % more power for 2 s – an absolute advantage during severe network contingencies. SVC PLUS
+® 
+delivers more output power and stability, yet also comes in a smaller form factor than a classic SVC while still achieving the same output.
+24
+The SVC PLUS® can be used for:
+•Fast voltage control under various load condi-
+tions during steady-state and dynamic events
+•Reactive power control
+•Unbalance control
+•Power factor regulation
+•Power oscillation damping
+•Improved flicker reduction in industrial
+applications
+Siemens Energy introduced SVC PLUS® nearly 10 
+years ago, and the technology has since  garnered tremendous attention and appreciation 
+across the industry.
+With more than 80 high power range installa-
+tions on all continents and many years of  
+collective experience, SVC PLUS® is a proven  
+and trusted technology.
+SVC PLUS OverviewUHP SVC PLUS up to ±400Mvar
+Open rack & 1-phase container
+SVC PLUS up to 150Mvar
+3-phase
+Container400
+350300250200150100
+50
+50   100         150       200      250     300        350      400
+Inductive [Mvar]
+2
+3
+4
+5
+6
+7SVC PLUS converter
+Control room
+Cooling
+Phase reactor ya rd
+MV switchyard
+Power HV/MV trans former 
+Connection to the  HV switchyard
+3D-Experience SVC PLUS
+3D-Experience SVC PLUS Mobile4
+61
+12
+3
+5
+7Optimal stability and quality In harmony with harmonics 
+– and best flicker reductionFastest response – efficient 
+solution
+BenefitsSiemens Energy | Grid Stabilization
+ 25For more information click here
+4.3 SVC PLUS FS® (Frequency Stabilizer)
+STATCOM solution with voltage and frequency control in one unit.
+The challenge
+While grids are undergoing fundamental 
+changes in power generation, renewable infeed, and ever-increasing demand, power quality and dynamic grid stability are at risk due to less 
+synchronous power generation. 
+As the power infeed from inverter-based 
+resources continues to replace conventional synchronous power generation, the grid frequency is becoming more sensitive due to  
+the reduced amount of rotating machines.  
+Grid operators face the challenge of providing sufficient system inertia with rotating  
+equipment to stabilize the grid. Because  
+inverter-based resources have minimal  
+inertia and cannot be used for frequency  
+stabilization, new solutions are needed.  SVC PLUS FS®: A STATCOM solution providing 
+active and reactive power
+Using a bulk number of supercapacitors, the new 
+SVC PLUS frequency stabilizer® (FS) is a cost-  
+efficient, compact solution supporting voltage 
+and frequency grid stability.
+•Grid forming converter: Voltage source
+behavior provides phase-correct instantaneousresponse to voltage magnitude or phase anglechanges
+•Energy reserves: A bulk number of super-  
+capacitors provide grid-scale active poweroutput, up from milliseconds to severalseconds
+26
+Technical data Configuration scalable
+Active power up to +/- 300 MW
+Reactive power up to +/- 300 Mvar
+Available energyActive power out-/input for 1... 5 s  
+depending on super-capacitor unit
+The SVC PLUS FS® provides the following 
+features:
+•Steady-state and dynamic voltage control
+through reactive current provision
+•Frequency control using active current
+provision at frequency deviation•Virtual synchronous machine with naturalinertial response through active power
+injection due to a phase-angle step offrequency gradient
+•Stabilization of weak grids through voltagesource behaviorBlackout prevention
+Dynamic voltage and 
+frequency support combined in one unit 
+for optimal power quality.Grid forming
+Inherent response 
+time with high active power output over several seconds.Cost-effective solution
+Low lifetime expendi-
+tures through compact, space-saving installation with high power density, low losses, and easy maintenance.High flexibility
+The highly adaptable 
+solution is suitable for various applications through the flexible adjustment of control parameters.
+123
+4568
+71
+2
+3
+4
+5
+6
+87Supercapacitors
+SVC PLUS conve rter Control 
+room
+Cooling
+Phase reactor ya rd
+MV switchyard
+Power HV/MV trans former
+Connection to the HV 
+switchyard
+3D Experience SVC PLUS FSBenefitsSiemens Energy | Grid Stabilization
+ 27For more information click here
+4.4 Synchronous Condenser
+With an increasing share of renewable power generation and the shut-
+down of large conventional and nuclear power plants for environ- mental, economic, social, and political reasons, most power grids are experiencing a decreasing level of inertia and short-circuit power. 
+Inertia and short circuit power are integral 
+factors for a capable system. Inertia reduces oscillation on grid frequency and prevents system blackouts, while short circuit power ensures reliable system protection.  
+Our synchronous condenser solution uses a generator to supply the necessary inertia with its rotating mass while also providing or absorbing reactive power. The generator is connected to the transmission network by a transformer and is started by an electric motor or static frequency converter. Once the operating speed is achieved, the generator is synchronized with the network,  
+behaving like a synchronous motor with no load  
+and providing reactive power, short-circuit power, and inertia to the transmission network.  In addition to that, grid operators face the following challenges: 
+•Mostly non- synchronous, connected viapower electronic converters
+•Displace existing generation
+•Located in remote part of the grid
+•Multiple plants are close to each other
+•Growing HVDC connections
+•Growth of renewable generation
+28
+Technical data
+Reactive power rangeUp to + 500/ -260 Mvar 
+(@Generator terminal)
+Terminal voltage Up to 20 kV
+Short circuit power range Up to 2000 Mvar
+Inertia Up to 4000 MW
+Maximum inertia with additional masses 
+provided by flywheel solution
+To provide maximum inertia, Siemens Energy 
+has extended the synchronous condenser solu-
+tion with additional rotating mass from a  
+flywheel. This extension is a highly effective 
+method to maintain the required level of inertia 
+and rate of change of frequency (RoCoF) of the 
+system.  
+Rotating mass provides an inherent synchronous inertial response, counteracting grid frequency 
+fluctuations with active power injection or 
+absorption during sudden load unbalance events.Siemens Energy’s flywheels operate in a partial vacuum to minimize air friction losses and reduce the cooling efforts to maintain required  
+temperature levels in all operational and  
+emergency modes. This design enables a safe 
+emergency rundown in case of total power loss 
+(grid blackout).
+The flywheel is designed for plug-and-play 
+installation delivered to the site with the rotor installed, allowing for a minimal footprint and 
+low supervision and maintenance effort.Contribution of  
+short-circuit powerVoltage support Short-term aoverload 
+capabilityInertia to the  
+transmission 
+system
+Benefits
+1
+2
+3
+4Generator hall  
+Synchronous gene rator 
+Generator circui t breaker  
+Auxiliary transf ormer12
+34Siemens Energy | Grid Stabilization
+ 29For more information click here
+3D Experience Synch ronous Condenser
+4.5 MVDC PLUS® 
+Regional HV and MV sub-transmission networks and MV distribution 
+grids are pivotal in controlling the omnidirectional power flows  characterizing current and future energy ecosystems. MVDC PLUS
+® 
+manages the grid of the future.
+Reinforce MV transmission all the way
+Transmission distances expand in increasingly 
+liberalized markets. Growing infeed from  
+distributed power generation units causes power quality and grid stability issues. Grid infra-  
+structure expansion, upgrades, and reconnec-
+tions are needed to meet the volatile demand  
+for flexible electricity supply. Moreover, DSOs 
+require a higher degree of transmission autonomy to fulfill today’s wide-ranging tasks. 
+Siemens Energy’s MVDC PLUS
+® is an efficient, 
+robust, reliable, and compact solution that 
+addresses these challenges by increasing trans-mission capabilities, strengthening the grid infrastructure, minimizing losses, and providing reactive power compensation and load flow control.Proven high-quality technology 
+MVDC PLUS
+® is based on Siemens Energy’s 
+renowned HVDC PLUS® technology. The symmet-
+rical monopole layout represents the HVDC-to-
+pology slimmed down to its essential function-ality. At the core are rugged and powerful multilevel VSCs that produce an almost ideal sinusoidal waveform to deliver consistent power quality. The converter stations allow for bidirec-tional power flow and can operate as STATCOMs.
+Type DNDC24 DNDC30 DNDC48
+kVdc +/- 24 +/- 30 +/- 50
+kAdc 1.5 1.5 1.5
+MW 70 90 149
+Mvar +/- 32 +/- 40 +/- 66
+Km 50 … 200 70 … 300 100 … 400
+30
+Wide-ranging transmission capabilities 
+MVDC PLUS® combines the best of AC and DC 
+transmission: 
+•Simple design, robustness, reliability, and low
+costs of AC technology for seamless integra-tion in existing transmission networks
+•Long-distance transmission capabilities, hightransmission capacity, active power flowcontrol, reactive power compensation, and
+STATCOM properties of HVDC PLUS
+® technologyAddress all challenges in MV transmission 
+simultaneously
+The increasingly complex energy landscape 
+poses several new challenges to regional trans-mission and distribution grids. MVDC PLUS
+® is 
+the innovative, universal solution that handles all issues smoothly.
+Managing the future grid: How to improve power transfer in the future grid?Blackout prevention
+Supply remote locations  
+Stabilize weak grids 
+through coupling  
+Flexible, programmable 
+solutionGrid utilization
+Increase power infeed  
+Power exchange at MV- /  
+Sub-transmission levelCost effectiveLower costs at long 
+distances  
+No reactive power comp. needed  
+Lower costs than fuel / 
+power plantsLower environment 
+impact
+No fuel & CO
+2 
+emission  
+Space saving
+Power transfer changes
+Which challenges do we face?
+Reduce footprint
+What’s the best way to make 
+network upgrades with little visual impact?
+Underlying technology
+How does it work?Bridge the distance
+How should we connect Islands, platforms, and remote areas?
+Obtain transmission autonomy in power ranges up to 150 MW
+How will we fulfil the enhanced tasks as a DSO?Increase power infeed
+How can we enhance existing infrastructure?Connecting weak or unstable grids
+How will we integrate and stabilize grids?BenefitsSiemens Energy | Grid Stabilization
+ 31For more information click here
+4.6 UPFC PLUS®  
+Enhances AC-grid through dynamic load flow control and lets you get 
+the most from your existing grid capacity while maintaining maximum protection, reducing the risk of power failure, and minimizing  redispatch costs.
+Fast, efficient, future-proof AC grid 
+stabilization 
+As a global leader in power transmission tech-
+nology and a long-standing, trusted partner of public utilities and grid operators, Siemens Energy has always been at the forefront of tech-nical development. We have a long history of trendsetting in international power transmission projects that consistently demonstrate the reli-ability and quality of our products, solutions, and services. Energy ecosystems are in a state of profound change, yet reliable electricity is a fundamental societal requirement. Underdevel-oped or weak grids, mature and aging infra-  
+structure, and liberalized markets with a growing share of alternative energy sources lead to 
+associated business model disruption.  
+Modern challenges for a legacy power grid
+Increasingly decentralized energy systems and 
+associated uncontrolled power flows pose new challenges for existing grid infrastructure. Thermal overloads in the lines and a growing number of cases where frequency and voltage come critically close to acceptable range limits – or even exceed them – threaten grid stabilityand the transmission infrastructure, oftenrequiring costly redispatch intervention toaddress current and voltage factors.
+Phase reactor yard AC grid connectionParallel transformer
+Converter hallCooling
+Series transformer
+32
+UPFC PLUS® – the missing piece
+To manage the transmission system and provide 
+stability and resilience, operators must better utilize existing assets. They can achieve this by employing a dynamic load flow management solution such as UPFC PLUS
+®, which has signifi-
+cantly faster reaction times and can manage both series and parallel compensation to keep lines within the N-1 criterion and the electricity flowing.
+The unified power flow controller (UPFC) can 
+balance load flow in the AC grid, rapidly bypass 
+overloaded line sections, provide reactive power and dynamic voltage control, and utilize assets to physical limits without the need for safety margins.The UPFC consists of two voltage sources: one in parallel to control the voltage and the other in a series connected to the AC line. This combina-tion provides reactive power compensation, voltage control, and active power load flow control in one unit.
+Compared to traditional power flow controllers, 
+UPFC PLUS
+® controls power flow in milliseconds, 
+stabilizing the AC grid even when critical situa-tions suddenly develop (grid code N-1). UPFC PLUS
+® helps you get the most from your existing 
+grid capacity while maintaining maximum protection, reducing power failure risk, and minimizing redispatch costs.Dynamic  
+With response time of mili-seconds.Functional  
+Load flow control and  reactive power compensation 
+in one  
+solution.Flexible
+All system 
+voltages can be addressed up to 500 kVPowerful
+Better  
+utilization  
+of existing  
+infrastructure.Reasonable 
+investment
+Lower 
+investment 
+compared 
+to other 
+solutions
+Benefits
+UPFC
+Grid code N- 1Siemens Energy | Grid Stabilization
+ 33For more information click here
+4.7 Fixed Series Capacitor 
+The ongoing energy system transformation requires effective means to 
+address challenges in reliable power transmission. Instead of building new lines, our FACTS technology can increase transmission capacity. Series compensation technology provides higher transmission  capacities for existing long-distance AC transmission lines and  increased grid stability – without the costs and time requirements  of building new lines.
+How to increase transmission system 
+capacity and stability
+The increasing energy demand can only be met 
+when grids provide sufficient transmission capacity. Building new lines is not only expen-sive, but also complex due to changing regula-tions, public acceptance, and environmental concerns. Fixed series capacitor (FSC) tech-nology provides an alternative solution by increasing the transmission capacity of existing lines.  Proven fixed series capacitor technology for cost-effective capacity expansion
+Power transfer with long overhead transmission lines is limited by the impedance that can lead to voltage drops. For decades, fixed series compen-sation has been the proven solution to maintain a minimum voltage profile and maximum utiliza-tion of transmission lines. This technology works by connecting a capacitor bank in series with the transmission line to partially compensate for inductive impedance while increasing the 
+34
+voltage at the point of connection. The capaci-
+tors are protected by metal oxide varistors (MOVs) and – in case of a severe fault – by a breaker which bypasses the FSC. For instant protection, a triggered spark gap bypasses  capacitors and MOVs within less than 1 ms. Gapless solutions are also possible, provided that local requirements match. Due to this complexity, Siemens Energy offers individually designed solutions with FSCs.Increased maximum 
+capacity Increased grid stability  Economical solution
+Siemens Energy’s advanced power delivery 
+solution translates into many benefits: 
+•Increases power transfer capability
+•Reduces line voltage drops
+•Limits load-dependent voltage drops
+•Influences load flow in parallel transmission
+lines•Reduces transmission angle, increasingstability
+•Reduces transmission systems footprint
+•Cost-effective
+•Reliable and robust design even in seismicareas1
+2 3
+4 51
+2
+3
+4
+5Transmission line
+Capacitor bank
+Metal oxide varistor
+Spark gap
+Damping circuitBenefitsSiemens Energy | Grid Stabilization
+ 35For more information click here
+3D Experience FSC
+5. Global
+References
+36
+ 37
+Reliable energy transmission by stabilizing 
+the grid node in Rhine-Main
+Commissioned by grid operator Amprion, the 
+transmission systems by Siemens Energy support 
+the power supply for the industrial city of Frank -
+furt in the Rhine-Main area. The reactive power 
+compensation systems have been successfully 
+running since 2018 for nearly 6 million inhabi -
+tants. Additionally, this power grid node supplies 
+wind power from northern Germany to the 
+industrial south.
+Due to the energy transition in Germany, renew -
+able and distributed energy sources increase 
+power fluctuations. Amprion is responding by 
+installing an SVC PLUS® system to stabilize grid  
+ voltage during long-distance large-scale power 
+transmission. Combined with a mechanically 
+switched capacitor with damping network 
+(MSCDN), these systems will help prevent gaps 
+in supply due to large power plant shutdowns.
+The SVC PLUS® system does not generate power 
+but instead modulates and manages electricity 
+that flows from sources hundreds of miles away. 
+It can dynamically, rapidly, and flexibly increase 
+or decrease grid voltage demand and effectively 
+transmit electricity. At the core of SVC PLUS® is 
+multilevel converter technology. Compared to 
+other self-commutated converter topologies, the 
+required space is reduced, and the system is 
+ideal for flicker compensation, integration of 
+wind power plants, and railway electrification.
+Technical data
+Customer Amprion GmbH
+Project name Kriftel
+Location Germany
+Scope 1x SVC PLUS®, 400 kV, ±300 Mvar
+Special featuresVoltage support
+Power transformer with DC compensation system
+In service date 2019
+5.1 SVC PLUS® – Kriftel, Germany
+38
+Dealing with the harsh environment to  
+stabilize transmission in Norway
+To improve the Norwegian power system and 
+provide a reliable power supply, Statnett 
+installed the SVC PLUS® by Siemens Energy.
+The remoteness of the Lofoten Islands caused 
+voltage instabilities on the existing HV line. 
+Therefore, a fast compensation device was 
+required close to the town of Sortland. Siemens 
+Energy was awarded the SVC PLUS® contract 
+since this solution featured several benefits for  
+this case. Reducing local construction and  
+ installation activities to a minimum and finishing 
+the work before the early start of winter were 
+the driving forces behind prefabricating as many 
+system parts as possible. Also, the solution 
+needed to deal with the harsh environment.
+Accordingly, all electrical equipment was placed 
+inside the SVC PLUS® containers, including the 
+coupling reactors interconnected by cables. No 
+active air-insulated parts were installed in the 
+yard, which provided optimal protection, 
+including vermin attacks. This solution also  
+eliminated the need for an expensive and 
+resource-consuming building.
+Technical data
+Customer Statnett
+Project name Sortland
+Location Norway
+Scope 1x SVC PLUS®, 132 kV, ±50 Mvar
+Special featuresIncrease of power line transfer capabiliy 
+Voltage support 
+Containerized phase reactors
+In service date 2015
+5.2 SVC PLUS® – Sortland, Norway
+ 39
+The right momentum for grid stability  
+South Australian grid operator ElectraNet must 
+deal with over 50 % renewable energy in its grid 
+– a formidable challenge for grid stability. The 
+lack of inertia by heavy power turbines can 
+instantaneously bridge sudden frequency drops. 
+To avert the risk of blackouts, ElectraNet 
+equipped its Robertstown substation with two 
+generators with high-tech flywheels.
+Synchronous condensers have long stabilized  
+AC grids. Although they do not generate active 
+current, they help balance reactive current, 
+representing a characteristic of AC grids.  
+Due to their large rotating masses, synchronous  
+ condensers contribute a reasonable amount of 
+inertia, but many grids need more. The flywheels 
+also multiply the inertia and restore lost inertia 
+in the Norwegian grid.
+Although flywheels mean that synchronous 
+condensers need to draw more current from the 
+grid to remain in rotation, Siemens Energy devel -
+opers have ensured that power losses for oper -
+ating flywheels are as low as possible. The 
+flywheels used in Robertstown rotate in a  
+negative pressure close to a perfect vacuum. 
+This innovation reduces frictional heat and 
+energy losses – both would occur even if a 
+surface as smooth as a mirror were turning  
+in the air – by 90 %.
+Technical data
+Customer ElectraNet Ltd.
+Project name Robertstown Substation
+Location Australia, South Australia
+Scope 2 Turnkey Synchronous Condensers incl. Flywheel at 275 kV
+Special featuresShort circuit power and inertia for system strength
+Flywheel connected to generator
+Condition based monitoring
+In service date 20215.3 SynCon – Robertstown, Australia
+40
+Stabilizing the power grid with reliable 
+rotating phase shifters at Amprion
+A central energy hub, the Oberottmarshausen 
+substation distributes electricity to the south of 
+Augsburg. The Dortmund transmission system 
+operator, Amprion, commissioned a synchronous 
+condenser by Siemens Energy for regional 
+voltage maintenance in the power grid. As 
+former large power generators are increasingly 
+taken off the grid, Amprion is building reactive 
+power compensation facilities such as the 
+Rotating Phase Shifter in Oberottmarshausen  
+as primary nodes in the power grid.
+Siemens Energy (formerly Siemens AG) was 
+awarded the construction contract for the  rotating phase shifter and ancillary equipment  
+at this substation. The shift in the power grid 
+toward decentralized generators predominantly 
+focuses on wind and solar plants. These changes 
+present increasing challenges for long-term grid 
+stability.
+The rotating phase shifter can flexibly raise or 
+lower grid voltage, allowing for precise regula -
+tion of future voltage in the transmission grid 
+and the subordinate distribution grids. The valu -
+able contribution of large thermal power plants 
+to ongoing grid stabilization will increasingly 
+switch to new technologies such as the rotating 
+phase shifter from Siemens Energy.
+Technical data
+Customer Amprion GmbH
+Project name Oberottmarshausen
+Location Germany
+Scope 1 x SynCon, -200/+300 Mvar@400 kV
+Special featuresProvides short circuit power
+Condition based monitoring
+Implementation of SGen5-2000P generator 
+In service date 20185.4 SynCon – Oberottmarshausen, 
+Germany
+ 41
+Optimizing the transmission line in the 
+Brazilian grid  
+With a dynamic increase in power generation in 
+the north of Brazil and the need for increased 
+transmission capacity, Siemens Energy was 
+awarded the FSC contract in Castanhal.
+The installation of this equipment on the trans -
+mission line presented several benefits to the 
+system, customer TPE, and the citizens. 
+Installing the FSC reduced the used space in the 
+substation. Additionally, the project lead time 
+was optimized compared to duplicating the  
+ 
+ 
+ existing transmission line. Lastly, the environ -
+mental impact was decreased.
+The FSC banks consist of capacitors and their 
+protection devices are installed on the same 
+potential of the transmission line voltage. There -
+fore, they must be isolated from the ground. For 
+this, the equipment is mounted on a metal plat -
+form containing iron, steel, and aluminum struc -
+tures, supported by insulators dimensioned for 
+the voltage level of the transmission line. 
+Another protection device for the FSC bank is the 
+bypass circuit breaker – the only high-voltage 
+equipment not installed on the platform.
+Technical data
+Customer TPE
+Project name Castanhal
+Location Brazil
+Scope 1x FSC, 230 kV, 151 Mvar
+Special features 70 % compensation degree
+In service date 20125.5 FSC – Castanhal, Brazil
+42
+Flexibility in the grid by using fixed series 
+compensation
+A significant amount of Finland’s power is gener -
+ated in the north by hydropower plants and wind 
+power. The Finish grid is connected to Sweden 
+and Norway by AC interconnectors in the north. 
+The main challenge of Finland’s grid operator, 
+Fingrid, is to transport a large amount of energy 
+from the north to the south, where most of the 
+power is consumed.  
+ 
+ 
+ 
+ 
+ 
+ To tackle this challenge, Fingrid upgraded their 
+Rannikkolinja line (coastal line) from Turku to 
+Oulu from 220 kV to 400 kV. Since studies show 
+that system limits are defined by voltage stability 
+and not thermal overload, fixed series compen -
+sation is the optimal solution. This technology 
+applies capacitive reactive power and compen -
+sates for the inductive portion of transmission 
+losses. The alternative would be a newly built 
+line, but the investment cost, environmental 
+impact, project complexity, and feasibility are all 
+considerably lower in fixed series compensation. 
+Technical data
+Customer Fingrid Oyi
+Project name Hirvisuo
+Location Finland
+Scope 2 Turnkey FSC, 400 kV, 160 Mvar, and 232 Mvar
+Special features  Tailored to ambitioned climate conditions
+In service date 20165.6 FSC – Hirvisuo, Finland
+ 43
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Transmission  
+Freyeslebenstraße 1  
+91058 Erlangen       
+Germany
+For the U.S. published by      
+Siemens Energy, Inc       
+Transmission       
+4601 Six Forks Road       
+Raleigh, NC 27609       
+USA
+For more information, please visit our website:    
+siemens-energy.com/facts      
+or contact us: factsinfo.energy@siemens-energy.com
+© Siemens Energy, 2022                 
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which may not always specifically reflect those described, or which may undergo modification in the course of further development of the products. The requested performance features are binding only when they are expressly agreed upon in the concluded contract. All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could violate the rights of the owners.

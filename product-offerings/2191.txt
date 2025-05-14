@@ -1,0 +1,49 @@
+  Edition 11/2015   
+   Manufacturer’s or Supplier’s Certification for Capacitors 
+- Electric Double Layer (EDLC) or Asymmetric - 
+with an energy storage capacity greater than 0.3 Wh   
+also in a module and/or installed in equipment (see UN 3499 or UN 3508)1 
+according to the dangerous goods regulations of the different transport modes2  
+ 
+Capacitor product name: 
+ 
+The capacitor is  
+    an EDLC (not asymmetric,  see UN 3499)    an asymmetric capacitor (see UN 3508) 
+ 
+Energy Storage capacity of the single capacitor:           __________________ Wh 
+   The capacitor contains no  electrolyte  to be classified as dangerous goods. 
+ The capacitor contains an electrolyte  to be classified as dangerous good and is  
+ - designed to withstand a 95 kPa pressure differential 
+ - capable of withstanding a 1.2 m drop test unpackaged on an unyielding (rigid, non-resilient, flat and  
+   horizontal) surface without loss of contents in the case of  
+             a) an EDLC with an energy storage capacity of 10 Wh or less or 
+  b) an asymmetric capacitor with an energy storage capacity of 20 Wh or less. 
+   Each capacitor is  
+ - marked with its energy storage capacity in Wh 
+ - designed and constructed to safely relieve pressure that may build up in use, through a vent or a weak  
+   point in the capacitor casing. Any liquid which is released upon venting  will be contained by  
+    the packaging  
+    the equipment in which the capacitor is installed.  
+ 
+ Capacitors as described are contained in a module (module name):    __________________________ 
+For the module:    Additional dangerous goods are contained in the module as given per attachment.   
+   No additional dangerous goods component is contained in the module. 
+  The module/s as given above is/are installed in the following equipment: 
+ 
+         _____________________________ (name of the equipment)   
+ 
+For equipment:      Additional dangerous goods are contained in the equipment as given per attachment  
+   No additional dangerous goods component is contained in the equipment. 
+ 
+Name and address of manufacturer or supplier: 
+ 
+ 
+Place:         Date:  
+Responsible Person:  
+ 
+Signature: 
+ 
+ 
+                                                1 Please tick and fill as applicable. If additional dangerous goods are contained in a module, e.g. gas cylinders as part of a fire  
+   extinguishing system, or as applicable in the equipment with installed capacitors please declare the details in an attachment  
+   as given below.  2 For example ADR, RID, IMDG Code, ICAO-TI/IATA-DGR, 49 CFR 

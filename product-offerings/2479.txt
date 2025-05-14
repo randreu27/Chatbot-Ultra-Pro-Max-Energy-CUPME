@@ -1,0 +1,714 @@
+Jean-Francois Wirrmann > SIEMENS Energy
+Abstract
+Our corporate public IT domains (like siemens.com) are constantly under cyber-attacks since they are connected to 
+the public internet network. In a 2015 survey of 314 organizations operating Industrial Control Systems (ICS) around 
+the world, 34 percent of respondents indicated that their systems were breached more than twice in the last 12 
+months. 44% of organizations were unable to identify the source of the attack.
+Due to low cost Information and Communication Technologies (ICT) and rapid Return Of Investment (ROI), the dig -
+italization use cases implementations in the energy sector will on one side increase, but on the other augment the 
+cyber-attack surface, and consequently the potential risk level, due to the introduction of new Industrial Internet of 
+Things (IIOT) components and edge/cloud AI/ML/5G technologies.
+Oil and Gas midstream transmission pipelines will be no exception: they are critical infrastructure and rely upon their 
+core Safety Instrumented Systems (SIS) for ultimate business continuity and safety.
+Targeting the Operation Technology (OT) environment of energy companies with malware (like Stuxnet Iran, Power 
+Grid Ukraine, Triton Saudi Arabia) represents the bleeding edge of nation-state hacking activities. To inflict even 
+more destructive damages on opponent’s critical industry some advanced hacker organizations aim to disable safety 
+functions on SIS systems, causing potential harm to people’s health, the environment as well as on valuable assets.
+This paper presents Siemens view on key cybersecurity defensive mechanisms based on the pipeline control & com -
+munications systems defence-in-depth approach, focusing on SIS protection measures, sequence of event (SOE) 
+clock synchronization, multi-factor authentication, early-warning cyber intrusion detection and ransomware recovery. 
+They all contribute to reliable pipeline operation.
+This is a shortened version of the paper. To read the full paper please visit the ptc Paper DatabaseKey cyber-security controls for reliable pipeline operation
+Jean-Francois Wirrmann > SIEMENS EnergyKey cyber-security controls for reliable pipeline operation
+1. INTRODUCTION
+The energy industry has become the second most prone 
+to cyber-attacks with nearly three-quarters of U.S. oil & gas 
+companies experiencing at least one cyber incident.
+ A cyber-attack against the ICS (Industrial Control System) 
+of oil and gas pipelines can result in severe consequences 
+to human and environmental safety in the form of ruptures, 
+explosions, fires, releases, and spills. In addition, disruption 
+of service and deliverability can be devastating for key 
+infrastructure end users such as power plants, airports or 
+national defence.
+It is not a matter of if it will fail, but when it will fail. It is 
+just a matter of time when some pipeline OT (Operational 
+Technology) area/equipment will be compromised.
+There is a consensus that 100% OT/ICS security cannot 
+be provided, but the security level shall be set such as the 
+remaining risk to be at an acceptable level determined by 
+each OT asset owner.
+2. MAJOR PUBLIC ICS INCIDENTS
+ICS systems in critical infrastructure sector like pipelines 
+can be a target for attackers, mainly organised as na -
+tion-state sponsored groups qualified as APT (Advanced 
+persistent Threat). Here is an overview of the yet “publicly 
+known” ICS cybersecurity related incidents. For more in -
+formation refer to [1][2][3][4][5][6][7][8][9][10][11] 
+3. SERVICES AND APPLICA -
+TIONS ALONG A PIPELINE
+IT security has been devoted for decades to the protection 
+of information focusing typically on confidentiality first, then protecting integrity and lastly availability (called CIA 
+triad). OT is founded on the reliability and safety of people 
+and environment, which can be due to loss or reduction of 
+OT Availability or OT Integrity. Selecting the proper type of 
+security protection resources depends on the asset OT or 
+IT business value, that could harm its Availability, Integ -
+rity or Confidentiality. To operate a terrestrial or subsea 
+pipeline many control/operational systems are required. 
+They are distributed in two information systems domains, 
+the Corporate Information System (CIS) and the Industrial 
+Information System (IIS). CIS belongs to the generic IT 
+domain and IIS to the generic OT domain.
+Figure 1 depicts the two domains with their typical services. 
+The IIS domain shows the control & communications ap -
+plications along a pipeline and how they could be grouped 
+depending on their function and the pipeline operation 
+entity who will use it. 
+Each IIS group gets mapped to a security risk level / profile 
+SPi (i=1..3) and if necessary be noted with a redundancy 
+requirement (R):
+• SP3 :  Safety Critical Elements - SIS and Safety Critical 
+Element with Programmable Electronic (SCE-PE) shall 
+be classified SP3. (Highest Risk level)
+• SP2 : Control Systems - All other systems shall be 
+classified SP2. SP2 generally encompasses all SII sys -
+tems essential to the production (e.g. PCS, Third party 
+process Packages) (Medium Risk level)
+• SP1 :   Monitoring Systems - Monitoring systems which 
+are not classified as SCE-PE, which are independent 
+and have no communications with other SII systems 
+with different security profile (although may have hard -
+wired interfaces). Lower Risk Level
+Table 1: Major Public ICS Incidents
+RESEARCH / DEVELOPMENT / TECHNOLOGYPIPELINE TECHNOLOGY JOURNAL  19
+
+4. OBJECTIVES AND DIFFI -
+CUL TIES OF AN ICS ATTACK
+ICS attacks methodological steps have been described by 
+Michael J. Assante and Robert M. Lee from the SANS Insti -
+tute in their paper “The Industrial Control System Cyber Kill 
+Chain” [12]. The authors state: “Although there are various 
+ways to attack an ICS environment, the most common 
+methods to achieve functional impact fall into three cate -
+gories: loss, denial and manipulation. They include a loss of 
+view, denial of view, manipulation of view, denial of control, 
+loss of control, manipulation of control, activation of safety, 
+denial of safety, manipulation of safety and manipulation 
+of sensors and instruments”.
+In ICS the manipulation of sensors or the process could 
+lead to the failure of safety systems designed of protect 
+human life, lead to people injury and create a denial-of-ser -
+vice / unavailability one or more pipeline stations. Usu -
+ally all stations of a pipeline are equipped with the same 
+Instruments/SIS/PCS/SCADA equipment running identical 
+software versions. Even if critical pipeline control functions are duplicated for avoiding hardware single failure the ICS 
+attacker could apply his exploit to both instances without 
+additional effort.
+5. POTENTIAL ATTACK VEC -
+TORS FOR INDUSTRIAL FACILITIES
+There are only a handful of vectors/pathways that can be 
+used to launch a cyber-attack. The obvious ones are wired 
+or wireless communication links. These can be high-band -
+width network (LAN or WAN) connections or simple point-
+to-point ‘serial’ links with another system/device. These 
+can also be temporary links such as using a dial-in/out 
+modem and phone line to temporary links such as using a 
+dial-in/out modem and phone line to connect to another 
+system/device (or the Internet itself.). Sometimes you have 
+pathways that you don’t realize: a cell phone with a “hot 
+spot” provides a path to the Internet for a laptop equipped 
+with Wi-Fi capabilities. Wireless connectivity comes in 
+many forms today: laptop PCs with integral Wi-Fi and Blue -
+tooth adapters. USB adapters that add Bluetooth or Wi-Fi 
+capabilities to any computer. Cell phones that support 
+Figure 1: Oil & Gas pipeline applications overview
+RESEARCH / DEVELOPMENT / TECHNOLOGY20 PIPELINE TECHNOLOGY JOURNAL
+
+‘tethering’.  A rogue AP attached to an internal network. 
+Cyber-attacks can be launched locally if the attacker has 
+physical access to the computer or system. Cyber-attacks 
+can also be initiated using infected computer-readable 
+media or by connecting an infected device to a computer/
+system. Malware has been spread through network-con -
+nected shared peripherals such as a network printer or 
+copy centre.
+An obvious attack path for a system is any communication 
+interface (wired and/or wireless) that connects that system 
+to other systems or devices. But the path too often over -
+looked, or underestimated, is the oldest one: Sneakernet. 
+That is the transfer of electronic information by physically 
+moving media such as magnetic tape, floppy disks, optical 
+discs, USB flash drives or external hard drives between 
+computers, rather than transmitting it over a computer 
+network
+An attack vector that has come to the attention of cyber 
+security professionals in the past few years is what is 
+collectively known as the “supply chain” which is a general 
+term for malicious activities in the design, construction 
+or on-going support of your systems. If an attacker is 
+completely rebuffed by your physical and cyber- security 
+measures, and willing to invest in a longer-term attack 
+strategy, then your vendors could be used to attack your 
+critical systems.
+Typical attack vectors along a pipeline linear multi-site 
+network topology could be: 
+• inter-site fibre optic or radio tap-in, 
+• physical access to unmanned facilities like a Block 
+Valve station:
+• Example 1 :  access physically a Block Valve Sta -
+tion which can be monitored by CCTV IP cameras, 
+insert in the middle, and then pivot to the SCADA 
+domain
+• Example 2 : penetrate inside the automation room 
+of the block valve station, connect to network 
+ports to start reconnaissance.
+6. UNDERSTANDING THE ADVER -
+SARY´S ICS CYBER-ATTACK CAMPAIGN
+The kill chain is a military concept to model the structure of 
+an attack: identification of the target, deployment of forces 
+towards the target, confirmation of the order of attack and, 
+finally, destruction of the target. Lockheed Martin has tran -
+scribed this concept to information security called Cyber 
+Kill Chain 7 (CKC7). It includes seven steps: Reconnais -
+sance, Weaponization, Delivery, Exploitation, Installation, 
+Command & Control and Actions on Objective [12].
+At the end of year 2015, the SANS Institute describes the 
+CKC7 model as not directly applicable to ICS cyber-attacks but is it useful as a foundation to understand the process. 
+The SANS authors recommend a two-stage model. The 
+first stage 1 consists in cyber espionage but the actual 
+attack on an ICS is accomplished in stage 2. The challenge 
+for the cyber adversary intending to attack an ICS with 
+significant effect, is that they must become well versed in 
+the process being automated and the engineering design 
+of the ICS and safety system. Refer to [12] for details on the 
+method.
+The challenge for the cyber adversary intending to attack 
+an ICS with significant effect, is that they must become 
+well versed in the process being automated and the 
+engineering design of the ICS and safety system. This is 
+required to generate a predictable and controllable effect 
+on the target industrial process. They also need to become 
+familiar with the specific hardware and software technolo -
+gies being used. All those additional steps require for the 
+adversary more time and effort, offering an opportunity for 
+the defenders.
+This assumption would break down if the layered defence 
+in depth protection for IT and OT domains would be vio -
+lated, for example systems where the ICS has some form 
+of remote access or internet connectivity independent of 
+the organization’s IT infrastructure or any rogue wireless 
+device connected to ICS wireless networks. These are 
+historically not generally as well protected as those that 
+go through various other protective mechanisms when 
+traversing via the IT network and internal firewalls. As an 
+example, backup connections to remote SCADA sites have 
+been known to have been exploited in the past. Wireless 
+networks that are not well secured in industrial plants or 
+pipelines locations may also be a potential attack vector in 
+some cases.
+7. IMPROVING VISIBILITY IN ICS NETWORKS
+An up to date OT domain asset inventory and OT network 
+architecture are preconditions for cyber protection and the 
+key controls presented in chapter 8.
+Since you cannot protect what you don´t know, a precon -
+dition prior elaborating a protection strategy is to create 
+and update (after any change) a detailed inventory of all 
+OT (and IT) assets.  Asset inventory is defined as resources 
+(hardware, software, documents, services, people, facilities, 
+etc.)
+That can be tedious but is an absolute must for protect -
+ing your business from cyber-attacks. All assets which do 
+possess network capable communication interfaces (Eth, 
+IP, wired or wireless) shall be listed since all these network 
+interfaces could be basically attacked. 
+RESEARCH / DEVELOPMENT / TECHNOLOGYPIPELINE TECHNOLOGY JOURNAL  21
+
+An OT asset inventory is comprised of:
+• Asset information
+• Network Topology
+The asset inventory should also contain the network 
+topology to provide complete visibility of the OT 
+environment, including communication relationships: 
+Industrial and/or IT protocols used, peer connections, 
+role in the communication (client/server, master/slave).
+The OT (and IT if not yet available) network topologies 
+documents must be created and updated after any 
+change. Since those are golden nuggets for attack -
+ers they shall be handle as “confidential” and usually 
+stored within asset owner’s IT corporate network with 
+adequate access protection measures.
+Only by addressing this primary visibility gap can orga -
+nizations and defenders then move on to addressing the 
+fundamental problems posed by intrusions and gain the re -
+quired initiative to detect attacks “as they happen” – allow -
+ing for the possibility of mitigation and prevention –rather 
+than responding to attackers “after they occur”.
+8. ICS PROTECTION MEA -
+SURES FOR PIPELINES
+Selected pipeline control protection measures described 
+in this paper are already part of Siemens Energy Industrial 
+Applications Onshore solutions portfolio. Siemens Energy 
+provides many OT cyber-security activities during green -
+field or brownfield pipeline or onshore projects lifecycle. In 
+greenfield projects the typical OT cybersecurity services are 
+OT cybersecurity consultancy, OT cybersecurity responsi -
+bility,   OT Risk assessment, OT Design review, OT architec -
+ture/technologies/vendor/product proposal, OT network 
+consulting, OT ICS design, OT Security Documentation, 
+OT Security Testing during FAT and SAT, OT Monitoring 
+services, OT Vulnerability Management, OT Patch Man -
+agement. Within brownfield project Siemens Energy offers 
+additionally OT asset inventories, Risk assessment, and 
+support for upgrades or migrations.8.1 KP#1 – SEGMENT PIPELINE COM -
+MUNICATION NETWORKS
+Network segregation will delay APT attackers for reaching 
+more “valuable” ICS asset to impact the Availability of the 
+AIC security OT triad and more dangerously tamper the 
+physical oil & gas process.
+Particularly in the world of pipelines this protection mea -
+sure is essential because the pipeline is intrinsically com -
+posed of very distributed stations and systems and some 
+stations along the route are or can be unmanned (Block, 
+Pump, Meter, Compress, Control).
+If an OT application needs to communicate been pipe -
+line stations (Block valve, Pump station, metering station, 
+compressor station, main control,…) the inter-site OT/IT 
+architecture shall ensure that inter-site communications 
+of each OT application  is segregated from the others. For 
+example, any required SIS controller inter-site production 
+communications/network shall be totally segregated from 
+other networks.
+Within a station the network design shall be guided by the 
+defence in depth approach to that it is difficult or impossi -
+ble to access from a network or physical security point of 
+view critical OT physical process or safety control, electri -
+cal control or communications assets.
+OT application groups are are mapped to three Security 
+Profile Levels (SP1..3)
+Data exchange between two SP2 networks should favour 
+point to point data layer 2 links or serial data links (the link 
+shall not be routable).
+Systems defined as SP3 shall have their own dedicated 
+Engineering Workstation (EWS). It shall not be possible to 
+configure an SP3 system from any other system. 
+Systems defined as SP2 and SP3 may communicate 
+together via a dedicated interface network using non-
+routable communication cards. The use of IT equipment 
+(i.e. servers, routers, switches, standard firewalls) in place 
+of communications cards is not permitted. Unused network 
+communication ports should be disabled or locked.
+SP2 systems which require communications to other SP2 
+systems over distinctive networks will communicate via a 
+firewall.
+Systems defined as SP1 shall not communicate with any 
+other SII system with different security profile except via 
+hardwired signals.
+RESEARCH / DEVELOPMENT / TECHNOLOGY22 PIPELINE TECHNOLOGY JOURNAL
+
+A pipeline control and communication network design re -
+quire both intra-station and inter-station network segrega -
+tion. In the IEC 62443-3-3 standard the grouping/network 
+segmentation approach is similar but uses the concepts of 
+zones and conduits. “Zones” are logical or physical assets 
+that share common security requirements. The zones then 
+communicate exclusively through secure “conduits”. A con -
+duit is any pathway of communication that enters or exits a 
+security zone.
+Pipeline inter-site network segregation was implement -
+ed in the past using technologies like SDH or building in 
+parallel several industrial gigabit switches infrastructures. 
+Nowadays the utilities are adopting the MPLS-TP technol -
+ogy where centralised provisioning and management are 
+key selection criteria.
+8.2 KP#2 – AUGMENT PROTECTION FOR 
+SAFETY INSTRUMENTED SYSTEMS (SIS)
+As described in several press articles [13] the OT at -
+tack called Triton/Trisis on Oil & Gas Plant ESD systems 
+analysis revealed that the APT attackers where inside the 
+victim´s plant three years before they launched the actual 
+attack.  The intent of the attacker was to manipulate the 
+integrity of the ESD controllers, but no catastrophic phys -
+ical disaster occurred. The APT group goal was sabotage 
+and physical system damage (like burner over-heating or 
+over-pressure). Before targeting the SIS controllers, the 
+attackers were first getting a remote access foothold on 
+the SIS engineering workstations from which they were 
+also able to communicate to the outside world through an 
+IP routed internet access.
+Therefore, SIS systems shall be segregated from anything 
+else and located “as deep as possible” in the defence-
+in-depth architecture. The typical discussion is about the 
+interfacing of the SIS with the BPCS (Basic Process Control 
+System) and with the “Control Center” functions. There are 
+different SIS segregation architectures possible [14] :
+• Air gapped: SIS is interfaced to BPCS by a discrete 
+wiring only
+• Interfaced SIS: SIS is interfaced to BPCS with a point 
+to point communication. This point-to-point connec -
+tion does not travel over the same network interface 
+that is used for other communications.
+• Integrated 2 zone: the SIS and BPCS are fully inte -
+grated and provide direct, real-time communication 
+between the systems. Information from the SIS zone is 
+communicated to the BPCS and higher -level systems 
+for monitoring purposes. This information should 
+be read-only flowing from the SIS zone out to other 
+systems.
+• Integrated 1 zone: The SIS and BPCS systems are 
+integrated in one zone providing much greater com -munication between those systems and higher-level 
+systems in the architecture. There is only a single HMI 
+and engineering workstation.
+The choice depends on overall risk analysis and ICS solu -
+tion providers system capabilities. 
+Process control BPCS and SIS Logic Solver PLCs should 
+support enhanced cybersecurity protection functions:
+Recommended SIS access protection:
+• To the Safety program (offline and online passwords, 
+preferably stronger authentication using multi-factors)
+• To the Fail-Safe CPU (F-CPU password and seeking for 
+multi-factor auth)
+• Dedicate a specific Engineering workstation for Safety 
+Management. Custom data and program shall be 
+classified as “confidential” and stored and accessed 
+accordingly in asset owner´s corporate office environ -
+ment with proper backups. Access to the workstation 
+enforced through multi-factor authentication.
+• If case of station ICSS/SIS/ESD or Pipeline Safe -
+ty Control functions isolate it from any other data 
+networks (point to point serial links or hard-wired are 
+possible)
+• Any tentative to access a SIS controller for trying to 
+change its firmware, configuration data or process 
+engineering data shall be detected, and security en -
+forced by placing inline a dedicated Security Gateway 
+connected on a dedicated network port of the SIS 
+controller. This solution can also be applied for other 
+controllers (PCS). Which user is authorized to access 
+which controller for which purpose is then managed 
+centrally by the security solution.
+8.3 KP#3 – PREVENTIVE PROTEC -
+TION FROM RANSOMWARE WITH A REGU -
+LARLY TESTED BACKUP SOLUTION
+Ransomware is the malicious software which is designed 
+to deny access to a system or data by encrypting files until 
+RESEARCH / DEVELOPMENT / TECHNOLOGY24 PIPELINE TECHNOLOGY JOURNAL
+
+a ransomware payment is arranged by the victim. Ran -
+somware attacks have become less frequent, but at the 
+same time, they’re becoming more and more targeted and 
+sophisticated.
+Just before finalizing this paper a new Ransomware called 
+SNAKE [16] was discovered. It targets entire corporate 
+networks and possesses a dreaded level of obfuscation. 
+Enterprise targeting ransomware are used by threat actors 
+that infiltrate a business network, gather administrator 
+credentials, and then use post-exploitation tools to encrypt 
+the files on all of the computers on the network.
+Upon successful infection, the SNAKE ransomware deletes 
+the machine’s Microsoft Shadow Volume Copies before 
+terminating various processes associated with SCADA 
+systems, network management solutions, virtual machines 
+and other tools. It then proceeds to encrypt the machine’s 
+files while skipping over important Windows folders and 
+system files. Attackers leave an instruction file on the com -
+puter’s desktop:
+According to a report of Cybersecurity Ventures released 
+in 2019 a business will fall victim to a ransomware attack 
+every 14 seconds by 2019, and every 11 seconds by 2021. 
+When a ransomware attack gets successful, it can be 
+extremely damaging, over 100k up to millions of dollars in 
+losses for the organization.
+In case of a ransomware infection impacting all or only part 
+of the operations, the goal is to restore the overall pipeline 
+process control continuity as soon as possible.  It is very 
+essential to take a backup of the data so that in case if any 
+attack happens that time you have not to lose your data.
+Old ICS systems may not have accurate or complete 
+(or any) backups. The OT plant(s) might have the media 
+(tapes?) used to initially install and commission the system 
+but they may never have made any subsequent backups. In 
+some cases, the backup media may prove to be unreadable 
+or corrupt. Some process plants may have updated their 
+peripheral devices (e.g. going from reel-to-reel magnetic 
+tape to cartridge tape) and never made a new backup. 
+To avoid business OT data loss or critical control systems 
+unavailability, one key security control part of any busi -
+ness continuity plan is to have an OT backup strategy in 
+place.  Getting a good backup made may be the critical first 
+step before anything else can be done to an automation 
+system or device. An industry best practice is to enforce 
+a working procedure that states that any change to any 
+OT asset shall be backed up. The backup procedure shall 
+specify for each type of asset the four W: when, what, who, 
+where. In addition, it might not be enough just to back up 
+the important data and documents. Entire machines may 
+need to be backed up, if they are critical to the business. In case of pipeline process control, the critical assets will be 
+for example:
+• Compressor - Pump – (Fiscal) metering - Station DCS 
+server image and online data , 
+• Pipeline SCADA & Pipeline server image and data, 
+• Historian server image and data, 
+• DCS/SCADA engineering project(s) repositories 
+(including Process Automation offline programs and 
+automation engineering data)
+• SIS/ESD Engineering program and data,
+• SIS/ESD controllers.
+• Microsoft Active Directories
+• Databases (MS SQL server, Oracle,…)
+After a ransomware attack, if clean images of the infected 
+machines were readily available, the asset owner could 
+have completely wiped the infected hardware and restored 
+it to the last good version. And organizations don’t have 
+to store multiple complete copies of every system -- in -
+cremental backup systems save just the latest changes, 
+making them very efficient.
+OT backup and restoration capabilities are part of the 
+overall Business Continuity Planning involving both IT and 
+OT domains. Obtain asset owner senior management com -
+mitment, initiate OT and IT teams’ collaboration to identify 
+business risk, elaborate, test and enforce the continuity 
+plan in the organization.
+A disaster recovery system can be extremely costly to set 
+up and maintain within the organization. It is therefore es -
+sential to properly define the requirements of the recovery 
+system by assessing per business application criticality 
+defined by the RTO and RPO criteria [17].
+The company IT/OT business continuity plan in place 
+with proper OT backup strategies and procedures will be 
+applied and enforced by the workforce (intern, contrac -
+tor), with proper onsite supervision. OT Backups (system 
+images, virtual machines, data in databases or files) shall 
+be tested regularly for proper restoration, off-site or during 
+plant maintenance phases.  
+The downside of current OT backup solutions for DCS, 
+SCADA, EWS or Historian computers is that they are too 
+specific, provide no automated control and too complicated 
+to be handled by OT operations. Introducing virtualized OT 
+servers and workstations and OT NAS File Server compo -
+nents in the OT domain would allow to simplify OT backup 
+and restoration operations in case of loss of individual 
+or a complete OT site (disaster). By replicating OT Virtual 
+Machines one can achieve low recovery time objectives 
+(RTOs). For workloads with less strict RTO requirements, 
+ne can setup backup copy jobs to achieve the 3-2-1 rule. 
+The 3-2-1 rule states you should have 3 copies of back -
+RESEARCH / DEVELOPMENT / TECHNOLOGYPIPELINE TECHNOLOGY JOURNAL  25
+
+ups, on 2 different media, one of which should be offsite 
+(remote site).
+Pipeline control & communication systems with a secu -
+rity Profile SP2 and SP3 shall be designed for a disaster 
+recovery. The determination of RTO & RPO values per SPx 
+applications is the responsibility of the pipeline operating 
+company / asset owner.
+Introducing virtualization or private cloud technologies 
+in chosen pipeline stations or OT control centres would 
+not only help for better and easier cyber security controls 
+but also contribute to several overall business benefits: 
+uniform software computing architecture to support the 
+different cloud types,  edge computing and IIoT use cases, 
+reduce foot print (space and energy).
+8.4 KP#4 – SETUP ROBUST MUL TI-FAC -
+TOR AUTHENTICATION (MFA) SCHEMA
+Traditional pipeline control system SCADA/DCS/Histo -
+rian/EWS computers access is only password protected. 
+Two-Factor Authentication (or Multi-Factor-Authentication) 
+adds a second method of identity verification to secure 
+your accounts. First, the thing you know, your password, 
+then something unique you own or have (keyfob, phone, 
+smart card, fingerprint…). By combining your password with 
+one of these factors, attackers can´t access your account 
+even if they have your password. The on-premises solution 
+(vs cloud solution) uses three main components:
+• Authentication Manager
+• Security Agents (installed on the computers or devices 
+which shall be access protected). Challenges users for 
+their security credentials and passing those creden -
+tials to an authentication manager. 
+• Authenticators / Tokens (Hardware keyfob, software 
+mobile, software toolbar, on-demand SMS or email)
+For cyber-security and availability reasons, to avoid inter -
+net bidirectional access from the industrial domain to a 
+publicly connected OT employee mobile phone for 2FA au -
+thentication a typical solution is to operate with hardware 
+based authenticators/tokens within the OT domain in a 
+dedicated OT user/group role based directory (for example 
+Microsoft Active Directory).
+8.5 KP#5 – DETECT AS SOON 
+AS POSSIBLE AN INTRUSION
+Asset discovery and anomaly detection are key compo -
+nents of any Operational Technology (OT) cybersecurity 
+strategy.
+An important security control to defend against the at -
+tacker in the earliest step of the ICS Kill Chain Stage 1 is to detect, limit and block an attack (whether external/internal 
+or un/intentional). It is therefore highly recommended to 
+put detection capabilities in place.
+8.5.1 MONITOR OT NETWORKS 
+AND RESPOND TO INCIDENT
+An attack on an Industrial Control System is always the 
+result of an intrusion over several possible attacks paths 
+and vectors, then a long period of maturation during which 
+the cybercriminal will move in your network to find a secu -
+rity breach. He will then try to modify controller programs, 
+change the set points and the parameters, and try to tam -
+per with the process mainly external DCS/SCADA values 
+as HMI and Field I/Os. To avoid the attacker to further 
+progress in your networks as depicted in the ICS Kill Chain 
+(refer to section 6), it is of utmost importance to know as 
+soon as possible that some bad things are taken place in 
+your network and have an incident response process and 
+organization in place. The detection technologies can be 
+signatures based, behavioural based or even now using 
+Machine Learning algorithms.
+Typical OT monitoring solutions consist of:
+• Passive OT & IT network sensors:
+• ICS protocol visibility and analysis by extracting meta -
+data (Technology DPI – Depp Packet Inspection) 
+• Asset discovery - visibility trough network scan -
+ning 
+• Anomaly & Intrusion Detection
+• Used on brownfield ICS installations
+• ICS Endpoint (server, workstation, controller, 
+industrial gateway, switch) intrusion sensor agent 
+software:
+• Adds detailed asset inventory data compared to pas -
+sive detection
+• Preferred in greenfield projects since it usually 
+requires additional software installation on ICS 
+equipment.
+8.5.2 TO SUPPORT FOREN -
+SICS THE SAME TIME SOURCE IS ESSEN -
+TIAL WITHIN OT AND IT DOMAINS
+The reconstruction of events as part of computer foren -
+sics and incident response can involve events from only 
+a single system, as well as events obtained from multiple, 
+geographically separate sources, each with its own clock. 
+An especially useful technique for event reconstruction is 
+‘‘time-lining’’. Here, discrete events that have a timestamp 
+associated with them are ordered into a timeline. Time -
+stamps can be obtained from file system metadata, system 
+logs, or application data. Depending on the source of the 
+events, this can provide a detailed sequence of the events 
+that took place on a system (or multiple ones), allowing 
+RESEARCH / DEVELOPMENT / TECHNOLOGY26 PIPELINE TECHNOLOGY JOURNAL
+
+an investigator to reconstruct the sequence of events that 
+took place. But OT time reference integrity is also very im -
+portant for controlling the process as well (SCADA/DCS).
+To fulfil OT time source availability and not breaking 
+cyber-security network segregation a trade-off should be 
+find where and how many OT time sources are required for 
+controlling a pipeline. The principle is to implement at least 
+two independent OT time references for each Security Pro -
+file SPi (i=1..3) within the OT (IIS) domain – usually located 
+in main control centres – providing  NTP (Network Time 
+Protocol) master clock availability. NTP was not designed 
+with security in mind.
+8.5.3  COLLECT AND ANALYSE OT SECURITY 
+EVENTS IN A UNIFIED SECURITY ORGANIZATION
+An intrusion could start in any domain OT or IT.  A unified 
+IT/OT security strategy is the best way to manage asset 
+owner´s entire digital risk, not only for a pipeline asset. 
+An OT/ICS/IIoT security solution should provide asset & 
+network visibility and integrate natively with asset owner 
+companywide existing centralized security Operations 
+Centre (SOC) to provide asset owner SOC with real-time 
+information about OT assets, vulnerabilities and threats to 
+give complete visibility.
+To avoid OT and IT technical and organizational silos it 
+is recommended to unify IT and OT security activities 
+concerning security event analysis and incident response 
+process by creating a unique Security Operations Centre 
+(SOC) staffed with IT and OT security analysists/experts.
+OT security events (issued by automation controller, indus -
+try gateways, OS, network device, application or passive 
+anomaly sensor) will not be kept in the OT domain but 
+replicated in the IT domain for storage in the unique IT/OT 
+SOC companywide event database. This will enable event 
+history, co-expertise in a unique security analysis team, 
+and does not allow an attacker already in the OT domain to 
+remove his tracks by deleting ICS security logs or events. 
+Customizing and analysing security events generated by 
+ICS equipment (controllers, PLCs) will usually require ICS 
+vendor support.
+9. CONCLUSION
+Obviously, the end goal of a sophisticated external cy -
+ber-attack on an industrial control system could be devas -
+tating and potentially terrifying. It should be clear from the 
+above that while many in industry are concerned that this 
+may occur, it is nevertheless the domain of well-equipped 
+and sophisticated adversaries . 
+All companies building or operating pipelines need to have 
+a cyber-security risk-based strategy, an organization, mea -sures in place and skilled staff. Obviously, this organization 
+and these measures need to have enough funding to work 
+smoothly. Besides individual programs, which are definitely 
+important, a general OT/ICS policy/program should be in 
+place which has to be approved by senior management 
+and documented for later reference. 
+To avoid issues in the project execution of a greenfield 
+pipeline project, we recommend defining OT cyber-security 
+requirements and guidelines at the very early stage (before 
+EPC contracting), so that the complete EPC/EIT supply 
+chain involved in the execution can properly provision 
+costs and efforts for related OT cyber-security activities. 
+The remaining security level is always a balance between 
+business impact and costs for implementing cyber-secu -
+rity controls and staff. It is established by risk assessment 
+methodologies in basic and detailed design phases. The 
+decision whether the level is acceptable or not for a given 
+project relies within the asset owner.
+References
+1. K. Zetter, „An Unprecedented Look at Stuxnet, the World‘s First Digital Weapon,“ Wired, 03 
+November 2014. [Online]. Available: https://www.wired.com/2014/11/countdown-to-zero-day-
+stuxnet/
+2. D. Kshner, „The Real Story of Stuxnet,“ IEEE Spectrum, 26 February 2013. [Online]. Available: 
+https://spectrum.ieee.org/telecom/security/the-real-story-of-stuxnet
+3. Symantec Security Response, „Dragonfly: Western Energy Companies Under Sabotage Threat,“ 
+Symantec, 30 June 2014. [Online]. Available: https://www.symantec.com/connect/blogs/dra -
+gonfly-western-energycompanies-under-sabotage-threat-energetic-bear 
+4. Kaspersky Lab Global Research and Analysis Team, „Energetic Bear - Crouching Yeti,“ Kas -
+persky, 01 July 2014. [Online]. Available: https://media.kasperskycontenthub.com/wpcontent/
+uploads/sites/43/2018/03/08080817/EB-YetiJuly2014-Public.pdf 
+5. R. M. Lee, M. J. Assante and T. Conway, „German Steel Mill Cyber Attack,“ SANS ICS, 30 
+December 2014. [Online]. Available: https://ics.sans.org/media/ICS-CPPE-case-Study-2-Germ -
+anSteelworks_Facility.pdf
+6. R. A. Becker, „Cyber Attack on German Steel Mill Leads to „Massive“ Real World Damage,“ PBS, 
+08 January 2015. [Online]. Available: https://www.pbs.org/wgbh/nova/article/cyber-attack-ger -
+man-steel-millleads-massive-real-world-damage/
+7. SANS ICS, „Analysis of the Cyber Attack on the Ukrainian Power Grid,“ SANS, 18 March 2016. 
+[Online]. 
+8. Available: https://ics.sans.org/media/E-ISAC_SANS_Ukraine_DUC_5.pdf 
+9. J. Slowik, „Anatomy of an Attack: Detecting and Defeating CRASHOVERRIDE,“ Dragos, 12 Octo -
+ber 2018. [Online]. Available: https://dragos.com/media/CRASHOVERRIDE2018.pdf 
+10. Dragos, „TRISIS Malware: Analysis of Safety System Targeted Malware,“ Dragos, 13 December 
+2017. [Online]. 
+11. Available: https://dragos.com/blog/trisis/TRISIS-01.pdf
+12. US-CERT, „Russian Government Cyber Activity Targeting Energy and Other Critical Infrastruc -
+ture Sectors,“ US-CERT, 15 March 2018. [Online]. Available:  https://www.us-cert.gov/ncas/
+alerts/TA18-074A
+13. Reuters, „German Intelligence sees Russia behind Hack of Energy Firms: Media Report,“ 
+Reuters, 20 June 2018. [Online]. Available: https://www.reuters.com/article/us-germany-cy -
+ber-russia/german-intelligencesees-russia-behind-hack-of-energy-firms-media-report-idUS -
+KBN1JG2X2?il=0
+14. M. J. Assante and R. M. Lee, „The ICS Cyber Kill Chain,“ SANS, 5 October 2015. [Online]. 
+Available: https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cy -
+ber-kill-chain-36297 
+15. Triton/Trisis Attack Was More Widespread Than Publicly Known  https://www.darkreading.
+com/attacks-breaches/triton-trisis-attack-was-more-widespread-than-publicly-known/d/d-
+id/1333661 
+16. Safety & Security - Is a Physically Separation of the SIS necessary ?
+17. https://www.aidic.it/cet/16/48/113.pdf
+18. CPE - Common Platform Enumeration https://cpe.mitre.org/about/
+19. Ransomware SNAKE  https://www.tripwire.com/state-of-security/security-data-protection/
+snake-ransomware-targeting-entire-corporate-networks/
+20. Disaster recovery plan : RTO vs. RPO
+21. https://www.msp360.com/resources/blog/rto-vs-rpo-difference/
+Author
+Jean-Francois Wirrmann 
+SIEMENS Energy
+Cyber-security Officer Industrial 
+Applications Onshore 
+jean-francois.wirrmann@
+siemens.com
+RESEARCH / DEVELOPMENT / TECHNOLOGYPIPELINE TECHNOLOGY JOURNAL  27

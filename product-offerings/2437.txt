@@ -1,0 +1,156 @@
+24   •  www.turbomachinerymag.com
+Combining 3D laser scanning and generative AI automates 
+inspection processes, enhances service quality, and 
+expedites equipment overhauls.
+BY STEVEN BAIRDDigitally Transforming 
+Compressor Inspection  
+and RepairCOMPRESSORS
+nspection before major compres -
+sor repairs and/or overhauls has 
+traditionally been tedious and 
+time-intensive. The process often entails 
+shipping equipment to an OEM service center, 
+where technicians can disassemble the unit to 
+take precise measurements by hand and visually 
+examine components, such as rotors, impellers, 
+bearing housings, etc., for wear or damage. 
+Over the last decade, 3D laser scanning has 
+gained popularity as a tool for streamlining 
+inspections by allowing manufacturers to 
+rapidly detect material deformities or 
+dimensions that are out of tolerance. 
+As many companies take the next step in 
+the digitalization journey, they are now 
+leveraging these capabilities in combination 
+with generative artificial intelligence (Gen AI) 
+to automate the inspection process further, 
+enhance service quality, and expedite 
+equipment overhauls. IREAL-TIME DIGITAL INSPECTIONS
+3D laser scanning reduces and, in many 
+instances, eliminates the need for dimensional 
+measurements to be taken manually. While 
+this capability alone reduces the technician’s 
+workload and provides several advantages in 
+terms of component visualization, additional 
+steps are often needed to fully utilize the scan 
+data being collected. 
+Automated inspection scripts customized 
+for the specific type and model of machine 
+being serviced extract key measurements 
+from 3D scans. A scan of a first-stage impeller 
+indicates measurements in and out of 
+tolerance. 
+Measurements from the 3D scan are 
+exported to a digital inspection platform for 
+disposition, allowing technicians to analyze 
+the unit directly from the shop floor in real 
+time and eliminating the need for data 
+processing offsite. FIGURE 1  is a screenshot from the digital 
+inspection platform showing how the scan 
+results, along with data from manual procedures 
+such as non-destructive testing (NDT), can be 
+used to generate prescriptive repair recommen -
+dations using Gen AI. All the information is 
+mapped to enterprise resource planning (ERP) 
+and product lifecycle management (PLM) 
+systems, which allows sales and repair personnel 
+to provide faster and more accurate responses to 
+customers on lead times and costs. 
+The entire process aims to reduce human 
+error, improve repair consistency across service 
+centers, and expedite compressor overhauls. 
+These efforts have already yielded positive 
+results. For many components, the time it takes 
+to inspect, analyze, and determine necessary 
+repairs has been reduced by more than 50%. 
+USING GEN AI FOR SEMANTIC SEARCH 
+Gen AI can also be valuable as a semantic 
+search tool. Particularly for legacy product 
+Turbomachinery International  •  January/February 2025  •  25
+EXTENDING DIGITALIZATION  
+TO THE FIELD
+Extending digital inspection activities like 3D 
+laser scanning to the field also benefits 
+customers by enabling granular data collec -
+tion and providing greater flexibility and 
+adaptability in project execution. It may be 
+possible to perform all work onsite for certain 
+inspection activities, avoiding the need to ship 
+machines or components to service centers. 
+Field scanning can even help address 
+problems beyond the scope of compressor 
+repair. In one example, a plant operator 
+evaluated the drain line redesign during a 
+compressor removal. Technicians scanned the 
+existing configuration and quickly created a 
+new piping isometric that eliminated the need 
+to perform tack welds onsite.  
+In a separate field application, the operator 
+was concerned about the bedplate leveling of 
+their motor-driven compressor. Onsite 
+scanning revealed that the motor, gearbox, and 
+compressor pedestals were out of tolerance. 
+Measurements from the scan were then 
+provided to the customer to remedy the issue. 
+Laser scanning can be used to virtually 
+assemble compressor components before 
+physical assembly. Piecing digital scans 
+together ensures that any potential fitment or 
+interference issues are identified early on. 
+Precision machining can occur before 
+reassembly so that delays during the compres -
+sor overhaul or plant turnaround are avoided. For example, digital preassembly and 
+reassembly of a steam turbine spare rotor 
+allowed a service center to ship components to 
+an offsite machine shop on Day 2 of the 
+turnaround. Had scanning not been used, this 
+likely would have occurred on Day 7 or 8. 
+CHANGING THE STATUS QUO
+Minimizing the duration of planned and 
+unplanned outages remains a priority for 
+process plant operators as they seek to 
+improve margins and extend the useful life of 
+their facilities. 3D laser scanning supports 
+these goals by enhancing the speed and 
+efficiency of inspections. Now, with Gen AI, 
+compressor OEMs can take the next step by 
+further automating the repair process and 
+unlocking new capabilities that have previ -
+ously not been possible. 
+As these technologies continue to advance, 
+they will eventually become the standard for 
+inspection and repair, generating tangible 
+value for both manufacturers and their 
+customers through lower costs, improved 
+repair consistency, and shorter equipment 
+overhauls.  
+Steven Baird is the Head of Repair 
+Technology in Compression at  
+Siemens Energy.
+FIGURE 1: Digital inspection platform showing AI-generated repair summary from 3D laser scan 
+and NDT results.
+lines, it is not uncommon for personnel to 
+spend significant time searching old documen -
+tation and databases to find answers to 
+questions. In some cases, employees who 
+served as subject matter experts on a 
+particular part or product line in the past have 
+retired, leaving knowledge gaps that can 
+hinder the repair process.   
+Virtual repair engineers, i.e., chatbots 
+built using Gen AI, can help solve this problem 
+by quickly retrieving and contextualizing 
+information from internal service and product 
+documentation. Large language models (LLMs) 
+can return much more accurate and relevant 
+results to user queries than a traditional 
+keyword search. 
+When a virtual repair engineer is 
+presented with a query about the type of 
+coating that can be used to repair a damaged 
+journal bearing, the chatbot returns the 
+relevant inspection requirements, coating 
+restrictions, repair options, and even 
+recommended next steps.  
+Using laser scanning to inspect  
+a large open-faced impeller.

@@ -1,0 +1,357 @@
+Siemens Energy is a registered trademark licensed by Siemens AG.
+Capital Market 
+Day 2020
+Transmission Section
+Tim Holt, Member of the
+Executive Board of Siemens Energy
+Siemens Energy is a registered trademark licensed by Siemens AG. © Siemens Energy, 2020
+2
+2020 -09-01 © Siemens Energy, 2020CMD | T. Holt | Transmission
+Siemens Energy isa registered trademark licensed bySiemens AG.
+Notes and forward -looking statements (I)
+This presentation andtheinformation contained herein areforinformation purposes only anddonotconstitute aprospectus oranoffer tosellorasolicitation ofanoffer tobuyor
+subscribe foranysecurities ofSiemens AGorSiemens Energy AG.This presentation isnotdirected to,orintended fordistribution tooruseby,anyperson orentity thatisacitizen
+orresident orlocated inanylocality, state, country orother jurisdiction where such distribution, publication, availability orusewould becontrary tolaworregulation ofsuch
+jurisdiction orwhich would require anyregistration orlicensing within such jurisdiction .Anyfailure tocomply with these restrictions may constitute aviolation ofthelaws ofother
+jurisdictions .Anysecurities tobedistributed inconnection withthistransaction have notbeen andwillnotberegistered under theU.S.Securities Actof1933 (asamended) orthe
+laws ofanystate oftheU.S.Neither Siemens AGnorSiemens Energy AGintends toregister anysecurities referred toherein intheU.S.
+This presentation isbeing distributed to,andisdirected only at,persons intheUnited Kingdom (“U.K.”)incircumstances where section 21(1)oftheFinancial Services andMarkets
+Act2000 does notapply .This document does notconstitute anoffer document oranoffer ofsecurities tothepublic intheU.K.towhich section 85oftheFinancial Services and
+Markets Act2000 oftheU.K.applies and isnot,andshould notbeconsidered as,arecommendation thatanyperson should subscribe fororpurchase anysecurities .This
+document isbeing communicated only to(i)persons who areoutside theU.K.;(ii)persons who have professional experience inmatters relating toinvestments falling within article
+19(5)oftheFinancial Services andMarkets Act2000 (Financial Promotion) Order 2005 (asamended) (the“Order”) or(iii)persons within thescope ofarticle 43oftheOrder or(iv)
+high networth companies, unincorporated associations andother bodies who fallwithin article 49(2)(a)to(d)oftheOrder (allsuch persons together being referred toas“Relevant
+Persons”) .Anyinvestment orinvestment activity towhich thisdocument relates isavailable only toandwillbeengaged inonly withRelevant Persons, andanyperson who isnota
+Relevant Person must notactorrelyonthiscommunication oranyofitscontents .This document should notbepublished, reproduced, distributed orotherwise made available, in
+whole orinpart, toanyother person without theprior consent ofSiemens AGorSiemens Energy AG.
+Norepresentation orwarranty, express orimplied, ismade astothefairness, accuracy, completeness orcorrectness oftheinformation contained herein, andnoundue reliance
+should beplaced onit.Neither Siemens AGnorSiemens Energy AGnoranyoftheir affiliates, advisers, connected persons oranyother person accepts anyliability foranyloss
+howsoever arising (innegligence orotherwise), directly orindirectly, from thispresentation oritscontents orotherwise arising inconnection withthispresentation .
+Itshould benoted thatfinancial information regarding Siemens Energy AG's reporting segment Siemens Gamesa Renewable Energy (SGRE) hasbeen taken orderived from the
+combined financial statements ofSiemens Energy orfrom itsaccounting records orinternal management reporting systems anddoes notnecessarily correspond tofinancial
+information publicly reported bySiemens Gamesa Renewable Energy S.A.
+Certain numerical data, financial information andmarket data inthispresentation have been rounded inaccordance with commercial rounding .Unless otherwise indicated, all
+financial data presented inthetextandtables inthispresentation isshown inmillions ofeuros (€million), commercially rounded tothenearest million .Percentage changes and
+ratios inthetextandtables ofthispresentation arecalculated based ontherounded numbers shown inthispresentation, andthen commercially rounded toawhole percentage or
+toonedigit after thedecimal point .Such rounded figures andpercentages may notaddupto100%ortothetotals orsubtotals contained inthispresentation .
+Certain financial data included inthispresentation consists ofnon-IFRS financial measures .These non-IFRS financial measures may notbecomparable tosimilarly titled
+measures presented byother companies, norshould they beconstrued asanalternative toother financial measures determined inaccordance withIFRS .Youarecautioned notto
+place undue reliance onanynon-IFRS financial measures included herein .
+3
+2020 -09-01 © Siemens Energy, 2020CMD | T. Holt | Transmission
+Siemens Energy isa registered trademark licensed bySiemens AG.
+Notes and forward -looking statements (II)
+This presentation contains forward -looking statements .These statements arebased onthecurrent views, expectations, assumptions and information ofthemanagement of
+Siemens AGandSiemens Energy AG.Forward -looking statements involve known andunknown risks anduncertainties and, therefore, should notbeconstrued asguarantees of
+future results, performance andevents .Actual results, performance orevents may differ materially from those described insuch statements dueto,among other things, changes in
+thegeneral economic andcompetitive environment, risks associated with capital markets, currency exchange rate fluctuations, changes ininternational andnational laws and
+regulations, inparticular with respect totaxlaws andregulations, affecting Siemens Energy AG, andother factors .Siemens AGorSiemens Energy AGdonotundertake any
+obligation toupdate anyforward -looking statements .
+Accordingly, anyforward -looking statement relating totheimpact oftheCOVID -19pandemic onSiemens Energy AGoranyofitssubsidiaries isonly anestimate asoftoday .
+Given therapidly evolving nature oftheCOVID -19pandemic andtheuncertainties regarding countermeasures bygovernments around theworld tocombat itseffects, noundue
+reliance should beplaced onsuch forward -looking statements .
+Any assumptions, views oropinions contained inthispresentation represent theassumptions, views oropinions ofSiemens AGorSiemens Energy AGasofthedate ofthis
+presentation andaresubject tochange without notice, unless andupdate isrequired bylaw.Allinformation notseparately sourced isfrom Siemens AGorSiemens Energy AG
+data andestimates .Market andmarket share data isbased oncompany internal estimates derived from continuous analysis andaggregation ofinternal andexternal market data,
+including data from third-party sources .Third party industry publications, studies andsurveys generally state thatthedata contained therein have been obtained from sources
+believed tobereliable, butthatthere isnoguarantee oftheaccuracy orcompleteness ofsuch data.While Siemens Energy AGbelieves thateach ofthese publications, studies
+andsurveys hasbeen prepared byareputable source, neither Siemens AGnorSiemens Energy AGoranyother party hasindependently verified thedata contained therein .
+Accordingly, undue reliance should notbeplaced onanyoftheindustry ormarket data contained inthispresentation .Information contained inthispresentation related topast
+performance isnotanindication offuture performance .The information inthispresentation isnotintended topredict actual results, andnoassurances aregiven with respect
+thereto .
+Advertisement
+This communication isanadvertisement forthepurposes oftheProspectus Regulation EU2017 /1129 andunderlying legislation .Itisnotaprospectus .Thelisting oftheshares of
+Siemens Energy AGontheregulated market oftheFrankfurt Stock Exchange (Frankfurter Wertpapierbörse )willtake place onthebasis ofanapproved prospectus .The
+prospectus has been approved bytheGerman Federal Financial Supervisory Authority (Bundesanstalt fürFinanzdienstleistungsaufsicht –"BaFin ")inaccordance with the
+Prospectus Regulation regime .However, theapproval oftheprospectus byBaFin should notbeunderstood asanendorsement oftheshares ofSiemens Energy AG.Investors
+should purchase shares solely onthebasis oftheprospectus relating totheshares and should read theprospectus before making aninvestment decision inorder tofully
+understand thepotential risks andrewards associated with thedecision toinvest intheshares .Copies oftheprospectus areavailable freeofcharge from Siemens Energy AG,
+Otto-Hahn -Ring 6,81739 Munich, Germany, oronSiemens Energy AG’s website (www .siemens -energy .com/investorrelations) .
+CMD | T. Holt | Transmission 4
+2020 -09-01
+Our Management Team
+What we stand for
+Tim Holt
+Member of the 
+Executive Board
+Service and 
+digitalization as 
+value drivers
+4
+2020 -09-01
+ © Siemens Energy, 2020CMD | T. Holt | Transmission
+5
+2020 -09-01CMD | T. Holt | TransmissionWe connect the key elements of the energy value chain 
+•Transmission systems
+•Air insulated switchgear (AIS)
+•Gas insulated switchgear (GIS)
+•Circuit breakers, surge 
+arresters, disconnectors•Power & distribution 
+transformers
+•Bushings, instrument 
+transformers & coils
+•Bundles & systems•Substations
+•Grid access
+•MVDC
+•FACTS
+•HVDC•Product related services
+•Modernization, upgrades
+•Long -term service programs 
+incl. O&MFrom generation via transmission and distribution to consumer and prosumer
+Switching products 
+and systemsNon-switching 
+products and systems Service Solutions
+Note: MVDC = Medium -Voltage Direct Current; FACTS = Flexible Alternating Current Transmission System; HVDC = High -Voltage Direct 
+Current; O&M = Operation and MaintenanceCentral and distri -
+buted generation Transmission and distributionIndustry and 
+infrastructure
+All products digitally enabled
+© Siemens Energy, 2020
+CMD | T. Holt | Transmission 6
+2020 -09-01Product example
+World’s largest HVDC transformer
+37.5 m14.4 m
+UHVDC transmission line 
+from Changji to Guquan in 
+China covering 3,284 kmRecord voltage of 
+1,100 kVTransmission capacity of 12 GW : 
+Equivalent to power output of
+~12 typical power plantsElectricity to 
+50 m
+householdsWeight of 909 t
+© Siemens Energy, 2020
+7
+2020 -09-01CMD | T. Holt | Transmission92%8%Siemens Energy Transmission 
+by numbers
+Key figures (FY19)
+~20%
+Share of Siemens 
+Energy total 
+revenue€28.8 bn
+€5.8 bnSiemens Energy total revenue (FY19)
+€6.2 bn €8 bn
+Order backlog Orders
+~20 k €5.8 bn
+Total revenue EmployeesTransmission total revenue (FY19)1
+New Unit2Service
+1 Total revenue split calculated before intra -group consolidation and reconciliation effects
+2Products, Systems and Solutions
+© Siemens Energy, 2020
+8
+2020 -09-01CMD | T. Holt | TransmissionSiemens Energy Transmission 
+Who we are
+PositioningMarket and technology leader in a mission -
+critical element of the global energy system
+GrowthExcellent growth prospects driven by industry -leading 
+and innovative portfolio focused on key market trends
+ProfitabilitySignificant margin improvement potential supported by 
+project excellence, portfolio streamlining and cost optimization
+© Siemens Energy, 2020
+CMD | T. Holt | Transmission 9
+2020 -09-01
+Leadership positions in a high entry -barrier market
+Continued market gains have made us the global #1 
+Note: Market position related to addressed market according to Siemens Energy internal assessment for FY19, based on order intake i n €Products Solutions Service
+9
+2020 -09-01in switching products globally globally#1 #1 #2
+Driven by project awards of 
+large HVDC solution projectsMainly small project business 
+for switching products in non -switching products#2
+© Siemens Energy, 2020CMD | T. Holt | Transmission
+10
+2020 -09-01CMD | T. Holt | TransmissionWe are best positioned 
+in a growing market
+Addressed Transmission market (€ bn)
+Right capabilities, offering and regional 
+presence to drive continued growthTrends Our strengths
+By business By region
+Source: Siemens Energy internal assessmentCAGR: 
+11.814.715.617.217.618.544.9
+FY19 FY2550.4
+3.8%0.8%
+1.7%
+(4.1) (5.7)29.332.415.018.24.65.5 44.9
+FY19 FY2550.4
+1.7%2.8%
+3.3%CAGR: 
+Products Solutions
+Services ConsolidationAmericas EMEA
+Asia, AustraliaCAGR: 2.0% CAGR: 2.0%•Grid stability and 
+renewables integration
+•Greenhouse gas
+•CO2reduction
+•Digitalization/Internet 
+of Energy
+•Differentiated 
+regional needs•Leading position in 
+FACTS, phase shifters
+•SF6-free products, 
+synthetic oils ( esther )
+•SensProductsTM, 
+SenseSystemsTM
+•#1 or #2 in all key 
+regions
+© Siemens Energy, 2020
+CMD | T. Holt | Transmission 11
+2020 -09-01Key growth driver
+Rise of renewables and electrification
+•Long distance 
+bulk energy transportation 
+•Lack of sufficient transport 
+capacity 
+•Complexity and volatility 
+(wind, solar) and risk of 
+blackoutsRise of renewables What it means for us
+•Growing transmission market
+•Opportunities in grid 
+stabilization, grid inter -
+connection and network 
+expansion
+•Leading positions1in grid 
+access and stability products 
+(e.g. phase shifters) and 
+solutions (e.g. FACTS)
+•Increased benefits from 
+cooperation with SGRE•Exponential growth in energy 
+intensive data centers
+•Electrification of industries 
+and everyday live (e.g. EVs)
+•Rise of decentralized 
+battery storageElectrification
+1 Siemens Energy internal assessment
+© Siemens Energy, 2020
+CMD | T. Holt | Transmission 12
+2020 -09-01Our innovation highlights 
+address key market trends
+Note: MMC = Modular Multilevel Converter | 1Recognized by World Economic Forum as key disruptive innovations from the Energy sector of last decade
+(Global Innovations from the Energy Sector 2010 -2020, May 2020) | 2 Siemens Energy internal assessment b ased on installed MW capacity for HVDC 
+PLUSTMtechnology •SensProductsTMand their digital 
+twins –edge computing and AI
+•Transforming high voltage 
+substations into data hubsDigitalization
+Internet of Energy (IoE)
+•Blue portfolio 
+(e.g. SF6-free products) 
+with zero GHG emissions1
+•Successfully launched
+and strongly growingDecarbonization
+Ecofriendly transmission system
+•Global market leader2with HVDC 
+PLUSTMsolution (e.g. connect 
+off-shore renewables)1
+•Pioneer in MMC (PLUSTM) 
+technology –delivered first 
+solutions in 2010Grid stability and complexity
+Grid resilience and network stability
+© Siemens Energy, 2020
+
+CMD | T. Holt | Transmission 13
+2020 -09-01Diversified customer base
+Built on trust -based relationships
+13
+© Siemens Energy, 2020
+•Tailore dcustomer solutions
+•Differentiate dofferings
+•Specifi cneeds of regulated 
+and unregulated customers
+•Top 10 customer account 
+for 25 %of total business1
+Keycustomers b ysegment
+Generation and 
+transmission 
+(central/ decentral)
+Seek fast and 
+reliable partner
+Transmission 
+(TSO/DSO)
+Largestcustomer 
+group –regulated but 
+open fornew
+technologies
+Industr y/
+infrastru cture
+Unregulated andeager 
+forinnovati vesolutionsVarious
+tech companies
+Note :TSO = Transmission System Operator, DSO = Distribution S ystem Operator; Shell marks reproduced bypermission of 
+Shell Brands International AG |1Based on order intake, average F Y17-19 CMD | T. Holt | Transmission
+CMD | T. Holt | Transmission 14
+2020 -09-01Recent performance
+Focus on profitability paying off
+Book -to-Bill
+Adj. EBITA 
+before Special 
+Items (€ m)Order backlog
+(€ bn)9 8 8
+141.1x 0.9x 1.1x 1.1x 1.2x
+4.3% 4.8% 6.4% 5.7% 4.2%
+Only mild COVID -19 impact –
+proven resilience as critical 
+infrastructureMargin improvement to industry 
+benchmarks –with headroom 
+remainingPositive Book -to-Billmomentum 
+and strong order backlog –good 
+demand across products, solutions 
+and systemsStable topline development –
+higher quality revenue (selectivity 
+in solutions, high -quality product 
+line-up)
+6.1 5.9 5.8
+4.1 4.1
+260 279375
+235
+172
+FY17 FY18 FY19 9M FY19 9M FY20Siemens Energy Transmission
+9
+© Siemens Energy, 2020Note: Order backlog shown as of fiscal year end. Order backlog defined as order backlog of prior reporting period plus 
+value of orders of current reporting period less revenue recognized in current reporting period and adjusted for direct 
+order value adjustments | 1FY19 as well as 9M FY19 includes €55 m gain from disposal. Disposal effects not part of 
+Special Items definitionTotal revenue 
+(€ bn)
+CMD | T. Holt | Transmission1
+1
+CMD | T. Holt | Transmission 15
+2020 -09-01Full focus on value creation
+Measures well underway
+•Partnering for non -core 
+project elements –e.g. 
+offshore platforms
+•Standardization of offer and 
+project execution process in 
+large transmission projectsProject excellence
+•Focus on systems in com -
+moditized substation business
+•Global design rules pushing 
+standardization, modulari -
+zation
+•Global design platforms to 
+reduce portfolio variantsPortfolio
+•Fixed cost reduction 
+program in all factories
+•Utilization of global factory 
+network reducing delivery risk 
+•Cost -out program 
+targeting SG&ACost optimization
+•Capture growth from 
+renewables (grid access, 
+complexity) and 
+electrification (data centers )
+•Innovative, digital products
+•Differentiated, environmental 
+friendly portfolioGrowth
+Profitability benefitting from already implemented measuresProfitability
+15
+2020 -09-01 © Siemens Energy, 2020CMD | T. Holt | Transmission
+
+16
+2020 -09-01CMD | T. Holt | TransmissionConclusion
+We are ...The #1 transmission player globally
+plain and simple1
+Operating in a growing market
+benefiting from the rise of renewables and electrification2
+At the forefront of innovation
+having invested in our products along digitalization, 
+decarbonization, grid stability3
+On the right path to grow profitably
+growing margins with more to come4
+© Siemens Energy, 2020

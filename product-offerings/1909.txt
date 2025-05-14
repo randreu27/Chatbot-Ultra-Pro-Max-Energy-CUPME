@@ -1,0 +1,1586 @@
+Unrestricted  © 2025  Siemens Energy  Page  1 
+ 
+ 
+  
+siemens -energy.com  Hydrogen power 
+and heat with  
+Siemens Energy 
+gas turbines  
+Reliable and flexible carbon -free energy  
+ 
+
+Unrestricted  © 2025 Siemens Energy  Page  2  
+ 
+ 
+ 
+ 
+ Today, gas turbines play a vital role in 
+addressing the threat of global warming and 
+making energy greener. Gas turbines are in the 
+category of the cleanest fossil -fuel based power 
+generation solutions and are ideally suited to 
+manage the intermittency of increasing 
+renewable loads by providing reliable and on -
+demand power. Gas  turbines will remain an 
+even more important element in power grids as 
+electrification trends toward full 
+decarbonization and the hydrogen economy 
+starts to unfold.  
+ 
+By burning hydrogen as a fuel, either through 
+co-firing or complete displacement of natural 
+gas, gas turbines can provide low -carbon or 
+even carbon -free power solutions. Gas turbines 
+play a key role in enabling a smooth transition 
+from a fossil fuel -based to a fully decarbonized 
+power system because they provide highly flex-ible and dispatchable generation to support fu-
+ture grids largely dominated by intermittent re-
+newable power.  They can also provide much 
+needed grid ancillary services - even when the 
+gas t urbine is not producing active power  -, 
+which will become more important as the sys-
+tem moves to a largely renewable -dominated 
+production.  These capabilities make gas tur-
+bines ideally suited to helping to meet the World Energy Council’s trilemma of secure,  
+affordable , and environmentally sustainable 
+energy.  
+ In the future, increasing use of hydrogen fuels 
+will enable the conversion of thousands of gas 
+turbine operating units worldwide into reliable and environmentally sustainable decarboniza-
+tion agents. Therefore, owners of existing gas 
+turbine power plants an d the ones soon to be 
+developed can be confident of their plants’ roles in supporting the future energy transition.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Karim Amin  
+Member of Executive Board and EVP  
+Gas Services  | Siemens Energy  
+  
+Frida Björneld  
+Vice President of Product Management  
+Gas Services  | Siemens Energy  
+   
+siemens -energy.com  
+
+Unrestricted  © 2025  Siemens Energy  Page  3  
+ 
+ 
+ 
+ 
+ 
+1 Why use hydrogen as a fuel for gas 
+turbines?  
+Page 4 
+ The need for hydrogen to decarbonize 
+power generation  
+ The impact of hydrogen gas turbines on 
+the power sector  
+ Application paths for gas turbines  
+Where does the hydrogen come from?  
+  
+ 
+2 Hydrogen combustion  
+Page 9 
+ Hydrogen combustion fundamentals  
+ Dry Low Emission (DLE) combustion 
+technology  
+ Non-DLE combustion technology  
+NO x emission correction  
+  
+ 
+3 Hydrogen capabilities in Siemens 
+Energy gas  turbines  
+Page 11 
+ Siemens Energy gas turbine hydrogen 
+operating experience  
+ Detailed information on GT families  
+Technology enablers and Siemens Energy 
+roadmap toward 100% hydrogen gas 
+turbines  
+Summary  
+ 
+   
+ 
+ 
+ 
+ 
+4 Hydrogen capab ility of power plant 
+systems  
+Page 19 
+ Additional systems required for hydrogen 
+co-firing  
+Power plant component considerations  at 
+hydrogen co -firing  
+Hydrogen readiness for new gas turbine 
+power plants   
+ 
+ 
+5 Upgrading Siemens Energy gas turbines 
+for higher hydrogen  fuel content 
+operation  
+Page 22 
+ The requirement to upgrade existing gas 
+turbines to hydrogen operation  
+What about the installed fleet of Siemens 
+Energy gas turbines?  
+ Can I upgrade my gas turbine power 
+plant?  
+ 
+ 
+6 Abbreviations  
+Page 24 
+ 
+ 
+7 References  
+Page 2 5 
+  
+ 
+ 
+Unrestricted   © 2025  Siemens Energy  Page  4 The need for hydrogen to 
+decarbonize power generation  
+Global warming, caused by anthropogenic emissions such as 
+carbon dioxide, methane , and other greenhouse gases, 
+threatens to disrupt the ecosystems on which we all depend. In October 2018, the Intergovernmental Panel on Climate 
+Change (IPCC) released a special report that details the im-
+pacts of global warming of 1.5 °C and higher above p re-in-
+dustrial levels. Revising their original target of keeping global warming below 2  °C, the IPCC warned that warming above 
+1.5 °C is not sustainable in the long -term. Instead, the IPCC 
+now recommends reducing the target for global temperature 
+increases to just 1 -1.5 °C until the end of the century [1].  
+ 
+The IPCC’s target of limiting the global temperature rise to no 
+more than 1.5 °C require s limiting  annual global emissions to  
+25–30 gigatons (Gt) carbon dioxide (CO
+2) equivalent per year 
+range by 2030 [1], however in 2023 annual worldwide emis-
+sions reached 37.4Gt  CO 2 [2]. The energy sector is a major 
+contributor to global greenhouse emissions with a global share of around 44 % while the remaining 56% are emitted 
+from other sectors such as industry, mobility and residential 
+[3]. While last data indicates that  the 1.5 °C temperature  
+limit is already difficult to impossible to reach, it is of in-
+creased importance to limit global warming to a temperature  
+increase o f below 2 °C.   
+ 
+For the last few decades, the focus for reducing the carbon 
+emissions in the energy sector has been on the development 
+of renewable generation using mainly wind and solar energy. While renewables do not produce carbon emissions, they in-
+troduce a high level  of intermittency due to changing 
+weather conditions and variations in solar irradiation. This is often coupled with mismatches between the demand and 
+supply of energy. While demand -side management can play a 
+large role in handling these mismatches, supply  management 
+through curtailment of renewables during times of oversup-ply, energy storage, and providing backup power with dis-
+patchable, flexible conventional power plants is also re-
+quired. In recent years, a variety of storage options have 
+emerged allowing  short -term storage during the day as well 
+as long -term storage through whole seasons. While batteries 
+are well -suited to help manage the daily peak shift from mid -
+day to evenings, energy storage in chemical form appears as 
+the only viable solution to stor e energy for longer periods 
+and for seasonal storage.  
+ Of the conventional thermal -fuel generation technologies, 
+combined cycle power plants are the most efficient and clean option. The switch of an existing coal power plant to a new 
+combined cycle power plant running on natural gas will re-duce specific carbon dioxyde emissions by up to 65%. Com-
+pared to separately producing electricity in a combined cycle 
+plant and producing heat in a fossil -fuel fired boiler, cogener-
+ation of heat and power in combined heat and power plants 
+further reduces the specific CO
+2 emissions. The total energy 
+efficiency of modern gas turbines with cogeneration can sur-
+pass 90%. 
+ Carbon neutrality is becoming a key long -term goal for coun-
+tries and organizations. The European Union (EU) has set an example by aiming to reach this goal by 2050  and 90% CO
+2 
+emission reduction by 2040 . However, switching from coal to 
+natural gas power generation and improving efficienc y can 
+only  be the first step towards it. After replacement of coal 
+power stations with new gas -fired power combined -cycle 
+power plants, the next step is to work to a full decarboniza-
+tion of gas turbines. This can be done either by switching to 
+hydrogen, using other sustaina ble fuels such as biofuels or 
+hydrogen derivatives (e.g. ammonia or methanol) or through Carbon Capture and Storage (CCS). Al l decarbonization op-
+tions are described in the Whitepaper "Decarbonization Path-
+ways for Hydrogen" by Siemens Energy [4] . This whitepaper 
+focuses solely on hydrogen as a fuel for gas turbines.  
+ 
+Displacement of natural gas with sustainable hydrogen  (H
+2) 
+is a viable means of enabling carbon neutral power plant op-
+eration as hydrogen combustion produces no CO 2. Addition-
+ally, blending natural gas and hydrogen can substantially 
+lower carbon emissions and provide a steady reduction of 
+emissions as the hydrogen portion in the fuel is continuously 
+increased over time. For hydrogen mixtures the relationship 
+between CO 2 reduction and hydrogen volume content is non -
+linear as shown in Figure 1.  
+ 1  Why use hydrogen as a fuel for gas turbines?  
+Figure 1: Relationship between hydrogen  content in natural gas  
+[volume %] and relative CO 2 emissions from the combustion process  
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  5 Substituting natural gas with hydrogen over time means that 
+power plants remain  eligible for operation even with in-
+creased CO 2 emission regulatory limits . New regulations  put 
+more stringent requirements on carbon emission from power and heat generation.  
+ Going forward , hydrogen fueled gas turbines and combined  
+cycle power plants will enable a fully decarbonized power  
+system, as planned e.g. in the UK or Germany. In such decar-
+bonized power systems renewable energy provides the back-
+bone of all energy consumed, and the combined and simple 
+cycle power plants provides the residual load for periods of 
+low renewable energy production , so called "dark doldrums" 
+(dark and wind still periods) , as well as enabling large scale, 
+seasonal storage of renewable electricity.  
+ 
+The hydrogen fuel blending not only lowers CO
+2 emissions of 
+gas turbines, it also ensures that the gas turbines can act as  
+long -term electricity storage by means of  hydrogen re-electri-
+fication. Hydrogen can serve as a chemical storage vehicle by 
+being produced through electrolysis (or other processes) dur-
+ing times of excess renewable energy generation and then 
+used to fuel gas turbines, converted to hydrogen derivatives 
+or sold  to other industries  as shown in Figure 2 . 
+ As shown in Figure 1,  to reach a 50% reduction in CO
+2 emis-
+sions from the gas turbine combustion process, approxi-mately 77vol -% hydrogen co -firing is needed. Due to the high 
+costs of sustainable hydrogen compared with natural gas, op-
+eration of hydrogen in gas turbines  is not economically com-
+petitive with natural gas today , and governmental support, 
+carbon taxation and/or legislation is essential to accelerate 
+the deploy ment of hydrogen as a fuel . Co-firing in small 
+quantities or in a smaller gas turbine already improves the 
+emission footprint with an acceptable economic impact. For example, adding only 10 vol% hydrogen in the fuel will re-
+duce CO
+2 emissions by 2.7%, which would result in a reduc-
+tion of 30 ,000 metric tons of CO 2 for a reference 850 MW 
+combined cycle power plant that runs for 6 ,000 hours a year 
+at an average 6 0% efficiency.  
+ 
+ 
+The impact of hydrogen gas turbines 
+on the power sector  
+ 
+In January 2019, the EU  Turbines industry association mem-
+bers committed to developing gas turbines capable of operat-
+ing on 100% hydrogen by 2030  [5]. This shows the gas tur-
+bine industry’s commitment to decarbonization and will make it possible to use gas turbines for completely carbon 
+emissions -free operation.  
+ 
+The use of hydrogen in gas turbines has several benefits to 
+the power sector.  
+• For operators, the use of hydrogen fuels reduces the car-bon emissions of existing generation plants. It allows these 
+facilities to participate in low carbon energy markets, 
+makes flexible and decarbonized generation capacity avail-
+able and prevents  stranded assets due to potential future 
+regulations on emissions reductions.  
+• For the grid, gas turbines operating on hydrogen fuel or hydrogen fuel mixtures are dispatchable and make flexible 
+and decarbonized generation capacity available.  In addi-
+tion to providing inertia, they also provide much needed 
+grid ancillary services such as reactive power control, volt-
+age control and short circuit power. Optionally, gas tur-
+bines and combined cycle power plants can be prepared to Figure 2: Production, transport and uses of hydrogen.  
+
+Unrestricted   © 2025  Siemens Energy  Page  6 be black start capable as well as to act as synchronous con-
+denser in times where the unit is not providing active 
+power.  
+• For the power sector, continuing to use the installed fleet 
+of gas turbines avoids capital costs and CO 2 emissions asso-
+ciated with building new facilities to support the intermit-tent renewable energy market. Gas turbines in combined 
+heat and power arrangements in various applications can 
+provide steam and heat for industrial processes or district 
+heating, especially as these plants will operate at times 
+when there is a lack of renewable power, and thus also a 
+lack of power to operate heat pumps, which will be the 
+main technology to decarbonize lower temperature heat 
+applications. Indeed, residual load and residual heat times 
+are concurrent, so use of gas turbines for residual load and heat (through CHP) makes much sense.  
+ 
+In the IEA Net Zero 2050 scenario  [6], hydrogen for electricity 
+generation  is estimated to increase to 373 TWh by 
+2030, 1028  TWh by 2040 and 1161 TWh by 2050. This would 
+mean  according to IEA, an average blend of 5.9% hydrogen 
+by 2030 and 87 % hydrogen by 2050.   
+ 
+ 
+Application  path s for gas turbines  
+ 
+There are various application paths emerging for gas turbines 
+related to operation on 100% hydrogen or hydrogen blends 
+mixed with other fuels, e.g . natural gas  or biogas.  
+ Renewable electricity or electricity from other zero carbon 
+sources could be used to generate hydrogen in times of elec-
+tricity oversupply, which is then stored until needed. Up to 100% hydrogen can then be burned in peaking or intermit-
+tent operation gas turbine and combined cycle power plants 
+to provide zero or low carbon electricity and compensate for insufficient amounts of renewable electricity, thus providing 
+sustainable residua l (backup) power. Gas turbines are the op-
+timal solution since it can provide  both fast power for shorter 
+intervals as well as operation for days, weeks and even 
+months on stored hydrogen. In Combined Heat and Power 
+(CHP) plants, the exhaust heat from the hydrogen combus-
+tion could be reused to a large extent to improve the energy 
+efficiency of the hydrogen used in the re -electrification pro-
+cess, e.g. for district heating or process heat production.  
+ 
+ 
+Wher e does the hydrogen come 
+from?  
+ 
+The source of the hydrogen should be considered when as-
+sessing its impacts on carbon emissions in power generation applications. Hydrogen production can be classified accord-
+ing to its carbon footprint and production method:  
+ 
+Green Hydrogen  
+Hydrogen production with zero associated CO
+2 emissions, 
+such as electrolysis using electricity from 100% renewable 
+sources. Emerging technologies may also be classified as 
+green if there are no CO 2 emissions associated with the elec-
+tricity required for the process.  
+ 
+Blue Hydrogen  
+CO 2 capture systems are fitted to the hydrogen production 
+technology and the CO 2 sequestered in underground aquifers 
+or depleted oil and gas fields.  CO 2 capture is not 100% Figure 3: Sources of hydrogen generation.  
+ 
+ 
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  7 efficient, so some CO 2 will always be released to the atmos-
+phere. This fact, coupled with typical upstream methane 
+emissions make blue hydrogen a largely, but not 100% sus-
+tainable hydrogen. Depending on the c arbon capture effec-
+tiveness, blue hydrogen reduce s GHG emissions usually be-
+tween 70 and 85% compared with grey hydrogen.  
+ Grey / Black / Brown  Hydrogen  
+Hydrogen is produced conventionally from natural gas with 
+Steam Methane Reforming (grey), lignite (brown) or bitumi-
+nous coal (black), using coal gasification. In all these cases, 
+CO
+2 is produced during the hydrogen production process and 
+released to atmosphere. To date, more than 90% of the 
+worldwide hydrogen is supplied via this route. Using these 
+for power generation  would  generate even larger amounts of 
+CO 2 emissions  than with  natural gas.  However, t he use of s ur-
+plus hydrogen -rich flare gases from petroc hemical sources , 
+e.g. in a combined heat and power plant  is economically a 
+very attractive option already today , which increases the effi-
+ciency of the hydrogen utilization compared with a more tra-ditional combustion in a stand -alone boiler . 
+ 
+Turquoise  Hydrogen  
+Hydrogen produced  through methane pyrolysis with carbon 
+sequestration . While this is also a low carbon pathway for 
+producing hydrogen, it is not yet commercially available . 
+ Other  Hydrogen  sources  
+There are also additional color codes for other forms of hy-
+drogen production:  
+• White hydrogen: Extracted from naturally occurring geo-logical hydrogen reservoirs, a potentially attractive carbon -
+neutral (but not sustainable) source of hydrogen   
+• Pink hydrogen (sometimes also referred to as red or pur-
+ple): Produced through electrolysis from nuclear power  
+• Yellow hydrogen: Produced through electrolysis from grid 
+mix of renewables and fossil energy. Some associate this 
+color only to solar power  
+• Orange hydrogen: Produced from plastic and other waste.  
+ 
+According to the Net Zero 2050 scenario by IEA by 2050, ap-
+proximately 78% of all sustainable hydrogen produced will come from low -emissions electricity (green) and the remain-
+der from fossil fuels with CCS (blue).  
+ 
+Hydrogen carriers  
+There are various carbon neutral hydrogen carriers suitable for storage or long -distance transport, e.g. via synthesis of 
+ammonia and Liquid Organic Hydrogen Carriers  (LOHC ). Plans 
+are being made to allow transportation of hydrogen in liquid form or via hydrogen carriers by ship to allow worldwide 
+trading in case pipeline  supply of hydrogen is  technically or 
+commercially not a viable option. According to the Hydrogen 
+Council , the optimal carrier depends on the intended end -use, purity requirements , transpor t distance  and the need for 
+long -term storage  [7]. The long -term optimal choice of car-
+rier depends on a range of factors : Liquid hydrogen is most 
+efficient if the destination requires liquid or high -purity hy-
+drogen, and has benefits if hydrogen needs to be distributed 
+with trucks after landing at port. This is typically the case for 
+hydrogen refueling stations for cars or tr ucks. In contrast to 
+ammonia and LOHC, liquid hydrogen does not require dehy-
+drogenation or cracking to convert into gaseous hydrogen, 
+which not only saves costs but also avoids purity challenges 
+caused by carrier residues. The main drawback of liquid hy-drogen is its relatively low volumetric energy density com-
+pared with ammonia, which limits the amount of hydrogen 
+per ship, the energy req uired for liquefaction and the boil -off 
+losses that occur with every day of storage. While liquefac-
+tion is a proven and commercialized technology, liquid hydro-
+gen shipping and large -scale storage –  which requires suppli-
+ers to manage the boil -off losses –  remain in the early stages 
+of deployment.  
+ Hydrogen transport via pipelines (blended/dedicated)  
+Hydrogen produced from any source (green, blue or grey) 
+can be injected into the existing natural gas network. In this 
+case, any consumer (industrial, commercial or domestic) 
+would  be required to operate gas -fired equipment using nat-
+ural gas with a hydrogen content. This may pose a challenge 
+to many consumers and additional investment would be re-
+quired to have all connected hardware able to run with hy-
+drogen in the fuel. The hydrogen percentage could vary de-
+pending on the purity of the injected hydrogen, th e injection 
+frequency (continuous or intermittent), the complexity of the network, and the distance of the consumer from the point of 
+injection.  
+ 
+While some customers of natural gas could easily adapt to 
+consume a methane -hydrogen blend (e.g. gas turbines), 
+other sectors may have difficulties accepting higher hydrogen 
+blends, and some (like the chemical industry) are interested 
+in the methane molecu le itself , rather than only in the en-
+ergy content of the gas. In addition, many small natural gas appliances are limited to less than 20% hydrogen content, 
+hence requiring limiting the blending quota in varying oper-
+ating conditions (both the natural gas co nsumption and the 
+production of hydrogen from renewable energy show signifi-cant, frequently opposite seasonality). Such an approach will require regulators to redefine the permissible specifications 
+for “pipeline quality” natural gas. High pressure transmi ssion 
+pipelines can be adapted to carry different hydrogen contents 
+with limited retrofit requirements. While changes to valves 
+and compression stations will be required, the pipes them-
+selves would usually not require replacement. Unchanged, 
+pipelines toda y are unlikely to exceed 25 vol% hydrogen due 
+to concerns over leakage through seals, welds,  and valves  or 
+other mechanical constraints, while several sectors will be 
+very critical with fluctuating or hydrogen contents already 
+over 5%.  
+Unrestricted   © 2025  Siemens Energy  Page  8 Hence, an alternative (and more feasible option) to hydrogen 
+blended into existing pipeline s is a second, dedicated hydro-
+gen pipeline to run in parallel to the natural gas lines, repur-
+posed from an existing natural gas pipeline. Older gas net-
+works built for town or city gas, e.g. old town gas pipes, can 
+already accept hydrogen contents of up to 50%. Cross -linked 
+polyethylene (XLPE) pipes used in low pressure natural gas 
+distribution systems appear to be suitable for up to 100% hy-
+drogen. In the long term, ga s networks can be rebuilt to carry 
+100% hydrogen. The highly integrated European natural gas 
+transmission networks represent an economically advanta-
+geous way to distribute large quantities of energy as re-
+quired. The pipeline networks are available, sociall y accepted, 
+and can be gradually converted to hydrogen operation with 
+an investment of an estimated 10 -15% of the cost of new 
+constructio n. [8] The European Hydrogen Backbone (EHB) In-
+itiative is planning to deploy a separate hydrogen pipeline in-
+frastructur e for 100% hydrogen through reconversion of 
+some existing natural gas pipelines and a few new hydrogen pipeline builds. This initiative will be executed over the next 
+decades and gradually lead to a European network that links 
+main production sites, import  terminals, underground stor-
+age caverns and main consumers of hydrogen. [9]  
+ 
+As different approaches (blended vs. pure hydrogen) might 
+be used in different regions, gas turbines must therefore be 
+able to operate in the future on any fuel gas from 100% natu-
+ral gas to the maximum hydrogen content permissible on the 
+pipeline network.   
+Unrestricted   © 2025  Siemens Energy  Page  9 Hydrogen combustion fundamentals 
+ 
+Hydrogen differs from hydrocarbon fuels by its combustion 
+characteristics, which pose unique challenges for gas turbine 
+combustion systems designed primarily for natural gas fuels. 
+Flame temperatures for hydrogen under adiabatic and stoi-
+chiometric conditions are almost 300 ºC higher than for me-
+thane. Hydrogen’s laminar flame speed is  up to 8 times that 
+of methane  and the auto -ignition delay time of hydrogen is 
+more than three time s lower than methane, as shown in Fig-
+ure 4 for flame temperatures of 1600 °C  and gas turbine con-
+ditions . With these characteristics hydrogen is a highly reac-
+tive fuel and controlling the fla me to maintain the integrity 
+of the combustion system and reach the desired level of 
+emissions is a formidable challenge for research and develop-
+ment teams.  
+ 
+ 
+ 
+Dry Low Emission (DLE) combustion 
+technology  
+ In dry low emissions combustion systems, fuel and air are 
+mixed prior to combustion in order to precisely control flame 
+temperature which, in turn, allows the control of the rates of 
+chemical processes that produce emissions such as nitrogen 
+oxides (NO
+x). The relative proportions of fuel and air is one of 
+the driving factors for NO x but also for flame stability. Hydro-
+gen’s higher reactivity poses specific challenges for the mix-ing technology in DLE systems: 
+ • Higher flame speed with hydrogen increase s the risk of 
+the flame burning closer to the injection points, travel-
+ling back into mixing passages , or burning too close to 
+liner walls leading to damage (see example in Figure 5). 
+This risk increases as the hydrogen content in the fuel is 
+increased and with increasing combustion inlet and 
+flame temperature  
+• Hydrogen’s lower auto -ignition delay compared to me-
+thane increases the likelihood of igniting the fuel in the mixing passages leading to damage  
+• Changes to thermoacoustic noise patterns because of the different flame heat release distribution can affect 
+combustion stability and reduce the life of combustion 
+system components . 
+ Siemens Energy DLE combustion systems generally use swirl 
+stabilized flames combined with lean premixing to achieve 
+low NO
+x emissions without dilution of the fuel. The accepta-
+ble fuel fraction of hydrogen depends on the specific com-
+bustion system design and engine operating conditions. 
+Hardware and control system changes are required for higher 
+safety, meet NO x emission limits and manage varying fuel 
+compositions. Siemens Energy is in the process of extending 
+the hydrogen capability of its DLE systems, with more details 
+provided in the following sections.  
+ As hydrogen capabilities are still under development for the 
+different turbine families, some operational restrictions may 
+be required at high hydrogen contents. These may include 
+derating, the use of a conventional fuel for startup and shut-
+down, and highe r NO
+x emission levels which may require the 
+need for post -combustion emission control like Selective Cat-
+alytic Reduction (SCR) systems. In the long term, we envisage performance levels with hydrogen combustion comparable to 
+natural gas operation.  
+ 
+ 
+ 
+ 2  Hydrogen combustion  
+Figure 4: Hydrogen’s impact on auto -ignition delay for hydrogen -me-
+thane mixtures . 
+Figure 5: Flame position changes with increasing hydrogen fuel con-
+tent, showing the most compact flame at 100% hydrogen. Also note 
+how the 100% hydrogen flame is not as luminous as the natural gas 
+flame  [10] . 
+
+Unrestricted   © 2025  Siemens Energy  Page  10 Non-DLE combustion technology  
+ 
+Non -DLE technology uses diffusion flames or partially pre-
+mixed flames. There are several advantages and disad-
+vantages associated with non -DLE systems:  
+ 
+• In general, these systems handle a large envelope of fuel 
+compositions, and 100% hydrogen is possible on various 
+Siemens Energy non -DLE gas turbines  
+• Diffusion flames require dilution to control NO x emis-
+sions, which are driven by high flame temperatures. Hy-
+drogen has higher flame temperatures compared to nat-
+ural gas, which means  NO x emission will be higher with-
+out abatement. Dilution is achieved by the introduction 
+of nitrogen (N 2), steam, or water into the flame:  
+o Nitrogen dilution has the advantage of being availa-
+ble at the plant as a cracking product in cases of am-
+monia cracking . Using the nitrogen produced as a 
+byproduct to dilute the fuel reduces plant operating 
+costs. 
+o Steam dilution is significantly more efficient than ni-
+trogen dilution in terms of emission reduction and in 
+combined cycle or Combined Heat and Power (CHP) 
+configurations steam dilution has a relatively small 
+plant efficiency impact.  
+o Injection of water into the combustor reduces the 
+combustion flame temperature, thereby reducing 
+NO x and has the added benefit of boosting power 
+output of the gas turbine.  
+ 
+High costs and increased turbine maintenance associated 
+with dilution  due to the injection of nitrogen or demineral-
+ized water make diffusion flames with this abatement tech-nology rather unattractive.  
+ 
+• For single shaft gas turbines, surge margin can be a chal-
+lenge with diluted high -hydrogen fuels due to changes in 
+the balance of volumetric flow between the compressor 
+and turbine. This can be managed by compressor and / or 
+turbine modifications . 
+ 
+ 
+NO x emission correction when  
+burning hydrogen rich fuels  
+When burning hydrogen rich fuels, attention needs to be 
+placed on the emission limit calculation methodology, which 
+leads to a different range of values compared with conven-
+tional fuels.  
+Today, most emission limit regulations are defining NO x emis-
+sions as a relative concentration of NO x in the exhaust gas of 
+the turbine, e.g. as ppmv or mg/N m3, but always referenced 
+to 15% O2 content in the exhaust gas and to dry exhaust conditions. This calculation method was selected for ease and consistency of measurement across different turbines ex-
+cess air and operational profiles.  
+With hydrogen as a fuel, this leads to a double change of the 
+correction factor: On one hand, there is more water vapour in the exhaust gas, so normalizing to dry exhaust conditions in-creases the ppm number. Similarly, combusting H
+2 leads to a 
+reduced consumption of oxygen, which again requires a 
+larger correction factor increasing the ppm value. At 100% 
+H2, these effects lead to numerically overinflated NO x emis-
+sions by 37.2% (see F igure 6). These effects need to be taken 
+into account when setting new NO x emission limits or when 
+comparing emissions between different fuels. 
+As a solution to this calculation bias, it is recommended to 
+adapt the measurement unit to neutralize the emission bias 
+of the fuel. This can be done either via a fuel correction fac-
+tor or via a switch from a volumetric to a mass specific meas-
+urement unit,  e.g. mg per energy unit (consumed or pro-
+duced). A potential variation of the hydrogen content in the 
+fuel over time also needs to be taken into account.  
+ 
+ 
+ 
+  Figure 6: Energy -based emissions correction factor for increasing  
+hydrogen content in natural gas as a factor of the blending rate  
+
+Unrestricted   © 2025  Siemens Energy  Page  11 Siemens Energy gas turbine hydrogen 
+operating experience  
+Siemens Energy fleet experience with high hydrogen content 
+fuels is extensive, with more than 55 units around the world 
+amassing more than  2.5 million operating hours since the 
+1960s. High hydrogen gas turbine applications have been 
+built for a range of industries and span the power range of 
+the Siemens Energy gas turbine portfolio. Experience has 
+been gained on unabated diffusion flame, Wet  Low Emissions 
+(WLE), and Dry Low Emissions (DLE) combustion technolo-
+gies. Although many of these references are based  on hydro-
+gen-rich synfuels, which offer a different combustion behav-
+ior compared with a natural gas -hydrogen fuel mixture, Sie-
+mens Energy has gained a high level of experience  in manag-
+ing hydrogen on a plant level and within their  gas turbine 
+systems (see F igure 7). 
+ 
+ Siemens Energy gas turbines can operate on high percent-
+ages of hydrogen fuel, with the specific capability of a unit 
+depending on the gas turbine model and the type of combus-
+tion system. See Figure 8  for the high -hydrogen options  
+across the portfolio for new unit applications that are availa-ble on specific request. For already installed units the current 
+capabilities are given in the gas turbine manual. Higher hy-
+drogen mixtures for those existing power plants and options 
+for upgrading are discussed in Secti on 5.  
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 3  Hydrogen capabilities in Siemens Energy gas 
+turbines  
+Figure 7: Siemens Energy’s high hydrogen fleet experience.  
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  12 Detailed information on GT families  
+ 
+Large gas turbines  
+DLE technology  
+Around the beginning of this century, gasification processes 
+were developed to convert coal or refinery residues via gasifi-
+cation and carbon monoxide (CO) shift reaction into CO 2 and 
+hydrogen. Following conversion, CO 2 is removed prior to 
+feeding the synthetic gas ( syngas ) to the gas turbine. These 
+Carbon Capture and Storage (CCS) syngases are characterized 
+by a very  high reactivity, as the thermal input to combustion 
+is almost completely from hydrogen. Significant development of these processes occurred during the 2000s and 2010s with 
+governmental support (EU, United States Department of En-
+ergy (US DOE) [11] , and German Federal Ministry for Eco-
+nomic Affairs and Energy (BMWi) [12] ). One of the central fo-
+cus areas of these governmentally funded programs was re-
+search and development of combustion technology for DLE 
+systems in large gas turbines, with the goal of substant ially 
+reducing or eliminating dilution in order to maximize plant 
+efficiency. While CCS -gasification plants are not yet commer-
+cially viable, the related research into highly reactive hydro-gen fuels has contributed to the development of future pure 
+hydrogen capable DLE technology.  
+Siemens Energy heavy -duty large gas turbines SGT5/6 -2000E 
+and SGT5/6 -4000F use the HR3 burner design. Based on a hybrid burner concept, the HR3 has a central pilot swirler and 
+a concentric diagonal swirler with gas injection through the 
+swirler vanes (SFI). The SGT6 -5000F and SGT5/6 -8000H use 
+Ultra -Low NO
+x Platform Combustion System (ULN/PCS) sys-
+tems which integrate SFI technology into a premixed pilot 
+and concentrically arranged main swirlers. These burners 
+combined have accumulated many millions of operat ing 
+hours and offer a wide range of fuel flexibility including the 
+capability to run on mixtures of natural gas and up to 30 vol% 
+hydrogen. The latest SGT5/6 -9000HL engines use the ad-
+vanced combustion for efficiency (ACE) system, which is ca-
+pable to run on  up to 50 vol% hydrogen. By 2030, commit-
+ments by Siemens Energy ask for the commercial availability 
+of large gas turbines capable of running on 100% hydrogen 
+in DLE mode . Figure 8: Siemens gas turbine portfolio hydrogen co- firing capability for new unit applications. Retrofit capabilities of existing units may vary due to 
+unique site constraints, combustion systems, implementation timing and other factors.  
+Figure 9: SGT -4000F annular combustion chamber . 
+
+Unrestricted   © 2025  Siemens Energy  Page  13  
+Figure 10: SGT -5000F combustion system . 
+In 2022, two Siemens Energy SGT5 -2000E utility scale gas 
+turbines were commissioned  to run commercially on a 27.2% 
+H2 content in the fuel with DLE technology. The power plant 
+operates on a hydrogen -rich refinery offgas, providing Com-
+bined Heat and Power (CHP) in baseload mode to the adja-
+cent refinery. This hydrogen cofiring capability was achieved 
+through incremental  and retrofittable changes to the geome-
+try of the burners to improve flashback resistance at higher 
+hydrogen contents. It was tested and validated through a high -pressure combustion test at engine conditions. Valida-
+tion testing has indicated that NO
+x emissions will not exceed 
+50 mg/Nm3 during both operations  on natural gas and with 
+the hydrogen fuel mixture.   
+In December 2024, UK energy company SSE Thermal and Sie-mens Energy announced an accelerated hydrogen power partnership, launching “Mission H
+2 Power” – a collaboration 
+which aims to deliver gas turbine technology capable of run-
+ning on 100% hydrogen, fuelling the transition to net zero 
+and potentially boosting the UK’s energy security. The project 
+builds on the existing partnership between SSE and Siemens 
+Energy. It support s the decarbonisation of SSE’s Keadby 2 
+Power Station in North Lincolnshire, which is p owered by  a  
+Siemens Energy’s SGT5 -9000HL gas turbine.  
+Under the co- investment , Siemens Energy will develop a 
+combustion system for its SGT5 -9000HL gas turbine capable 
+of operating on 100% hydrogen, while maintaining the flexi-
+bility to operate with natural gas and any blend of the two. 
+This will see additional facilities constructed at Siemens En-
+ergy’s Clean Energy Centre in Berlin to allow testing of the 
+technology for large gas turbines to take place [13] . 
+No -DLE Technology  
+Since the early 1990s, Siemens Energy has gained experience operating some of its large gas turbine products employing 
+non-DLE combustion technology on hydrogen fuel mixtures, 
+specifically in applications of gasification processes with dif-
+ferent feedstocks (coal, waste from the petrochemical indus - 
+ try, and biomass) and waste gases from steel mills (coke oven 
+and blast furnace gases) [14] . These syngases  are mixtures of 
+varying composition, but typically have significant fractions 
+of hydrogen and CO, as well as inert gases (N
+2, CO 2, steam). 
+In general, Siemens Energy is focusing its hydrogen R&D on 
+DLE technology only. Other forms of NO x abatement such as 
+WLE are not being developed due to their very high water 
+consumption and operating costs. 
+ 
+Figure 11: SGT5/6 -9000HL combustion system . 
+ 
+Medium industrial gas turbines  
+DLE technology  
+Figure 12: 3rd generation DLE combustion system . 
+The SGT -600, 700 and 800 use 3rd generation DLE technol-
+ogy with a cylindrical duct downstream of a conical swirler for optimal premixing. Over the last decade, further develop-
+ment and testing of the burner has steadily improved its hy-
+drogen capability. Rig  and engine testing over the last three 
+years has cleared 75 vol% hydrogen on the SGT -600, SGT -700 
+and on the SGT -800. The SGT -600 has operated up to 88 vol% 
+of hydrogen in a commercial environment, and a variant  of 
+the 3rd generation DLE burner, that is u sed in all three en-
+gines, has been tested at the Siemens Energy Clean Energy 
+Center in Berlin with up to 100% hydrogen fuel at engine -like 
+conditions. This significant achievement was enabled by  
+additive manufacturing which allowed for more efficient  
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  14 combustion system aerodynamics. Continued engine testing 
+isplanned going forward with the target to reach 100% hy-
+drogen capability in near term.  
+The SGT -750 engine is equipped with the 4th generation DLE 
+burner.  The 4th generation burner has a central premixed pi-
+lot with radial main swirler, contrasting it from the HR3 
+burner which uses a diagonal swirler. The 4th generation 
+burner has been tested  for various fuel compositions includ-
+ing hydrogen -methane mixtures and the SGT -750 has proven 
+operation up to 40 vol% hydrogen fuel [15] . 
+Siemens Energy has sold two SGT -600 for the Braskem refin-
+ery in Brazil, with capability to operate on 60 vol% hydrogen 
+in DLE combustion mode keeping NO x emissions controlled to 
+25ppmv. This power plant started operation in 2021 under an Operation & Maintenance contract where Siemens Energy 
+take s responsibility for delivery of power and heat to the ad-
+jacent refinery with r eliability and availability guarantees.  
+Since  then, the units have been operating in baseload opera-
+tion with average hydrogen blends of around 60 vol% and a 
+maximum of 88 vol%.  
+Non -DLE technology  
+Siemens Energy has gained extensive experience with high -
+hydrogen fuels on SGT -500 and SGT -600 industrial gas tur-
+bines burning refinery fuel gases with up to 90 vol% hydro-
+gen content. For example, 10 SGT -500 units in the field have 
+gathered more than 800,0 00 combined operating hours on 
+high -hydrogen fuels using non- DLE systems since 1979.  
+  
+ 
+Figure 13: SGT -500 Non -DLE combustion system . 
+ 
+Aeroderivative gas turbines  
+DLE technology  
+The Siemens Energy aero -derivative engines, like the SGT -
+A35 (see Figure 14), use axially staged DLE burners with ra-
+dial swirlers in the primary stage and secondary non- swirling 
+premixing ducts axially downstream, which are stabilized by 
+the hot gases from the primary stage. Axial staging is com-
+monly used in multi -shaft engines to  ensure optimal opera-
+bility for all powers and conditions and to minimize thermo -
+acoustics as the heat release profile through the combustor can be varied for a given constant power. The SGT -A35 com-
+bustion system has the capability to run with up to 15 vol % 
+hydrogen today, and the A05 is capable of 30 %. 
+ 
+ 
+Figure 14: SGT -A35 DLE combustion system . 
+Non -DLE technology  
+Non -DLE systems in the Siemens Energy aeroderivative gas 
+turbine family are adapted from aerospace engine applica-
+tions. These systems can operate on both gas and liquid 
+fuels, with NO x controlled by using water injection to reduce 
+flame temperature. The SGT -A35 uses the Phase II combus-
+tion system and is capable of operating on 100% hydrogen. 
+The SGT -A20 has significant experience operating on high-
+hydrogen fuels (up to 78 vol%) in petrochemical applications. Rig testing of the SGT -A65 and SGT -A45 combustion system 
+has been conducted to understand the emissions characteris-tics of hydrogen -methane mixtures and pure hydrogen with 
+water dilution.  
+ 
+ 
+Figure 15: SGT -A35 Non -DLE combustion system . 
+ 
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  15 Small industrial gas turbines  
+DLE technology  
+Siemens Energy small industrial gas turbines SGT -100, 200, 
+300 and 400 use G30 burner technology, a proven radial 
+swirler premixing design which has gone through significant 
+fuel flexibility programs, driven by petrochemical customer 
+demand. This combustor  technology can burn mixtures of hy-
+drogen and methane up to 30 vol% on the SGT -100, -300 and 
+-400, which is being further developed for increased hydro-
+gen fractions through the Siemens Energy hydrogen 
+roadmap. The SGT -400 has been selected as the technolog y 
+proving platform for the new hydrogen DLE burner system, and in September 2023 has already demonstrated 100% DLE 
+operation with hydrogen at the HYFLEXPOWER project in 
+France  [16] . Details of this project are shown under an own 
+chapter in this section. Latest by 2030, commercial availabil-
+ity of 100% hydrogen operation in DLE mode for first small 
+industrial gas turbines is targeted.  
+ 
+Figure 16: SGT -400 DLE combustion system . 
+Non -DLE technology  
+The SGT -200 and SGT -400 with non -DLE combustion systems 
+have more than one  million operating hours in coke oven gas 
+applications, which are characterized by high hydrogen (50 -
+65 vol%) content, and significant amounts of carbon dioxide 
+and carbon monoxide. The SGT -200 has refinery gas experi-
+ence with contents of hydrogen up to 85  vol% with more 
+than 800,000 operating hours.   
+ 
+Technology enablers and Siemens 
+Energy roadmap toward 100%  
+hydrogen gas turbines   
+ 
+Siemens Energy is employing several key technology enablers 
+to further develop the hydrogen capability of its gas turbines.  
+ 
+High fidelity Computational Fluid Dynamics (CFD)  
+Advanced CFD tools allow Siemens Energy combustion engi-
+neers to run analyses on fuel burners to identify the key design measures needed to increase a combustion system’s 
+hydrogen fuel capabilities. Combustion CFD tools provide en-
+gineers with a clearer picture of the flame structure, as 
+demonstrated on the SGT -800 fuel injector study in Figure 
+17. The tools are calibrated for Siemens Energy designs and 
+verified through years of combustion development and verifi-
+cation testing allowing reliable evaluation of d esign options 
+in the early phases of a project. With increasing share of hy-
+drogen, thermo- acoustics of the flame changes as explained 
+in Section 2. To account for this effect, Siemens Energy is en-
+gaged with universities to implement the latest advances 
+from the research community into their tool suite  and to take 
+those effects into account during early stages of the design process.  
+ 
+ 
+Additive manufacturing  
+Siemens Energy’s additive manufacturing capability enables 
+the integration of innovative design features and allows tech-
+nology validation time to be accelerated by up to 75%. Sie-
+mens Energy has built up an additive manufacturing ( AM) 
+business to establish prototype and serial manufacturing ca-pability. Over the recent years tremendous efforts have been 
+made in the fields of materials and processes, industrializa-
+tion, and design for function. Materials such as IN 625 and 
+Hastelloy X hav e been fully characteri zed to enable designers 
+to utilize the benefits of AM. Moreover, the productivity of 
+the respective processes was significantly improved via in-
+creased layer thicknesses and transfer to industrial multi -laser 
+machines. Key , however, is the integration of AM in a bigger 
+scale production landscape including de -powdering, removal 
+of supports, heat treatment, and respective quality control. 
+Today a global fleet of more than 50 laser -powder bed ma-
+chines produces metal parts for S iemens Energy gas turbines 
+in their production facilities located in Orlando, F lorida,  USA , 
+Worcester, U nited Kingdom and Finspång , Sweden. Figure 1 8 
+shows final AM built  premixed combustion swirlers for heavy -
+duty large gas turbines.  
+Figure  17: CFD flow field overview from a study of SGT -800 3rd genera-
+tion burner with high -hydrogen fuels [17] .  
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  16  
+ 
+This enables  a faster response to changing customer needs. 
+As shown in Figure 1 9, additive manufacturing is supporting 
+the development of combustion technology that can over-
+come the challenges of hydrogen applications . It enabl es the 
+creation of complex cooling features and fuel routing that 
+would not previously have been possible with conventional 
+manufacturing techniques. These features are vital when it 
+comes to ensuring stable combustion of hydrogen.  
+ 
+High pressure combustion testing  
+Despite all the advances that were made in past years in the 
+area of CFD, combustion today is still a complex field  that 
+cannot be modelled with theoretical models alone . Testing the combustion systems at engine pressure and temperature 
+conditions is therefore still an important part of the Siemens 
+Energy design process. All new developments undergo rigor-
+ous testing to ensure safe operation at the customer site. The Clean Energy Center in Berlin is Siemens Energy’s facility for 
+high pressure (35 bar) combus tion tests, shown in Figure 20. 
+The facility supports testing of components and systems for the entire Siemens Energy gas turbine portfolio – from large 
+gas turbines down to small industrial designs –  and allows for 
+a wide variety of fuels to be tested. In 2019, hydrogen testing capabi lity was added to ensure support of the increased de-
+mand for hydrogen applications . In the next years, the hydro-
+gen capability of the CEC near Berlin is to be expanded to al-
+low for increased number and volume flows of testing.  With 
+this in-house capability , Siemens Energy ensures new 
+knowledge is shared across their  fleet and timely support is 
+provided to customer projects for special fuels like hydrogen.  
+ 
+ 
+ 
+ 
+Figure 20: Clean Energy Center facilities for high pressure combustion 
+tests, Berlin, Germany. 
+ 
+ 
+The HYFLEXPOWER Project – Technology for Deep  
+Decarbonization with 100% Hydrogen Power -X-Power  
+Siemens Energy committed to advancing technology through 
+a building block strategy aimed at developing hydrogen -natu-
+ral gas flexible combustion systems across its gas turbine 
+product range. This approach involved creating a set of core 
+technology elements that could be universally applied within 
+the product portfolio.  
+The innovative technology was developed and initially demonstrated in an existing SGT -400 based cogeneration fa-
+cility in Saillat -sur-Vienne, France (Figure 2 2) within the EU -
+funded HYFLEXPOWER project. In 2020, a Siemens Energy -led 
+consortium including ENGIE, Centrax, Arttic, German Aero-
+space Center (DLR) and four European universities, at the 
+Smurfit Westrock paper recycling plant, launched the imple-
+mentation of HYFLEXPOWER, the world’s first industrial 
+power -to-X-to-power demonstrator with an advanced H
+2 gas 
+turbine. The integrated hydrogen project as shown in Figure 21 demonstrated that an existing industrial Combined Heat 
+and Power (CHP) plant can be upgraded for production of green hydrogen from renewable energy in an electrolysis fa-
+cility, hydrogen compression and storage and its further re -
+electrification. For this, the existing SGT -400 industrial gas 
+turbine was upgraded to allow for combustion of stored 
+Figure  19: Fuel burner design progressions from welded ( top left) to 
+SLM additive manufacturing ( bottom  right) for 3rd generation DLE 
+burner . 
+Figure 1 8: Additive manufactured premixed combustion swirlers for 
+heavy -duty large gas turbines.  
+Unrestricted   © 2025  Siemens Energy  Page  17 green hydrogen into electricity and thermal energy. During 
+two demonstration campaigns in 2022 and 2023, the facility 
+demonstrated for the first time a flexible operation with nat-ural gas -hydrogen fuel mixtures from 100% natural gas to 
+100% H
+2 in DLE operation mode enabling CO 2-free power and 
+heat generation with green hydrogen.  
+By taking this approach, the overall development timeline and cost of the 100% H
+2 DLE combustion technology for the 
+GT portfolio was minimized. Additionally, the risk for the 
+higher firing temperature gas turbines will be mitigated by 
+first validating the technology elements in smaller, lower fir-
+ing temperature gas turbines.  
+ The HyCoFlex Project  
+In 2024, the EU and UK -funded HyCoFlex  project was 
+launched at the same industrial cogeneration site as the HYFLEXPOWER project, building on its foundational achieve-
+ments. Led by Siemens Energy, the HyCoFlex consortium 
+aims to advance the power -to-hydrogen -to-power plant for 
+combined heat and power (CHP) applications, with a focus  
+on enabling gas turbines to operate flexibly on up to 100% hydrogen. The project is set to demonstrate the technology 
+through site testing in 2025 and 2026, validating the com-
+mercialization potential of the SGT -400 DL E hydrogen gas  
+turbine.  
+HyCoFlex seeks to optimize the hydrogen technology to en-
+hance efficiency, emissions control, and operational flexibil-
+ity in industrial cogeneration plants. By refining existing in-
+frastructure and developing tailored operational strategies, 
+the initiative a ims to address the dynamic needs of these fa-
+cilities. New design enhancements will push the turbine’s fir-ing temperature to its limits while ensuring compliance with 
+NO
+x emission targets, thereby establishing a robust founda-
+tion for commercialization. Thro ugh these advancements, HyCoFlex aspires to improve the performance and reliability 
+of hydrogen -fired gas turbines and contribute to the broader 
+goal of decarbonizing the energy sector while promoting sus-
+tainable industrial practices.  
+ 
+ 
+Figure 22: Smurfit  Westrock  SGT-400 Cogeneration plant in  
+Saillat -sur-Vienne, France. 
+ 
+Siemens Energy Zero Emission Hydrogen Turbine Center  
+Siemen Energy ha s developed a demonstration plant at their  
+gas turbine manufacturing facility in Finspång , Sweden, to 
+show how hydrogen and gas turbines, renewable energy pro-
+duction and energy storage work together in a future flexible 
+and sustainable energy system. Excess energy from gas tur-bine tests and electricity from solar panels are used to pro-
+duce hydrogen in an electrolyzer. The hydrogen is  stored and 
+used later as a fuel  for gas turbine testing. In the local mi-
+crogrid created, it will be possible to optimize the use of en-ergy through storage as hydrogen and/or in batteries. Hydro-
+gen produced in the plant will also enable continued research 
+and development to optimize the use of hydrogen in gas 
+Figure 21: Schematic of EU funded HYFLEXPOWER Project.  
+Unrestricted   © 2025  Siemens Energy  Page  18 turbines and reach Siemens Energy‘s goal to run gas turbines 
+on 100% hydrogen contributing to a full decarbonization of 
+the power sector.   
+The project was  developed in the framework of Era Net Smart 
+Energy Systems with support from the European Union‘s 
+Horizon 2020 research and innovation program and the Swe-
+dish Energy Agency. [18]  
+ 
+ 
+Figure  23: Siemens Energy’s Zero Emission Hydrogen Turbine Center . 
+ 
+Hydrogen roadmap for Siemens Energy gas turbines  
+The 100% hydrogen gas turbine program combines extensive 
+technology development for industrial and utility power gen-eration applications. Since the 1960s, Siemens Energy has 
+gained experience with high -hydrogen fuels on non -DLE  
+combustion systems. Beginning in the early 2000s Siemens Energy has invested in the development of DLE hydrogen 
+combustion technology. Siemens Energy is making signifi-
+cant strides in the development of 100% hydrogen- fueled gas turbines with DLE technology, in order to have the first frames commercially available latest by 2030. To achieve  this 
+target, they are continuously developing the necessary tech-
+nologies and implementing these new designs into the prod-
+uct portfolio.  
+  
+Summary  
+Over the last few decades, hydrogen capability in the Siemens  
+Energy gas turbine portfolio has been developed to meet cus-
+tomer and project demands. These demands have differed 
+significantly across the portfolio and the proven capabilities 
+clearly reflect this. The higher capabilities, for example in the 
+industrial ga s turbine portfolio, were driven by demand from 
+the industrial and petrochemical sector. We now see demand 
+rising in the energy sector for high -hydrogen capabilities due 
+to the drive toward ener gy decarbonization. Siemens Energy 
+is answering this demand with a development roadmap as 
+shown in Figure 2 4. 
+  
+ 
+ 
+ 
+ 
+ 
+Figure 24: Siemens Energy 100% hydrogen gas turbine roadmap.  
+Unrestricted   © 2025  Siemens Energy  Page  19 Additional systems required for  
+hydrogen co- firing  
+ 
+Hydrogen operation capability in power plants has additional 
+requirements on the systems and components upstream and 
+downstream of the gas turbine . 
+ 
+In case of supply  of a blended hydrogen/natural gas mixture, 
+all components in the fuel gas system upstream of the gas turbine need to be designed for hydrogen compatibility.  
+Depending on blend ing ratio, temperature and pressure, this 
+could affect components in different  systems such as pipes, 
+valves, filters/strainers, preheaters,  measuring devices and 
+transmitters.  
+ 
+Additional gas conditioning systems are required when there 
+is a separate hydrogen supply to the plant. In addition to the 
+requirements mentioned above in the fuel gas supply system, a hydrogen and natural gas mixing station with valves, gas composition and flow measur ement  would  be required  and 
+also the gas supply pressure would need to be slightly in-
+creased . Siemens Energy has designed an optimized mixing 
+station for such applications.  
+ 
+ 
+Power plant component considera-
+tions for hydrogen co- firing  
+ 
+Gas fuel supply system: 
+Because  the fuel gas system is handling the hydrogen di-
+rectly , the necessary hydrogen resistance needs to be con-
+firmed for the implemented components and materials. Fur-
+thermore, adapted requirements on pressure, flow and tem-
+perature to the gas turbine need to be considered in the de-
+sign of the gas fuel  supply system , possibly requiring in-
+creased  pipe diameters to accommodate the increased fuel 
+volume flow when burning hydrogen.  
+ 
+Heat Recovery Steam Generator (HRSG):  
+Downstream of the gas turbine the influence of hydrogen co-
+firing is smaller than upstream, but some mitigation may 
+need to be taken. Compared to natural gas firing, the HRSG 
+must handle exhaust gases with different compositions , vol-
+ume flows and in some ca ses changes to the exhaust temper-
+ature . In addition, provisions for ventilation may be required 
+in cases of unburned hydrogen entering the HRSG , e.g., after 
+a failed start or a flame -out event . In case of a supplementary firing system , additional aspects such as the flue gas charac-
+teristics need to be investigated.  
+ 
+Selective Catalytic Reduction (SCR) system : 
+Due to the increased NO x emissions associated with  burning 
+hydrogen, the provision of a Selective Catalytic Reduction 
+(SCR) System may become larger or necessary depending on 
+the applying local emission regulations. If a  SCR may  be re-
+quired  at a later stage when increasing the hydrogen content 
+over the  years , sufficient space in the HRSG needs to be pro-
+vided for a later retrofit.  
+ 
+Buildings and Venti lation : 
+Due to the different density and flammability characteristics 
+of hydrogen, the definition  of the hazardous areas in the 
+power plant needs to be revisited. Special consideration must 
+be taken on the active and passive venti lation  of the build-
+ings to handle any leakage of hydrogen  and the installation 
+of suitable  gas detectors to detect such  leakages.  
+ 
+Electrical Equipment:  
+Electrical systems in areas susceptible to hydrogen presence 
+will require a gas group classification according to IEC Group 
+IIC - in NFPA regions alternatively NEC 500 Class I Div 2 Group 
+B (explosion proof protection).  
+ Power plant performance:  
+Due to the different physical properties of hydrogen  com-
+pared to natural gas , the following effects on power plant 
+performance will need further consideration/adaptation in 
+detail: NO
+x emission handling, introductory ratings, design 
+back pressure drop, fuel gas  preheating, combustion stability 
+and dew point in the cold end of the HRSG /stack . 
+ 
+ 
+Hydrogen readiness for new gas  
+turbine -based power plants  
+ 
+In the next years, newly built gas power plants will mainly 
+run on natural gas, due to the already significant GHG reduc-
+tion when using natural gas compared with other dispatcha-
+ble fuels (e.g. coal) and the unavailability of large amounts of 
+hydrogen as  fuel. However, new power plants being built to-
+day will very likely be required to be converted at a later 
+stage to burn a blend of hydrogen up to 100% during the life-
+time of the plant , hence requiring provisions for cost -efficient 
+later retrofit for hydrogen  operation .  
+ 4 Hydrogen capabilities of power plant systems  
+Unrestricted   © 2025  Siemens Energy  Page  20 This demand s hydrogen -ready power plant  solutions with a 
+prepared pathway up to 100% hydrogen capability . In this 
+case the power plant  is designed to be converted to hydrogen 
+operations at a later stage.  A new power plant can also be 
+designed and build to operate with a defined share of hydro-
+gen without any technical modification ("H 2 Capability") . In 
+that way the power plant is already hydrogen capable, ac-
+cording to the limits of the current capabilities of the respec-
+tive gas turbine. However, today’s new power plants will typi-
+cally start operating with natural gas for a number of years. It 
+is the refore crucial to have the option of new natural gas 
+fired power plants solutions that can easily be upgraded and 
+converted to hydrogen operations as hydrogen becomes 
+available to the operator. By doing so, natural gas fired power 
+plants are future -proof a nd will be fit to meet the amount of 
+hydrogen for which it has been made ready, with minimal conversion costs ("H
+2 Readiness") . The efforts to upgrade 
+these power plants may vary for each power plant, as they are built according to specific requirements agreed between 
+the plant operators and the technology providers.  
+ 
+Hydrogen -readiness power plant concept certification  
+Siemens Energy is the first company worldwide to have re-ceived a third -party certification for its “H
+2-Ready” power 
+plant concept.  
+ 
+Depending on the required roadmap of hydrogen co- firing re-
+quirements over time, H ydrogen -readiness allows t he design  
+of power plants that enable a later retrofit to hydrogen co -fir-
+ing with minimal costs and disruptions, while keeping the ad-
+ditional front -end investment limited.  The detailed configura-
+tion of a hydrogen -ready plant will always be determined pro-
+ject-specific in line with the expected hydrogen co -firing 
+roadmap for the plant.  
+ 
+ 
+Figure 2 5: Hydrogen ready power plan t concept certification  
+ 
+The independent Certification Guideline for H 2-Readiness of 
+Combined Cycle Power Plants, provided by international certi-
+fication provider TÜV SÜD , covers the three phases in the life 
+cycle  of the  plant:  
+ 1. Bidding Phase -  when the concept of the h ydrogen -
+Readiness is established according to the client’s H 2-
+roadmap (Concept Certificate - Generic).  
+2. Project Phase – when the concept is implemented 
+into the design and construction of a H 2-Ready 
+power plant (Project Certificate – Project specific).  
+3. Transition Phase – when the plant is converted into 
+a H 2 fired plant, once h ydrogen is available (Transi-
+tion Certificate – Project specific). 
+ The “H
+2-Ready”  concept certificate provides a roadmap de-
+scribing how a new power plant can be converted over time 
+to co -fire hydrogen or even burn pure hydrogen, limiting fu-
+ture conversion cost and making the power plant future -
+proof. The certificate was awarded through the analysis of an 
+SCC-800 combined cycle power plant which was designed H 2-
+ready according to the certification guideline. Except for the 
+gas turbine  and associated package , the concept may also be 
+used for other gas turbine plant configura tions. On a project 
+specific case, the certification process can be further ex-
+panded with “ H2-Ready” - certificates for the plant specific 
+construction (Project Certificate) and retrofit phases (Transi-
+tion Certificate).  
+ Hydrogen -readiness categorization for n ew gas turbi ne 
+power plants according to EU  Turbines  
+Under the framework  of the EU Turbines Association  in which 
+Siemens Energy is a member , key gas turbine manufacturers 
+in the power plant industry will voluntarily indicate with each 
+newly built power plant a specific category of hydrogen -read-
+iness fulfilled by the power plant  [19] .  
+ 
+ 
+Figure 2 6: Hydrogen readiness levels and retrofitting effort categoriza-
+tion as defined by the EU Turbine Association  [18] .  
+ 
+ 
+
+Unrestricted   © 2025  Siemens Energy  Page  21 At this moment first countries are in the process of imple-
+menting a dedicated H 2 pipeline infrastructure with first pipe-
+lines becoming operational in Germany and Netherlands in 
+2025 and a first European hydrogen backbone in 2030. [9]  
+As hydrogen will remain  a scarce resource over the next dec-
+ade, the most likely scenario is that a limited number of hy-
+drogen valleys and a backbone grid connecting these valleys 
+and large -scale generation facilities will be available. These 
+regions and hydrogen pipelines will b e extended in the fu-
+ture. In the remaining gas grid, especially the distributio n 
+grid, we may see a blending of hydrogen into the existing 
+natural gas grid, but most indications point towards complete 
+separate hydrogen and natural gas networks. In such a case, 
+if a power plant requires a specific hydrogen blend, it will re-quire connection to both networks and a local mixing station. 
+The maximum blending share in pipelines is expected  to re-
+main to max. 5 -20% by volume -  if blending is  accepted at all.  
+ 
+Accordingly, t he EU Turbines Association defines three levels 
+of readiness according to the hydrogen content of the gas 
+used combined with a categorization of required retrofitting 
+effort as shown in Figure 2 6. Current market trands indicate 
+that most power plant operators interested in a later switch 
+to hydrogen plan for a 100% H
+2 readiness . 
+ 
+CertaLinkTM - Clean Energy Certification  
+Beyond the scope of hydrogen and new power plants, Sie-
+mens Energy is taking a holistic view of the entire energy 
+production and consumption market and the value of certify-
+ing cleanliness.  
+Siemens Energy has established with German Energy Agency 
+dena and TÜV Süd a partner ecosystem  for the verification 
+and certification of renewable energies , products and goods 
+made from them along the entire Power -to-X value chain 
+(CertaLinkTM). This distributed ledger technology based certi-
+fication system is tamper -proof, fully automated and covers 
+all aspects of the energy and hydrogen value chain, from re-newable energy, electrolysis, Power -to-X, and H
+2 re-electrifi-
+cation. As such, it enables a secure syst em to prove the sus-
+tainability of the whole energy value chain and its associated 
+CO 2 footprint.  
+ 
+ 
+  
+Unrestricted   © 2025  Siemens Energy  Page  22 The requirement to upgrade existing 
+gas turbines to hydrogen operation  
+ 
+Several reasons encourage  gas turbine operators to  consider  
+hydrogen fuel retrofits:  
+ 
+• Upcoming stricter regulation on emissions and use 
+of fossil fuels due to the Paris agreement (COP21), 
+other initiatives (e.g. European Green Deal , EU Tax-
+onomy ), political instruments and country targets 
+(more than  100 countries target or discuss targets 
+on net zero emissions).  
+• Increasing carbon pricing through CO 2 taxes or emis-
+sions trading  
+• Customer pressure, companies and owners´ com-
+mitments to reduce carbon footprint as well as re-quirements from investors and financing institutions 
+(e.g. European Investment Bank (EIB))  
+• Future blending of hydrogen in existing natural gas networks and pipelines, forcing existing gas turbines 
+installed in compressor/pumping stations and exist-
+ing power plants to cope with a certain hydrogen 
+content in the fuel  
+• The possibility to store excess production of electric-ity from renewables as hydrogen ( Power -to-X) and to 
+utilize it when demand is higher. Especially in re-gions with good renewable conditions, hydrogen re -
+electrification will likely emerge as the most effi-
+cient way providing decarbonized residual load  in a 
+fully renewable based power system, where hydro-gen serves as large scale, seasonal and long -term 
+storage of renewable energy  
+• The possibility to utilize hydrogen rich off -gas from 
+refinery and chemical processes  
+ These reasons, combined with the long lifetime expectancy 
+of gas turbines and combined cycle power plants of more 
+than  30 years, means that every new gas turbine built today 
+is likely to be still in commercial operation in the 2050s, 
+when the energy system should be largely decarbonized. 
+Hence, gas turbine -based power plants that recently began  
+operation or are built today are very likely to require a future 
+retrofit to operate  on low -carbon fuels such as hydrogen to 
+avoid any stranded assets in the generat ion fleet.  
+ What about the installed fleet of  
+Siemens Energy gas turbines?  
+ 
+The current hydrogen capability for existing gas turbines is 
+detailed in their specific gas turbine manuals, and is usually 
+rather low. The feasibility of retrofitting these units to accom-
+modate higher hydrogen concentrations will depend on sev-
+eral factors , including site constraints, the existing equip-
+ment and combustion system, the timing of implementation, 
+and other relevant considerations. 
+ 
+If operation with higher concentrations of hydrogen is de-
+sired, consultation with the Siemens Energy representative is 
+required. Siemens Energy will provide clarification on the fea-
+sibility of higher hydrogen content, including whether the ca-
+pabilities out lined in Figure 8  are applicable to the specific 
+gas turbine, which modifications would be required and any 
+potential impacts on service overhaul times.  
+ High -hydrogen fuels present challenges not only for the com-
+bustion system of the gas turbine but also for the overall gas 
+turbine package and plant.  
+ 
+When assessing the upgrade options for a gas turbine or 
+plant, it is essential to evaluate the current package design 
+and identify any necessary modifications. This ensures that all components and systems can safely operate with higher 
+hydrogen concentrati ons in the fuel.  
+ 
+Upstream of the combustion system, the use of hydrogen 
+fuels may necessitate modifications to component materials, pipe sizes, as well as sensors and safety systems. Down-
+stream, it is essential to assess the exhaust path, including 
+the Heat Recovery Steam G enerator (HRSG). Variations in ex-
+haust gas properties can affect heat transfer and corrosion 
+rates, potentially impacting the lifespan of components. We 
+recommend conducting a plant -specific analysis of all rele-
+vant factors to develop the most suitable solution.  
+ 
+To implement a hydrogen upgrade for our customers, we fol-
+low the process outlined in Figure 27. Typically, Siemens En-
+ergy’s scope will focus on the gas turbine package; however, 
+in some instances, the scope may extend to encompass the 
+entire power plant. F or more information on the implications 
+of hydrogen for a power plant, please refer to Chapter 4.  
+The scope of an upgrade package is determined by the target 
+hydrogen concentration in the fuel and the specific technical 5  Upgrading Siemens Energy gas turbines for 
+higher hydrogen fuel content operation  
+Unrestricted   © 2025  Siemens Energy  Page  23 requirements, local regulatory rules as well as the site -spe-
+cific configuration of the gas turbine and its associated sys-
+tems.  
+We are committed to continuously enhancing our upgrade 
+packages to ensure that owners of Siemens Energy gas tur-
+bines can effectively adapt their assets for higher concentra-
+tions of hydrogen fuels.  
+ 
+ 
+Can I upgrade my gas turbine power 
+plant?  
+ 
+High -hydrogen fuels not only pose challenges for the com-
+bustion system of the gas turbine, but  also to the gas turbine 
+package and plant as well. The package design must be eval-
+uated to ensure all components and systems are capable of 
+safely running with higher hydrogen contents in the fuel. Up-
+stream of the combustion system, hydrogen fuels can require 
+changes to component  materials, pipe sizes, as well as sen-
+sors and safety systems. Downstream, the exhaust path in-cluding the HRSG must be evaluated. Varying  exhaust gas 
+properties can impact heat transfer and corrosion rates, pos-
+sibly impacting the life of components. Siemens Energy rec-
+ommends  a plant specific analysis of  all factors and develop 
+the most appropriate solution.   
+ 
+The effort to upgrade a gas turbine package for higher hydro-
+gen content depends highly on the age of the gas turbine and the status of the  installed package and plant auxiliaries . 
+To implement a hydrogen upgrade for their  customers, Sie-
+mens Energy  uses the process defined in Figure 27. 
+ 
+There are several physical properties of pure hydrogen and 
+natural gas -hydrogen mixtures that need to be considered. 
+Hydrogen’s lower density will lead to higher volumetric flow 
+rates, higher flow velocities and/or higher skid edge pres-
+sures, requiring a review of gas fuel skid capacities. For ex-
+ample, as the amount of hydrogen in the  fuel mixture in-
+creases, the required fuel volume flow will increase up to 
+three times when comparing natural gas to pure hydrogen at 
+the same pressure.  
+ Hydrogen is a smaller molecule than methane, which will re-
+sult in higher leakage rates (if used in a natural gas environ-
+ment), and  therefore appropriate plant modifications are re-
+quired. Additionally, hydrogen’s wider flammability range 
+and low ignition energy makes it more likely that fuel leaks 
+could ignite. The connections in the gas system, package 
+ventilation design, and gas det ection systems must be assessed for suitability for high -hydrogen fuel operation, 
+both with respect to material suitability an d explosion risks. 
+For example, a change to stainless steel material  might be 
+needed to prevent embrittlement and enclosed electrical 
+components may need to meet specific certification require-
+ments (e .g.: International Electrotechnical Commission (IEC) 
+gas groups IIC and IIB+H
+2). For the flame detection in the 
+package enclosure a combination of ultraviolet (UV) and in-
+frared (IR) radiation detectors might be required.  
+ Combustion control systems may require modification to 
+adapt to the changes in fuel properties when increasing the 
+hydrogen content in the fuel. Depending on the concentra-
+tion and engine configuration, the use of additional thermo-
+couples may be required wh ich would be monitored by the 
+control system to avoid hardware damage by flashback.  
+ 
+The scope of an upgrade package is related to the target 
+amount of hydrogen in the fuel and the specific technical  
+requirements for the application. For higher hydrogen  
+contents, the development of an upgrade package may have to balance between the scope of the modification, the associ-
+ated retrofit costs, the remaining lifetime  of the plant, the 
+regulatory emission requirements , outage intervals  and  
+resultant performance levels. In the end, the decision on 
+what specific measures should be implemented on an  
+existing unit always depends on the blending requirement,  
+the site -specific configuration of the gas turbine  and its  
+surrounding systems.  
+  
+Figure 2 7: Process for assessment, definition, and implementation of hydrogen upgrades.  
+Unrestricted   © 2025  Siemens Energy  Page  24  
+Abbreviations 
+ 
+ACE Advanced Combustion for E fficiency  
+BMW K Bundesministerium für Wirtschaft und Klima  
+(German Federal Ministry for Economic Affairs  
+and Climate)  
+CCS Carbon Capture and Storage  
+CFD Computational Fluid Dynamics  
+CHP  Combined Heat and Power  
+CO Carbon Monoxide  
+CO 2 Carbon Dioxide  
+DLE Dry Low Emissions  
+DOE  Department of Energy  
+EHB European Hydrogen Backbone (Initiative)  
+EIB European Investment Bank  
+EU European Union  
+G30  Name of Combustion System  
+GHG  Greenhou se Gases  
+HR Hybrid Burner  
+HRSG  Heat Recovery Steam Generator  
+H2 Hydrogen  
+IEA International Energy Agency  
+IEC International Electrotechnical Commission  
+IPCC  Inter governmental  Panel on Climate Change  
+IR Infrared  
+LOHC  Liquid Organic Hydrogen Carriers  
+MW Megawatt  
+Nm3 Normal Cubic Meter  
+NO x Nitrogen Oxides  
+N2 Nitrogen  
+NEC National Electric Code  
+NFPA  National Fire Protection Association  
+O&M  Operation and Maintenance  
+PCS Platform Combustion System  
+PPMV  Parts Per Million Volume  
+SAF Sustainable Aviation Fuel 
+SCR Selective Catalytic Reduction  
+SFI Swirler Fuel Injection  
+SLM  Selective Laser Melting  
+TWh  Terawatt -hour  
+UK United Kingdom  
+ULN  Ultra -Low NO x 
+US United States  
+UV Ultraviolet  
+WLE  Wet Low Emissions  
+XLPE  Cross -linked polyethylene 
+ 
+  
+Unrestricted   © 2025  Siemens Energy  Page  25  
+References  
+ 
+[1] Assumptions: coal emissions 750 -1000 gCO 2/kWh; simple cycle gas tur-
+bines emissions 490 -565 gCO 2/kWh for operation on 100% methane. As-
+suming combined cycle gas turbine emissions range 305 -395 gCO 2/kWh. 
+IPCC, “Special Report: Global Warming of 1.5°C,” October 2018, 
+https://www.ipcc.ch/sr15/  
+[2] International Energy Agency (IEA), "CO 2 Emissions in 2023" Report.  
+https://iea.blob.core.windows.net/assets/33e2badc- b839- 4c18 -84ce -
+f6387b3c008f/CO2Emissionsin2023.pdf. Accessed December 5, 2024  
+[3] International Energy Agency (IEA), Greenhouse Gas Emissions from Energy 
+Data Explorer, data for 2022. https://www.iea.org/data -and-statistics/data -
+tools/greenhouse -gas-emissions- from -energy -data- explorer. Accessed De-
+cember 5, 2024  
+[4] Decarbonization Pathways for GT -Whitepaper  
+https://p3.aprimocdn.net/siemensenergy/51aba4eb -30bc -4582- b48a -
+b1e9009c4c8f/H2_GF_GT -White -Paper_released -pdf_Original%20file.pdf  
+[5] www.euturbines.eu/power -the-eu/gas -turbines -renewable -gas-ready/com-
+mitments/  
+[6] IEA Net Zero 2050 Report, May 2021, Update May 2023.  
+https://iea.blob.core.windows.net/assets/8ad619b9 -17aa -473d -8a2f -
+4b90846f5c19/NetZeroRoadmap_AGlobalPathwaytoKeepthe1.5CGoal-
+inReach -2023Update.pdf  
+[7] Hydrogen Council: https://hydrogencouncil.com/en/hydrogen- insights-
+2021/   
+[8] Hydrogen infrastructure: The pillar of Energy transition by Siemens Energy, Nowega and Gascade.  
+[9] https://ehb.eu/, accessed March 2025  
+[10] Produced with Chemkin  using the GRI 3.0 Mechanism. Conditions: inlet 
+temperature 450 ºC, inlet pressure 20 bar, Adiabatic flame temperature  
+1600 ºC . 
+[11] DOE Award DE -FC26 -05NT42644  
+[12] BMWI grant number 0327715D  
+[13] https://www.ssethermal.com/news- and-views/2024/12/sse -and-siemens-
+energy -announce -hydrogen -power -acceleration -partnership/ , accessed 
+March 2025  
+[14] Hannemann, et. al, “Pushing Forward IGCC Technology at Siemens,” Gasifi-
+cation Technologies Conference, San Francisco, California, 2003.  
+[15] Lindman, O., et. al., “SGT -750 Fuel Flexibility: Engine and Rig Tests,” 
+GT2017 -63412, Proceedings of the ASME Turbo Expo 2017: Turbomachin-
+ery Technical Conference and Exposition GT2017, Charlotte, NC, USA, June 
+2017.  
+[16] HYFLEXPOWER has received funding from the European Union’s Horizon 
+2020 research and innovation programme  under Grant Agreement No. 
+884229.  
+[17] Moëll, Daniel, “Doctoral Dissertation: Modelling of methane and hydrogen 
+enriched methane flames in industrial gas turbine burners,” Lund Univer-
+sity, 2018.  
+[18] www.siemens- energy.com/zehtc.  
+[19] www.euturbines.eu/h2 -ready/
+  
+Unrestricted   © 2025  Siemens Energy  Page  26 
+ 
+ 
+Authors  
+ 
+Main Authors:  
+Jenny Johansson, Johan Leirnes, Katie Walton, Ertan Yilmaz,  
+Erik Zindel.  
+ 
+Secondary Author s: 
+Christian Reckzügel . 
+ 
+Contributors:  
+Peter Adamsson, Kathleen Bohan, Ghenadie Bulat, Anders 
+Haeggmark, Thomas Johnke, Eva Verena Klapdor, Sebastian 
+Piegert, Bernd Prade, Peter Seyller, Monika Sturm, Michael 
+Welch, Greg Wendt , Benjamin Witzel . 
+ 
+ 
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG 
+Gas Services  
+Siemens promenade 9  
+91058 Erlangen, Germany  
+ 
+For the U.S. published by Siemens Energy, Inc.  
+Generation  
+4400 N Alafaya Trail  
+Orlando, FL 32 826, USA  
+ 
+Article No. PGCM -B10003- 00-7600  
+For more information, please visit our website: 
+siemens -energy.com  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always  specifically reflect those described, or which may un-
+dergo modification in the  course of further development of the products. 
+The requested performance  features are binding only when they are ex-
+pressly agreed upon in the concluded  contract.  All product designations 
+may be trademarks or product names of Siemens Energy Global GmbH & 
+Co. KG or other companies  whose use by third parties for their own pur-
+poses could violate the rights of the owners.  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+   

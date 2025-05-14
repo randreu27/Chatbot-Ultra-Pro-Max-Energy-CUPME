@@ -1,0 +1,35 @@
+Contacts & Information:
+in cooperation with
+PDF Invoices to be ERP-system generated with
+fixed invoice layout
+Mandatory information on the invoice such as
+order number
+line items incl. numbers
+tax details incl. tax exemption reason
+delivery date
+payment informationSuppliers’ individual PDF invoices (system
+generated) are mapped into the SupplyOn
+system with validation of Siemens Energy &
+country specific rules
+What are the benefits?Mapping of suppliers' current invoice layout
+by Siemens Energy
+After go-live communication PDF invoice has
+to be sent to a new (supplier specific) email
+adress from SupplyOnIntegration process steps:
+No process change at supplier side
+No additional cost for PDF Mapping for supplier
+Reduced leadtime from invoice receipt to
+payment
+Quality check before invoice bookingPDF Mapping requirements:
+SON-SE@siemens-energy.com
+Key Points:
+PDF Mapping
+Supplier
+Send
+POOrder
+ConfirmationOrder
+ChangeDispatch
+Advise
+Invoice
+ReceiptPayment
+PDF Mapping

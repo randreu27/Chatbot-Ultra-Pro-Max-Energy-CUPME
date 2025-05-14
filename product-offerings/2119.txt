@@ -1,0 +1,2035 @@
+ 
+ 
+ 
+General Terms and Conditions for the Supply of Products and Services Siemens Energy d.o.o.                                                March  2025 edition  
+ 
+ 
+ 
+ 
+Letter of  
+to 
+Our reference  Siemens Energy d.o.o.  
+Management Board: Boris Miljavac, Managing director;  
+Laura Musić, Financial director  
+  
+Registered office: Slavonska avenija 1 A, Zagreb; IBAN: Zagrebačka banka d.d. HR7523600001102819568.  
+The company is entered in the court register of the Commercial Court in Zagreb under no. 081265238.  
+Capital stock: EUR 2.700.000,00. Company number 5152984, VAT ID HR18960883235 , Personal Identification Number: 18960883235  
+Unrestricted © Siemens Energy, 202 5                                                                           Siemens Energy is a trademark licensed by Siemens AG.  
+  
+Page 1 of 17 
+ 
+General Conditions for the Supply  of Products and Services  
+Siemens Energy  d.o.o., PIN ( OIB) 18960883235 , Slavonska avenija 1A , 10000 Zagreb, Croatia  
+ 
+ 
+TABLE OF CONTENTS  
+ 
+ 
+I. General Provisions  ................................ ....................  1 
+II. Prices and payment conditions  ................................  2 
+III. Retention of title  ................................ .........................  3 
+IV. Deadlines for Supplies and delay  .............................  4 
+V. Transfer of risks  ................................ .........................  5 
+VI. Installation and fitting  ................................ ................  6 
+VII. Takeover  ................................ ................................ ..... 7 
+VIII. Liability for defects and guarantee  ...........................  7 
+IX. Electronic Commerce  ................................ ................  8 
+X. Special Terms & Conditions for Cyber Offers  ..........  8 
+XI. Intellectual property rights and copyright  ..............  10 
+XII. Impossibility of performance, adaptation of the 
+agreement and termination  ................................ ..... 11 
+XIII. Other liabilities  ................................ .........................  13 
+XIV. Confidentiality  ................................ ..........................  13 
+XV. Court j urisdiction and applicable law  .....................  14 
+XVI. Compliance with Export Control Regulations  ........  14 
+XVII.  Anti-Corruption Clause  ................................ ............  15 
+XVIII.  Waste Electrical and Electronic Equipment  ...........  16 
+XIX. EHS, Handling with Azbestos and other dangerous 
+materials  ................................ ................................ ... 16 
+XX. Final provisions  ................................ .......................  17 
+ 
+I. General Provisions  
+ 
+1. These General Conditions for the Supply for 
+Products and Services  (hereinafter: General 
+Conditions) shall be applied to all legal transactions  
+concluded between the  legal entity Siemens Energy  
+d.o.o. from Zagreb , Slavonska avenija  1A (hereinafter : 
+SIEMENS  ENERGY ) and the other contracting  Party 
+(hereinafter : the ORDERER ), in relation to the supply  
+of products and rendering of services (hereinafter: the 
+Supplies ) by SIEMENS ENERGY . 
+ 
+These General Conditions are exclusively  applied  to 
+relations between SIEMENS ENERGY  and the 
+ORDERER , unless  certain alterations and / or non-application of certain provisio ns of these General 
+Conditions are separately agreed and determined in 
+writing. In ca se when such provisions of the 
+agreement and / or other arrangements are contrary 
+to the provisions of these General Conditions , the 
+provisions of such a greements and / or other 
+arrangements stipulated in a written form shall be 
+applicable .  
+ 
+The a greement between SIEMENS ENERGY  and the 
+ORDERER shall be considered conclud ed also in 
+case when SIEMENS ENERGY , upon receipt of the 
+order, send s a written confirmation of s uch order or  
+supplies  the product and/or render s the service to the 
+ORDERER.  
+ 
+The agreement conclud ed between SIEMENS 
+ENERGY  and the ORDERER , or the written 
+confirmation of the Order shall determine the scope of  
+the Supplies .  
+ 
+Offers sent by SIEMENS ENERGY  are not binding , 
+unless  determined otherwise in the relevant SIEMENS 
+ENERGY  offer i.e. in the agreement conclud ed 
+between SIEMENS ENERGY  and the ORDERER . 
+ 
+Data stated in catalogues, prospects and similar 
+publications, as well as other written or oral 
+statements, are of informativ e nature and are  binding  
+only if so explicitly  stated in the confirmation of the 
+order by SIEMENS ENERGY , i.e. in the a greement 
+betwe en SIEMENS ENERGY  and the ORDERER, as 
+the technical documentation of a specific product.   
+ 
+SIEMENS ENERGY  shall be authorized to perform 
+partial Supplies  with respect to the entire order if such 
+partial delivery is possible and executable.  
+ 
+The ORDERER is authorized to request partial 
+Supplies  only with a prior written approval of 
+SIEMENS ENERGY , which approval shall not be 
+unreasonably withheld.  
+ 
+The ORDERER is not authorized, without prior written 
+approval of SIEMENS ENERGY , to transfer its rights 
+and obligat ions from the agreement conclud ed 
+between SIEMENS ENERGY  and the ORDERER to a 
+third party. In case of transfer of ORDERER ’s rights 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 2 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+and obligations from the agreement concluded 
+between SIEMENS ENERGY  and the ORDERER to a 
+third party without the prior written approval of 
+SIEMENS ENERGY , such transfer will not cause any 
+legal effect. In case of transfer by the ORDERER ’s 
+rights and obligations from the agreement concluded 
+between SIEMENS ENERGY  and the ORDERER to a 
+third party with the prior written approval of SIEMENS 
+ENERGY , the ORDERER and the third party, to which 
+the rights and obligations from the respective 
+agreement were transferre d, shall jointly be 
+responsible to SIEMENS ENERGY  for the fulfillment 
+of transferred rights and obligations.  
+ 
+SIEMENS ENERGY  may, in its sole discretion, assign 
+the Contract or any part thereof or any of its 
+contractual rights or obligations to any affiliate 
+company of SIEMENS ENERGY . Such assignment 
+shall be in effect after SIEMENS ENERGY  informs the 
+ORDERER about the assignment by a written 
+notification. The ORDERER hereby gives its approval 
+of such assignments of the Contract or any contractual 
+rights or obligations in advance.  
+ 
+2. The ORDERER’s  General Condition s of business 
+and procurement  shall be applicable only if explicitly 
+confirmed by SIEMENS ENERGY  in writing .  
+ 
+The ORDERER is obliged to timely inform SIEMENS 
+ENERGY  on all changes, including, but not limited to 
+pre-bankruptcy, bankruptcy, liquidation proceedings, 
+corporate changes, etc., no matter whether these 
+changes could  affect  the fulfillment o f agreed 
+obligations.  
+ 
+3. Unless  otherwise  explicitly stated  in the 
+agreement, the ORDER ER does not obtain ownership 
+rights and / or copyrights , intellectual and/or industrial 
+ownership  rights  on drawings, e valuation  of expenses 
+and on other  offer and project documentation , or other 
+documents provided in connection with the Supplies  
+(hereinafter: the Documentati on) which is, as a part of 
+the o ffer and  / or as the integral part of the Agreement, 
+delivered to the  ORDERER by SIEMENS ENERGY . 
+Delivered D ocumentation cannot be copied without 
+the prior approval of SIEMENS ENERGY . SIEMENS 
+ENERGY  retains all  of the  intellectual and industrial 
+ownership rights and copyrights which refer to the 
+Documentation, and all software, hardware, know 
+how, and other things provided with or as a part of the 
+Supplies,  all of which shall remain the exclusive 
+property of SIEMENS ENERGY,  except otherwise 
+expressly agreed. The ORDERER  shall not reverse 
+engineer, decompile, or reproduce the S upplies, 
+Documentation   or parts thereof and shall ensure that 
+third parties will not reverse engineer, decompile or 
+reproduce the Works or parts thereof . 
+ 
+Third parties may  have access to the Documentation 
+only with the  prior approval of SIEMENS ENERGY , and if such approval is not granted, i.e. if the 
+ORDERER r ealizes the Order in some other place, the 
+Documentation must be returned , upon  request of 
+SIEMENS ENERGY , without any delay.  
+ 
+In any case, the documentation of the ORDERER can 
+be made available to all affiliate d companies of 
+SIEMENS ENERGY  and to third parties to whom 
+SIEMENS ENERGY  transferred the fulfillment of 
+agreed obligation.  
+ 
+II. Prices and payment conditions  
+ 
+1. Unless  otherwise  expressly stated  in the 
+agreement, the prices are considered to be FCO  
+factory i.e. warehouse, wh ich does not include 
+wrapping and packaging, loading and transportation  
+expenses .  
+ 
+Value added tax is not includ ed in the price, which tax 
+shall be calculated by SIEMENS ENERGY  pursuant to 
+currently valid Value Added Tax Act and other 
+respective laws and regulations.  
+ 
+2. If SIEMENS ENERGY , as a part of its contractual 
+obligations,  assumed  the obligation of installation and 
+fitting  of the subject of Supplies , and unless stated  
+differently in the a greement, the ORDERER is hereby 
+obliged, together with the agreed fee, to bear all 
+necessary additional expenses, including, but not 
+limited to, travel expenses, transport expenses of 
+necessary tools, personal luggage and field bonus es 
+for workers.   
+ 
+If charges, taxes and other fees are charged in relation 
+to the Supplies , they shall be borne by  the ORDERER. 
+If the Supplies  were agreed together with the transport 
+insurance , then the relevant  insurance shall be 
+charged separately,  whereby such Supplies  do not 
+include unloading and transfer.  
+ 
+In case of  the ORDERER’s  order of products and  / or 
+services which is no t in accordance with the entir e 
+offer suppli ed by SIEMENS ENERGY , SIEMENS 
+ENERGY  withholds the right to adequately a djust the 
+price.  
+ 
+Prices stated  in the offer are based on the expenses 
+in the moment of the first offer of products and  / or 
+services. If such expenses increased until the moment 
+of Supplies  (including, for example, due to  new or 
+increased tariffs or customs) , SIEMENS ENERGY  
+withholds the right to adequately adjust the prices in 
+accordance with such  change.  
+ 
+3. Payment should be made to  the account of 
+SIEMENS ENERGY  at the commercial bank 
+determined  by SIEMENS ENERGY , pursuant to 
+agreed terms  of payment  upon  30 (thirty) days from 
+the issuance of invoice, and in the full amount of the 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 3 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+invoice. In case of delay of the ORDERER with the 
+payment or with other fulfillment of obligations from 
+this or other mutual business transaction s, SIEMENS 
+ENERGY  has the right, w ithout affecting any of its 
+other rights, to postpone the fulfillment of its 
+obligations  out of this or other mutual  business  
+relationships  until t he settlement of respective 
+payment and / or other obligations, and to use the right 
+to adequate ly postpone  the Supplies , and to charge to 
+the ORDERER additionally calculated legal inter est 
+pursuant to the valid laws and regulations.  
+ 
+Payment shall be considered made on the day when 
+the due amount arrives to the account of SIEMENS 
+ENERGY .  
+ 
+At partial calculations and / or installment payments for 
+the Supplies , the respective partial calculations  and / 
+or installment payments shall become due upon  30 
+(thirty) days from the issuance of  each invoice.  
+ 
+SIEMENS ENERGY ’s invoices , issued on the basis of 
+subsequent  deliveries, which exceed the originally 
+agreed Supplies , shall become due upon 30 (thirty) 
+days from the issuance of  each invoice regardless on 
+the conditions of payment agreed for the main 
+Supplies .  
+ 
+5. The ORDERER is not authorized, due to rights 
+from commercial  guarantees or other counterclaims, 
+to withhold (not execute ) and / or set-off payment s of 
+SIEMENS ENERGY ’s invoices .  
+ 
+SIEMENS ENERGY  is authorized on the basis of its 
+claims, to withhold (not execute) and / or set -off 
+payments of the ORDERERS’ invoices arisi ng out of 
+this or other mutual business  relationships.  
+ 
+In any case, SIEMENS ENERGY  has the right to 
+calculate expenses incurred prior to court  
+proceedings , especially expenses of the sending 
+notices of delay  and attorney services.  
+ 
+Unless otherwise expressly determined  in the 
+agreement, granted discounts  on the price and / or 
+bonuses are conditioned by timely settlement of the 
+full amount and  by fulfillment of  other contracted 
+obligations of  the ORDERER.  
+ 
+6. For the purpose of securi ng the  payment of agreed 
+price, the ORDERER is obliged to deliver to SIEMENS 
+ENERGY  the payment instruments pursuant to the 
+referenced priorities:  
+ 
+1. bank  guarantee (upon first call, 
+irrevocable , unconditional, issued by first 
+class  bank institution , accepted by 
+SIEMENS ENERGY ); or if this is not 
+possible and if SIEMENS ENERGY  
+accepts ,  
+2. blank debenture (signed and certified by 
+the notary public for the ORDERER ); or  
+ 
+3. blank bill of exchange (without protest) .  
+ 
+7. In case of total advance payment of the Supplies  
+by the ORDERER, the application of paragraph 6 of 
+this Article is excluded.  
+ 
+8. SIEMENS ENERGY may at any time offer a 
+replacement guarantee or other instruments of 
+securing the obligation  (hereinafter: the “replacement 
+guarantee”)  for the replacement of existing guarantee 
+(e.g. for the a dvance payment , performance  and/or 
+warranty guarantee ), substantially in the form of the 
+existing guarantee, to be issued by another guarantor. 
+If such a replacement guarantee provides similar or 
+better security to ensure the performance of the 
+obligations that are secured by the existing guarantee 
+(having regard to the creditworthiness of the 
+guarantor, place of issuance and the terms of the 
+guarantee) the ORDERER  shall accept such 
+replacement guarantee in exchange for the existing 
+guarantee already delivered by SIEMENS ENERGY . 
+ 
+Upon the delivery of the replacement guarantee to the 
+ORDERER , the ORDERER undertakes not to , and 
+shall have no right to , make any claim s under the 
+existing , previously delivered , guarantee anymore. 
+The ORDERER  undertakes to return the existing 
+guarantee to SIEMENS ENERGY for release  and to 
+enable SIEMENS ENERGY to release the obligations 
+under existing guarantees,  immediately following the 
+delivery of the replacement guarantee , and if the 
+return is not possible or the following shall be 
+necessary together with the return  of the existing 
+guarantee , to deliver and  sign the letter, declaration or 
+any other necessary document (e.g.  release letter ) 
+which releases SIEMENS ENERGY and guara ntor of 
+any obligations under the existing guarantee s, and 
+which is  reasonably acceptable to the contracting 
+parties.  
+III. Retention of title  
+ 
+1. SIEMENS ENERGY  shall have the retention of title  
+on all supplied  products until the full settlement of the 
+purchase price, including possible interest and  / or 
+expenses  by the ORDERER as well as fulfillment  of all 
+of its rights and obligations which the ORDERER has 
+towards SIEMENS ENERGY  on the basis of the 
+respective business relationship .  
+ 
+2. On the Supplies on which retention of title by 
+SIEMENS ENERGY  is applied, transfer of risk for 
+accidental destruction and damage shall be borne  by 
+the ORDERER from the moment the respective 
+Supplies have been delivered to him. During the 
+duration of period of  retention of title by SIEMENS 
+ENERGY , the ORDERER cannot all ow seizure or 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 4 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+transfer of ownership, establish pledge over the 
+supplied  products or encumber such products in any 
+other way . The possibility of further sale and  / or 
+distribution o f supplied  products is allowed only to 
+merchants and  / or trading companies , within  their 
+regular activities , and only under the condition that the 
+merchant  and / or trading company receive s the 
+payment from its buyer or, at the time of sale, declares  
+the right of retention of title , under which the ownership 
+shall be transferred to the buyer i n the moment of 
+payment of the full sale -purchase price.  
+ 
+3. The ORDERER is obliged, without any delay , to 
+inform SIEMENS ENERGY  on seizures, 
+enforcements  or other legal  actions or interventions of 
+third parties, while the ORDERER is obliged to inform 
+such third p arties  on the right of retention of title  by 
+SIEMENS ENERGY  over delivered products.  
+ 
+4. If the ORDERER breache s any of the material  
+contract obligations, especially if it delay s with the 
+fulfillment of its payment obligation s, SIEMENS 
+ENERGY  shall be authori zed, upon serving  the notice 
+on delay, to retrieve the delivered products, while  the 
+ORDERER shall be obliged to deliver them on the 
+location indicated by SIEMENS ENERGY , regardless 
+of application of Article 2 paragraph 4 of these General 
+Conditions. The r eturn of the supplied  goods  i.e. 
+realization of retention of title by SIEMENS ENERGY  
+shall not be considered termination of the a greement 
+between SIEMENS ENERGY  and the ORDERER, 
+unless explicitly stated so by SIEMENS ENERGY  in 
+writing.  
+ 
+IV. Deadlines for Supplies  and Delay  
+ 
+1. SIEMENS ENERGY ’s deadline for the Supplies  of 
+products and / or rendering of services shall 
+commence at the latest on the following dates : 
+ 
+a) on the date of confirmation of the offer; 
+and 
+ 
+b) on the date of fulfillment of all technical, 
+commercial and other pre -conditions which are 
+the obligation of the ORDERER ; and 
+ 
+c) on the date when SIEMENS ENERGY , 
+prior to Supplies  of goods, receives advance 
+payment or the security instrument ; or 
+ 
+d) on other date explicitly agreed in the 
+relevant agreement . 
+ 
+2. Unless otherwise expressly stated in  the 
+agreement, SIEMENS ENERGY ’s timely receipt of 
+entire  documentation  and obtaining of required 
+approval s and / or consent s, including obtaining of 
+possible approvals and  / or consents of third parties, 
+as well as respect  of agreed conditions  of payment and duly and timely fulfilment of  other obligations by 
+the ORDERER is a pre -condition for the timely 
+fulfillment  of the deadlines of delivery by SIEMENS 
+ENERGY . If such conditions are not timely fulfilled , 
+SIEMENS ENERGY ’s deadlines for the fulfillment of 
+contracted obligations shall be p ostpone d until the 
+moment of fulfillment  of contracted obligations by the 
+ORDERER.   
+ 
+In case of delay of Supplies , caused only by SIEMENS 
+ENERGY , the agreed Supplies  deadlines shall be 
+postpon ed in accordance with the agreement between 
+the ORDERER and SIEMENS ENERGY . SIEMENS 
+ENERGY  is not responsible for the delay in fulfillment  
+of its obligations which occurred due to ordinary 
+negligence , but SIEMENS ENERGY  is liable for the 
+delay occurred due to his gross negligence of willful  
+misconduct.   
+ 
+3. If the breach of obligation for timely Supplies by 
+SIEMENS ENERGY  is the consequence of force  
+maje ure event  such as mobilization, war  or acts of 
+war, rebellion, natural disaste rs, epidemics or 
+pandemics,  strike,  lock-out, blockade, fire,  
+earthquake,  non-obtaining  of required licences , 
+permits or approvals  (e.g. positioning licence, 
+installation licence, export, import), interventions of the 
+legislator , any other act or failure to act by any public 
+authority, embargos or any other trade sanctions 
+imposed by the European Union or the United States 
+of America (which, upon sole discretion of SIEMENS 
+ENERGY , may expose SIEMENS ENERGY  or any of 
+its affiliates  to sanctions, penalties or other actions of 
+governmental au thorities detrimental to Supplier or 
+any of its Affiliates ), attacks on SIEMENS ENERGY IT 
+systems (such as virus attacks, hacker attacks , etc. ), 
+actions by the ORDERER or any third party  or any 
+other event s, which could not be foreseen  or 
+influenced by SIEMENS ENERGY  (hereinafter: Force 
+Majeure Event) , the Supplies  deadlines shall be 
+postpon ed for the period of time of such event s i.e. 
+until the removal of consequences caused by such 
+event s. If a Force Majeure Event occurs, SIEMENS 
+ENERGY  will be deemed not to be in breach of its 
+obligations under the agreement  for so long as and to 
+the extent necessary to overcome the effects of the 
+Force Majeure Event.  SIEMENS ENERGY  is obliged 
+to inform the ORDERER about these circumstances 
+without delay by a written  notice.  
+For the avoidance of doubt, and notwithstanding the 
+aforementioned circumstances, SIEMENS ENERGY 
+shall be entitled to a reasonable adjustment of th is 
+Contract ’s terms and conditions, scope, price, delivery 
+times and schedule in the event of delays and costs  
+(and any related consequences ) directly or indirectly 
+caused by an uncertain political and security situation 
+in the world which effects are difficult to foresee  for the 
+Parties  at the time of Contract signing and which can , 
+directly and indirectly,  affect the execution of this 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 5 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+Contract, including, but not limited to, the availability 
+of certain equipment, commodities, metals, and 
+materials as well as the availability of transportation 
+routes, means and services and supply of gas.  
+The a bove referenced  circumstances justify the 
+postponement  of Supplies  deadlines also when 
+occurred with SIEMENS ENERGY ’s suppliers, sub -
+contractors and  / or sub-deliverers.  
+ 
+Notwithstanding every thing mentioned in paragraphs 
+1, 2 and 3 of this Article, if the postponement  of 
+deadlines for the fulfillment of obligations occur s at the 
+side of the ORDERER  for any reason , the deadline for 
+the fulfillment of SIEMENS ENERGY ’s obligations  
+shall be p ostpone d for the same  period of time.  
+ 
+4. If the parties agree  on the contractual  penalties 
+with respect to the delivery of ordered products i.e. 
+rendering of services  by SIEMENS ENERGY , the 
+same shall be paid pursuant to the following provision 
+of these General Condition s.  
+ 
+In case of delay with the fulfillment of the contracted 
+obligations by SIEMENS ENERGY , which  occurred 
+solely due to SIEMENS ENERGY ’s willful  misconduct 
+or gross negligence , and upon  expiry of additional 
+dead line for the delivery which can not be shorter  than 
+30 (thirty) days, the ORDERER is authorized, for e ach 
+full week  (7 (seven) days)  of delay, to the contractual 
+penalty of up to 0,5 % ( in words: zero point five 
+percent) from the value of th at part of the total delivery 
+which, due t o late  delivery of the major part, cannot be 
+used.  
+ 
+The contractual penalty wh ich SIEMENS ENERGY  is 
+obliged to pay pursuant to this paragraph ca nnot 
+exceed  total of 5 % (five percent) of the value of th e 
+part of the total delivery which, due to late delivery of 
+the major part, cannot be used.  
+ 
+5. Unless  otherwise expressly stated  in the 
+agreement, all other requests of the ORDERER 
+regarding th e delay of SIEMENS ENERGY  with the 
+Supplies , which exceed the limit s stated in paragraph 
+4 of this Article, including but not limited to damage 
+compensation of any damage or expenses , shall be 
+excluded in all cases of the delayed  Supplies .   
+ 
+Unless otherwise expressly stated in the agreement,  
+by payment of the agreed contractual penalty by 
+SIEMENS ENERGY , the ORDERER shall be deprived 
+from the right to unilaterally  terminat e the a greement  
+and the  right to request the compensation of damages 
+connected with the delay incurred from the respective 
+agreement . The ORDERER will loose its right to claim 
+contractual penalty for delay of SIEMENS ENERGY , 
+in case  the ORDERER has accepted the fulfillment  of 
+the obligations from SIEMENS ENERGY  and did not 
+without delay expressly notified SIEMENS ENERGY  in writing that it retains the right for the contractual 
+penalty for delay .  
+ 
+6. If the ORDERER is in delay of more than 7 (seven) 
+days with the acceptance of fulfi llment from the day of 
+SIEMENS ENERGY ’s declaration on the readiness for 
+the f ulfillment, the ORDERER shall bear , for e ach 
+starting  week, a fee for the warehouse  storage 
+pursuant to actual expenses of such storage.   
+ 
+Notwithstanding any other rights under this 
+agreement, i n the case of delay from the point  1 of this 
+subclause 6 , and if the ORDERER , the ORDERER’s 
+contractors, or any other third party put in charge by 
+the ORDERER  is responsible for  any delay  or 
+deadline prolongation which causes the prolongation 
+of SIEMENS ENERGY’s deadlines in  the provision of 
+the Supplies , or the deadlines for the Supplies is 
+prolonged due to the reasons not attributable to 
+SIEMENS ENERGY,  the ORDERER  shall reimburse 
+SIEMENS ENERGY  for all the additional costs and 
+expenses  and/or damages  incurred due to such delay.  
+ 
+7. The ORDERER shall be obliged, upon the 
+Supplies  of products, and during the duration of the 
+retention of title  by SIEMENS  ENERGY  i.e. until  full 
+settlement of the sale -purchase price, to obtain 
+insurance of the delivered products from the usual 
+risks and to deliver the concluded insurance policies 
+for SIEMENS ENERGY ’ review within shortest 
+possible time.  
+ 
+V. Transfer of risks  
+ 
+1. Unless otherwise expressly stated in the 
+agreement,  the risk – in case of  Supplies  without the 
+transport  fee for  the objects of Supplies  – shall be 
+transferred to the ORDERER as follows:  
+a) in case of  Supplies  without installation or 
+fitting  – when the object of Supplies  was given over 
+to the transport or when the Supplies  were offered 
+to the ORDERER in the usual a nd / or agree d 
+manner and under contracted and / or usual 
+conditions. SIEMENS ENERGY  shall not be 
+obliged to insure the ob ject of transportation from 
+usual risks in transport and the referenc ed 
+insurance must be contracted  separately .  
+ 
+b) in case of  Supplies  with installation  or fitting  – on 
+the day of takeover in its own facility  or after the 
+test running  which will be agreed upon in the 
+relevant  protocol .  
+ 
+2. In each of the points stipulated in paragraph 1. 
+(one) above , the transfer of risk for accidental 
+destruction and damage will be taken over by the 
+ORDERER in the moment the ORDERER will be in 
+delay with the fulfillment  of any of its obligations.  
+ 
+3. Moreover, i f the transportation, suppl y, 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 6 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+commencement, implementation of installment  or 
+fitting , takeover in its own facility  or test running  are in 
+delay due to liability of the ORDERER or if the 
+ORDERER is in delay with the takeover due to some 
+other reasons, the risk shall be transferred to the 
+ORDERER in the moment when the ORDERER  
+rejects to receive the fulfillment or prevent  it by its  own 
+behavior. Nothwithstanding any other rights under the 
+agreement, i n such case, parts, which are part of the 
+Supplies , can be stored and insured at the risk and 
+expense of the ORDERER  and any payment shall 
+become due.  
+ 
+VI. Installation and fitting  
+ 
+For installation  and fitting  – unless explicitly agreed 
+otherwise  in the agreement , the following provisions 
+shall apply: 
+ 
+1. The ORDERER shall be obliged , at its own 
+expense , to take over and timely secure:  
+a) all land, construction and other supporting 
+works, which are contractually agreed and which 
+are not part of SIEMENS ENERGY ’s business 
+activities, including necessary expert and assisting 
+work labor, construction materials and tools, etc.;  
+ 
+b) all necessary objects and materials which are 
+required for the installation and putting into 
+operations , such as scaffolding poles, cranes and 
+other machines, fuels and lubricants, etc.;   
+ 
+c)  energ y and water at  the place of use, 
+including all other required connection points, 
+including but not limited to heating and light, etc.;  
+ 
+d)  at the installation place, for the purpose of 
+storage of machines, appliances,  materials,  tools, 
+etc. – large enough,  adequate , dry rooms , which 
+may be locked, a nd for personnel which shall 
+perform the installation – adequate working space 
+and rooms for rest, including sanitation space and 
+/ or appliances, adequate under circumstances the 
+ORDERER shall , for the purpose of protection of 
+SIEMENS ENERGY ’s personnel  who perform  the 
+installation  and SIEMENS ENERGY ’s assets , 
+including but not limited to equipment for work and 
+the Supplies which are subject of delivery and are 
+located at the premises of the ORDERER or on the 
+location on which the ORDERER has control or the 
+ORDERERS’ suppliers or subcontractors,  take all 
+measures for protection and insurance which the 
+ORDERER  would take for the protection of its own 
+property and workers, as well as appropriate 
+measures prescribed by legal provisions applicable 
+at the  installation location;  
+ 
+e) Protective  clothes and appliances, required 
+due to specific conditions on the installation 
+location, as well as take adequate measures of protection on work at the installation location.  
+ 
+2. Before the start of the installation works, the 
+ORDERER shall put at SIEMENS ENERGY ’s disposal  
+all required data on the position of underground power 
+lines, gas and water lines and similar  facilities and/or  
+installations, as well as all required static information.  
+ 
+3. Unless otherwise explicitly  agreed in  the 
+agreement, prior to the beginning of installation  and 
+fitting , the ORDERER is obliged to ensure  that all 
+appliances and objects required for the 
+commencement of work must be located at the place 
+of installation  and fitting . All preparatory work must be  
+performed to in a way that the installation and fitting 
+could  be start and be performed without an y 
+interruptions. Approach roads and the  location of 
+installation and fitting  must be leveled , arranged, 
+cleared  and without any obstacles .  
+ 
+4. If in the process of installation , fitting  or putting into 
+operation  should come to p ostponement of agreed 
+deadlines due to circumstances for which SIEMENS 
+ENERGY  is not responsible, the ORDERER shall be 
+obliged to settle all expenses incurred by SIEMENS 
+ENERGY  for such p ostpon ed time , including, but not 
+limited  to travel expenses and other possible damages 
+of SIEMENS ENERGY  caused by such 
+postponement .  
+ 
+ 
+5. The ORDERER shall , at least once in 7 (seven) 
+days, except if mandatory regulations prescribe 
+otherwise , confirm to SIEMENS ENERGY  the duration 
+of working hours of workers wh o perform the 
+installation and, without any delay , the ORDERER will 
+in the written form in the protocol determine the 
+completion of  works for installation  and fitting , or the 
+moment of putting  the system  into operation . 
+ 
+6. If upon  completion of work SIEMENS ENERGY  
+demands  the takeover of the Supplies , the ORDERER 
+shall be obliged to take over  the Supplies  within 7 
+(seven ) days  thereof the protocol will fe be drawn up . If 
+the take  over or the signing of the protocol  would not 
+take place within such time without any justified 
+reason , or if the acceptance test or inspections (if 
+agreed or applicable) have not been carried out within 
+7 (seven) days after the scheduled dates, or after 
+SIEMENS ENERGY requested it ( in case  no dates  are 
+agreed ), due to the reasons not attributable to 
+SIEMENS ENERGY,   i.e. if the ORDERER has 
+already started with the use of object of the Supplies , 
+it shall be consider ed that the take over was 
+completed, whereby the period of validity of 
+commercial guarantee and other obligations of the 
+ORDERER and SIEMENS ENERGY  in relation to the 
+take over of object of Supplies  shall commence as if 
+the take over has been completed .  
+ 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 7 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+ 
+VII. Takeover  
+ 
+1. If the ORDERER, prior to the time of Supplies , 
+does not deliver to SIEMENS ENERGY  the 
+instructions of the delivery of  Supplies , SIEMENS 
+ENERGY  shall be autho rized to deliver  the Supplies  
+at the seat of the ORDERER by transportation manner 
+chose n by SIEMENS ENERGY . In case of such 
+Supplies , SIEMENS ENERGY  shall not be obliged to 
+secure the storag e for the object of Supplies .  
+ 
+2. The ORDERER shall be obliged to take over the 
+object of Supplies  even when it has minor deficiencies  
+or minor damages which do not disturb the normal use 
+and / or use which satisfies the security demands. 
+Burden of proof that  deficiencies or damages are not 
+minor rests on the ORDERER.  For the avoidance of 
+the doubt , the ORDERER is not allowed to condition 
+its acceptance and takeover of the Supplies, or any 
+part thereof, with the acceptance and takeover of the 
+Supplies by any other third party, unless otherwise 
+explicitly agreed.  
+ 
+3.  In any case, it is deemed that the ORDERER has 
+taken over and accepted the Supplies in cases 
+stipulated under the Article VI, subclause 6 of this 
+General Terms.  
+ 
+VIII. Liability for defects  and commercial 
+guarantee  
+ 
+1. In case of abiding by the agreed payment term s 
+and timely notification to SIEMENS ENERGY  on any 
+detected defect  on behalf of the ORDERER , 
+SIEMENS ENERGY  shall be obliged to remove a ny 
+such defect  which exist ed in the moment of take over 
+of the object of delivery i.e. of transfer of risk to the 
+ORDERER and which affects  the normal functioning , 
+and which is based on the error in construction, 
+material and / or production of supplied  products and / 
+or rendered services. SIEMENS ENERGY  will not be 
+held liable for any defects if the ORDERER was 
+familiar wi th those defects or those defects could not 
+have been unfamiliar , at the time of the conclusion of 
+the contract.  
+ 
+For defects , which also include the lack of agreed 
+characteristics , SIEMENS ENERGY  shall be liable as 
+follows:  
+SIEMENS ENERGY  shall remove any defec t on the 
+object of Supplies  if the ORDERER , without any delay  
+and in any case not later than 3 (three) days from the 
+transfer of risk to the ORDERER, report s the defec t by 
+a written letter, whereby the ORDERER has to prove 
+the existence of the reported defect . In case of breach 
+of this provision by the ORDERER, SIEMENS 
+ENERGY  shall not be obliged to remove such defect .  
+ 
+In case of the defect  which could not be found by ordinary inspection in the process of take over i.e. of 
+transfer of risk to the ORDERER, the ORDERER shall 
+be obliged to inform SIEMENS ENERGY  on such 
+defect  by a written letter within 30 (thirty) days from the 
+transfer of risk. If the ORDERER passes  the 
+referenced deadline  or the material  defect  is revealed 
+following the lapse of six months from the transfer of 
+risk to him , the ORDERER  shall lose the right to refer 
+to such defect  and the obligation of SIEMENS 
+ENERGY  to remove such defect will cease .  
+ 
+In case of timely notice  of the defect  and determination 
+of the defect , SIEMENS ENERGY  shall, at its own 
+choice and at its own expense, repair, make another 
+Supplies  or render, all those parts or  services whose 
+agreed usage, under  circumstances occurred prior to 
+the transfer of risk to the ORDERER, is significantly 
+decreased.   
+  
+The ORDERER must, without any delay, make all 
+documentation i.e. data in its possession available to 
+SIEMENS ENERGY , all for the purpose of prompt  
+determin ing of the condition of goods and removal of 
+defect s.  
+ 
+For the removal of defect s the ORDERER shall make 
+available  to SIEMENS ENERGY  the adequate period 
+of time and adequate conditions . If this should be 
+denied and / or not made available  by the ORDERER, 
+SIEMENS ENERGY  shall be rel eased from any 
+obligation to remov e the defect s. If adequate period of 
+time granted to SIEMENS ENERGY  should expire  and 
+SIEMENS ENERGY  has not remove d the defect  
+through his own fault , the ORDERER  may use its right 
+to return the unsatisfactory Supplies , with the return of 
+the paid compensation for the part of object of  
+Supplies  which has the defect, or may ask for the 
+adequa te decrease of the sale -purchase price.  
+ 
+2. The period of validity of commercial guarantee for 
+the object of the Supplies  is 12 (twelve) months, 
+unless specific guarantee periods have been agreed 
+for certain objects of Supplies . This guarantee period 
+shall begin in the moment of transfer of risk to the 
+ORDERER pursuant to these General Conditions.  
+ 
+The commercial  guarantee does not apply to wear and 
+tear or damages which occur on the objects of 
+Supplies  upon  transfer of risk to the ORDERER, 
+including, but not limited to incorrect, careless  and / or 
+superficial use, overload, unauthorized servicing, use 
+of inadequate fuel, due to inadequate construction 
+works, chemical influence s, atmospherical  
+discharges, inadequate construction ground  or on the 
+basis of special outer influence s which were not 
+specified in the a greement, or the software 
+malfunctions which cannot be reproduced , as well as 
+installation which is not performed by SIEMENS 
+ENERGY . The a bove mentioned limitatio n is 
+identically being applied to those malfunctions and / or 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 8 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+damages result ing from  the materials delivered by the 
+ORDERER.  
+ 
+The ORDERER’s right of guarantee shall not be 
+applied to the damages caused by third persons or  by 
+the ORDERER itself.  
+ 
+Third party software is not covered by SIEMENS 
+ENERGY  commercial guarantee, nor is  SIEMENS 
+ENERGY  responsible for any defects of the third party 
+software or damage caused by third party software.  
+ 
+If the ORDERER or third persons should make any 
+non-expert modifications or put the object into 
+operation , then there shall be no  SIEMENS ENERGY  
+guarantee obligation for damages and / or 
+malfunctions  which were  made by such modifications 
+and works.  
+ 
+The period of validity of commercial guarantee for 
+additional repairs, substitute Supplies  or rendering of 
+substitute services is 6 (six) months, whereby  the 
+reference d deadline shall last at least until the expir y 
+of original commercial guarantee period for the object 
+of Supplies .  
+ 
+The period of validity of commercial guarantee shall 
+be postpon ed for those parts which , due to interruption 
+of the use of the object of Supplies , cannot be put in 
+work pursuant to their purpose - during the p eriod of 
+time identical to that  of use interruption , caused by 
+repairs, substitute Supplies  or rendering of substitute 
+service.  
+ 
+The period of validity of commercial guarantee for the 
+objects of Supplies , including subsequent  repairs and 
+substitute deliveries, shall in any case lapse  at the 
+latest within 18 (eighteen)  months from the transfer of 
+risk to the ORDERER.  
+ 
+The commercial guarantee rights do not arise  from the 
+data stated in catalogues, prospects, advertisements , 
+or from any written or oral statement drafted or made 
+by a third party outside of SIEMENS ENERGY ’s 
+control, unless if explicitly stated otherwise in the 
+agreement.  
+ 
+SIEMENS ENERGY  shall not assume any commercial 
+guarantee in case of  sale of used goods.  
+ 
+If SIEMENS ENERGY  proves that , in case of  reported 
+damage and / or malfunction on the  object of Supplies , 
+it is not the  case covered by the commercial 
+guarantee, the ORDERER shall reimburse  SIEMENS 
+ENERGY  of all repair and / or replacement expenses, 
+pursuant to hourly rates, including all incurred travel 
+expenses.  
+ 
+Any other rights of the ORDERER towards SIEMENS 
+ENERGY  on the basis of commercial guarantee , as well as any other liability, rights , remedies  and 
+warranties  in case of defective Supplies , services or 
+defects  implied by the applicable law are to the fullest 
+extent  excluded , except as expressly provided in this 
+Clause VIII., including sub -deliverers and / or sub -
+contractors of SIEMENS ENERGY  responsible for the 
+execution of the a greement, unless stated d ifferently 
+in the  guarantee list for certain technical  products.  
+The guarantee shall be issued to the ORDERER in a 
+form of a document and with contents as set out in the 
+Article 423 para 9 of the Civil obligations Act.  
+ 
+3. This Article does not affect the application of Article 
+XIII (Other liabilities ).  
+ 
+IX. Electronic Commerce  
+ 
+1. Electronic Commerce shall mean the conduct of 
+business in the electronic format by using information 
+and communication technology and/or electronic 
+signature in legal transaction as defined by the 
+legislature regulating electronic commerce  and 
+electronic signature . Electronic Commerce shall be 
+equivalent to the classic (written) one provided that:  
+a) Permanent preservation of the electronic messages 
+and their later use is ensured;  
+b) Information is retained as to enable the 
+identification of the origin and the destination of an 
+electronic message as well as the place and time 
+when it was sent or received;  
+c) Information is retained in the format in which it was 
+generated, sent or received, or in a format that 
+accurately represents the information generated, sent 
+or received, respectively;  
+d) Technology and procedures used appropriately 
+prevent any change or deletion of the data, or reliably 
+ensure the inalterability of the message, respectively.  
+  
+2. An electronic message shall be deemed as sent 
+when it enters the information system out of the control 
+of the sender or the person who sent the electronic 
+message upon his order on his behalf. The electronic 
+message shall not be deemed as unsent if there is no 
+confirmation of reception unless a prior express 
+written agreement stipulates that a confirmation of 
+reception is required for a valid delivery.  
+ 
+ 
+3. The electronic message shall be deemed as 
+received when it enters the recipient’s information 
+system.  
+ 
+X. Special Terms & Conditions for Cyber Offers  
+ 
+1. The warranties contained herein related to cyber 
+security are SIEMENS ENERGY 's sole and exclusive 
+warranties as to SIEMENS ENERGY  products and 
+services and are subject to the limits of liability within 
+the contract. SIEMENS ENERGY  makes no other 
+warranties, express or implied, including, without 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 9 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+limitation, warranties of merchantability or fitness for a 
+particular purpose, course of dealing and usage of 
+trade.  
+ 
+2. Terms used in this Article X shall have the following 
+meaning:   
+ 
+"Bug Fix" means any correction of software errors in 
+the Product.  
+ 
+"Cyberthreat" means any circumstance or event with 
+the potential to adversely impact the ORDERER ’s 
+plants, systems, machines and networks (including 
+the Product/s ) via unauthorized access, destruction, 
+disclosure and/or modification of information, denial of 
+service attacks or comparable scenarios.  
+ 
+"Penetration Testing” or “Intrusive Security Testing” 
+means the method that evaluates the security of a 
+computer system or network by simulating an attack, 
+whereby instability may occur during system 
+operation, communication between equipment and 
+computer networks.  
+ 
+"High Risk Use" means any use of the Products  for 
+devices or systems requiring fault -tolerant/fail -safe 
+performance or any other use in which the failure or 
+inaccuracy of or a cyber -attack on  Product might 
+reasonably foreseeably result in death, personal injury 
+or severe physical or environmental damage.  
+ 
+"Patch" means an Update that fixes a Vulnerability.  
+ 
+“Point of Contact” means a person or department that 
+can be approached for information or assistance.  
+ 
+"Product(s)" means products, services, solutions and 
+systems consisting of hardware and/or software which 
+are sold, licensed or otherwise made available to the 
+ORDERER  by SIEMENS ENERGY , irrespective of 
+whether the manufacturer is SIEMENS ENERGY or a 
+third party, and the respective services rendered by 
+SIEMENS ENERGY . Provided however, that making 
+available shall not include soliciting of respective 
+transactions between the ORDERER  and a third party, 
+such as brokering third party apps on SIEMENS 
+ENERGY platforms.  
+ 
+"Remote Service" means SIEMENS  ENERGY 
+Remote Service, i.e., an online connection between 
+SIEMENS ENERGY and the relevant Product at the 
+ORDERER ’s site allowing for remote services e.g. 
+installation of Updates, Bug Fix and Patches as well 
+as monitoring and analysis.  
+ 
+"Update" means any software which primarily contains 
+Bug Fix, Patches and/or minor enhancements or 
+improvements of the Product but does not contain 
+significant new features.  
+ "Upgrade" means any hardware/software which 
+primarily contains major enhancements of the Product 
+and new features.  
+ 
+"Vulnerability" means a weakness in a Product that 
+could be exploited to permit unauthorized access, use, 
+or modification to such Product or computing 
+environment . 
+ 
+3. ORDERER  is solely responsible for the 
+conception, implementation, and maintenance of a 
+holistic, state -of-the-art cybersecurity concept to 
+protect its enterprise with all plants, systems, 
+machines and networks, for which the Products are 
+provided, against Cyberthreats. Such cybersecurity 
+concept shall at least comply with ISO/IEC 27001, IEC 
+62443 and/or, if applicable, NERC CIP.  
+ 
+ORDERER ’s cybersecurity concept should inter alia 
+include:  
+ 
+a) restricting access to ORDERER 's premises and to  
+its plants, systems, machines and networks to where 
+absolutely necessary;  
+ 
+b) installing Updates as soon as they are available in 
+accordance with the installation instructions given by 
+SIEMENS ENERGY and using the latest version;  
+ 
+c) complying with SIEMENS ENERGY security  
+advisories and other guidelines;  
+ 
+d) if Vulnerabilities are identified by the ORDERER , 
+the ORDERER  shall notify SIEMENS ENERGY in 
+writing without undue delay. By signing the contract, 
+the ORDERER  acknowledges that delay in such 
+communication may exacerbate any Vulnerabilities, 
+and fully assumes the risks and liabilities of such 
+delay. ORDERER  shall cooperate with SIEMENS 
+ENERGY , and must not disclose or notify the 
+Vulnerability without the prior written consent from 
+SIEMENS ENERGY , unless such disclosure or 
+notification is required to comply with mandatory legal 
+regulations;  
+ 
+e) connecting the plants, products, systems, 
+machines and networks, for which the Products are 
+provided, to other networks, such as the enterprise 
+network or the internet must only be done where 
+absolutely necessary and only when appropriate 
+security measures  (e.g. firewalls, network client 
+authentication and/or network segmentation) are in 
+place and the guidelines of the respective 
+manufacturers are fulfilled;  
+ 
+f) not connecting Bluetooth, USB, or any personal 
+devices to a product, system, or machine unless 
+having consulted with a SIEMENS ENERGY support 
+engineer;  
+ 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 10 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+g) minimizing the risk of a malware infection (e.g., 
+through contents of USB -storage media and other 
+connected removable storage devices) through 
+malware scanners with approved compatibility by the 
+manufacturer or other appropriate protective 
+measures;  
+ 
+h) raising the awareness of ORDERER 's personnel  
+towards dangers associated with Cyberthreats by, e.g. 
+regular communication and training.  
+ 
+ORDERER must not perform any Penetration Testing 
+or Intrusive Security Testing involving the Products 
+without having agreed with SIEMENS ENERGY on 
+scope and receiving prior written permission of 
+SIEMENS ENERGY.  
+ 
+4. Although SIEMENS ENERGY uses commercially 
+reasonable effort to provide its Product free of viruses 
+and protect it against attacks prior to delivery, 
+SIEMENS ENERGY does not warrant or guarantee 
+that any Product will be secure from Cyberthreats and 
+does not  contain any Vulnerability.  
+ 
+If SIEMENS ENERGY becomes aware of a 
+Vulnerability which SIEMENS ENERGY , at its sole 
+discretion, identifies and validates as safety relevant 
+(meaning that in the event of exploitation of this 
+Vulnerability the Product might reasonably 
+foreseeably result in death or personal injury), it shall 
+inform the ORDERER  thereof without undue delay.  
+ 
+If SIEMENS ENERGY identifies Vulnerabilities in the 
+Products during the warranty period, SIEMENS 
+ENERGY shall provide the ORDERER  upon 
+SIEMENS ENERGY ’s sole discretion either with a 
+Patch or an Update.  
+ 
+SIEMENS ENERGY will provide the respective Patch 
+or Update to the ORDERER  within a reasonable time 
+following SIEMENS ENERGY testing and validating 
+such Patch/Update. In the event that the Vulnerability 
+relates to third party software, SIEMENS ENERGY will 
+provide a Patch or an Update if and to the extent such 
+third party makes the Patch/Update available to 
+SIEMENS ENERGY . 
+ 
+Upon its discretion, SIEMENS ENERGY will provide 
+the Patch/Update : 
+a) Via Remote Services if the relevant Product is 
+connected to Remote Services; the ORDERER  
+hereby grants its consent to such provision; or  
+b) Via download through a weblink to be provided; or  
+c) Via onsite installation by SIEMENS ENERGY . In 
+this case, SIEMENS ENERGY may charge the 
+ORDERER  for the extra expenses (time and material) 
+that result from the installation.  
+ 
+Depending on the severity of the Vulnerability as 
+determined by SIEMENS ENERGY , SIEMENS ENERGY may elect to provide the Patch as part of 
+upcoming routine Updates.  
+ 
+The obligations of SIEMENS ENERGY as set forth in 
+this Article X  shall be the exclusive remedy and in lieu 
+of any other rights and remedies the ORDERER may 
+have with respect to Cyberthreats and any damage 
+suffered therefrom whether under contract, law or 
+otherwise.  
+ 
+Unless otherwise agreed in writing, any right of the 
+ORDERER  to claim damages resulting from or related 
+to Cyberthreats, such as but not limited to loss or 
+manipulation of data, downtime, business interruption, 
+lost profit, cost for Product reset and/or data 
+reconstruction, regardless of the legal basis, but in 
+particular resulting from any duty under the agreement 
+or as a result of any tortious act, is hereby excluded. 
+In particular SIEMENS ENERGY assumes no liability 
+whatsoever for damage caused by  
+(a) ORDERERS ’ Intrusive Security Testing;  
+(b) unauthorized modification of the system 
+configuration or security level;  
+(c) the installation of Patches which are not authorized 
+by SIEMENS ENERGY ; or 
+(d) the ORDERER  delaying the self -installation of 
+Patches made available by SIEMENS ENERGY via 
+Remote Services or for download.  
+ 
+High Risk Use: The Products are not designed, 
+manufactured, tested or intended for High Risk Use. 
+ORDERER  uses the Products for High Risk Use at 
+ORDERER ’s own risk. SIEMENS ENERGY disclaims 
+any express or implied warranty for High Risk Use. 
+ORDERER  shall not be entitled to any claim  against 
+SIEMENS ENERGY or any SIEMENS ENERGY 
+subcontractors arising from use for or in connection 
+with High Risk Use.  ORDERER  shall defend and 
+indemnify SIEMENS ENERGY against any 
+proceeding, action, fine, loss, cost (including 
+attorneys’ and witness fees), damages and 
+settlements to the extent that it is based upon a claim 
+connected with or caused by ORDERER  or its 
+Affiliates’ use of Products for or in connection with 
+devices or systems requiring fail -safe or fault -tolerant 
+performance and/or High risk use scenarios.  
+ 
+SIEMENS ENERGY  does not warrant the services 
+proposed in this document will prevent future 
+successful Cyberthreats  or detect all security 
+Vulnerabilities in the ORDERER’s  systems and 
+ORDERER  acknowledges the same.  
+ 
+XI. Intellectual property  rights  and copyright  
+ 
+1. If a third person , due to  breach of intellectual 
+property rights or copyright  (hereinafter: Protected 
+rights) which are in connection with the object of 
+Supplies  delivered by SIEMENS ENERGY  and used 
+pursuant to the agreement and/or the order, place s 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 11 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+justified demands towards the ORDERER on the basis 
+of breach of protect ed rights of such third persons, 
+SIEMENS ENERGY  shall then be liable  to the 
+ORDERER as follows:  
+ 
+a) SIEMENS ENERGY  shall, at its own choice and 
+at its own expense , acquire either the right to use 
+such product or shall amend the product in such 
+manner to avoid any breach of rights of third 
+persons or shall replace the product. If this is not 
+possible under acceptable conditions, SIEMENS 
+ENERGY  shall then take back the product and 
+adequately decrease the total price, i.e. shall return 
+the amount of the sale -purchase price if the 
+referenced circumstance prevents the possibility of 
+fulfillment  of the purpose of the agreement.  
+ 
+b) The a bove mentioned obligations of SIEMENS 
+ENERGY  shall exist exclusively if the ORDERER, 
+without any delay, informed SIEMENS ENERGY  
+on any  potential liability, claim, commenced 
+proceedings and / or other requests of third parties , 
+if the ORDERER has not acknowledged the 
+alleged breach of protect ed rights , and if SIEMENS 
+ENERGY  has all rights to object  and hold 
+negotiations to reach a settlement. If the 
+ORDERER ceases to  use the product in order to 
+reduce the  damage  or for o ther important  reasons, 
+the ORDERER  shall be obliged to notify the third 
+person that the termination of use has no 
+connection with the acknowledgement  of the  
+protected right  breach .  
+ 
+2. All requests of the  ORDERER shall be excluded if 
+the ORDERER  is liable for the breach of protect ed 
+rights of third persons i.e. if the ORDERER  did not 
+fulfill its obligations stated in Article X I paragraph 1 
+point b ). 
+ 
+3. Unless otherwise explicitly stated  in the 
+agreement, all requests of the ORDERER are 
+excluded if the breach of protected rights is caused by  
+special, previously supplied  data and information 
+delivered by the ORDERER, by wh ich implementation 
+SIEMENS ENERGY  could not know nor had a reason 
+to believe that the supplied  products could cause 
+breach of  the protected  rights of third parties  i.e. if the 
+ORDERER independently altered the product or used 
+it together with the products not supplied  by SIEMENS 
+ENERGY .  
+ 
+ 
+ 
+4. Unless otherwise explicitly stated in the 
+agreement, all other rights of the ORDERER towards 
+SIEMENS ENERGY  on the basis of breach of the 
+industrial registered right or copyright of third parties  
+are excluded.  
+ 
+5. The ORDERER has non -exclusive , non -transferable and revocable  right to use the software 
+suppli ed by SIEMENS ENERGY , with agreed 
+characteristics, in its unaltered form and on agreed 
+appliances. The ORDERER has the right, without any 
+specific authorization of SIEMENS ENERGY , to make 
+one security copy of delivered software , which has to 
+contain  all pertaining copyrights of SIEMENS 
+ENERGY  and / or owner of the suppli ed software.   
+ 
+ 
+For the avoidance of the doubt, a ll intellectual and/or 
+industrial property rights, and/or copyrights and know -
+how in and to the software, any digital services  and the 
+applications  and any parts and every improvement or 
+further development thereof, other than those 
+expressly granted herein, shall remain wholly vested 
+in SIEMENS ENERGY or its third party suppliers and/ 
+or licensors. Unless otherwise explicitly stated in the 
+agreement, the ORDERER shall not copy, translate, 
+modify, adapt, decompile, dism antle,alter or reverse 
+engineer  the software , digital services or applications  
+of SIEMENS ENERGY  without the prior written 
+approval of SIEMENS ENERGY , and shall not in any 
+manner attempt to derive the source code or 
+underlying ideas or algorithm of any application and/or 
+third party application or any portion thereof  and shall 
+ensure that third parties will not do the same . 
+ 
+If the ORDERER should, as an exemption from the 
+above mentioned, with or without the approval of 
+SIEMENS ENERGY , copy, translate, modify, adapt, 
+decompile, dismantle  or alter the software of 
+SIEMENS ENERGY , SIEMENS ENERGY  shall then 
+possess all rights to each  copy, translation, 
+modification, adaptation or p erformance  of software, 
+including a ny improvement or advancement thereo f. 
+At SIEMENS ENERGY ’s request the ORDERER shall 
+undertake  any necessary actions in order to transfer 
+the rights arising out of copy, translation, modification, 
+adaptation or performance of the delivered software to 
+SIEMENS ENERGY  and / or  to the owner of supplied  
+software.  
+ 
+The ORDERER has no right to use the original code 
+of software supplied  by SIEMENS ENERGY , unless 
+otherwise explicitly stated in the agreement . 
+  
+This Article shall not affect  the application of Article 
+XIII (Other liabilities ), or the right of the ORDERER to 
+terminate the agreement  in accordance with the Article 
+XII. of these General conditions .   
+ 
+ 
+XII. Impossibility  of performance , adaptation  of 
+the agreement  and termination  
+ 
+1. The condition to terminate an agreement 
+concluded between SIEMENS ENERGY  and the 
+ORDERER , unless otherwise explicitly stated  in the 
+agreement, is impossibility  to supply the subject 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 12 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+matter of the contract, the delay in  supply  by 
+SIEMENS ENERGY  pursuant to Article IV. of this 
+General Conditions  and non-fulfillment of  contractual  
+obligations of the ORDERER, upon expiry of the 
+adequate additional period for fulfillment . The 
+termination notice is served by registered mail  to the 
+business address of the contractual parties . 
+ 
+2. If the agreed delivery becomes impossible due to 
+reasons for which SIEMENS ENERGY  is exclusively  
+liable according to paragraph 1 of this Article , and  in 
+case the ORDERER has fulfilled all or part of its 
+contractual obligations connected with the payment  
+obligation,  the ORDERER has the right to claim the 
+return of the money paid less any additional cost and 
+expenses incurred by SIEMENS ENERGY due  to 
+such circumstances , excluding interests or other 
+expenses  and fees.  In this case , the ORDERER 
+retains the right to terminate the agreement  upon 
+unsuccessful expiry of the additional reasonable time 
+period for completion , whereas the  amount to which 
+the ORDERER is entitled to on the basis of this 
+subpoint , represents the sole and exclusive 
+compensation in case of the ORDERER’s  termination  
+in such case .  
+ 
+If the agreed Supplies become impossible due to the 
+reason for which neither party can be held liable, 
+mutual contractual obligations cease and contractual 
+parties are obliged to return one another all that they 
+have accepted on the basis of fulfillment  of contractual 
+obligations.  
+ 
+3. If unforeseen events in the sense of Article IV. 
+Paragraph 3 and 4 materially changes  the economic 
+relevance or the content of Supplies , or if they 
+materially affect the SIEMENS ENERGY ’s business, 
+the agreement shall be adequately adjusted to the 
+new situation pursuant to the principle of 
+conscientiousness  and fairness . SIEMENS ENERGY  
+has the right to terminate the agreement if the 
+changed circumstances justify the termination from 
+economic standpoint, with the notice period of 30 
+(thirty)  days, but only if SIEMENS ENERGY  attempted 
+to reach an agreement with the ORDERER as to the 
+change of terms of the agreement . If SIEMENS 
+ENERGY  would like to terminate the agreement, 
+SIEMENS ENERGY  has t o notify the ORDERER 
+thereof immediately upon becoming aware of the 
+scope of the above mentioned  event . 
+ 
+4. Notwithstanding any other rights, SIEMENS 
+ENERGY  has the right to immediately terminate the 
+agreement without any notice period, as follows :  
+ 
+a) if the Supplies , or the commencement or the 
+continuation of rendering of services is not possible 
+due to reasons for which the ORDERER is liable, 
+or if the ORDERER delays with the performance of 
+its obligations upon expiry of adequate additional period for fulfillment ; or 
+ 
+ 
+b) if there are doubts about financial capacities of 
+the ORDERER i.e. if the ORDERER, at SIEMENS 
+ENERGY ’s request, does not make the advance 
+payment within agreed period or if the ORDERER 
+does not provide requested security prior to the 
+Supplies ; or  
+ 
+c) if the bankruptcy over the ORDERER’ s assets  
+initiated or if the request to commence the 
+bankruptcy proceedings is rejected due to lack of 
+sufficient assets ; or 
+ 
+d) if the postponement of time of Supplies , due to 
+circumstances referenced in Article IV paragraph 3 
+and 4 , exceeds more than one half of the originally 
+agreed period of delivery, but not less than  6 (six) 
+months . 
+ 
+e) if the ORDER ER comes under the direct or 
+indirect control of any competitor of Siemens 
+Energy;  
+In any case, and n otwithstanding any other rights it 
+may have under the agreement , SIEMENS ENERGY  
+may terminate the agreement  if the execution of the 
+Supplies have been suspended for more than 180 
+(hundred and eighty) calendar days due to the 
+ORDERER’s breach of agreement, or the suspension 
+of the Supplies due to any other reason not 
+attributable to SIEMENS ENERGY lasts more than 12 
+(twelve) months per event.  
+SIEMENS ENERGY  may even terminate a partially 
+executed agreement, for the remaining part of the 
+Supplies , due to reasons referenced in paragraph 4 of 
+this Article . 
+ 
+In case of termination of agreement by SIEMENS 
+ENERGY  pursuant to paragraph 4 of this Article , or 
+any other termination which occurred due to the 
+reasons not attributable to SIEMENS ENERGY,  the 
+ORDERER shall pay  for the products and  / or 
+rendered services supplied until the moment of 
+termination  (including , inter alia, profit  and the 
+unavoidable costs which reasonably occurred as a 
+result of termination) , and such payment shall not 
+affect any  eventual  claims for damages by SIEMENS 
+ENERGY .  
+ 
+In any case, in  the event of the cessation of the validity 
+of the agreement , irrespective of the cause  of 
+cessation , SIEMENS ENERGY may charge to the 
+ORDERER  the already performed or partially 
+performed deliveries or services, including those not 
+yet accepted , and preparation works accomplished by  
+SIEMENS ENERGY . Instead of the due payment, 
+SIEMENS ENERGY is entitled to request the return of 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 13 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+the delivered goods  and parts of the Supplies  at his 
+discretion.   
+ 
+Any other liability for damages of  SIEMENS ENERGY  
+in case of termination,  which exceeds the scope and 
+limits provided for in this Article or this General Terms 
+and Conditions , shall be excluded.  For the avoidance 
+of doubt, the ORDERER is not authorized to terminate 
+or cancel this agreement with SIEMENS ENERGY in 
+any other cases other than the cases stipulated in this 
+Article  and General Terms and Conditions  (and under 
+the conditions stated in this article and General Terms 
+and Conditions ), unless otherwise is explicitly stated 
+in the agreement, whereas  any right to terminate the 
+agreement for convenience of the ORDERER is 
+excluded  in particular . 
+ 
+5. Nowithstanding any other rights under the 
+agreement, SIEMENS ENERGY may suspend 
+performance of its obligations under the agreement if 
+(i) the ORDERER  fails to perform those of its 
+obligations necessary for SIEMENS ENERGY  to 
+provide the Supplies , or (iii) the ORDERER  otherwise 
+materially breaches the agreement . 
+ 
+If SIEMENS ENERGY suspends the agreement , or a 
+part thereof, in accordance with the previous  clause  or 
+in the event the ORDERER  suspends the agreement  
+without the express written agreement of SIEMENS 
+ENERGY , the ORDERER  shall become immediately 
+liable to pay SIEMENS ENERGY  for all parts of the 
+Supplies  already provided.  The ORDERER  shall 
+further reimburse SIEMENS ENERGY  all reasonable 
+additional costs and expenses incurred as a result of 
+such suspension . Any contractual dates shall be 
+extended for a reasonable period to over come the 
+effects of the suspension.  
+ 
+XIII. Other liabilities  
+ 
+1. SIEMENS ENERGY  liability towards the 
+ORDERER , regardless of its legal basis,  is limited to a 
+maximum of 10% (ten percent) of the individual 
+contract value . The liability of SIEMENS ENERGY  
+towards the ORDERER for negligence, indirect and/or 
+consequential damage,  lost benefits,  damages on 
+assets as well as for loss of anticipated savings, 
+interruption of production,  lost profit,  financial loss,  
+loss of information and data and loss of interest and 
+damages incurred by claims of third parties  or claims 
+arising from ORDERER’s contracts with third parties, 
+or for any other ind irect / consequential damages  is 
+completely excluded . This provision will not be applied 
+in those cases in which lia bility cannot be excluded or 
+limited by law, such as damage caused by willful  
+misconduct, gross negligence, death or physical 
+injury.   
+ 
+2. The aforementioned provisions , if applicable,  are 
+valid also in favor of sub -deliverers/sub -contractors of SIEMENS ENERGY , who have to execute the 
+agreement, as well as for suppliers . 
+ 
+3. If the ORDERER does not act according to 
+possible conditions for installation, putting the objects 
+into operation  and use (e.g. in instruction manual ), any 
+SIEMENS ENERGY ’s liability towards the ORDERER 
+for damages  or other expenses  is excluded .  
+ 
+XIV. Confidentiality  and Data Protection  
+ 
+1. The ORDERER shall hold confidential any 
+information to which the ORDERER has access during 
+the business cooperation with SIEMENS ENERGY  
+and shall not, without prior written approval of 
+SIEMENS ENERGY , disclose information related to or 
+in connection with the business cooperation between 
+SIEMENS ENERGY  and the ORDERER to 
+unauthorized persons or any third party , and shall 
+particularly  not disclose  such information to any direct 
+or indirect market competitors of SIEMENS ENERGY . 
+ 
+2. The term «information to which the ORDERER has 
+access during the business cooperation with 
+SIEMENS ENERGY », includes, but is not limited to 
+designs, plans, specimen, equipment, reports of 
+studies, drawings, schedules, specifications, technical 
+data, data base, any form of software , documents and 
+all other correspondence between SIEMENS  and the 
+ORDERER related to the mutual business 
+cooperation .  
+ 
+3. SIEMENS ENERGY  and the ORDERER shall not 
+be liable for disclosure or use of confidential 
+information which : 
+a) already are or shall become known to the public, 
+except by breach  confidentiality obligations ; or  
+ 
+b) have to be disclosed pursuant to the law on the 
+basis  of request of the authorized body . 
+ 
+If the ORDERER breaches the confidentiality 
+obligation from this Article, the ORDERER shall be 
+liable for any damage, without any limitations, which 
+occurred to SIEMENS ENERGY  as a consequence of 
+breach of the confidentiality.   
+ 
+4. The ORDERER is obliged, in connection with the 
+confidentiality obligation, to bind its representatives, 
+employees, associates and assistants to the 
+confidentiality obligation, through employment 
+contract, internal regulations or in some similar legally 
+acceptable manner .  
+ 
+5. The confidentiality obligation shall remain in force 
+during 5 (five) years from termination of business 
+cooperation between SIEMENS ENERGY  and the 
+ORDERER . 
+ 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 14 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+6. ORDERER  shall comply with the statutory and other 
+applicable provisions relating to protection of personal 
+data. The ORDERER  is obliged to create the 
+prerequisites required by law (e.g. to obtain 
+declaration of consents) to enable SIEMENS 
+ENERGY  to perform the Supplies, works or services  
+without any breach of law. The ORDERER  is advised 
+to take appropriate measures – as far as possible – to 
+prevent access of SIEMENS ENERGY  to personal 
+data or trade secrets of the ORDERER  while providing 
+the Works. In the event that it cannot be prevented that 
+SIEMENS ENERGY  is grante d access to personal 
+data of the ORDERER , the ORDERER  is obliged to 
+inform SIEMENS ENERGY  in due time before the 
+Works are performed. The ORDERER  and SIEMENS 
+ENERGY  shall then agree on the actions to be taken.  
+ 
+7. If ORDERER  acts as controller processing personal 
+data of SIEMENS ENERGY for its own purposes, 
+ORDERER  shall comply with applicable laws including 
+data privacy law. ORDERER  shall maintain and 
+implement administrative, technical, and physical 
+safeguards to protect personal data from loss, misuse, 
+unauthorized access, disclosure, alteration, or 
+destruction to the extent as required by applicable law.  
+In the event of a data breach involving SIEMENS 
+ENERGY’ s or its subcontractor’s personal data, 
+ORDERER  as controller sha ll notify the competent 
+data privacy authority and the affected data subject as 
+required by law. In addition, ORDERER  shall inform 
+SIEMENS ENERGY immediately of such compromise 
+both via its SIEMENS ENERGY Point of Contact and 
+via email to dataprotection@siemens -energy.com.  
+ 
+XV. Court jurisdiction and applicable law  
+ 
+1. Disputes and misunderstandings between the 
+parties shall be settled amicably . 
+ 
+In case the parties shall not be able to settle a dispute 
+amicably, all disputes arising out of agreement 
+concluded between SIEMENS ENERGY  and the 
+ORDERER  shall be finally settled by the  competent  
+court in Zagreb . 
+ 
+2. The substantive law of the Republic of Croatia is 
+applicable to contractual relations regulate d by these 
+General Conditions of  the Supply  for Products and 
+Services, agreements and  / or other additional 
+arrangements  concluded in writing between 
+SIEMENS ENERGY  and the ORDERER, with the 
+exclusion of commercial customs and practices (trade 
+usages ), conflict of law rules of the private 
+international law as well as  provisions of the Vienna 
+Convention on Contracts for the International Sale of 
+Goods of 1980 . 
+ 
+3. In the event of any changes in Legislation (as 
+defined below), an enactment of any new Legislation, 
+changes in generally accepted interpretation or application of any Legislation, each after the signature 
+of the contract, SIEMENS ENERGY  shall be entitled 
+to an adequate extension of the time for delivery, an 
+adequate adjustment of the price reflecting the 
+increased cost incurred by SIEMENS ENERGY , the 
+payment terms and all other relevant provisions of t he 
+contract. Except for mere adjustments of the price , 
+SIEMENS ENERGY shall provide the ORDERER  with 
+a quotation and the ORDERER  shall issue a variation 
+order in accordance with this Article XV which shall be 
+deemed issued after elapse of further three days 
+period . Legislation means any statute, ordinance, law, 
+order, regulation, by -law, directive, decree, decision 
+having the force of law, taxes, tariffs, customs or 
+duties (irrespective of whether originally to be borne 
+by SIEMENS ENERGY  or not), which affect cost or 
+performance of SIEMENS ENERGY ’s obligations 
+under the contract  (irrespective of whether such 
+changes are imposed in the country of final destination 
+of Supplies or some other country ). 
+Notwithstanding the above, i n case, during the offer 
+validity, new or increased tariffs or customs adversely 
+impact the price of SIEMENS ENERGY ’s scope of 
+supply/services, including the price of subcontractor 
+materials and/or services entailed therein, SIEMENS 
+ENERGY is allowed to adjust the price in line with such 
+increase.  
+ 
+4. If engineering , or any other standards and codes 
+are listed in the technical specifications  (if those are 
+agreed ), SIEMENS ENERGY  shall comply only with 
+those  valid and the content thereof  at the date of 
+agreement . In the event that, at any time, mandatory 
+local codes or standards in the country where the 
+Supplies  are executed stipulate more stringent or 
+onerous requirements with regard to the Supplies , the 
+ORDERER  is obliged to timely inform SIEMENS 
+ENERGY  accordingly , whereas the subclause 1  of this 
+clause  shall apply.  
+ 
+ 
+ 
+XVI. Compliance with Customs  Regulations  
+ 
+1.  If ORDERER  transfers goods (hardware and/ or 
+software and/ or technology as well as corresponding 
+documentation, regardless of the mode of provision) 
+delivered by SIEMENS ENERGY  or works and 
+services (including all kinds of technical support) 
+performed by SIEMENS ENERGY  to a third party , the 
+ORDERER  shall comply with all applicable national 
+and international (re -) export control regulations. In 
+any event of such transfer of goods, works and 
+services , the  ORDERER shall comply with the (re -
+)export control regulations o f the Republic of Croatia, 
+of the European Union and of the United States of 
+America.  
+2. Prior to any transfer of goods, works and services 
+provided by SIEMENS ENERGY  to a third party the 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 15 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+ORDERER  shall in particular check  and guarantee by 
+appropriate measures that  
+- There will be no infringement of an embargo imposed 
+by the Republic of Croatia, European Union, by the 
+United States of America and/ or by the United Nations 
+by such transfer, by arranging  of contracts concerning 
+those goods, works and services or by provision of 
+other economic resources in connection with those 
+goods, works and services, also considering the 
+limitations of domestic business and prohibitions of by -
+passing those embargos;   
+- Such goods, works and services are not intended for 
+use in connection with armaments, nuclear technology 
+or weapons, if and to the extent such use is subject to 
+prohibition or authorization, unless required 
+authorization is provided;  
+- The regulations of all applicable Sanctioned Party 
+Lists of the Republic of Croatia, European Union and 
+the United States of America concerning the trading 
+with entities, persons and organizations listed therein 
+are considered.  
+3. If required to enable authorities or SIEMENS  
+ENERGY  to conduct export control checks, the 
+ORDERER , upon request by SIEMENS ENERGY , 
+shall promptly provide SIEMENS ENERGY  with all 
+information pertaining to the particular end customer, 
+the particular destination and the particular intended 
+use of goods, works and services provided by 
+SIEMENS ENERGY , as well as any export control 
+restrictions existing.  
+ 
+4. The ORDERER  shall indemnify and hold harmless 
+SIEMENS ENERGY  from and against claim, 
+proceeding, action, fine, loss, coat and damages 
+arising out or relating to any noncompliance with 
+export control regulations by the ORDERER , and the 
+ORDERER  shall compensate SIEMENS ENERGY  for 
+all damages  and expenses resulting thereof.  
+ 
+5.  The following clause shall apply if and to the extent 
+(i) SIEMENS ENERGY supplies any goods or 
+technology to the ORDERER  in the course of the 
+execution of the contract, (ii) such supplied goods or 
+technology are or refer to goods listed in the Annexes 
+set out in Article 12 g EU Regulation No. 833/2014 and 
+Art. 8g EU Regulation No. 765/2006 as amended and 
+(iii) and the suppl y takes place from the EU to a third 
+country except for partner countries according to 
+Article 12 g EU Regulation No. 833/2014 and Art. 8g 
+EU Regulation No. 765/2006 as amended:  
+ 
+- SIEMENS ENERGY hereby prohibits to the 
+ORDERER , and the ORDERER  agrees, not to re -
+export and/or forward, directly or indirectly, to Russia 
+or Belarus or for use in Russia or Belarus any supplied 
+goods (hardware and/or software and/or technology and related documentation, regardless of the mode of 
+provision) sold, supplied, transferred or exported by 
+SIEMENS ENERGY to the ORDERER  under the 
+contract.  
+ 
+- SIEMENS ENERGY hereby prohibits the ORDERER  
+to, and the ORDERER  agrees not to, use (including 
+sublicensing, selling and/or transferring) in connection 
+with goods intended for sale, supply, transfer, or 
+export, directly or indirectly, to Russia or Belarus or for 
+use in Russia or Belarus, any intellectual property 
+rights, trade secrets, materials and/ or other 
+information protected by intellectual property rights or 
+trade secrets that are licensed, sold, transferred, or 
+otherwise provided to the ORDERER  under the 
+contract. By the foregoing provisions, no rights are 
+granted to the ORDERER , with respect to intellectual 
+property rights, trade secrets or other information, in 
+addition to any rights otherwise explicitly granted by 
+the contract.  
+ 
+SIEMENS ENERGY shall be entitled to terminate the 
+contract by written notice in the event of a breach by 
+the ORDERER  of the obligation pursuant to this Article  
+XVI, subpoint 5 . Upon termination, the ORDERER  
+shall pay to SIEMENS ENERGY all costs and 
+damages incurred by SIEMENS ENERGY from such 
+termination. In any case, the ORDERER  shall pay  
+SIEMENS ENERGY liquidated damages in the 
+amount of 20 % (twenty per cent) of the purchase 
+price/delivered goods value.  
+ 
+Notwithstanding the provision hereinabove in the 
+previous subpoint, the ORDERER  shall indemnify and 
+hold harmless SIEMENS ENERGY in full from and 
+against any claim, proceeding, action, fine, loss, cost 
+and damage asserted by public authorities or other 
+third parties against SIEMENS ENERGY arising out of 
+or relating to a breach by the  ORDERER  of the 
+obligations under this Article XVI, subpoint 5  and the 
+ORDERER  shall compensate SIEMENS ENERGY for 
+all losses and expenses incurred resulting thereof.  
+ 
+ 
+ 
+ 
+XVII. Anti-Corruption Clause  
+ 
+1. If the negotiations or the contract itself can be 
+linked to any form of corruptive conduct pursuant to 
+the Croatian anti -corruption legislation that has or 
+could have influenced the conduct of the parties to the 
+contract, the agreement shall be deemed null and 
+void.  
+ 
+2. In case corruptive conduct can be linked to the 
+execution or supervision of the respective contract, the 
+innocent party may withdraw from the contract before 
+its expiration with an immediate effect and without any 
+further obligations, including liability for damages.  
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 16 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+ 
+XVIII. Waste Electrical and Electronic Equipment  
+ 
+1. Any costs incurred through the collection, recycling 
+or removal of recycling waste of electrical and 
+electronic equipment (hereinafter referred to as “EE 
+equipment”) not categorized  as household equipment 
+shall be borne by the ORDERER . In case that the 
+ORDERER  is not the end user of the EE equipment, 
+he shall ensure that this obligation is passed on to the 
+end user.   
+ 
+2. The ORDERER  shall upon request by SEIEMENS 
+ENERGY  submit all information and documentation 
+required by SIEMENS ENERGY  in order to  comply 
+with the regulations on EE equipment.   
+ 
+3. ORDERER  shall indemnify SIEMENS ENERGY of 
+all costs and damages incurred due to non -adherence 
+to the provision of this Article  XVII.  
+ 
+XIX. EHS, Handling with Azbestos and other 
+dangerous materials  
+ 
+1. Whenever SIEMENS ENERGY  is supposed to 
+provide fitting, assembly or other similar services at 
+the site, the ORDERER  shall ensure that the works 
+sites or construction sites, including the air and all 
+parts of the equipment where the services are taking 
+place, are free of asbestos and other dangerous 
+materials. Else, SIEMENS ENERGY  is entitled to 
+defer the beginning of the works or suspend them until 
+the ORDERER  ensures compliance with the said 
+conditions. It shall be deemed that the air is free of 
+asbestos if the concentration in the air does not 
+exceed 1000 fibres per m3. Upon SIEMENS 
+ENERGY ’s request, the ORDERER  shall be able to 
+prove compliance with these standards with adequate 
+measurements that may be as well ordered by the 
+ORDERER . 
+ 
+2. The measurements shall be as a rule performed 
+by a duly authorized and independent institute 
+according to the rules acceptable for SIEMENS 
+ENERGY . 
+ 
+3. The removal of asbestos or other dangerous 
+materials shall only be performed by a duly qualified 
+company. The costs of such removal shall be borne 
+by the ORDERER .  
+ 
+4. If SIEMENS ENERGY  discovers hazardous 
+materials (including asbestos), environmentally 
+hazardous substances, geological or geothermal 
+conditions, archaeological findings or any other local 
+environmental conditions which have an adverse 
+effect on the Supplies, execution of works or services 
+by SIEMENS ENERGY , the ORDERER  shall be liable 
+for any required remediation and shall also reimburse 
+SIEMENS ENERGY  for any reasonable additional costs and expenses. The ORDERER  shall, at its 
+expense, provide containers complying with all legal 
+and regulatory requirements and shall handle, store 
+and dispose of hazardous waste in accordance with 
+the applicable laws.  
+ 
+ 
+5. SIEMENS ENERGY  reserves the right to employ 
+any safety measures and perform partially or in whole 
+any agreed works even though the conditions from 
+this Section are not fulfilled.  
+ 
+6. ORDERER obliges to comply with all applicable 
+laws and regulations regarding safety at work, 
+including the global SIEMENS ENERGY  EHS 
+standards, as well as to enforce the principles of the 
+„Zero Harm Culture“ program.  SIEMENS ENERGY 
+shall not be obliged to provide the Supplies or execute 
+any works or service on Site in unhealthy or 
+dangerous surroundings , which is not in accordance 
+with the applicable health and safety requirements.  
+ 
+SIEMENS ENERGY shall comply with the 
+ORDERER’s site rules and regulations when 
+performing Supplies on site, provided that such rules 
+are in accordance with the applicable laws, and that  
+ORDERER inform ed SIEMENS ENERGY, in writing, 
+of all relevant site rules and regulations in force at the 
+premises within a reasonable period of time prior to 
+performance of the Supplies  on Site.  
+ 
+XX. Final provisions  
+ 
+1. If any of the provisions  of these General Conditions 
+of the Supply  for Products and Services, agreements 
+and / or other additional arrangements  concluded in 
+writing between SIEMENS ENERGY  and the 
+ORDERER become unlawful , invalid or unenforceable  
+in any way pursuant to the applicable law, this shall 
+not affect the legality, validity or enforceability of other 
+provisions  of these General Conditions of the Supply 
+for Products and Services, agreements and  / or other 
+additional  arrangements  concluded in writing between 
+the parties. SIEMENS ENERGY  and the ORDERER 
+shall replace any such unlawful, invalid or 
+unenforceable  provision with the provision which 
+content shall be adjusted to the valid legal regulations . 
+ 
+2. SIEMENS ENERGY  shall not be obligated to fulfill 
+the contract  if such fulfillment is prevented by any 
+impediments arising out of national or international 
+foreign trade or customs requirements or any 
+embargoes or other sanctions.  
+ 
+3. SIEMENS ENERGY  and the ORDERER hereby 
+confirm that none of the parties is any way solicited 
+and / or enticed, on the basis of any statement, 
+condition, warranty, promise of award or personal 
+benefit, force or obligation, to enter into agreement on 
+the Supplies  of products and  / or services, which are 
+April 2024 edition  
+ 
+General Terms and Conditions for the Supply of Products and Services  
+Siemens Energy d.o.o.                                                                   March  2025 edition  
+ 
+Page 17 of 17 
+Unrestricted © Siemens Energy, 202 5                                                                               Siemens Energy is a trademark licensed by Siemens AG.  
+  
+not expressly determined by the agreement which 
+regulates all rights and obligations of SIEMENS 
+ENERGY  and the ORDERER.  
+ 
+4. Oral agreements between SIEMENS ENERGY  
+and the ORDERER shall not be valid, unless 
+confirmed in writing by authorized representatives of  
+both SIEMENS ENERGY  and the ORDERER . 
+ 
+5. Subsequent  changes and amendments of the 
+contract  shall be valid only if confirmed by authorized 
+representatives of  both SIEMENS ENERGY  and 
+accepted by the ORDERER in writing . 
+ 
+6. These  General Conditions  are published on the 
+internet page of SIEMENS ENERGY  (www.siemens -
+energy.com ) and shall enter into force on the day of 
+their publishing and shall replace previously valid 
+General Conditions.  

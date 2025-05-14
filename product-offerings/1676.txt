@@ -1,0 +1,196 @@
+According to the International Energy Agency (IEA) , the 
+steel and iron industry stands as the world’s most
+significant emitter of CO2 among heavy industries, 
+contributing to approximately 7% of global emissions (IEA, 
+2020).
+It is known as a hard-to-abate industry because coal is not 
+only used as a heating source, but it is an essential part of 
+the chemical reaction to reduce iron ore into iron in the
+blast furnace. However, there are different technologies 
+available to reduce the climate impacts related to steel 
+production. There is no doubt, implementing these 
+technologies requires significant investments and time to 
+implement  – a green steel transition. A transition requires 
+support from other enabling industries. For the green steel 
+transition two ingredients are urgently needed – renewable 
+energy and hydrogen.
+Consequently, the transition can be considered a marathon 
+that needs many steps to get to the finish line. Today, the 
+first steps have already been taken. Many companies in the 
+steel industry are maximizing efficiency, improving 
+circularity, and getting the transition process started while 
+more comprehensive infrastructural changes are being 
+defined and initiated. These intermediary improvements
+are reflected through the introduction of new low-emission 
+steel or green steel  product lines by using the mass
+balance approach.The potential of the mass balance approach
+The mass balance method is used to assign emission 
+reductions or the share of sustainable feedstocks to a 
+portion of the entire production – a greener product line. 
+The greener products have the same quality and properties 
+as those made from fossil-based materials, but the 
+sustainability improvements are allocated to a specific 
+production segment. This is done because it is often  
+impossible to have a physical segregation of the greener 
+product lines from the traditional product lines. The mass 
+balance approach allows for an allocation of overall 
+emission reductions to a CO2-reduced product. In support 
+of decarbonization efforts, developing demand for greener 
+products can demonstrate viable business models and 
+de-risks investments, thereby catalyzing the costly 
+transition of manufacturing infrastructure.Stepping up green steel transition efforts 
+using the mass balance approach
+© 2024 Siemens Energy Page 1
+However, the mass balance approach comes with its fair 
+share of criticism and is not accepted under some 
+standards. Its potential for double counting and 
+continuation of fossil-fuel-based material feedstocks  
+constitutes the primary reasons for transparency issues and 
+doubts. This lack of alignment and the lack of clarity in the 
+verifiability of a product carbon footprint or life cycle 
+assessment when using the mass balance method for green 
+steel has inhibited the adoption of green steel, and there -
+fore, it has limited the markets’ ability to demonstrate 
+support for transition steps for cleaner production.
+The role of mass balancing in supply chain 
+decarbonization
+To manage decarbonization along the supply chain, it is 
+crucial to distinguish between corporate and product 
+carbon footprints. The corporate carbon footprint is the 
+sum of all carbon emissions related to the activities of a 
+company along the value chain, while the product carbon 
+footprint is the sum of all carbon emissions related to the 
+lifecycle of an individual product.
+While both of them are closely related to defining the 
+actual impact of a company, significant improvements at 
+the corporate level may not always translate directly to the 
+product level or are difficult to allocate back to individual 
+products. Targeting and achieving significant greenhouse 
+gas (GHG) emission reductions at the corporate level is 
+essential and goes beyond simple measures like replacing 
+light bulbs. The mass balancing approach can serve as a 
+mechanism to make investments in the green transition, 
+rewarding and driving the change needed on the product 
+level.
+And we can see that mass balancing is neither new nor 
+exclusive to the steel industry. It is well-established within 
+the chemical industry, for bio-based and circular materials, 
+and in the renewable energy sector. 
+For example, renewable electricity markets are essentially    
+a form of mass balancing, demonstrating that renewable 
+quantities are tracked and allocated to a specific product, 
+not resulting necessarily in 100% renewable electricity 
+reaching end customers’ homes or facilities. Figure 1 : The mass balance 
+approach along the green steel 
+supply chain
+To enable a functioning 
+market based on a mass 
+balancing approach, it is of 
+key importance to define 
+clear requirements.
+The International 
+Sustainability & Carbon 
+Certification (ISCC) 
+initiative has defined 
+specific regulations for the 
+chain of custody tracking
+and reporting for sustainable inputs and the attribution of 
+these to a specific product line (ISCC, n.d.). Additionally, a 
+mass balance tracking system is prescribed in the EU Re-
+newable Energy Directive (RED)  for bio-based fuels used 
+to reach clean energy targets (European Union, 2018).
+These examples demonstrate the potential to apply the 
+mass balance approach to quantify sustainability attributes 
+in a systematic manner that is transparent and verifiable.
+Our game-changing plan: Forging alliances 
+for low-emission steel production
+At Siemens Energy  Grid Technologies, I see us playing a 
+vital role in this transition as early adopters of emerging 
+greener product lines to fulfil our decarbonization commit-
+ments and the commitments from our industry. Through 
+our products and procurement, we link our customers’ 
+demands for improved product sustainability with our 
+suppliers’ initiatives to reduce GHG emissions and steadily 
+advance towards our goal of a 30% reduction in supply 
+chain emissions by 2030.
+Our world cannot wait any longer, and we need to drive 
+incremental improvements along the supply chain step by 
+step. Therefore, as a company with high requirements for 
+steel in our products, we have established a strategic 
+partnership with thyssenkrupp  for bluemint steel, their 
+steel with lower carbon emissions, which is based on the 
+mass balance method. We understand the shortcomings of 
+the mass balancing approach. However, as an original 
+equipment manufacturer (OEM) linking raw material 
+suppliers and transmission system operators (TSOs), we 
+want to help find the appropriate methodology that 
+recognizes the suppliers’ decarbonization steps while 
+ensuring environmental impact claims are transparent and 
+verifiable for ourselves and our customers.
+© 2024 Siemens Energy Page 2
+Stepping up grid decarbonization: 
+Leading the change at Siemens Energy 
+Grid Technologies
+Accordingly, this is our motivation for taking proactive steps 
+to advance our decarbonization efforts, which include 
+writing together with our steel supplier, thyssenkrupp, a 
+CIGRE  paper about the use of low-emission steel in 
+transformers and its impact evaluation, supporting with
+a thesis project to establish a transparent reporting 
+framework and participating in a joint industry project with 
+DNV to standardize Lifecycle Assessments for large power 
+transformers.
+It is critical to note that the mass balance approach is just 
+one tool in the transition to a more circular and climate-re-
+sponsive economy. Without long-term decarbonization 
+commitments, roadmaps, and actionable plans, these 
+intermediary steps are insufficient. Ultimately, mass 
+balance calculations and associated product lines must 
+function as a near-term step on a dedicated path towards 
+full decarbonization and environmentally responsible 
+production. It is therefore imperative for all stakeholders to 
+collaborate closely to overcome the technological and 
+economic challenges and create the market conditions 
+necessary for a successful green steel transition.
+This article was written by Christina Iosifidou with support and review of Dr. 
+Dieter Vollkommer, Katie Schwind, and Ankita Mazumder as well as in coopera-
+tion with Maximilian Schnippering (Siemens Gamesa), Dr. Marie Jaroni 
+(thyssenkrupp) and Marcel Hilgers (thyssenkrupp).
+© 2024 Siemens Energy Page 3
+ Sources
+IEA (2020). Iron and Steel Technology Roadmap.
+URL: https://www.iea.org/reports/iron-and-steel-technology-roadmap
+ISCC (n.d.). The Mass Balance Approach. URL: https://www.iscc-sys-
+tem.org/certification/chain-of-custody/mass-balance/
+European Union (2018). Directive (EU) 2018/2001 of the European Parlia -
+ment and of the Council of 11 December 2018 on the promotion of the 
+use of energy from renewable sources. URL: https://eur-lex.europa.eu/le-
+gal-content/EN/T XT/?uri=uris-
+erv:O J.L_.2018.328.01.0082.01.ENG&toc =OJ:L:2018:328:TOC
+© 2024 Siemens Energy    Page 4
+Published by
+Siemens Energy Global GmbH & Co. KG 
+Grid Technologies  
+Siemenspromenade 9  
+91058 Erlangen  
+Germany 
+For more information, please visit our website:  
+siemens-energy.com/transmission
+or contact us: support.energy@siemens-energy.com
+© 2024 Siemens Energy
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract. All product 
+designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties 
+for their own purposes could violate the rights of the owners. 
+Siemens Energy is a trademark licensed by Siemens AG. For the U.S. published by
+Siemens Energy, lnc. 
+Grid Technologies  
+8841 Wadford Drive  
+Raleigh, NC  
+USA 
+© 2024 Siemens Energy Page 5

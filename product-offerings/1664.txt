@@ -1,0 +1,157 @@
+OOTTV  – Gimpel Oil Operated Trip T hrottle Valve  
+  
+______________________________________________________________ _________________
+OOTTV        
+Gimpel Oil Operated Trip Throttle Valve  
+(Inverted Globe Body)   
+PIB 10 8-2020  
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.
+OOTTV  – Gimpel Oil Operated Trip T hrottle Valve  B
+ackground
+SE Gimpel ’s oil operated trip throttle valve 
+(OOTTV) is designed to close (trip) after a 
+loss of oil supply pressure and does not reo-
+pen until oil pressure has been re-estab-
+lished.
+The OOTTV (inverted globe body) is recom-
+mended for steam turbines driving the main 
+process compressors in API-612 critical ser-
+vice applications in chemical and petro-
+chemical plants, refineries and synchronous 
+generators in power generation facilities 
+with normal inlet steam pressure up to 900 
+psig (63.4 kg/cm2g).
+Design
+The OOTTV is designed to use hydraulic pres-
+sure supplied by the turbine control oil sys-
+tem to compress a fully enclosed, large di-
+ameter trip spring. This trip spring allows an 
+OOTTV to typically produce four to 10 times 
+the closing force of a mechanical latch-type 
+trip throttle valve during tripping.  The 
+OOTTV is designed with pull-to-close opera-
+tion and features a backseated stem that re-
+sults in no continuous valve stem leakage 
+when the valve is operating in its normal, 
+fully-open position.
+The OOTTV can be designed for start-up or 
+extraction non-return valve service in appli-
+cations that use a high-pressure extraction 
+steam header for unit start-up.
+The OOTTV achieved the functional safety 
+certificate for application up to SIL 3.
+Features
+The OOTTV can be furnished in several body 
+style and assembly arrangements, and can 
+be installed with the valve stem in a horizon-
+tal or vertical position.Standard features:  
+• SIL 3 certificated  
+• API 612 compliant  
+• Trips in 0.3 seconds or less  
+• ANSI NPS 3 to 24 and Class 150 to 2500  
+• Steam temperature up to 1,004°F 
+(540°C)  
+• RF valve body drain and valve stem leak -
+off connections  
+• Stainless steel, integral, replaceable 
+steam strainer basket  
+• Handwheel provides throttling for use 
+during start -up 
+• Low pressure (100 – 200 psi g) and high 
+pressure (1,100 – 1,600 psig) hydraulic 
+actuators available  
+ 
+Optional features:  
+• Limit switches to monitor valve stem po-
+sitions  
+• Solenoid exerciser for remote on -line ex-
+ercising  
+• Electric actuator for remote valve opera-
+tion 
+• Protective cover (for h arsh climate in-
+stallations)  
+• Temporary start -up screen with spare 
+cover gasket  
+• Blowdown kits  
+ 
+To ensure high accessibility, an oil mist sep-
+arator with two fans can be used. This is par-
+ticularly important if the turbine tend to leak 
+oil. 
+The filter allows fo r at least five years of op-
+eration between changes. We recommend 
+that the installation is carried out by quali-
+fied Siemens  Energy  personnel during an 
+overhaul or other turbine shutdown. Piping 
+is preferably constructed by the customer 
+supervised by Siemens  Energy  personnel.  
+1 Cover  
+2 Pilot design
+3 Stellite wear-resistant  
+ metal alloys discs and  
+ seat
+4 Back seat design
+5 Stems and bushings
+6 Non-rotating coupling
+7 Spring
+8 Special relay
+9 Double relay design 
+10 Balanced piston
+11 Lever-operated exerciser
+12 Key
+13 Gimpel hydraulic  
+ actuators
+14 Beveled gear handwheel
+15 Before and after seat  
+ drains featured
+16 Drilled strainerOOTTV
+1
+2
+3
+4
+5
+6
+7
+8
+910111213 14151617
+1 Cover  
+2 Pilot design
+3 Stellite wear-resistant  
+ metal alloys discs and  
+ seat
+4 Back seat design
+5 Stems and bushings
+6 Non-rotating coupling
+7 Spring
+8 Special relay
+9 Double relay design 
+10 Balanced piston
+11 Lever-operated exerciser
+12 Key
+13 Gimpel hydraulic  
+ actuators
+14 Beveled gear handwheel
+15 Before and after seat  
+ drains featured
+16 Drilled strainer
+Published by
+Siemens Energy Global GmbH & Co. KG 
+Industrial Applications 
+Freyeslebenstraße 1
+91058 Erlangen, Germany
+Siemens Energy Inc.
+Industrial Applications
+15375 Memorial Drive, Suite 700 
+Houston TX 77079, USA
+For more information, please contact
+our Siemens Energy Customer Support Center  
+Phone: +49 (0)911 6505 6505
+Or +49 180 5 24 7000
+(charges depending on provider) 
+E-Mail: support@siemens-energy.com 
+Web: siemens-energy.com/csc
+Gimpel Inside Sales (PGDR Energy) :
+gisales.pgdr.energy@siemens-energy.com
+Siemens Energy is a trademark licensed by Siemens AG.

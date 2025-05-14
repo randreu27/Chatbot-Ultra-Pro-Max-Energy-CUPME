@@ -1,0 +1,128 @@
+Siemens Energy is a trademark licensed by Siemens AG.High-Voltage 
+Circuit Breakers
+From 72.5 kV up to 1100 kV
+
+03  Foreword
+04  Modular design
+05  Control
+06  Monitoring
+07  Interruption principles
+08  Drive system
+09  Development and routine testing
+10  Installation and commissioning11  Live tank circuit breakers
+13  Dead tank circuit breakers15  Dead Tank Compact
+16  Disconnecting Circuit BreakerBrazilIndiaGermany
+ChinaUSA
+MexicoCustomized products with  
+the shortest delivery times  
+from our global production 
+networkChapter overview High-Voltage Circuit Breakers | iPDF
+Circuit breakers from Siemens EnergyChapter overview High-Voltage Circuit Breakers | iPDF
+Modular design
+High-voltage circuit breakers from 
+Siemens Energy, regardless of type or 
+voltage range, are designed in a well 
+proven modular platform concept. This 
+leads to a high diversity of circuit breaker 
+types and to high flexibility with regard to 
+various applications according to our 
+customers’ requirements.  
+ 
+The main components, such as
+• operating mechanism, 
+• control system,
+• base frame, 
+• kinematic chain and
+• insulator designs 
+• current transformers (DT / DTC)
+• pre-insertion resistors (PIR)  are identical and based on decades of 
+manufacturing and operating experi -
+ence. Our GIS switchgear range also 
+includes the same interrupter units, 
+operating mechanisms and control 
+elements. By applying this proven 
+modular design not only at our lead 
+factory in Germany, but also within 
+our global manufacturing network, 
+we are able to fulfill the highest 
+expectations regarding availability 
+and reliability at eminently competi -
+tive prices.  
+This modular principle can also be 
+found in the type definition of our 
+high-voltage circuit breakers.Few basic components leading to a high 
+diversity of typesChapter overview High-Voltage Circuit Breakers | iPDF
+Control
+The control system includes the second -
+ary technical components required for 
+operating the circuit breaker, which are 
+mainly arranged in the control cabinet. 
+The control, tripping, motor and heating 
+power supplies can be selected by the 
+customer. Two standard control variants 
+are available depending on your require -
+ments.
+Basic variant
+The basic variant includes all control and 
+monitoring elements that are needed for 
+operation of the circuit breaker, including 
+the following:
+• Switching operation counter 
+• 19 auxiliary switch contacts  
+(9 normally open, 9 normally closed,  
+1 wiper contact)
+• Local actuator Compact variant  
+In addition to the basic variant, this 
+compact variant includes:
+• Spring monitoring by motor run time 
+monitoring
+• Heating monitoring (current measuring 
+relay)
+• Light and socket attachment with a 
+common circuit breaker to facilitate 
+servicing and maintenance work
+• Overvoltage attenuation 
+• Motor circuit breaker
+• Heating circuit breaker
+Special customer adapted solutions can 
+be offered on request.
+Cabinet with control and stored-energy spring drive mechanismChapter overview High-Voltage Circuit Breakers | iPDF
+Circuit breaker monitoringChapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Drive systemChapter overview High-Voltage Circuit Breakers | iPDF
+Quality right from the startChapter overview High-Voltage Circuit Breakers | iPDF
+Easy installation and  
+commissioning  Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Chapter overview High-Voltage Circuit Breakers | iPDF
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Transmission  
+Freyeslebenstraße 1  
+91058 Erlangen      
+Germany
+For the U.S. published by    
+Siemens Energy, Inc     
+Transmission      
+4601 Six Forks Road     
+Raleigh, NC 27609      
+USA
+For more information, please visit our website:  
+                                                       
+or contact us: circuit-breaker@siemens-energy.com
+© Siemens Energy, 2022                 
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance 
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks or 
+product names of Siemens Energy Global GmbH & Co. KG or other 
+companies whose use by third parties for their own purposes could 
+violate the rights of the owners.

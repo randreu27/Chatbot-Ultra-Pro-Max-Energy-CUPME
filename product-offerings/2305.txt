@@ -1,0 +1,74 @@
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, 3rd Party Guidelines  
+2020, Rev. #0 
+Packager Guidelines 
+Section 9: 3rd Party Supplier Guideline 
+ 
+9-1.  Purge Flow Estimates 
+ 
+Packing under very good conditions will leak appr oximately .1 of a standard cubic foot per minute 
+(SCFM). Factors such as rod finish, alignment  and case condition will affect the leakage.  
+ The nitrogen usage to the purge connection will be approximately one cubic foot per hour flow rate. This 
+will vary as packing wear occurs. These case improvements have reduced emissions from 1000 PPM 
+down to 10 PPM (without purge gas) and essentially 0 PPM with purge gas applied. 
+ 
+Purge/buffer gas pressure is to be maintained higher than the vent / drain pressure by at least 15 PSI. 
+ 
+ 
+TYPICAL FLOW RATE 
+ 
+ SCFM (M
+3/min) 
+Past Normal Lube Packing Ring .1-.3 (0.002 – 0.008) 
+With Non Lube or Light Gases .2-.6 (0.005 – 0.016) 
+Vent Flow Alarm for System 
+Check .2-.3 (0.005 – 0.008) 
+Purge Gas Into Distance Piece .1-.3 (0.002 – 0.008) 
+Purge Gas Into Vent .1-.3 (0.002 – 0.008) 
+ 
+ 
+Below rates are listed in API Appendixes "G & I". 
+ 
+Purge Gas Rate Initially - 10 SCFH/C ASE = .08 Cubic Decimeters / Sec. 
+Set Meter Range = 5 to 50 SCFH = .04 to .4 Cubic Decimeters / Sec. 
+ 
+ 
+9-2.  Vibration Monitoring 
+ 
+ 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, 3rd Party Guidelines  
+2020, Rev. #0 
+ 
+9-3.  Vertical Frame Thermal Growth 
+ 
+The vertical thermal growth (foot to crankshaft) fo r all frames can be expected to be in the following 
+ranges: 
+ 
+MOS  .005” - .008” (0.13 – 0.20 mm) 
+   
+HOS  .005" - .008" (0.13 – 0.20 mm) 
+ 
+HOSS   .007" - .010" (0.18 – 0.25 mm) 
+   
+ 9-4.  Packing RTD Temperat ure Setting Recommendations 
+ 
+The following temperature limits were established to  safeguard the operation of  separable compressor  
+packings.  Packing case temperatur e should not exceed 300° F (149°C). 
+ 
+Alarm Setting     20° F (11°C) Above Normal Packing Operating Temperature Shutdown Setting    30° F (16.7°C) Abov e Normal Packing Operating Temperature 
+ 
+ 
+9-5.  Main Bearing Temperature Setting Recommendations 
+ 
+The following temperature limits were established to  safeguard the operation of  separable compressor  
+main bearings. 
+ 
+Maximum Alarm Setting    210° F (99°C) Maximum Shutdown Setting   220° F (104°C) 
+Main Bearing ΔT (Bearing to Bearing)  Not to Exceed 20°F (11°C) 
+      (Compressor Fully Heat Soaked) 
+ 
+NOTE:  It is recommended that the main bearing RTD alarm and shutdown be set at 20° F (11°C) or  
+30° F (16.7°C) respectively above the averag e of all the main bearing temperatures. 
+ 

@@ -1,0 +1,224 @@
+siemens-energy.com Materialprüflabor 
+Trafowerk Nürnberg
+Leistungsverzeichnis
+der Prüfverfahren im flexiblen Akkreditierungsbereich
+Qualitätsmanagementhandbuch  
+Materialprüflabor Anlage 5
+Analyse Testmethode Messunsicherheit Verwendung seit
+ Gas-in-Öl AnalyseIEC 60567:2011
+Oelgefuellte elektrische Betriebsmittel - Pro -
+bennahme von Gasen und Analyse freier und 
+geloester Gase – Anleitung  
+IEC 60567:2023
+Oelgefuellte elektrische Betriebsmittel - Pro -
+bennahme von freien Gasen und Analyse von 
+freien und geloesten Gasen in Mineralölen und 
+anderen Flüssigkeiten – Anleitung15% bei ≤ 10ppm
+10% bei > 10ppm04.07.2012
+(Annex F für  
+Silikone und Ester 
+angefügt und 
+Geräte entsprech -
+end kalibriert)
+FarbzahlISO 2049:1996
+Mineralölerzeugnisse - Bestimmung der Farbe 
+(ASTM Skala) max. 0,5 Farbeinheiten 31.07.2018
+AussehenIEC 60422, Kap 5.2:2013
+Isolieröle auf Mineralölbasis in elektrischen 
+Betriebsmitteln - Leitlinie zur Überwachung 
+und Wartung
+IEC 60422, Kap 7.3:2024
+Isolieröle auf Mineralölbasis in elektrischen 
+Betriebsmitteln - Leitlinie zur Überwachung 
+und Wartungnicht zutreffend31.07.2018
+Text ist identischFrei verwendbar!
+Page 1 © 2025 Siemens Energy Siemens Energy is a trademark licensed by Siemens AG.
+Analyse Testmethode Messunsicherheit Verwendung seit
+Neutralisations- u. 
+Verseifungszahl 
+SäuregehaltIEC 62021-1:2003
+Isolierflüssigkeiten - Bestimmung des Säurege -
+haltes - Teil 1: Automatische potentiometrische 
+Titration
+IEC 62021-2:2007
+Isolierfluessigkeiten - Bestimmung des Saeure -
+gehaltes - Teil 2: Kolorimetrische Titrationfür IEC 62021-1: 15%
+für IEC 62021-2:
+0,03-0,05mg KOH/g: 33%04.07.2012
+Durchschlag-  
+spannung IEC 60156: 2025
+Isolierflüssigkeiten - Bestimmung der Durch -
+schlagspannung bei Netzfrequenz – Prüfver -
+fahren13%04.07.2012 
+(keine technisch 
+relevanten 
+Änderungen zur 
+Vorform von 2018)
+Dielektrischer 
+VerlustfaktorIEC 60247: 2004
+Isolierflüssigkeiten - Messung der Permittivi -
+tätszahl, des dielektrischen Verlustfaktors  
+(tan ) und des spezifischen Gleichstrom-Wider -
+standes(bei 90°C): 14% 04.07.2012
+WassergehaltIEC 60814: 1997
+Isolierflüssigkeiten - Ölimprägniertes Papier 
+und ölimprägnierter Pressspan - Bestimmung 
+von Wasser durch automatische coulome -
+trische Karl-Fischer-TitrationMineralöle:
+<5ppm:      30%
+5-30ppm:   15%
+>31ppm:    30%
+Ester und Silikone: 15%
+Feststoffe: 3,4%04.07.2012
+WassergehaltInhouse-Verfahren  
+PA3-042-2019_4_11:2019-04
+Gaschromatographische Wassergehaltsbestim -
+mung von Esterflüssigkeiten mittels HID (Heli -
+um-Ionisierungs-Detektor)14,5% 27.03.2019
+DichteISO 12185: 1996
+Rohoel und Mineraloelerzeugnisse - Bestim -
+mung der Dichte - U-Rohr-Oszillationsverfahren
+ISO 12185: 2024
+Rohoel und Mineraloelerzeugnisse - Bestim -
+mung der Dichte - U-Rohr-Oszillationsverfahren
+ASTM D7042: 2021
+Standard Test Method for Dynamic Viscosity 
+and Density of Liquids by Stabinger Viscometer 
+(and the Calculation of Kinematic Viscosity)für ISO 12185:
+0,10%
+für ASTM D7042:
+0,10%04.08.2015 
+(bei  ISO 12185 und 
+ASTM D7042 keine 
+technisch relevant -
+en Änderungen zu 
+den Vornormen)
+Grenzflächen-
+spannungDIN EN 14210: 2004
+Grenzflaechenaktive Stoffe - Bestimmung der 
+Grenzflaechenspannung von grenzflaechenak -
+tiven Loesungen mittels Buegel- oder Ringver -
+fahren
+IEC 62961: 2018
+Insulating liquids - Test methods for the deter -
+mination of interfacial tension of insulating 
+liquids - Determination with the ring methodfür EN 14210:
+6,6%
+für IEC 62961:
+5,8%Für EN 14210 seit 
+04.07.2012
+Für IEC 62961 seit 
+27.03.2019
+© 2025 Siemens Energy Page 2Materialprüflabor Trafowerk Nürnberg l Leistungsverzeichnis der Prüfverfahren im flexiblen Akkreditierungsbereich
+Siemens Energy is a trademark licensed by Siemens AG.
+Analyse Testmethode Messunsicherheit Verwendung seit
+Additivbestim -
+mung mittels FTIR 
+und HPLC (Inhibi -
+tor / Passivator)IEC 60666: 2010
+Nachweis und Bestimmung spezifizierter 
+Additive in Isolierflüssigkeiten auf Mineralölba -
+sis - Anhang 3.2: Bestimmung von 2,6-Di-tert-
+butyl-para-kresol durch IR-Spektroskopie - Ver -
+fahren B
+IEC 60666:2010
+Nachweis und Bestimmung spezifizierter 
+Additive in Isolierflüssigkeiten auf Mineralölba -
+sis - Anhang B: Analyseverfahren zur Bestim -
+mung von Passivatoren in Mineralölen durch 
+hochauflösende Flüssigkeits-Chromatographie 
+(HPLC)(Bestimmung des  
+Inhibitors DBPC)
+7,8%  
+(Bestimmung des  
+Passivators)
+bei BTA: 0,04-2ppm: 14%
+bei Irgamet: 5-120ppm:  
+10%05.06.2014
+FurananalyseIEC 61198: 1993
+Isolieröle auf Mineralölbasis; Prüfverfahren zur 
+Bestimmung von Fur-fural und verwandten 
+Verbindungenbei 0,05 - 1ppm: 15%
+bei > 1ppm: 10%04.07.2012
+Korrosiver 
+SchwefelIEC 62535: 2008
+Isolierfluessigkeiten - Pruefverfahren fuer den 
+Nachweis von potenziell korrosivem Schwefel 
+in gebrauchtem und ungebrauchtem Isolieroelnicht zutreffend 09.04.2014
+PCB-GehaltDIN EN 12766-1: 2000_11
+Mineralölerzeugnisse und Gebrauchtöle - Bes -
+timmung von PCBs und verwandten Produkten 
+- Teil 1: Trennung und Bestimmung von aus -
+gewählten PCB Congeneren mittels Gaschro -
+matographie
+DIN EN 12766-2: 2001_12
+Mineralölerzeugnisse und Gebrauchtöle - Bes -
+timmung von PCBs und verwandten Produkten 
+- Teil 2: Berechnung des Gehaltes an polychlori -
+erten Biphenylen (PCB)
+IEC 61619: 1997
+Isolierflüssigkeiten - Verunreinigung durch 
+polychlorierte Biphenyle (PCBs) - Verfahren zur 
+Bestimmung mittels Kapillar-Gaschromatogra -
+phiefür EN 12766-1:
+max. 28%
+für IEC 61619:
+max. 10%04.08.2015
+Gehalt an
+Dibenzyldisulfid 
+(DBDS)IEC 62697-1:2012
+Pruefverfahren zur quantitativen Bestimmung 
+von Verbindungen kor-rosiven Schwefels in 
+neuen und gebrauchten Isolierfluessigkeiten 
+- Teil 1: Pruefverfahren zur quantitativen 
+Bestimmung von Dibenzyldisulfid (DBDS) max. 10% 15.08.2018
+Polymerisations -
+gradIEC 60450 :2004
+Messung des durchschnittlichen viskosime -
+trischen Polymerisationsgrades von neuen und 
+gealterten cellulosehaltigen Elektroisolierstoffen
+Änderung 1: 20079,0% 05.06.2014
+Siemens Energy is a trademark licensed by Siemens AG. © 2025 Siemens Energy Page 3Materialprüflabor Trafowerk Nürnberg l Leistungsverzeichnis der Prüfverfahren im flexiblen Akkreditierungsbereich
+Analyse Testmethode Messunsicherheit Verwendung seit
+Magnetische 
+Eigenschaften 
+(mittels SST)IEC 60404-3:2010
+Verfahren zur Messung der magnetischen 
+Eigenschaften von Elektroblech und -band 
+mittels eines Tafelmessgeraetes (SST)  (IEC 
+60404-3:1992 + amendment1:2002 +
+amendment2:2009 + corrigendum:2009)
+IEC 60404-3:2022
+Magnetische Werkstoffe - Teil 3: Verfahren zur 
+Bestimmung der magnetischen Eigenschaften 
+von Elektroband und -blech mit Hilfe eines 
+TafelmessgerätesPs:          1%
+H, J, Ss:  5%04.07.2012
+Die Änderungen in 
+der Ausgabe 2022 
+wurden in den 
+Berichten ML124-22 
+und ML 100-23 
+übernommen
+Oberflächen- 
+Isolationswider -
+standIEC 60404-11:2012
+Pruefverfahren zur Bestimmung des Oberflae -
+chen-Isolationswiderstandes magnetischer 
+Bleche und Streifen
+IEC 60404-11:2021
+Magnetische Werkstoffe – Teil 11: Messver -
+fahren für die Bestimmung des Oberflächeniso -
+lationswiderstands von Elektroblech und -band< 2,00%04.07.2012
+(keine signifikanten 
+Änderungen zur 
+Vornorm, siehe 
+auch ML 161-21) 
+Ausgabe Datum Beschreibung der Änderung
+07/11 – 10/20 02.07.2011 Neuerstellung und Ergänzung
+05/21 31.05.2021Anpassung am flexiblen Akkreditierungsbereich 
+und QMH 
+10/23 20.10.2023 Anpassung am flexiblen Akkreditierungsbereich 
+03/24 10.02.2024 Anpassung am flexiblen Akkreditierungsbereich
+02/25 23.02.2025 Anpassung am flexiblen Akkreditierungsbereich
+Siemens Energy is a trademark licensed by Siemens AG. © 2025 Siemens Energy Page 4Materialprüflabor Trafowerk Nürnberg l Leistungsverzeichnis der Prüfverfahren im flexiblen Akkreditierungsbereich

@@ -1,0 +1,44 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+Materials of Construction:  HOSS  
+ 
+  D. Materials of Construction of Major Cylinder Components 
+ 
+                   Industry 
+   Component     Material       Codes/Standards         (Typical) 
+ 
+ Cover Valve Nodular Iron ASTM A536 Grade 65-45-12      ASTM A536 Grade 80-55-06 
+     ASTM A395 
+ Cylinder    - 5.75 – 28.00 (Cast) Nodular Iron ASTM A536 
+  - Storage Nodular Iron ASTM A536 
+  - Pipeline Nodular Iron ASTM A536 
+  - Forgings Forged Steel AISI 4132 (Modified) 
+  Fasteners 
+      Studs & Bolts Alloy Steel ASTM A193 Grade B7 
+  Head, Cylinder 
+  6.00”- 13.00” Nodular Iron ASTM A536 Grade 80-55-06 
+  14.00”- 28.00” Nodular Iron ASTM A536 Grade 65-45-12  
+ Nuts  Carbon Steel ASTM A194 Grade 2H 
+  Packing Case 
+      Flange  Steel       --- 
+      Cups  Steel or Cast Iron  ASTM 276 Class 35/40       Garter Springs Inconel       --- 
+      Rings 
+    Breaker Coated Cast Iron     Sealing Carbon Graphite Filled PTFE  
+    with Cast Iron Back-Up 
+    Vent  Carbon Graphite Filled PTFE 
+ 
+ Piston       4.75 - 16.25 in. Cyls. Gray Cast Iron ASTM A278 Class 40 
+    Nodular Iron ASTM A536 Grade 65-45-12 
+    Nodular Iron ASTM A536 Grade 60-40-18       15.00 - 28.00 in. Cyls. Aluminum Alloy Anodized  SR 355.0 – T7E2 
+ 
+ Rings, Piston Carbon-Glass-Carbon Filled PTFE Siemens Energy's DW173 
+ 
+ Rod, Piston Alloy Steel AISI 4140; AISI 4142 
+    Induction Hardened  
+ Valves 
+      Guard & Seat Nodular Iron ASTM A536 Grade 100-70-03     Brinell Hardness 
+    Min 240, Max 302 
+       Plates (PF) "H i Temp" Peek (Non-Metallic) 
+      Elements (HammerHead)  ‘Hi Temp” Peek (Non-Metallic) 
+       Springs (PF) Chrome Silicon 
+     Springs (HammerHead) 17-7 PH SS or Elgiloy  

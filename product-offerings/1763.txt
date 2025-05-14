@@ -1,0 +1,252 @@
+26 | May 2023 | www.modernpowersystems.comHydrogen in gas turbines  |
+When we set up our Zero Emission Hydrogen 
+Turbine Center (ZEHTC) just over three 
+years ago, our main research goals were to 
+gain more expertise on the added value of 
+hydrogen gas turbines and energy storage for energy enters the system, energy storage and 
+dispatchable power become more important.
+To understand the value of hydrogen gas 
+turbines for the system, we need to compare 
+the cost of a future decarbonised power system 
+both with and without hydrogen storage 
+coupled to re-generation capacity. This system 
+modeling was done by Chalmers University of 
+Technology as part of the ZEHTC project. The 
+project concluded that time-shifting electricity 
+generation using hydrogen adds value to the 
+European energy system by reducing average 
+electricity costs by up to 15% (strongly depending 
+on the region), because over-dimensioning of 
+all other equipment was shown to be more 
+expensive than including hydrogen storage 
+and re-generation capacity. Siemens Energy’s 
+modelling shows similar results, for both Europe 
+and other regions. These research results clearly 
+demonstrate that the storage of hydrogen and 
+re-conversion to electricity makes economic 
+sense in future energy systems.
+One decisive advantage is that the hydrogen 
+gas-turbine power plants won’t have to be 
+built from scratch: many existing plants can be 
+converted to use hydrogen with a manageable 
+effort. Zero Emission Hydrogen 
+Turbine Center at Finspång  
+– four things we’ve learnt
+At the beginning of 2019, Siemens Energy and five partners launched a research project on the site of its industrial 
+gas turbine manufacturing plant in Finspång, Sweden. The Zero Emission Hydrogen Turbine Center has since 
+served as a demonstration plant for a flexible and sustainable energy system. It combines gas turbines with a 
+photovoltaic field, an electrolyser, hydrogen, and batteries for energy storage
+Åsa Lyckström  sustainability strategist, Siemens Energy, Finspång, Sweden
+Partners:
+   University of Bologna, Italy
+   Chalmers University of Technology, Sweden
+   County Administrative Board of Östergötland, 
+Sweden
+   Finspång Municipality Administrative 
+Authority, Sweden
+   Siemens Energy AB
+   Linde Gas AB
+Funding:
+The project has received funding via the EU 
+ERA-Net Smart Energy Systems initiative, with 
+support from the European Union’s Horizon 
+2020 research and innovation programme 
+under grant agreement No 775970
+Websites:
+   zehtc.org
+   siemens-energy.com/zehtcZEHTC partners and funding
+Above:  View of the Siemens Energy plant in Finspång, location of ZEHTC. In the foreground is the photovoltaic system  
+and behind that the electrolyser, with hydrogen tank, and the control room for battery storage
+a sustainable energy system. We also wanted 
+to expand our hydrogen testing resources to 
+improve the hydrogen capability of our gas 
+turbines and “capture” some of the excess 
+electricity generated during on-site testing 
+of our gas turbines to produce hydrogen. By 
+using this hydrogen for new testing, we were 
+able showcase a very smart circular system for 
+reducing our CO2 emissions on-site. Working 
+with our partner universities, we’ve built valuable 
+knowledge about how we can design future 
+energy systems and what the role of hydrogen 
+will be.
+Learning number 1: hydrogen 
+reduces average electricity costs in 
+decarbonised energy systems
+Future energy systems will consist of many 
+different “pieces of the jigsaw puzzle.” Hydrogen 
+used to run gas turbines is one piece of the 
+puzzle that will make surplus electricity a key 
+factor in future energy systems. At present, if 
+wind and solar power plants produce more 
+electricity than needed, the first step is to 
+reduce power production from fossil power 
+generation facilities like coal, oil, and natural 
+gas power plants. However, as more renewable 
+www.modernpowersystems.com | May 2023  | 27 | Hydrogen in gas turbines
+Learning number 2: hydrogen gas 
+turbines provide plannable electricity in 
+wind-dominated power systems
+Wind and solar power plants are fluctuating 
+sources of electricity generation. However, they 
+differ greatly in the way they fluctuate – and that’s 
+an important factor when considering them for 
+future power systems. Photovoltaic systems 
+depend on solar radiation, so they only produce 
+electricity during the day. Conditions can change 
+from sun to cloud and vice versa several times 
+a day and for just a few minutes. Wind, on the 
+other hand, fluctuates much less strongly and 
+frequently.
+We have therefore calculated that hydrogen 
+gas turbines are a good solution for balancing 
+renewables in wind-dominated power systems. In 
+contrast, battery storage plays a major role in solar-
+dominated power systems, where fluctuations are 
+shorter and more frequent. In the solar-dominated 
+system, with energy storage, hydrogen gas turbines 
+can assume more of a back-up role with fewer 
+operating hours. In addition, in a decarbonised 
+energy system based on wind and solar power, 
+demand-side behaviour also has an important 
+impact. The load on the grid, for example, can be 
+relieved through the intelligent charging of electric 
+vehicles and the flexible operation of electrolysers 
+and heat pumps.
+In a real world net-zero power system, both 
+short-term (for example, battery) and long-term 
+(for example, hydrogen) storage need to work 
+side by side.
+Learning number 3: hydrogen-based 
+power plants can be critical for ensuring 
+electrical grid stability
+In future energy systems, hydrogen-fuelled 
+gas-turbine power plants will start up whenever 
+wind and solar power plants can’t meet current 
+electricity demand by using hydrogen previously 
+produced from surplus electricity. Because the 
+load-cycling capabilities of modern gas turbines 
+are extremely good, they can make a significant 
+contribution to grid stability and security of 
+supply. The ZEHTC project estimates that gas 
+turbines in net-zero electricity systems will 
+perform about 100 starts per year and operate 
+about 2000 hours per year. Even though those 
+numbers sound low, gas-turbine power plants will be essential in the net-zero electricity system 
+due to their flexible peaking and back-up power 
+capabilities – and because gas turbines are well-
+suited for providing grid services like spinning 
+reserve, inertia, and reactive power when needed. 
+This makes hydrogen gas turbines an appropriate 
+technology for densely populated areas.
+The prediction is that combined cycle, 
+cogeneration, and simple cycle installations will 
+be needed. Today many gas turbines are installed 
+in cogeneration combined cycle power plants, 
+where the heat generated from the gas turbine 
+is used in a heat recovery steam generator that 
+produces additional electricity in a steam turbine, 
+and the residual heat from the gas turbines 
+is utilised to generate district or process heat. 
+Those installations are delivering an overall 
+efficiency of above 90%, and in energy systems 
+where heat is needed, they’ll also be essential in 
+the future. However, open cycle gas turbines will 
+be vital in the future energy system too, and their 
+numbers may increase, mainly in applications 
+with few operational hours and to provide back-
+up power and grid services.
+Learning number 4: liquid green fuels 
+are a valuable complement to hydrogen
+Hydrogen produced from renewable power 
+sources will provide dispatchable green power 
+and will be central to decarbonised energy 
+systems. Surplus electricity can be converted 
+into hydrogen by an electrolyser. For example, 
+if wind power surpluses occur in the northern 
+part of a country, the hydrogen produced can 
+be transported to the wind-poor south and 
+stored there to be reconverted to power later 
+using hydrogen gas turbines. However, when 
+the hydrogen isn’t produced close to where it’s 
+used, it needs to be transported – for example, 
+in a pipeline network. Or, because hydrogen is 
+voluminous, it can be converted into a liquid 
+that’s easier to both transport and store. 
+Liquid biofuels are an important alternative for 
+locations that can’t be connected to a pipeline 
+network.
+Possible energy carriers could be ammonia 
+(by mixing hydrogen with nitrogen), or methanol 
+(mixing it with CO2). When hydrogen is converted 
+to a liquid fuel, it’s easier to store for longer 
+periods. Liquid green fuels, employed in gas turbine power plants, are appropriate for time-
+shifting electricity production to match demand.
+Other economic advantages may be derived 
+from flexibly blending hydrogen with biofuels. 
+This will strengthen the competitiveness of power 
+plants by allowing the gas turbines to operate using 
+different fuel mixes depending on the availability 
+and pricing of different fuels: for example, during 
+periods when hydrogen is expensive. 
+How we’ll move forward
+It remains a major challenge for all of us to 
+achieve the CO2 reduction targets set in the Paris 
+Agreement. At Finspång and in Siemens Energy 
+as a whole, we’ll make an important contribution 
+to progress by continuing to focus on developing 
+and manufacturing gas turbines that can run on 
+hydrogen and other low-carbon fuels.
+The ZEHTC project has now come to an 
+end and the consortium is dissolved but the 
+demonstrator plant will continue to operate. 
+In the near future, Siemens Energy will be 
+expanding the hydrogen storage capacity to 
+provide sufficient hydrogen for our own R&D 
+activities, which include conducting gas turbine 
+tests using 100% hydrogen. The technology for 
+running gas turbines on gas with a high hydrogen 
+content is already available today when you 
+either invest in a new gas turbine or retrofit an 
+existing one. Targetting 2025, Siemens Energy 
+intends to offer mid-sized gas turbines with dry-
+low emission (DLE) technology that can run on 
+100% hydrogen.
+It’s also important to mention that more 
+and more full-scale projects are being planned 
+and launched. Just recently, the German 
+utility EnBW announced a new pilot project 
+with Siemens Energy for H2-ready gas turbine 
+delivery. The EnBW Stuttgart-Münster plant in 
+Germany will have two 62 MW SGT-800 gas 
+turbines that can handle up to 75% hydrogen 
+admixture on delivery in 2024. The project 
+includes a maintenance contract to upgrade the 
+gas turbines to run on 100% hydrogen when 
+sufficient hydrogen is available.
+It’s not possible to reliably forecast when green 
+hydrogen will be available in sufficient quantities 
+and at affordable prices. Future innovations in 
+hydrogen production and transportation will have 
+a major impact on when we can create a net-zero 
+energy system.
+However, we’ll do everything we can to develop 
+and offer economic hydrogen solutions in order 
+to give the hydrogen economy a strong boost as 
+an important part of the energy transition. 
+SGT-800 gas 
+turbine*  Based on historical 
+weather data and 
+hourly load demand 
+for Germany
+*  Optimised for 
+a stable 100% 
+renewable electricity 
+system for a city of 
+250 000 inhabitants, 
+including industry
+*  Based on 2022 
+values for system 
+levelised cost of 
+electricity (LCOE), 
+gas price and CAPEXA net zero electricity system

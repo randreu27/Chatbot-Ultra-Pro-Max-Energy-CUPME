@@ -1,0 +1,34 @@
+Siemens Energy is a trademark licensed by Siemens AG.
+XL
+X
+cL cV2      2Vδ δ1     1T
+< 800 kV
+100 < Mvar < 1400cP=V1 xV2· sin (1 - 2)
+XL - XCδδ
+How to increase transmission system capacity and stability
+The increasing demand for energy can only be met when grids can provide sufficient 
+transmission capacity. Building new lines is not only expensive, it’s also challenging 
+due to changing regulations, public acceptance, and environmental concerns. 
+Fixed series capacitor technology provides an alternative solution by increasing the 
+transmission capacity of existing lines.
+Siemens Energy‘s solution 
+for advanced power 
+delivery translate into a 
+number of solid benefits 
+including
+• Increases power transfer 
+capability
+• Reduces line voltage drops
+• Limits load-dependent voltage drops
+• Influences load flow in parallel 
+transmission lines
+• Reduces transmission angle 
+increasing stability
+• Reduces footprint for 
+transmission systems
+• Cost effective solution
+• Reliable and robust design even in 
+seismic areasFixed Series 
+Capacitor
+Boost your transmission lines
+siemens-energy.com/ FSC

@@ -1,0 +1,79 @@
+siemens-energy.com/compressionrepairsLaser scanning for 
+digital repairs
+Page 2
+Laser Scanning for Digital Repairs
+The introduction of 3D laser 
+scanning for digital inspection has revolutionized maintenance, quality control, and design processes, providing numerous advantages over traditional inspection methods.
+Our 3D laser scanning technology  
+is a non-contact, high-precision method of inspection that offers a comprehensive way to capture the physical dimensions of compressors and their components in intricate detail.
+Page 2
+Shedding light on digital repairs
+Page 3
+Laser Scanning for Digital RepairsFaster inspections  
+Our scanners take millions of data points every second, and when 
+combined with our automated inspection scripts, our technicians can dimensionally inspect your equipment in real time – right on the shop floor.Enhanced client experience 
+Using industry-leading inspection software we can create visua -
+lizations of any damage on your equipment, aiding in your comprehension of the suggested repairs. Measurements from the laser scanner are also linked directly to our digital inspection platform (Digital Inspection Jacket) which allows us to provide repair recommendations to you in a fraction of the time.More data 
+When your unit is scanned at a Siemens Energy Service Center, the data is securely saved and organized in our PLM system. This allows us to precisely compare the current condition of your equip-ment to its state from the last repair, highlighting the distinct wear patterns of your machine. This data is also accessible to our Modi-fications & Upgrades, Technical Support, and Field Service teams between overhaul cycles, ensuring you receive the highest quality service possible.
+
+Page 4
+Laser Scanning for Digital RepairsReal-time digital inspection
+Rapidly scanning components is just the beginning; our automated inspection scripts enable our 
+technicians to analyze scans and produce actionable insights directly from the shop floor, eliminating  
+the need for engineering delays or offshore processing.
+Non-contact measurement
+With a contact-less approach, laser scanning is ideal for inspecting fragile items without any damage 
+risk, enhancing safety for both the object and the operator.
+Comprehensive data collection
+Our 3D laser scanning delivers a complete data overview in just one pass, providing a detailed 
+ analysis and uncovering potential issues that less comprehensive methods might overlook.
+Page 5
+Laser Scanning for Digital RepairsOutage reduction through virtual assembly
+In addition to reducing inspection time, we utilize the gathered data to significantly 
+decrease the length of turnaround periods.
+Digital pre-assembly
+Before turnaround begins, we have the capability to scan and inspect all spare parts, followed  
+by digital assembly. This preparation allows us to be ready before time becomes a factor.  
+Once turnaround commences, we can seamlessly integrate the digital assembly into the newly 
+scanned environment, enabling the immediate start of  precision machining.
+Digital reassembly
+After completing the scans of all major components, we have the capability to digitally piece together the scans. This enables us to quickly identify any potential fitting or interference issues well before the reassembly process begins.
+Digital alignment
+Once reassembly is finalized, we employ our scanner to determine the rotor's centerline and adjust the seal clearances, ensuring accuracy before the rotor is installed.
+
+Page 6
+Laser Scanning for Digital RepairsCustom repairs 
+We provide a detailed and flexible approach, facilitating exact 
+repair for a diverse range of parts and components. 
+Precise repairs, tailored for you
+By capturing detailed data points from the damaged area, we  
+craft a precise digital map that guides our customized repair process. This approach aims for an optimal fit and restoration  
+with each procedure.
+Efficient and effective custom 
+solutions
+With our cutting-edge technology, we perform comprehensive 
+analyses to deliver repairs customized to address distinct 
+ challenges. This leads to reduced repair durations and improved 
+efficiency, minimizing your downtime and facilitating a swift  
+return to full functionality.
+
+Page 7
+Laser Scanning for Digital RepairsIn-field scanning
+To provide unparalleled service, we can conduct on-site scanning, when necessary, to 
+seamlessly bridge the gap between work conducted at your site locations and the intricate processes carried out in our SE service centers.
+Optimized productivity
+By integrating 3D laser scanning, we drastically cut down the duration needed to gather detailed data on a site. This boost in efficiency not only saves significant time but also reduces costs asso-ciated with shipping, materials, and labor.
+Enhanced safety
+Field service personnel can collect data from a safe distance, minimizing the need to access hazardous or hard-to-reach areas directly. This capability is particularly beneficial in locations where safety concerns are paramount.
+
+Published by
+Siemens Energy Global GmbH & Co. KG
+Transformation of IndustrySiemens promenade 991058 Erlangen, Germany
+For the U.S. published by
+Siemens Energy, Inc.
+Transformation of Industry4400 N Alafaya TrailOrlando, FL 32826, USA
+For more information, please visit our website: 
+https://www.siemens-energy.com/compressionrepairs
+© Siemens Energy 2024Subject to changes and errors. The information given in this document only contains 
+general descriptions and/or performance features which may not always specifically reflect those described, or which may undergo modification in the course of further development of the products. The requested performance features are binding only when they are expressly agreed upon in the concluded contract. All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could violate the rights of the owner.
+Siemens Energy is a trademark licensed by Siemens AG.

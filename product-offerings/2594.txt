@@ -1,0 +1,54 @@
+RestrictedSiemens Energy 2024. 保留所有 权利
+Siemens Energy 是Siemens AG 授权的商标
+如果在文件管理系 统之外，则不受控制
+第i⻚，共 i⻚文件名称： TC6A -528接口堵头的操作
+文件编号：E1A4144075
+版本 作者 检查人 审批人 发布日期
+A D. MCDOUGLE C. HARRISON S. KELLY 12/09/2024
+初始版本
+版本控制：版本控制 历史记录由文件管理系 统管理。
+OPERATING GUIDELINES FOR VALVE BLOCK WET MATE PLUG
+INTERFACE BLANK TC6A -528文件编
+号：E1A4144075
+版本： A
+⻚码： 1/2
+RestrictedSiemens Energy 2024. 保留所有 权利
+Siemens Energy 是Siemens AG 的商标1目的和适用范 围
+本程序的目的是 详细说明使用阀块湿式插接插 头接口堵头TC6A -528的过程。
+堵头TC6A -528具有与湿式插接插 头DHCE -A43、A47、A62和A80相同的密封特性。由于 连接器和堵 头之间
+的设计相似，只要 满足第 5节中的检查要求，此堵 头就适合在最高 15,000 psi 的测试压力下重复 测试。
+2相关文件和 图纸
+编号 名称 位置
+10204852ElecTRON 安装、操作和 维护手册Siemens -energy.com/subsea
+E1A414074 TC6A -528 PDS Teamcenter
+T16966TC6A -528图纸和相关物料清 单Teamcenter
+3设备
+完成此安装需要以下 设备：
+Goop抗磨剂。
+DC4硅脂
+安装工具 E1A3854517 。
+½”驱动扭矩扳手， 额定值为 35 lbf ∙ft。
+4一般安全信息和 ⻛险
+有关完整的安全和危 险信息，请参阅所用测试介质的ElecTRON IOM 或安全数据表。
+警告。对矿物基油敏感人 员的轻微人身伤害⻛险。
+处理产品或矿物油或合成基油 时，请佩戴合适的手套。
+警告。安装过程中的轻微人身伤害和 /或材料或 环境损害⻛险。
+装配期间应小心谨慎，确保配件和液 压/气动设备安装正确。
+警告。系统受压过大会导致承压部件⻜出，因此存在身体受 伤⻛险。
+警告。存在液压喷射⻛险。仅用于在海外使用符合 压力设备（安全）法 规(2016)或相关当地替代法
+规的油和合适的 泵进行MAWP。
+5准备工作
+目视检查堵头组件，确保密封 锥、弹性密封、螺 纹或堵头主体没有 损坏。如果 对堵头或其任何部件的
+完整性有任何疑 问，请立即停止工作并 联系Siemens Energy 技术部。
+
+OPERATING GUIDELINES FOR VALVE BLOCK WET MATE PLUG
+INTERFACE BLANK TC6A -528文件编
+号：E1A4144075
+版本： A
+⻚码： 2/2
+RestrictedSiemens Energy 2024. 保留所有 权利
+Siemens Energy 是Siemens AG 的商标6流程
+1.在固定环的螺纹和锥形密封面上涂抹一 层Goop抗磨剂。
+2.在O形密封圈上涂抹一 层薄薄的 DC4硅脂。
+3.使用工具 E1A3854517 将堵头安装到其接口中。将固定 环拧紧至35 lbf ∙ft (45 Nm) 。
+程序结束

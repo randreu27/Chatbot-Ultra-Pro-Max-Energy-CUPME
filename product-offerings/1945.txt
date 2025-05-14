@@ -1,0 +1,488 @@
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  1 GENERAL TERMS AND CONDITIONS OF PURCHASE 
+OF SIEMENS ENERGY Austria GmbH 
+Issued November 2024 
+1. Scope  
+1.1. These General Terms and Conditions of Purchase apply to all orders (supplies and services) of Siemens Energy Austria GmbH  
+and the companies linked to it as members of the same group (hereinafter referred to as ‘Buyer’ or ‘ SEA’).  
+2. Purchase Order, Written Form  
+2.1. (Purchase) Orders are issued exclusively in writing  or generated without a signature in an electronic IT -system  under reference 
+to an order number. Oral agreements are exclusively valid if confirmed in writing. 
+2.2. For amendments or supplements to an order Art. 2.1. applies correspondingly. 
+2.3. Written form according to these General Conditions is met if  
+(i)  the requirements in § 886 ABGB are adhered to, or  (ii)  the requirements in an existing EDI agreement are adhered to, or  (iii)  a document with a handwritten signature is scanned and sent by e-mail, or (iv)  a document with an electronic signature (signature according to Art. 26 Regulation (EU) No 910/2014 
+(eIDAS-Regulation)) is sent by e-mail.  
+3. Confirmation of order, Supplier’s General Terms and Conditions 
+3.1. Upon confirmation of an order, these General Terms and Conditions of Purchase become part of the corresponding contract.  
+3.2. An order is accepted by the Supplier’s order confirmation. Art. 2 applies correspondingly regarding the order confirmation. 3.3. SEA reserves the right to cancel an order unless it has received a proper order confirmation from the Supplier within two weeks 
+after the date of the order. Such cancellation is deemed on time if it is sent to the Supplier before SEA receives the purchase 
+order confirmation. 
+3.4. If the purchase order confirmation deviates from the order, the Supplier shall clearly state any such deviation in the purchase 
+order confirmation. SEA shall only be bound by such deviation if it has expressly accepted it according to Art. 2. An unconditional 
+acceptance by SEA of the goods delivered by the Supplier shall not be considered as acceptance of any such deviation. 
+3.5. Unless accepted by SEA according to Art. 2, the Supplier's general terms and conditions, as well as any other provision in other 
+documents of the Supplier (such as , but not limited to, specifications, data sheets, technical documentation, advertising materials, 
+order confirmations , and/or shipping documents) regarding legal terms (e.g. liability, restriction of use, restriction of application, 
+and/or restriction of suitability) or any other provisions that change the provisions of these Conditions of Purchase, shall not 
+become binding upon SEA. Any reference in the order to the Supplier's quotation documents by SEA does not imply acceptance 
+of the Supplier's terms and conditions.  
+3.6. Unless expressly accepted by SEA  in writing, any terms and/or licensing conditions of the Supplier or any of its subcontractors 
+(such as EULA) made available in paper or digital form together with the delivery of software products shall not be binding upon SEA. In particular, they do not apply if SEA or any third party attributable to SEA (e.g., employees, consultants, Buyer s of SEA) 
+commits an act that, pursuant to those terms and/or licensing conditions, constitutes a basis for the conclusion of a contract. They 
+also do not apply if software registration cards are sent back to the Supplier, or approvals are given which are conditional for use 
+of the software products. The Supplier shall ensure that according to the contracts with its subcontractors such behaviour does 
+not result in any  obligations of SEA or third parties  who are attributable to SEA. If claims are asserted by the Supplier ’s 
+subcontractor, the Supplier shall fully indemnify and hold harmless SEA and these third parties. 
+4. Delivery Period, Consequences of Delay 
+4.1. Unless expressly agreed otherwise, the delivery or performance period shall commence on the day the order is issued by SEA. If 
+no such period has been agreed, the Supplier shall deliver goods and services without delay. The timeliness of deliveries shall be 
+determined by  the date of receipt at the place of  destination specified by SEA (“point of use”), the timeliness of deliveries with 
+assembly or installation, and of services  shall be determined by  their acceptance. In the event of foreseeable delays in delivery, 
+the Supplier has to notify  SEA without delay and obtain a decision from SEA in this respect. In that event, the delivery or 
+performance period shall be extended only if SEA has explicitly recognised such extension in writing. 
+4.2. SEA is entitled to charge a penalty of 0.5% of the total gross order value per commenced calendar day of delay in delivery or 
+performance, regardless of the Supplier´s  fault and regardless of any proof of actual damage, up to a maximum of 10% of the 
+total gross order value. SEA reserves the right to claim damages exceeding the amount of the penalty. In the event of a delay, 
+SEA is entitled to withdraw from the contract after expiry of a reasonable grace period granted to the Supplier. This also applies 
+if a delayed partial delivery was previously accepted by SEA without reservation. In case of time-sensitive contracts , SEA is not 
+obliged to grant a grace period.  
+4.3.
+ When it can be foreseen that the Supplier will fail to properly deliver, or perform by the agreed date, SEA shall be entitled to take 
+all measures necessary to prevent an imminent delay in delivery / performance at the Supplier’s cost and risk. 
+4.4. If a delay in delivery or performance is caused by an omission or lack of assistance by SEA despite due written notification, the 
+agreed delivery dates and periods shall be extended by not more than the number of days of delay caused by SEA. The Supplier 
+shall take acceleration measures regarding its works to make up for time lost. If the extension exceeds three months the Supplier is entitled to claim additional costs.  
+4.5. In the case of early delivery, SEA reserves the right to charge the Supplier any extra cost, e.g., warehouse and insurance costs, 
+and to effect payment in accordance with the agreed delivery date. Until the agreed date, SEA shall only bear the responsibility 
+of a depositary. 
+  
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  2 5. Shipment, Delivery, Passing of Risk, Subcontracting 
+5.1. In the case of deliveries involving assembly or installation, and in the case of services, the risk passes upon acceptance; for 
+deliveries not involving assembly or installation the risk passes upon receipt by SEA at the place of destination/delivery according 
+to Incoterms ® 2020. Unless agreed otherwise, DDP (named place of destination) Incoterms ® 2020 shall apply, if (a) the seat of 
+the Supplier and the named place of destination are within the same country , or if (b) the seat of the Supplier and the named place 
+of destination are both within the European Union, whereby the discharge occurs at the Supplier ’s risk and expense. If neither (a) 
+nor (b) are fulfilled, then DAP (named place of destination) Incoterms ® 2020 shall apply, unless agreed otherwise. If in this case delivery to construction sites or directly to third parties is agreed, DPU  (named place of destination) Incoterms
+® 2020 shall apply. 
+5.2. Partial as well as overdeliveries and underdeliveries are only permissible after obtaining SEA’s  express written approval. Goods 
+are delivered to the goods receiving department of the place designated for delivery at the times agreed for the receipt of g oods 
+in the order. Each packaging item shall contain a delivery note detailing, the net weight per item and the complete purchase order 
+number. Additionally, a delivery note also has to be attached to the outside of each pack aging item using a protective bag. The 
+packaging item  must be marked with the delivery address and purchase order number(s). In case the purchase order  number(s) 
+are not attached outside properly, SEA is entitled to charge a flat rate compensation for its expenses of 50 EURO. 
+5.3. All requirements by SEA regarding mode of transportation, carrier and shipment rules must be strictly adhered to. Unless SEA 
+has required a particular mode of transportation, goods must be dispatched at the lowest possible cost, failing which any adv erse 
+consequences and additional cost shall be borne by the Supplier . Additional cost arising from the need to meet the delivery date 
+by way of expedited shipment shall be borne by the Supplier. Should agreed payment instruments ( e.g., letter of credit) and 
+shipping documents, in particular purchase order data, be missing or incomplete, SEA shall be entitled to refuse acceptance at 
+the Supplier’s cost and risk. 
+5.4. Unless the freight costs are borne by the Supplier (e.g., FCA (named place) Incoterms® 2020) , the usage of the SEA Routing 
+Order Tool is mandatory ( https://www.ax4.com/ax4/index.jsp ). If the Supplier neglects to use the said Tool, SEA will not bear the 
+freight costs. 
+5.5. Direct supplies to SEA’s  Buyer s shall be made in neutral packaging and with shipping documents in the name and on behalf of 
+SEA, where necessary. The Supplier shall provide SEA with a copy of these delivery notes. 
+5.6. Retention of title of whatsoever nature by the Supplier is invalid. 
+5.7. Where prices are quoted without packaging, packaging shall be charged at cost price and stated separately in the invoices. Unless 
+otherwise agreed by the parties, the value of packaging material returned by SEA to the Supplier for reuse shall be reimbursed 
+by the Supplier. The Supplier is liable for any damage caused by improper packaging. When delivering hazardous materials, the 
+Supplier shall comply with all appl icable statutory regulations, in particular the requirements for the design and labeling of the 
+packaging and the means of transport.  
+5.8. For the provision of work and services, the Supplier may only use those employees who are not named in the relevant national, 
+EU, and US American foreign trade sanction lists.  
+5.9. The Supplier must perform the works by himself. The Supplier may delegate works in partial to a third party ( i.e., subcontractor or  
+vicarious agents). The third party performing such works must be approved in writing by SEA  before such assignment. The 
+Supplier must notify SEA in writing of any involvement of a further third party and provide all documents required to approve 
+respective third party. The Supplier is not entitled to assign the works prior the written approval of SEA. 
+5.10. The Supplier undertakes to assign to SEA its warranty claims and claims for damages versus its subcontractors. The Supplier 
+undertakes to inform its subcontractors of this assignment in writing and provide SEA with a conformation. At SEA request the 
+Supplier provides SEA with all documents required to enforce assigned claims. This paragraph shall apply mutatis  mutandis to 
+the warranty claims and claims for damages versus the Suppliers suppliers. 
+5.11. The Supplier undertakes to agree with its subcontractors or vicarious agents that SEA, in the event of a termination or cancelation, 
+may take over the contracts between the Supplier and its subcontractors regarding the works. At SEA request the Supplier 
+provides SEA with all relevant documents (including, but not limited to, contracts). This paragraph shall apply mutatis mutandis to 
+the Suppliers contract with its suppliers. 
+6. Export  Control and Foreign  Trade  Data  Regulations  
+6.1. The Supplier shall comply with all applicable export control, customs and foreign trade regulations (“Foreign Trade Regulations”). 
+In particular, the Supplier represents and warrants that none of its products nor its services provided under the contract contain products and/or services restricted for import under the Foreign Trade Regulations applicable to the Buyer , including but not 
+limited to Council Regulations (EU) 833/2014, 692/2014, 2022/263 or 765/2006, each as amended, and import restrictions enfor ced by the U.S. Customs and Border Protection. The Supplier shall advise the Buyer in writing within two weeks of receipt 
+of the order - and in case of any changes without un- due delay - of any information and data required by the Buyer to comply 
+with all Foreign Trade Regulations in case of export and import as well as re-export, including without limitation: 
+• all applicable export list numbers, including the Export Control Classification Number according to the U.S. Commerce Control  
+List (ECCN); and 
+• the statistical commodity code according to the current commodity  classification for foreign trade statistics and the HS 
+(Harmonized System) coding including the respective tariff basis on which the classification of the product has been performed 
+(e.g. EU Combined Nomenclature, TARIC, US HTS); and 
+• the country of origin (non- preferential origin) as well as the region of origin, if applicable for the respective country of origin; 
+proof of origin (e.g. Packing-List, Delivery Note, BOL, GAI); and 
+• upon request of the Buyer : preferential statement including Supplier’s declaration of preferential origin (in case of European 
+suppliers) or preferential certificates (in case of non-European suppliers); and 
+• upon request of the Buyer : evidence of the country of origin of the iron and steel inputs used for the processing of the products. 
+Supplier shall be liable for any expenses and/or damage incurred by the Buyer due to any breach of the obligations according 
+to this section 6.1.  
+6.2. Ban on re-exports to Russia („No-Russia-Clause“) 
+The following clause shall apply if and to the extent (i) the Buyer supplies any goods or technology to the Supplier in the course 
+of the execution of the contract, (ii) such supplied goods or technology are or refer to goods listed in the Annexes set out in Article 
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  3 12 g EU Regulation No. 833/2014 and Art. 8g EU Regulation No. 765/2006 as amended and (iii) and the supply takes place from 
+the EU to a third country except for partner countries according to Article 12 g EU Regulation No. 833/2014 and Art. 8g EU 
+Regulation No. 765/2006 as amended:  
+• The Buyer  hereby prohibits to the Supplier, and the Supplier  agrees, not to re -export and/or forward, directly or indirectly, to 
+Russia or Belarus or for use in Russia or Belarus any supplied goods as well as technology (and related documentation, 
+regardless of the mode of provision) provided by the Buyer  to the Supplier under the contract. 
+• The Buyer  shall be entitled to terminate the contract by written notice in the event of a breach by the Supplier of the obligation 
+pursuant to this section 6.2. Upon termination, the Supplier shall pay to the Buyer  all costs and damages incurred by the 
+Buyer  from such termination. In any case, the Supplier shall pay the Buyer  liquidated damages in the amount of 20 % of the 
+contract price. 
+• Notwithstanding the provision hereinabove in this section 6.2, the Supplier shall indemnify and hold harmless the Buyer  in full 
+from and against any claim, proceeding, action, fine, loss, cost and dam - age asserted by public authorities or other third 
+parties against the Buyer  arising out of or relating to a breach by the Supplier of the obligations under this section 6.2 and the 
+Supplier shall compensate the Buyer  for all losses and expenses incurred resulting thereof.  
+7. Reservation Clause  
+The Buyer  shall not be obligated to fulfil the contract if such fulfilment  is prevented by any impediments arising out of national 
+or inter - national foreign trade or customs requirements or any embargoes or  other sanctions.  
+8. Suspension, Cancellation  
+8.1. SEA reserves the right to order the Supplier  to suspend the performance of the contract at any time. If the performance of the 
+contract is suspended for more than three months, the Supplier  will have to prove to SEA in detail that he has incurred costs 
+resulting from such suspension. However, SEA shall not be liable to the Supplier  for any loss of profits. The Supplier  may claim 
+compensation only for such proven costs. The Supplier  may not claim compensation for any costs incurred during the first three 
+months.  
+8.2. In addition to any rights provided by law to withdraw from or cancel a contract, the Buyer  may cancel the contract in whole or in 
+part in case (a) the Supplier is in delay with its delivery or service and such delay – despite a corresponding demand notice by 
+Buyer  – persists for more than 2 weeks after receipt of such demand notice, or in case (b) that the adherence to the contract by 
+the Buyer  cannot reasonably be expected from the Buyer  because of a reason attributable to the Supplier and taking into 
+cons ideration the circum - stances in the individual case as well both parties’ interests. This might, in particular, apply in case of 
+an actual or possible deterioration of the Supplier’s financial situation thus threatening the due fulfilment of the Supplier’s 
+obligations under the contract.  
+8.3. SEA also reserves the right to vary the scope of supply or services. The Supplier  is entitled to a corresponding adjustment in the 
+contract price. 
+8.4. Unless binding provisions of the Austrian Insolvency Act ( Insolvenzordnung ) determine otherwise, SEA is entitled to withdraw 
+from the contract as a whole or in part, without prejudice to procedural consequences, if insolvency proceedings are commenced 
+against the Supplier  or if the Supplier ’s ownership structure changes. The Supplier  is obliged to immediately inform SEA about 
+any such circumstances. 
+9. Invoicing, Set -off  
+9.1. Invoices must indicate all purchase order details and be submitted to SEA immediately after delivery of goods or completion of 
+services. Copy invoices must be marked as duplicates. Invoices shall be worded and structured to facilitate both their compar ison 
+with the order and their auditing. Each invoice must show the purchase order number and the purchase order data. Invoices 
+relating to services and installation performed shall be accompanied by time records confirmed by SEA. Invoices relating to goods 
+requiring export authorisations shall list all marking requirements fulfilled. If the Supplier ’s main office is within the EU the Supplier  
+must provide the VAT number not later than the invoice. 
+9.2. SEA reserves the right to return invoices unprocessed that do not to meet SEA´ requirements , in particular with regard to purchase 
+order data or VAT regulations . In such a case, invoices are considered as not submitted. Electronic invoices will only be accepted 
+if sent to SEA via EDI  or by email to the email -address as defined by SEA. 
+9.3. The Supplier  is not entitled to set off claims it may have against SEA against claims SEA has against the Supplier . 
+9.4. If the Supplier  changes its bank account, the Supplier  undertakes to inform SEA  in writing and provide SEA an official confirmation 
+issued by the custodian bank at the Supplier ’s expense confirming the Supplier ’s ownership of the new bank account. In case the 
+Supplier  fails to provide such information, payments by SEA to listed or known bank accounts are with discharging effect if such 
+bank account is already registered in the accounting system. 
+10. Terms of Payment  
+10.1.  The period within which invoices must be paid commences with SEA’s  unconditional acceptance of delivered goods or services 
+and upon receipt of the properly issued invoice. If the Supplier  is obliged to provide material tests, test records or quality control 
+documents or any other documentation, deliveries and services will be regarded as fully performed only upon receipt of such 
+documentation.  
+10.2.  Unless otherwise agreed, payments are to be made within 60 days net or within 30 days less a discount of 3% at SEA’s  choice. 
+SEA is entitled to withhold payment until identified defects are remedied. For the duration of the warranty period, SEA may withhold 
+up to 10% of the contract value as an interest- free guarantee deposit. Payment shall not be considered as an acceptance that the 
+goods or services were delivered in accordance with the contract, nor as a waiver of any rights on the part of SEA. The Suppl ier 
+bears bank charges incurred by the receiving bank. If, for any reason, an agreed security is not (or no longer) available, the 
+Supplier  is obliged to provide SEA  with an equivalent one.  
+10.3.  SEA is entitled to set off claims of its affiliated companies against the Supplier ’s claims.  
+11. Acceptance, Notice of Defects, Liability for Defects, Product Liability, Product Safety, Intellectual Property Rights, Quality Assurance  
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  4 11.1.  The mere receipt or temporary use of deliveries and services or payments made thereof do not constitute an acceptance or waiv er 
+of rights by SEA . Acknowledgements of receipt issued by the goods receiving department of SEA  do not constitute a final 
+acceptance by SEA of the goods delivered. 
+11.2.  The goods are taken over (received) and checked as to their completeness and any visible defects within a reasonable time after 
+their receipt. If random checks show that parts of a delivery do not comply with SEA’s  requirements or do not have the required 
+marketable quality, SEA may reject the entire delivery. SEA shall notify the Supplier  of any defects detected as soon as possible. 
+However, SEA is not obliged to notify defects pursuant to Sect. 377 of the Austrian Business Code ( Unternehmensgesetzbuch).  
+11.3.  The Supplier  is required to carry out an adequate inspection of the components provided ( e.g., raw materials, building materials) 
+by SEA from upstream suppliers, producers and other third parties upon receipt to determine any apparent or hidden defects, and 
+to notify SEA and the respective supplier, producer and other third party of such defects without delay. 
+11.4.  The Supplier  warrants to SEA that it will use best, appropriate, and brand- new materials, manufacture the products adequately 
+and in compliance with the underlying technical drawings, and that it will provide for their proper installation. The warranty period 
+for supplies and services by the Supplier  is two years. The warranty period for products and services that become a fixed part of 
+buildings or land is three years. After rectification of defects notified by SEA, the warranty period for the affected product begins to run afresh. The warranty period for deliveries begins with the assembly or installation of the delivered products, for services 
+with their acceptance, for deliveries not involving assembly or installation with their delivery to the place of destination, for hidden 
+defects with their identification. For deliveries to locations where SEA uses the Supplier ’s goods to perform contracts outside its 
+premises, the warranty period begins to run with the acceptance of the services to be rendered by SEA by SEA’s  Buyer . This 
+time- limit is deemed to be observed if SEA has asserted warranty claims against the Supplier  within the aforesaid periods in 
+writing. 
+11.5.  If engineering, advisory, software , or documentation services , or staff are provided by the Supplier , the Supplier  fully guarantees 
+the correctness and completeness of its information and instructions for a period of two years after their provision.  
+11.6.  SEA may assert claims against the Supplier  pursuant to Sect. 933b ABGB (Austrian Civil Code), irrespective of whether the final 
+Buyer  is a consumer or an entrepreneur. The Supplier  waives the objection of SEA’s  failure to assert warranty claims in a timely 
+manner pursuant to Sect. 933b, para. 2 ABGB by SEA.  
+11.7.  The Supplier ’s upstream suppliers are regarded as its agents.  
+11.8.  SEA may require the Supplier  either to immediately remedy defects identified within the above specified warranty periods at the 
+Supplier ’s expense and risk  at the place of destination or to provide defect- free goods or services within the set deadline. SEA is 
+entitled to claim all costs incurred in connection with the rectification of defects, e.g., installation and removal costs. The Supplier  
+shall reimburse SEA for any inspection costs if an inspection has revealed defects. In the case of imminent danger, e.g., to avoid 
+its own default, or if the Supplier  fails to rectify defects within a reasonable time, SEA shall be entitled to acquire defect- free 
+products from third parties, without prior notification and without prejudice to its warranty claims against the Supplier  or to repair 
+or have defective goods repaired at the Supplier ’s expense and risk . The Supplier  shall fully reimburse SEA the cost of such 
+repairs, even if it exceeds the cost of repair by the Supplier . 
+11.9.  The Supplier  shall indemnify and hold SEA harmless against disputes arising from any patent, copyright, trademark or registered 
+design, and guarantee SEA the unrestricted use of the delivered product. Without prejudice to other obligations, the Supplier  will 
+indemnify and hold SEA harmless against any product liability claims raised by third parties against SEA as a result of defects in 
+the products delivered by the Supplier . The Supplier  undertakes to compensate SEA for costs incurred in connection with a 
+defence against any such claim or in connection with an obligation to repair defective products. The Supplier  will provide SEA 
+with ample proof that it has taken out adequate insurance to cover these risks.  
+11.10.  For a period of 11 years after the last delivery, the Supplier  shall provide SEA upon the latter’s request with the names of the 
+respective manufacturers, importers, upstream suppliers without delay, not later however than two weeks after being requested 
+to do so. Furthermore, the Supplier  will provide SEA immediately with appropriate evidence, such as production records and 
+documents specifying production and delivery batches and/or the date of production and delivery to enable SEA to oppose product 
+liability claims.  
+11.11.  The regulations of Austrian law on liability apply.  
+11.12.  Installations or products delivered by the Supplier  must have the required safety features and comply with the applicable safety 
+standards (for installations or parts thereof in particular with those applicable at the place of destination). In any case, the current state of the art and technical rules shal l be complied with. In particular, the relevant EU directives, the Austrian Electrical 
+Engineering Act ( Elektrotechnikgesetz ) and any provisions based thereon (as amended) as well as ÖVE or VDE regulations  in 
+their currently applicable version, Austrian technical standards (ÖNORMEN), DIN standards, European standards and similar 
+bodies of rules must be complied with. Installations, systems,  or products delivered by the Supplier  must bear the CE markings 
+required under the relevant EC directives and Austrian legislation. Upon delivery, the Supplier  shall provide SEA with EC 
+declarations of conformity with short technical descriptions as well as installation instructions and installation requirements, if requi red. In addition, the Supplier  shall inform SEA about changes in materials, manufacturing procedures, sub- supplier parts and 
+EC declarations of conformity in a timely fashion. When delivering equipment designed to be assembled by SEA or a third party, 
+the Supplier  shall provide SEA, to the extent necessary, with all documentation required by SEA, including assembly schedules, 
+data sheets, installation instructions, processing instructions, storage, operation, and maintenance instructions, lists of spare and 
+non-consumable parts etc. Delivered products have to be marked in German and – upon SEA’s  request – in other languages as 
+well. The operating requirements and instructions must be drawn up in duplicate in German and - upon SEA’s  request - also in 
+other languages. 
+11.13.  SEA reserves the right to demand proof of the Supplier ’s quality control system and the Supplier ’s documentation of the quality 
+tests executed, and to carry out audits on the Supplier ’s premises at any time. The Supplier  shall compensate SEA for the costs 
+of the audit if the audit provides proof of a defective control  system or insuffic ient documentation on quality tests.  
+11.14.  Before a necessary product warning the Supplier  will inform SEA immediately and directly in writing.  
+12. Material provided by SEA  
+12.1.  Material provided by SEA remains SEA’s  property and is to be stored, labelled, and managed separately free of charge. Upon 
+SEA’s  request, the Supplier  shall confirm the receipt of material provided by SEA. The Supplier  may use such material only to 
+execute orders from SEA. The Supplier  shall compensate SEA for a diminution in value or loss. Claims for damages arising from 
+the delayed provision of such material as well as any right of retention of the Supplier  shall be excluded.  
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  5 13. Special Conditions for Hardware and Software  
+13.1.  Unless otherwise agreed in the order, hardware and software always constitute a single product.  
+13.2.  If the Supplier  is to deliver software that has not been developed individually for SEA, the Supplier  will grant SEA the nonexclusive 
+right to use, transfer, utilize, distribute, copy, sublicence, edit and assign such software for the purpose of its intended and 
+contractually agreed use. This right of use shall not be limited in duration in cases where the payment of a lump sum has been 
+agreed for the use of such software. For software products which have been individually developed for SEA, the Supplier  grants 
+SEA an exclusive and transferable exploitation right for all usage categories pursuant to the Austrian Copyrights Act 
+(Urheberrechtsgesetz ) that is unlimited in time and place and also excludes the Supplier  itself from using the software for any 
+purpose. Unless otherwise agreed, the software shall be delivered together with the source code in its latest version. The Supplier  
+shall install the software and provide a data carrier which can be disclosed on SEA’s  system both in source code and object code 
+form together with the related documentation (contents and structure of the data carrier, program and data flow charts, test 
+procedures, test programs, error processing, etc.). Apart from this documentation, the Supplier  shall provide SEA with 
+comprehensive written user documentation in German language and/or in any language selected by SEA and in a sufficient  
+number before acceptance. 
+13.3.  Software individually developed for SEA will be accepted explicitly in the form of a written acceptance protocol if it meets the 
+agreed requirements specifications. Any repair to be performed by the Supplier  will be also included in the acceptance protocol. 
+If SEA fails to accept delivery for four weeks after notification of readiness for acceptance by the Supplier , or if SEA denies 
+acceptance without justification, the software will be deemed accepted after it has been tested free of charge for at least four weeks and such testing has shown satisfactory results and produced no error messages. In case of doubt, the mentioned period 
+shall commence with the commercial use of the software by SEA or by SEA’s  end Buyer , whichever comes last.  
+13.4.  The Supplier  undertakes to make available to SEA all subsequent programme versions in which errors have been eliminated 
+(updates) free of charge within the warranty period. The Supplier  furthermore undertakes to offer SEA software maintenance at 
+competitive market prices for at least five years from the date of acceptance. Within the warranty period, maintenance charges will be reduced accordingly.  
+13.5.  The Supplier  shall inform SEA - at the latest at the time the order is confirmed -  whether the products and services to be delivered 
+contain open- source  components. In the context of this provision “ open- source  components” means any software, hardware or 
+other information that is provided royalty -free by the respective licensor to any user on the basis of a license with the right to 
+modify and/or to distribute ( e.g., GNU General Public License (GPL), the GNU Lesser GPL (LGPL), or the MIT License). 
+13.6.  Should the products and services delivered by the Supplier  contain open -source components, the Supplier  shall comply with all 
+applicable open- source license terms and shall grant all those rights to SEA and provide all information which SEA needs in order 
+to comply itself with the applicable license terms. In particular, the Supplier  must deliver to SEA promptly after the order is 
+confirmed the following:  
+• The complete source code of the relevant open- source software, including scripts and information regarding its generating 
+environment insofar as the applicable open- source conditions require this. 
+• A schedule of all open- source files used, indicating the relevant license, its version and including a copy of the complete text 
+of such license and including a reference to copyright and/or authorship. Such schedule must have an understandable 
+structure and contain a table of contents. 
+13.7.  The Supplier  shall inform SEA - at the latest at the time the order is confirmed -  whether any open- source  licenses used by the 
+Supplier  will – within their intended use -  be subject to a “Copyleft Effect“ which will affect the products of SEA. In the context of 
+this provision, “Copyleft Effect“ means that the provisions of the open source license require that certain of the Supplier ’s products, 
+as well as any products derived from these, may only be distributed further in accordance with the terms of the open source 
+license e.g. only if the source code is disclosed.  
+13.8.  Should the Supplier  not indicate until receipt of the order that its products and services contain open- source components or 
+whether the described “Copyleft Effect“ would occur , then SEA is entitled to cancel the order within 14 (fourteen) days upon receipt 
+of this information. 
+14. Special Provisions for Planning Activities  
+14.1.  Any and all documentation, such as plans, drawings, and models shall become the property of SEA, even if the contract should 
+be terminated prematurely and shall be handed over to SEA upon request. The Supplier  shall grant to SEA an exclusive and 
+transferable exploitation right for all usage categories pursuant to the Austrian Copyrights Act ( Urheberrechtsgesetz ) that is 
+unlimited in time and place and excludes the Supplier  itself from using without claim for additional remuneration, same applies for 
+works r esulting from this contract. SEA thus is entitled to exploit, by means of implementation of the respective plans, or otherwise 
+use said plans and other documentation in their original form or after modification without any further participation or appr oval by 
+the Supplier . 
+15. Drawings, Tools, Auxiliary Devices, Authorisations  
+15.1.  Drawings and technical calculations shall be made available by the Supplier  free of charge, where necessary. Any tools, patterns, 
+samples, models, profiles, drawings, standard specification sheets, printing templates , and materials provided by SEA, as well as 
+any materials derived therefrom, shall remain SEA’ s property and shall not be made available to any third party nor be used for 
+any other purposes than those contractually agreed, without SEA’ s prior written authorisation. Tools, patterns, etc., that have been 
+produced at SEA ’s expense, shall become SEA’ s property upon payment. 
+15.2.  All tools and related auxiliary devices, in a broad sense, shall be clearly marked as SEA’s  property and protected against 
+unauthorised access or use, or maintained and repaired, if and where applicable. They shall be returned either upon execution or 
+cancellation of the order. Subject to any further rights, SEA may demand the return of such materials if the Supplier  violates the 
+duties referred to above. The Supplier  has no right of retention.  
+15.3.  The Supplier  expressly states and warrants  towards SEA that it is in possession of all industrial authorisations as well as any 
+other authorisations , permits  and/or licences  necessary to ensure the performance of the services as agreed in the contract and 
+that it will, upon SEA’s  request, make available to SEA the respective documents. Insofar as for the performance of the deliveries 
+and services special regulatory approvals, authorisations , or inspections are required, such approvals, permissions and 
+inspections will be obtained by the Supplier  without entitlement to special remuneration in a timely manner.  
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  6 16. Confidentiality, Data Protection 
+16.1. The Supplier undertakes to keep confidential information pertinent to SEA or the subject matter of the contract, which he has 
+rightfully obtained in connection with the purchase order, unless this information has become generally known or known to the 
+Supplier in another lawful manner.  
+16.2. Furthermore, the Supplier shall keep confidential the results or partial results obtained by the Supplier in fulfilment of the purchase 
+order and use them exclusively for the performance of the present purchase order. If  the Supplier makes use of a third party for 
+the performance of its contractual obligations, he shall make sure that such third party contractually commits itself to at least the 
+same degree of confidentiality.  
+16.3. The same applies to personal data relating to SEA or any third party, information according to Sect. 38 Banking Act 
+(Bankwesengesetz ), insider information according to market abuse regulations  (Regulation (EU) No 596/2014)  etc. that the 
+Supplier has acquired in connection with the contract with SEA. The Supplier shall protect such information from access by third 
+parties, ensure compliance with the statutory data protection regulations, in particular with Sect. 6 Data Protection Act 
+(Datenschutzgesetz ) and commit its employees (including employees, hired staff, freelancer) dealing with contractually relevant 
+tasks to the same level of confidentiality.  
+16.4. The Supplier’s data (commercial register data, address, telephone and facsimile number as well as other information required for 
+correspondence following from modern communication tools, locations, contact persons, ordered goods, and supply volumes) which become known to SEA in connection with the respective business transaction will be automatically processed only for the 
+execution of the contract, in particular for administration and billing purposes. For technical reasons, it may be necessary to store 
+such data on servers of a company that is a member of the SEA-group or on servers of a service provider.  
+16.5. The protection of personal data is very important to SEA. Therefore, SEA processes personal data only in accordance with all 
+applicable data protection and data security regulations. In the course of doing business with suppliers, SEA processes personal data of contact persons at the Supplier , at interested parties (potential suppliers) , or at other business partners. Details to the 
+categories of the processed data, the purposes of the processing and its legal grounds can be found in the Data Privacy Polic y of 
+SEA – available in detail on the homepage ( https:\\www.siemens-energy.com/global/en/general/privac y-notice.html ).
+ 
+17. Information, Declaration of Materials, RoHS, Disposal, Packaging, Dangerous Goods 
+17.1. If the Supplier delivers products that are subject to regulatory or other legal requirements regarding their placement on the market 
+and further marketing in the European Economic Area, or comparable requirements in other countries of use named by SEA, the 
+Supplier must ensure that the products fulfill these requirements in their version applicable at the time of acceptance (cf. 5.1). The  
+Supplier must further ensure that all documents and information necessary for proof of conformity of the products with the 
+applicable requirements can be supplied to SEA immediately upon request.  
+17.2. Notwithstanding any legal information duties, the Supplier shall provide SEA with all necessary and useful information pertinent 
+to the goods and services to be delivered, in particular information on proper storage as well as safety data sheets in accor dance 
+with EU Regulations in the version applicable as of conclusion of the contract. In addition, the Supplier shall raise SEA’s  attention 
+to the possibility of hazardous waste or waste oils arising from the goods delivered by the Supplier and shall, in particular advise 
+SEA on their disposal. Upon SEA’s  request, the Supplier shall take back, free of charge, any waste resulting from the ordinary 
+use of the delivered goods or similar products, as defined in the applicable Waste Disposal Act ( Abfallwirtschaftsgesetz ). However, 
+such obligations shall be limited to the amount delivered by the Supplier . Should the Supplier refuse or should the Supplier not be 
+able to accept such waste, SEA shall be entitled to dispose of it at the Supplier’s expense. 
+17.3. The Supplier ensures that deliveries under the order are RoHS –compliant and therefore in conformity with the EC Directive on 
+the Restriction of the use of certain Hazardous Substances in Electrical and Electronic Equipment (EU Regulations in the version 
+applicable as of conclusion of the contract) at the time of delivery. If deliveries fail to comply with this EC Directive, the Supplier 
+shall – without prejudice to any warranty claims SEA may raise – compensate SEA for any damage arising from such non-
+compliance.  
+17.4. Should the Supplier deliver products/materials that contain substances , which are set out in the so -called “List of Declarable 
+Substances” (https://www.bomcheck.net/de/%20suppliers/restricted-and-declarable-substances- list) applicable at the time of the 
+order , or which are subject to legal restrictions and/ or information requirements , the Supplier shall declare such substances in 
+the web database BOMcheck ( https://www.bomcheck.net ), together with the information requested therein at the latest together 
+with the first delivery of the products and shall provide the respective declarations/certificates together with the delivery notes . If 
+the products/materials do not contain substances , which are listed in the in the so-called “ List of declarable Substances”, the 
+Supplier shall also inform SEA accordingly in writing at the latest together with the respective delivery note. 
+17.5. Should the delivery contain goods which – according to international regulations – are classified as dangerous goods, the Supplier 
+will inform SEA hereof in a form agreed upon between Supplier and SEA, but in no case later than the date of order confirmation.  
+17.6. Any transport, sales , and service packaging of domestic supplies to SEA must be disposed of by the Supplier exclusively through 
+Altstoff Recycling Austria AG (“ARA AG”). The Supplier shall indemnify SEA for any costs arising from a lack of disposal or from 
+disposal by a collecting and disposing system other than that of ARA AG. 
+17.7. The Supplier shall provide all necessary data and information in accordance with the EU Carbon Border Adjustment Mechanism 
+(CBAM) statutory regulations in a timely manner upon request of Buyer in order to meet the Buyer ´s external obligations. CBAM 
+latest developments as well as guidance can be accessed on the official Carbon Border Adjustment Mechanism Website; currently  
+available under the following link: Carbon Border Adjustment Mechanism (europa.eu) . 
+18. Legal Succession 
+18.1. The Buyer may assign its rights and obligations arising from the contract with the Supplier to another company within the SEA-
+group. The Supplier has no right to cancel the contract for reasons of such assignment.  
+18.2. Contracts between SEA and Supplier shall not be assigned without the prior written consent of SEA. 
+19. Anti-corruption  
+19.1. The Supplier shall notify SEA – at the latest upon submission of the Supplier’s offer to SEA – in writing if the Supplier or members 
+of its management board have been sentenced by final judgment of a national court for corruption of a public officer within the last 
+five years prior to the submission of the Supplier ’s offer to SEA, and, without undue delay, if the Supplier or members of its 
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  7 management board are charged with corruption of a public officer before a national court at any time between submission of the 
+Supplier’s offer to SEA and acceptance of the supplies/services of the Supplier pursuant to Sect. 9.2. Such notification shall 
+ensure compliance with the requirements laid down by the OECD Recommendation on Anti-Corruption.  
+20. Code of Conduct for Suppliers, Security in the Supply Chain  
+20.1. The Supplier is obliged to comply with the laws of the respective jurisdiction, as well as the Code of Conduct for SEA Energy 
+Suppliers and Third Party Intermediaries ( https://www.SEA-energy.com/global/en/company/about/supply-chain-
+management/supplier-information.html ). In particular, the Supplier shall not engage, actively or passively, directly or indirectly, in 
+any form of bribery, violation of fundamental rights of its employees , or child labour. The Supplier has the sole responsibility to 
+comply with all legal, regulatory , and professional requirements with respect to its employees, especially regarding the fulfillment 
+of the provisions of the Austrian Anti- Wage and Social Dumping Act ( Lohn- und Sozialdumping-Bekämpfungsgesetz - LSD- BG) 
+and the Act Governing the Employment of Foreign Nationals  (Ausländerbeschäftigungsgesetz - AuslBG) . In the case of cross -
+border assignments of employees, the Supplier must observe all statutory regulations of the country of operation. In particular, 
+the Supplier shall fulfill all statutory wage requirements as well as the wage requirements from all collective bargaining 
+agreements, shall fulfill his statutory obligations to pay taxes and social insurance contributions, shall comply with all statutory and official requirements for work safety, and shall only use employees who have the necessary working permits and have proper 
+social security and accident insurance. In case of involvement of third parties and/or involvement of further third parties i nvolved 
+by these third parties, the Supplier equally ensures the compliance with these requirements. Upon request the Supplier must 
+provide to SEA with respective written proof of compliance with these obligations, by itself and the third party. The Supplier shall 
+fully indemnify and hold harmless SEA from and against claims based on the infringement of the obligations according to this 
+article 18.1. by the Supplier or third parties. 
+20.2. The Supplier shall act in accordance with the applicable environmental laws. He will take adequate measures to avoid the 
+deployment of so- called conflict minerals and to create transparency over the origin of raw materials and will use best efforts to 
+promote this Code of Conduct among its suppliers. 
+20.3. The Supplier is obliged to comply with all statutory and contractual accident prevention and occupational health and safety 
+regulations. He must ensure that there is no risk to the health and safety of the personnel employed by him and his direct an d 
+indirect subcontractors to provide the services, as well as all other persons who are authorized to be in the work area..  
+20.4. If the work or services are to be performed on premises of SEA or on construction sites on behalf of SEA, additional safeguard 
+instructions as described in the document SE-A 111e “EHS instruction sheet for employees of external companies " 
+(https://www.SEA-energy.com/global/en/company/about/supply-chain-management/supplier-information.html
+) apply. 
+20.5. The Supplier shall provide the necessary organizational instructions and take measures, particular ly in the areas of property 
+protection, business partner, personnel and information security, packaging and transport, in order to ensure security in the supply chain in accordance with the requirements of corresponding internationally recognized initiatives  based on the WCO SAFE 
+Framework of Standards (e.g. AEO, C -TPAT).  The Supplier shall protect the goods and services provided to SEA or provided to 
+third parties designated by SEA against unauthorized access and manipulation. The Supplier shall only deploy reliable personnel 
+for those goods and services and shall obligate any sub-suppliers to take equivalent security measures. 
+20.6. Without prejudice to other rights and remedies SEA may have, SEA  may terminate the contract if the Supplier has culpably violated 
+any of these obligations. If, however, the Supplier ’s breach of duty is capable of remedy, SEA may terminate the contract only if 
+the Supplier has failed to comply with a period granted by SEA for remedying its breach of contract. 
+21. Cybersecurity 
+21.1. The Supplier shall take appropriate organizational and technical measures to ensure the confidentiality, authenticity, integrity and 
+availability of Supplier Operations as well as products and services. These measures shall be consistent with good industry 
+practice and shall include an appropriate information security management system consistent with standards such as ISO/IEC 27001 or IEC 62443 (to the extent applicable). 
+21.2. “Supplier Operations” means all assets, processes , and systems (including information systems), data (including Buyer data), 
+personnel, and sites, used or processed by the Supplier from time to time in the performance of this contract 
+21.3. Should products or services contain software, firmware, or chipsets, 
+• the Supplier shall implement appropriate standards, processes , and methods to prevent, identify, evaluate, and repair any 
+vulnerabilities, malicious code, and security incidents in products and services which shall be consistent with good industry  
+practice and standards such as ISO/IEC 27001 or IEC 62443 (to the extent applicable). 
+• the Supplier shall continue to support and provide services to repair, update, upgrade and maintain products and services 
+including the provision of patches to SEA remedying vulnerabilities for the reasonable lifetime of the products and services. 
+• the Supplier shall provide to SEA a bill of materials identifying all third- party software components contained in the products. 
+Third party software shall be up to date at the time of delivery to SEA. 
+• the Supplier shall grant to SEA the right, but SEA shall not be obliged, to test or have tested products for malicious code and vulnerabilities at any time and shall adequately support SEA. 
+• the Supplier shall provide SEA a contact for all information security related issues (available during business hours). 
+21.4. The Supplier shall promptly report to SEA all relevant information security incidents occurred or suspected and vulnerabilities 
+discovered in any Supplier Operations, services, and products, if and to the extent SEA is or is likely to be materially affected. 
+21.5. The Supplier shall take appropriate measures to achieve that its subcontractors and Suppliers shall, within a reasonable time, be 
+bound by obligations similar to the provisions of this section 21. 
+21.6. Upon SEA’s request, the Supplier shall provide written evidence of its compliance with this section 21 including generally accepted 
+audit reports (e.g., SSAE-16 SOC 2 Type II). 
+22. Mention as a Reference Buyer 
+Only upon the Buyer ’s prior written approval, the Supplier shall be allowed to mention the Buyer as a reference Buyer and/or 
+make reference to products or services which the Supplier has developed dur- ing the performance of an order for the Buyer. 
+  
+  
+ 
+General Conditions of Purchase of Siemens Energy Austria GmbH   Edition November 2024  
+Siemens Energy is a trademark licensed by Siemens AG.  8 23. Place of Performance, Applicable Law, Place of Jurisdiction  
+23.1.  The place of performance for deliveries or services shall be the place of destination. For payments, the place of performance shall 
+be the Buyer’s seat.  
+23.2.  Austrian law shall apply with the exception of such legal provisions that make reference to the law of other countries. The 
+provisions of the United Nations Convention on Contracts for the International Sale of Goods are excluded.  
+23.3.  Disputes, particular ly those relating to the formation of contract or any claims arising thereunder, shall be exclusively decided by 
+the Vienna Commercial Court. However, SEA shall also be entitled to bring proceedings against the Supplier  before any other 
+court, e.g., before the Supplier ’s court of general jurisdiction.  
+23.4.  The Supplier  shall compensate SEA for any costs necessary for bringing appropriate legal action, particular ly for attorneys’ fees, 
+and for any pre- trial expenses incurred by SEA.  
+24. Severability, Proviso  
+24.1.  The invalidity of individual provisions shall not affect the validity of the remaining provisions of the contract. In such a case SEA 
+and the Supplier  will agree on a valid provision of economically equivalent content.  
+24.2.  SEA shall not be obligated to fulfil this agreement if such fulfilment is prevented by any impediments arising out of national or  
+international foreign trade or customs requirements or any embargoes or other sanctions. 

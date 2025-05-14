@@ -1,0 +1,75 @@
+1. Subsea Variable-Speed Drive
+The subsea variable speed drive (VSD) is the unit 
+responsible for supplying power and protecting 
+subsea motors for compressors and pumps. It 
+uses the field pr oven Siemens Perfect Harmony 
+multi-cell topol ogy with bypass capability, which 
+provides high levels of redundancy and 
+reliability. Thi s drive is able to provide efficient 
+and reliable control to different motor types, like 
+induction motors an d permanent magnet 
+motors.
+Siemens Energy sub sea VSD design is flexible 
+and can be adapted  to different appl ications. 
+Stand alone applications without other typical 
+units from a subsea power grid is also possible. 
+The multi-cell topology can be full y utilized if 
+scaling is requir ed, or even if multiple loads shall 
+be supplied by the same unit.
+The subsea VSD i s a fluid-filled and p ressure-
+compensated unit. Its natural-convection 
+cooling reduces maintenance requi rements and 
+provides excellent reliability. The different 
+components of the subsea VSD have been tested 
+for pressure and fluid compatibil ity in an 
+extensive qualifi cation program. In addition, the 
+design was verifi ed using a prototyp e 
+throughout extensive tests in factory and in 
+shallow water conditions, performed  in Norway.The subsea VSD has also an integrated 
+condition and mo nitoring system that is 
+seamlessly integrated in the Siemens Energy 
+subsea power control system and can easily be 
+integrated with th ird party systems. This 
+provides the operator with excel lent 
+transparency into the equipment and  the status 
+of its integrity, enabling optimization operation 
+for enhanced performance and safety.
+Key features Subsea Variable-Speed Drive
+•Output voltage up  to 7.3 kVac
+•Output current up to 700 A
+•Output power up to 8.8 MVA
+•Modular and redundant design allows scaling 
+of voltage and power
+•Built-in isolati on transformer at th e input
+•Pressure-compensated design
+•Robust enclosure design with optimi zed 
+natural cooling properties
+•Biodegradable and environmentally fri endly 
+MIDEL 7131® fl uid filling
+•Advanced condition monitoring system
+•Qualified for 3,000 meters water depthsiemens-energy.com/subsea
+Subsea Variable-Speed 
+Drive
+Supporting the factory on the seabed:  
+Supplying power and protecting subsea 
+motors for compressors and pumps
+© 2021 Siemens Energy Page 1
+Figure  1 Subsea Variable-Speed Drive
+For more inform ation, please visit our websi te: siemens-energy.com/ subsea
+Subject to change s and errors. The information gi ven in this document   only contains general descriptions  and/or performance features which 
+may not always specifically reflect those described, or which may undergo modification in the course of further development of the produc ts. The 
+requested performance features are binding onl y when they are expressly agree d upon in the concluded contract.
+Siemens Energy  is a trademark licensed by Siemens AG.
+© 2021 Siemens Energy Page 2
+Published by
+Siemens Energy Global GmbH & Co. KG
+Trans formation o f Industry
+Siemenspromenade 9
+91058 Erlangen
+Germany
+For the US Published by
+Siemens Energy, Inc.
+Trans formation o f Industry
+4400 N Alafaya Trail
+Orlando, F L 32826
+USA

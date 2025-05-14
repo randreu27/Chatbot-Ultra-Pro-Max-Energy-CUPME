@@ -1,0 +1,123 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Restricted  Siemens Energy 202 4. All Rights Reserved  
+Siemens Energy is a trademark licenced by Siemens AG  
+ 
+ 
+ 
+Uncontrolled if outside of the Document Management System  
+Page  i of i  
+ 
+ 
+ 
+Document Name:  OPERATI NG GUIDELINES  FOR TC6A -658 AND TC6A -1387 
+ASSEMBLY FIXTURE S 
+Document Number:  E1A4242713  
+ 
+ 
+ 
+  
+ 
+Revision  Author  Checker  Approver  Issue Date  
+A D. MCDOUGLE  R. SZALMA  S. KELLY  28/11/2024  
+ INITIAL ISSUE  
+     
+  
+ 
+REVISION CONTROL: History of Revision Control is Managed by the Document Management System.   
+ 
+ 
+ 
+ 
+/g_73/g_68/g_58/g_32/g_73/g_68/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_78/g_97/g_109/g_101/g_32/g_82/g_101/g_118/g_58/g_32/g_82/g_101/g_118
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_67/g_78/g_32/g_67/g_68/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_82/g_78/g_32/g_82/g_68/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_65/g_78/g_32/g_65/g_68
+/g_73/g_68/g_58/g_32/g_69/g_49/g_65/g_52/g_50/g_52/g_50/g_55/g_49/g_51/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_83/g_117/g_98/g_115/g_101/g_97/g_32/g_82/g_101/g_118/g_58/g_32/g_65
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_122/g_48/g_48/g_52/g_109/g_98/g_99/g_102/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_49/g_49/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_98/g_109/g_115/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_97/g_115/g_110/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56
+ OPERATING GUIDELINES FOR TC6A -658 ASSEMBLY FIXTURE  Doc No:  E1A4242713  
+Rev:  A 
+Page:  1 of 2 
+ 
+Restricted  Siemens Energy 202 4. All Rights Reserved  
+Siemens Energy is a trademark by Siemens AG  
+1 PURPOSE  & SCOPE  
+The purpose of this procedure is to detail the process for the use of the Dry Mate Plug Connector Assembly 
+Fixture s, TC6A -658 and TC6A -1387 .  
+ 
+The TC6A -658 assembly fixture is used during the on -site installation of the Dry Mate Plug Connector DHCE -
+A70…  series of conne ctors. The TC6A -1387 is almost identical to the TC6A -658, however it has an insert for 
+testing the DHCE -A51…  series of conne ctors. The relevant assembl y fixture is fitted during oil testing of the Dry 
+Mate Plug if the mating Tubing Hanger Dry Mate Receptacle is not available during the testing.  
+ 
+The Maximum Allowable Working Pressure (MAWP) of the Assembly Fixture is 16,500 psi (1,137,6 bar) . THIS 
+MUST  NOT BE EXCEEDED.  
+ 
+ 
+The Test Adaptor is suitable for repeat testing. As long as the prerequisite checks shown in Section 5 are 
+satisfied.  
+2 ASSOCIATED DOCUMENTS  AND DRAWINGS  
+ Number  Name  Location  
+ 10204852  ElecTRON Installation, Operations and 
+Maintenance Manual  Siemens -energy.com/subsea  
+ SD00021196  TC6A -658 & TC6A -1387 PDS  Teamcenter  
+ T17087  DHCE -A51 Drawing and Associated BOM  Teamcenter  
+ T18358  DHCE -A70 Drawing and Associated BOM  Teamcenter  
+ T18391  TC6A -658 and TC6A -1387 Drawing and 
+Associated BOM  Teamcenter  
+ SD10032016  DHCE -A51 Product Data Sheet  Teamcenter  
+ SD00022433  DHCE -A70 Product Data Sheet  Teamcenter  
+3 EQUIPMENT  
+The following equipment will be required to complete this installation:  
+• 1/2” Drive  Torque Wrench rate d for 40 lbf∙ft (54 Nm) – e.g. NOR -13019.  
+• 15/16” A/F  Torque  Wren ch spanner fi tting – e.g. NOR -29712.  
+4 GENERAL SAFETY INFORMATION AND RISKS  
+• For full Safety and Hazard information, please consult the ElecTRON IOM or Safety Data Sheet for the 
+test media in use.  
+ Warning. Risk of minor personal injury to persons with sensitivities to mineral based oils.  
+Wear appropriate hand protection when handling products or mineral or synthetic based oils.  
+ Warning. Risk of minor personal injury and/or material or environmental damage during assembly.  
+Caution shall be exercised during assembly to ensure that fittings and hydraulic/pneumatic 
+equipment are correctly installed.  
+ Warning. Risk of bodily injury caused by pressure retaining parts becoming projectile due to user 
+over -pressurising the system . 
+ Warning. Hydraulic injection risk. Only to be used below  MAWP with oil and suitable pump in line 
+with Pressure Equipment (Safety ) Regulations (2016) or relevant local alternative whe n used 
+abroad.  
+ 
+  
+/g_73/g_68/g_58/g_32/g_73/g_68/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_78/g_97/g_109/g_101/g_32/g_82/g_101/g_118/g_58/g_32/g_82/g_101/g_118
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_67/g_78/g_32/g_67/g_68/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_82/g_78/g_32/g_82/g_68/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_65/g_78/g_32/g_65/g_68
+/g_73/g_68/g_58/g_32/g_69/g_49/g_65/g_52/g_50/g_52/g_50/g_55/g_49/g_51/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_83/g_117/g_98/g_115/g_101/g_97/g_32/g_82/g_101/g_118/g_58/g_32/g_65
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_122/g_48/g_48/g_52/g_109/g_98/g_99/g_102/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_49/g_49/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_98/g_109/g_115/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_97/g_115/g_110/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56
+ OPERATING GUIDELINES FOR TC6A -658 ASSEMBLY FIXTURE  Doc No:  E1A4242713  
+Rev:  A 
+Page:  2 of 2 
+ 
+Restricted  Siemens Energy 202 4. All Rights Reserved  
+Siemens Energy is a trademark by Siemens AG  
+5 PREPARATION  
+• Visually inspect the assembly, ensure there is no damage to the sealing cone,  elastomeric seal,  threads, 
+or body of the Assembly Fixture. If there is any doubt over the integrity of the Assembly Fixture  or any 
+of its components , stop work immediately , quarantine the equipment  and contact the Siemens Energy 
+Technical Department . 
+• Clean Assembly Fixture with isopropyl alcohol impregnated wipes, paying particular attention to the 
+sealing cone face.   
+6 PROCESS  
+1. Clamp the extended flats of Assembly Fixture in a vice with soft jaw grips.  
+2. Fit Dry Mate Plug body into Assembly Fixture and tighten connector Clamp Ring (Item 20 on 
+Connector Drawings ). 
+3. Torque clamp ring to 40 lbf∙ft  (54 Nm).  
+4. Carry out required Pressure Testing as stipulated in relevant Installation Procedure  and Pressure 
+Fitting Operating Instructions. These are referenced in the applicable connector Product Data Sheets.  
+5. On completion of testing,  reduce pressure to ambient,  remove Assembly Fixture .  
+6. Repeat visual inspection  of Assembly Fixture sealing surface and O -Seal. 
+7. Clean up any residual oil on connector and Assembly Fixture.  
+ 
+END OF PROCEDURE  
+/g_73/g_68/g_58/g_32/g_73/g_68/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_78/g_97/g_109/g_101/g_32/g_82/g_101/g_118/g_58/g_32/g_82/g_101/g_118
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_67/g_78/g_32/g_67/g_68/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_82/g_78/g_32/g_82/g_68/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_65/g_78/g_32/g_65/g_68
+/g_73/g_68/g_58/g_32/g_69/g_49/g_65/g_52/g_50/g_52/g_50/g_55/g_49/g_51/g_32/g_78/g_97/g_109/g_101/g_58/g_32/g_83/g_117/g_98/g_115/g_101/g_97/g_32/g_82/g_101/g_118/g_58/g_32/g_65
+/g_65/g_117/g_116/g_104/g_111/g_114/g_58/g_32/g_122/g_48/g_48/g_52/g_109/g_98/g_99/g_102/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_49/g_49/g_32/g_82/g_101/g_118/g_105/g_101/g_119/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_98/g_109/g_115/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56/g_32/g_65/g_112/g_112/g_114/g_111/g_118/g_101/g_114/g_58/g_32/g_122/g_48/g_48/g_51/g_52/g_97/g_115/g_110/g_32/g_50/g_48/g_50/g_52/g_45/g_49/g_49/g_45/g_50/g_56

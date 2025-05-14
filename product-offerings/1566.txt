@@ -1,0 +1,508 @@
+1 SUMMARY OF THE PROSPECTUS
+1.1 Introduction and warnings
+This prospectus (the “ Prospectus ”) relates to the admission to the regulated market of the Frankfurt Stock
+Exchange ( Frankfurter Wertpapierbörse ,“FSE”) with simultaneous admission to the sub-segment of the
+regulated market with additional post-admission obligations (Prime Standard) of the FSE (the “ Listing ”) of
+326,990,337 existing (the “ Existing Shares ”) and 399,654,856 newly issued (the “ New Shares ”) ordinary
+registered shares with no par value ( Stückaktien ) (the Existing Shares and the New Shares, the “ Shares ”) in
+Siemens Energy AG, Munich, Germany (the “ Company ”). Each Share has a notional par value of €1 in the
+share capital and full dividend rights from October 1, 2019. Following the issuance of the New Shares, theShares represent the entire share capital of the Company. The New Shares are issued in connection with aspin-off for absorption ( Abspaltung zur Aufnahme ) under the German Transformation Act
+(Umwandlungsgesetz ) (the “ Spin-Off ”). In the Spin-Off, Siemens Aktiengesellschaft, Berlin and Munich,
+Germany (“ Siemens AG ”, together with its consolidated subsidiaries, “ Siemens ”o r“ Siemens Group ”), as
+transferor will transfer shareholdings in entities directly and indirectly carrying out Siemens’ Gas and Powerbusiness and its indirect shareholding of approximately 67% in Siemens Gamesa Renewable Energy, S.A.,Zamudio, Spain (“ SGRE S.A. ”, together with its consolidated subsidiaries, “ SGRE ”), to the Company as
+transferee. As consideration for the transfer of the spin-off assets, the shareholders of Siemens AG willreceive the New Shares according to their proportional shareholding in Siemens AG.
+In this Prospectus, references to the “ Siemens Energy Group ”, the “ Group ”, “Siemens Energy ”, “we”, “us”
+or “our” are references to the combined group of entities and business activities comprising the Siemens
+Energy business, with the Company acting as the ultimate holding company as from the completion of theSpin-Off (“ Spin-Off Completion ”).
+The International Securities Identification Number (ISIN) of the Shares is DE000ENER6Y0. The Company can
+be contacted at its business address: Otto-Hahn-Ring 6, 81739 Munich, Germany, by telephone: +49 89 636-00, or via its website: www.siemens-energy.com. The Company’s Legal Entity Identifier (LEI) is5299005CHJZ14D4FDJ62.
+The Company and Deutsche Bank Aktiengesellschaft, a stock corporation with its registered seat in
+Frankfurt am Main, Germany, and its business address in Taunusanlage 12, 60325 Frankfurt am Main,Germany (telephone: +49 69 910-00; website: www.db.com; LEI: 7LTWFZYICNSX8D621K86) will ask foradmission of the Shares to trading on the regulated market of the FSE with simultaneous admission to thesub-segment of the regulated market with additional post-admission obligations (Prime Standard).
+This Prospectus is dated September 7, 2020 and has been approved by the German Federal Financial
+Supervisory Authority ( Bundesanstalt für Finanzdienstleistungsaufsicht –“BaFin ”) on September 7, 2020.
+BaFin can be contacted at Marie-Curie-Str. 24-28, 60439 Frankfurt am Main, Germany, by telephone+49 228 4108-0, or via its website: www.bafin.de.
+This summary should be read as an introduction to the Prospectus. Any decision to invest in the Shares
+should be based on consideration of the Prospectus as a whole by the investor. Investors could lose all orpart of their invested capital.
+Where a claim relating to the information contained in a prospectus is brought before a court, the plaintiff
+investor might, under national law, have to bear the costs of translating the prospectus before the legalproceedings are initiated. Civil liability attaches only to those persons who have tabled the summaryincluding any translation thereof, but only where the summary is misleading, inaccurate or inconsistent,when read together with the other parts of the prospectus, or where it does not provide, when readtogether with the other parts of the prospectus, key information in order to aid investors when consideringwhether to invest in such securities.
+1.2 Key information on the issuer
+1.2.1 Who is the issuer of the securities?
+The Company is incorporated as a stock corporation ( Aktiengesellschaft ) under the laws of Germany. The
+Company’s registered office is Munich, Germany. The Company is registered with the commercial register ofthe local court ( Amtsgericht ) of Munich under HRB 252581. The Company’s Legal Entity Identifier (LEI) is
+5299005CHJZ14D4FDJ62.
+1.2.1.1 Principal activities
+We are a pure play company active along the entire energy technology and service value chain with a
+comprehensive and differentiated products, solutions and services offering. Our broad technology base,comprising both fuel-efficient conventional as well as renewable energies, enables us to meet the increasingenergy demand while at the same time supporting efforts to reduce greenhouse gases. We also offer digitalbusiness and intelligent service models to our customers. We consider ourselves well-positioned to shape theenergy transition towards decarbonized energy technologies and to promptly react to customer needsworldwide through our global footprint.
+1
+The Company is the holding company of the Siemens Energy Group and performs overarching tasks and
+corporate functions for the Group. We generated revenue of €28,797 million in the fiscal year ended
+September 30, 2019 and €19,828 million in the nine-month period ended June 30, 2020, as well as Adjusted
+EBITA of €1,064 million in the fiscal year ended September 30, 2019 and €(1,211) million in the nine-
+month period ended June 30, 2020.
+Our business operations are organized in two reportable segments, Gas and Power and Siemens Gamesa
+Renewable Energy:
+Gas and Power segment – Our Gas and Power segment offers a wide range of products, solutions and
+services in the fields of power transmission and conventional central and distributed power generationalongside industrial applications for the oil and gas industry and for industrial process applications. TheGas and Power segment further develops and markets new technologies in the field of decarbonization.The Gas and Power segment generated total revenue of €18,709 million in the fiscal year ended
+September 30, 2019 and €13,326 million in the nine-month period ended June 30, 2020, as well as
+Adjusted EBITA of €589 million in the fiscal year ended September 30, 2019 and €(539) million in the
+nine-month period ended June 30, 2020. Its operations are split into three divisions: Transmission,Generation and Industrial Applications and are complemented by its Other Operations:
+-Transmission – Our Transmission division offers a broad portfolio of products, systems, solutions and
+services geared around the key market trends of digitalization, decarbonization, grid stability andelectrification. The product portfolio comprises air- and gas-insulated switchgear, transformers,digitalized products and other products such as bushings ( i.e., electrical components insulating high-
+voltage conductors carrying current passing through a metal enclosure or a building). The Transmissiondivision offers its products individually or as part of tailor-made systems and solutions as well as servicesrelating to power transmission of high (which includes ultra-, extra- and high-voltage layers) and, to alesser extent, medium and low voltage levels as part of product bundles or solutions.
+-Generation – Our Generation division offers a broad portfolio of products, solutions and services for
+central and distributed power generation. The product portfolio comprises gas and steam turbines,generators and gas engines as well as instrumentation & controls and electrical systems. Products aresold individually or as part of solutions. A comprehensive set of services covering performanceenhancements, maintenance services, customer training and professional consulting complement itsproducts and solutions businesses.
+-Industrial Applications – Our Industrial Applications division offers a broad portfolio of products,
+integrated systems and solutions, comprising rotating equipment, integrated drive-train systems,electrification, automation and digital solutions for the on- and offshore industry, marine industry andthe fiber industry, and water treatment solutions. Our Industrial Applications division also providesservices for oil & gas and distributed generation customers, including other industries such as food andbeverages, minerals and metals, industrial parks and municipalities.
+-Other Operations – Our Other Operations include our New Energy Business and certain at-equity
+investments. Our New Energy Business complements the portfolio of our Gas and Power segment bydeveloping new technologies in the field of decarbonized energy systems. The current focus of the NewEnergy Business is to enable the green hydrogen economy and to promote decarbonization, forinstance by developing “power-to-x” technologies which use electricity from renewable energy sourcesfor the production of low-CO
+2synthetic energy sources (power fuels).
+Siemens Gamesa Renewable Energy – Our SGRE segment focuses on the promotion, design, development,
+manufacture and supply of products, installation and technologically advanced services in the renewableenergy sector with a focus on wind power plants; it also provides services including management,operation and maintenance. SGRE also explores opportunities in adjacent renewable business fieldswhich, in many cases, are also related to the wind turbine business. However, these activities representonly a small fraction of SGRE’s current business. The SGRE segment generated total revenue of€10,227 million in the fiscal year ended September 30, 2019 and €6,615 million in the nine-month
+period ended June 30, 2020, as well as Adjusted EBITA of €481 million in the fiscal year ended
+September 30, 2019 and €(631) million in the nine-month period ended June 30, 2020. SGRE S.A.’s shares
+are listed on the Spanish stock exchanges of Madrid, Barcelona, Valencia, and Bilbao and included in theSpanish IBEX 35 index. Siemens Energy holds approximately 67% of the shares in SGRE S.A. The SGREsegment comprises the business units Onshore Wind Power, Offshore Wind Power and Service:
+-Onshore Wind Power – With almost 40 years of experience, our business unit Onshore Wind Power
+provides wind turbine design, manufacturing and installation solutions for global onshore marketsmainly focused on geared technology including platforms, which can be adapted to regional and localneeds.
+-Offshore Wind Power – Our business unit Offshore Wind Power provides its customers with nearly three
+decades of offshore wind turbine equipment design, manufacturing and installation experiencefocused on direct drive technology.
+-Service – Our business unit Service offers a comprehensive and flexible portfolio for the maintenance
+and optimization of wind turbines, providing a holistic, lifetime-care service. Complete assetmanagement as well as technical assistance is provided for the SGRE segment’s wind turbines and isalso being expanded for third party assets.
+2
+1.2.1.2 Major shareholders
+As of the date of the Prospectus, all of the Existing Shares, currently representing all of the shares in the
+Company, are held directly or indirectly by Siemens AG, so that the Company is controlled by Siemens AG.
+Following Spin-Off Completion, Siemens AG and Siemens Pension-Trust e.V. will initially hold 35.1% and
+9.9%, respectively, of the Shares, representing the Existing Shares. The New Shares, which will thenrepresent 55% of the Shares, will be transferred to the shareholders of Siemens AG. The number of NewShares attributable to each shareholder of Siemens AG depends on the percentage of shares in Siemens AGheld by such shareholder immediately prior to Spin-Off Completion.
+In order to prevent Siemens AG from controlling the Company after Spin-Off Completion, the Company and
+Siemens AG entered into a deconsolidation agreement ( Entherrschungsvertrag ) which, inter alia , restricts
+the exercise of the voting rights attached to the Existing Shares. Under the deconsolidation agreement,Siemens undertakes vis-à-vis the Company that, among other things, there will be a maximum of threeshareholders’ representatives in the Company’s supervisory board who are dependent on Siemens, e.g.,
+members of the executive board ( Vorstand ) of Siemens AG. For purposes of the deconsolidation agreement,
+membership in the supervisory board of Siemens AG alone does not result in that person being dependenton Siemens. Accordingly, union representatives who are members of both the supervisory board of SiemensAG and the supervisory board of the Company are deemed to be independent of Siemens under thedeconsolidation agreement, although their dual mandates may result in conflicts of interest (see“1.4.3.3 Material conflicts of interest pertaining to the Listing ”).
+1.2.1.3 Executive board
+The Company’s executive board ( Vorstand ) has four members. Dr.-Ing. Christian Bruch acts as the chief
+executive officer (CEO, Vorstandsvorsitzender ) of the Company. Ms. Maria Ferraro acts as chief financial
+officer (CFO) of the Company. Mr. Tim Oliver Holt acts as Segment Manager for the Gas and Power segment(Transmission) and the SGRE segment and as future Labor Director ( Arbeitsdirektor ). Dr.-Ing. Jochen Eickholt
+acts as Segment Manager for the Gas and Power segment (Generation and Industrial Applications).
+1.2.1.4 Statutory auditors
+Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft, Stuttgart, Germany with a business address at
+Arnulfstraße 59, 80636 Munich, Germany (“ EY”) are the independent auditors of the Company.
+1.2.2 What is the key financial information regarding the issuer?
+The audited combined financial statements of Siemens Energy as of and for the fiscal years ended
+September 30, 2019, 2018 and 2017 (the “ Audited Combined Financial Statements ”) were prepared in
+accordance with International Financial Reporting Standards as adopted by the European Union (“ IFRS”)
+and have been audited in accordance with Section 317 of the German Commercial Code(Handelsgesetzbuch ) and in compliance with German Generally Accepted Standards for Financial Statement
+Audits promulgated by the Institut der Wirtschaftsprüfer (Institute of Public Auditors in Germany ( IDW)) by
+EY, who issued an unqualified independent auditor’s report thereon. The unaudited condensed combinedinterim financial statements of Siemens Energy as of and for the nine-month period ended June 30, 2020were prepared in accordance with IFRS on interim financial reporting (IAS 34) (the “ Unaudited Condensed
+Combined Interim Financial Statements ”). The Audited Combined Financial Statements and the Unaudited
+Condensed Combined Interim Financial Statements (together, the “ Combined Financial Statements ”)
+present the combined group of entities and business activities comprising the Siemens Energy business inthe fiscal years ended September 30, 2019, 2018 and 2017 and in the nine-month period ended June 30,2020. During these periods, Siemens Energy did not conduct business operations as an independent group.Furthermore, investors should note that financial information regarding our SGRE segment has beenexclusively taken or derived from the Combined Financial Statements or from our accounting records orinternal management reporting systems and does not necessarily correspond to financial informationpublicly reported by SGRE S.A.
+In the summary of the Prospectus, where financial information is labeled “audited” in tables, this
+information was taken from the Audited Combined Financial Statements. The label “unaudited” is used intables in the summary of the Prospectus to indicate financial information that was taken from theUnaudited Condensed Combined Interim Financial Statements, or from our accounting records or internalmanagement reporting systems or has been calculated based on figures from the above-mentioned sources.Figures have been commercially rounded to whole numbers. Because of rounding, figures shown in thetables below do not necessarily add up exactly to the respective totals or subtotals presented andaggregated percentages may not exactly equal 100%. Financial information presented in parenthesesdenotes the negative of such number presented. In respect of financial information set out below, a dash(“—”) signifies that the relevant figure is not available or equals zero, while a zero (“0”) or nil signifies thatthe relevant figure is available but has been rounded to zero.
+3
+1.2.2.1 Key financial information from the Combined Statements of Income
+For the Fiscal Year
+ended September 30,For the
+Nine-Month Period
+ended June 30,
+2019 2018 2017 2020 2019
+(in€million)(audited, unless
+otherwise indicated) (unaudited)
+Revenue .................................... 28,797 28,023 30,086 19,828 20,503
+Nominal revenue growth (unaudited) .......... 2.8% (6.9)% —1) (3.3)% —1)
+Income (loss) before income taxes ............. 3 1 7 1 5 1 1,309 (1,672) 270
+Net income (loss) ............................ 2 8 2 6 4 5 9 6 0 (1,469) 202
+1) Not available. The Audited Combined Financial Statements do not contain comparable figures for the fiscal year ended September 30,
+2016, and the Unaudited Condensed Combined Interim Financial Statements do not contain comparable figures for the nine-monthperiod ended June 30, 2019.
+1.2.2.2 Key financial information from the Combined Statements of Financial Position
+As of
+September 30,As of
+June 30,
+2019 2018 2017 2020
+(in€million)(audited, unless
+otherwise indicated) (unaudited)
+Total assets ................................. 45,041 45,763 47,290 45,424
+Total equity1)............................... 13,089 10,701 11,318 16,250
+Adjusted (Net Cash) / Net Debt (unaudited)2).... 2,169 4,342 3,388 (803)
+1) Includes non-controlling interest.
+2) Adjusted (Net Cash) / Net Debt is defined as total debt less total liquidity plus provisions for pensions and similar obligations. Total debt
+is defined as short-term debt and current maturities of long-term debt plus long-term debt plus payables to Siemens Group fromfinancing activities. Total liquidity is defined as cash and cash equivalents plus receivables from Siemens Group from financingactivities.
+1.2.2.3 Key financial information from the Combined Statements of Cash Flows
+For the Fiscal Year
+ended September 30,For the
+Nine-Month Period
+ended June 30,
+2019 2018 2017 2020 2019
+(in€million) (audited) (unaudited)
+Cash flows from operating activities ........... 1,694 844 686 561 (585)
+Cash flows from investing activities ............ (797) (429) (835) (653) (503)
+Cash flows from financing activities ............ (1,597) 330 1,890 674 (395)
+1.2.2.4 Key Performance Indicators and Alternative Performance Measures
+For the Fiscal Year
+ended September 30,For the
+Nine-Month Period
+ended June 30,
+2019 2018 2017 2020 2019
+(in€million, other than percentages and ratios)(unaudited, unless
+otherwise indicated) (unaudited)
+Adjusted EBITA1)............................ 1,064 905 2,028 (1,211) 857
+Adjusted EBITA Margin2)..................... 3.7% 3.2% 6.7% (6.1)% 4.2%
+Adjusted EBITA before Special Items3).......... 1,517 1,456 2,174 (87) 994
+Adjusted EBITA Margin before Special Items2). . . 5.3% 5.2% 7.2% (0.4)% 4.8%
+Free Cash Flow4)............................. 8 7 6* 80* (121)* 18 (1,099)
+Cash Conversion Rate5)....................... 0 . 8 0 . 1 (0.1) (0.0) (1.3)
+* Audited.
+1) Adjusted EBITA of Siemens Energy Group is calculated as earnings before financing interest, income taxes, amortization expenses
+related to intangible assets acquired in business combinations and goodwill impairments. Financing interest excluded from AdjustedEBITA is any interest income or expense other than financial result from operations ( i.e., interest income related to receivables from
+customers, from cash allocated to the segments and interest expenses on payables to suppliers).
+4
+2) Adjusted EBITA Margin is calculated by dividing Adjusted EBITA by total revenue. Adjusted EBITA Margin before Special Items is
+calculated by dividing Adjusted EBITA before Special Items by total revenue.
+3) Calculated as Adjusted EBITA before Special Items. Special Items are defined as (i) restructuring costs that refer to personnel measures
+leading to severance charges, mainly related to the Gas and Power segment, as well as integration costs that refer to the SGRE segmentonly and are related mainly to the merger of Gamesa and Siemens Wind Power into SGRE S.A. and, to a lesser extent, to the acquisitionof assets from Senvion; (ii) stand-alone costs that relate to the preparation of our separation from Siemens Group and the formation ofSiemens Energy as an independent enterprise. Stand-alone costs relate to the carve-out and Spin-Off of Siemens Energy and include,amongst others, costs for IT applications, external service providers, costs related to the listing, and personnel related costs and(iii) major asset impairments and write-downs related to Siemens Energy Group strategic portfolio decisions.
+4) Free Cash Flow is calculated as the difference of the line items cash flows from operating activities and additions to intangible assets
+and property, plant and equipment in our Combined Statements of Cash Flows.
+5) Cash Conversion Rate is defined as Free Cash Flow divided by Adjusted EBITA on Siemens Energy Group level.
+1.2.3 What are the key risks that are specific to the issuer?
+An investment in the Company’s shares is subject to a number of risks, some of which are presented in this
+section and under section “ 1.3.3 What are the key risks that are specific to the securities? ” of this summary.
+The occurrence of any of the following, individually or together, could materially adversely affect theSiemens Energy Group’s business, financial position, results of operations, reputation and prospects. If anyof these risks were to materialize, investors could lose all or part of their investments.
+The following risks are key risks specific to the Company: The energy market is subject to disruptive developments, such as the trend towards decarbonization, and
+we may be too slow or even fail in adapting our business model and product portfolio.
+ We may fail to comply with environmental, social and governance (ESG) standards and expectations
+which could adversely impact our business and reputation. At the same time, compliance with certain ESGstandards may pose additional challenges to our business.
+ Our industries and business operations are subject to various risks relating to global or local outbreaks of
+infectious diseases and other public health crises. In particular, we are affected from the fallout of theoutbreak of the recent Coronavirus pandemic.
+ Competition and lower market prices could negatively affect our business, financial position and results of
+operations.
+ We may not be able to successfully implement our strategies; in particular we may fail to successfully
+complete cost savings and other reorganization programs, benefit from the disruptive trends in globalenergy markets and increase the share of our service business.
+ We may be unable to successfully develop and launch a portfolio of competitive and technologically-
+advanced products, services and solutions, and our research and development efforts may be unsuccessful.Furthermore, the pace of technological change may result in the economic life cycle of certain of ourproducts being shorter than anticipated.
+ Operational failures in our value chain processes and quality issues could negatively affect our business
+and reputation, and result in claims, penalties and additional costs.
+ We are dependent on the availability of certain materials, parts and components, and any disruptions in
+the supply chain may result in additional costs or loss of revenues.
+ Our project business is subject to several risks, including execution risks, cost overruns, quality and political
+risks.
+ In connection with existing and potential future reorganization and cost savings measures, we may incur
+substantial restructuring expenses and cash outflows. We may not be able to realize expected cost savingsor we may fail to adjust our organizational and manufacturing footprint in a timely manner or at all, andsuch reorganizations may not yield the targeted benefits or may damage our reputation.
+ We may have to write down inventories or other assets, which could adversely affect our financial
+position and result in loss of profitability.
+ Goodwill and other intangible assets represent a significant portion of our total assets, which could be
+significantly reduced if we had to recognize impairments.
+ Our business and the businesses of our customers and suppliers require access to significant credit and
+guarantee lines and other financing instruments. Our business activities could be negatively affected if weare unable to meet our capital requirements in the future, for example in weak financial marketenvironments, as a result of a significant deterioration of our credit standing or of a breach of a creditfacility agreement, or if access to capital becomes more expensive. Our business activities could besimilarly negatively affected if our customers or suppliers do not have access to financing on economicallyviable terms.
+ Our Gas and Power segment and, to a lesser extent, our SGRE segment may lose business opportunities
+and face a negative perception of our stand-alone position following our separation from the SiemensGroup. Further, as a stand-alone group, we may not be able to satisfy financial or technical requirementsunder public procurement laws.
+5
+1.3 Key information on the securities
+1.3.1 What are the main features of the securities?
+The Shares are ordinary registered shares with no par value ( Stückaktien ), each such share with a notional
+par value of €1 in the share capital and with full dividend rights as from October 1, 2019, with the ISIN
+DE000ENER6Y0. All shares of the Company are shares of the same class. Each of the shares of the Companyentitles the shareholder to one vote at the general shareholders’ meeting of the Company. There are norestrictions on voting rights. Voting rights are the same for all of the Company’s shares. The Company’sshares are freely transferable in accordance with the legal requirements for registered shares and noconsent obligation applies in case of their transfer. The Shares will be entitled to a share of any liquidationproceeds or insolvency surpluses at the ratio of their notional share in the share capital. The Company’sability and intention to pay dividends in the future will depend on its financial position, results ofoperations, capital requirements, investment alternatives and other factors. The Company can provide noassurance that it will pay dividends in future years.
+The Company did not pay any dividends in the past. Subject to a statutory minimum dividend of up to
+approximately €29 million in case sufficient distributable profit is reported in the Company’s audited
+unconsolidated financial statements for the fiscal year 2020 prepared in accordance with the requirementsof German commercial law applicable to corporations, the Company will not make a dividend payment forthe fiscal year 2020. With respect to the following fiscal years, the Company intends to propose a dividendwhose distribution volume is 40% to 60% of the Group’s net income attributable to shareholders of SiemensEnergy AG as shown in the consolidated financial statements of the Company prepared in accordance withIFRS of the respective prior fiscal year. For this purpose, the Group’s net income may be adjusted forextraordinary non-cash effects. Generally, it is intended to fund the dividend payout out of the availableFree Cash Flow taking into account dividend payments received from SGRE S.A.
+1.3.2 Where will the securities be traded?
+The Company will apply for admission of the Shares to trading on the regulated market of the FSE with
+simultaneous admission to the sub-segment of the regulated market with additional post-admissionobligations (Prime Standard). The Shares are expected to be admitted to trading on the FSE onSeptember 25, 2020. Public trading in the Shares is expected to commence on September 28, 2020.
+1.3.3 What are the key risks that are specific to the securities?
+The following risk is a key risk specific to the Shares: Substantial sales of the Company’s Shares may occur in connection with the Spin-Off, which could cause
+the price of the Shares to decline; such sales may also occur at a later stage. Furthermore, Siemens intendsto significantly reduce its shareholding in the Company within twelve to 18 months after the Spin-Off.
+1.4 Key information on the admission to trading on a regulated market
+1.4.1 Under which conditions and timetable can I invest in this security?
+Immediately following Spin-Off Completion, the New Shares will be transferred to the shareholders of
+Siemens AG. On September 28, 2020, each shareholder of Siemens AG shall receive:
+ for every two (2) no-par value registered shares of Siemens AG (ISIN DE0007236101 / German Securities
+Identification Number (WKN) 723 610) that it holds on the evening of September 25, 2020, taking intoaccount any stock exchange transactions still outstanding
+ one (1) no-par value registered Share of the Company (ISIN DE000ENER6Y0 / WKN ENER6Y).The shares can be bought and sold on the FSE following their admission to trading on the FSE expected to
+occur on September 28, 2020.
+1.4.2 Who is the person asking for admission to trading?
+The Company will apply for the admission to trading. Application will be made together with Deutsche
+Bank Aktiengesellschaft, a stock corporation with its registered seat in Frankfurt am Main, Germany,incorporated in and operating under the laws of Germany, acting on behalf of the Listing Agents (asdefined under “ 1.4.3.2 Listing agreement ” below), for the purpose of the admission to trading.
+1.4.3 Why is this prospectus being produced?
+The purpose of the Prospectus is to admit the Shares to trading on the FSE.
+1.4.3.1 No proceeds; costs borne by Siemens AG
+Neither the Company nor Siemens AG will receive proceeds in connection with the Spin-Off.
+6
+In connection with the Listing, Siemens Energy will bear costs of approximately €2.0 million; the remaining
+costs associated with the Spin-Off and Listing are assumed by Siemens.
+1.4.3.2 Listing agreement
+The Company, Siemens AG as well as BNP PARIBAS, Merrill Lynch International (BofA Securities),
+COMMERZBANK Aktiengesellschaft, Credit Suisse Securities (Europe) Limited, Deutsche BankAktiengesellschaft, Goldman Sachs Bank Europe SE and J.P. Morgan Securities plc, acting as lead financialadvisors and listing agents (the “ Listing Agents ”) and Joh. Berenberg, Gossler & Co. KG, HSBC Trinkaus &
+Burkhardt AG and Jefferies International Limited (the “ Co-Advisors ” together with the Listing Agents, the
+“Banks ”) entered into a listing agreement dated September 6, 2020 (the “ Listing Agreement ”) in
+connection with the Spin-Off and the Listing. In the Listing Agreement, the Company and Siemens AGagreed to indemnify the Banks against certain liability obligations that may arise in connection with theSpin-Off and the Listing. Moreover, the Company agreed to refrain from issuing new shares or taking similaractions during the period commencing on the date of the Listing Agreement and ending 180 days after thefirst day of trading of the Company’s Shares on the FSE. The Listing Agreement also provides that theobligations of the Banks to facilitate the Listing are subject to the satisfaction of certain conditions,including, for example, the receipt of customary confirmations and legal opinions satisfactory to therequirements of the Banks.
+In addition, Siemens AG and the Company have entered into a settlement agreement with Deutsche Bank
+Aktiengesellschaft pursuant to which Deutsche Bank Aktiengesellschaft will act as trustee within themeaning of Sections 125 sentence 1 and 71 para. 1 sentence 1 of the German Transformation Act(Umwandlungsgesetz ).
+1.4.3.3 Material conflicts of interest pertaining to the Listing
+Pursuant to the Listing Agreement, the Banks will receive a commission following Spin-Off Completion. In
+addition, COMMERZBANK Aktiengesellschaft and J.P. Morgan Securities plc have been appointed to act asdesignated sponsor for the Shares. The Company therefore assumes that the Banks have an interest in thesuccessful completion of the transaction.
+The current members of the executive board of the Company (as well as other executives of Siemens Energy)
+have been granted a Spin-Off incentive, i.e., a transaction bonus if certain target values for the effects of
+the Spin-Off or the market value are achieved upon Spin-Off Completion and within the first 120 days afterSpin-Off Completion, based on the average volume-weighted price of the Shares of the Company.
+After Spin-Off Completion, six members (including three union representatives) of the Company’s
+supervisory board are expected to remain executive board members or supervisory board members oremployees of Siemens AG.
+Siemens AG has an interest in the Spin-Off as it serves the purpose of disposing of a majority shareholding in
+and deconsolidating Siemens Energy.
+The Listing Agents or their affiliates act as lenders to the Company, primarily under a facility agreement.
+Furthermore, the Banks or certain of their respective affiliates have performed, and are likely to perform inthe future, certain advisory or other services for Siemens Energy or for Siemens AG or certain of theirsubsidiaries in their capacity as financial institutions, in particular advisory services in connection withfinancing transactions, for which they have received, and are likely to receive in the future, customary feesand expenses.
+***
+7
+2 ZUSAMMENFASSUNG DES PROSPEKTS
+(GERMAN TRANSLATION OF THE SUMMARY OF THE PROSPECTUS)
+2.1 Einleitung mit Warnhinweisen
+Dieser Prospekt (der “ Prospekt ”) bezieht sich auf die Zulassung zum regulierten Markt an der Frankfurter
+Wertpapierbörse (die “ FWB ”) mit gleichzeitiger Zulassung zum Teilbereich des regulierten Marktes mit
+weiteren Zulassungsfolgepflichten (Prime Standard) an der FWB (die “ Börsenzulassung ”) von 326.990.337
+existierenden (die “ Existierenden Aktien ”) und 399.654.856 neuen (die “ Neuen Aktien ”) auf den Namen
+lautenden Stückaktien ohne Nennbetrag (die Existierenden Aktien und die Neuen Aktien, die “ Aktien ”) der
+Siemens Energy AG, München, Deutschland (die “ Gesellschaft ”). Jede Aktie hat einen rechnerischen Anteil
+am Grundkapital von €1 und ist ab dem 1. Oktober 2019 voll dividendenberechtigt. Nach der Ausgabe der
+Neuen Aktien, entsprechen die Aktien dem gesamten Grundkapital der Gesellschaft. Die Neuen Aktienwerden im Zusammenhang mit einer Abspaltung zur Aufnahme nach dem Umwandlungsgesetz ausgegeben(die “ Abspaltung ”). Im Rahmen der Abspaltung überträgt die Siemens Aktiengesellschaft, Berlin und
+München, Deutschland (“ Siemens AG ” zusammen mit ihren konsolidierten Tochtergesellschaften,
+“Siemens ” oder der “ Siemens-Konzern ”), als übertragender Rechtsträger Anteile an Gesellschaften, die
+direkt und indirekt das Gas und Power-Geschäft von Siemens betreiben, sowie ihre mittelbare Beteiligungvon ca. 67% an der Siemens Gamesa Renewable Energy, S.A., Zamudio, Spanien (“ SGRE S.A. ”, zusammen
+mit ihren konsolidierten Tochterunternehmen, “ SGRE ”) an die Gesellschaft als übernehmenden
+Rechtsträger. Als Gegenleistung für die abgespaltenen Anteile erhalten die Aktionäre der Siemens AG dieNeuen Aktien entsprechend ihrer Beteiligung an der Siemens AG.
+In diesem Prospekt beziehen sich die Begriffe “ Siemens Energy-Gruppe ”, die “ Gruppe ”, “Siemens Energy ”,
+“wir”, “uns” oder “ unsere ” auf die kombinierte Gruppe von Gesellschaften und Geschäftsaktivitäten, die
+das Siemens-Energy-Geschäft umfasst, wobei die Gesellschaft ab dem Vollzug der Abspaltung(“Abspaltungsvollzug ”) als oberste Holdinggesellschaft fungiert.
+Die Internationale Wertpapierkennnummer ( International Securities Identification Number ,ISIN) der Aktien
+ist DE000ENER6Y0. Die Gesellschaft ist unter ihrer Geschäftsadresse Otto-Hahn-Ring 6, 81739 München,Deutschland, telefonisch unter +49 89 636-00 oder über ihre Webseite www.siemens-energy.com erreichbar.Die Rechtsträgerkennung ( Legal Entity Identifier , LEI) der Gesellschaft ist 5299005CHJZ14D4FDJ62.
+Die Gesellschaft und die Deutsche Bank Aktiengesellschaft, eine Aktiengesellschaft mit Sitz in Frankfurt am
+Main, Deutschland, und der Geschäftsanschrift Taunusanlage 12, 60325 Frankfurt am Main, Deutschland(Telefon: +49 69 910-00; Webseite: www.db.com; LEI: 7LTWFZYICNSX8D621K86) werden die Zulassung derAktien zum Handel am regulierten Markt an der FWB mit gleichzeitiger Zulassung zum Börsenhandel zumTeilbereich des regulierten Marktes mit weiteren Zulassungsfolgepflichten ( Prime Standard ) an der FWB
+beantragen.
+Dieser Prospekt vom 7. September 2020 wurde von der Bundesanstalt für Finanzdienstleistungsaufsicht (die
+“BaFin ”) am 7. September 2020 gebilligt. Die BaFin ist erreichbar unter Marie-Curie-Str. 24-28, 60439
+Frankfurt am Main, Deutschland, telefonisch unter +49 228 4108-0 oder über ihre Webseite www.bafin.de.
+Diese Zusammenfassung sollte als Einleitung zu diesem Prospekt verstanden werden. Bei jeder
+Entscheidung, in die Aktien der Gesellschaft zu investieren, sollte sich der Anleger auf den Prospekt alsGanzes stützen. Die Anleger können ihr investiertes Kapital ganz oder teilweise verlieren.
+Für den Fall, dass vor einem Gericht Ansprüche aufgrund der in einem Prospekt enthaltenen Informationen
+geltend gemacht werden, könnte der als Kläger auftretende Anleger nach nationalem Recht die Kosten fürdie Übersetzung des Prospekts vor Prozessbeginn zu tragen haben. Zivilrechtlich haften nur diejenigenPersonen, die die Zusammenfassung samt etwaiger Übersetzungen vorgelegt und übermittelt haben, unddies auch nur für den Fall, dass die Zusammenfassung, wenn sie zusammen mit den anderen Teilen desProspekts gelesen wird, irreführend, unrichtig oder widersprüchlich ist oder dass sie, wenn sie zusammenmit den anderen Teilen des Prospekts gelesen wird, nicht die Basisinformationen vermittelt, die in Bezug aufAnlagen in die betreffenden Wertpapiere für die Anleger eine Entscheidungshilfe darstellen würden.
+2.2 Basisinformationen über die Emittentin
+2.2.1 Wer ist die Emittentin der Wertpapiere?
+Die Gesellschaft ist eine Aktiengesellschaft nach deutschem Recht. Die Gesellschaft hat ihren Sitz in
+München, Deutschland. Die Gesellschaft ist im Handelsregister des Amtsgerichts München unter HRB 252581eingetragen. Die Rechtsträgerkennung ( Legal Entity Identifier , LEI) der Gesellschaft ist
+5299005CHJZ14D4FDJ62.
+2.2.1.1 Haupttätigkeiten
+Wir sind ein Pure-Play-Unternehmen, das entlang der gesamten Wertschöpfungskette für Energietechnologie
+und -dienstleistungen mit einem umfassenden und differenzierten Produkt-, Lösungs- undDienstleistungsangebot tätig ist. Unsere umfangreich e Technologiebasis, die sowohl brennstoffeffiziente
+8
+konventionelle als auch erneuerbare Energien umfasst, befähigt uns dazu, den steigenden Energiebedarf zu
+decken und gleichzeitig die Bemühungen zur Reduzierung von Treibhausgasen zu unterstützen. Wir bieten
+unseren Kunden zudem digitale Geschäfts- und intelligente Dienstleistungsmodelle an. Wir sehen uns gutpositioniert, um die Energiewende hin zu dekarbonisie rten Energietechnologien zu gestalten und durch unsere
+globale Präsenz weltweit umgehend auf Kundenbedürfnisse zu reagieren.
+Die Gesellschaft ist die Holdinggesellschaft der Siemens Energy-Gruppe und nimmt übergreifende Aufgabenund Konzernfunktionen für die Gruppe wahr. Wir erwirtschafteten Umsatzerlöse von €28.797 Mio. im zum
+30. September 2019 endenden Geschäftsjahr und €19.828 Mio. im zum 30. Juni 2020 endenden
+Neunmonatszeitraum, sowie ein Angepasstes EBITA von €1.064 Mio. im zum 30. September 2019 endenden
+Geschäftsjahr und €(1.211) Mio. im zum 30. Juni 2020 endenden Neunmonatszeitraum.
+Unsere Geschäftstätigkeit gliedert sich in zwei Berichtssegmente, Gas and Power und Siemens Gamesa
+Renewable Energy:
+Gas and Power – Unser Gas and Power Segment bietet eine große Bandbreite an Produkten, Lösungen
+und Dienstleistungen auf den Gebieten der Energieübertragung und der konventionellen zentralen unddezentralen Energieerzeugung neben industriellen Anwendungen für die Öl- und Gasindustrie sowie fürindustrielle Prozessanwendungen. Darüber hinaus entwickelt und vermarktet das Gas and Power Segmentneue Technologien im Bereich der Dekarbonisierung. Das Gas and Power Segment erwirtschafteteGesamtumsatzerlöse von €18.709 Mio. im zum 30. September 2019 endenden Geschäftsjahr und
+€13.326 Mio. im zum 30. Juni 2020 endenden Neunmonatszeitraum, sowie ein Angepasstes EBITA von
+€589 Mio. im zum 30. September 2019 endenden Geschäftsjahr und €(539) Mio. im zum 30. Juni 2020
+endenden Neunmonatszeitraum. Die Geschäftstätigkeiten des Gas and Power Segments sind in dreiDivisionen aufgeteilt: Transmission, Generation und Industrial Applications, die durch unsere OtherOperations komplementiert werden.
+-Transmission – Unsere Division Transmission bietet ein breites Portfolio von Produkten, Systemen,
+Lösungen und Dienstleistungen an, die auf die wichtigsten Markttrends Digitalisierung,Dekarbonisierung, Netzstabilität und Elektrifizierung ausgerichtet sind. Das Produktportfolio umfasstluft- und gasisolierte Schaltanlagen, Transformatoren, digitalisierte Produkte und andere Produkte wieStromdurchführungen (d.h. elektrische Bauteile, die Hochspannungsleiter isolieren, die Strom durch einMetallgehäuse oder ein Gebäude führen). Die Division Transmission bietet ihre Produkte (einzeln oderals Teil maßgeschneiderter Systeme und Lösungen) sowie Dienstleistungen im Zusammenhang mit derEnergieübertragung auf Hoch- (dazu gehören Ultra-, Extra- und Hochspannungsebenen) und, ingeringerem Umfang, auf Mittel- und Niederspannungsebene als Teil von Produktbündeln oderLösungen an.
+-Generation – Unsere Division Generation bietet ein breites Portfolio an Produkten, Lösungen und
+Dienstleistungen für die zentrale und dezentrale Energieerzeugung. Das Produktportfolio umfasst Gas-und Dampfturbinen, Generatoren und Gasmotoren sowie Leittechnik und elektrische Systeme. DieProdukte werden einzeln verkauft oder als Teil von Lösungen angeboten. Ein umfassendesDienstleistungsangebot, das Leistungsverbesserungen, Wartungsdienste, Kundenschulungen undprofessionelle Beratung umfasst, ergänzt unser Produkt- und Lösungsgeschäfte.
+-Industrial Applications – Unsere Division Industrial Applications bietet ein breites Portfolio von
+Produkten, integrierten Systemen, Lösungen und Dienstleistungen für eine Vielzahl vonMarktsegmenten entlang nahezu der gesamten Wertschöpfungskette der Öl- und Gasindustrie undverschiedener Prozessindustrien an. Unser breites Portfolio umfasst Lösungen für rotierende Anlagen,integrierte Antriebsstrangsysteme, Elektrifizierungsautomatisierung und digitale Lösungen für die On-und Offshore-Industrie, die Schiffbauindustrie und die Papier-/Faserindustrie undWasseraufbereitungslösungen. Unsere Division Industrial Applications bietet auch Dienstleistungen fürdie Öl- und Gasindustrie und für Kunden aus dem Bereich der dezentralen Stromerzeugung,einschließlich anderer Industriezweige wie Lebensmittel- und Getränkeindustrie, Bergbau/Zement- undMetallindustrie, Industrieparks und Kommunen.
+-Other Operations – Unsere Other Operations beinhalten unser New Energy Business und bestimmte
+at-equity-Beteiligungen. Unser New Energy Business komplementiert unser Portfolio indem es neueTechnologien im Bereich der dekarbonisierten Energiesysteme entwickelt. Der Schwerpunkt des NewEnergy Business ist es, die grüne Wasserstoffwirtschaft zu ermöglichen und die Dekarbonisierungvoranzutreiben, z.B. durch die Entwicklung von “power-to-x”-Technologien, die Strom auserneuerbaren Energien für die Produktion CO2-armer synthetischer Energiequellen (Kraftstoffe)nutzen.
+Siemens Gamesa Renewable Energy – Unser SGRE Segment konzentriert sich auf die Förderung, das
+Design, die Entwicklung, die Herstellung und die Lieferung von Produkten, Anlagen und technologischfortgeschrittenen Dienstleistungen im Bereich der erneuerbaren Energien mit Schwerpunkt aufWindparks und erbringt auch Dienstleistungen einschließlich Management, Betrieb und Wartung. SGREprüft auch Möglichkeiten in angrenzenden Geschäftsfeldern der erneuerbaren Energien, die in vielenFällen ebenfalls mit dem Windturbinengeschäft verbunden sind. Diese Aktivita ¨ten machen jedoch nur
+einen kleinen Bruchteil der gegenwa ¨rtigen Gescha ¨ftsta ¨tigkeit der SGRE aus. Das SGRE Segment
+erwirtschaftete Gesamtumsatzerlöse von €10.227 Mio. im zum 30. September 2019 endenden
+Geschäftsjahr und €6.615 Mio. im zum 30. Juni 2020 endenden Neunmonatszeitraum, sowie ein
+9
+Angepasstes EBITA von €481 Mio. im zum 30. September 2019 endenden Geschäftsjahr und €(631) Mio.
+im zum 30. Juni 2020 endenden Neunmonatszeitraum. Die Aktien der SGRE S.A. sind an den spanischenBörsen von Madrid, Barcelona, Valencia und Bilbao notiert und im spanischen Index IBEX-35 enthalten.Siemens Energy hält rund 67% der Anteile an SGRE S.A. Das SGRE Segment umfasst die GeschäftsbereicheOnshore Wind Power, Offshore Wind Power und Service:
+-Onshore Wind Power – Mit fast 40 Jahren Erfahrung bietet unser Geschäftsbereich Onshore Wind
+Power Konstruktions-, Fertigungs- und Errichtungslösungen für Windturbinen für den globalenOnshore-Markt an, die sich hauptsächlich auf Getriebetechnologie einschließlich Plattformenkonzentrieren, die an regionale und lokale Bedürfnisse angepasst werden können.
+-Offshore Wind Power – Unser Geschäftsbereich Offshore Wind Power bietet seinen Kunden fast drei
+Jahrzehnte Erfahrung in der Konstruktion, Fertigung und Errichtung von Offshore-Windturbinen mitSchwerpunkt auf getriebelose Technologie.
+-Service – Unser Geschäftsbereich Service bietet ein umfassendes und flexibles Portfolio für die Wartung
+und Optimierung von Windturbinen und bietet einen ganzheitlichen, lebenslangen Betreuungsservice.Für die Windturbinen der SGRE, aber auch zunehmend für Anlagen Dritter, wird ein komplettes AssetManagement sowie technische Unterstützung angeboten.
+2.2.1.2 Hauptanteilseigner
+Zum Datum des Prospekts werden alle Existierenden Aktien, die derzeit sämtliche Aktien der Gesellschaft
+darstellen, direkt oder indirekt von der Siemens AG gehalten, so dass die Gesellschaft von der Siemens AGbeherrscht wird.
+Nach dem Abspaltungsvollzug werden die Siemens AG und der Siemens Pension-Trust e.V. zunächst 35,1%
+bzw. 9,9% der Aktien der Gesellschaft halten, wobei es sich um die Existierenden Aktien handelt. Die NeuenAktien, die dann 55% der Aktien der Gesellschaft ausmachen, werden an die Aktionäre der Siemens AGübertragen. Die Anzahl der Neuen Aktien, die dem einzelnen Aktionär der Siemens AG zustehen, entsprichtdessen prozentualem Anteil an den Aktien der Siemens AG unmittelbar vor dem Abspaltungsvollzug.
+Um zu verhindern, dass die Siemens AG die Gesellschaft nach dem Abspaltungsvollzug beherrscht, haben die
+Gesellschaft und die Siemens AG einen Entherrschungsvertrag abgeschlossen, der unter anderem dieAusübung der Stimmrechte aus den Existierenden Aktien beschränkt. Im Entherrschungsvertrag verpflichtetsich Siemens gegenüber der Gesellschaft unter anderem, dass es maximal drei von Siemens abhängigeAnteilseignervertreter im Aufsichtsrat der Gesellschaft geben wird, z.B. Mitglieder des Vorstands derSiemens AG. Für die Zwecke des Entherrschungsvertrags führt die Mitgliedschaft im Aufsichtsrat der SiemensAG allein nicht zu einer Abhängigkeit dieser Person von Siemens. Dementsprechend geltenGewerkschaftsvertreter, die sowohl dem Aufsichtsrat der Siemens AG als auch dem Aufsichtsrat derGesellschaft angehören, gemäß dem Entherrschungsvertrag als von Siemens unabhängig, obwohl ihreDoppelmandate zu Interessenkonflikten führen können (siehe “ 2.4.3.3 Wesentliche Interessenkonflikte in
+Bezug auf die Börsenzulassung ”).
+2.2.1.3 Vorstand
+Der Vorstand der Gesellschaft besteht aus vier Mitgliedern. Dr.-Ing. Christian Bruch ist Vorstandsvorsitzender
+(Chief Executive Officer, CEO) der Gesellschaft. Frau Maria Ferraro ist die Finanzvorständin (Chief FinancialOfficer, CFO) der Gesellschaft. Herr Tim Oliver Holt ist Segment Manager des Gas and Power Segments(Transmission) und des SGRE Segments sowie der zukünftige Arbeitsdirektor. Dr.-Ing. Jochen Eickholt istSegment Manager des Gas and Power Segments (Generation und Industrial Applications).
+2.2.1.4 Abschlussprüfer
+Ernst & Young GmbH Wirtschaftsprüfungsgesellschaft, Stuttgart, Deutschland, mit Geschäftsanschrift in der
+Arnulfstraße 59, 80636 München, Deutschland ( “EY”) ist der unabhängige Abschlussprüfer der Gesellschaft.
+2.2.2 Welches sind die wesentlichen Finanzinformationen der Emittentin?
+Der geprüfte kombinierte Abschluss von Siemens Energy für die zum 30. September 2019, 2018 und 2017
+endenden Geschäftsjahre (der “ Geprüfte Kombinierte Abschluss ”) wurde in Übereinstimmung mit den
+International Financial Reporting Standards, wie sie in der Europäischen Union anzuwenden sind (“ IFRS”),
+erstellt und wurde in Übereinstimmung mit § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer(IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung von EY geprüft, EY hat diesenAbschluss mit einem uneingeschränkten Bestätigungsvermerk des unabhängigen Abschlussprüfers versehen.Der ungeprüfte verkürzte kombinierte Zwischenabschluss von Siemens Energy für den zum 30. Juni 2020endenden Neunmonatszeitraum wurde in Übereinstimmung mit IFRS für Zwischenberichterstattung (IAS 34)erstellt (der “ Ungeprüfte Verkürzte Kombinierte Zwischenabschluss ”). Der Geprüfte Kombinierte Abschluss
+und der Ungeprüfte Verkürzte Kombinierte Zwischenabschluss (zusammen die “ Kombinierten Abschlüsse ”)
+stellen die kombinierte Gruppe von Gesellschaften und Geschäftsaktivitäten dar, die dem Siemens-Energy-Geschäft für die zum 30. September 2019, 2018 und 2017 endenden Geschäftsjahre sowie für den zum 30. Juni2020 endenden Neunmonatszeitraum zugeordnet waren. In diesen Zeiträumen hat Siemens Energy keineGeschäftstätigkeit als eigenständiger Konzern ausgeübt. Daru ¨ ber hinaus sollten Anleger beachten, dass
+10
+Finanzinformationen bezu ¨ glich unseres SGRE Segments ausschließlich aus den Kombinierten Abschlu ¨ ssen oder
+aus unserer Buchhaltung oder aus dem internen Berichtswesen entnommen oder abgeleitet wurden und nichtnotwendigerweise mit den von der SGRE S.A. o ¨ ffentlich berichteten Finanzinformationen u ¨ bereinstimmen.
+Wo die Finanzinformationen in dieser Zusammenfassung des Prospekts in Tabellen als “geprüft” bezeichnet
+werden, wurden diese Informationen dem Geprüften Kombinierten Abschluss entnommen. Mit derKennzeichnung “ungeprüft” werden in den Tabellen in dieser Zusammenfassung des ProspektsFinanzinformationen bezeichnet, die aus dem Ungeprüften Verkürzten Kombinierten Zwischenabschluss,unserer Buchhaltung oder dem internen Berichtswesen stammen oder auf Grundlage von Zahlen aus denvorgenannten Quellen berechnet wurden. Die Zahlen wurden kaufmännisch auf ganze Zahlen gerundet.Aufgrund der Rundungen addieren sich die in den folgenden Tabellen angegebenen Zahlen nichtunbedingt genau zu den jeweiligen dargestellten Summen oder Zwischensummen, und die addiertenProzentsätze entsprechen möglicherweise nicht genau 100%. Finanzinformationen in Klammern bezeichnendas Negativ dieser Zahl. In Bezug auf die unten aufgeführten Finanzinformationen bedeutet ein Bindestrich(“—”), dass die relevante Zahl nicht verfügbar oder gleich Null ist, während eine Null (“0”) bedeutet, dassdie relevante Zahl verfügbar ist, aber auf Null gerundet wurde.
+2.2.2.1 Wesentliche Finanzinformationen aus den kombinierten Gewinn- und Verlustrechnungen
+Für das zum 30. September
+endende GeschäftsjahrFür den zum 30. Juni
+endenden
+Neunmonatszeitraum
+2019 2018 2017 2020 2019
+(in€Mio.)(geprüft, sofern nicht
+anders angegeben) (ungeprüft)
+Umsatzerlöse ............................... 28.797 28.023 30.086 19.828 20.503
+Nominales Umsatzwachstum (ungeprüft) ....... 2,8% (6,9)% —1) (3,3)% —1)
+Gewinn/Verlust vor Ertragsteuern .............. 3 1 7 1 5 1 1.309 (1.672) 270
+Gewinn/Verlust nach Steuern ................. 2 8 2 6 4 5 9 6 0 (1.469) 202
+1) Nicht verfügbar. Der Geprüfte Kombinierte Abschluss enthält keine Vergleichszahlen für das Geschäftsjahr, das zum 30. September
+2016 endete; der Ungeprüfte Verkürzte Kombinierte Zwischenabschluss enthält keine Vergleichszahlen für den Neunmonatszeitraum,der zum 30. Juni 2019 endete.
+2.2.2.2 Wesentliche Finanzinformationen aus den kombinierten Bilanzen
+Zum 30. September Zum 30. Juni
+2019 2018 2017 2020
+(in€Mio.)(geprüft, sofern nicht
+anders angegeben) (ungeprüft)
+Summe Aktiva .............................. 45.041 45.763 47.290 45.424
+Summe Eigenkapital1)........................ 13.089 10.701 11.318 16.250
+Angepasste (Nettoliquidität) / Nettoverschuldung
+(ungeprüft)2).............................. 2.169 4.342 3.388 (803)
+1) Enthält nicht-beherrschende Anteile.
+2) Die Angepasste (Nettoliquidität) / Nettoverschuldung ist definiert als Summe Finanzschulden abzüglich Summe Liquidität und
+zuzüglich Rückstellungen für Pensionen und ähnliche Verpflichtungen. Die Summe Finanzschulden ist definiert als kurzfristigeFinanzschulden und kurzfristig fällige Anteile langfristiger Finanzschulden zuzüglich langfristiger Finanzschulden und zuzüglichVerbindlichkeiten gegenüber dem Siemens-Konzern aus Finanzierungsaktivitäten. Die Summe Liquidität ist definiert als Zahlungsmittelund Zahlungsmitteläquivalente zuzüglich Forderungen gegenüber dem Siemens-Konzern aus Finanzierungsaktivitäten.
+2.2.2.3 Wesentliche Finanzinformationen aus den kombinierten Kapitalflussrechnungen
+Für das zum 30. September
+endende GeschäftsjahrFür den zum 30. Juni
+endenden
+Neunmonatszeitraum
+2019 2018 2017 2020 2019
+(in€Mio.) (geprüft) (ungeprüft)
+Cashflows aus betrieblicher Tätigkeit ........... 1.694 844 686 561 (585)
+Cashflows aus Investitionstätigkeit ............. (797) (429) (835) (653) (503)
+Cashflows aus Finanzierungstätigkeit .......... (1.597) 330 1.890 674 (395)
+11
+2.2.2.4 Wesentliche Leistungskennzahlen und alternative Leistungskennzahlen
+Für das zum 30. September
+endende GeschäftsjahrFür den zum 30. Juni
+endenden
+Neunmonatszeitraum
+2019 2018 2017 2020 2019
+(in€Mio., sofern nicht Prozentangaben und Ratios)(ungeprüft, sofern nicht
+anders angegeben) (ungeprüft)
+Angepasstes EBITA1)........................... 1.064 905 2.028 (1.211) 857
+Angepasste EBITA Marge2)..................... 3,7% 3,2% 6,7% (6,1)% 4,2%
+Angepasstes EBITA vor Sondereffekten3)......... 1.517 1.456 2.174 (87) 994
+Angepasste EBITA Marge vor Sondereffekten2).... 5,3% 5,2% 7,2% (0,4)% 4,8%
+Free Cash Flow4).............................. 8 7 6* 80* (121)* 18 (1.099)
+Cash Conversion Rate5)......................... 0 , 8 0 , 1 (0,1) (0,0) (1,3)
+* Geprüft.
+1) Das Angepasste EBITA der Siemens Energy-Gruppe wird berechnet als Ergebnis vor Finanzierungszinsen, Ertragsteuern,
+Abschreibungen auf immaterielle Vermögenswerte, die im Rahmen von Unternehmenszusammenschlüssen übernommen wurden,sowie Wertminderungen von Geschäfts- oder Firmenwerten. Finanzierungszinsen, die vom Angepassten EBITA ausgenommen sind,beinhalten jedwede Zinserträge oder Zinsaufwendungen mit Ausnahme des Finanzergebnisses aus operativer Geschäftstätigkeit (d.h. ,
+Zinserträge im Zusammenhang mit Forderungen gegenüber Kunden, aus den Segmenten zugewiesenen Barmitteln undZinsaufwendungen auf Verbindlichkeiten gegenüber Lieferanten).
+2) Die Angepasste EBITA Marge wird berechnet als Angepasstes EBITA geteilt durch die gesamten Umsatzerlöse. Die Angepasste EBITA
+Marge vor Sondereffekten wird berechnet als Angepasstes EBITA vor Sondereffekten geteilt durch die gesamten Umsatzerlöse.
+3) Berechnet als Angepasstes EBITA vor Sondereffekten. Sondereffekte sind definiert als (i) Restrukturierungskosten im Zusammenhang
+mit Personalmaßnahmen, hauptsächlich im Segment Gas and Power sowie Integrationskosten, die nur im Segment SGRE anfallen undhauptsächlich im Zusammenhang mit der Fusion von Gamesa und Siemens Wind Power zu SGRE S.A. stehen, sowie, zu einemgeringeren Anteil, mit dem Erwerb von Vermögensgegenständen von Senvion, (ii) Stand-alone-Kosten, die sich aus der Vorbereitungunserer Trennung vom Siemens-Konzern und der Gründung von Siemens Energy als eigenständiges Unternehmen ergeben. Stand-alone-Kosten beziehen sich auf die Ausgliederung und Abspaltung von Siemens Energy und umfassen unter anderem Kosten fürIT-Anwendungen, externe Dienstleister, Kosten im Zusammenhang mit der Börsennotierung und personalbezogene Kosten, sowie(iii) wesentliche Wertminderungen von Vermögenswerten und Abschreibungen im Zusammenhang mit strategischenPortfolioentscheidungen der Siemens Energy-Gruppe.
+4) Der Free Cash Flow wird berechnet als Differenz der Posten Cashflow aus betrieblicher Tätigkeit und Zugänge zu immateriellen
+Vermögenswerten und Sachanlagen in unserer Kombinierten Kapitalflussrechnung.
+5) Die Cash Conversion Rate ist definiert als Free Cash Flow geteilt durch das Angepasste EBITA für die Siemens Energy-Gruppe.
+2.2.3 Welches sind die zentralen Risiken, die für die Emittentin spezifisch sind?
+Eine Investition in die Aktien der Gesellschaft unterliegt einer Reihe von Risiken, von denen einige in diesem
+Abschnitt und unter Abschnitt “ 2.3.3 Welches sind die zentralen Risiken, die für die Wertpapiere spezifisch
+sind? ” dieser Zusammenfassung dargestellt werden. Das Auftreten der folgenden Risiken könnte, allein
+oder zusammen, die Geschäfts-, Finanz- und Ertragslage, den Ruf sowie die Aussichten der Siemens Energy-Gruppe erheblich nachteilig beeinträchtigen. Wenn sich eines oder mehrere der genannten Risikenverwirklichen sollten, könnten Anleger ihre Investition ganz oder teilweise verlieren.
+Die folgenden Risiken sind zentrale Risiken, die für die Gesellschaft spezifisch sind: Der Energiemarkt unterliegt disruptiven Elementen, wie zum Beispiel dem Trend zu Dekarbonisierung,
+und wir könnten zu langsam oder sogar gar nicht in der Lage sein, unser Geschäftsmodell undProduktportfolio entsprechend anzupassen.
+ Wir könnten möglicherweise nicht in der Lage sein, die Umwelt-, Sozial- und
+Unternehmensführungsstandards und -erwartungen (environmental, social and governance (ESG)) zuerfüllen, was sich negativ auf unsere Geschäftslage und unseren Ruf auswirken könnte. Gleichzeitig kanndie Einhaltung von bestimmten ESG-Standards eine zusätzliche Herausforderung für unsereGeschäftstätigkeit darstellen.
+ Unsere Industrien und Geschäftstätigkeiten sind verschiedenen Risiken in Bezug auf globale oder lokale
+Ausbrüche von ansteckenden Krankheiten und anderen Krisen für die öffentliche Gesundheit ausgesetzt.Insbesondere sind wir von den Folgen des Ausbruchs der jüngsten Coronavirus-Pandemie betroffen.
+ Wettbewerb und niedrigere Marktpreise könnten unsere Geschäfts-, Finanz- und Ertragslage negativ
+beeinflussen.
+ Wir sind möglicherweise nicht in der Lage, unsere Strategien erfolgreich umzusetzen, insbesondere könnte
+es sein, dass es uns nicht gelingt, Kosteneinsparungs- und andere Reorganisationsprogramme erfolgreichabzuschließen von den disruptiven Trends der globalen Energiemärkte zu profitieren und den Anteilunseres Servicegeschäfts zu erhöhen.
+ Wir sind möglicherweise nicht in der Lage, erfolgreich ein Portfolio wettbewerbsfähiger und
+technologisch fortgeschrittener Produkte, Dienstleistungen und Lösungen zu entwickeln und
+12
+einzuführen, und unser Forschungs- und Entwicklungsaufwand könnte erfolglos sein. Darüber hinaus
+kann das Tempo des technologischen Wandels dazu führen, dass der wirtschaftliche Lebenszyklus einigerunserer Produkte kürzer ist als erwartet.
+ Betriebliche Störungen in unseren Wertschöpfungsprozessen und Qualitätsprobleme könnten sich negativ
+auf unser Geschäft und unsere Reputation auswirken und könnten zu Forderungen, Strafen undzusätzlichen Kosten führen.
+ Wir sind von der Verfügbarkeit von gewissen Materialien, Teilen und Komponenten abhängig und
+jegliche Störung der Lieferkette könnte zu zusätzlichen Kosten oder Umsatzverlusten führen.
+ Unser Projektgeschäft ist verschiedenen Risiken, einschließlich Ausführungsrisiken,
+Kostenüberschreitungen und Qualitäts- und politischen Risiken, ausgesetzt.
+ Im Zusammenhang mit bestehenden und potentiellen zukünftigen Reorganisations- und
+Kosteneinsparungsmaßnahmen können uns erhebliche Restrukturierungsaufwendungen undMittelabflüsse entstehen. Wir könnten möglicherweise nicht in der Lage sein, die erwartetenKosteneinsparungen zu realisieren oder unsere organisatorische und produktionstechnische Präsenzrechtzeitig oder überhaupt anzupassen. Solche Reorganisationen bringen möglicherweise nicht denangestrebten Nutzen oder könnten unseren Ruf schädigen.
+ Wir müssen möglicherweise Vorräte oder andere Vermögenswerte abschreiben, was sich negativ auf
+unsere finanzielle Position auswirken und zu Profitabilitätsverlusten führen könnte.
+ Der Firmenwert ( Goodwill ) und andere immaterielle Vermögenswerte machen einen beträchtlichen Teil
+unseres Gesamtvermögens aus, das erheblich reduziert werden könnte, wenn wir Wertminderungenverbuchen müssten.
+ Unser Geschäft und die Geschäfte unserer Kunden und Lieferanten erfordern den Zugang zu
+signifikanten Kredit- und Avalkreditlinien und anderen Finanzierungsinstrumenten. UnsereGeschäftsaktivitäten könnten negativ beeinflusst werden, wenn wir in Zukunft nicht in der Lage sind,unseren Kapitalbedarf zu decken, z.B. in einem schwachen Finanzmarktumfeld, als Folge einererheblichen Verschlechterung unserer Bonität, als Folge der Verletzung einer Vereinbarung über eineKreditfazilität oder wenn der Zugang zu Kapital teurer wird. Unsere Geschäftstätigkeiten könntenvergleichbar negativ betroffen sein, wenn unsere Kunden oder Lieferanten keinen Zugang zuFinanzierungen zu wirtschaftlich tragfähigen Bedingungen haben.
+ Unser Gas and Power Segment und, in geringerem Maße, unser SGRE Segment könnten nach der
+Trennung vom Siemens-Konzern Geschäftschancen verlieren und eine negative Wahrnehmung ihrereigenständigen Position erfahren. Darüber hinaus könnten wir als eigenständige Gruppe möglicherweisenicht in der Lage sein, die finanziellen oder technischen Anforderungen der Gesetze zum öffentlichenBeschaffungswesen zu erfüllen.
+2.3 Basisinformationen über die Wertpapiere
+2.3.1 Welches sind die wichtigsten Merkmale der Wertpapiere?
+Die Aktien sind auf den Namen lautende Stückaktien ohne Nennbetrag, jeweils mit einem anteiligen Betrag
+am Grundkapital von €1 und voller Gewinnanteilberechtigung ab dem 1. Oktober 2019, mit der ISIN
+DE000ENER6Y0. Alle Aktien der Gesellschaft sind Aktien derselben Gattung. Jede Aktie der Gesellschaftgewährt in der Hauptversammlung der Gesellschaft eine Stimme. Es bestehen keine Beschränkungen desStimmrechts. Sämtliche Aktien der Gesellschaft verfügen über die gleichen Stimmrechte. Die Aktien derGesellschaft sind gemäß der für die Übertragung von Namensaktien geltenden rechtlichen Anforderungenfrei übertragbar, und im Falle ihrer Übertragung besteht keine Zustimmungspflicht. Die Aktien habenAnspruch auf einen Anteil am Liquidationserlös oder Insolvenzüberschuss im Verhältnis ihres rechnerischenAnteils am Grundkapital. Die Fähigkeit und Absicht der Gesellschaft, in der Zukunft Dividenden zu zahlen,wird von der Finanz- und Ertragslage der Gesellschaft, den Kapitalanforderungen, Anlagealternativen undanderen Faktoren abhängen. Die Gesellschaft kann keine Gewähr dafür bieten, dass sie in künftigen JahrenDividenden zahlen wird.
+Die Gesellschaft hat in der Vergangenheit keine Dividenden gezahlt. Vorbehaltlich einer gesetzlichen
+Mindestdividende von bis zu ungefähr €29 Mio. für den Fall, dass in dem geprüften nicht konsolidierten
+Jahresabschluss der Gesellschaft für das Geschäftsjahr 2020, der nach den deutschen, fürKapitalgesellschaften geltenden handelsrechtlichen Vorschriften erstellt wurde, ein ausreichenderausschüttungsfähiger Gewinn ausgewiesen wird, wird die Gesellschaft für das Geschäftsjahr 2020 keineDividendenzahlung vornehmen. Für die folgenden Geschäftsjahre beabsichtigt die Gesellschaft, eineDividende vorzuschlagen, deren Ausschüttungsvolumen 40% bis 60% des Gewinns nach Steuern entspricht,der auf die Aktionäre der Siemens Energy AG entfällt, wie er sich aus dem nach IFRS erstelltenKonzernabschluss der Gesellschaft für das jeweils vorangegangene Geschäftsjahr ergibt. Zu diesem Zweckdarf dieses Konzernergebnis um außerordentliche, nicht zahlungswirksame Effekte bereinigt werden.Grundsätzlich ist es beabsichtigt, die Dividendenausschüttung aus dem Free Cash Flow unterBerücksichtigung der von SGRE S.A. erhaltenen Dividendenzahlungen zu finanzieren.
+13
+2.3.2 Wo werden die Wertpapiere gehandelt?
+Die Gesellschaft wird die Zulassung der Aktien zum Handel am regulierten Markt an der FWB mit
+gleichzeitiger Zulassung zum Börsenhandel zum Teilbereich des regulierten Marktes mit weiterenZulassungsfolgepflichten (Prime Standard) an der FWB beantragen. Voraussichtlich am 25. September 2020werden die Aktien zum Handel an der FWB zugelassen. Der öffentliche Handel mit den Aktien wirdvoraussichtlich am 28. September 2020 aufgenommen.
+2.3.3 Welches sind die zentralen Risiken, die für die Wertpapiere spezifisch sind?
+Das folgende Risiko ist ein wesentliches Risiko bezogen auf die Aktien: Im Zusammenhang mit der Abspaltung könnten erhebliche Verkäufe der Aktien der Gesellschaft
+erfolgen, die zu Aktienkursverlusten führen könnten; solche Verkäufe sind auch in der Folgezeit möglich.Zudem beabsichtigt Siemens, seine Beteiligung an der Gesellschaft innerhalb von zwölf bis 18 Monatennach der Abspaltung erheblich zu reduzieren.
+2.4 Basisinformationen über die Zulassung zum Handel an einem geregelten
+Markt
+2.4.1 Zu welchen Konditionen und nach welchem Zeitplan kann ich in dieses Wertpapier investieren?
+Die Neuen Aktien werden unmittelbar nach dem Abspaltungsvollzug an die Aktionäre der Siemens AG
+übertragen. Am 28. September 2020 erhält jeder Aktionär der Siemens AG:
+ für jeweils zwei (2) auf den Namen lautende Stückaktien der Siemens AG (ISIN DE0007236101 /
+WKN 723 610), die er am Abend des 25. September 2020 unter Berücksichtigung aller noch ausstehenderBörsengeschäfte hält,
+ eine (1) auf den Namen lautende Stückaktie der Gesellschaft (ISIN DE000ENER6Y0 / WKN ENER6Y).Die Aktien können nach ihrer Zulassung zum Handel an der FWB, die voraussichtlich am 28. September 2020
+erfolgen wird, an der FWB gekauft und verkauft werden.
+2.4.2 Wer ist die die Zulassung zum Handel beantragende Person?
+Die Gesellschaft wird die Zulassung zum Handel beantragen. Der Antrag wird zusammen mit der Deutschen
+Bank Aktiengesellschaft, eine Aktiengesellschaft mit Sitz in Frankfurt am Main, Deutschland, eingetragenund tätig nach deutschem Recht, die im Namen der Listing Agents (wie unter“2.4.3.2 Börsenzulassungsvertrag (Listing Agreement) ” unten definiert) handelt, zum Zweck der Zulassung
+zum Handel gestellt werden.
+2.4.3 Weshalb wird dieser Prospekt erstellt?
+Der Zweck des Prospekts ist es, die Aktien zum Handel an der FWB zuzulassen.
+2.4.3.1 Keine Erlöse; Kostenübernahme durch die Siemens AG
+Weder die Gesellschaft noch die Siemens AG werden im Zusammenhang mit der Abspaltung Erlöse erzielen.Im Zusammenhang mit der Börsenzulassung wird Siemens Energy Kosten in Höhe von ca. €2,0 Mio. tragen;
+die restlichen Kosten im Zusammenhang mit der Abspaltung und der Börsenzulassung werden von Siemensübernommen.
+2.4.3.2 Börsenzulassungsvertrag (Listing Agreement)
+Die Gesellschaft, die Siemens AG sowie BNP PARIBAS, Merrill Lynch International (BofA Securities),
+COMMERZBANK Aktiengesellschaft, Credit Suisse Securities (Europe) Limited, Deutsche BankAktiengesellschaft, Goldman Sachs Bank Europe SE und J.P. Morgan Securities plc, die als Lead FinancialAdvisors und Listing Agents fungieren (die “ Listing Agents ”) und Joh. Berenberg, Gossler & Co. KG, HSBC
+Trinkaus & Burkhardt AG und Jefferies International Limited (die “ Co-Advisors ” zusammen mit den Listing
+Agents, die “ Banken ”), haben am 6. September 2020 im Zusammenhang mit der Abspaltung und der
+Börsenzulassung einen Börsenzulassungsvertrag ( Listing Agreement ) (der “ Börsenzulassungsvertrag ”)
+abgeschlossen. In dem Börsenzulassungsvertrag haben sich die Gesellschaft und die Siemens AG verpflichtet,die Banken von bestimmten Haftungsverpflichtungen freizustellen, die im Zusammenhang mit derAbspaltung und der Börsenzulassung entstehen können. Darüber hinaus hat sich die Gesellschaftverpflichtet, in dem Zeitraum zwischen dem Datum des Börsenzulassungsvertrags und dem 180. Tag nachdem ersten Handelstag der Aktien der Gesellschaft an der FWB, keine neuen Aktien auszugeben oderMaßnahmen mit ähnlicher Wirkung vorzunehmen. Der Börsenzulassungsvertrag sieht auch vor, dass dieVerpflichtungen der Banken zur Herbeiführung der Börsenzulassung von der Erfüllung bestimmterBedingungen abhängig sind, wie z.B. dem Erhalt üblicher Bestätigungen und Rechtsgutachten, die denAnforderungen der Banken entsprechen.
+14
+Darüber hinaus haben die Siemens AG und die Gesellschaft einen Abwicklungsvertrag mit der Deutsche
+Bank Aktiengesellschaft abgeschlossen, wonach die Deutsche Bank Aktiengesellschaft als Treuhänderin imSinne der §§ 125 Satz 1 und 71 Abs. 1 Satz 1 des Umwandlungsgesetzes fungiert.
+2.4.3.3 Wesentliche Interessenkonflikte in Bezug auf die Börsenzulassung
+Gemäß dem Börsenzulassungsvertrag erhalten die Banken nach dem Abspaltungsvollzug eine Provision.
+Darüber hinaus wurden COMMERZBANK Aktiengesellschaft und J.P. Morgan Securities plc als DesignatedSponsor für die Aktien ernannt. Die Gesellschaft geht daher davon aus, dass die Banken ein Interesse aneinem erfolgreichen Abschluss der Transaktion haben.
+Den derzeitigen Mitgliedern des Vorstands der Gesellschaft (sowie weiteren Führungskräften von Siemens
+Energy) wurde die Gewährung eines Spin-Off Incentives, also eines Transaktionsbonus zugesagt wenn beiAbspaltungsvollzug sowie innerhalb der ersten 120 Tage nach Abspaltungsvollzug auf der Grundlage desdurchschnittlichen volumengewichteten Kurses der Aktien der Gesellschaft bestimmte Zielwerte für dieEffekte der Abspaltung bzw. den Marktwert erreicht werden.
+Nach dem Abspaltungsvollzug werden voraussichtlich sechs Mitglieder (darunter drei
+Gewerkschaftsvertreter) des Aufsichtsrats der Gesellschaft weiterhin Vorstandsmitglieder oderAufsichtsratsmitglieder oder Angestellte der Siemens AG bleiben.
+Die Siemens AG hat ein Interesse an der Abspaltung, da sie der Veräußerung einer Mehrheitsbeteiligung an
+und der Dekonsolidierung von Siemens Energy dient.
+Die Listing Agents oder ihre verbundenen Unternehmen fungieren als Kreditgeber der Gesellschaft,
+hauptsächlich im Rahmen eines Kreditvertrags. Darüber hinaus haben die Banken oder bestimmte ihrerjeweiligen verbundenen Unternehmen bestimmte Beratungs- oder sonstige Dienstleistungen für SiemensEnergy oder für die Siemens AG oder bestimmte ihrer Tochtergesellschaften in ihrer Eigenschaft alsFinanzinstitute erbracht und werden dies wahrscheinlich auch in Zukunft tun, insbesondereBeratungsleistungen im Zusammenhang mit Finanzierungsgeschäften, für die sie marktübliche Gebührenund Aufwendungen erhalten haben und wahrscheinlich auch in Zukunft erhalten werden.
+***
+15

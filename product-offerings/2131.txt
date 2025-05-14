@@ -1,0 +1,712 @@
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  1  
+General Terms and Conditions of Sale of  
+Goods and Services  
+Siemens Energy d.o.o. Beograd  
+  
+1. General Provisions  
+  
+1.1. The present General Terms and Conditions of Sale of Goods 
+and Services (hereinafter: “ General Conditions ”) shall apply (i) 
+in all cases where Siemens Energy d.o.o. Beograd, 
+headquartered at Omladinskih Brigada 90v, Belgrade 
+(hereinafter: “ Siemens ”), performs legal transactions in the 
+capacity of seller of goods and/or provider of services, or (ii) 
+where thes e General Conditions are referred to in any individual 
+contract on procurement of goods and/or services, or by way of 
+Confirmation of Purchase Order, or in any other manner agreed 
+with the person purchasing goods and/or services (hereinafter: 
+“Purchaser ”). These General Conditions are effective as of 1 
+January 2020.  
+1.2. A contract shall be considered concluded upon receipt of 
+Confirmation of Purchase Order by Siemens.   
+1.3. The General Terms and Conditions of the Purchaser shall 
+apply only when accepted in writing by Siemens, or if they do 
+not contradict the present General Conditions. No action, 
+including the acceptance of goods and/or services, payment, 
+etc., shall constitute an act of Siemens’ acquiescence to the 
+General Terms of the Purchaser.  
+1.4. The scope of delivery of goods and/or provision of services 
+(hereinafter: “ Delivery ”) shall be defined in an individual 
+contract or through Confirmation of Purchase Order by 
+Siemens.  
+1.5. Siemens reserves all rights, including intellectual property 
+rights,  regarding all documents comprising an offer or 
+Confirmation of Purchase Order, including e.g. specifications, 
+drawings, sketches, catalogues, etc. (hereinafter: 
+“Documents ”). Documents may not be placed at the disposal of 
+the third parties without prior c onsent by Siemens, and the 
+documents shall be immediately returned to Siemens at its 
+request. The same treatment shall be accorded to the 
+corresponding documents of the Purchaser. The Purchaser 
+agrees that Siemens may inform its subcontractors and other 
+members of the SIEMENS Group of the contents of such 
+documents.   
+1.6. In the case where Delivery includes any software products, 
+including all applicable documentation, the “SIEMENS General 
+License Conditions for Software Products for Automation and 
+Drives for Customers with a Seat or Registered Office outside of 
+Germany” shall apply to such software products and 
+documentation. The Purchaser may, upon request, be 
+furnished with the General Licence Conditions for Software 
+Products. At any rate, the Purchaser shall only be granted a non -
+exclusive right to use the software in a machine readable 
+format of object code in relation with the Delivery and in the 
+manner specified in the documentation on the use thereof, if 
+such documentation exists. The Purchaser may t ransfer its 
+rights regarding the software only in the case of sale or other 
+transfer of the Delivery to a third party. The Purchaser shall be entitled to make two reserve copies of such software, provided 
+that the use thereof is limited to the abovemention ed rights.   
+1.7. Partial performance of the contract shall be allowed if the 
+Purchaser has no interest in rejecting such partial performance, 
+in case the partial performance is not justified by the nature of 
+transaction.  
+  
+2. Price and Method of Payment  
+  
+2.1. Unless agreed otherwise, prices shall be ex works 
+(Incoterms 2010 ). Prices shall not include packaging and 
+transportation costs, taxes, duties, fees and other costs payable 
+in accordance with the effective law of the Republic of Serbia. 
+All such costs , taxes and duties shall be borne by the Purchaser 
+in accordance with the effective legislation and/or in the 
+amount dictated by regular market conditions.  
+2.2. Siemens shall submit to the Purchaser the invoice in the 
+agreed amount specifying all the elem ents envisaged by the 
+relevant legal provisions. The Purchaser’s payment obligation 
+shall be due no later than the last day of the month in which 
+the conditions referred to in Article 3 have been met. After the 
+due date, Siemens shall be entitled to charge  Purchaser with 
+statutory arrears interest on such overdue payments.  
+2.3. In the case the price is expressed in foreign currency, the 
+payment shall be effected in dinars (RSD) at the mean exchange 
+rate of the National Bank of Serbia on the day the invoice  is 
+submitted to the Purchaser in the agreed amount specifying all 
+the elements envisaged by the relevant legal provisions.  
+If the exchange rate of foreign currency in which the price has 
+been agreed changes from the day of invoicing to the day of 
+payment  for more than 5%, the payment shall be effected in 
+dinars (RSD) at the mean exchange rate of the National Bank of 
+Serbia on the day of payment and Siemens will, on that 
+account, provide the Purchaser with a corresponding/proper 
+credit or debit note.  
+2.4. In case the price has been agreed in dinars (RSD), and in 
+the period from the day of Confirmation of Purchase Order or 
+entry into contract to the due date the consumer price index in 
+the Republic of Serbia according to the National Statistical 
+Office chan ges by more than 1% on average on a monthly basis 
+for each started month of the relevant period, Siemens reserves 
+the right to oblige the Purchaser by debit note to pay the 
+difference in price adjusted accordingly.  
+2.5. Payment of the price shall be effec ted exclusively to the 
+bank account of Siemens. The obligation to pay the price shall 
+be considered discharged only if the amount paid is free of any 
+encumbrances and deductions, as well as of any transfer costs 
+and fees. Otherwise, the amount payable by t he Purchaser shall 
+be increased by the amount of all such deductions and 
+encumbrances so that Siemens may receive and retain the net 
+amount. Should the payment of the price involve the payment 
+of withholding tax, the Purchaser is obliged to submit the tax 
+payment confirmation concerning the tax thus paid, within four 
+weeks of payment of the invoice per which the withholding tax 
+has been paid.  
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  2  
+2.6. If Siemens’ obligations involve installation, assembly or 
+other accompanying works, the Purchaser shall bear a ll the 
+costs incurred in relation therewith.  
+2.7. Unless expressly agreed, the Purchaser may not 
+compensate its receivables against Siemens with the 
+receivables Siemens claims against the Purchaser.  
+  
+3. Terms of Payment  
+  
+3.1. Unless agreed otherwise, the following terms of payment 
+shall apply:   
+(i) For Deliveries whose value is up to 10,000 Euro, 
+payment shall be effected upon receipt of the Delivery and the 
+submission of invoice;   
+(ii) For Deliveries whose value exceeds 10,000 Euro and 
+the delivery deadline is within three months, 1/3 of the price 
+shall be paid upon entry into contract and the submission of 
+invoice, and the rest upon receipt of the Delivery and the 
+submission of invoice;   
+(iii) For Deliveries whose value exceeds 10,000 Euro and 
+the deliver y period exceeds three months, 1/3 of the price shall 
+be paid at the time of entry into contract, 1/3 upon expiry of a 
+half of the delivery period and the submission of pro forma 
+invoices, and the rest upon receipt of the Delivery and the 
+submission of the  relevant invoice.   
+3.2. In the case payment in instalments has been 
+agreed, if one of the instalments is overdue Siemens 
+may declare all the other instalments due for payment 
+immediately.   
+3.3. Unless agreed otherwise, as a form of 
+security for its contractual obli gations the Purchaser 
+shall submit at least three signed blank bills of 
+exchange with proper authorisation, along with proof 
+of registration of the bills of exchange with the 
+National Bank of Serbia.   
+3.4. Unless agreed otherwise, advance payment 
+shall be effec ted no later than 15 days of the day of 
+Confirmation of Purchase Order i.e. of the entry into 
+contract. Siemens shall not be obliged to proceed with 
+the Delivery before receiving the advance payment. If 
+advance payment has not been effected even after 
+the expiry of the above -mentioned deadline, Siemens 
+may terminate the contract and request the payment 
+of damages. Should Siemens refrain from terminating 
+the contract, in addition to extending the Delivery 
+deadline to reflect the period during which the 
+advan ce payment has been overdue, Siemens 
+reserves the rights referred to in Paragraph 5.5.   
+3.5. In the case the Purchaser’s credit rating, as 
+evaluated by Solvent Rating doo and published at 
+www.boniteti.rs , is lower than B1, the terms of 
+payment shall be agreed separately.   
+  
+4. Retention of Title  
+  
+4.1. The subject of Delivery, in whole or in part, shall remain 
+the property of Siemens until the agreed price has been p aid in full. During that time, the Purchaser may not pledge, sell or 
+otherwise dispose of the Delivery or parts thereof. An exception 
+to such prohibition of disposal exists in the case where the 
+Purchaser sells the Delivery and/or parts thereof to the thir d 
+parties as part of its regular business operations, provided that 
+the Purchaser has informed such third parties of the rights of 
+Siemens in accordance with this Article, and that the third 
+parties have expressly consented thereto. Absence of such 
+informa tion and/or consent shall not result in termination or 
+absence of the rights of Siemens envisaged in this Article, but it 
+will additionally enable Siemens to request payment of 
+damages thus caused by the Purchaser.  
+4.2. In the case where the Purchaser dis poses with the Delivery 
+on behalf of the third parties, the act of disposal shall 
+automatically comprise the assignment to Siemens of  
+Purchaser’s receivable against the third party to be collected by 
+Siemens in accordance with Article 444, Paragraph 2, of  the 
+Law of Obligations. For clarification, in such case Siemens 
+reserves the right to collect the amount equivalent to the 
+agreed price either from the Purchaser or the third party, 
+whereas the relevant part of Purchaser’s obligation shall be 
+extinguished  only after the assigned receivable has been 
+collected. Siemens will return to the Purchaser any amount 
+collected from the third party based on the assigned receivable 
+exceeding the amount of debt owed to Siemens by the 
+Purchaser.  
+4.3. In the case where t he Purchaser disposes of the Delivery or 
+parts thereof on behalf of third parties in accordance with the 
+provisions of Paragraph 4.1. together with other deliveries, the 
+provisions of Paragraph 4.2. shall also apply to the part of such 
+deliveries to the th ird party corresponding to the value of 
+Deliveries to the Purchaser. 4.4. In the case where Deliveries 
+have been further processed or otherwise modified, the 
+retention of title shall continue to apply so that Siemens will 
+remain the owner of objects thus p rocessed or modified in 
+accordance with this Article. In case the subject of Delivery has 
+been fused or mixed with, or built into another object, Siemens 
+as the owner of the subject of Delivery shall become co -owner 
+of the object created by such fusion or mixture, or of the object 
+the subject of Delivery has been built into, and the provisions 
+of Paragraphs 4.1, 4.2, and 4.3, shall apply mutatis mutandis .  
+4.5. The Purchaser may collect the receivables assigned in 
+accordance with the provisions of Paragraph  4.2. until Siemens 
+notifies otherwise. The right of Siemens to such notification 
+shall exist particularly if the Purchaser is overdue or has stopped 
+making payment of the price, or if there are any circumstances 
+that may be considered grounds for bankrupt cy in accordance 
+with Article 11 of the Law on Bankruptcy; the existence of such 
+circumstances need not be established by a decision of the 
+competent state authority but it will be reasonably assessed by 
+Siemens based on the available evidence. At the mome nt of the 
+notification Siemens shall have the standing to request the 
+third party (debtor of the receivable assigned in lieu of 
+payment) to return the subject of Delivery, or to pay the 
+receivable assigned in lieu of payment.  
+4.6. The risk of accidental l oss or damage to the subject of 
+Delivery shall pass to the Purchaser at the moment it has been 
+handed to it. If the subject of Delivery has been insured, all 
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  3  
+receivables based on the insurance shall be deemed assigned 
+to Siemens for the collection of the a greed price.  
+4.7. Purchaser shall immediately notify Siemens of any claims 
+against the subject of Delivery, be them impending or enforced, 
+and submit all the relevant documentation available.  
+4.8. In the case of non -performance of contractual obligations 
+on the part of Pur chaser, Siemens as the owner may request 
+return of the subject of Delivery in whole or in part, which shall 
+in no manner prejudice its decision to eventually terminate the 
+contract.  
+  
+5. Delivery Deadline; Default and Consequences  
+  
+5.1. Timeliness of Deliv ery is dependant on timely receipt of all 
+documents, applicable permits, approvals, and particularly 
+plans, the provision of which need to be ensured by the 
+Purchaser, i.e. on the performance of Purchaser’s obligations 
+that precede the commencement of Deli very, such as advance 
+payment, organisation of the place of delivery, etc. If such 
+conditions have not been met, the delivery deadline shall be 
+extended for the period until the conditions have been met, 
+except where Siemens is liable for delay. The Delive ry deadline 
+shall extend for the relevant period in all other cases for which 
+Siemens may not be held accountable, such as force majeure , 
+administrative bans, strikes, IT system failures (despite 
+reasonable preventive measures), protests and blockades, 
+delays in the procurement process, etc.   
+5.2. In the case of delay in Delivery for which Siemens may be 
+held responsible, the Purchaser has the right to collect 
+contractual penalty in the amount of 0.5% of the value of the 
+delayed Delivery for each full cale ndar week of the delay. The 
+total amount of such contractual penalty may not exceed 5% of 
+the total value of the Deliveries that are the subject of the 
+contract. Along with the request for payment of the contractual 
+penalty, the Purchaser is obliged to sub mit relevant proof of 
+damages suffered.   
+5.3. Liability of Siemens for damages caused by delay in 
+Delivery shall exist only in the case of actual damage, while 
+liability for any loss of profit or consequential and indirect 
+damage is excluded. By the colle ction of contractual penalty in 
+accordance with Paragraph 5.2, any further claims of the 
+Purchaser shall be excluded.  
+5.4. The Purchaser may terminate the contract due to the delay 
+in Delivery only when the amount of contractual penalty has 
+reached its maximum. In such case, the contractual penalty 
+referred to in Paragraph 5.2 shall be deemed contractual 
+penalty payable for no n-performance, and this penalty is the 
+only claim the Purchaser may have against Siemens.  
+5.5. In the case where timely Delivery is not possible due to 
+circumstances that may be ascribed to the Purchaser (the case 
+of default by creditor), in addition to t he extension of deadline 
+in accordance with the provisions of Paragraph 5.1, Siemens 
+reserves the right to request from the Purchaser the payment 
+of expenses incurred by storing and insuring the subject of 
+Delivery for the relevant period, as well as all o ther logistical 
+costs arising therefrom. Moreover, where the Delivery is 
+delayed for such reasons for more than a month, Siemens is authorised to claim from the Purchaser all additional expenses 
+caused by such delay.   
+  
+6. Transfer of Risk  
+  
+6.1. If the Del ivery does not include assembly, mounting or 
+installation, the risk transfers at the moment when the Delivery 
+has been ready for dispatching to the agreed place and at the 
+agreed time. The same shall apply where it is agreed that 
+transportation cost will b e borne by Siemens, and Siemens 
+hands the goods over to a freight forwarder. Upon request and 
+at the expense of the Purchaser, Siemens will insure the 
+Delivery against usual transportation risks.   
+6.2. If the Delivery includes assembly, mounting or instal lation, 
+the risk transfers at the moment when it is received by the 
+Purchaser, or, if so agreed, after the test period. The test period 
+shall last as necessary to establish the proper functioning of the 
+subject of Delivery in accordance with its nature.  
+6.3. Should the forwarding or delivery, the beginning or the 
+end of assembly or installation, or the takeover by the 
+Purchaser, or the test period be delayed for a reason for which 
+the Purchaser is responsible, or should the Purchaser fail to 
+accept the del ivery for any other reason, it shall be deemed that 
+the risk passed to the Purchaser at the moment Siemens was 
+ready to perform its obligation. The rights of Siemens referred 
+to in Paragraph 5.5. shall also apply.  
+6.4. In the case of delivery by Siemens w ithin the Republic of 
+Serbia, the Siemens Global Shipping Policy  shall apply. For 
+goods produced in Siemens’ production plants, the insurance 
+shall be effective as soon as the goods leave the storage 
+premises from which the goods are sent for further direc t 
+transportation; for goods of other suppliers, the insurance shall 
+be effective at the moment of transfer of risk to Siemens, but 
+no earlier than as described above. The insurance shall cease as 
+of the moment the goods are placed in the area envisaged for  
+that purpose by the receiving party at the specified location 
+(exact place of delivery), i.e. as of the moment of placing the 
+goods in the storage. If the goods are placed directly on the 
+ground/foundations, such ground/foundations shall be 
+considered the  place of storage.  
+  
+7. Assembly, Mounting and Installation  
+  
+7.1. Unless otherwise agreed, assembly, mounting and 
+installation shall be subject to the following conditions: (i) The 
+Purchaser shall ensure in a timely manner and at its own 
+expense:  
+a) all ground and construction works, and other 
+accompanying services that are not within the scope of 
+Siemens’ business activities, as well as the necessary skilled 
+and unskilled labour, materials and tools;  
+b) materials and equipment necessary for assembly, 
+installation and commissioning, such as scaffolding, lifting 
+equipment etc., fuel and lubricants;  
+c) energy and water at the place of usage, including  
+connections, heating and lighting;  
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  4  
+d) suitable dry premises in the field, of sufficient size and 
+capacity to properly and safely store parts, machines, 
+devices, materials, tools, etc., and premises suitable for 
+work and rest of the staff engaged in installation, including 
+suitable sanitary facilities;   
+e) protective clothing and equipment suitable for specific 
+cond itions in the field.  
+(ii) Before the assembly or installation, the Purchaser is 
+obliged to obtain all construction permits and other necessary 
+approval by the competent public authorities, to notify the 
+authorities of the commencement of works, to perform all the 
+activities required by the applicable law, to enable the 
+performance of works within the scope of the Delivery, and to 
+provide all the necessary information regarding the location of 
+underground power lines, gas and water pipes and similar 
+installation s, as well as information concerning geotechnical 
+properties of the site.   
+(iii) Before the assembly or installation, the materials and 
+equipment necessary for the commencement of work must be 
+provided in the field and all preparations must reach the phase 
+in w hich the assembly or installation can start and proceed 
+unhindered in accordance with the agreement. Access roads to 
+the site and the site itself must be suitable for the subject of 
+Delivery.   
+(iv) Should the assembly, installation or commissioning be 
+delayed due to circumstances for which Siemens is not 
+responsible, the Purchaser shall bear reasonable costs incurred 
+by Siemens due to such delay.  
+(v) Each week, the Purchaser shall provide Siemens with 
+confirmation of the time spent on the work by the staff 
+engaged  in the installation and it shall immediately confirm to 
+Siemens in writing the conclusion of the assembly, installation 
+or commissioning.   
+(vi) Should Siemens request that the Purchaser perform 
+technical inspection and acceptance of the Delivery, the 
+Purchaser  shall do so within a week of Siemens’ request, as 
+otherwise it shall be considered accepted. Likewise, Deliveries 
+shall be considered accepted if they have been put into use 
+after any agreed test phase.   
+  
+8. Acceptance of Deliveries  
+  
+8.1. Delivery shall be considered performed at the time of 
+transfer of risk in accordance with the provisions of Article 6.  
+8.2. The Purchaser may not refuse to accept the Delivery in case 
+of minor deficiencies. A deficiency shall be considered minor if 
+it doe s not preclude regular use or functioning of the subject of 
+Delivery.   
+8.3. Should the Purchaser refuse to accept the Delivery for any 
+reason, and the Purchaser commences with commercial use of 
+the object of Delivery or disposes of it, it shall be conside red 
+that the Delivery has been performed at the moment of 
+commencement of commercial use or disposition thereof, 
+unless agreed otherwise.  
+  
+9. Liability for the Lack of Conformity  
+  9.1. The Purchaser is obliged to inspect each Delivery at the 
+time of acceptance with due diligence of a good 
+businessperson and expert at the time of acceptance. The 
+Purchaser shall, under the threat of losing the relevant rights, 
+immediately and without delay  notify Siemens of any 
+deficiencies discovered during such inspection. The notification 
+of such deficiencies shall contain appropriate description of the 
+deficiency, and reference numbers of the contract, the 
+Confirmation of Purchase Order and/or the Invoi ce.  
+9.2. In the case where the Purchaser forwards the Delivery to 
+third parties (buyers) without reloading and inspecting it, 
+Siemens shall not be liable for visible deficiencies, while any 
+latent defects must be reported within six months of the day of 
+Delivery regardless of when the Purchaser handed the subject 
+of Delivery to its buyers.   
+9.3. Purchaser shall notify Siemens of latent defects as soon as 
+the Purchaser learned thereof and without undue delay. The 
+liability of Siemens for latent defects sha ll cease six months 
+after the acceptance of Delivery, unless otherwise envisaged by 
+the mandatory provisions of the applicable law.  9.4. Upon 
+receipt of notification concerning the deficiency referred to in 
+this Article, Siemens shall be authorised to ins pect the 
+Deliveries affected by such deficiency and, at its discretion, 
+remedy the deficiency either by way of repair or by replacement 
+of the defective part or of the entire Delivery with a new, 
+deficiency -free Delivery. If Siemens is not allowed to inspe ct the 
+Delivery, which shall always include the original packaging and 
+the selection of the manner of remedying the deficiency, the 
+liability for such deficiency shall be precluded.  
+9.5. In the case of failure to remedy the deficiency within a 
+suitably ex tended deadline, the Purchaser may request that the 
+price be reduced by the amount corresponding to the 
+difference in the value of the subject of Delivery free of any 
+deficiencies and the value of the deficient subject of Delivery at 
+the moment of entry in to a contract; alternatively, the 
+Purchaser may terminate the contract in the manner and with 
+the consequences stipulated in Article 15.   
+9.6. The liability of Siemens shall be precluded in the case of 
+minor inconformity of the Delivery in terms of agreed  quality, 
+quantity and performance; the deficiencies that affect the 
+functionality of the Delivery to a small extent only; the 
+deficiencies that appeared after the acceptance of Delivery as a 
+result of improper or negligent handling of the Delivery in the 
+course of installation or assembly that were not performed by 
+Siemens; the deficiencies caused by inadequate storage 
+conditions from the moment of acceptance to the moment of 
+assembly or installation; the deficiencies resulting from the 
+failure to follow t he manufacturer’s or Siemens’ instructions, or 
+from unauthorised servicing of the subject of Delivery, as well 
+as from other circumstances that cannot be ascribed to 
+Siemens.   
+9.7. All the rights of the Purchaser in relation to any deficiency 
+shall expire  12 months after the timely notification of the 
+deficiency in accordance with this Article.   
+9.8. The Purchaser may refuse to pay the sale price only in the 
+amount corresponding to the value of works performed in order 
+to remedy the deficiency, or to the value of parts of Delivery 
+that need to be replaced. The above right of the Purchaser shall 
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  5  
+also expire 12 months after the day of notification of the 
+deficiency.   
+9.9. Preclusion or limitation of Siemens’ liability in relation to 
+any deficiency shall not  be valid in the case of intentional 
+damage or gross negligence, or if Siemens was aware of the 
+deficiency at the moment of acceptance.  
+  
+10. Warranty for Proper Functioning of the Subject of 
+Delivery   
+  
+10.1.   Warranty for proper functioning of the subject of Delivery 
+shall be 12 months following the day of the receipt of Delivery. 
+The Purchaser shall, under the threat of losing the rights under 
+warranty, immediately notify Siemens of any deficiencies that 
+have appeared after the receipt of Delivery and with in the 
+warranty period.   
+10.2.   With regard to timeliness and regularity of notifications, 
+the provisions of Paragraphs 9.1. and 9.2. shall apply mutatis 
+mutandis .   
+10.3.    With regard to the manner of remedying a deficiency 
+that has occurred within the warranty period, the provisions of 
+Paragraph 9.4. shall apply mutatis mutandis .  
+10.4.   Unless a deficiency is remedied within a reasonable 
+deadline, and the deficiency is of such nature that it does not 
+prevent the Purchaser from using the subject of Delivery 
+despite the deficiency, the Purchaser may claim the contractual 
+penalty amounting to 5% of the value of the part of Delivery 
+affected by the deficiency, and retain the Delivery, whereby 
+Siemens shall be relieved from further obligations. In case the 
+nature of the unremedied deficiency is such that as a result the 
+Delivery lacks the feat ures required for its regular use or trade, 
+the Purchaser may terminate the contract in the manner and 
+with the consequences envisaged under Article  
+ 
+10.5.   In the case of minor repair, the warranty shall be 
+extended only for the period in which the Purchaser was not 
+able to use the subject of Delivery, i.e. for the period from the 
+moment of notification of deficiency to the moment the 
+deficiency has been rem edied.  
+10.6.   When the entire Delivery has been replaced with a new 
+Delivery, or when substantial repairs have been made to the 
+subject of Delivery due to its malfunctioning, the warranty 
+period shall recommence from the moment of replacement or 
+repair. I f a part of Delivery has been replaced or repaired, the 
+warranty shall recommence for that part only.  In case of 
+extension of warranty period due to replacement of the entire 
+Delivery or due to replacement or repair of a part of Delivery, 
+that extended wa rranty period shall in any case expire 18 
+months after the receipt of the initial Delivery.  
+  
+  
+11. Industrial Property Rights, Protection from Legal Claims  
+  
+11.1.   Unless agreed otherwise, the Delivery shall be free of any 
+third party claims and rights in terms of protection of 
+intellectual property in the territory of the Republic of Serbia, 
+and of any other property related rights or claims. Should a third party make a claim against the Purchaser on any such legal 
+grounds, and provided that the Purchaser uses the subject of 
+Delivery in accordance with the contract, Siemens shall be 
+obliged to find, at its own discretion, a solution to the claim of 
+such third party, either by obtaining from the third party, at 
+Siemens’ expense, the permission to exercise th e relevant right, 
+or by modifying or replacing the Delivery so as to eliminate the 
+infringement of third party rights. Should Siemens fail to free 
+the subject of Delivery from such claims by third parties in the 
+manner chosen by Siemens, the Purchaser shal l be entitled to 
+terminate the contract in the manner and with the 
+consequences envisaged under Article 15.  
+11.2.   The above obligation of Siemens shall apply under the 
+following conditions: (i) the Purchaser has immediately notified 
+Siemens in writing of  any such claim by the third party; (ii) the 
+Purchaser has not admitted the claim of the third party; (iii) the 
+Purchaser has left to Siemens to take all the measures of 
+protection from the claim by the third party, as well as to 
+negotiate with the third p arty; and (iv) in the case the Purchaser 
+has stopped using the subject of Delivery following the claim of 
+the third party, the Purchaser has notified the third party that 
+the suspension of use does not comprise or imply any 
+admission of the third party’s c laim. 11.3.   Liability of Siemens 
+shall be precluded if the infringement of third party rights 
+occurred for any reason ascribable to the Purchaser, including 
+all cases where the infringement occurred because Siemens 
+abided by the Purchaser’s specification,  or because the subject 
+of Delivery has been used in the manner that Siemens could not 
+foresee, or because of modifications to the Delivery individually 
+made by the Purchaser, as well as because of the use of the 
+subject of Delivery together with other del iveries not 
+originating from Siemens.  
+11.4.   As regards notification of third party claims, the 
+provisions governing notifications of the lack of conformity 
+shall apply.  
+11.5.   Liability of Siemens on the grounds referred to in this 
+Article shall cease 1 2 months after the day of receipt of the 
+Delivery, while the rights of the Purchaser shall expire 6 months 
+after the day of notification of Siemens of the third party claim.  
+  
+12. Confidentiality; Data Protection; Subcontractors  
+  
+12.1.   Each party to the co ntract undertakes to maintain as 
+confidential all the information concerning the other party or 
+the scope of contract, unless such information has become 
+publicly available or known to either party in another lawful 
+manner.   
+12.2.   The same shall apply to  personal data about employees. 
+Each party is bound to protect such information from becoming 
+available to any third parties, to ensure compliance with the 
+Law on Personal Data Protection, and to oblige its employees 
+performing duties in relation to the co ntract to the same level 
+of confidentiality.  
+12.3.   The Purchaser agrees that Siemens may submit the 
+information about the Purchaser and/or the contract to other 
+members of the SIEMENS Group.  
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  6  
+12.4.   The Purchaser agrees that the Siemens may assign the 
+contract to any other member of the SIEMENS Group without 
+special consent of the Purchaser.  
+  
+13. Asbestos  
+  
+13.1.  Purchaser is responsible for ensuring that the Site, 
+including the ambient air and all parts of the plant which form 
+the subject of Siemens’ work, are free of asbestos whereby the 
+ambient air shall be deemed as free of asbestos, if the airborne 
+asbestos fi ber concentration does not exceed 1000 fibers/m³ 
+measured in accordance with a procedure acceptable to 
+Siemens. Upon request by Siemens Purchaser shall certify these 
+conditions. Siemens shall be entitled to perform corresponding 
+measurements. All necessary  measurements shall be effected 
+by a licensed and independent institute.  
+13.2.  In case aforementioned parts or ambient air are not free 
+of asbestos or so long as the absence of asbestos is not ensured, 
+Siemens is entitled to suspend work in the affected a reas and 
+to reject any delivery of asbestos -containing parts to its factory 
+or workshop until it is certified by an licensed and independent 
+institute that the Site and the parts are free of asbestos. 
+Siemens may nevertheless agree to perform certain limit ed 
+scope of work under defined protection measures to the extent 
+determined by the Siemens.  
+13.3.  Siemens shall be entitled to compensation for any 
+additional cost incurred and to an equitable adjustment in 
+schedule. Removal and final disposal of all asbestos shall be 
+performed by a specialist constructor ordered by the Purchaser 
+at Purchaser’s expense .  
+  
+14. Compliance with Export Control Regulations   
+  
+14.1.  If Purchaser transfers goods (hardware and/ or software 
+and/ or technology as well as corresponding documentation, 
+regardless of the mode of provision) delivered by Siemens or 
+work and services (inc luding all kinds of technical support) 
+performed by Siemens to a third party Purchaser shall comply 
+with all applicable national and international (re -) export 
+control regulations. In any event of such transfer of goods, 
+works and services Purchaser shall comply with the (re -) export 
+control regulations of the Republic of Serbia, of the European 
+Union and of the United States of America.  
+14.2.  Prior to any transfer of goods, works and services 
+provided by Siemens to a third party Purchaser shall in 
+particu lar check and guarantee by appropriate measures that   
+-There will be no infringement of an embargo imposed by the 
+Republic of Serbia, European Union, by the United States of 
+America and/ or by the United Nations by such transfer, by 
+brokering of contracts  concerning those goods, works and 
+services or by provision of other economic resources in 
+connection with those goods, works and services, also 
+considering the limitations of domestic business and 
+prohibitions of by passing those embargos;   
+- Such goods,  works and services are not intended for use in 
+connection with armaments, nuclear technology or weapons, if 
+and to the extent such use is subject to prohibition or authorization, unless required authorization is provided;  - The 
+regulations of all applica ble Sanctioned Party Lists of the 
+Republic of Serbia, European Union and the United States of 
+America concerning the trading with entities, persons and 
+organizations listed therein are considered.  
+14.3.  If required to enable authorities or Siemens to cond uct 
+export control checks, Purchaser, upon request by Siemens, 
+shall promptly provide Siemens with all information pertaining 
+to the particular end customer, the particular destination and 
+the particular intended use of goods, works and services 
+provided b y Siemens, as well as any export control restrictions 
+existing.  
+14.4.  Purchaser shall indemnify and hold harmless Siemens 
+from and against any claim, proceeding, action, fine, loss, cost 
+and damages arising out of or relating to any noncompliance 
+with exp ort control regulations by Purchaser, and Purchaser 
+shall compensate Siemens for all losses and  expenses resulting 
+thereof.  
+14.5.   Siemens shall not be obligated to fulfil this 
+agreement if such fulfilment is prevented by any impediments 
+arising out of n ational or international foreign trade or 
+customs requirements or any embargoes or other sanctions.  
+  
+  
+15. Termination of Contract; Consequences of Termination  
+  
+15.1.   The Purchaser may terminate the contract on the 
+grounds of non -performance in the cases envisaged by the 
+present General Conditions, provided that the Purchaser has 
+first granted Siemens a reasonably extended deadline to 
+remedy the breach of contract enti tling the Purchaser to 
+termination thereof, and that the Purchaser has submitted a 
+written notification of termination if the breach has not been 
+remedied within such reasonable deadline.  
+15.2.   In the case of termination of contract by the Purchaser, 
+and in any other case, the liability of Siemens shall be limited to 
+actual damage and shall not exceed the amount equivalent to 
+30% of the value of Delivery. Liability for any lost profit, indirect 
+or consequential damage is precluded. This limitation and/or 
+preclusion shall not apply in cases of intentional damage or 
+gross negligence on the part of Siemens.  
+15.3.   In the case of termination of contract at Purchaser’s will 
+(Article 629 of the Law of Obligations), the Purchaser is obliged 
+to pay the agreed pri ce for the part of Delivery performed thus 
+far, and for the part of Delivery that has been forwarded and 
+not yet received or is in the final stage of being received, while 
+for the remaining part of the Delivery the Purchaser is obliged 
+to pay to Siemens th e agreed price reduced by the amount of 
+costs not incurred by Siemens due to such termination.  
+15.4.    Siemens may terminate the contract should the  
+Purchaser fail to perform its obligations to a significant extent, 
+upon prior notification and with all l egal consequences arising 
+from such termination.  
+15.5.   If the Delivery became impossible for any reason for 
+which the Purchaser is responsible, or if it is suspended at 
+Purchaser’s request (Paragraph 5.5.) for a period exceeding 90 
+days, Siemens may term inate the contract and request 
+                                                        
+                                                                                                                                                                                                                     v.1.0.  
+Siemens Energy is a trademark licensed by Siemens AG.  7  
+payment of the amount to which Siemens would be entitled in 
+the case of termination of contract at Purchaser’s will 
+(Paragraph 15.3.).  
+15.6.   The Purchaser’s claims envisaged by these General 
+Conditions shall be the only cla ims against Siemens to which 
+the Purchaser is entitled, except for such claims arising from 
+binding provisions of the applicable law and those which the 
+Purchaser may not waive.  
+  
+16. Applicable Law; Competent Court  
+  
+16.1.  All disputes arising from the cont ract shall be settled 
+before the Commercial Court in Belgrade, and the law of the 
+Republic of Serbia shall be applicable. The application of the 
+United Nations Convention on Contracts for the International 
+Sale of Goods is precluded.   

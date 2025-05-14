@@ -1,0 +1,1022 @@
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted   
+ 
+ 
+ 
+ 
+011-00688_App_2   Fix Manufacturing or 
+Repair Method  
+ 
+Guidance for completion of the Method 
+Verification  Approval ( MVA) Form  
+ 
+Issue 2 
+ 
+ 
+ 
+ 
+Part A.  
+ 
+Part A provides a record of the proposal, its verification requirement and its disposition. 
+Completion of part A1 & A2 is carried out by the supplier Manufacturing Engineering. It is 
+required for all classified parts regardless where the part is being manu factured. Completion of 
+part A3 is carried out by the Siemens Task Owner.  
+ 
+Part B.  
+ 
+Part B is completed for all classified parts and is completed according to Work Instruction 011 - 
+00688. It defines the required verification and the rationale for the requi rements.  
+ 
+Part C.  
+ 
+Part C is completed for all classified parts and is completed according to Work Instruction 011 - 
+00688. It records the conclusions of the review of the verification results and the rationale for the 
+conclusions.  
+ 
+Revision History  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     eQMS+ 011-00688 & EBQR (Rev 2) B1.19 
+Export Control Declaration   
+Method Verification  Appro val 
+ 
+A3 Siemens Document Reference     Rev  
+ 
+A2 
+ 
+Vendors Document Reference  
+A4 
+ 
+Part A1: DESCRIPTION OF THE PROPOSAL AND SUPPORTING DATA  
+Process  for Request  for Affecting   
+ 
+ 
+Siemens Task Owner  
+ 
+Prime  Supplier  name  Vendor  code  Part Classification  
+A9 A10 A11 
+ 
+Fixed Process reference   
+Revision   
+DAR/Concession/RCI  reference  
+A12 A13 A14 
+ 
+Part number  Part name  Product/marque or  model  
+A15 A16 A17 
+ 
+Repair  schemes/Service  bulletins  Maintenance  plan Engine Manual chapter/section/Figure  item 
+ 
+ 
+Details of the  request:  A18 A19 A20 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For change of source / method the PA form(eQMS+ 011-00609 / EBQR B1.19 ) reference 
+is:  
+A22 A23 
+Number  of  continuation sheets  
+Similar or previous request references  :  
+A2: Reason  for the proposal  and supporting  data 
+Comments  A24 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+A26 
+ 
+ 
+ 
+Date submitted 
+Initiator name   
+ 
+A27  
+ 
+ 
+Implementation target date 
+Telephone number   
+ 
+A28 
+Email address for correspondence   
+Continued  
+A29 A30 A31 
+Part A3: RELEASE OF THE PRODUCTION METHOD / FIXED PROCESS  
+The Production Method / Fixed Process  is:  
+ 
+ 
+Comments  Approved.  Approved with  limitations.  Rejected.  Withdrawn.  
+ 
+  
+ 
+Task owner name and job  title Signature  Date  
+ 
+ 
+ 
+Distribution   
+A37 A33 A25 A21 A1 
+A7 A8 
+A32 
+A36 A5 A6 
+A34 A35 
+
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part A: Proposal  
+ 
+Part A provides a record of the proposal, its verification requirement and its disposition. Completion of 
+part A1 & A2 is carried out by the supplier Manufacturing Engineering. It is required for all classified 
+parts regardless where the part is being manu factured. Completion of part A3 is carried out by the 
+Siemens Task Owner.  
+ 
+Annotation A1:  Siemens  Document  reference  Return  
+ 
+This is the unique identifier used within Siemens manufacturing plants to identify the production method 
+verification and Method Verification  Approval request form. The Siemens Local Control Authority 
+allocates this reference for requests orig inating in the external supply chain.  
+ 
+Annotation  A2:  Rev. Return  
+ 
+In some circumstances requests are modified. In these circumstances use this box to add a revision 
+reference.  
+ 
+Annotation A3:   Export  Control Declaration  Return  
+ 
+The initiator uses this b ox to declare if there is any Export Controlled data in the form or supporting 
+documentation. Internal plants must follow their own local policy to determine the Export Control rating. If 
+Export Controlled information or data is associated with the verific ation then the requirements of each 
+sites local policy must be followed. If in doubt contact the local Export Control officer.  
+ 
+Annotation A4:  Vendors  document  reference  Return  
+ 
+This is not used for Siemens domestic manufacture. This is the unique identifier used by an external 
+Supplier to identify the method verification request.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part A1: Verification Requirements –Manufacturing Engineering 
+assessment  
+ 
+Annotation A5:  Process  for Return  
+ 
+Use the drop -down list to select the category of the process. The available categories are: - 
+ 
+• New manufacture. Select this if the process to be fixed is to create a part from raw 
+materials.  
+• Repair – Select this if the method is any sort of repair, not just  a repair that requires 
+Engineering control in accordance with RRES90000 (i.e. Controlled Book Repairs, 
+Overhaul Procedures, Critical  Repairs).  
+• Overhaul and Test - activities performed associated with Overhaul and Testing of an 
+engine.  
+ 
+ 
+Annotation A6:  Request  for Return  
+ 
+Use the drop down list to indicate the nature of the proposal. The options are:  
+• Baseline (New method/Fixed process). A Baseline is a new production method against 
+which subsequent changes will be evaluated for equivalenc e in result. For a new part 
+number or a change of source to a new Direct Supplier (Siemens operations or a first tier 
+supplier) select  Baseline.  
+• Source change. Select this option if there is to be a source change with no intended 
+change in method. (example machine A to machine B with all parameters remaining the 
+same)  
+• Method change. Select this option for a method change with no change in location.  
+(example change of machining or data card parameters, or change of sequence of 
+operations)  
+• Source and method change. (combination of the two  above)  
+ 
+Annotation  A7:  Affecting  Return  
+ 
+Use the drop -down list option of “Multiple applications” to indicate tha t the impact of the proposal is on a 
+material (e.g. a billet) that could be used to produce as yet unidentified part numbers, or if the change is 
+to a manufacturing process (e.g. a change to an Non Destructive Engineering (NDE) process) that would 
+affect a ll parts produced at the source.  
+ 
+Select the option “Affecting Specific parts/repairs if the impact of the proposal is limited to a set of 
+identifiable part numbers. For a “Baseline” proposal (i.e. new part) this may be left blank.  
+ 
+Annotation A8:  Siemens  Task  Owner  Return  
+ 
+The Siemens Task Owner is the responsible PPQ Leader  within Siemens. As such this will only be 
+filled out by Siemens upon receipt of the MVA . 
+ 
+Annotation A9: Prime  Supplier name  Return  
+ 
+This is the name of the Supplier with delivery responsibility for the component (referred to as the “Direct 
+Supplier” in RRES90000) and is therefore documenting the Fixed Process. Enter the name (together 
+with their product and process codes)  
+ 
+For Siemens domestic man ufacture the plant name is sufficient.  
+ 
+For tiered supply chains the supplier whom the Siemens Purchase Order is against is accountable for 
+initiating the proposal, that is, acts as the interface with the Control Authorities. No sub -tier should 
+directly su bmit an MVA  to Siemens.  
+ 
+Annotation A10: Vendor  Code  Return  
+ 
+Enter the vendor code as listed on the Purchase Order.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Annotation A11: Part Classification  Return  
+ 
+Use the drop down  list to select the correct classification from the options provided. The classification of 
+the part will be found on the drawing.  
+ 
+For certain legacy parts no classification may have been defined. In this case use the “legacy” or “legacy 
+rotating” classif ication or if in doubt leave blank.  
+ 
+Annotation A12 :Fixed Process  reference  Return  
+ 
+This is the unique identifier used for the Fixed Process Document (FPD) itself.  
+ 
+Annotation A13: Revision  Return  
+ 
+This is the revision number for the Fixed Process Document being submitted for approval. For new parts 
+this will be “baseline”. Subsequent changes will index through 1, 2, 3… or A, B, C… etc.  
+ 
+For a new Fixed Process Document on an existing part (e.g. from a change of source) begin the index at 
+1 or A etc . 
+ 
+Annotation A14: DAR/Concession/RCI  reference  Return  
+ 
+If the MVA  is being raised as part of an investigation supporting alteration to a drawing or Engine 
+Manual Instruction (e.g. to introduce an alternative manufacturing process) insert the tracking number of 
+the Drawing Alteration Request; the tracking number is suppl ied by the DAR controller), Concession 
+Request or Resolve Customer Issues (RCI) as applicable into this box.  
+ 
+The MVA  is in effect a specialist signature supporting the DAR investigation (like, for example, a stress 
+assessment) so providing the MVA  has the tracking number from the DAR investigator as evidence of 
+an authorised DAR investigation the MVA should be processed with the result fed back into the DAR 
+process.  
+ 
+Annotation A15: Part Number  Return  
+ 
+Enter the finished part number and/or any semi -finished product (e.g. forging or casting) impacted by the 
+change. Leave blank if the change is a generic material or process or source change, see annotation A7.  
+ 
+Note Siemens mandates one part number for MVA  form. For similar changes over multipl e parts a 
+suite of MVA ’s shall be submitted.  
+ 
+Annotation A16: Part Name  Return  
+ 
+Enter the name of the finished part or semi -finished product (e.g. forging or castings) impacted by the 
+change. Leave blank if the change is a generic material or process ch ange, see annotation A7.  
+ 
+Annotation A17: Product/marque  or model  Return  
+ 
+Enter the Products(s) including variant that will be impacted by the change. This is used to identify the 
+relevant Chief Engineer Product Change Board. It is acceptable for the supplier to leave this blank, 
+however the Task Owner shall fill this out before  the MVA is reviewed.  
+ 
+Annotation A18 :Repair  schemes/Service  Bulletins  Return  
+ 
+Applicable to Repair processes only. For new product manufacture mark with N/A.  
+ 
+For Repair if implementation is associated with a specific Repair Scheme or Service Bulletin t hen insert 
+the applicable number here to ensure traceability.  
+ 
+Annotation  A19:Maintenance  Plan Return  
+ 
+A Maintenance Plan (also known as a Route card) is a document that travels with the product within a 
+Repair & Overhaul facility.  
+ 
+Record the applicable Maintenance Plan Number associated with the requested change.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Annotation A20: Engine manual  chapter/section/Fig  item Return  
+ 
+Record the associated Chapter/Section/Fig Item from the Engine Manual applicable to the component 
+subject to the change i.e. 72 -31-16-01210. It is acceptable for the supplier to leave this blank, however 
+the Task Owner shall fill this out before the MVA is reviewed.  
+ 
+Annotation A21: Details of  the request  Return  
+ 
+For new parts (“baseline” see annotation A6) this may be left blank.  
+ 
+For a source and/ or method change enter a summary, in plain English free of acronyms and jargon, 
+of all the differences betw een the current and proposed production method. In particular  
+• For a source and/or method change, reference the associated eQMS+ 011 -00609 
+Preliminary Assessment (PA) using the box at the bottom of the section (annotation  A22).  
+• Cite changes to order of oper ations, machining techniques and process parameters. If the 
+order of operations has changed provide an overview of operation sequence in the current 
+and proposed manufacturing  method.  
+• List any changes to Special Processes and their data cards, referencing their revisions 
+and including  copies.  
+• For stock materials (e.g. forging stock, casting stock, powder, bar, plate, rings) state the 
+current and proposed  forms.  
+• Declare that parts of the manufacturing method that are not cited will not  change.  
+ 
+Annotation A22: For a change of source/ method the PA form reference  is Return  
+ 
+For a new part production method verification enter “Not Applicable”.  
+ 
+For a change to metho d and/or production source enter the reference number for the Gate -0 Preliminary 
+Assessment form (eQMS+ 011 -00609 / EBQR A4.2). This may provide further background information 
+that will influence verification, for instance non -conformance history or servic e issues.  
+ 
+Annotation A23: Number of  continuation  sheets  Return  
+ 
+Mark the continuation box if the continuation sheet is being used to record further detail. If the 
+continuation sheet is used be sure to use headings in the continuation sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotation A24: Similar or previous  request  references  Return  
+ 
+If similar requests have been made in the past enter the reference number of previous requests (from 
+annotation A1). These may be used to identify potential read -across data that could influence the 
+verification requirements.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part A2: Reason for the proposal and supporting data  
+ 
+Annotation  A25: Comments  Return  
+ 
+List the reasons why the change is required.  
+• Quality  improvements  
+• Greater operational  flexibility  
+• Cost improvements, whether it be unit or operational  cost 
+ 
+Annotation  A26: Continued  Return  
+ 
+Mark the continuation box if the continuation sheet is being used to record further detail. If the 
+continuation sheet is used be sure to use headings in the continuatio n sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotation A27: Date submitted  Return  
+ 
+Enter the date.  
+ 
+Annotation A28: Implementation  target  date Return  
+ 
+Enter the date when it is planned to implement the production method should approval be given. Enter 
+“no schedule” if there is currently no planned manufacture.  
+ 
+Annotation A29: Initiator  name  Return  
+ 
+Enter the name of the person in the supplier that has initiated the proposal and could be contacted for 
+discussions on business aspects of the request for production method verification.  
+ 
+Annotation A30: Telephone number  Return  
+ 
+Enter the telephone number for the Initiator of the verification request (annotation A29). Ensure that they 
+are legible.  
+ 
+Annotatio n A31: Email address  for correspondence  Return  
+ 
+Enter the e -mail contact details for the Initiator of the verification request (annotation A29). Ensure that 
+they are legible.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part A3: Release of the proposed Fixed Process/ Production Method  
+Section A3 confirms that all required verification actions have been completed the disposition of the 
+production verification is properly made and releases the results of verification of the production method 
+to eQMS+ 011 -00688.  
+ 
+The Siem ens task owner completes Part A3 after the proposed production method has been sentenced 
+by the provision of a completed verification report and completion of part C1 or C2. It is a notification to 
+the Supplier of the sentencing of the MVA request. This section cannot be completed until a Fixed 
+Process has been sentenced by the relevant Control Authorities.  
+ 
+Annotation A32 : The Production Method/ Fixed  Process  is: Return  
+ 
+The PPQ Leader should use the tick boxes to indicate the results of the review of verification evidence. 
+This includes results from verification specified in Part B and the conclusions of specialists from part C if 
+that was required. The options are: - 
+ 
+• Approved:  
+Indicate s that the MVA form shows agreement from the Local Control Authority and/or 
+Engineering Control Authority that the FPD gives satisfactory assurance that the design intent 
+will be delivered by the defined manufacturing process and control plan.  
+• Approved with  limitations:  
+Indicates that the Fixed Process has been approved by the relevant Control Authorities but 
+limitations have been applied e.g. for a limited number of parts to be produced. The details of 
+the limitation must accompany the MVA form back to the Supplier using the comment box, 
+annotation A43.  
+• Rejected  : 
+Indicates that the MVA form does not show agreement from the Local Control Authority 
+and/or Engineering Control Authority that the FPD gives satisfactory assurance that the 
+design intent will be delivered by the defined manufacturing process and control plan.  
+• Withdrawn:  
+Indicates that the Supplier has withdrawn the Fixed Process from consideration for approval. 
+This may have happened for instance because of problems with yield or di mensional errors. 
+Record the reason for withdrawal in the comment box, annotation A33.  
+ 
+Annotation  A33: Comment  Return  
+ 
+Use this to convey any instructions for disposition of parts. For example  a description of what has 
+happened to any parts made for verification purposes. For instance, they may have had temporary part 
+numbers to prevent their delivery to finished part stores but are now available for release, the Fixed 
+Process having been appro ved, or are to be scrapped in the case of a Fixed Process not being 
+approved.  
+ 
+When a Definition Alteration is required state here that the revised definition must be issued before the 
+revised Fixed Process is implemented.  
+ 
+Annotation A34: Task owner name and  job title Return  
+ 
+Enter the name and job title of the Siemens task owner. The Siemens task owner is an individual who 
+has demonstrated the competence (behavioural, technical and process) and is authorised to approve 
+documentation within the scope of their PPQ authorisation.  
+ 
+Annotation A35: Signature  Return  
+ 
+This is the signature of the person from annotation A32.  
+ 
+Annotation  A36: Date  Return  
+ 
+Enter the date on which the Fixed Process Document was sentenced at part C1 or part C2 if applicable. 
+Annotation A37: Distribution  Return  
+Add a list of people that have been sent a copy of the Method Verification  Approval form.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  
+ 
+. B5 
+ 
+ 
+ 
+ 
+ 
+ 
+                          eQMS+  011-00688  & EBQR  (Rev 1) B1.19  
+    Method Verification  Approval  Siemens Doc ument Reference  Rev  
+ 
+B2 
+Part B1: VERIFICATION REQUIREMENTS - Local Control Authority assessment  
+Assessment:  
+ 
+ 
+ 
+ 
+ 
+B4 
+ 
+Continued  
+ 
+ 
+Verify.      Engineering  Control  Authority  Approval  Required  Reject.  
+Verification requirements: (Limited production parts must not be released to stores)  
+ 
+ 
+ 
+ 
+B7 
+ 
+ 
+ 
+Local  Control  Authority  member  name  and job title  
+ 
+ 
+Signature   
+Continued 
+Date  
+B8 B9 B10 
+ 
+Local  Control  Authority  chair  name  and job title Signature  Date  
+ 
+Part B2: VERIFICATION REQUIREMENTS  - Engineering Control Authority assessment  
+Assessment:  
+ 
+ 
+ 
+ 
+ 
+B15 
+ 
+Enginee ring Control Authority decision :   
+ 
+B16  
+Continued  
+Verify.  
+Verification  requirements:  Verify  and delegate  assessment  of results  to Local Control  Authority  Reject.  
+ 
+ 
+ 
+  
+ 
+B18 
+ 
+ 
+ 
+Engineering  Control  Authority  member  name  and job title  
+ 
+ 
+Signature   
+Continued 
+Date  
+B19 B20 B21 
+ 
+Critical  parts  and lifing  member  name  and job title Signature  Date  
+B22 B23 B24 
+ 
+Engineering  Control  Authority  chair  name  and job title Signature  Date  B17 B3 
+B6 
+B14 B1 
+B11 B12 B13 
+B25 B26 B27 
+
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part B: Risk Assessment and Verification Requirements.  
+Part B records the assessment of the risk that the proposed Fixed Process will not deliver the design 
+intent together with the consequent work that will be needed to verify the proposed Fixed Process. Parts 
+B1 and B2 are completed by the Local Control Authority (LCA) and the Engineering Control Authority 
+(ECA) respectively for characteristics that cannot be verified by inspection during or after production.  
+ 
+Annotations B1  & B2: Siemens  Document  Reference  Return  
+ 
+See annotations A1 & A2 respectively.  
+ 
+Part B1: Risk Assessment and Verification Requirements – Local 
+Control Authority Assessment:  
+Annotation B3:  Assessment  Return  
+ 
+To be filled out by Siemens mater ials engineer and PPQ Leader . 
+For change proposals:  
+Describe the effect of the proposed Fixed Process on the component e.g. surface finish, dimension fit 
+within acceptable band, run outs, cusps, effects on underlying material proper ties, likelihood and 
+consequence of non -conformance to manufacturing output.  
+ 
+What is the assessment of the proposed manufacturing capability (new method and /or source)? State 
+the reasoning behind this assessment e.g. demonstrated capability on new parts.  
+ 
+For forgings and castings what is the opinion of a specialist in these areas?  
+ 
+What technical risks are there associated with the Fixed Process and who was involved in assessing 
+them?  
+ 
+State the rationale and evidence to justify the risk ranking decision and the Local Control Authority’s 
+sentencing decision.  
+ 
+If the people entering comments in B3 are not the same for B5 through B13, comments must be 
+annotated with the name of who made the comments with their signature.  
+ 
+Annotation B4:  Continued  Return  
+ 
+Mark the continuation box if the continuation sheet is being used to record further detail. If the 
+continuation sheet is used be sure to use headings in the continuation sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotat ion B5:  LCA Decision:  Return  
+ 
+Use the tick boxes to indicate the decision of the Local Control Authority. The available options are: - 
+ 
+• Verify  
+Select this option if the Local Control Authority considers that verification work is justified to 
+evaluate the proposed Fixed Process. Verification work is justified if the risk that the proposed 
+verification results would lead to the proposed method being rejected is low.  
+The technical risks associated with the change must present a low risk to compon ent integrity, 
+performance or reliability (refer to the rules in step 1 and 3 of eQMS+ 011 -00688 work 
+instruction ). 
+The Local Control Authority may recommend that parts could be manufactured “at risk” ahead of 
+the Fixed Process approval to provide items fo r a verification programme or in order to meet 
+production schedules. This recommendation should be recorded here together with the rationale 
+and any limitations to quantities.  
+Any such recommendation should consider the risk to delivery schedules. External  suppliers 
+must accept the risk that the parts may be scrapped and that they will not be paid for them 
+unless explicitly agreed with Siemens via a Purchase Order. The approval to manufacture 
+parts “at risk” is taken as a project management decision as part  of eQMS+ 011 -00609  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  gate 1 Parts must not be allowed to proceed to stores until the production method is 
+approved so that effective systems must be in place to identify and segregate them.  
+• Engineering Control Authority Approval  Required  
+Select this option if the Local Control Authority considers that the change presents more than a 
+low risk to component integrity, performance or reliability but verification actions will probably 
+establish that the hazard is not present and that therefore Engineering Control Authority input is 
+required to evaluate the proposal.  
+• Reject.  
+Select this option if the Local Control Authority considers that the technical risks associated with 
+the change cannot be effectively mitigated or the verification results ar e likely to lead to a 
+rejection of the method. No further work will be carried out to evaluate the Fixed Process.  
+ 
+Annotation B6 : Verification  requirements  Return  
+ 
+List the actions the Local Control Authority considers necessary to verify that the proposal will satisfy the 
+design intent for new parts or that the change to the Fixed Process will maintain equivalence of parts 
+produced by the new FPD with those produced by the previous FPD.  
+ 
+State any actions to evaluate items currently being produced e.g. Last Article Inspection. All of the 
+verification actions necessary to demonstrate a sufficiently low probability of the proposed Fixed Process 
+producing an adverse impact on design intent must be capable of evaluation against objective pass -fail 
+criteria e.g. comparison against a standard.  
+ 
+State any actions to demonstrate process capability.  
+ 
+Note: A PPQ should not be specified as a verification action here since this is specified in Part A3. The 
+primary purpose of sections B & C (the MVA) is to co nsider risks to characteristics that cannot 
+practically be verified by inspection e.g. material condition; the PPQ  process considers conformance to 
+all aspects of the component specification including dimensions. In practice both processes will operate 
+in parallel so to avoid extra work the information requested for MVA approval should be in the format 
+suitable for the PPQ  pack.  
+ 
+Annotation B7:  Continued  Return  
+ 
+Mark the continuation box if the continuation sheet is being used to record further detail.  If the 
+continuation sheet is used be sure to use headings in the continuation sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotation B8:  LCA member Name and  job title.  Return  
+ 
+Enter the name and title of any other person included in the Local Control Authority in addition to the 
+Local Control Authority chair. If there is more than one person enter their details on the continuation 
+sheet.  
+ 
+Annotation B9:  Signature  Return  
+ 
+This is the signature of the person from annotation B8.  
+ 
+Annotation  B10: Date  Return  
+ 
+Enter the date of the signature made at annotation B9.  
+ 
+Annotation B11: LCA Chair Name and  job Title Return  
+ 
+Enter the name of the Local Control chair and their Job title and ensure that it is legible.  
+ 
+Annotati on B12: Signature  Return  
+ 
+The Local Control Authority chair signs here as the accountable signatory for the Local Control Authority. 
+Annotation  B13: Date  Return  
+Enter the date when the signature at annotation B12 was made.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part B2: Risk Assessment and Verification Requirements – 
+Engineering Control Authority Assessment  
+This part records the Engineering Control Authority (ECA) assessment of the risk associated with the 
+risk and the actions that will provide the evidence that the propo sed Fixed Process will be satisfactory. 
+For new parts see rules for membership of the Engineering Control Authority at step 2 and 4 of 
+eQMS+ 011 -00688 work instruction . 
+ 
+Annotation  B14: Comments  Return  
+ 
+Use this section records any additional risks perceived by the ECA to those recorded by the LCA in part 
+B1. For example, such risks may come from knowledge of performance in service or knowledge of 
+similar parts at other suppliers.  
+ 
+Annotation B15: Continued  Return  
+ 
+Mark the continuation box if the co ntinuation sheet is being used to record further detail. If the 
+continuation sheet is used be sure to use headings in the continuation sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotation B16: ECA decision  Return  
+ 
+Use the drop -down list to indicate the decision of the Engineering Control Authority. The available 
+options are: - 
+ 
+• Verify  
+Select this option to signify that the Engineering Control Authority agrees with the Local Control 
+Authority decision that work is justified to evaluate the proposed Fixed Process.  
+The Engineering Control Authority may confirm the Local Control Authority assessment 
+(annotation B5) that parts could be manufactured “at risk” ahead of the Fixed Process approval 
+to provide items for a ver ification programme or in order to meet production schedules. This 
+confirmation should be recorded here.  
+The approval to manufacture parts “at risk” is taken as a project management decision as 
+part of eQMS+ 011 -00609 gate 1 Parts must not be allowed to pr oceed to stores until the 
+production method is approved so that effective systems must be in place to identify and 
+segregate them.  
+• Verify and delegate assessment of results to  LCA 
+For new parts leave blank since the review of verification evidence cannot b e delegated to the 
+Local Control Authority.  
+For change proposals select this option if the Engineering Control Authority is content that the 
+Local Control Authority can review any verification evidence and sentence the change . See 
+rules at step 4 of eQMS+ 011 -00688 work instruction for restrictions on Local Control 
+Authority to sentence change.  
+• Reject  
+Select this option to reject the proposal to adopt the new Fixed Process if the Engineering 
+Control Authority considers that th e technical risks associated with the proposal cannot be 
+effectively mitigated. No further work will be carried out to evaluate the Fixed Process.  
+ 
+Annotation B17: Verification actions  Return  
+ 
+A verification programme  is always required for new parts. 
+For change proposals:  
+• If the Engineering Control Authority considers that there additional or different verification 
+requirements to those proposed by the Local Control Authority use this box to detail these 
+additional re quirements. Record why evidence from the verification actions or evidence read 
+across from previous changes will be satisfactory to demonstrate mitigation of risk. 
+• Write “None” in this box if the verification proposals of the Local Control Authority are co nsidered 
+adequate to demonstrate that parts will remain equivalent after the  change.  
+ 
+Note: A PPQ should not be specified as a verification action since the PPQ  cannot be completed until 
+the Fixed Process is approved so a circular logic is introduced. In stead think about what  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  information/requirement of interest would be evaluated in the process of putting together the PPQ  and 
+directly ask for that information/evaluation to be supplied as evidence.  
+ 
+Annotation B18: Continued  Return  
+ 
+Mark  the continuation box if the continuation sheet is being used to record further detail. If the 
+continuation sheet is used be sure to use headings in the continuation sheet to indicate what section of 
+the MVA the information refers to.  
+ 
+Annotation B19 : ECA member Name and  Job Title Return  
+ 
+Enter the name and job titles of the persons that have been involved in the review. Ensure that they are 
+legible. The Chief Engineers and other specialists sign here if they have been involved in the review.  
+Select the yes option in the continued box (Annotation B 18) and use the continuation sheet to record 
+extra names if there are more names than provision is made for here.  
+ 
+Annotation  B20: Signature  Return  
+ 
+Enter the signature of the person from ann otation B19. Select the yes option in the continued box 
+(Annotation B 18) and use the continuation sheet to record extra signatures if there are more signatures 
+than provision is made for here.  
+ 
+Annotation  B21: Date  Return  
+ 
+Enter the date the signature at annotation B20 was made.  
+ 
+Annotation B22: Critical parts and lifing member name and  job title Return  
+ 
+Enter the name and job title of  the critical parts and lifing member. Ensure that it is legible.      
+Annotation B23: Signature  Return  
+Enter the signature of the person identified at annotation B22.  
+ 
+Annotation  B24: Date  Return  
+ 
+Enter the date the signature at annotation B23 was made.  
+ 
+Annotation B25: ECA chair name  and title  Return  
+ 
+Enter the name and job title of the Engineering Control Authority Chair. Ensure that it is legible. 
+Annotation B26: Signature  Return  
+Enter the signature of the person identified at annotation B25.  
+ 
+Annotation  B27: Date  Return  
+ 
+Enter the date the signature at annotation B26 was made.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  
+C9 C10 
+C19 C18  
+ 
+ 
+ 
+ 
+ 
+ 
+eQMS+  011-00688  & EBQR  (Rev 1) B4.7  
+Method Verification Approval  Siemens Document Reference   Rev  
+ 
+C2 
+Part C1: REVIEW AND SENTENCING OF VERIFICATION EVIDENCE - Local Control Authority  
+Comments:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C4 
+ 
+ 
+ 
+Approved.   
+C5 
+Approved with limitations.   
+Continued  
+ 
+ 
+Engineering  Control  Authority  Approval  Required  Rejected.  
+Local  Control  Authority  member  name  and job title Signature  Date  
+C6 C7 C8 
+ 
+Local  Control  Authority  chair  name  and job title Signature  Date  
+ 
+Part C2: REVIEW AND SENTENCING OF VERIFICATION EVIDENCE - Engineering Control Authority  
+Comments:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C13 
+ 
+ 
+Engineering Control Authority decis ion :  
+Approved.   
+ 
+C14  
+ 
+ 
+Approved  with limitations.   
+Continued  
+ 
+ 
+Rejected.  
+Engineering  Control  Authority  member  name  and job title Signature  Date  
+C15 C16 C17 
+ 
+Critical  parts  and lifing  member  name  and job title Signature  Date  
+ 
+Engineering  Control  Authority  chair  name  and job title Signature  Date  
+C21 C22 C23 C3 
+C12 C1 
+C11 
+C20 
+
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part C:  
+Part C of the form is used to record the evaluation of evidence from any actions proposed in part B. 
+Annotation C1 & C2 : Siemens reference for this request  & Rev Return  
+See annotations A1 & A2 respectively.  
+ 
+Part C1: Review of verification evidence –Local Control Authority  
+Annotation C3:  LCA Assessment comments:  Return  
+ 
+For change proposals use this box to record the rationale for reaching the decision made. Reference any 
+supporting documents or reports and ensure that any such material will be retrievable as a category A 
+record.  
+ 
+Annotation  C4: Continued  Return  
+ 
+If the continuation sheet is being used to record further information  use the drop -down list to indicate yes 
+or select no if this is not the case. If the continuation sheet is used be sure to use headings in the 
+continuation sheet to indicate what section of the MVA the information refers to.  
+ 
+Annotation C5:  LCA Decision  Return  
+ 
+Use the tick boxes to indicate the decision of the Local Control Authority. The available options are: - 
+ 
+• Approved  
+For change proposals select this option if the Local Control Authority considers that the 
+verification evidence meets the requirement s defined in part B.  
+See rules at step 4 of eQMS+ 011 -00688 work instruction for restrictions on Local Control 
+Authority to sentence change.  
+Approval by the Local Control Authority is permissible only if: - 
+o Assessment is against defined pass/fail criteria such as microstructural  standards  
+o There are no safety policy or other restrictions (e.g. from Engineering Standards) 
+that require approval from other  signatories.  
+o No test programme or parts were required,  
+o There is no need to change to a  drawing  
+Note: Changes to unit cost or changes to recurring and non -recurring costs (e.g. tooling and 
+gauging) will need approval of the commercial risks associated with source and method change 
+by operating eQMS+ 01100609 Control Production system change.  
+• Approved  with limitations  
+Select this option if the decision is to approve the proposed FPD for a defined quantity, batch or 
+time period only. The serial numbers, batch numbers, or time period (respectively) must be 
+clearly defined in part A3 of the form. The Fix Manufacturing or repair method Work Instruction 
+prohibits the use of a Limited Approval MVA in place of a Concession application. This option 
+can be used under a variety of situations such as: - 
+o A Supplier may decide not to pursue a requested change beca use the process did 
+not deliver the expected business benefit and the sample parts conform to drawing 
+and equivalence requirements. The FPD must be retained on file and no drawing 
+changes are  permissible.  
+o Acceptable hardware is available and is required pr ior to having a final detail 
+(editorial) in the FPD completed. The parts may conform to the drawing via an 
+approved Concession Application, but additional work is required and proven before 
+final acceptance. Once all required data is obtained the Limited A pproval can be 
+revised to a full approval by submission of a change proposal in the normal  way. 
+• Engineering Control Authority Approval  Required  
+Select this option to signify that ECA input is needed to sentence the change. This may be 
+because:  
+o The proposal  has the potential to effect the equivalence of fit, form or function and 
+so was forwarded to the Engineering Control Authority in part B (see annotation  B5). 
+o The verification evidence does not have an objective pass/fail  criterion.  
+o The verification evidence does not meet the defined criteria (i.e. reject decision) but 
+the LCA considers that the ECA may nevertheless assess the Fixed Process as 
+being  satisfactory.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  • Rejected  
+Select this option if the Local Control Autho rity considers that verification evidence cannot meet 
+the requirements defined in part B. Improvement activities may be appropriate followed by 
+resubmission of verification evidence for the revised Fixed Process.  
+ 
+Annotation C6: LCA member name  and Title Return  
+ 
+Enter the name and title of any other person included in the LCA in addition to the LCA chair. If there is 
+more than one person enter their details on the continuation sheet section. Ensure that these details are 
+legible.  
+ 
+Annotation  C7: Signature  Return  
+ 
+This is the signature of the person from annotation C6.  
+ 
+Annotation  C8: Date  Return  
+ 
+Enter the date of the signature at annotation C7.  
+ 
+Annotation C9:  LCA Chair Name  and Title Return  
+ 
+Enter the name of the Local Control Authority chair and their Job title. Ensure that these are legible. 
+Annotation  C10:  Signature  Return  
+This is the signature of the person in Annotation C7.  
+ 
+Annotation  C11:  Date  Return  
+ 
+Enter the date of the signature at annotation C10.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Part C2: Review of verification evidence – Engineering Control 
+Authority  
+This part is used to record the ECA evaluation of evidence from any actions proposed in part B. 
+Annotation C12: ECA Assessment  comments  Return  
+Use this box to record the rationale for reaching the decision on how to sentence the proposed Fixed 
+Process.  
+ 
+Annotation  C13:  Continued  Return  
+ 
+If the continuation sheet is being used to record further information use the drop -down list to indicate yes 
+or sel ect no if this is not the case. If the continuation sheet is used be sure to use headings in the 
+continuation sheet to indicate what section of the MVA the information refers to.  
+ 
+Annotation C14: ECA decision:  Return  
+ 
+See the rules at step 4 of eQMS+ 011 -00688 work instruction for restrictions on Engineering 
+Control Authority to sentence change.  
+ 
+Use the tick boxes to indicate the decision of the Engineering Control Authority. The available options 
+are:- 
+ 
+• Approved  
+For a  new part enter a mark in this box if, after reviewing the verification evidence from part B, it 
+is considered that the proposed Fixed Process will deliver the design intent.  
+For change request enter a mark in this box if, after reviewing the verification evidence from part 
+B, it is considered that the proposed change will maintain the equivalence of the part.  
+• Approved with  limitations  
+Select this option if the decision is to approve the proposed FPD for a defined quantity, batch or 
+time period only. The serial numbers, batch numbers, or time period (respectively) must be 
+clearly defined in part A3 of the form. The Fix Manufacturing or r epair method Work Instruction 
+prohibits the use of a Limited Approval MVA in place of a Concession application. This option 
+can be used under a variety of situations such as: - 
+o A Supplier may decide not to pursue a requested change because the process di d 
+not deliver the expected business benefit and the sample parts conform to drawing 
+and equivalence requirements. The FPD must be retained on file and no drawing 
+changes are  permissible.  
+o Acceptable hardware is available and is required prior to having a fi nal detail 
+(editorial) in the FPD completed. The parts may conform to the drawing via an 
+approved Concession Application, but additional work is required and proven before 
+final acceptance. Once all required data is obtained the Limited Approval can be 
+revised to a full approval by submission of a change proposal in the normal  way. 
+• Rejected  
+Select this option for a new part if, after reviewing the verification evidence, it is considered that 
+the proposed Fixed Process will not deliver the design intent.  
+Select this option for a change request if, after reviewing the verification evidence, it is 
+considered that the proposed change will not maintain the equivalence of the part to the original 
+approved (e.g. certified) definition.  
+ 
+Annotation C15: ECA member name and  Job title Return  
+ 
+Enter the name and job titles of the persons that have been involved in the review. The Chief Engineers 
+and other specialists sign here if they have been involved in the review. Ensure that details are legible.  
+ 
+Select yes in the drop -down list in the continuation box (annotation C13) and use the continuation sheet 
+to record extra signatures if there are more signatures than provision is made for here.  
+ 
+Annotation  C16:  Signature  Return  
+ 
+Enter the signature of the person identified in box C15.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Annotation  C17:  Date  Return  
+ 
+Enter the date the signature at annotation C16 was made.  
+ 
+Annotation C18: Critical parts and lifing member name and  job title Return  
+ 
+Enter the name and job title of  the critical  parts and lifing member. Ensure that it is legible.      
+Annotation  C19:  Signature  Return  
+Enter the signature of the person identified at annotation C18.  
+ 
+Annotation  C20:  Date  Return  
+ 
+Enter the date the signature at annotation C19 was made.  
+ 
+Annotation C21 : ECA chair name and  job title Return  
+ 
+Enter the name and job title of the Engineering Control Authority Chair. Ensure that this is legible. 
+Annotation  C22:  Signature  Return  
+This is the signature of the person from annotation C21.  
+ 
+Annotation  C23:  Date  Return  
+ 
+Enter the date at which the signature at annotation C22 was made.  
+011-00688_App_2   Rev 7/2017 Confidential © Siemens company  2017 All Rights Reserved   
+Restricted  Revision  History  Return  
+ 
+Issue  Date  Reason for issue  
+1 06Jan2017  First Issue as part of the Siemens electronic Quality Management System  
+2 27Nov2020  Minor changes incorporated FPA to MVA  and PPQ Leaders  
+ 

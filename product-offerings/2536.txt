@@ -1,0 +1,684 @@
+Lorem ipsum l Veribus  
+dolorpro  
+DigiTRON
+Site Received Test  Manual 
+SRT-001 Rev07
+siemens -energy.com  
+Electrical Flying Leads, Jumpers and Harness Assemblies
+Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  2 of 17 
+Unrestricted  Thank you for purchasing a Siemens Energy  Subsea product.  
+IMPORTANT  
+READ CAREFULLY BEFORE USE  
+KEEP FOR FUTURE REFERENC E 
+This doc ument must be read in conjunction with the Installation , Operation  
+and Mainten ance document IOM -001, which conta ins all specifications , 
+product use instructions and product  safety information.  
+This can be found on S ieme ns Energy  Subsea  website  
+https://www.siemens -energy.com  / search Subsea  
+07 J. Keith 02/02/2021  D.Church 02/02/2021  IR storage and temperature statement 
+added to section 11 . 
+6 R. Wyatt 25/09/2020  R. Wyatt 25/09/2020  Statement added to use this document in 
+conjunction with IOM -001. 
+H&S section updated.  C ontact details 
+added . 
+5 L.Belcher 04/10/2018  J.P.Smith  04/10/2018  Ethernet testing added throughout  . Earth 
+CP core test note added  
+4 L.Belcher 09.06.2015  M.D.Bell 09.06.2015  Warning note with regard to lifting and PPE 
+added at Section 6.  Cable Assemblies 
+added to IR in section 11.  
+3 P.Westwell 29.4.2014  B.Leach 29.4.2014  New Cover design & complete document 
+reformat.  
+2 L.Belcher B.Leach 18.3.2014 Re-format, vario us text amendments, 
+gene ral updates  
+1 P.Westwell B.Leach 1.8.2013  First issue  
+By Date  By Issue 
+Date  
+Rev Compiled  Checked Remarks  
+© Siemens Subsea Connectors,  Page No.  
+(a division of Siemens plc), Subsea Excellence 
+Centre, Ulvers ton, Cumbria, LA12 9EE, En gland  2 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  3 of 17 
+ 
+Unrestricted  Contents  
+ 
+1. INTRODUCTION  ................................ ................................ ...........................  4 
+2. SCOPE  ................................ ................................ ................................ ..........  4 
+3. CONTACT DETAILS AND FEEDBACK  ................................ ......................  4 
+4. ABBREVIATIONS  ................................ ................................ ........................  5 
+5. PURPOSE  ................................ ................................ ................................ ..... 6 
+6. RESPONSIBILITIES  ................................ ................................ .....................  6 
+7. HEALTH & SAFETY  ................................ ................................ .....................  6 
+8. VISU AL INSPECTION AND CHECKS  ................................ .........................  7 
+9. ELECTRICAL TESTING  ................................ ................................ ...............  9 
+10. CONTIN UITY TEST  ................................ ................................ ....................  10 
+11. IR TEST  ................................ ................................ ................................ ...... 12 
+12. CUSTOMER COMMENTS / FEEDBACK  ................................ ...................  17 
+ 
+ 
+ 
+ 
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  4 of 17 
+ 
+Unrestricted   
+1. INTR ODUCTION  
+This document is to provide the customer a simple test and check  procedure to perfo rm on 
+receipt of supplied Electrical Flying Leads, Jumpers and Harnesses to confirm 
+identification, quality and operation.  
+. 
+This doc umen t must be read in conjunction with the Installation , Operation  and 
+Mainten ance document IOM -001, whi ch contains  all specifications , product use 
+instructions and product  safety information.  
+ 
+This can be found on S ieme ns Energy  Subsea  website  https://www.si emens -energy.com  
+/search Subsea  
+ 
+2. SCOPE  
+This document defines the proc edure and equipment required to carry out the Site 
+Received Test o n Electrical Flying Leads, Jumper and Harness. This is to determine no 
+damage has taken place in tra nsit and the EFL / J UMPER / HARNESS is fit to be 
+deployed. This test will also confirm bas ic electrical performance.  
+ 
+3. CONTACT DETAILS AND FEEDBACK  
+For addit ional information or questions regards the products visit the Siemens Energy  
+website www. Siemens Energy .com/subsea  /search Subsea or contact the following . 
+ 
+Department  E-mail address  
+Product Safety  Officer  subsea.connectors.produc tsafety.gb@siemens -
+energy.com  
+Technical Support  connectortechnicalsupport.gb@siem ens-energy.com  
+Service (Site Team)  susultlcmsupport.gb@sie mens -energy.com  
+Sales  connectorsales.gb@siemens -energy.com  
+ 
+Any info rmation, records , or Health and Safety feedback that needs to be detailed can be 
+recorded in  section  13 of this document and sent to the relevant email address.  
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  5 of 17 
+ 
+Unrestricted   
+4. ABBREVIATIONS  
+ 
+A  Ampere  
+AC  Alternating Current  
+Assy   Assembly  
+API  American P etroleum Institute  
+AWG   American Wire Gauge  
+BOM   Bill o f Material  
+°C  Degree Celsius  
+CE  Community Europea n 
+Comms  Communication Signal  
+CP  Cathodic Protection  
+DC  Direct Current  
+DWG   Drawing  
+EFL   Electrical Flying Leads  
+EMF   Electrical Magn etic field  
+FAT   Factory Acceptance Test  
+IR   Insulation Resistance  
+ISO   International Organization for Standardization  
+ITP       Inspection Test Plan  
+K   Kelvin  
+LTC   Long Term Cover  
+M   Metres  
+Max.   Maximum  
+MFG   Manufacturer  
+Min.   Minimum  
+No.   Numbe r 
+ROV     Remo tely Operated Vehicle  
+SI   Standard International  
+SRT   Site Received Test  
+SST   Stainless Steel  
+TBD   To Be Defined  
+TSP          Twisted Screened Pairs  
+UNS   Unified Numbering System for Metals and Alloys  
+V   Volt 
+   
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  6 of 17 
+ 
+Unrestricted  5. PURPOSE  
+The purpose of this document is to ensure that the Site Received Test is performed w here 
+specified, on all AquaTRON oil -filled electric al jumpers and cable harness assemblies. IR 
+and Continuity tests will be performed along with a visual inspection for any damage pre 
+and post test.  
+6. RESPONSIBILITIES  
+It is the operators’ responsibility to c omply with this instruction and to ensure all test  
+equipment is within calibration and report any problems to the Quality Control Inspector.  
+ 
+The operator shall also be responsible for co mpleting the T est Results Sheets.  
+All tests shall be carried out wit hin a test cell, or specifically designed test area , which shall  
+be clearly identified. Controlled access to such areas shall be enforced.  
+Care must be taken during handling, any damage t o the hose or connectors can result in  
+schedule delays.  
+7. HEALTH & SAFE TY 
+Before any work begins , document IOM -001 must be  referred to for safety 
+information  relating to the product and use of.  
+ 
+Only suitably qualified and ex perienced person s (SQEP)  should perform the tasks listed  in 
+this document . 
+ 
+All high voltage equipment  should have  been checked for safety within the las t 12 months 
+from the date of use.  
+The operator shall  be protected from electrocution by earth -screened enclosures that 
+conta in the H.V.  hazard . 
+After every H.V. test, an earth stick shall be used to ensure  that the conductors are  
+discharged.  
+For tests invo lving D.C. sufficient time must be allowed for the circuit to discharge before  
+touching the conductors. The discharge period  shall be at  least equal to the period of  
+charging.  
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  7 of 17 
+ 
+Unrestricted  8. VISUAL INSPECTION AND CHECK S 
+• Upon receipt of EFL / Jumper  / Harness please han dle in accordance with 
+procedures detailed in the IOM manual.  
+ 
+• Each page of this document contains a signature section to be completed b y the 
+user.  
+ 
+• Visual inspection for damage to be completed by Siemens trained technician . 
+ 
+Please use check box as show n                                    Pass  ✓               Fail   
+ 
+Check EFL / Jumper / harness and connectors are correct to parts ord ered.  If EFL  
+ is terminated with incorrect parts please stop test an d inform Technical Dept............ 
+ 
+Lay out EFL flat on a clean surface and check entire length for any visual  damage or leaks.  
+Some example images can be found below and on next page ........................  
+ 
+Ensure hose is straight and check length a gainst GA drawing .................................. .. 
+ 
+Remove protective caps from connectors and check contact face / seal for Debris or 
+damage .......................................... ............................................... ...................... ........  
+ 
+Check pins / socket s for damage ......... ........................................................ ................   
+ 
+Inspect connector body for any impact damage, scratches ..........................................  
+ 
+Re-install protective caps .................................. ..................... ........ ..............................  
+ 
+Check tagging and etching is to project requirements .................. ......................... ....... 
+ 
+Any failure to this criterion must be recorded on the Inform ation and Notes / Health and 
+Safety Feedback  list at the back of this document and the technical department must b e 
+informed.  
+ 
+Photos must be taken as evid ence to help rectify any non -conformance.  
+ 
+Example images : To help 
+identify hose damage, debris, 
+defects and fading.  
+ 
+Check Hose s urface for damage 
+such as cuts, rips, tears, leaks 
+and deformity.  
+ 
+(Picture shows cut in hose)  
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  8 of 17 
+ 
+Unrestricted   
+Check hose for discolouration and surface deformity.  
+Faded h oses can be acceptable so 
+long as they are in good condition 
+with no leaks or cracks.  
+ 
+ 
+(Picture sh ows deformity)  
+ 
+Hose  / Cable minimum bend 
+radius must NOT be less than 
+stated, this could result in 
+damage to the Hose / Cable  
+ 
+ 
+Minimum Ben d Radius  
+ 
+Aquatr on 50 Hose……..125 mm  
+Aquatron 75 Hose……..180 mm  
+ 
+Tronic 2 Core cable… …273 mm  
+Tronic 4 Core cable……2 73 mm  
+Tronic 7 Core c able……300 mm  
+Tronic 12 Core cable…..400 mm  
+ 
+   
+Make sure all contacts and mating faces 
+are Clean and free from debris.     
+ 
+(Picture sho ws debris in co ntact)                               
+ 
+
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  9 of 17 
+ 
+Unrestricted  9. ELECTRICAL TESTING  
+ 
+ALL TESTS TO BE PERFORMED BY SIEMENS /CLIENT TRAINED OPERATIVE S 
+ONLY . 
+ 
+General Equipment; - 
+Ambient temperature  / humidity recorder  
+Barome ter 
+ 
+Record atmospheric pressu re, temperature & hum idity (in accordance with the IEC 
+60060 standard) during electrical & function testing  
+ 
+Note: All calibrated equipment must have a curre nt calibration certification at the time 
+of the test. Details must be  recorded on the results Recor d Sheets included in this 
+document  
+ 
+The appropriate test connector must always be used to make electrical contact during 
+testing. UNDER NO CIRCUMSTANCES  shou ld a foreign object (such as a screwdriver, 
+test probe, or crocodile clip) be used as a test connec tion as this could da mage the seals 
+and insulation. Such actions will invalidate the warranty of the connector / harness.  
+ 
+Note: Refer to project paperwork o r electrical requirements in regard to 3rd party  
+connectors.  
+ 
+Note: E nsure electrical schematic  has been reviewed prior to electrical test.  
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  10 of 17 
+ 
+Unrestricted   
+10. CONTINUITY TEST  
+Equipment Required  
+9V Continuity Tester  
+Test Leads  
+Test Connector  
+Wiring Diagram  
+Continuity Test  
+ 
+All equipment is functional and with calibration certificates ..........................  
+ 
+Pre te st Visual inspection of connectors and harness completed .................  
+ 
+Test connector and leads to be inspected for damage / debris ..................... . 
+ 
+Inspect Test connector fixtures for damage / condition ........... .......................  
+ 
+Visu al inspection of hose  / cable for damage or defects prior to testing ...... 
+ 
+If the above criterion is passed testing may begin .............................. ...........  
+ 
+       TEST PROCEDURE  
+ 
+• Attach the test leads to the 9V c ontinuity tester.  
+ 
+• Touch the c onductive ends of the  test leads together. If the tester is in working order 
+it will sound a "bleep".  
+ 
+• Attach one of the free ends of the test leads to one conductor, pin or socket 
+(ensuring the plating is not damaged by the test lead).  
+ 
+• Attach the other test lead to the oppo site end of the same conductor, pin or socket.  
+ 
+• If there is a "bleep" continuity is acceptable and recorded as a PASS, If there is no 
+bleep there is a break in continuity and must be recorded as a FAIL on Results sheet 
+on next page . 
+ 
+• With the test lead att ached to the first conductor the second test lead shall be 
+attached to each of the remaining conductors in turn. Record Results.  The bl eep 
+must not sound during this test as this determines if a contact h as been shorted or 
+cross conne cted and shall ensure  each conductor is isolated from the remaining 
+conductors. If the bleep does sound the item must be reworked  
+ 
+• When complete ensure prote ctive caps are clean and free from debris, these must 
+be re -fitted on to the connector immediately.   
+ 
+ 
+ 
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  11 of 17 
+ 
+Unrestricted   
+10.1 FAULT INVESTIGATION     
+(only complete if a fault is present)  
+ 
+If EFL / Jumper / Harness fails test: - 
+  
+Check all connections are fully connected .......... .............................................  
+ 
+Remove all connectio ns and inspect all contacts fo r damage or debris ....... 
+ 
+While disconnected check all equipment is working and set up correctly .... 
+ 
+If using a bench test board this must be fully checke d for correct 
+operation .............................................. .............................. ..................... ............   
+ 
+Re-connect all equipment and repeat tests ......................................................  
+ 
+If there is still a fai l please stop test and contact Technical Dept 
+ 
+10.2 CONTINUITY TEST RESULT S SHEET  
+ 
+Date................. .........  
+ 
+Name of te ster............................................  
+ 
+Project:  Part No:  Each pin to all 
+others  Equipment used:  Serial No:  
+Connector  A - Pin Connector B - Pin PASS / FAIL  PASS / FAIL  
+1 1   
+2 2   
+3 3   
+4 4   
+5 5   
+6 6   
+7 7   
+8 8   
+9 9   
+10 10   
+11 11   
+12 12   
+Pin……. to body  Pin…… to body    
+  
+ 
+ 
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  12 of 17 
+ 
+Unrestricted  If the above criterion is passed testing may begin .............................  
+ 
+ 
+ 
+Note: Ensure  electrical schematic has been reviewed prior to testing  11. IR TEST  
+Equipment Required : 
+DC H.V tester (BM 21/MIT520 Megger or similar).  
+Electrica l test board with up to 12 connections.  Test board specification res istance 
+to be greater than 10G  Ohm. (Check prior to  starting test)  
+Suitable Test Connector where applicable  
+Wiring Diagram  
+All equipment to be inspected for functionality prior to startin g testing completed  
+ 
+Insulation Resistance Test  
+Note test voltage:  
+Connector to Connector jumpers 1000V DC  (Include oil hose and cable 
+assemblies)  
+Connector to Sensor jumpers 50V DC  
+Ethernet 50V DC  
+  
+All equipment is functional and with calibration certifi cates .............  
+ 
+Pre test Visual inspection of connectors and harn ess completed .... 
+ 
+Test connec tor and leads to be i nspected for damage debris ...........  
+ 
+Inspect Test connector fixtures for damage / condition .....................  
+ 
+Visual inspection of  hose / cable for damage or defects prior to 
+testing ................. .............................. ..................... .................................  
+  
+ 
+    
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  13 of 17 
+ 
+Unrestricted  Test connec tor to be mated to EFL , once m ated place on a suita ble bench for 
+testing to begin.  
+ 
+ 
+ 
+Image to show standard Siemens  Energy dry (topside)  test connectors  
+ 
+Alternatively , a subsea wet mate connector can be used for the testing, an example in the 
+image b elow.  Refer to IOM -001 for det ails. 
+ 
+ Image to show example of Siemens  Energy subsea connector  
+ 
+ 
+Procedure:  
+ 
+NOTE:  On harnesses featuring nickel over br aid, perform continuity test on the pin that  has the 
+over brai d termination and the connecto r body to ensure no c ontact between  them.  
+ 
+For harnesses incorporating Resistors:  
+Perform insulation resistance test all pins to body/earth  @ 50V DC through the  appropriate 
+connector until the sp ecified pass criteria is reac hed. Continue to run the test for a furt her 
+minute (see note below) then record the result.  
+ 
+For Ethernet : 
+Perform insulation resistance test all pins to body/earth  @ 50V DC through the  appropriate 
+connector until the specified  pass criteria is reached. Po wer cores 1000V DC . Continue t o run 
+the test for a further minute (see note below) then record the result.  
+ 
+For harnesses NOT  incorporating Resistors:  
+Perform insulation resistance test all pins to body/earth  @ 1000V DC (500V D C if screens 
+included  refer t o notes below ) through the  appropriate c onnector un til the specified pass 
+criteria is reached. Continue to run the test for a further 1 minute (see note below) then record 
+the result.  
+ 
+ ROV  DIVER  STAB  
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  14 of 17 
+ 
+Unrestricted  For harnesses with nickel over braid:  
+Perform insulation resistance tes t on the pin that has the over  braid ter mination  @ 500V    
+DC through the  appropriate connector until the specified pass criteria is reached. Continue to 
+run the test for a further 1 minute (see note below) then record the res ult. 
+ 
+NOTE:  if the acceptance criteria is not reached within  10 minute s, contact the Technical 
+Dept.  
+ 
+IMPORTANT: IF THE EITHER CP WIRE OR SCREEN ARE  INCLUDED SEPARATE 
+THE TEST:  
+ 
+Eg Test 1:  All Power cores to body excluding Earth CP cores test to 1000V  
+ 
+Eg Test 2:  CP Earth cores or scr een to body excluding Power co res test t o 500V  
+ 
+          IR Test Acceptance:   
+≥ 10GΩ @ 1000V DC on total wire length + test leads ≤ 50m (See note below).  
+≥ 1GΩ @ 1000V DC on total wire length + test leads > 50m (See note below).  
+>1MΩ @ 500V DC for s creens + nickel over  braid.  
+No breakdown or flashov er shall occur.  
+ 
+NOTE: The pass cr iteria used should be based on the accumulative length of wire 
+attached to the pin(s) plus the accumulative length of the test lead(s).  
+ 
+For tests involving DC sufficient  time must be allowed for the circuit to discharge 
+before touching the conductors. Th e discharge period shall be at least equal to the 
+period of charging.  
+ 
+• Record atmospheric pressure, temperature & humid ity (in accordance with the IEC 
+60060 standard) duri ng electric al & function testi ng. Record results in  table.  
+ 
+• When complete ensure prot ective caps are clean and free from debris, these must 
+be re -fitted onto the connector immediately.  
+ 
+Note:  
+Insulation Resistance is dependent on a number of factors for ex ample test voltage, 
+humidity ( moisture content), te mperature, time constant of sample , material 
+properties, pressure, etc. A  change in one of the above parameters will result in a 
+change in the IR reading .  
+ 
+In practice the control of these parameters is v ery difficult to achieve (i.e.  IR readings 
+are sens itive to change) and this is recog nised in international specifications such as 
+MIL-STD-883E, IEC60502, etc.  
+ 
+Initial Insulation Resistance values measured under controlled conditions during FAT 
+are not guaranteed throughout the lifetime of the product and may display 
+fluctuations early in  life as organic insulative systems balance, this is normal 
+behaviour. Insulation Re sistance readings will also be impacted if equipment is 
+subjected to prolonged elevated temperatures or after periods of long -term storage. 
+If equipment has been subjected to elevated storage temperatures or has been 
+stored for long periods of time, it may  be necessary to replenish the hose 
+compensation medium (ref API 17F Section 10.3.4) and revalidate internal hose 
+pressures.  
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  15 of 17 
+ 
+Unrestricted    
+11.1 FAULT INVESTIGATION    
+(only complete if a fa ult is present)  
+ 
+If EFL / Jumper / Harness fails test: 
+  
+Check all connections  are fully connected. .................................. .......... ..........  
+ 
+Remove all connections and inspect all contacts for damage or 
+debris............................... ................................................. ......................... .......... 
+ 
+While disconn ected check all equipment is worki ng and set up 
+correctly................................................................................................... ...........  
+ 
+If using a bench test board this mu st be fully checked for correc t  
+operation ........ .................................. ......................................................... .........  
+ 
+ 
+Re-connect all equipment and repeat tests........... ................................. ..........  
+ 
+If there is still a fail please st op test and contact T echnical Dept  
+ 
+11.2 INSULATION RESISTAN CE TEST RESULTS SHEET  
+ 
+Project:  Part No:  
+Equipment used:  
+ 
+ Serial No:  
+Conductor ID (Pin -Pin) TEST VOLTAGE   
+Refer to Se ction 11   
+REFER TO FOLLOWING NOTE  
+1 Ω  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                             Ω 2 Ω 
+3 Ω 
+4 Ω 
+5 Ω 
+6 Ω 
+7 Ω 
+8 Ω 
+9 Ω 
+10 Ω 
+11 Ω 
+12 Ω 
+13 Ω  
+TEMP. ( ˚C)  TESTER   
+ 
+ 
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  16 of 17 
+ 
+Unrestricted  HUMIDITY (%)   DATE:  
+ 
+NOTE : 
+ 
+IMPORTANT: IF EITHER THE CP WIRE OR SCREEN ARE INCLUDED SEPARATE THE 
+TEST: 
+Eg Test 1: All Power cores to body excluding Earth CP cores test to 1000V  
+Eg Test 2: CP Earth cores and/or Screen to body excluding Power cores test to 500V  
+ 
+12. FINAL INSPECTION  
+Check product  and verify no damage has occurred. ............................. ........  
+ 
+Ensure protective caps are fitted. ......... ......... .................................. ...................  
+ 
+Check to ensure that tags are fitted in accordance with the relevant  
+drawing or tag schedule. ............................................ ..........................................  
+ 
+Ensure loo se items (if any) are attached with connect or.................................  
+ 
+ 
+FINAL CHECK  
+Make sure this document has been fully completed and all results / information recorded  in 
+the correct sectio n.  
+ 
+ 
+ Document  No: SRT-001 
+Issue Date:  02/02/2021 
+Revision:  07 
+Page:  17 of 17 
+ 
+Unrestricted   
+13. CUSTOMER COMMENTS / FEEDBACK  
+Pleas e complete  the Sign Off section at the bottom of form to c onfirm each page of this 
+document has been read and complied with in full.  
+Originator Name and Initials (BLOCK CAPITALS)  Date  
+  
+ Contact Details   Contact Details  
+  
+Project Reference  Customer  Region  
+   
+Product Type  Part Number (P/N)  Serial Number (S/N)  
+   
+Please enter details below e.g. comments; complaints; evidence of good practice; incident 
+reports; observations and recommendations, including any as sociated with health, safety 
+or the env ironment, etc., also inc lude any names/cont act details of other rele vant 
+personnel.  
+  
+ 
+Sign Off Section  
+Name (BLOCK CAPITALS)  Signature  Date  
+   
+Please e -mail completed form to the Product Safety Officer at the following address: 
+subsea.connectors.productsafety.gb @siemens -energy.com  
+Lorem ipsum l Veribus  
+dolorpro  
+© 2020 Siemens Energy  Page 25 
+Publshed by
+Oestre Aker vei 88  Oslo, 
+Norway 0596
+E-mail:  subsea@siemens-energy.com 
+For more information, please visit our website: 
+www.siemens-energy.com/subsea
+Subject to changes and errors.  The information given in this document 
+only contains general descriptions and/or performance featu res which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of future development of the 
+products.  The requested performance features are bin ding only when  
+they are expressly agreed upon in the concluded contract.  
+Siemens Energy is a trademark licensed by Siemens AG

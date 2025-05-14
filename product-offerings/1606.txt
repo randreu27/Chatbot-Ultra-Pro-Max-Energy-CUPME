@@ -1,0 +1,218 @@
+© 2023 Siemens Energy Page 11. Global trends on PFAS: 
+timely action needed now
+There is a worldwide trend to trace poly -and perfluoroalkyl 
+substances, so -called PFAS (also known as ‘forever 
+chemicals’), in the environment, prevent their use and find 
+alternatives. When released into the atmosphere, water or 
+soil, these chemicals can accumulate in organisms and the 
+environment. In accordance with the National Academies 
+of Sciences, Engineering and Medicine, PFAS exposure is 
+linked to increased risk of decreased antibody response, 
+dyslipidemia (abnormal high cholesterol), decreased infant 
+and fetal growth, and increased risk of kidney cancer [1]. 
+In 2021, U.S. state Maine banned these compounds in all 
+products by 2030, except in instances deemed "currently 
+unavoidable" [2][3]. Plans to fight against PFAS pollution 
+have also already been launched by the Australian and US 
+authorities in 2020 and 2021, [4][5][6]. In Europe, the 
+European Chemicals Agency (ECHA) submitted in February 
+2023 its restriction proposal for a comprehensive list of 
+PFAS [7]. For PFAS F -gases used in switchgear, a ban is foreseen for voltage levels ≤ 145 kV in 2026/27 and for
+> 145 kV in 2033. 
+In 2022, a well known PFAS manufacturer also announced 
+the following actions: 
+•exit all PFAS manufacturing by the end of 2025 
+including PFAS F -gases used in switchgear
+•work to discontinue use of PFAS across their product 
+portfolio by the end of 2025.
+This announcement was made after careful considerations 
+and a thorough evaluation of the evolving external 
+landscape, including multiple factors such as accelerating 
+regulatory trends focused on reducing or eliminating the 
+presence of PFAS in the environment.
+Meanwhile, another piece of legislation, the EU F -Gas 
+Regulation, regulates fluorinated gases (F -gases) based on 
+their global warming potential (GWP). Some F -gases also 
+fall under the category of PFAS, yet their negative effects 
+on health and the environment are notcovered by the F -
+Gas Regulation [8].Five reasons to avoid PFAS F -gases in 
+high -voltage electrical equipment
+What would our power
+grids be without
+PFAS F -gases? 
+Clean and safe!
+siemens -energ y.com
+
+2. Phasing out of PFAS F -gases in 
+switchgear is feasible
+In 2014, the high greenhouse gas potential of SF6led the 
+EU to ban the use of this gas for most applications –except 
+for the electricity sector due to a lack of alternatives. Since 
+then, new F -gas-free (and PFAS -free) technologies have 
+been developed for the high voltage (HV) sector.
+These natural -origin gases technologies are available for all 
+voltage levels and are gradually being introduced in the HV 
+sector. With more than ten years of operational experience, 
+they are in development, production and operational use 
+for up to voltages of 420 kV with zero direct emissions 
+[11]. 
+Although these clean alternatives already exist, some 
+operators still use fluoronitrile /C4F7N, an insulating F -gas 
+for HV and medium voltage (MV) equipment which also 
+falls under the category of PFAS.
+3. Environment, health and 
+safety in transmission & 
+distribution equipment ensured
+In order to handle PFAS F -(insulation) gases in gas 
+production and subsequent handling, clear information is 
+needed on the carcinogenic, mutagenic and reprotoxic 
+(bio-accumulative/CMR) effects of the new insulation gas 
+C4F7N, but these are currently not fully known [12]. 
+Several tests have been performed to investigate the 
+impact of C4F7N on health [13] [14][15]. For example, 
+recent toxicological tests indicate that highly concentrated 
+exposure to C4F7N provokes neurological issues like 
+memory alterations and brain toxicity on mice, weeks after 
+exposure [16]. 
+Inhalation and skin contact are also categorized as harmful 
+(CLP criteria, acute tox. cat. 4, [17]), leaving grounds for 
+concern.  
+In addition to the health effects of using C4F7N, there are 
+environmental concerns. During long -term testing with 
+gas-insulated HV switchgear, decomposition products 
+which are classified as hazardous, and toxic were formed 
+They were formed by C4F7N in combination with gas 
+moisture and are classified as hazardous and toxic [18].
+Additionally, 100% C4F7N is also known to be a hazard 
+when dissolved into water (WGK 2, AwSV , [19]). 
+The unwanted release of PFAS F -gases (e.g., intentional 
+destruction or internal arcing) can lead to an accumulation 
+in soil, when bound with water. If the release of these 
+gases is caused by or linked to hot temperatures, the gas component C4F7N may be dissociated and even more toxic 
+components like HF and TFA (hydrofluoric acid, 
+equivalency factor for trifluoroacetic acid [13]) may occur. 
+Therefore, precautions and handling procedures, similar to
+those for used SF6gas and decomposition products should 
+be recommended for C4F7N. 
+‘Clean Air technology’ using natural -origin gases is the best 
+way to provide and guarantee safe equipment handling for 
+researchers, equipment operators or maintenance 
+personnel.
+4. Clean air and natural -origin 
+gases will be the future of global 
+electricity grids
+Siemens Energy and other original equipment 
+manufacturers (OEM) have developed sustainable non -
+toxic alternatives to SF6and PFAS F -gases which are based 
+on natural -origin gases (O2, N2, CO2) [20]. These 
+alternatives are simple to manage and are reliable and safe. 
+They lead to no emissions, no additional upstream 
+production of F -gases, PFAS F -gases and CO2, low handling 
+costs and no health risks to workers and to the public 
+through contamination of air, water, or soil.  
+Innovations like these will allow us to achieve Europe’s 
+promised carbon neutrality target by 2050.
+5. Consequences of our actions 
+In order to meet global climate goals, next steps must be 
+carefully considered. Decisions taken today should take a 
+long -term approach.  Technologies intended to be used for 
+the next 40 -60 years, should not pose any risk to health 
+and the environment. It is not sustainable to continue to 
+rely on PFAS F -gases like C4F7N that will never lead to CO2
+neutrality. This would run contrary to EU climate law and 
+would be counterproductive as these technologies will 
+inevitably need to be replaced in the foreseeable future 
+due to increasingly stringent environmental regulations.  
+Therefore, we should move ahead with a clean and 
+climate -neutral solution for switchgear, which is only 
+possible with natural -origin gases.
+NEMP –National Environmental Management Plan 2.0 (2020)
+EHS –Environment Health & Safety
+AwSV –German Federal Government Ordinance on Installations 
+for the Handling of Substances Hazardous to Water 1, 2; White paper PFAS F -gases
+© 2023 Siemens Energy Page 2
+Literature
+[1] New Report Calls for Expanded PFAS Testing for People With 
+History of Elevated Exposure, Offers Advice for Clinical Treatment". 
+National Academies of Sciences, Engineering, and Medicine 
+(NASEM). July 28, 2022. Retrieved August 4, 2022
+[2] Perkins T (July 16, 2021). "Maine bans toxic 'forever chemicals' 
+under groundbreaking new law". The Guardian. Archived from the 
+original on July 16, 2021
+[3] Public Law -Act to stop perfluoroalkyl and polyfluoroalkyl 
+substances pollution, H.P. 1113 -L.D. 1503, Chapter 477, US -
+State of Maine, July 2021
+[4] Australia -PFAS National Environmental Management Plan, 
+Version 2.0, National chemical working group of the heads of EPAs 
+Australia and New Zealand, Jan 2020
+[5] US PFAS Action Act of 2021, The Senate and House of 
+Representatives of the United States of America in Congress, 
+H.R.2467, Jul 22, 2021
+[6] Bill -Perfluoroalkyl and polyfluoroalkyl chemicals, HB22 -1345, 
+US -Colorado general assembly, May 2022
+[7] ECHA ANNEX XV RESTRICTION REPORT –Per-and 
+polyfluoroalkyl substances (PFASs) 
+https://echa.europa.eu/documents/10162/4e564987 -9902 -9d7e -
+3fab -2d7f73753053
+[8] Webinar: ‘Virtual Briefing on F -gases and PFAS restriction 
+intention (cleancoolingcoalition.eu), A. Heggel (Norwegian 
+Environmental Agency), March 20th, 2022 ( Virtual Briefing on F -
+Gases and PFAS Restriction Intention (cleancoolingcoalition.eu)
+[9] Global database of per and polyfluoroalkyl substances, OECD, 
+2007 (Global database of per and polyfluoroalkyl substances, 
+OECD)
+[10] 3M to Exit PFAS Manufacturing by the End of 2025, Press 
+release 3M –3M News Center ,  St.Paul , Minn., Dec.20, 2022 [11] First F -gas-free and climate neutral insulated 420 kV GIS 
+busducts installation at TransnetBW –Mark KUSCHEL , Laurentiu
+Viorel BADICU, CIGRE ID11082, Aug 2022
+[12] Assessment on the toxicity and application risk of C4F7N: A 
+new SF6alternative gas, Yi Li et al., Journal of hazardous Material 
+368 (2019) 653 -660
+[13] Comparison of alternatives to SF6regarding EHS and end of 
+life, C. Preve et al., CIRED 25th International Conference on 
+Electricity Distribution, Madrid, 3 -6 June 2019, Paper n °0561
+[14] Arc decomposition behaviour of C4F7N/ airgas mixture and 
+biosafety evaluation of its by‐ products, Ye, F., et al., HighVoltage . 
+1–10(2022), https://doi.org/10.1049/hve2.12233
+[15] Acute toxicity and health effect of Perfluoroisobutyronitrile on 
+mice: a promising substitute gas insulating medium to SF6, 
+X. Zhang et al., Journal of Environmental Science and Health Part A 
+· Toxic/hazardous substances and environmental engineering, 
+Volume 55, 2020 –Issue 14
+[16] Heptafluoroisobutyronitrile (C4F7N), a gas used for insulating 
+and arc quenching in electrical switchgear, is neurotoxic in the 
+mouse brain, A. Carles et al., Elsevier Toxicology Vol. 480, Oct. 
+2022, 153319
+[17] https://echa.europa.eu/de/information -on-chemicals/cl -
+inventory -database/ -/discli/details/241823
+[18] Investigations on the long -term performance of Fluoronitrile -
+containing gas mixtures in gas -insulated systems, K. Juhre et al. , 
+CIGRE ID1114, Aug 2022
+[19] Umwelt Bundesamt , WGK -Einstufung (WGK -Water hazard 
+class | German Federal Environment Agency ) 
+https://webrigoletto.uba.de/ Rigoletto/Home/Search
+[20] Blue high -voltage products | Innovation and Technology | 
+Siemens Energy Global (siemens -energy.com)
+Footer free to use Lorem Delor habitur © 2022 Siemens Energy Page 8
+Published by
+Siemens Energy Global GmbH & Co. KG
+Grid Technologies
+Siemenspromenade 9
+91058 Erlangen
+Germany
+For more information, please visit our website: 
+siemens -energ y.com
+or contact us
+support@ siemens -energy.com
+© 2023 Siemens Energy
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general descriptions and/or performance f eatures 
+which may not always specifically reflect those described, or which may undergo modification in the course of further development of 
+the products. The requested performance features are binding only when they are expressly agreed upon in the concluded contra ct.
+All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. KG or other companies whose 
+use by third parties for their own purposes could violate the rights of the owners.For the U.S. published by
+Siemens Energy, Inc.
+Grid Technologies
+8841 Wadford Drive
+Raleigh, NC 
+USAWhite paper PFAS F -gases

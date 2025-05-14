@@ -1,0 +1,1737 @@
+Unrestrictedsiemens -energy.com
+SpecTRON 8
+Installation, Operation Manual
+Document No: DOC007 5
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 2of62
+Unrestricted
+Foreword
+Thank you for purchasing a Siemens Energy Subsea Connectors SpecTRON 8product. The information that
+follows is an overview of the protection, storage, shipment, unpacking, deployment and maintenance
+instructions for SpecTRON 8products.
+Siemens Subsea Connectors recommend the termination and installation of all equipment o nly be
+undertaken by suitably trained and qualified personnel.
+Revision Summary
+This page records the revision status of the entire document and its authorisation for issue. When a page or
+pages of the document are revised, the number of the page(s) affect ed will be entered in the Page(s)
+Affected/Remarks column and a vertical margin line will appear against the latest amended text.
+Rev Compiled by Approved by Issue Date Page(s) Affected/Remarks
+See TeamCenter revision history for earlier revision history
+14 C. Plant N. Williamson 20/12/2021 Updated to Siemens Energy template and product safety
+focused layout
+Aligned contents with SpecTRON 10, 10+ and 45 IoM for
+consistency
+Added hose management/routing information
+Added cleaning/drying instructions (Section 8.1)
+15 C. Plant N. Williamson 24/03/2022 Add voltage ratings to cable data (Section 4.4)
+16 R. Duffy N. Williamson 28/10/2022 Section 1.1: updated to reflect move to IEC standard.
+Section 6.3: corrected the reference to connector
+cleaning instructions (section 8.1). Section 6.4 :updated
+to clarify and correct hose handling guidance.  New
+section for MUTU cable management create d (Section
+6.5).
+Section 6.4.2: reference to jumper length amended from
+15m to 30m
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 3of62
+Unrestricted
+Contents
+1 PRODUCT SCOPE ................................ ................................ ................................ .....6
+1.1 Product Certification ................................ ................................ ....................... 6
+1.2 Contact details ................................ ................................ ................................ 6
+1.3 Product advice label ................................ ................................ ........................ 7
+1.4 Product marking ................................ ................................ ............................. 8
+1.5 CE label/marking ................................ ................................ ............................ 8
+2 PRODUCT SAFETY ................................ ................................ ................................ ....9
+2.1 Action -related warnings ................................ ................................ .................. 9
+2.2 Intended use ................................ ................................ ................................ ...9
+2.3 General safety information ................................ ................................ ........... 10
+2.4 Related documents ................................ ................................ ....................... 13
+3 ABBREVIATIONS ................................ ................................ ................................ ....15
+4 SPECIFICATION AND RESIDUAL HAZARDS ................................ .............................. 17
+4.1 Connector General Specification ................................ ................................ ...17
+4.2 Misalignment capability of wet mate stab connectors ................................ ..18
+4.3 Hose Specifications ................................ ................................ ....................... 18
+4.4 Cable Specifications ................................ ................................ ...................... 19
+4.5 Other specifications ................................ ................................ ...................... 20
+4.6 Environmental, disposal and recycling ................................ .......................... 21
+4.7 Personal protective equipment (PPE) ................................ ............................ 21
+5 PREPARING PRODUCT FOR USE ................................ ................................ ............. 22
+5.1 Safety precautions before installation ................................ ........................... 22
+5.2 Unpacking ................................ ................................ ................................ .....24
+5.3 Safe disposal of packaging ................................ ................................ ............ 27
+5.4 Lifting ................................ ................................ ................................ ........... 27
+5.5 Installation and assembly ................................ ................................ ............. 30
+5.6 Storage and protection ................................ ................................ ................. 30
+5.7 Repackaging to prevent damage in transp ort................................ ................ 32
+6 OPERATION OF PRODUCT ................................ ................................ ..................... 33
+6.1 Energising Wet Mate Pair ................................ ................................ .............. 33
+6.2 Deployment ................................ ................................ ................................ ..33
+6.3 Retrieval ................................ ................................ ................................ ....... 33
+6.4 Hose Management and Routing ................................ ................................ ....34
+6.5 MUTU cable management ................................ ................................ ............ 38
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 4of62
+Unrestricted
+6.6 ROV Manipulator ................................ ................................ .......................... 39
+6.7 Connecting ROV Wet Mate Pair Subsea ................................ ......................... 41
+6.8 Disconnecting ROV Wet Mate Pair Subsea ................................ .................... 45
+6.9 Connecting ROV Wet Mate Pair Manually/Topside ................................ ....... 47
+6.10 Disconnecting ROV We t Mate Pair Manually/Topside ................................ ...49
+6.11 Test Connectors ................................ ................................ ............................ 50
+6.12 Testing ................................ ................................ ................................ .......... 53
+6.13 Quick references ................................ ................................ ........................... 54
+6.14 Disposal of waste products ................................ ................................ ........... 54
+7 USER INFORMATION ................................ ................................ ............................. 55
+7.1 Normal and faulty/dangerous operation ................................ ....................... 55
+7.2 Cathodic Protection ................................ ................................ ...................... 55
+7.3 Troubleshooting (FAQ’s) ................................ ................................ ............... 56
+8 PRODUCT MAINTENANCE ................................ ................................ ..................... 57
+8.1 Connector Cleaning and Drying ................................ ................................ .....57
+8.2 Product maintenance (skilled persons) ................................ ......................... 59
+9 CUSTOMER COMMENTS/FEEDBACK ................................ ................................ ...... 61
+Tables
+Table 1 -SpecTRON 8 Product Applicable Standards ................................ ................................ ...... 6
+Table 2 -Contact Deta ils................................ ................................ ................................ ............... 6
+Table 3 -SpecTRON 8 Connectors General Specification ................................ ............................... 17
+Table 4 -SpecTRON 8 Stab Connector Misalignment Capability ................................ .................... 18
+Table 5 -SpecTRON 8 Hose Specifications ................................ ................................ .................... 19
+Table 6 -SpecTRON 8 Cable Specifications (4 –16 mm s q.)................................ ........................... 20
+Table 7 -SpecTRON 8 Cable Specifications (35 mm sq.) ................................ ................................ 20
+Table 8 -Troubleshooting product contact details ................................ ................................ ....... 56
+Illustr ations
+Figure 1 -Product Advice Label ................................ ................................ ................................ .....7
+Figure 2 -Example Etching for SpecTRON 8 Products ................................ ................................ .....8
+Figure 3 -Example harness marking ................................ ................................ .............................. 8
+Figure 4 -SpecTRON 8 Current Rating ................................ ................................ .......................... 18
+Figure 5 -SpecTRON 8 harness typical packaging ................................ ................................ ......... 22
+Figure 6 -Optional polyethylene plastic packaging ................................ ................................ ...... 23
+Figure 7 -ROV Plug Cap ................................ ................................ ................................ ............... 24
+Figure 8 -ROV Receptacle Cap ................................ ................................ ................................ .....25
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 5of62
+Unrestricted
+Figure 9 -Tree Cap Penetrator / Plug Removal of Keyed Cap ................................ ........................ 25
+Figure 10 -Tree Cap Penetrator / Plug Protective Cap Removal ................................ .................... 26
+Figure 11 -Tree Cap Penetrator / Plug Split Sleeve Removal ................................ ........................ 26
+Figure 1 2-ROV Receptacle -Penetrator -Tree Cap Plug Jumper ................................ .................. 27
+Figure 13 -Recommended lift position -ROV Receptacle ................................ ............................. 28
+Figure 14 -Recommended lift positions -ROV Plug (Without / with locking mechanism) .............. 28
+Figure 15 –Recommended lift positions -Tree Cap Penetrator / Plug (Version 1) ......................... 29
+Figure 16 -Recommended lift positions Tree Cap Penetrator / Plug (Version 2) ............................ 29
+Figure 17 -Recommended Lift Positions -Dual Penetrator ................................ ........................... 29
+Figure 18 -AquaTRON (left) and Gorilla (right) hoses at to minimu m bend radius ......................... 34
+Figure 19 -Incorrectly bent AquaTRON (orange) and Gorilla (yellow) Hose ................................ ...35
+Figure 20 -Plate Former ................................ ................................ ................................ .............. 35
+Figure 21 -‘U’ Former ................................ ................................ ................................ ................. 35
+Figure 22 -‘L’ Former ................................ ................................ ................................ ................. 36
+Figure 23 -‘U’ former ................................ ................................ ................................ .................. 36
+Figure 24 –Temporarily fixed former (e.g. for topside SIT) ................................ ........................... 36
+Figure 25 -‘L’ former ................................ ................................ ................................ ................... 37
+Figure 26 -Fabricated stand with former used for hose support ................................ ................... 37
+Figure 27 -Potential Clamping of Hose on Compliant Connector ................................ .................. 38
+Figure 28 –Required length of straight cable and MUTU clamp position ................................ ...... 39
+Figure 29 -Recommended ROV Manipulator Jaw for T Bar Handle ................................ ............... 39
+Figure 30 -ROV Connector Handling (without and with locking mechanism) ................................ 40
+Figure 31 -Recommended ROV Manipulator Jaw for Fishtail Handle ................................ ............ 40
+Figure 32 -ROV Connector Handling ................................ ................................ ............................ 40
+Figure 33 -Visual alignment indicators on plug and receptacle (coated connectors) ..................... 41
+Figure 34 -Physical alignment keyway relative to visual indicator (uncoated connectors) ............. 42
+Figure 35 -Final Push with open jaw ................................ ................................ ........................... 42
+Figure 36 -Alignment Indicators (Connectors with Locking Mechanism) ................................ ....... 43
+Figure 37 -Mating Check -Fully Mated. (NB: Small Gap between Flanges) ................................ ....43
+Figure 38 -Mating Che ck-Locking Mechanism Engaged. ................................ ............................. 44
+Figure 39 -Locking Mechanism Disengaged ................................ ................................ ................. 46
+Figure 40 -Mate using ROV Handle ................................ ................................ ............................. 48
+Figure 41 -Chec k Connectors are Mated ................................ ................................ ...................... 48
+Figure 42 -Tailed Test Harness Connection Points ................................ ................................ ....... 51
+Figure 43 -Alignment Indicators (Topside Test Connectors) ................................ ......................... 51
+Figure 44 -SpecTRON 8 Test Receptacle with collar, stud, and nuts ................................ .............. 52
+Figure 45 –Receptacle Components for drying and cleaning ................................ ........................ 58
+Figure 46 -Receptacle Pin ti p................................ ................................ ................................ .....58
+Figure 47 -Receptacle pin contact area as supplied ................................ ................................ .....58
+Figure 48 -SpecTRON 8 Plug Power Washing Locations ................................ ................................ 59
+Figure 49 -SpecTRON 8 Receptacle Power Washing Locations ................................ ...................... 60
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 6of62
+Unrestricted
+1 PRODUCT SCOPE
+This manual includes information on the following SpecTRON 8connector types:
+-SpecTRON 8 ROV Wet Mate Plug
+-SpecTRON 8ROV Wet Mate Receptacle
+-SpecTRON 8 Stab Wet Mate Plug
+-SpecTRON 8 Stab Wet Mate Receptacle
+-SpecTRON 8 Penetrator
+-SpecTRON 8 Dual Penetrator
+-SpecTRON 8 Single Feed -through
+oTree Cap Penetrator and Plug
+oTubing Hanger Receptacle
+-SpecTRON 8 Dual Feed -through
+oTree Cap Penetrator and Plug
+oTubing Hanger Receptacle
+-SpecTRON 8 ROV Dummy Connectors
+-SpecTRON 8 ROV Parking Receptacle
+1.1 Product Certification
+Standard Description
+IEC/IEEE 61886 -1 Subsea equipment –Part 1: Power connectors, penetrators and jumper
+assemblies with rated voltage from 3 kV (U max= 3,6 kV) to 30 kV (U max= 36 kV)
+Note: For further information, see ‘ERP for SpecTRON 8Compliance with IEC/IEEE 61886 -1‘ (Siemens
+Energy document 10 154569 ) and ‘Product Bulletin for SpecTRON IEC 61886 -1 Implementation’
+(Siemens Energy document 10225662).
+Table 1-SpecTRON 8Product Applicable Standards
+1.2 Contact details
+For additional information or questions regards the products visit the Siemens Energy website www. siemens -
+energy.com/subs eaor contact the following:
+Department E-mail address
+Product Safety Officer subsea.connectors.productsafety.gb@siemens -energy.com
+Technical Support connectortechnicalsupport.gb@siemens -energy.com
+Service (Site Team) susultlcmsupport.gb@siemens -energy.com
+Sales connectorsales.gb@siemens -energy.com
+Table 2-Contact Details
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 7of62
+Unrestricted
+1.3 Product advice label
+The following product advice label is supplied with all Siemens Energy subsea products.
+Figure 1-Product Advice Label
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 8of62
+Unrestricted
+1.4 Product marking
+1.4.1 Connectors and Penetrators
+Figure 2-Example Etching for SpecTRON 8Products
+Siemens Energy Subsea SpecTRON 8connectors and penetrators arelaser marked on the gland body with
+theSiemens Energy Subsea part number ,unique serial number , and product rating informati on.Additionally,
+connector front -ends are also marked with their part number and unique serial number to aide traceability
+during manufacturing.
+1.4.2 Harnesses
+Harnesses are also marked with the Siemens Energy Subsea part number and unique serial number as sh own
+inFigure 3. Client and project specific information is also usually added to these labels. Labels are typically
+black text on a yellow background underneath clear heat shrink. Typically, labels are located at each end of
+the harness and centrally.
+Figure 3-Example harness marking
+1.5 CElabel/m arking
+SpecTRON 8is exempt from any current requirement for CE marking.  Siemens Energy continue to monitor
+European and International requirements for applicability to the SpecTRON 8product range.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 9of62
+Unrestricted
+2 PRODUCT SAFETY
+Siemens Energy Subsea recommends the termination of all eq uipment shall only be undertaken by trained,
+suitably qualified and experienced personnel (SQEP) i.e. competent person.
+2.1 Action -related warnings
+Classification of action -related warnings
+The action related warnings are classified in accordance with the sev erity of the possible danger using the
+following warning signs and signal words:
+Warning symbols and signal words
+Danger!
+Imminent danger to life or risk of severe personal injury
+Danger!
+Risk of death from electric shock
+Warning.
+Risk of minor personal injury
+Caution.
+Risk of material or environmental damage
+2.2 Intended use
+Following installation, commissioning, and deployment of product, please complete and return the Customer
+Comments/Feedback form (Section 9). Please e -mail completed form to the Product Safety Officer at
+subsea.connectors.produ ctsafety.gb@siemens -energy.com .
+There is a risk of injury or death to the user or others, or of damage to the product and other property in the
+event of improper use or use for which it is not intended.
+The product is intended as a subsea high voltage ele ctrical connector, for use by suitably trained personnel
+in industrial applications only.
+Intended use includes the following:
+-observance of the installation and operating instructions included for the product and any other system
+components.
+-compliance wi th all inspection and maintenance conditions listed in the instructions.
+-Use of all recommended tooling appropriate for specific tasks.
+-All activities to be undertaken by a competent person (see 2.3.1 for definition).
+Any other use that is not specified i n this document or covered in installation and operating instructions, or
+beyond that specified in this document shall be considered improper use.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 10of62
+Unrestricted
+2.3 General safety information
+2.3.1 Installation by competent persons only
+The installation, inspection, maintenanc e and repair of the product shall be undertaken by trained, suitably
+qualified and experienced personnel (SQEP) i.e. competent person, to carry out a specified activity.
+Installation, inspection, maintenance and repair of products by untrained and deemed n on-competent
+persons could invalidate the product warranty.
+For further information contact Service (Site Team) susultlcmsupport.gb@siemens -energy.com .
+2.3.2 Danger caused by improper operation and foreseeable misuse
+Improper operation and foreseeable misuse may present a danger to you and others and cause material
+damage. Carefully read the enclosed instructions and all other applicable documents, particularly the
+“Safety” section and the warnings.
+Danger! Risk of death from electric shock if user dismantles/incorrectly re -assembles/incorrectly
+re-terminates product (foreseeable misuse).
+-Maintenance, disassembly, re -assembly and termination activities must only be carried out by
+a competent person.
+Danger! Risk of death from electric shock if shuttle pins are depressed e.g. with a screwdriver
+when plug is live .
+-Maintenance and testing activities must only be carried out by a competent person.
+-Correct tools must always be used.
+Danger! Risk of imminent danger to life, risk of severe personal injury caused by a shuttle pin
+projectile due to damage caused to shuttle pins e.g. with a screwdriver (foreseeable misuse).
+-Maintenance and testing activities must only be carried out by a competent person .
+-Correct tools must always be used.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 11of62
+Unrestricted
+2.3.3 Risk of death due to electrocution
+Danger! Risk of death from electric shock due to exposed live pins, e.g. factory or top -side system
+test and unmated receptacle is energised, e.g. by diver subsea.
+-Ensure all test procedures are followed.
+-Receptacles must be mated to a wet mate or test plug before energisation
+-Communication channels and protocols are observed.
+Danger! Risk of death from electric shock from any exposed conductors due to stored electrical
+energy, e.g. capacitance of cable or elsewhere in the system.
+-Ensure all procedures are followed .
+-Allow sufficient time for discharging of items after testing
+Danger !Risk of death from electric shock from test connectors. Live parts can be exposed by
+disassembly without a tool (e.g. termination sleeves are accessible and can be removed). Also
+exposed cable conductors at free end of test connectors, and unscreened ca bles in some
+terminations .
+-Ensure all test procedures are followed.
+-Receptacles must be mated to a wet mate or test plug before energisation
+-Communication channels and protocols must be observed.
+Danger! Risk of death from electric shock if product is terminated incorrectly by 3rdparty e.g. loose
+conductor touching metal body, or live wire terminated to metal body in error.
+-Installation/termination activities must be carried out by a competent person
+Danger! Risk of death from electric shock due to metal body of connector not being earthed during
+test and connector having earth fault (e.g. conductor touching metalwork) during electrical
+testing.
+-Ensure all testing of products both factory and deployed in -field have been completed by
+competent persons.
+Danger! Risk of death from electric shock or severe personal injury through burning from de -
+mating live conductors by hand.
+-Ensure all procedures are followed for mating/de -mating connectors.
+2.3.4 Risk of injury and material damage due to maintenance and repairs carried out
+incorrectly or not at all
+Maintenance work or repairs on the products should only be carried out by a competent person. Faults and
+damage should be immediately rectified by a competent person. Adhere to the maintenance intervals
+specified.
+Danger! Risk of imminent danger to life, risk of severe personal injury from burning and material
+damage from ohmic heating in short -circuit condition or high over -currents.
+-Ensure all testing of products both factory and deployed in -field have been completed by
+competent persons.
+Danger! Risk of imminent danger to life, risk of severe personal injury caused by released pressure
+and or projectile due to incorrectly installed pressure retaining product, e.g. during system
+pressure test (e.g. SpecTRON 8penetrator f itted with wrong/insufficie nt screws or seals).
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 12of62
+Unrestricted
+-Ensure all product assembly and testing activities are completed by competent persons.
+Danger! Risk of imminent danger to life, risk of severe personal injury to persons with pacemakers
+or implantable cardioverter -defibrillators ( ICDS) from electromagnetic interference (EMI) e.g. high
+frequency testing with large load currents.
+-Ensure all testing of products both factory and topside are not conducted by or in the presence
+of persons with pacemakers or ICDS.
+Danger! Risk of seve re personal eye injury due to pressurised oil squirting out of damaged hose or
+removal of fill/vent screw.
+Ensure all testing of products both factory and deployed in -field have been completed by
+competent persons.
+Warning. Risk of eye/bodily injury caused by released pressure during product disassembly, in the
+event of retrieval from subsea with a fault that causes depth pressure to be trapped inside the
+product.
+-Ensure all product disassembly activities are completed by competent persons in accordance
+with relevant procedures and using relevant personal protective equipment (PPE).
+Warning. Risk of bodily injury caused by pressure retaining parts becoming projectile due to user
+over -pressurising the system, e.g. during S iteInstallation Test (SIT) .
+-Ensure all product SIT activities are completed by competent persons in accordance with
+relevant procedures.
+-All pressure testing of SpecTRON 8product smust be undertaken by a competent person.
+-Installation of SpecTRON 8penetrators , and bulkhead connectors must be undertaken by a
+competent person.
+2.3.5 Risk of injury and material damage due to manual handling
+Manual handling, lifting and carrying are known to be one of the largest contributors to occupational ill -
+health. Ensure mechanical handling aids are used wherever possible to avoid manual handling. Where
+manual handling is considered appropriate for the task, safe lifting guidelines must be followed, e.g. adopt
+correct posture, consider team lifting, employ sa fe lifting technique, etc. Only competent persons are
+permitted to perform tasks without supervision, if in doubt, ask.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 13of62
+Unrestricted
+Warning. Risk of musculoskeletal injury from hand -mating connectors with high mate/de -mate
+force and/or connector rapidly fires out during de -mate due to high shuttle spring force, e.g.
+factory/topside testing.
+-Ensure all product testing activities are completed b y competent persons in accordance with
+relevant procedures.
+-Ensure mechanical handling aids are used wherever possible to avoid manual handling.
+-Where manual handling is considered appropriate for the task, safe lifting guidelines must be
+followed, e.g. ad opt correct posture, consider team lifting, employ safe lifting technique, etc.
+Warning. Risk of musculoskeletal injury from manual handling of heavy products.
+-Ensure mechanical handling aids are used wherever possible to avoid manual handling.
+-Where m anual handling is considered appropriate for the task, safe lifting guidelines must be
+followed, e.g. adopt correct posture, consider team lifting, employ safe lifting technique, etc.
+-Only competent persons are permitted to perform tasks without supervisio n, if in doubt ask.
+Warning. Risk of bodily injury from heavy product falling during lift with machinery.
+-Ensure machinery/slings used have been tested and are within their expiry date.
+-Safe lifting guidelines must be followed, e.g. lifting plan, banksman, etc.
+-Correct lifting points must be identified and used.
+-Only competent persons are permitted to perform tasks without supervision, if in doubt ask.
+Warning. Risk of minor personal injury to persons with sensitivities to mineral, silicone or synthetic
+ester based oils.
+-Wear appropriate hand protection when handling products , mineral, silicone or synthetic
+ester based oils.
+Warning. Risk of minor personal injury and material damage due to slips, trips and falls .
+-Good housekeeping avoids sl ips, trips and falls, keep all work areas clean and tidy .
+2.4 Related documents
+Installers shall perform a full site risk assessment and put into place all necessary steps and procedures to
+comply with applicable area, regional, national and international health and safety legislation, e.g. The Health
+and Safety at Work Act (HASAWA) in the United Kingdom (UK ) and ensure safety of themselves and others
+regarding manual handling and working at height requirements.
+During the product installation (and any subsequent work) it will be necessary to employ caution. All installers
+and operatives involved from unloadi ng the product until it is deployed in its final installed location must
+exercise a full duty of care for themselves and others regarding safety. When lifting and handling this product,
+operatives should employ assistance if required. In certain situations , it may be necessary to use mechanical
+handling aids. Take care to avoid trip hazards, slippery or wet surfaces.
+Employers and installers should refer to the Health and Safety Executive (HSE) web site in the UK for full
+advice and manual handling assessme nt charts (MAC) tool.
+In addition, where no specific instructions are given then reference shall be made, but not restricted to,
+where applicable, British Standards and codes of practice such as the following:
+-The Health and Safety at Work Act.
+-COSHH Contr ol of substances hazardous to health.
+-BS 7671 Requirements for electrical installations. IEE Wiring Regulations.
+-The Electricity at Work Regulations.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 14of62
+Unrestricted
+It is the operator’s and installers responsibility to comply with current Company, area, regional, nationa land
+international health and safety legislation.
+Following installation, commissioning and deployment of product, please complete and return the Customer
+Comments/Feedback form (Section 9). Please e -mail completed form to the Product Safety Officer at
+subsea.connectors.productsafety.gb@ siemens -energy.com .
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 15of62
+Unrestricted
+3 ABBREVIATIONS
+A Ampere
+ac Alternating Current
+Assy Assembly
+API American Petroleum Institute
+AWG American Wire Gauge
+BOM Bill of Material
+°C Degree Celsius
+CE Community European
+Comms Communication Signal
+COSHH Control of substances hazardous to health
+CP Cathodic Protection
+dc Direct Current
+DWG Drawing
+EFL Electrical Flying Leads
+EMF Electrical Magnetic Field
+EMI Electromagnetic Interference
+FAT Factory Acceptance Test
+IR Insulation Resistance
+ICDS Implantable Cardioverter -Defibrillators
+ISO International Organization for Standardization
+ITP Inspection Test Plan
+IWIS Intelligent Well Interface Standardisation
+K Kelvin
+LTC Long Term Cover
+M Metres
+Max. Maximum
+MFG Manufacturer
+Min. Minimum
+NACE National Association of Corrosion Engineers
+No. Number
+PPE Personal Protective Eq uipment
+ROV Remotely Operated Vehicle
+SI Standard International
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 16of62
+Unrestricted
+SIT Site Installation Test
+SRT Site Received Test
+SST Stainless Steel
+TBD To Be Defined
+TSP Twisted Screened Pair
+UNS Unified Numbering System for Metals and Alloys
+V Volt
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 17of62
+Unrestricted
+4 SPECIFICATION AND RE SIDUAL HAZARDS
+The following is the typical specification for SpecTRON 8connectors with jumper cable s offered by Siemens
+Energy and will differ for connectors terminated to umbilical power cores or internal pigtails, and in other
+situations. For connecto r specific information, please refer to product specific data sheets.  These are
+available via the Siemens Subsea website www. siemens -energy.com/subsea orSiemens Subsea Connectors
+Technical Support connectortechnicalsupport.gb@siemens -energy.com .
+4.1 Connector General Specification
+Value Unit
+Design Life 30 years
+Number of ways / phases 3 -
+Maximum Water Depth 3 000 m
+Maximum Differential Pressure (Penetrator) 345 bar
+Maximum Differential Pressure (Bulkhead Receptacle) 15 bar
+Operating Temperature -5 to 20 °C
+Storage Temperature -30to 60 °C
+Number of Mates (Wet Mate Pair) 100 -
+Rated Voltage 5/8,7(10) kV
+Rated Current See Graph -
+Rated Frequency 5–200 Hz
+Table 3-SpecTRON 8Connectors General Specification
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 18of62
+Unrestricted
+Figure 4-SpecTRON 8 Current Rating
+4.2 Misalignment capability of wet mate stab connector s
+The table below summarise s the maximum misalignment capabilities of the SpecTRON 8stab wet mate
+connectors. For full details, refer to Siemens Energy drawing sT33259. For misalignment capabilities of ROV
+wet mate connectors, tree-cap p lugs and tubing hanger connectors, please contact Siemens Energy Subsea
+Connectors Technical Support connectortechn icalsupport.gb@siemens -energy.com .
+Stab Mate Unit
+Maximum Angular Misalignment ( No radial or rotational ) 2 °
+Maximum Radial Misalignment ( No angular or rotational ) 3 mm
+Maximum Rotational Misalignment ( No radial or angular ) 3 °
+Under/Overstroke (Independent of other misalignments ) ± 1,5 mm
+Table 4-SpecTRON 8Stab Connector Misalignment Capability
+4.3 Hose Specifications
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 19of62
+Unrestricted
+AquaTRON 200 Gorilla AquaTRON 50 Unit
+Outside Diameter 64,6 +4 / -2,8 51,8 25,2 ± 0,6 mm mm
+Minimum Bend Radius 375 250 125 mm
+Storage Temperature Range -40 to + 70 -25 to + 70 -40 to + 70 °C
+Min.Manipulation Temperature -25 -25 -25 °C
+Maximum Snag Load 5 2,5 5 kN
+Weight in air 4,8 3,2 0,66 kg/m
+Weight in water 1,45 1 0,14 kg/m
+Max Length without coupler 45 N/A 80 m
+Hose Coupler Weight in air 3,8 N/A 0,87 kg
+Hose Coupler Weight in water 3,2 N/A 0,69 kg
+Table 5-SpecTRON 8Hose Specification s
+4.4 Cable Specifications
+4 mm²
+(Signal Return )16mm²
+(Siwokul )16 mm²
+(S1U10510150 ) Unit
+Rated Voltage (Uo/U(U m)) 013,6/6(7,2) 3,6/6(7,2) kVac
+Maximum AC Test Voltage to Ground 019 9 kVac
+Maximum DC Test Voltage to Ground 015 5 kVdc
+Outside Diameter 8,95 ± 0,2 11,25 ± 0,3 10,9 ±0.4 mm
+Screen CSA N/A N/A N/A mm²
+Minimum Bend Radius 55 61,8 75 mm
+Storage Temperature Range -40 to + 70 -40 to + 70 -40 to + 70 °C
+Minimum Manipulation Temperature -25 -25 -25 °C
+Weight in air 0,11 0,23 0,29 kg/m
+Weight in water 0,04 0,13 0,20 kg/m
+Resistance @ 20 °C 13 1,24 1,24 mΩ/m
+1Cable is insulated with U o= 6,6 kV, but is directly connected to connector metal bodies
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 20of62
+Unrestricted
+Table 6-SpecTRON 8Cable Specifications (4–16 mm sq.)
+35 mm²
+(Sp.Siwokul )35 mm²
+(S1U10510151 )35 mm²
+(Feltoflex ) Unit
+Rated Voltage (Uo/U(U m)) 5/8,7(10) 5/8,7(10) 5/8,7(10) kVac
+Maximum AC Test Voltage to Ground 12,5 12,5 12,5 kVac
+Maximum DC Test Voltage to Ground 5 5 5 kVdc
+Outside Diameter 18,10 ± 0,4 16,0 ± 0,2 24,5 mm
+Screen CSA N/A N/A 16 mm²
+Minimum Bend Radius 110 110 125 mm
+Storage Temperature Range -40 to + 70 -40 to + 70 -40 to + 70 °C
+Minimum Manipulation Temperature -25 -25 -25 °C
+Weight in air 0,55 0,63 1,04 kg/m
+Weight in water 0,29 0,43 0,56 kg/m
+Resistance @ 20 °C 0,565 0,565 0,565 mΩ/m
+Table 7-SpecTRON 8 Cable Specifications (35 mm sq.)
+4.5 Other specifications
+For all other specifications not included in the above tables, refer to product/project specific data sheet(s),
+alternatively contact Technical Support connectortechnicalsupport.gb@ Siemens -energy.com .
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 21of62
+Unrestricted
+4.6 Environmental, disposal and recycling
+Safe disposal or recycling of waste packaging and/or end of life product is recommended by correctly,
+observing and complying with area, regional, national or international environmental legislation where
+applicable.
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety Officer
+atsubsea.connectors.productsafety.gb@ siemens -energy.com .
+Hazardou s substances, Control of substances hazardous to health (COSHH) Assessments regards to materials
+such as elastomers and oils, etc. used in SpecTRON 8 products are available on request from the Product
+Safety Officer at subsea.connectors.productsafety.gb@ siemens -energy.com .
+4.7 Personal protective equipment (PPE)
+Personal Protective Equipment (PPE) is legally defined as ‘all equipment (including clothing affo rding
+protection against the weather) which is intended to be worn or held by a person at work and which protects
+the user against one or more risks to their health or safety’.
+In the hierarchy of risk control, PPE is considered to rank lowest and represent the option of last resort. PPE
+is only appropriate where the hazard in question cannot be totally removed or controlled in such a way that
+harm is unlikely (for example by isolating the hazard or reducing the risk at source to an acceptable level ).
+All company personnel and operators should wear appropriate Personal Protective Equipment (PPE) defined
+as a result of relevant risk assessments in accordance with the Personal Protective Equipment (PPE)
+Regulations.
+Warning. Risk of minor personal in jury to persons with sensitivities to mineral and silicone based
+oils.
+-Wear appropriate hand protection when handling products, mineral , silicone, or synthetic ester
+based oils.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 22of62
+Unrestricted
+5 PREPARING PRODUCT FOR USE
+5.1 Safety precautions before installation
+SpecTRON 8products are manufactured primarily from Super Duplex stainless steel and are designed to
+withstand harsh saliferous environments. However, the connector inserts, and exposed parts are susceptible
+to mechanical damage if not protected.
+Caution. Risk of material damage.
+Dust/protective caps must always be fitted during transport.
+It is recommended that caps remain in place until immediately prior to testing activities
+or deployment subsea.
+The connectors can be shipped singularly or in multiples.  Care should be taken to protect the connector with
+bubble wrap or similar wrapping materials to avoid surface damage during transit. If large numbers are
+shipped in one consignment a suitably reinf orced box will be necessary to withstand the weight.  Protection
+caps must be fitted at all times during transport.
+Bulkhead type connectors with exposed tailing wires should be packed and shipped in a suitably sized packing
+crate to allow adequate space f or the tailing wires without bending or kinking.
+If the connectors are assembled onto hoses these must be suitably coiled and secured with tape to prevent
+uncoiling during transit. The minimum bend radii specified in section 4.3must be maintained during the
+storage and transportation of jumpers.
+Figure 5-SpecTRON 8harness typical packaging
+Figure 5shows how a typical SpecTRON 8 harness is packaged. The connectors on either end of the harness
+have a transportation cap fitted and are surrounded in bubble wrap. The base of the shipping crate is lined
+with protective packaging and the harness is positioned so that the hose can be coiled without kinking. Any
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 23of62
+Unrestricted
+loose items are placed in a box inside the crate. Protective packaging is then placed on top of the harness
+and secured in place with a wooden baton, be fore the lid of the crate is screwed down.
+Figure 6shows a different type of optionally purchased packaging the harness could be supplied in. This
+crate is manufactured from polyethylene plastic and is dust, oil, chemical and water resistant. The
+connectors on either end will have a transportation cap and will sit within a foam insert which will be sized
+to the connector. Any loose items will be placed in a box inside the crate.
+Figure 6-Optional polyethylene plastic packaging
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 24of62
+Unrestricted
+5.2 Unpacking
+Connectors are designed to withstand vib ration that occurs during transportation and to withstand being
+dropped from a height of 1m whilst in packaging.  Despite this, damage may still occur during transportation,
+and it is important to document any obvious signs of mishandling or damage which m ay have occurred in
+transit.
+Remove wrapping material taking care to inspect for any surface damage or items that may have become
+separated from a connector, such as ‘O’ seals.
+Caution. Risk of material damage.
+-Do not use a knife to cut the wrapping material, as this may cause damage to any elastomeric
+parts of the connector.
+-Do not remove dust/protection caps until connectors are ready for installation.
+-On removal do not allow the hoses to drag over the edges of a transport box.
+5.2.1 Protective caps
+All SpecTRON 8 Connectors/Penetrators come supplied with a protective cap. These can either be dust caps
+or protective caps. Dust caps (typically yellow in colour) can be simply removed by twisting or pulling them
+off. Protective caps (typi cally black in colour) can be removed as detailed below.
+ROV Plug Cap
+The ROV Plug cap is latched onto the Plug connector via the connector latching mechanism. In order to
+remove the cap, it is recommended that the operator stand the Plug vertically on the cap, stand on the flange
+of the cap and pull on the ROV handle of the Plug connector. This will disengage the latching mechanism of
+the Plug. Do not try to pull the cap directly off the plug as this may damage the latching mechanism of the
+Plug. Use the s ame method when engaging and disengaging the ROV plug cap on the Plug connectors with
+the locking mechanism.
+Figure 7-ROV Plug Cap
+Pull on ROV
+Handle
+Grip cap by
+standing on
+flange
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 25of62
+Unrestricted
+Refitting the Plug cap can be done by simply pushing the cap back onto the nose of the plug until the latching
+mechanism of the plug engages.
+ROV Receptacle Cap
+The ROV Receptacle Cap can be removed by pulling on the cap. Refitting the Receptacle cap can be done by
+simply pushing the cap back onto the Receptacle shroud.
+Figure 8-ROV Receptacle Cap
+TREE CAP PENETRATOR CAP –Version 1
+Penetrator caps would usually be removed by Siemens Subsea site engineers during the termination of the
+Penetrator to the module. It is recommended that only trained personnel remove Penetrator caps though
+details are provided here for information only. The Tree Cap Penetrator version 1 consists of modular parts
+to protect the entire length of the connector. Carefully position the Plug & Penetrator on a suitable bench
+and remove the protective cap taking care not to bend the compliant gland between plug and penetrator.
+Figure 9-Tree Cap Penetrator / Plug Removal of Keyed Cap
+Remove the
+Cap End
+Pull the keyed Cap
+End with a dowel
+pin.
+Pull on Cap to
+remove
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 26of62
+Unrestricted
+Figure 10-Tree Cap Penetrator / Plug Protective Cap Removal
+Figure 11-Tree Cap Penetrator / Plug Split Sleeve Removal
+Refitting the Penetrator cap is a reversal of t he removal procedure.
+Pull the
+whole cap to
+remove
+Unscrew this end
+section attached to
+8kV Penetrator.
+Remove Protective
+Split Sleeve
+Remove Protective
+Split Sleeve
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 27of62
+Unrestricted
+Tree Cap Penetrator –Version 2
+Penetrator caps would usually be removed by Siemens Subsea site engineers during the termination of the
+Penetrator to the module. It is recommended that only trained personnel remove Penetrator caps tho ugh
+details are provided here for information only.  The Tree Cap Penetrator version 2 consists of split halves to
+protect the compliant gland. Carefully position the Plug & Penetrator on a suitable bench and remove the
+protective cap taking care not to b end the compliant gland between plug and penetrator.
+Figure 12-ROV Receptacle -Penetrator -Tree Cap Plug Jumper
+5.3 Safe disposal of packaging
+Dispose of the packaging correctly, observing and complying with area, regional, national or international
+environmental legislation. Where possible recycle responsibly.
+To r eturn waste packaging to the manufacturer, contact the Product Safety Officer at
+subsea.connectors.productsafety.gb@ siemens -energy.com .
+5.4 Lifting
+Danger! Risk of serious personal injury or death, and material damage to product
+Connectors must only be lifted at the locations specified below.
+Never use the cable or hose to lift or support a connector gland.
+All lifting operations should be performed by suitably qualified personnel, in accordance
+with applicable regulations where and when the lift is performed.
+Connectors should never be lifted by the hose or cable, as this places unnecessary strain
+on the cable clamp and connector internals.
+Harnesses weigh more than 30 kg and should not be manually handled.
+Dummy, or parking connectors weigh less than 20 kg and can be lifted by hand, however
+correct lifting practice must always beobserved
+Pull cap to
+remove
+Unscrew fasteners
+and Remove Split Cap
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 28of62
+Unrestricted
+The connectors can be safely slung around the loc ations shown in, Figure 13,Figure 14,Figure 15and
+Figure 16. The centre of gravity for the Connector or Penetrator is usually marked on the outline drawing
+(sup plied in documentation pack) but must be verified at low level before commencing any lift.
+For particularly heavy connectors (e.g. SPO flange penetrator), lifting eyes positions are provided on the
+connector flange.  These are shown on the connector outlin e drawing, which is part of the connector
+datasheet.  The datasheet is available separately upon request and is included as part of the connector
+documentation.
+Dummy, or parking connectors weigh less than 20 kg and can be lifted by hand, however correct l ifting
+practice should be observed at all times.
+ROV Receptacle
+Figure 13-Recommended lift position -ROV Receptacle
+Figure 14-Reco mmended lift positions -ROV Plug (With out/with locking mechanism)
+Do not sling around handle
+as this may release
+protective cap
+Sling around Plug Rear
+Shell between
+handlebars
+Do not sling around the
+outside of the connector
+handle as this may
+damage the locking
+mechanism
+Sling around each side of the
+Receptacle Flange
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 29of62
+Unrestricted
+Figure 15–Recommended lift positions -Tree Cap Penetrator / Plug (Version 1)
+Figure 16-Recommended lift positions Tree Cap Penetrator / Plug (Version 2)
+Figure 17-Recommended Lift Positions -Dual Penetrator
+Sling around Penetrator
+Rear Shell
+Sling each Side of
+Protective Cap
+Sling around Dual Penetrator body, or
+each side as close to the Dual
+Penetrator body as possible
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 30of62
+Unrestricted
+Protective caps should remain on wherever possible during lifting operations to minimise the risk of damage
+to connector sealing or electrical components.
+For harnesses, the cable or hose should be supported during lifts to minimise strain on the connector. Jumper
+assemblies are rated to 2,5kN in all scenarios (Topside and Subsea), however it is recommended that the
+maximum length of harness (bundled or single) which is left unsuppor ted during a lifting operation in air is 5
+meters.
+Cable only connectors or hose break out connectors with cable should be handled with care as these
+connectors do not have the hose to protect the cable jacket from mechanical damage. These types of
+conne ctors are usually used for testing purposes. During unpacking and use, these should not be dragged
+along surfaces, protected when routed over edges and kept away from abrasive materials to keep the outer
+jacket in the best possible condition.
+5.5 Installation and assembly
+Danger! Risk of serious personal injury or death, and material damage to product
+Termination of umbilical connectors must be carried out by a competent person
+Installation and internal termination of penetrators onto customer modules must be
+carried out by a competent person
+When any equipment is removed from storage for installation or SIT testing a thorough inspection should be
+made of the harness as a whole.
+The SpecTRON 8connectors can be installed onto client subsea structures by the end user provided the
+guidance in th is document is followed.  It is important to ensure that the handling guidelines are followed
+during all parts of the installation process.  This is particularly important for hoses and cables, which must be
+adequately supported during any lifting operatio ns to prevent damage to the hose/cable and the termination
+inside the connector.
+During lifting and manoeuvring of the connector the transportation/protective caps should be left on the
+connectors for as long as possible to protect the mechanical interfac es. Care must be taken to ensure that
+the hose does not bend beyond its stated MBR as this may cause kinking which could damage the hose and
+the cable within. All manoeuvring of any SpecTRON equipment must be done in accordance with Section 6.4.
+During or after the installation of SpecTRON equipment if any structural work is performed around the
+connectors such as welding or grinding, where contaminants may affect the connectors they must go through
+the cleaning process out line in section 8.
+5.6 Storage and protection
+Caution. Risk of corrosion to electrical contacts.
+If the connector has been tested in a wet environment, mate receptacle to a full dummy
+plug, or if using an Acetal protective cap ensure that the pin and cap are completely dry
+(see section 8.1)
+If storage is carried out in high humidity or salinity conditions, e.g. on a ship’s deck or hold,
+or near a dockside, then full dummy connectors should be used.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 31of62
+Unrestricted
+Caution. Risk of material damage.
+Connector surface temperat ure must not exceed 60 °C, maximum storage temperature
+accounts for solar gain.
+Suitable protection must be used to ensure maximum storage temperature is not
+exceeded.
+Elastomeric components such as hose and connector termination kits should not be stored
+near natural or artificial sources of ozone (e.g., high voltage electrical equipment, laser
+printers, orwelding operations) .
+Connectors must not be exposed to combusti on gases, organic vapour or equipment
+which generate organic vapours.
+Caution. Risk of material damage.
+Connectors should not be allowed to encounter solvents, oil, grease or other semi -solid
+materials.
+No modification to the internal profile of the protection cap or any foreign materials such
+as Silica gel should be introduced into protective caps , as these will lead to damage of the
+critical seals and electrical contact areas.
+5.6.1 Short term connector storage
+Prior to installation the connectors are se nsitive to environments where grit and dirt are present. To prevent
+ingress of the above, they should be stored in a clean dry area and be protected by bubble wrap or similar
+wrapping material. Dust/protective caps must be fitted.
+5.6.2 Long term connector stora ge
+Connectors must be stored in a clean dry area. Suitable protection caps must be fitted ,and the storage
+temperature should be between -25°C and 60°C.  Humidity of the storage room should be between 10% and
+60%. The equipment should be protected from ozone, strong sunlight and strong artificial light with a high
+ultraviolet content.
+5.6.3 Connector Termination Kits
+Elastomeric components supplied in termina tion or re -termination kits should bekept in their packaging until
+required for use.  The date of expiry stated on the packaging should be observed, as should the following
+storage conditions.
+Temperature –the storage temperature shall be between 15 and 25°C and the components will be
+stored away from direct heat sources. If the storage temperature falls below 15°C the components
+shall be handled carefully and the temperature of the components shall be raised to approximately
+30°C prior to use.
+Humidity –the relative humidity shall be at a level that prevents condensation occurring as a result
+of temperature fluctuations.
+Light –the elastomeric components shall be protected from light source s including direct sunlight
+and artificial light having a high ultraviolet content.
+Ozone –elastomeric components shall not be stored near ozone generating equipment (e.g. high
+voltage electrical equipment, laser printers) or operations (e.g. welding). The storage area must also
+be free from combustion gases and organic vapour and equipment that generate organic vapours.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 32of62
+Unrestricted
+Stress –components shall be stored free from superimposed tensions and compressive stresses or
+other causes of deformation.
+Radiat ion–components shall be protected from all sources of ionizing radiation.
+5.6.4 Subsea Storage
+Caution. Risk of corrosion to electrical contacts.
+In a subsea environment the receptacle connector must be mated to full dummy plug or
+subsea rated protective c ap when not mated to a plug.
+Over the life of the connector, the receptacle pin contact cannot be left exposed for more
+than 60days (for connectors supplied since 2013) or 28 days (otherwise) cumulatively
+If the connectors are to be left unmated in sea water dummy connectors or subsea protective cap must be
+used to protect the pin contacts in the receptacle connectors. Over exposure will increase the risk of
+corrosion damage or marine growth on the contact surfaces of the receptacle contact pins. This co uld lead
+to damage to the seals and insulation within the socket contacts.
+Plug connectors may be left unmated in seawater for their full lifetime, but it is recommended that the Plug
+connectors are mated into a Parking Receptacle during this time in orde r to protect the latching mechanism.
+5.7 Repackaging to prevent damage in transport
+In the event of a requirement to return any product back to the manufacturer ( Siemens Energy Subsea
+Connectors), it is recommended that the original dust/protective cap is fitted to the connector(s) after
+cleaning and care should be taken to protect the connector(s) with bubble wrap or similar wrapping materials
+to avoid any surface damage. It isrecommended that a suitably reinforced box be used to withstand the
+weight. Contact Technical Support connectortechnicalsupport.gb@ siemens -energy.com to discuss details of
+typical boxes.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 33of62
+Unrestricted
+6 OPERATION OF PRODUCT
+6.1 Energising Wet Mate Pair
+Danger !Risk of death from electric shock.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any residual voltage to discharge before de -
+mating connectors
+Connectors mus t be fully mated before energisation
+Receptacles must not be energised unless mated to a plug
+Caution. Risk of material damage.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any residual voltage to discharge before de -
+mating connectors
+Connectors must be fully mated before energisation
+Receptacles must not be energised unless mated to a plug
+SpecTRON 8connectors should be integrated and managed as part of a well -designed high voltage system
+with a ppropriate validation of system status and connections before energisation.
+When performing high -voltage testing of an electrical system containing SpecTRON 8,Siemens Energy offer
+appropriate test equipment which can be used to provide safe termination of wet -mate and dry -mate
+connectors.  Product marking on the test equipment must be verified to ensure that they are appropriately
+rated.
+6.2 Deployment
+Caution. Risk of materi al damage.
+The maximum deployment rate for SpecTRON 8connectors is 20 bar/minute.
+Refer to project specific data sheets and scope of supply drawings for performance specifications and
+detailed deployment instructions.
+6.3 Retrieval
+Caution. Risk of material damage.
+The maximum retrieval rate for SpecTRON 8 connectors is 20 bar/minute.
+Danger! Risk of serious personal injury or death, and material damage to product
+Potential for trapped hydrostatic pressure within hoses, connector front -ends , and
+compensation volumes.  This risk is significantly increased if there is significant marine or
+calcareous growth.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 34of62
+Unrestricted
+When cleaning or handling jumpers and connectors after retrieval appropriate protective
+equipment (gloves, goggles) should be worn until all flooding and compensation ports are
+clear.
+Caution. Risk of corrosion to electrical contacts.
+After retrieval, mate receptacle to a full dummy plug, or if using an Acetal protective cap
+ensure that the pin and cap are completely dry (see section 8.1)
+If storage is carried out in high humidity or salinity conditions, e.g., on a ship’s deck or
+hold, or near a dockside, then full dummy connectors should be used.
+6.4 Hose Management and Routing
+6.4.1 General Guidance (topside and subsea)
+Hose should be routed in a manner to avoid bending beyond the MBR under any circumstance (topside or
+subsea).  Care should be taken when designing mounting arrangements for hose and compli ant mount
+connectors to ensure that the compliance does not bend the hose beyond its MBR.
+Efforts should be made to avoid application of excessive hose tension, which could cause the hose to void its
+MBR or become kinked.  This is particularly pertinent wh en the hose is topside, as hose weight in air is
+significantly greater than its weight in water (refer to section 4for specific hose weight values).
+When topside (in air), the maximum length of horizontal unsupported hose is 2m.  When hose is vertically
+oriented in air, the maximum unsupported length is 5m.  These values apply both to Gorilla and AquaTRON
+hose.  (See section 6.4.2 for information on subsea handling of flying harnesses.)
+If wet mate connectors are oriented vertically with plug above receptacle, there will be an abrupt change in
+plug hose orientation if this hose is unsupported.  In this situation, to prevent the hose weight from
+contravening the MBR, Siemens Energy recommend that the height from structure base to receptacle does
+not exceed 3m.
+Figure 18-AquaTRON (left) and Gorilla (right) hoses at to minimum bend radius
+The hose will have some natural resistance to bending/ kinking however application of snag force due to
+sharp routing around the corner of a structure (ignoring hose MBR) or application of force due to
+unsupported hose weight (beyond stated allowance) may cause damage to the conductors or terminations
+and efforts should be made to avoid this during all applications topside or in water.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 35of62
+Unrestricted
+Figure 19-Incorrectly bent AquaTRON (orange) and Gorilla (yellow) Hose
+Siemens Energy recommends the use of “formers” to avoid exceeding the MBR of the hose when passing
+over acute angled surfaces (through or around structures).  These former s may also be used to support free
+hanging hose longer than the limits above.
+Formers can be produced to Siemens recommended design (as shown below) or to client specific design, and
+fixed to the client’s structure as appropriate.
+RECOMENDED FORMER DESIGNS
+Figure 20-Plate Former
+Figure 21-‘U’ Former
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 36of62
+Unrestricted
+Figure 22-‘L’ Former
+Figure 23-‘U’ former
+Figure 24–Temporarily fixed former (e.g. for topside SIT)
+Tie wraps or
+clamps
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 37of62
+Unrestricted
+Figure 25-‘L’ former
+If temporary hose support is required during SIT, a temporary elevated floor could be created via the use of
+equipment such as scaffolding, scissor lifts and ladders etc or alternatively a fabricated stand with a former
+attached. See Figure 26below for an example of such a stand.
+Figure 26-Fabricated stand with former used for hose support
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 38of62
+Unrestricted
+6.4.2 Subsea Manoeuvring of ‘Flying’ Harnesses
+--Caution. Risk of material damage.
+The maximum unsupported hose length in water for SpecTRON 8 flying harnesses is
+30 m
+SpecTRON 8 flying harnesses under or equal to 30m require no buoyancy aids for subsea deployment.
+SpecTRON 8 flying harnesses over 30m require buoyancy aids suitable to support 1.45kg (see section 4)
+per metre length in excess of 30m.  For example, a 50 metre EFL requires buoyancy aids to c over 20 metres
+of additional hose weight which is 29 kg (20*1.45 = 29kg).
+These buoyancy aids should be spaced evenly to ensure that the termination on each end of the jumper is
+not loaded with more than 30metres of jumper. The buoyancy aids should be attached to the jumper
+with a soft sling.
+6.4.3 Compliantly mounted Connectors
+Careful consideration should be given to the placement of the first clamp on a compliant mount connector
+so as not to restrict the compliancy of the connector or impart s tresses into the hose and cable. Where
+clamping is required on compliantly mounted connectors, It is recommended that an ‘S’ type arrangement
+or similar as shown in Figure 27is utilised to take up the potential movement of the connector.
+Figure 27-Potential Clamping of Hose on Compliant Connector
+6.5 MUTU cable management
+Compliantly mounted
+connector
+Stauff clamp or
+similar
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 39of62
+Unrestricted
+The umbilical power cables must extend straight out of the MUTU cable glands for a minimum of 200mm.
+If, after MUTU termination has been completed, the umbilical power cables must be moved or bent, then
+jigs or clamps must be used to prevent ca ble movement within the MUTU’s glands.  This is necessary to
+prevent issues with the MUTU cable sealing system.
+This need for a clamp also applies if the MUTU itself must be moved after completion of cable termination
+and installation of the MUTU into th e umbilical termination assembly.
+Figure 28–Required length of straight cable and MUTU clamp position
+6.6 ROV Manipulator
+SpecTRON 8 connectors are fitted with either an ISO 13628 T -bar handle or an ISO 13628 Fish Tail Handle.
+6.6.1 T Bar Handle
+T-bar handle connectors must be manipulated using a Parallel Jaw ROV manipulator similar to that shown in
+Figure 29.
+Figure 29-Recommended ROV Manipulator Jaw for T Bar Handle
+The T bar should be held by the crossbar of the T as shown in Figure 30and not by the shaft.  If the T bar is
+held incorrectly there is a risk that the latch mechanism of the connector will not engage correctly.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 40of62
+Unrestricted
+Figure 30-ROV Connector Handling (with outand with locking mechanism)
+6.6.2 Fish Tail Handle
+Fish Tail Handle connectors must be manipulated using a 3 -finger ROV manipulator jaw similar to that shown
+inFigure 31.The handle should be held in the ROV jaw as shown in Figure 32.
+Figure 31-Recommended ROV Manipulator Jaw for Fishtail Handle
+Figure 32-ROV Connector Handling
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 41of62
+Unrestricted
+6.7 Connecting ROV Wet Mate Pair Subsea
+6.7.1 Pre-mating Checks
+Before mating ,the receptacle shroud should be checked for debris. The connectors have been designed to
+accommod ate sand and silt contamination. H owever ,large pieces of debris should be removed.
+6.7.2 Without additional locking mechani sm
+Caution. Risk of material damage.
+Any mating equipment used to mate the SpecTRON 8 connector pairs must be designed
+in accordance with the misalignment and interface guidance provided by Siemens Subsea
+to avoid damage to the connector pair.
+Do not pull on the ROV handle to check the connector is correctly mated as this will
+disengage the internal latch mechanism and de -mate the connector.
+Never pull on the ROV handle without first disengaging the locking mechanism as this may
+result in damage to the l ocking mechanism. (Applicable only to connectors with additional
+locking mechanism)
+Warning. Risk of injury from trapping of limbs in mating tools
+Any mating process used to mate the SpecTRON 8 connector pairs should be in compliance
+with applicable standards and regulations for machinery.
+The connectors will self-align during mating ;however, they must be roughly aligned using the alignment
+marks on the top of the Connector body & Alignment flange / Receptacle shroud prior to mating .
+Figure 33-Visual alignment indicators on plug and receptacle (coated connectors)
+Alignment Indicators
+Physical Key / Keyway
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 42of62
+Unrestricted
+Figure 34-Physical alignment keyway relative to visual indicator (uncoated connectors)
+Compliance is built into t he connector handle, and the receptacle mount. This flexibility accommodate s
+misalignment and allows fine adjustments during the final approach prior to connector engagement.
+The mating stroke should be as close as possible to one smooth movement, i.e. avo id ‘pumping’. Using the
+ROV manipulator jaw, the pilot should grip the ROV handle as shown in Figure 30orFigure 32.
+The internal latch mechanism is activated by pushing the connectors together until the flanges of the plug
+and receptacle are fully home , as shown in Figure 37.
+To ensure correct engagement, the ROV pilot should open the jawand operate a final push operation before
+withdrawing from the T bar with a fully open jawasshown in Figure 35.This ensures that the internal latch
+mechanism is not accidentally disengaged asthe ROV pulls away from the connector.
+Figure 35-Final Push with open jaw
+6.7.3 With additional locking mechanism
+The procedure for mating a connector with Locking Mechanism is identical to the standard ROV
+connector without Locking Mechanism (refer to Sectio n6.7.2 ).
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 43of62
+Unrestricted
+The locking mechanism engages automatically during mating and requires no additional action from
+the ROV pilot.
+Figure 36-Alignment Indicators (Connectors with Locking Mechanism)
+6.7.4 Post Mating Checks
+All Connectors
+When relaxed there may be a small gap between the two (due to the springs in the Plug pushing against the
+Receptacle pins). The shoulder on the Plug should also butt up against the shroud of the Receptacle.
+Figure 37-Mating Check -Fully Mated. (NB:Small Gap between Flanges )
+Asdictated by Industry best practice ,Siemens Energy recommends that all ROV mating operations are
+recorded on video and retained for future reference.
+Pins
+Locks
+Alignment Indicators
+Physical Key / Keyway
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 44of62
+Unrestricted
+With additional locking mechanism
+Figure 38-Mating Check -Locking Mechanism Engaged .
+Correct engagement of the locking mechanism must be confirmed by visual inspection as shown in Figure 38.
+If the post mat ing check show s that the locking mechanism is not correctly engaged then the plug must be
+de-mated following the procedure in section 6.8then re -mated as detailed in section 6.7.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 45of62
+Unrestricted
+6.8 Disconnecting ROV Wet Mate Pair Subsea
+Caution. Risk of material damage.
+Any mating equipment used to mate the SpecTRON 8 connector pairs must be designed
+in accordance with the misalignment and interface guidance provided by Siemens Energy
+Subsea to avoid damage to the connector pair.
+If the ROV handle is held incorrectly there is a risk that the internal latch mechanism of
+the connector will not disengage properly.
+Never pull on the gland or hose to de -mate the connector
+6.8.1 Without additional locking mechanism
+Grip the ROV handle (T -handle or fishtail) correctly with the ROV jaw ( Figure 30orFigure 32).
+De-mating is achieved by a straight pull on the ROV handle sufficient to release the internal latching
+mechanism.
+6.8.2 With additional locking mechanism
+Before De -mating the connector the ROV pilot must first release the locking mechanism.
+The locking mechanism is released by pushing forward the release paddle using the nose of the ROV
+manipulator jaw as shown in Figure 39.
+The locks will disengage from the receptacle pins whe n the paddle is pushed fully forward as shown
+inFigure 39.
+When this action has been performed correctly the release paddle will remain in the forward position
+after th e ROV jaw is retracted.
+The detail view in Figure 39shows the locks in the disengaged position.
+To De -mate the connector, Grip the ROV handle (T -handle or fishtail) cor rectly with the ROV jaw
+(Figure 30orFigure 32).
+De-mating is achieved by a pull on the ROV handle sufficient to release the internal latching
+mechanism. Do not pull on the gland or hose.
+As the connector is de -mated the release paddle will automatically return to the default position. No
+ROV pilot action is required.
+On de -mating, the locking mechanism re -sets automatically and can be immediately re -mated if
+required. No ROV pilot action is required prior to re -mating.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 46of62
+Unrestricted
+Figure 39-Locking Mechanism Disengaged
+Release
+Paddle
+ROV
+Handle
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 47of62
+Unrestricted
+6.9 Connecting ROV Wet Mate Pair Manually/Topside
+Caution. Risk of material damage.
+Any mating equipment used to mate the SpecTRON 8 connector pairs must be designed
+in accordance with the misalignment and interface guidance provided by Siemens Energy
+Subsea to avoid damage to the connector pair.
+Do not pull on the ROV handle to check the connector is correctly mated as this will
+disengage the internal latch mechanism and de -mate the connector.
+Never pull on the ROV handle without first disengaging the locking mechanism as this may
+result in damage to the locking mechanism (Applic able only to connectors with additional
+locking mechanism).
+Warning. Risk of injury from trapping of limbs in mating tools
+Any mating process used to mate the SpecTRON 8 connector pairs should be in compliance
+with applicable standards and regulations for machinery.
+6.9.1 Pre-Mating Checks
+Prior to commencing the mating of the connector pair, it is assumed that :
+The Receptacle connector is mounted toits associated mounting plate
+The Plug connector is in the near vicini ty.
+Grab bars or other interfaces should be present on the Receptacle mounting structure .These should
+provide the diver with purchase and allow them to address the connector square -on with the
+connector at chest height.
+6.9.2 Without additional locking mechan ism
+Remove protective cap from Plug connector, or if Plug connector is mated to a Parking/Dummy
+Receptacle remove as detailed in the manual de-mating procedure below.
+If a Dummy Plug connector is mated to the Receptacle, remove using the manual de-mating procedure
+detailed below .
+Inspect theReceptacle pins and shroud ,and ensure they are clean and free from debris, etc.  If any
+debris is present remove using a water je t(in water) or through wiping (in air) .
+Insert the Plug Connector nose into the shroud of the Receptacle, and initially locate the key on the Plug
+nose into the slot of the Receptacle shroud using the alignment indicators, as shown in Figure 33and
+Figure 34.It should be noted that the physical key/keyway are located on the undersi de of the
+connectors.
+The operator should now get into a comfortable position, square on, ready to fully mate the connectors.
+Theconnector should be at chest height, with the grab bars or other provided interfaces on the
+mounting structure being within e asy reach. Using the grab bars or other means to brace themselves
+(i.e. tied to structure), the operator should mate theconnector by holding the ROV handle (Figure 40)
+and using one smooth single stroke to push the Plug connector until it butts up against the Receptacle.
+A maximum force of 76.5kgf (750N) will be required to mate the connectors. Ensure the mating stroke
+is level, and theoperator cancomplete the stroke in one smooth consistent movement. Confirm that
+no bounce -back and failure to latch home has occurred.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 48of62
+Unrestricted
+When the plug connector end stops abut to the receptacle this activates the internal spring loaded
+internal latch mechanism , which prevents the connectors de -mating. Pulling on the ROV Handle will de -
+activate this latch and hence will de -mate the connector .
+Figure 40-Mate using ROV Handle
+Toconfirm that connectors are fully mated and thePlug is correctly latched home, gently pull the Plug
+connector by holding the angled downward section of the Plug gland near to the hose termi nation ,as
+shown inFigure 41.If the connectors are correctly latched and mated no axial movement in the Plug
+connector should be present.  As a visual inspection, the shoulder on the Plug should butt up against the
+shrou d of the Receptacle.  However, when relaxed there may be a small gap between the receptacle
+and connector (due to the springs in the Plug pushing against the Receptacle pins) , as shown in Figure
+37.
+Figure 41-Check Connectors are Mated
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 49of62
+Unrestricted
+6.9.3 With additional locking mechanism
+The procedure for mating a connector with Locking Mechanism is identical to the standard ROV
+connector without Locking Mech anism (refer to Section 6.9.2 ).
+The locking mechanism engages automatically during mating and requires no additional action from
+the operator.
+6.9.4 Post -Mating checks:
+Correct engagement of the locking mechanism must be determ ined by visual inspection ( Figure 38).
+If the post mating checks show the locking mechanism is not correctly engaged ( Figure 38) the plug
+must be de -mated following the procedure in section 6.10 and then re -mated following the
+procedure in section 6.9
+The shoulder on the Plug should butt up agai nst the shroud of the Receptacle.
+As an additional confirmation that connectors are fully mated and the Plug is correctly latched home,
+gently pull the Plug connector by holding the angled downward section of the Plug gland near to the
+hose termination, as shown in Figure 41.If the connectors are correctly latched and mated no axial
+movement in the Plug connector should be present.
+6.10 Disconnecting ROV Wet Mate Pair Manually/Topside
+Caution. Risk of material damage.
+Any mating equipment used to mate the SpecTRON 8 connector pairs must be designed
+in accordance with the misalignment and interface guidance provided by Siemens Subsea
+to avoid damage to the connector pair.
+If the ROV handle is held incorrectly there is a risk that the internal latch mechanism of
+theconnector will not disengage properly.
+Never pull on the gland or hose to de -mate the connector
+Warning. Risk of injury from trapping of limbs in mating tools
+Any mating process used to mate the SpecTRON 8 connector pairs should be in compliance
+with applicable standards and regulations for machinery.
+6.10.1 Without additional locking mechanism
+Prior to commencing the de-mating of the connector pair it is assumed that the Receptacle connector is
+mounted in its associated structure, and a Plug connector is mated to it.
+The operator should brace himself using the grab bars or other provided interfaces, and ensure the
+connector is at chest height .By gr ipping the ROV handle (as shown in Figure 17),the connector canbe
+de-mated from the Receptacle using one smooth pulling movement along the axisof the connectors.
+Pulling the ROV handle automatically release stheinternal latching mechanism. A force of 40kgf (392N)
+isrequired to de -mate the connectors .
+Once the Plug connector is fully separated from the receptacle connector, if appropriate it can then be
+mated to the parking Receptacle, using the steps described in the mating procedure in section 6.9.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 50of62
+Unrestricted
+A dummy plug should also be mated to the remaining R eceptacle, again using the mating procedure in
+section 6.9.
+6.10.2 With additional locking mechanism
+ Before De-mating the connector the operator must first release the locking mechanism.
+ The locking mechanism is released by pushing the release paddle fully forward.
+ The locks will disengage from the receptacle pins when the paddle is pus hed fully forward. ( Figure 39)
+ When this action has been performed correctly the release paddle willremain in the forward position
+after the operators hand is removed.
+ The operator should brace themself using the grab bars or other provided interfaces, and ensure the
+connector is at chest height. By gripping the ROV handle (as shown in Figure 40),the connector canbe
+de-mated from the Receptacle using one smooth pulling mov ement along the axi s of the connectors.
+ Pulling the ROV handle automatically release stheinternal latching mec hanism. A force of 40kgf (392N)
+isrequired to de -mate the connectors .
+ Once the connector is de -mated the locking mechanism will re -set automatically and can immediately
+be re -mated. The release paddle will automatically return to the default position. Th is can be confirmed
+by a quick visual inspection
+ Once the Plug connector is fully separated from the receptacle connector, if appropriate it can then be
+mated to the parking Receptacle, using the steps described in the mating procedure in section 6.9.
+ A dummy plug should also be mated to the remaining Receptacle, again using the mating procedure in
+section 6.9.
+6.11 Test Connectors
+Caution. Risk of material damage.
+An appropriate test connector must always be used to make electrical contact during
+testing.
+Under no circumstances should a foreign object (such as a screwdriver, test probe or
+crocodile clip) be used as a test connection as this could damage the seals and insulation.
+Such actions will invalidate the product warranty.
+Danger !Risk of death from electric shock.
+An appropriate test connector must always be used to make electrica l contact during
+testing.
+Under no circumstances should a foreign object (such as a screwdriver, test probe or
+crocodile clip) be used as a test connection
+Receptacles must not be energised unless mated to a plug
+Warning. Risk of injury from trapping of limbs in mating tools
+Any mating process used to mate the SpecTRON 8 connector pairs should be in compliance with
+applicable standards and regulations for machinery.
+SpecTRON 8 connectors can be electrically tested with th e use of SpecTRON 8 plug and receptacle topside
+test connector tailed harnesses as shown below in Figure 42.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 51of62
+Unrestricted
+These connector harnesses are terminated with 3 -off M10 lugs for connection to a HV supply and 3 -off M4
+lugs for connection to an earth source. Cable management must be considered to ensure t hat the HV and
+earth connections are kept separated by the largest reasonable distance possible to ensure no flashover
+between the different cores and earth.
+Cleaning should be performed with “safe wipes” only. “Safe wipes” are available on the internet an d are lint -
+free, non -static, IPA based wipes for electronics. Consideration should also be given to guidance in Section
+8.2on marine growth and calcareous deposit re moval.
+Figure 42-Tailed Test Harness Connection Points
+Figure 43-Alignment Indicators (Topside Test Connectors)
+6.11.1 ROV Wet Mate Pair
+The design of these connectors is based on the ROV mating mechanism as described in previous sections,
+therefore no additional mating / retaining equipment required.  The collar, stud and nuts are not required
+for connecting to ROV wet mate connectors, and hence can be removed, before following the instructions in
+section 6.9.
+6.11.2 Single ESP Feedthrough
+Test Receptacles
+SpecTRON 8 test receptacles are provided with a collar, stud, and nuts which can be used to hold the test
+receptacle in place.
+Alignment Indicators
+Physical Key / KeywayROV Based Latch
+FeaturesManually
+Operated
+Handle
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 52of62
+Unrestricted
+Figure 44-SpecTRON 8 Test Receptacle with collar, stud, and nuts
+To draw the connectors together safely, the SpecTRON 8 test connector should be offered to the subsea
+connector and drawn in using the stud iron to ensure that it is not possible for the connector to “bounce”.
+Test Plug
+SpecTRON 8 tubing hanger receptacles include the latching features necessary to interface with the latching
+mechanism of the ROV connector.  Hence the instructions in section 6.9should be followed.
+6.11.3 Dual ESP Feedthrough
+Test Receptacle
+The dual ESP feed -through test receptacle is fixed to the tree cap plug using an integrated latch system.   The
+test receptacle should be pushed onto the plug, before turning the latch lever to hold the two connectors
+together.
+Test Plug
+A test plug is available to connect to a tubing hanger receptacle, although typically this connector is only used
+by Siemens Energy site installation teams.  For further information, please con tact Siemens Energy Technical
+Support connectortechnicalsupport.gb@ siemens -energy.com .
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 53of62
+Unrestricted
+6.12 Testing
+Danger !Risk of death from electric shock.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any residual voltage to discharge before de -
+mating connectors
+Connectors must be fully mated before energisation
+Receptacles must not be energised unless mated to a plu g
+Caution. Risk of material damage.
+Any mating equipment used to mate the SpecTRON 8 connector pairs must be designed
+in accordance with the misalignment and interface guidance provided by Siemens Energy
+to avoid damage to the connector pair.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any res idual voltage to discharge before de -
+mating connectors
+Connectors must be fully mated before energisation
+Receptacles must not be energised unless mated to a plug
+Do not connect to an unmated receptacle pin unless using a test plug
+6.12.1 Test Levels
+The SpecTRO N8connectors and penetrators are subjected to a complete FAT program as part of the
+manufacturing process.  Penetrators will also be subjected to SIT testing after installation by Siemens Energy
+Subsea Connectors onto customer equipment (e.g. transformer s, motors). It is also possible for customers
+to perform additional testing, subject to the restrictions outlined below.
+6.12.2 Electrical Tests
+Insulation resistance tests
+oConnectors may be subjected to IR tests at voltages of up to 5 kV.  It is not possible to give a
+universal acceptance criterion asthe result is dependent on the test arrangement,
+cable/harness lengths, and the equipment (e.g. motor, transformer) under test. For
+verification tests on equipment after delivery, results obtained on site should b e compared
+to the factory acceptance test results detailed in the equipment manufacturing
+documentation.
+Line resistance tests
+oConnectors and penetrators can be subjected to line resistance tests either at low current or
+rated current.  Please consult conn ector or project specification before commencing a test
+at rated current. It is not possible to give a universal acceptance criterion as the result is
+dependent on the test arrangement, cable/harness lengths, and the equipment (e.g. motor,
+transformer) un der test.  For verification tests on equipment after delivery, results obtained
+on site should be compared to the factory acceptance test results detailed in the equipment
+manufacturing documentation.
+High Voltage Testing
+oAlthough it is possible to carry out high voltage AC or DC tests of connectors, jumpers and
+penetrators, Siemens Energy Subsea Connectors technical department should be consulted
+before starting any testing.
+Partial Discharge Test
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 54of62
+Unrestricted
+oPlease consult Siemens Energy Subsea Connectors tech nical department before carrying out
+partial discharge (PD) testing of harnesses, connectors and penetrators.
+6.12.3 Pressure/Hydrostatic Tests
+Hydrostatic Tests
+oConnectors can be subjected to hydrostatic test pressures as defined by the connector and
+harness dat asheets.
+Differential Pressure Testing (Penetrators)
+Penetrators can be subjected to differential pressure testing as defined in the project
+requirements or connector datasheet.
+Gas Testing (Penetrators)
+oPenetrators can be subjected to low pressure helium leak testing of environmental seals, but
+must not be tested using high pressure gas. It is not possible for the end user to perform leak
+testing on connectors or harnesses.
+6.12.4 Visual Inspection
+After any systems integration test ,a full inspection of all SpecTRON equipment tested should be carried out .
+Focus should be on critical areas such as thereceptacle pi n, and r eceptacle shroud screen contact which
+should be free from any mechanical damage such as scratches or pitting.
+If the SIT requires the SpecTRON equipment to be partially or fully submerged in water or seawater they
+must undergo a full cleaning process outline in section 8.1whethe r they are to be placed in storage or to
+remain on the structure for deployment.
+6.13 Quick references
+For quick reference of the product, see section 1.3, which provides basic warning, caution and contact details
+among other information.
+In addition to the above, some details are also listed on the product label and marking such as, system typ e,
+part number (P/N), serial number (S/N), electrical, pressure and temperature rating as detailed in Sections
+1.3and 1.4.
+6.14 Disposal of waste products
+Safe disposal or recycling of waste/end of life product is recommended by correctly, observing and complying
+with area, regional, national, or international environmental legislation where applicable.
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety Officer
+atsubsea.connectors.productsafety.gb@siemens -energy.com .
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 55of62
+Unrestricted
+7 USER INFORMATION
+7.1 Normal and faulty/dangerous operation
+7.1.1 Visible oil discharges from connector
+During normal operation of the SpecTRON 8wet mate pair, it is normal for a film of oil to be left on the
+receptacle pin after mating.  There may also be some oil residue from assembly left in the compensation
+volume within the connector which may be visible during initial wetted testing.
+Continuous, or heavy leakage of oil from the compensation ports on the gl and and plug, or from the plug
+nose may be evidence of damage to the connector internals.
+7.1.2 Protection of receptacle contact pins
+Caution. Risk of material damage.
+Under no circumstances must the contact pins in the receptacle connector be exposed to
+seaw ater with power on. If this situation does occur the contact surfaces of the pins will
+very rapidly degrade by electrolytic action.
+If these damaged pins are subsequently mated into a socket insert there is a very high risk
+of damage to the insulation and seals within the plug connector.
+If the connectors are to be left unmated in seawater dummy connectors and subsea protective caps must be
+used to protect the pin contacts in the receptacle connectors. The maximum cumulative time for which the
+pin contacts can be exposed to sea -water over the entire lifetime of the connector is 60days, for connectors
+supplied before 2013, this duration is 28 days.
+Over exposure will increase the risk of corrosion damage or marine growth on the contact surfaces of the
+receptacle contact pins. This could lead to damage to the seals and insulation within the socket contacts.
+7.2 Cathodic Protection
+The SpecTRON 8Connecto rsaretypically manufactured from Super Duplex stainless steel (UNS S32550/UNS
+S32760). Some modular umbilical termination units (MUTU), test connectors , umbilical terminations, and
+accessories are manufactured from 316L stainless steel (UNS S31603).
+7.2.1 Super Duplex (UNS S32550 /UNS S32760 ,Siemens Energy Subsea Connectors Material
+“BQ”)
+Super Duplex stainless steel connectors and penetrators do not require a connection to a CP system , and
+Siemens Energy Subsea Connectors do not typically supply CP straps wit h Super Duplex connectors, however,
+if required, Siemens Subsea Connectors can supply CP strap with Super Duplex connectors, to the same
+specification as the strap used on 316L connectors, as above.
+SpecTRON 8 connectors manufactured in Super Duplex materi als have been analysed for susceptibility to
+HISC in accordance with DNV RP -F112 (Design of Duplex Stainless Steel Subsea Equipment Exposed to
+Cathodic Protection).  As such, they can be connected to cathodic protection systems, but as calcareous
+growth ca n vary in different seawater conditions, it is the end user’s responsibility to evaluate the calcareous
+growth expected over the life of the connector system.
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 56of62
+Unrestricted
+7.2.2 Stainless Steel 316L (UNS S31603, Siemens Energy Subsea Connectors Material “AA”)
+Caution. Risk of material damage.
+Stainless steel 316L (UNS S31603) modular umbilical termination units (MUTU) must
+always beconnected to a CP (Cathodic Protection) system to withstand harsh saliferous
+environments.
+Siemens Energy Subsea Connectors provide a CP strap with connectors manufactured to the length specified
+by the end -user.  The CP strap is manufactured in 316 sta inless steel with a cross section of 16 mm2, and a
+M6ring terminal for connection to the CP system.
+7.3 Troubleshooting (FAQ’s)
+For any questions not included below, please contact any of the following:
+Department E-mail address
+Product Safety subsea.connectors.productsafety.gb@ siemens -energy.com
+Technical Support connectortechnicalsupport.gb@ siemens -energy.com
+Installation and Servicing susultlcmsupport.gb@ siemens -energy.com
+Sales connectorsales.gb@ siemens -energy.com
+Table 8-Troub leshooting product contact details
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 57of62
+Unrestricted
+8 PRODUCT MAINTENANCE
+Danger !Risk of death from electric shock.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any residual voltage to discharge before de -
+mating connectors
+Connectors must be fully mated before energisation
+Receptacles must not be energised unless mated to a plug
+Caution. Risk of material damage.
+Connectors must not be de -mated whilst live.
+Allow sufficient time for system to allow any residual voltage to discharge before de -
+mating connectors
+Connectors must be fully mated before energisation
+Receptacles must not be energised unless mated to a plug
+8.1 Connector Cleaning and Drying
+Caution. Risk of corrosion to electrical contacts.
+The specified cleaning process must be followed when connectors have been retrieved
+from deployment or after they have been in contact with water.
+Warning. Risk of eye injury
+Wear appropriate eye protection wh en using compressed air to remove water or isopropyl
+alcohol from the connector internals
+Warning. Risk of skin irritation
+Wear appropriate hand protection when using isopropyl alcohol to clean connect or
+components
+8.1.1 Receptacle
+Rinse the receptacle shroud and pins well with fresh water, a squeeze bottle can be used to dislodge
+any contaminants around the pin tip.
+Receptacle Pins
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 58of62
+Unrestricted
+Figure 45–Receptacle Components for drying and cleaning
+Figure 46-Receptacle Pin tip
+Wipe using lint free tissue if required
+Rinse with Isopropyl Alcohol (IPA absolute alcohol 100%)
+No pooling of IPA or water within the Receptacle Shroud. Compressed air can be used to disperse
+any pooled fluid ,but the Receptacle pin smust be rechecked for contamination
+Allow Receptacle pin to completely dry
+There should be no damage present on the receptacle pin contact area (Figure 47)
+- -
+Figure 47-Receptacle pin contact area as supplied
+Apply dielectric oil to the pin. Dielectric oil must be TDO1 to avoid compatibility issue with
+elastomeric components. Siemens Subsea advises that one mate should be performed with a Plug
+connector to provide sufficient coverage. (If no plugs are available contact Siemens Energy Subsea
+Connectors for TD01 oil)
+Protective cap must be refitted at this stage. It is critical that both the protective cap and receptacle
+Shroud/Pin are clean and dry before fitting, this is so moisture is not trapped around the pin contact
+area, which could result in corrosion over the long term.
+Pin Tips
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 59of62
+Unrestricted
+8.2 Product maintenance (skilled persons)
+8.2.1 Removal of Marine Growth and Calcareous Deposits
+Warning. Risk of minor personal injury to persons with sensitivities to a solution of 50% Citric
+Acid.
+Wear appropriate hand and eye protection when handling.
+Caution. Risk of material damage.
+Only use 50% Citric Acid during cleaning. Other acid cleaners, such as 50% Acetic Acid,
+should not be used as they may cause deterioration of the elastomeric materials.
+Chiselling and abrasiv e methods are not recommended.
+Water jetting in air should be avoided to minimise probability of damage to the connector.
+However, u se of a water jet is acceptable, provided that the jet is never directed into the
+shuttle pins at the front of the plug , orinto the bore of the receptacle.
+Rinse the connector with fresh water thoroughly after any cleaning operation
+After retrieval, Siemens Energy recommend that the connector is cleaned of marine and calcareous growth.
+To remove calcite growth from Siemens Energy Subsea connectors, a solution of 50% Citric Acid is
+recommended. Figure 49shows locations which should be avoided for power washing removal of calcite
+growth.
+It is recommended the solution is introduced through the flushing port adaptor (as per Figure 49) to provide
+maximum saturation within the Plug/Receptacle annulus. Other cavities on the receptacle shroud can be
+utilised to introduce the solution dependant o n access.
+All seawater exposed elastomeric and polymeric materials in Siemens Energy connectors have been tested
+against 50% Citric Acid and are suitable for intermittent exposure during cleaning operations through the
+life of the connector .
+Figure 48-SpecTRON 8 Plug Power Washing Locations
+
+
+
+
+
+
+
+
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 60of62
+Unrestricted
+Figure 49-SpecTRON 8 Receptacle Power Washing Locations
+8.2.2 Receptacle Flushing Port
+Caution. Risk of material damage.
+Only use 50% Citric Acid during cleaning. Other acid cleaners, such as 50% Acetic Acid,
+should not be used as they may cause deterioration of the elastomeric materials.
+Maximum injection pressure is 0,5bar
+Warning. Risk of injury
+Injection of 50% Citric Acid into the plug/receptacle interfac e should be performed with
+the connector immersed in water , or suitable splash/spray protection around the
+connector.
+Wear eye protection if the operation is performed topside
+Wear appropriate hand protection when handling connectors after separation
+Maximum injection pressure is 0,5bar
+The SpecTRON 8 receptacle flushing port can be connected to a subsea hot stab or topside equipment to
+allow chemical injection directly at the plug/receptacle interface to remove calcareous growth.  The flushing
+port adaptor (shown in Figure 49) has a G 3/8-19(3/8” BSP-P) interface .  This interface can be configured to
+allow injection in several scenarios, as descri bed below:
+Connected to a flexible pipe and a hot stab to allow use subsea on modules which are difficult to
+retrieve, e.g., Subsea Umbilical Termination Assembly (SUTA) connectors, improving resilience to
+subsea calcareous growth
+Blocked off with a suitab le bung to protect threads from marine and calcareous growth, to allow use
+after retrieval to simplify separation of connectors on modules which are designed for retrieval.
+Left open, if not intended for use, or if cleaning the interface after retrieval is possible.
+In any of these scenarios, 50% citric acid can then be injected into the interface, at a maximum pressure of
+0,5bar. A volume of 500 ml to 1 litre willfully flush the annulus between the plug and receptacle .If the
+connectors do not release after one application, the process can be repeated.
+
+
+
+
+Flushing Port Adaptor
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 61of62
+Unrestricted
+9 CUSTOMER COMMENTS/FEEDBACK
+Please complete the Sign Off section at the bottom of form to confirm each page of this document h as been
+read and complied with in full.
+Originator Name and Initials (BLOCK CAPITALS) Date
+Contact Details Contact Details
+Project Reference Customer Region
+Product Type Part Number (P/N) Serial Number (S/N)
+Please enter details below e.g. comments; complaints; evidence of good practice; incident reports;
+observations and recommendations, including any associated with health, safety or the environment,
+etc., also include any names/contact details of other relevant personne l.
+Sign Off Section
+Name (BLOCK CAPITALS) Signature Date
+Please e -mail completed form to the Product Safety Officer at the following address:
+subsea.connectors.productsafety.gb@siemens -energy.com
+Document No: DOC007 5
+Issue Date: 28/10/2022
+Revision: 16
+Page: 62of62
+Unrestricted
+Published by
+Siemens Energy Limited
+Faraday House Sir William Siemens Square
+Frimley, Camberley
+Surrey
+GU16 8QD , United Kingdom
+For more information, please visit our website:
+siemens -energy.com/ subsea
+Subject to changes and errors. The information given in this document only
+contains general descriptions and/or performance features which may not
+always specifically reflect those described, or which may undergo modification
+in the course of further development of the products. The requested
+performance features are binding only when they are expressly agreed upon in
+the concluded contract.
+Siemens Energy is a trademark licensed by Siemens AG.

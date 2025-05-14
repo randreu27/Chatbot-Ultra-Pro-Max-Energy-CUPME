@@ -1,0 +1,202 @@
+unrestricted © Siemens Energy 2021 Siemens Energy is a trademark licensed by Siemens AG.
+Use Case:
+Dual -Wall Combustion Transition
+unrestricted © Siemens Energy, 2021 2021 -08
+Conventional -to-AM Design Evolution
+Conventional Transition AM Transition
+IN625 LPBF Transition
+Current Testing Opportunity Enables Rapid / Low -Risk Evaluation of Lattice Performance & Integrity
+unrestricted © Siemens Energy, 2021 2021 -08
+AM Transition Design Features
+•Convergent modeling utilized to 
+modify legacy neutral CAD files
+•Convergent lattice body 
+generated and parametrically 
+driven from shell
+1)Self-supporting coolant inlets
+2)Printed “cutout” allows for larger 
+dual-wall footprint without ID 
+baffle modification
+3)Lattice accommodates thermal 
+fight of structure, while enhancing 
+heat transfer from the hot surface
+4)Self-supporting coolant outlet
+5)Effusion cooling eliminated.
+1234
+5
+unrestricted © Siemens Energy, 2021 2021 -08
+AM Transition Design Features
+Single -Printed Body Solid Shell BCC Lattice Structure = +
+unrestricted © Siemens Energy, 2021 2021 -08
+Lattice Design & Selection
+•Goal of this transition is to:
+•Gain real operating hours on 3D 
+printed lattice to gain understanding 
+of its damage tolerance
+•Explore dual -wall transition design to 
+reduce effusion cooling (NOx 
+benefit)
+•Explore heat rejection capability of 
+lattice structure
+•Lattice must be optimized for:
+→Heat rejection
+→Mechanical integrityHot GasCoolant Inlet
+Coolant Outlet
+Lattice operates in 
+compression and 
+alleviates thermal -fight of 
+dual wallsThinner shell wall eliminates effusion 
+cooling.
+Heat transfer augmented by lattice 
+conduction -convection with coolant.
+unrestricted © Siemens Energy, 2021 2021 -08
+Lattice Cell Sizing: Flow Driven
+•BCC lattice cell selected (internally 
+available mechanical test data)
+•Simplified CFD Analysis of a periodic 
+sheet of lattice.
+•Parametric design of experiments run to 
+understand geometry effect on pressure 
+drop and heat transfer.
+Heat Transfer CoefficientVideo
+unrestricted © Siemens Energy, 2021 2021 -08
+CFD Design of Experiments
+Cell Height = 3.4mm to 6.5mm Ø_Truss = 0.5mm to 1.5mm
+Inlet Velocity = range
+Sink (exit) Pressure = range
+6.5mm Edge Length, 1.5mm Truss Diameter Down -Selected for Design
+Competing goals (minimal pressure drop, maximum heat rejection)
+Optimal Balance Achieved utilizing Design Space Exploration
+unrestricted © Siemens Energy, 2021 2021 -08
+Material Testing & Modeling of BCC Lattice
+Homogenization allows efficient computation of deformation behavior of lattice.
+Orthotropic Homogenized Finite Element 
+Material Model
+Explicit Lattice Geometry + 
+Bulk MaterialNumerically Homogenized (Metal + Air) Tuned with Lab TestingApplied to solid finite elements 
+of lattice region
+σ,ε
+unrestricted © Siemens Energy, 2021 2021 -08
+Material Testing & Modeling of BCC Lattice
+Lab Test Tunes Material Model
+Homogenized 
+elastic properties 
+accurate to testDebit must be 
+applied to lattice 
+plastic behavior
+Lattice material debit due to inherent process limits (surface finish, contouring, etc.)
+
+unrestricted © Siemens Energy, 2021 2021 -08
+Thermal -Structural Analysis Setup
+•3D simulation
+•Heat Transfer & Mechanical 
+Loading
+•Evaluated with and without lattice 
+(shows benefit on mechanical 
+integrity)
+•Lattice treated as homogenized 
+solid body.
+•Constitutive model generated 
+numerically and tuned via lab 
+tests.
+•Captures deformation / load 
+transfer from shell
+•Will not capture accurate 
+lattice stress / life information 
+(not yet of interest)
+unrestricted © Siemens Energy, 2021 2021 -08
+Thermal -Structural Analysis Results
+(Equivalent stress normalized by largest nodal value)
+WITHOUT LATTICE WITH LATTICE
+Lattice redistributes thermal stress between shell walls, enabling design life to be met
+
+unrestricted © Siemens Energy, 2021 2021 -08
+Thermal -Structural Analysis Results
+(Equivalent stress normalized by largest nodal value)
+WITHOUT LATTICE WITH LATTICE
+Lattice redistributes thermal stress between shell walls, enabling design life to be met
+Critical aft fillet has 0 fatigue life Critical aft fillet has infinite fatigue life(Lattice hidden)
+unrestricted © Siemens Energy, 2021 2021 -08
+LBPF Print Simulation Setup
+Numerical orientation 
+algorithms utilized in 
+addition to manufacturing 
+experience.
+•Compares build time, 
+distortion, and support 
+qty.
+•Useful as sanity check
+•Can identify non -
+obvious efficient 
+orientations
+Actual printing process simulated to check for build failures and part NCCs from distortion.
+unrestricted © Siemens Energy, 2021 2021 -08
+LBPF Print Simulation Results
+[mm]
+No distortion build failures detected.  Part released for print.Post-Cutoff Deformation Shown
+unrestricted © Siemens Energy, 2021 2021 -08
+Multiple Prints →Its Never Just “CTRL+P”
+Build 
+Trial #1
+Build 
+Trial #2
+•Initial build failure due to lattice 
+mechanical properties and interaction 
+with shell. 
+•Build simulation would not capture this 
+(reality is still some trial & error)
+•Parameter sets customized for IN625 
+build for trial #2.
+•Part successfully printed and post 
+processed!
+Multiple build trials often necessary to overcome inherent complexity of LBPF process.  
+Feedback to process simulation critical to future reductions to trial necessity.
+unrestricted © Siemens Energy, 2021 2021 -08
+Successful Dual -Wall Transition with Lattice!
+Part currently on -site at combustion facility, in assembly, and will be tested in the next 2 months.
+unrestricted © Siemens Energy, 2021 2021 -08 Siemens Energy is a trademark licensed by Siemens AG.
+Disclaimer
+This document has been prepared in respect of Siemens Energy AG (together with its subsidiaries, 
+“Siemens Energy ”), under which the majority of the energy business of Siemens Aktiengesellschaft 
+(together with its subsidiaries, “ Siemens ”) will be bundled. It is intended to admit the shares in Siemens 
+Energy to trading on the regulated market of the Frankfurt Stock Exchange. This document does not 
+constitute or form part of any offer or invitation to sell or issue, or any solicitation of any offer to purchase or 
+subscribe for, any shares or other securities of Siemens or Siemens Energy in any jurisdiction.
+This document contains statements relating to the future business and financial performance and future 
+events or developments involving Siemens and Siemens Energy that may constitute forward -looking 
+statements. These statements may be identified by words such as “expect,” “look forward to”, “anticipate”, 
+“intend”, “plan”, “believe”, “seek”, “estimate”, “will”, “project” or words of similar meaning. Such statements 
+are based on the current expectations and certain assumptions, of which many are beyond Siemens’ and 
+Siemens Energy’s control. These are subject to a number of risks and uncertainties. Should one or more of 
+these risks or uncertainties materialize, should decisions, assessments or requirements of regulatory 
+authorities deviate from our expectations, or should underlying expectations not occur or assumptions prove 
+incorrect, actual results, performance or achievements of Siemens or Siemens Energy may (negatively or 
+positively) vary materially from those described explicitly or implicitly in the relevant forward -looking 
+statement. Neither Siemens nor Siemens Energy intend, nor assume any obligation, to update or revise 
+these forward -looking statements in light of developments which differ from those anticipated.The information and opinions contained in this document are provided as at the date of this presentation 
+and are subject to change without notice. They do not purport to contain all information that may be required 
+to evaluate Siemens or Siemens Energy and have not been verified independently. Historical financial or 
+operative information contained in this document has been taken or derived from Siemens’ financial 
+statements, accounting records or management reporting. The combined financial statements for Siemens 
+Energy are currently being prepared. These may deviate substantially from the information included in this 
+document. The information in this document is of a preliminary and abbreviated nature and may be subject 
+to updating, revision and amendment, and such information may change materially. In addition, the 
+historical financial and operative information included in this document does not necessarily fully reflect 
+changes that will occur when Siemens Energy operates as a separate group of companies. Accordingly, 
+such information is not necessarily indicative for the future consolidated results of operations, financial 
+position or cash flows of the prospective Siemens Energy business on a stand -alone basis.
+This document includes –in the applicable financial reporting framework not clearly defined –supplemental 
+financial measures that are or may be alternative performance measures (non -GAAP -measures). These 
+supplemental financial measures should not be viewed in isolation or as alternatives to measures of 
+Siemens’ or Siemens Energy’s net assets and financial positions or results of operations as presented in 
+accordance with the applicable financial reporting framework in its consolidated financial statements and 
+combined financial statements, respectively. Other companies that report or describe similarly titled 
+alternative performance measures may calculate them differently. Due to rounding, numbers presented 
+throughout this and other documents may not add up precisely to the totals provided and percentages may 
+not precisely reflect the absolute figures.
+This document contains forecasts, statistics, data and other information relating to markets, market sizes, 
+market shares, market positions and other industry data on Siemens’ or Siemens Energy’s business and 
+markets (together the “ market data ”) provided by third party sources as interpreted by us. This market data 
+is, in part, derived from published research and additional market studies prepared primarily as a research 
+tool and reflects estimates of market conditions based on research methodologies including primary 
+research, secondary sources and econometric modelling, which may not be representative.

@@ -1,0 +1,1583 @@
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          1                                                     Izdanje veljača  2025. 
+ 
+ 
+ 
+Letter of  
+to 
+Our reference  Siemens Energy d.o.o.  
+Uprava: Boris Miljavac, predsjednik Uprave;  
+Laura Musić, članica Uprave  
+ 
+Sjedište: Slavonska avenija 1 A, Zagreb; IBAN: Zagrebačka banka d.d. HR7523600001102819568.  
+Društvo je upisano u sudski registar Trgovačkog suda u Zagrebu pod br. 081265238.  
+Temeljni kapital: 2.700.000,00 EUR . Matični broj 5152984, PDV ID broj HR18960883235, OIB: 1896088323  
+Neograničeno © Siemens Energy, 202 4                    Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+ 
+ 
+OPĆI UVJETI NABAVE  
+Siemens Energy d.o.o.  Slavonska avenija 1A,  Zagreb  
+(OIB: 18960883235)  
+ 
+Izdanje veljača  2025. 
+ 
+ 
+1.  Primjena Općih uvjeta  
+ 
+1.1.  Ovi Opći uvjeti nabave primjenjuju se na sve narudžbe (isporuke robe i usluga) trgovačkog 
+društva Siemens Energy d.o.o., Slavonska avenija 1A , 10000 Zagreb, OIB: 18960883235, i 
+povezanih trgovačkih društava društva Siemens Energy (dalje u tekstu „Naručitelj“ ili „SIEMENS 
+ENERGY“ ili „Društvo “) upućene Dobavljaču (bilo koja strana koja dobavlja proizvode i usluge 
+trgovačkom društvu SIEMENS ENERGY).   
+ 
+ 
+2. Narudžbenica  
+ 
+2.1. Ovi Opći uvjeti nabave postat će sastavni dio ugovora nakon prihvaćanja narudžbe od strane 
+Dobavljača.  Narudžbe su važeće ako su sastavljene u pisanom obliku i uredno potpisane. 
+Naručitelj također može poslati narudžbu putem elektroničke razmjene podataka (eng. 
+Electronic Data Interchange , EDI) pod uvjetom da je to izričito dogovoreno u pisanom obliku 
+između društva SIEMENS ENERGY i Dobavljača. Izmjene ili dopune narudžbi ili usmeni 
+sporazumi vrijede samo ako ih SIEMENS ENERGY(Naručitelj) napismeno potvrdi.  
+ 
+2.2. Dobavljač može koristiti podizvođače za obavljanje svih ili dijela svojih obaveza prema narudžbi 
+samo ako je prethodno dobio izričito odobrenje od društva SIEMENS ENERGY.  
+ 
+ 
+3. Potvrda narudžbe, opći uvjeti Dobavljača  
+ 
+3.1. SIEMENS ENERGY odmah mora dobiti potvrdu da je narudžbenica prihvaćena. Narudžbenica 
+se može potvrditi i putem elektroničke razmjene podataka (EDI) pod uvjetom da je to izričito 
+dogovoreno u pisanom obliku između društva SIEMENS ENERGY i Dobavljača. SIEMENS 
+ENERGY pridržava pravo opozvati narudžb u, za što SIEMENS ENERGY ne mora platiti nikakvu 
+naknadu osim ako od Dobavljača nije primio urednu potvrdu narudžbe u razumnom roku, ali ne 
+kasnije od dva tjedna nakon datuma zaprimanja narudžbe. Smatra se da j e opoziv bio 
+pravovremen ako je obavijest o istom poslana Dobavljaču prije nego što je SIEMENS ENERGY 
+primio potvrdu narudžbenice.  
+ 
+3.2. Ako potvrda narudžbenice odstupa od narudžbe, Dobavljač mora u potvrdi narudžbenice jasno 
+navesti sva takva odstupanja.  SIEMENS ENERGY je obvezan izvršiti obveze prema tom 
+odstupanju samo ako je za to dao svoju izričitu pisanu suglasnost. Bezuvjetno prihvaćanje robe 
+koju isporučuje Dobavljač od strane društva SIEMENS ENERGY ne smatra se prihvaćanjem 
+nekog takvog odstupanja . 
+ 
+3.3. Opći uvjeti Dobavljača nisu obvezujući za SIEMENS ENERGY, osim ako je SIEMENS ENERGY 
+dao svoju pisanu potvrdu prihvaćanja.  Bilo kakvo upućivanje u narudžbi na dokumente ponude 
+Dobavljača od strane društva SIEMENS ENERGY ne smatra se prihvaćanjem uvjeta 
+Dobavljača.  
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          2                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+3.4. Uvjeti poslovanja Dobavljača ili nekog njegovog podizvođača dostavljeni u papirnatom ili 
+digitalnom obliku, zajedno s isporukom softvera, nisu obvezujući za SIEMENS ENERGY, osim 
+ako je SIEMENS ENERGY za to dao svoju prethodnu posebnu pisanu suglasnost.  To vrijedi 
+osobito ako SIEMENS ENERGY ili neka treća osoba povezana s društvom SIEMENS ENERGY 
+(npr. zaposlenici, konzultanti, kupci društva SIEMENS ENERGY) izvrši postupak koji prema tim 
+uvjetima predstavlja osnovu za sklapanje ugovora, ili ako se kartice  za registraciju softvera ili 
+druge kartice pošalju Dobavljaču.  
+ 
+ 
+4. Rok isporuke, posljedice kašnjenja  
+ 
+4.1. Osim ako nije izričito dogovoreno drugačije, rok za isporuku robe ili usluge počinje teći na dan 
+narudžbe, osim ako je izričito ugovoren drugačiji početak.  Ako takav rok nije dogovoren, 
+Dobavljač mora bez odgode isporučiti robu ili usluge. Dan koji će se smatrati isporukom robe bit 
+će datum primitka na lokaciji koju navodi SIEMENS ENERGY („mjesto uporabe“). Ako isporuka 
+uključuje postavljanje ili montažu, da n koji će se smatrati isporukom bit će datum primopredaje  
+robe po  izvršenom postavljanju ili mon taži. U slučaju predvidivog kašnjenja isporuke, Dobavljač 
+će o tome bez odlaganja obavijestiti SIEMENS ENERGY i u vezi toga zatražiti od društva 
+SIEMENS ENERGY odluku. U tom slučaju rok za isporuku robe ili usluga produžit će se samo 
+ako je SIEMENS ENERGY izričito prihvatio takvo produženje u pisanom obliku.  
+ 
+4.2.      SIEMENS ENERGY ima pravo zaračunati kaznu od 0,5% od ukupne vrijednosti narudžbe za 
+svaki započeti kalendarski dan kašnjenja s isporukom robe ili usluga, ali maksimalno 10% od 
+ukupne vrijednosti narudžbe.  Takva je kazna neovisna od krivnje Dobavljača i bilo kakvog 
+dokaza štete. SIEMENS ENERGY pridržava pravo na odštetu koja premašuje iznos kazne. U 
+slučaju kašnjenja SIEMENS ENERGY ima pravo odstupiti iz ugovora nakon isteka razumnog 
+dodatnog roka za isporu ku od strane Dobavljača. To vrijedi i ako je SIEMENS ENERGY dosad 
+bez zadrške prihvaćao zakašnjele parcijalne isporuke. U slučaju ugovora kod kojeg je rok 
+isporuke od velikog značaja, SIEMENS ENERGY nema obvezu produžiti rok za isporuku.  
+ 
+4.3. U slučaju da se za vrijeme trajanja roka za isporuku može vidjeti da Dobavljač neće uredno 
+isporučiti robu ili usluge ili ispuniti obveze u dogovorenom roku, SIEMENS ENERGY ima pravo 
+poduzeti sve potrebne mjere kako bi spriječio neminovno kašnjenje isporuke o trošku i riziku 
+Dobavljača.  
+ 
+4.4. U slučaju prijevremene isporuke SIEMENS ENERGY pridržava pravo Dobavljaču zaračunati 
+dodatne troškove, npr. troškove skladištenja i osiguranja, kao i izvršiti uplatu prema 
+dogovorenom datumu isporuke.  Do dogovorenog datuma SIEMENS ENERGY ima isključivu 
+odgovornost depozitara.  
+ 
+4.5. Dobavljač je suglasan na zahtjev SIEMENS ENERGY dostavljati svoja financijska i nezavisna 
+bonitetna izvješća (npr. „D&B“, BON -2, potvrde poslovnih banaka i sl.) s ciljem praćenja kreditne 
+sposobnosti. Ukoliko SIEMENS ENERGY iz dostavljenih ili javno dostup nih podataka procijeni 
+da je došlo do značajnije promjene kreditne sposobnosti, ili ako je protiv Dobavljača pokrenut 
+stečajni postupak ili postupak likvidacije ili ako dođe do promjene u vlasničkoj strukturi 
+Dobavljača ili odbije dostaviti tražene po datke, SIEMENS ENERGY ima pravo u potpunosti ili 
+djelomično otkazati ugovor bez da snosi ikakve posljedice.  Dobavljač mora odmah o takvim 
+okolnostima obavijestiti SIEMENS ENERGY.  
+ 
+ 
+5. Otprema, isporuka, prijenos rizika, kontrola izvoza  
+ 
+5.1. Kod isporuka koje uključuju postavljanje ili montažu kao i kod usluga rizik se prenosi prilikom 
+primopredaje  (u slučaju navedenih isporuka  roba, prijelaz rizika nastupa po izvršenom 
+postavljanju ili montaži) ; za isporuke koje ne uključuju postavljanje ili montažu rizik se prenosi 
+prilikom primitka na odredištu od strane društva SIEMENS ENERGY. Ako je sjedište Dobavljača 
+i mjesto isporuke u EU -u, vrijede Incoterms®2020 za DDP (odredište). Ako je u ovom slučaju  
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          3                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+dogovorena isporuka na gradilišta ili izravno trećim osobama, Dobavljač snosi troškove i rizik 
+za istovar robe. Ako sjedište Dobavljača ili mjesto isporuke nisu u EU -u, vrijede Incoterms®2020 
+za DAP (odredište). Ako se u ovom slučaju dogovori isporuka na g radilišta ili izravno trećim 
+osobama, vrijede Incoterms®2020 DPU (odredište).  
+ 
+5.2. Djelomična isporuka kao i isporuka manja ili veća od ugovorenog dopuštena je samo ako je 
+SIEMENS ENERGY za to prethodno dao svoju izričitu suglasnost u pisanom obliku. Roba se 
+isporučuje odjelu za primopredaju robe na mjestu određenom za isporuku u roku dogovorenom 
+za primitak robe prema narudžbi. Svaka isporuka popraćena je dostavnicom na kojoj se nalaze 
+pojedinosti o neto  težini po stavci, broj narudžbenice za cijelu narudžbu i adresa za dostavu.  
+ 
+5.3. Svi zahtjevi društva SIEMENS ENERGY u pogledu načina prijevoza, odabiru prijevoznika i 
+propisi otpreme moraju se strogo poštovati.  Osim ako SIEMENS ENERGY ne zatraži određeni 
+način prijevoza, roba se mora otpremiti za najmanji mogući trošak. U suprotnom, Dobavljač 
+snosi sve negativne posljedice i dodatni trošak. Dobavljač snosi dodatni trošak koji proizlazi iz 
+potrebe da se poštuje r ok isporuke tako da se roba pošalje ekspresnom pošiljkom. Ako 
+dogovoreni instrumenti plaćanja (npr. akreditiv) i dokumenti za otpremu, osobito podaci 
+narudžbenice, nedostaju ili nisu potpuni, SIEMENS ENERGY ima pravo odbiti pošiljku na trošak 
+i rizik Dobav ljača.  
+ 
+5.4.       Propisi o kontroli izvoza i vanjskoj trgovini  
+ 
+Dobavljač je dužan postupati u skladu sa svim  važeć im propis ima o kontroli izvoza, carini i 
+vanjskoj trgovini („Propisi o vanjskoj trgovini”). Dobavljač  posebno  izjavljuje i jamči da nijedan 
+od njegovih proizvoda ili usluga pruženih na temelju  ugovor a ne sadržava proizvode i/ili usluge 
+čiji je uvoz ograničen prema Propisima o vanjskoj trgovini koji se primjenjuju na SIEMENS 
+ENERGY , uključujući, ali se ne ograničavajući na  Uredbe Vijeća (EU) 833/2014, 692/2014, 
+2022/263 ili 765/2006, uključujući njihove  izmjen e i dopun e, kao i uvozna ograničenja koja 
+primjenjuje Carinska i granična zaštita SAD -a. Dobavljač mora obavijestiti SIEMENS ENERGY  
+u pisanom obliku , u roku od dva tjedna od zaprimanja narudžbe – a u slučaju bilo kakvih 
+promjena bez odlaganja – o svim informacijama i podacima koji bi  društvu SIEMENS ENERGY  
+bili potrebni  u svrhu  poštivanja i  postupanja u skladu sa svim Propis ima o vanjskoj trgovini u 
+slučaju izvoza i uvoza, kao i ponovnog izvoza, uključujući, ali se ne ograničavajući na sljedeće:  
+    – sve primjenjive brojeve popisa izvoza, uključujući klasifikacijski broj za kontrolu izvoza (engl. 
+Export Control Classification Number, ECCN) prema Trgovačkom kontrolnom popisu  SAD-a; i  
+ – statističku oznaku robe prema važećoj klasifikaciji robe za statistiku vanjske trgovine i 
+Harmoniziranom sustavu nazivlja i brojčanog označavanja robe  (harmoniziran i sustav, engl. 
+Harmonized System ), uključujući odgovarajuću tarifnu osnovicu na temelju koje je provedeno  
+razvrstavanje proizvoda (npr. kombinirana nomenklatura EU -a, TARIC, US HTS) ; i 
+ – podatke o  zemlj i podrijetla (nepovlašteno podrijetlo) kao i regij i podrijetla, ako je primjenjivo 
+za dotičnu zemlju podrijetla; dokaz o podrijetlu (npr. paking lista, otpremnica, BOL, GAI) ; i 
+ – na zahtjev društva SIEMENS ENERGY : izjavu  o povlašte nosti , uključujući i  izjavu 
+Dobavljača o povlaštenom podrijetlu (u slučaju europskih dobavljača) ili potvrde  o povlašteno m 
+podrijetlu  (u slučaju neeuropskih dobavljača) ; i 
+ – na zahtjev društva SIEMENS ENERGY : dokaz o zemlji podrijetla sirovina željeza i čelika 
+koji se koriste za preradu proizvoda.  
+Dobavljač snosi odgovornost za sve troškove i/ili štetu koju SIEMENS ENERGY  pretrpi zbog 
+bilo kakvog kršenja obveza u skladu s ovim člankom 5.4.  
+ 
+5.5.       Zabrana ponovnog izvoza u Rusiju ( Klauzula „bez Rusije“ ) 
+   
+Ova odredba primjenjivat će se ako i u mjeri u kojoj: (i) SIEMENS ENERGY isporučuje bilo  
+kakvu robu ili tehnologiju Dobavljaču tijekom izvršenja ugovora; (ii) takva isporučena roba ili 
+tehnologija jesu ili se odnose na robu uvrštenu na popis u Prilozima navedenima u Članku 12.g 
+Uredbe EU -a br. 833/2014 i Uredbe EU br. 765/2006, uključujući njihove izmjene i dopune i (iii) 
+isporuka se  izvršava iz EU -a u treću zemlju, uz iznimku partnerskih zemalja kako su navedene 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          4                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+u članku 12.g Uredbe EU br. 833/ 2014 i članku 8.g Uredbe EU -a br. 765/2006, uključujući 
+njihove izmjene i dopune:  
+- SIEMENS ENERGY zabranjuje Dobavljaču, a Dobavljač je suglasan s takvom zabranom i 
+obvezuje se da neće ponovno izvoziti i/ili prosljeđivati, izravno ili neizravno, u Rusiju ili 
+Bjelorusiju ili u svrhu korištenja u Rusiji ili Bjelorusiji bilo koju robu  (hardver i/ili softver i/ili 
+tehnologiju i s time povezanu dokumentaciju, neovisno o načinu pružanja ili isporuke istih) koju 
+SIEMENS ENERGY proda, isporuči, preda ili izveze Dobavljaču na temelju ugovora.  
+- SIEMENS ENERGY zabranjuje Dobavljaču, a Dobavljač je suglasan s a zabranom da u vezi s 
+robom namijenjenom za prodaju, isporuku, prijenos ili izvoz, direktno ili indirektno, u Rusiju ili 
+Bjelorusiju ili u svrhu korištenja u Rusiji ili Bjelorusiji, koristi  (uključujući podlicenciranje, prodaju 
+i/ili prijenos) bilo koje pravo intelektualnog vlasništva, poslovne tajne, materijale i/ili druge 
+informacije zaštićene pravima intelektualnog vlasništva ili poslovnom tajnom, koja su 
+licenciran e, prodan e, prenesen e ili na drugi način  učinjene dostupnim a Dobavljaču na temelju 
+ugovora. Ugovorne strane su suglasne da  se, sukladno odredbama ovog članka, uz prava 
+izričito dodije ljena odredbama ugovora, Dobavljaču  nisu dodijeljena ni ustupljena nikakva 
+dodatna prava u odnosu na prava intelektualnog vlasništva, poslovne tajne ili drug e informacij e. 
+- SIEMENS ENERGY će biti ovlašten raskinuti ili otkazati ugovor pisanom izjavom o raskidu ili 
+otkazu ako Dobavljač postupi protivno obvezama iz članka 5.5. ovih Općih uvjeta nabave. 
+Dobavljač je obvezan nadoknaditi društvu SIEMENS ENERGY sve troškove i štetu 
+koju  SIEMENS ENE RGY pretrpi takvim raskidom ili otkazom ugovora. Neovisno o navedenom, 
+Dobavljač je u tom slučaju obvezan isplatiti društvu SIEMENS ENERGY ugovornu kaznu u 
+iznosu od 20 % (dvadeset posto) nabavne cijene/vrijednosti isporučene robe.  
+- Neovisno o pravima društva SIEMENS ENERGY iz prethodnog stavka, Dobavljač je dužan 
+obeštetiti i osloboditi SIEMENS ENERGY u cijelosti od bilo kakvih zahtjeva, postupaka, tužbi, 
+kazni, gubitaka, troškova ili štete koje bi SIEMENS ENERGY pretrpio ili koji bi  mu nastali na 
+temelju odluke bilo kojeg javnog tijela ili zahtjeva trećih osoba na temelju ili vezano uz 
+Dobavljačevo kršenje obveza iz članka 5.5. ovih Općih uvjeta nabave te će Dobavljač 
+nadoknaditi društvu SIEMENS ENERGY sve gubitke i troškove poveza ne s time.  
+ 
+5.6. SIEMENS ENERGY nije obvezan ispuniti ugovor ukoliko njegovo ispunjenje priječi bilo koja 
+zapreka postavljena nacionalnim ili međunarodnim vanjskotrgovinskim ili carinskim zahtjevima 
+ili bilo kojim embargom ili drugim sankcijama.  
+ 
+5.7. Izravne isporuke kupcima društva SIEMENS ENERGY šalju se po potrebi i prema isključivom 
+zahtjevu društva SIEMENS ENERGY i to u neutralnoj ambalaži i s dokumentima za otpremu na 
+ime i u korist društva SIEMENS ENERGY.  Dobavljač mora društvu SIEMENS ENERGY 
+dostaviti presliku tih dostavnica.  
+ 
+5.8. Ne vrijedi nikakav pridržaj prava vlasništva bilo koje prirode od strane Dobavljača.  
+ 
+5.9. Ako je cijena navedena bez ambalaže, ambalaža se naplaćuje po cijeni koštanja i posebno 
+navodi na fakturama.  Osim ako ugovorne strane ne dogovore drugačije, vrijednost ambalažnog 
+materijala koje SIEMENS ENERGY vraća Dobavljaču za ponovnu uporabu plaća Dobavljač. 
+Dobavljač snosi odgovornost za svaku štetu prouzročenu neadekvatnom ambalažom. Ako 
+isporučuje opasnu robu, Dobavljač se mora pridržavati svih važećih zakonskih odredbi, osobito 
+onih koje se odnose na vrstu i obilježavanje ambalaže i na korištena sredstva prijevoza.  
+ 
+5.10.  Za izvođenje radova i usluga iz ovog ugovora, Dobavljač smije koristiti samo one zaposlenike 
+koji nisu na popisu relevantnih nacionalnih europskih i američkih sankcijskih lista temeljenih na 
+propisima o međunarodnoj trgovini.  
+ 
+5.11.  Dobavljač mora samostalno obaviti radove. Dobavljač smije dio radova dodijeliti trećoj strani (tj. 
+podizvođaču ili ovlaštenom posredniku). SIEMENS ENERGY mora trećoj strani prije početka 
+radova izdati pisano odobrenje za izvođenje navedenih radova. D obavljač mora u pisanom 
+obliku obavijestiti SIEMENS ENERGY o uključivanju daljnjih trećih strana i dostaviti sve 
+potrebne dokumente za izdavanje odobrenja navedenoj trećoj strani.  
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          5                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+ 
+6. Obustava, storno  
+ 
+6.1. SIEMENS ENERGY pridržava pravo u bilo koje vrijeme zahtijevati od Dobavljača da obustavi 
+ispunjenje ugovora.  Ako se ispunjenje ugovora obustavi na razdoblje dulje od tri mjeseca, 
+Dobavljač mora društvu SIEMENS ENERGY detaljno prikazati troškove koji su za njega nastali 
+zbog takve obustave. Međutim, SIEMENS ENERGY nije odgovoran Dobavljaču za izgubljenu 
+dobit. Do bavljač može tražiti nadoknadu samo za takav dokazani trošak. Dobavljač ne može 
+tražiti nadoknadu za troškove koji su nastali kao rezultat obustave kraće od tri mjeseca, a 
+također niti za troškove nastale tijekom prva tri mjeseca ako je obustava trajala du že od tri 
+mjeseca.  
+ 
+6.2. SIEMENS ENERGY pridržava pravo povući se iz ugovora, u cijelosti ili djelomično te isti ugovor 
+otkazati bez obzira na moguću krivnju Dobavljača.  U tom slučaju Dobavljač ima pravo naplatiti 
+društvu SIEMENS ENERGY samo usluge za koje je dokazano da su izvršene do datuma 
+povlačenja, umanjeno za sve moguće odbitke i uštede koje proizlaze iz ili se odnose na 
+povlačenje.  
+ 
+6.3. SIEMENS ENERGY također zadržava pravo mijenjati opseg isporuke ili usluga. Dobavljač ima 
+pravo na odgovarajuće prilagodbe u ugovornoj cijeni.  
+ 
+ 
+7. Fakturiranje, prijeboj  
+ 
+7.1. Fakture moraju sadržavati sve pojedinosti narudžbenice i moraju se dostaviti odmah po isporuci 
+robe ili izvršenju usluga  u SIEMENS ENERGY   Fakture je moguće dostaviti i u PDF obliku  na 
+mail: energyeracun.rc -hr@siemens -energy.com , a originale računa je obavezno dostaviti i 
+poštom . E-Računi se šalju putem servisa “Moj -eRačun”  te originale faktura nije potrebno  slati 
+poštom . Preslike faktura moraju se označiti kao duplikati. Fakture moraju biti formulirane i 
+strukturirane tako da omoguće uspoređivanje s narudžbom i njihovu reviziju. Sve fakture moraju 
+sadržavati broj narudžbenice i podatke narudžbenice. Fakture koje se odnose na obavljene 
+isporuke robe moraju biti popraćene otpremnicama  koje je potvrdio SIEMENS ENERGY . 
+Fakture koje se odnose na obavljene usluge i montažu moraju biti popraćene zapisima radnog 
+vremena i zapisni cima  o preuzimanju  koje je potvrdio SIEMENS ENERGY. Fakture koje se 
+odnose na robu za koju su potrebna izvozna odobrenja moraju sadržavati sve zahtjeve za 
+označavanjem koji su ispunjeni.  Fakture  čiji je predmet  međunarodna trgovin a robom obavezno 
+moraju sadržavati opis, količinu , tarifni broj  i neto težinu robe po stavkama . 
+Dobavljač je dužan prije kreiranja narudžbenice, a najkasnije prije izdavanja  fakture dostaviti  
+OIB te OIB obavezno navesti na fakturi . Faktura koja ne sadrži OIB se smatra neispravnom te 
+će biti vraćena Dobavljaču  i smatrat će se da faktura nije ni predana . Ako je glavni ured 
+Dobavljača unutar EU, Dobavljač mora osigurati porezni broj najkasnije uz dostavu fakture.  U 
+slučaju da Dobavljač nema OIB, dužan je dostaviti Izvod iz registracijskog suda zemlje sjedišta 
+dobavljača  i drugu zakonom propisanu odgovarajuću dokumentaciju te važe sve ranije 
+navedene odredbe  ovog članka  za OIB.  
+ 
+7.2. SIEMENS ENERGY pridržava pravo vratiti fakture, a da ih ne obradi ako one ne ispunjavaju 
+njegove uvjete, osobito one uvjete koji se odnose na podatke narudžbenice ili porezne propise. 
+U tom slučaju smatrat će se da fakture nisu ni predane. Elektronički rač uni će se prihvatiti samo 
+ako su proslijeđeni društvu SIEMENS ENERGY preko EDI -a odnosno putem servisa “Moj -
+eRačun” . 
+ 
+7.3. Dobavljač nema pravo na prijeboj potraživanja od društva SIEMENS ENERGY u odnosu na 
+potraživanje koje SIEMENS ENERGY ima prema Dobavljaču.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          6                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+8. Uvjeti plaćanja  
+ 
+8.1. Razdoblje u kojemu se fakture moraju platiti počinje s bezuvjetnim prihvaćanjem isporučene 
+robe ili usluga od strane društva SIEMENS ENERGY i po primitku uredno izdane fakture.  Ako 
+je Dobavljač obvezan osigurati materijalna ispitivanja, zapise o ispitivanjima ili dokumente o 
+kontroli kvalitete ili neku drugu dokumentaciju, smatrat će se da su roba i usluge u potpunosti 
+isporučeni tek nakon primitka takve dokumentacije.  
+ 
+8.2. Osim ako nije drugačije dogovoreno, plaćanja se vrše u roku od 60 dana neto ili u roku od 30 
+dana umanjeno za popust od 3%, po izboru društva SIEMENS ENERGY.  SIEMENS ENERGY 
+ima pravo uskratiti plaćanje dok se ne isprave utvrđeni nedostaci. Za vrijeme trajanja razdoblja 
+komercijalnog jamstva, SIEMENS ENERGY može uskratiti do 10% vrijednosti ugovora u obliku 
+beskamatnog garantnog depozita. Plaćanje se ne smatra potvrdom da su roba ili usluge 
+isporučene u skladu s ugovorom, niti odricanjem bilo kojeg prav a koje pripada društvu SIEMENS 
+ENERGY. Smatrat će se da su plaćanja pravovremeno izvršena po izvršenju naloga za prijenos 
+u banci društva SIEMENS ENERGY do datuma dospijeća uplate. Dobavljač snosi bankovne 
+troškove koji nastaju za banku koja prima uplatu. Ako iz bilo kojeg razloga dogovoreno 
+osiguranje nije (ili više nije) na raspolaganju, Dobavljač je dužan osigurati društvu SIEMENS 
+ENERGY jednakovrijedno osiguranje. U slučaju plaćanja predujma, Dobavljač je obvezan na 
+zahtjev društva SIEMENS ENERGY, a pri je izvršenja plaćanja predujma, dostaviti Garanciju za 
+povrat predujma koju je izdala prihvatljiva prvorazredna banka, a koja mora biti neopoziva, 
+bezuvjetna i plativa na prvi poziv.  
+ 
+8.3. SIEMENS ENERGY ima pravo na prijeboj potraživanja za svoja pridružena društva 
+potraživanjima Dobavljača.  
+SIEMENS ENERGY ima pravo na prijeboj potraživanja od Dobavljača u odnosu na potraživanje 
+koje Dobavljač ima prema društvu SIEMENS ENERGY.  
+ 
+8.4  Ako Dobavljač promjeni IBAN (bankovni račun) ili druge bankovne podatke o kojima je prvotno 
+obavijestio SIEMENS ENERGY za potrebe izvršenja plaćanja, ili se bankovni račun Dobavljača 
+koji je već naveden u sustavima društva SIEMENS ENERGY razlikuje od banko vnog računa 
+navedenog na fakturi Dobavljača, Dobavljač je obvezan o navedenoj promjeni obavijestiti 
+SIEMENS ENERGY u što kraćem roku i o svome trošku dostaviti SIEMENS ENERGY -u pisanu 
+potvrdu bankarske institucije kao dokaz navedene promjene, kojom se  u slučaju promjene 
+bankovnog računa potvrđuje da je Dobavljač vlasnik novog bankovnog računa. U suprotnom, 
+SIEMENS ENERGY pored prava povrata fakture sukladno odredbama članka 7.2., zadržava 
+pravo računati dospijeće plaćanja Dobavljaču od dana primitka pi sane potvrde bankarske 
+institucije o promjeni IBAN -a ili drugih bankovnih podataka, i obustaviti rok plaćanja do 
+navedenog dana primitka spomenute potvrde.  
+ 
+ 
+9. Primopredaja, obavijest o nedostacima, odgovornost za nedostatke, odgovornost za 
+proizvode, prava intelektualnog vlasništva, osiguranje kvalitete, odgovornost za štetu , 
+dostava dokumentacije  
+ 
+9.1. Sami primitak ili privremena uporaba isporučene robe i usluga ili plaćanja za iste ne predstavlja 
+prihvaćanje ili odricanje od prava koja pripadaju društvu SIEMENS ENERGY.  Potvrda primitka 
+koju izdaje odjel za prijem robe u društvu SIEMENS ENERGY ne predstavlja konačno 
+prihvaćanje isporučene robe  ili izvršenih usluga  od strane društva SIEMENS ENERGY.  
+ 
+9.2. Roba se preuzima (prima) i u razumnom roku nakon primitka pregledava kako bi se ustanovilo 
+je li cjelovita i sadrži li vidljive nedostatke.  Ukoliko se nakon primitka robe  ukaže neki nedostatak 
+koji se nije mogao otkriti uobičajenim pregledom prilikom primitka robe , SIEMENS ENERGY 
+zadržava prava prema Dobavljaču s osnove tih materijalnih  i/ili pravnih  nedostataka za cijelo 
+vrijeme važenja  odgovornosti za materijalne nedostatke odnosno odgovornosti po osnovi 
+komercijalnog jamstva.  Kada to opravdavaju okolnosti slučaja, SIEMENS ENERGY je ovlašten 
+provesti samo nasumičan pregled i provjeru dijela isporučene robe  kao reprezentativnog uzorka . 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          7                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+Ako se ustanovi da dijelovi isporučene robe  ili usluga  (bilo u slučaju provjere  cjelokupno 
+isporučene robe , bilo u slučaju nasumične provjere)  ne ispunjavaju zahtjeve društva SIEMENS 
+ENERGY ili sadrže materijalne i/ili pravne nedostatke , SIEMENS ENERGY uvijek ima pravo  u 
+potpunosti odbiti  svu isporučenu robu ili usluge , a ne samo dio  istih zahvaćenih opisanim 
+nedostacima . SIEMENS ENERGY će u najkraćem mogućem roku obavijestiti Dobavljača o 
+otkrivenim nedostacima. Ovaj članak se na odgovarajući način primjenjuje i na isporuku usluga.  
+ 
+9.3. Od Dobavljača se zahtijeva da provodi odgovarajuće inspekcije za komponente (npr. sirovine, 
+osnovni materijali) koje isporučuje društvu SIEMENS ENERGY od poddobavljača, proizvođača 
+i ostalih trećih strana prije primitka kako bi se otkrili bilo kakvi vidljivi ili skriveni nedostaci i da o 
+tim nedostacima obavijesti društvo SIEMENS ENERGY i podizvođača, proizvođača i druge 
+treće strane bez odgode.  
+ 
+9.4. Dobavljač odgovara SIEMENS ENERGY za materijalne nedostatke ispunjenja Dobavljačeve 
+obveze bez ikakvih ograničenja.  Smatra se da materijalni nedostaci postoje:  
+ 1) ako predmet isporuke  ne odgovara opisu, vrsti, količini i kvaliteti odnosno nema 
+funkcionalnost, kompatibilnost, interoperabilnost i druge značajke kako je utvrđeno ugovorom o 
+kupoprodaji,  
+2) ako predmet isporuke nije priklad an za bilo koju posebnu namjenu za koju je potrebna 
+SIEMENS ENERGY i s kojom je SIEMENS ENERGY upoznao Dobavljača  najkasnije u trenutku 
+sklapanja ugovora te u odnosu na koju je Dobavljač  dao pristanak,  
+3) ako predmet isporuke nije isporučen sa svom dodatnom opremom i uputama, uključujući 
+upute za instalaciju, kako je utvrđeno ugovorom o kupoprodaji ,  
+4) ako predmet isporuke nije isporučen s ažuriranjima kako je utvrđeno ugovorom o kupoprodaji , 
+5) ako predmet isporuke nije priklad an za upotrebu u svrhe za koje bi se predmet isporuke iste 
+vrste uobičajeno koristi o, uzimajući u obzir sve propise Europske unije i propise Republike 
+Hrvatske, tehničke standarde ili, ako takvih tehničkih standarda nema, primjenjive kodekse 
+ponašanja u određenom području ako oni postoje,  
+6) ako predmet isporuke ne odgovara kvaliteti i opisu uzorka ili modela koji je Dobavljač  stavio 
+na raspolaganje SIEMENS ENERGY prije sklapanja ugovora,  
+7) ako predmet isporuke nije isporučen s dodatnom opremom, uključujući ambalažu, upute za 
+instalaciju ili druge upute, čiji primitak SIEMENS ENERGY može razumno očekivati,  
+8) ako predmet isporuke ne odgovara količini ili nema ona svojstva i druge značajke, uključujući 
+one koje se odnose na trajnost, funkcionalnost, kompatibilnost i sigurnost, koji su uobičajeni za 
+predmet isporuke iste vrste i koje SIEMENS ENERGY može razumno očekivati s obzirom na 
+prirodu predmeta isporuke te uzimajući u obzir sve javne izjave koje su dali Dobavljač  ili druge 
+osobe u prethodnim fazama lanca transakcija, uključujući proizvođača, ili koje su dane u njihovo 
+ime, osobito u oglašavanju ili označi vanju,  
+9) ako je predmet isporuke nepravilno instaliran odnosno montiran, a usluga instalacije odnosno 
+montaže čini dio ugovora o kupoprodaji i obavio ju je Dobavljač  ili osoba za koju on odgovara 
+ili, 
+10) ako je predmet isporuke za koj eg je bilo predviđeno da ga instalira odnosno montira 
+SIEMENS ENERGY nepravilno instaliran odnosno montiran, a nepravilna instalacija odnosno 
+montaža posljedica je nedostatka u uputama koje je dostavio Dobavljač . 
+U smislu odredbi ovog članka, „predmetom isporuke“ smatra ju se i roba i usluge.  
+ 
+9.5. U slučaju materijalnih nedostataka, SIEMENS ENERGY je  uvijek  ovlašten od Dobavljača:  
+ 1) zahtijevati uklanjanje nedostatka,  
+2) zahtijevati predaju druge robe ili izvršenje nove usluge bez nedostatka,  
+3) zahtijevati razmjerno sniženje cijene,  
+4) izjaviti da raskida ugovor,  
+5) u svakom slučaju, tražiti naknadu štete.  
+SIEMENS ENERGY ima pravo slobodnog izbora između popravka i zamjene robe ili izvršenja 
+nove usluge bez materijalnog nedostatka , kao i pravo uskratiti plaćanje bilo kojeg nepodmirenog 
+dijela cijene sve dok Dobavljač ne ispuni svoje obveze po osnovi odgovornosti za materijalne 
+nedostatke.  Troškove otklanjanja  nedostatka (u što su uključeni osobito i troškovi demontaže, 
+transporta i ponovne montaže)  i predaje druge robe ili izvršenja nove usluge bez nedostatka 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          8                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+snosi Dobavljač.  Dobavljač je nedostatke dužan otkloniti u razumnom roku od trenutka kada je 
+SIEMENS ENERGY obavijestio Dobavljača o nedostatku te bez znatnih neugodnosti za 
+SIEMENS ENERGY . SIEMENS ENERGY nije dužan platiti za uobičajenu upotrebu zamijenjene 
+robe ili korištene usluge tijekom razdoblja prije njezine zamjene odnosno ponovne isporuke.  
+ 
+9.6. Dobavljač jamči SIEMENS ENERGY da će koristiti najbolje, prikladne i potpuno nove materijale, 
+proizvode proizvoditi na odgovarajući način i u skladu s temeljnim tehničkim nacrtima te da će 
+se pobrinuti za njihovu pravilnu montažu.  Nadalje, Dobavljač jamči SIEMENS ENERGY da će, 
+povrh  obveze  koja se odnosi na odgovornost za materijalne nedostatke isporučene robe ili 
+pružene usluge,  vratiti plaćenu kupoprodajnu cijenu ili zamijeniti ili popraviti robu odnosno 
+iznova pružiti uslugu, već prema izboru SIEMENS ENERGY, ako ona ne zadovoljava potrebne 
+specifikacije ili druge zahtjeve u roku  određenom u nastavku . Rok važenja komercijalnog 
+jamstva koji Dobavljač daje za robu i usluge iznosi dvije godine , a rok važenja komercijalnog 
+jamstva za proizvode i usluge koji postaju fiksni dio građevina ili zemljišta traje tri godine. Rok 
+važenja komercijalnog jamstva za zamjenske proizvode  odnosno usluge  nakon ispravka 
+nedostataka koje SIEMENS ENERGY prijavi počinje iznova teći. Rok važenja komercijalnog 
+jamstva za isporučenu robu počinje teći s postavljanjem ili montažom isporučenih proizvoda  
+(ako je usluga postavljanja ili montaže uključena u isporuku robe) , za usluge s njihovom 
+primopredajom, za isporučenu robu koja ne uključuje postavljanje ili montažu  s isporukom na 
+odredište, a za skrivene nedostatke s njihovim utvrđivanjem. Rok važenja komercijalnog jamstva 
+za robu isporučenu na lokacije na kojima SIEMENS ENERGY koristi robu Dobavljača za 
+izvršenje ugovora izvan svojih prostorija počinje teći s primopredajom usluga koje pruža 
+SIEMENS ENERGY svojem  naručitelj u. Smatrat će se da je to vreme nsko ograničenje 
+poštovano ako je SIEMENS ENERGY iskoristio pravo na potraživanja na osnovu komercijalnog  
+jamstva od Dobavljača u navedenim rokovima u pisanom obliku. Dobavljač će ovo komercijalno 
+jamstvo dostaviti SIEMENS ENERGY na trajnom nosaču podataka najkasnije u trenutku 
+primopredaje, a isto će svojim sadržajem ispunjavati pretpostavke iz čl. 423. st. 9. Zakona o 
+obveznim odnosima. Neispunjenje ovih obveza ne utj eče na valjanost komercijalnog jamstva . 
+ 
+9.7. Ako Dobavljač pruža usluge ili osoblje za projektiranje, savjetovanje, dokumentiranje kao i 
+softverske usluge i osoblje, Dobavljač u potpunosti jamči za ispravnost i cjelovitost pisanih i 
+usmenih informacija i uputa u razdoblju od dvije godine nakon što iste dostavi.  
+ 
+9.8. Poddobavljači Dobavljača smatraju se njegovim izvršiteljima  za koje Dobavljač odgovora u 
+cijelosti.  
+ 
+9.9. SIEMENS ENERGY može od Dobavljača tražiti da ili odmah ispravi nedostatke utvrđene u ranije 
+navedenim rokovima komercijalnog jamstva o trošku  Dobavljača na odredištu , bez neugodnosti 
+po SIEMENS ENERGY,  ili da u utvrđenom roku osigura zamjensku  robu i usluge bez 
+nedostataka. SIEMENS ENERGY je ovlašten potraživati sve troškove koji nastaju u vezi 
+ispravljanja nedostataka, u što su osobito uključeni troškov i (de)montaže i uklanjanja  te 
+transporta . Dobavljač mora bez odlaganja nadoknaditi društvu SIEMENS ENERGY sve 
+troškove inspekcije ako je inspekcijom utvrđeno da postoje nedostaci. U slučaju predstojeće 
+opasnosti, npr. kako bi izbjegao vlastitu po vredu, ili ako Dobavljač ne ispravi nedostatke u 
+razumnom roku, SIEMENS ENERGY ima pravo od trećih osoba nabaviti zamjenske proizvode  
+odnosno osigurati pružanje zamjenskih usluga  bez nedostataka, bez prethodne obavijesti i ne 
+dovodeći u pitanje njegova potraživanja na osnovu  komercijalnog  jamstva prema Dobavljaču ili 
+popraviti ili dati popraviti robu s nedostacima o trošak Dobavljača. Dobavljač mora društvu 
+SIEMENS ENERGY u cijelosti isplatiti troškove za takve popravke, čak i ako oni premašuju 
+trošak popra vka u režiji Dobavljača bez odlaganja po pozivu društva SIEMENS ENERGY.  
+ 
+9.10. Dobavljač odgovara SIEMENS ENERGY za pravne nedostatke ispunjenja Dobavljačeve 
+obveze bez ikakvih ograničenja. SIEMENS ENERGY je u pogledu pravnih nedostataka ovlašten  
+(prema svom izboru) : 
+ 
+1) zahtijevati od dobavljača otklanjanje tih nedostataka , 
+2) zahtijevati razmjerno sniženje kupoprodajne cijene,  
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          9                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+3) raskinuti ugovor o kupoprodaji (ako raskid ne nastupa silom zakona),  
+4) a u svakom slučaju tražiti naknadu štete.  
+Dobavljač mora obeštetiti i osloboditi od odgovornosti SIEMENS ENERGY za sporove koji 
+proizlaze , primjera radi,  iz povrede nekog prava na patent, autorskog prava, zaštitnog znaka ili 
+registriranog dizajna te društvu SIEMENS ENERGY jamčiti neograničenu uporabu isporučenog 
+proizvoda , bez odlaganja po pozivu društva SIEMENS ENERGY. Ne dovodeći u pitanje druge 
+obveze, Dobavljač će obeštetiti i osloboditi od odgovornosti SIEMENS ENERGY za sva 
+potraživanja na temelju odgovornosti za proizvode, a koje imaju treće osobe prema društvu 
+SIEMENS ENERGY kao posljedicu nedostataka na proizvodima koje isporučuje Dobavljač , bez 
+odlaganja po pozivu društva SIEMENS ENERGY. Dobavljač se obvezuje društvu SIEMENS 
+ENERGY nadoknaditi troškove koji nastaju u vezi s obranom od takvih potraživanja ili u vezi s 
+obvezom na popravak neispravnih proizvoda , bez odlaganja po pozivu društva SIEMENS 
+ENERGY. Dobavljač će društvu SIEMENS ENERGY dati dovoljno dokaza da je za ove rizike 
+poduzeo adekvatne mjere osiguranja.  
+ 
+9.11. Dobavljač se obvezuje u razdoblju od 11 godina nakon zadnje isporuke na zahtjev društva 
+SIEMENS ENERGY bez odgode staviti mu na raspolaganje imena dotičnih proizvođača, 
+uvoznika, p oddobavljača, ali ne kasnije od dva tjedna nakon takvog zahtjeva. Nadalje, Dobavljač 
+će društvu SIEMENS ENERGY bez odlaganja staviti na raspolaganje odgovarajuće dokaze 
+poput proizvodnih zapisa i dokumenata u kojima se navode serije proizvodnje i isporuke i/ ili 
+datum proizvodnje ili isporuke kako bi SIEMENS ENERGY mogao pobiti potraživanja na temelju 
+odgovornosti za proizvode.  
+ 
+9.12. Postrojenja ili proizvodi koje isporučuje Dobavljač moraju imati potrebne sigurnosne značajke i 
+zadovoljavati važeće sigurnosne standarde (pogotovo važeće sigurnosne standarde na lokaciji 
+u slučaju postrojenja ili dijelova istih). U svakom slučaju poštuju se trenutno važeća tehnička 
+pravila. Pogotovo se moraju poštovati važeće direktive EU -a, hrvatski zakon o općoj sigurnosti 
+proizvoda i bilo koje odredbe (u aktualnom, važećem izdanju) koje se temelje na istima, kao i 
+trenutno važeć e verzij e propisa koji uređuju europsk e standard e, hrvatsk e standard e i druga 
+slična pravila. Postrojenja, sustavi ili proizvodi koje isporučuje Dobavljač moraju imati oznake 
+CE koje zahtijevaju važeće direktive EZ i hrvatsko zakonodavstvo. Po isporuci, Dobavljač 
+predaje društvu SIEMENS ENERGY izjave o sukladnosti EZ -a zaje dno s kratkim tehničkim 
+opisima, kao i upute i zahtjeve za ugradnju, ako je to potrebno. Osim toga, Dobavljač mora 
+pravovremeno obavještavati SIEMENS ENERGY o promjenama u materijalima, proizvodnim 
+postupci ma, dijelovima poddobavljača i izjavama o sukladnosti EZ -a. Prilikom isporučivanja 
+opreme koju će sklapati SIEMENS ENERGY ili treća strana, Dobavljač u potrebnoj mjeri predaje 
+društvu SIEMENS ENERGY svu dokumentaciju potrebnu društvu SIEMENS ENERGY, 
+uključ ujući rasporede sklapanja, liste podataka, upute za ugradnju, upute za preradu, 
+skladištenje, upravljanje i održavanje, popise rezervnih i nepotrošnih dijelova itd. Isporučeni 
+proizvodi moraju biti označeni na hrvatskom jeziku i – ako to SIEMENS ENERGY zat raži – na 
+drugim jezicima. Zahtjevi i upute za upravljanje moraju biti u dva primjerka na hrvatskom jeziku 
+i – ako to SIEMENS ENERGY zatraži – na drugim jezicima.  
+ 
+9.13.   Dobavljač će pravodobno osigurati na zahtjev društva SIEMENS ENERGY sve potrebne 
+podatke i informacije u skladu s primjenjivim propisima Mehanizma Europske unije za ugljičnu 
+prilagodbu na granicama  (EU Carbon Border Adjustment Mechanism (CBAM)) , kako bi društvo 
+SIEMENS ENERGY ispunilo svoje vanjske obveze. Najnovijim dostignućima i informacijama o 
+razvoju CBAM -a, kao i smjernicama o istom, može se pristupiti na službenoj web stranici Carbon 
+Border Adjustment Mechanicsm , koja je trenutno dostupna na sljedećoj poveznici: Carbon 
+Border Adjustment Mechanism (europa.eu) . 
+ 
+9.14. SIEMENS ENERGY zadržava pravo tražiti dokaz Dobavljačevog sustava provjere kvalitete i 
+Dobavljačevu dokumentaciju o izvršenim provjerama kvalitete i u bilo koje doba provesti 
+nadzornu provjeru na lokaciji Dobavljača. Dobavljač isplaćuje naknadu društvu S IEMENS 
+ENERGY za troškove nadzorne provjere, ako se tijekom provjere pronađu nedostaci u sustavu 
+kontrole kvalitete ili greške u dokumentaciji provjera kvalitete.   
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          10                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+9.15. Prije potrebnog upozorenja o proizvodu, Dobavljač će odmah direktno obavijestiti SIEMENS 
+ENERGY pisanim putem.  
+ 
+9.16. SIEMENS ENERGY ne snosi nikakvu odgovornost za štete iz područja zaštite na radu, koje bi 
+mogle nastati kod zaposlenika  Dobavljača i njegovih poddobavljača kao ni za štete prema 
+Dobavljaču odnosno štete koje Dobavljač počini trećim osobama, izuzev šteta koje su nastale 
+namjerom ili krajnjom nepažnjom društva SIEMENS ENERGY. Dobavljač preuzima potpunu 
+zakonsku odgovornost z a provođenje svih mjera zaštite na radu u okviru ugovorenih poslova iz 
+ovog Ugovora. Na isti način Dobavljač odgovara i za sve rado ve koje je povjerio kooperantima. 
+Dobavljač je u obvezi izvoditi radnje i aktivnosti iz ovog Ugovora na način da se spriječe sve 
+prijave ili objave na štetu društva SIEMENS ENERGY i da se spriječi narušavanje poslovnog 
+ugleda Dobavljača.  
+ 
+9.17. U slučaju raskida Ugovora ili bilo koje povrede ugovornih obveza, za koje odgovara 
+isključivo  SIEMENS ENERGY, SIEMENS ENERGY  je dužan platiti Dobavljač u sve dospjele 
+iznose za isporučenu ugovornu opremu i uredno izvršene radove no nije obvezan naknaditi bilo 
+kakve troškove i/ili štetu koja je nastala zbog povrede ugovorne obveze odnosno zbog raskida 
+ugovora osim u slučaju krajnje nepažnje ili namjere od strane SIEMENS ENERGY.  
+ 
+9.18. Dobavljač odgovara SIEMENS ENERGY za svaku štetu koja bi se odnosila na ovaj Ugovor ili 
+bi iz njega proizišla, a  koja je nastala  krivnjom Dobavljača.  
+ 
+ 
+10. Materijal koji dobavlja SIEMENS ENERGY  
+ 
+10.1.  Materijal koji dobavlja SIEMENS ENERGY ostaje u vlasništvu društva SIEMENS ENERGY i 
+treba ga bez naknade zasebno uskladištiti, označiti i njime upravljati.  Na zahtjev društva 
+SIEMENS ENERGY, Dobavljač potvrđuje primitak materijala kojeg dobavlja SIEMENS 
+ENERGY. Dobavljač taj materijal može koristiti samo u svrhu izvršavanja narudžbi društva 
+SIEMENS ENERGY. Dobavljač isplaćuje naknadu društvu SIEMENS ENERGY z a smanjenje 
+vrijednosti i gubitak. Isključuju se potraživanja Dobavljača za odštetu u slučaju z akašnjele 
+dostave takvog materijala kao i bilo koje pravo na zadržavanje.  
+ 
+11. Posebni uvjeti za hardver i softver  
+ 
+11.1.  Ako nije drukčije dogovoreno u narudžbi, hardver i softver uvijek čine jedan proizvod.  
+ 
+11.2.  Ako Dobavljač treba isporučiti softver koji nije razvio za SIEMENS ENERGY, Dobavljač daje 
+društvu SIEMENS ENERGY neisključivo pravo na prijenos, upotrebu, distribuciju, kopiranje, 
+davanje podlicencije, uređivanje i dodjeljivanje tog softvera u svrhu njegove namijenjene i 
+ugovorno dogovorene upotrebe.  Trajanje prava na korištenje ne ograničava se u slučajevima 
+kada je dogovorena jednokratna isplata za korištenje tog softvera. Za softverske proizvode koji 
+su razvijeni za SIEMENS ENERGY, Dobavljač društv u SIEMENS ENERGY daje isključivo i 
+prenosivo pravo za sve kategorije upotrebe, koje vremenski i prostorno neograničeno zabranjuje 
+Dobavljaču korištenje softvera za bilo koju namjenu. Ako nije drukčije dogovoreno, softver se 
+isporučuje zajedno s posljednjom  verzijom izvornog koda. Dobavljač instalira softver i dostavlja 
+nosač podataka koji se može pregledati na sustavu društva SIEMENS ENERGY u izvornom 
+kodu i objektnom kodu s pripadajućom dokumentacijom (sadržaj i struktura nosača podataka, 
+program i grafiko ni protoka podataka, postupci ispitivanja, ispitni programi, obrada grešaka, itd.). 
+Osim te dokumentacije, Dobavljač društvu SIEMENS ENERGY prije prihvaćanja dostavlja 
+sveobuhvatnu korisničku dokumentaciju u pisanom obliku na hrvatskom jeziku i/ili bilo ko jem 
+jeziku po odabiru društva SIEMENS ENERGY i u dovoljnom broju primjeraka.  
+ 
+11.3.  Softver koji je razvijen za SIEMENS ENERGY izričito se prihvaća u obliku zapisnika o 
+preuzimanju u pismenom obliku ako zadovoljava dogovorene funkcionalne specifikacije. Svi 
+popravci koje treba izvršiti Dobavljač također će biti uključeni u zapisnik o preuzimanju. Ako 
+SIEMENS ENERGY ne prihvati isporuku četiri tjedna nakon Dobavljačeve obavijesti o 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          11                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+spremnosti za preuzimanje, ili ako SIEMENS ENERGY odbije preuzimanje bez obrazloženja, 
+softver će se smatrati prihvaćenim nakon najmanje četiri tjedna testnog rada bez naknade i ako 
+je takav testni rad dao zadovoljavajuće rezultate i nije uzrokovao nijednu  poruku o grešci. U 
+slučaju nedoumice, navedeno razdoblje počinje s komercijalnom uporabom softvera od strane 
+društva SIEMENS ENERGY ili krajnjih korisnika društva SIEMENS ENERGY, koji god da je 
+posljednji.  
+ 
+11.4.  Dobavljač u roku važenja komercijalnog jamstva bez naknade daje društvu SIEMENS ENERGY 
+na raspolaganje sve kasnije verzije programa u kojima su greške odstranjene (ažurirane 
+verzije).  Nadalje, Dobavljač nudi društvu SIEMENS ENERGY održavanje softvera po 
+konkurentnoj tržišnoj cijeni najmanje pet godina od datuma primopredaje . U skladu s tim, 
+naknade za održavanje bit će smanjene u roku  važenja komercijalnog jamstva . 
+ 
+11.5.  Dobavljač obavještava SIEMENS ENERGY – najkasnije do potvrde narudžbe – sadrže li 
+proizvodi i usluge koji trebaju biti dostavljeni komponente otvorenog koda. U kontekstu ove 
+odredbe izraz „komponente otvorenog koda“ odnosi se na sav softver, hardver i druge 
+informacije koje davatelj licence daje bilo kojem korisniku bez plaćanja autorske naknade na 
+temelju licence s pravom izmjene i/ili distribucije (npr. GNU G eneral Public License (GPL), GNU 
+Lesser GPL (LGPL) ili MIT License).  
+  Ako Dobavljač prekasno ili uopće ne obavijesti da njegove usluge sadrže softver otvorenog 
+koda, SIEMENS ENERGY ima pravo poništiti narudžbu. Dobavljač je u tom slučaju obvezan 
+obeštetiti SIEMENS ENERGY i osloboditi ga od odgovornosti.  
+ 
+11.6.  Ako proizvodi i usluge koje pruža Dobavljač sadrže komponente otvorenog izvornog koda, 
+Dobavljač će se pridržavati svih primjenjivih uvjeta licenciranja otvorenog izvornog koda te će 
+sva ta prava dati društvu SIEMENS ENERGY i pružiti mu sve informacije koj e su društvu 
+SIEMENS ENERGY potrebne kako bi se uskladio s primjenjivom licencom. Dobavljač se 
+obvezuje dostaviti društvu SIEMENS ENERGY odmah nakon potvrde narudžbe sljedeće:  
+• Cjelokupni izvorni kod relevantnog softvera otvorenog izvornog koda, uključujući skripte 
+i informacije o okruženju koje generira, ukoliko to zahtijevaju primjenjivi uvjeti otvorenog 
+izvornog koda.  
+• Raspored svih otvorenih izvornih datoteka koje se koriste, uz navođenje odgovarajuće 
+licence, njezine verzije i uključujući kopiju cjelokupnog teksta takve licence, uključujući 
+navode o autorskim pravima. Takav raspored mora imati razumljivu strukturu i 
+sadržavati tablicu sadržaja.  
+ 
+11.7.  Dobavljač će obavijestiti SIEMENS ENERGY - najkasnije u vrijeme kada je narudžba potvrđena 
+- hoće li bilo koja licenca otvorenog izvornog koda koju Dobavljač upotrebljava biti - u svojoj 
+namjeravanoj upotrebi - predmet "Copyleft efekta" koji će utjec ati na proizvode društva 
+SIEMENS ENERGY. U kontekstu ove odredbe, "Copyleft efekt" znači da odredbe licence 
+otvorenog izvornog koda zahtijevaju da se određeni proizvodi Dobavljača, kao i svi proizvodi 
+dobiveni od njega, mogu distribuirati samo u skladu s u vjetima licence otvorenog izvornog koda, 
+npr. samo ako je izvorni kod otkriven.  
+ 
+11.8.  Ukoliko Dobavljač do trenutka primitka narudžbe ne navede da njegovi proizvodi i usluge sadrže 
+komponente otvorenog izvornog koda ili da li bi se pojavio opisani "Copyleft efekt", SIEMENS 
+ENERGY ima pravo otkazati narudžbu u roku od 14 (četrnaest) dana od dana primitka ove 
+informacije.  
+ 
+ 
+12. Posebna klauzula za aktivnosti planiranja  
+ 
+12.1.  Sva dokumentacija, kao što su planovi, nacrti i modeli postaju vlasništvo društva SIEMENS 
+ENERGY, čak i u slučaju prijevremenog raskida ugovora, i na zahtjev se predaje društvu 
+SIEMENS ENERGY.  Dobavljač daje društvu SIEMENS ENERGY isključivo i prenosivo pravo 
+iskorištavanja za sve kategorije upotrebe koje je neograničeno u vremenu i prostoru te 
+zabranjuje Dobavljaču upotrebu,  bez potraživanja dodatne naknade, a isto se odnosi na djela 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          12                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+koja proizlaze iz ovog ugovora. SIEMENS ENERGY je prema tome ovlašten u prvobitnom ili 
+izmijenjenom obliku implementacijom ili realizacijom iskoristiti ili na bilo koji drugi način 
+upotrijebiti nacrte ili ostalu dokumentaciju bez sudjelovanja ili suglasnos ti Dobavljača.  
+ 
+ 
+13. Nacrti, alati, pomoćni uređaji, suglasnosti  
+ 
+13.1.  Dobavljač će bez naknade dostaviti nacrte i tehnička rješenja kada je to potrebno. Svi alati, 
+obrasci, uzorci, modeli, profili, nacrti, standardni listovi sa specifikacijama, predlošci za tiskanje 
+i materijali koje Dobavljač dostavi SIEMENS ENERGY, kao i svi materijali proizašli iz toga ostaju 
+vlasništvo društva SIEMENS ENERGY i bez prethodne pisane suglasnosti društva SIEMENS 
+ENERGY neće biti dostupni nijednoj trećoj strani niti se koristiti u bilo koje druge svrhe osim onih 
+dogovorenih ugovorom.  Alati, uzorci, itd. koji su proizvedeni o trošku društva SIEMENS 
+ENERGY postaju njegovo vlasništvo po plaćanju.  
+ 
+13.2.  Svi alati i odgovarajući pomoćni uređaji, u širem smislu riječi, jasno su označeni kao vlasništvo 
+društva SIEMENS ENERGY i zaštićeni od neovlaštenog pristupa ili uporabe ili se održavaju i 
+popravljaju, ako i gdje god se to može primijeniti.  Vraćaju se po izvršenju ili poništenju narudžbe. 
+Uz podložnost bilo kojim drugim pravima, SIEMENS ENERGY može tražiti povrat materijala ako 
+Dobavljač prekrši gore navedene obveze. Dobavljač nema pravo na zadržavanje.  
+ 
+13.3.  Dobavljač izričito izjavljuje i jamči društvu SIEMENS ENERGY da posjeduje sva industrijska 
+ovlaštenja kao i sva druga ovlaštenja, dozvole i/ili licence potrebne da se osigura pružanje 
+usluga kao što je dogovoreno u ugovoru i da će, na zahtjev društva  SIEMENS ENERGY, 
+dostaviti društvu SIEMENS ENERGY te dokumente.  Ako su za izvršenje radova potrebna 
+posebna odobrenja državnih upravnih tijela, dozvole ili postupci preuzimanja, Dobavljač će iste 
+pravovremeno ishoditi bez posebne naknade.   
+ 
+14. Mjesto izvršenja, primjenjivi zakoni, sudska nadležnost, salvatorna klauzula, pravo 
+pridržaja  
+ 
+14.1.  Mjesto izvršenja za isporuke ili usluge jest odredišna lokacija. Za plaćanje je mjesto izvršenja 
+sjedište Naručitelja.  
+ 
+14.2.  Primjenjuje se pravo Republike Hrvatske, uz isključenje trgovačkih običaja i prakse (trgovačke 
+uzance), kolizijskih pravila međunarodnog privatnog prava te pravila Bečke (UN) konvencije o 
+ugovorima o međunarodnoj trgovini robom iz 1980. godine.   
+ 
+14.3.  Za rješavanje svih s porov a, posebice o provođenju ugovora ili o zahtjevima koji proizlaze iz 
+ugovora, isključivo je nadležan stvarno nadležni sud u Zagrebu.  Međutim, SIEMENS ENERGY 
+će također imati pravo pokrenuti postupak protiv Dobavljača pred bilo kojim drugim sudom, npr. 
+pred sudom opće mjesne nadležnosti  za Dobavljača.  
+ 
+14.4.  Dobavljač nadoknađuje društvu SIEMENS ENERGY sve troškove potrebne za pokretanje 
+odgovarajućeg pravnog postupka, pogotovo odvjetničke honorare i sve troškove društva 
+SIEMENS ENERGY nastale prije postupka.  
+ 
+14.5.  Ako pojedina odredba ovih Općih uvjeta ili odredbi posebnih ugovora i/ili ostalih dodatnih 
+uglavaka sklopljenih u pisanom obliku između društva SIEMENS ENERGY i Dobavljača, jest ili 
+postane nezakonita, nevaljana ili neizvršiva prema bilo kojem primjenjivom  pravu ili jurisdikciji 
+koja utječe na izvršenje ugovora ili propust da se osigura predmet istog, to neće ni na koji način 
+utjecati na zakonitost, valjanost ili izvršivost ostalih odredbi ovih Općih uvjeta ili posebnih i/ili 
+ostalih dodatnih uglavaka  između ugovornih strana. U takvom slučaju, bilo koja nevaljana, 
+nezakonita ili neizvršiva odredba(e) smatrat će se odvojenom od i neće imati učinka na ostatak 
+ugovornih odredbi te će SIEMENS ENERGY i Dobavljač tražiti učinkovito rješenje da takvu 
+odredbu zamijene odredbom čiji će sadržaj biti usklađen s važećim zakonskim okvirima i, u mjeri 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          13                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+u kojoj je to moguće, imati gospodarski učinak koji su ugovorne strane imale namjeru postići 
+zamijenjenom odredbom.  
+ 
+14.6.  Obveza društva SIEMENS ENERGY u pogledu ispunjenja ovog Ugovora uvjetovana je 
+ograničenjima koje proizlaze iz zahtjeva vanjskotrgovačkih i carinskih propisa hrvatskog i 
+međunarodnog prava ili bilo kakvog embarga i/ili drugih sankcija.  
+ 
+ 
+15. Povjerljivost, zaštita podataka  
+ 
+15.1.  Dobavljač se obvezuje da neće otkrivati povjerljive informacije koje se odnose na SIEMENS 
+ENERGY ili predmet ugovora, a koje je zakonito stekao u vezi s narudžbom, osim ako takve 
+informacije postanu općepoznate ili Dobavljač dođe u njihov posjed drugim zakonitim načinom. 
+Nadalje, Dobavljač se obvezuje na povjerljivost u pogledu rezultata ili djelomičnih rezultata koje 
+je dobio prilikom ispunjenja na rudžbe te ih smije koristiti isključivo za ispunjenje važeće 
+narudžbe.  Ako Dobavljač angažira treću osobu za ispunjenje svojih ugovornih obveza, on se 
+mora pobrinuti da se dotična treća osoba ugovorom obveže na barem istu razinu povjerljivosti.  
+ 
+15.2.  Isto vrijedi za osobne podatke koji se odnose na SIEMENS ENERGY ili neku treću osobu, u čiji 
+posjed Dobavljač dođe u vezi s ugovorom sklopljenim s društvom SIEMENS ENERGY. 
+Dobavljač mora takve informacije zaštititi i ne dopustiti da se one ustupe tre ćim osobama te 
+svoje zaposlenike (uključujući zaposlenike, vanjsko angažirano osoblje i slobodne stručnjake) 
+koji rade na zadacima relevantnima za ugovor obvezati na istu razinu povjerljivosti.  
+ 
+15.3.  Podaci Dobavljača (podaci trgovačkog registra, adresa, brojevi telefona i faksimila kao i druge 
+informacije potrebne za korespondenciju suvremenim komunikacijskim alatima, lokacije, osobe 
+za kontakt, naručena roba i količina robe za isporuku) u čiji posjed dođe SIEMENS ENERGY u 
+vezi s dotičnim poslovnim transakcijama automatski će se obrađivati samo za ispunjenje 
+ugovora, a osobito za potrebe administracije i fakturiranja. Iz tehničkih razloga takvi će se podaci 
+možda morati pohraniti na poslužiteljim a kompanije koja je članica grupe SIEMENS ENERGY.  
+ 
+15.4.  Dobavljač je izričito suglasan da se podaci koje dobije iz svake pojedine poslovne transakcije i 
+koji se pohranjuju prema točki 15.3. mogu ustupiti drugim društvima povezanima s društvom 
+SIEMENS ENERGY.  
+ 
+15.5.  Društvu SIEMENS ENERGY važno je zaštiti osobne podatke. Stoga SIEMENS ENERGY 
+obrađuje osobne podatke u skladu s važećim propisima o zaštiti i sigurnosti osobnih podataka. 
+U kontekstu poslovnog odnosa s dobavljačima SIEMENS ENERGY obrađuje osobne poda tke 
+osoba za kontakt dobavljača, zainteresiranih strana (potencijalnih dobavljača) ili drugih 
+poslovnih partnera. Detalji o kategorijama osobnih podataka koji se obrađuju, svrhama obrade 
+i pravnom temelju za obradu mogu se pronaći u Pravilima privatnosti d ruštva SIEMENS 
+ENERGY dostupnim na početnoj stranici  https://www.siemens -
+energy.com/global/en/general/privacy -notice.html  
+ 
+16.  Informacije, deklaracija materijala, RoHS, zbrinjavanje, ambalaža, opasni teret  
+ 
+16.1.  Ukoliko Dobavljač isporučuje proizvode koji podliježu regulatornim ili drugim zakonskim 
+zahtjevima u vezi s njihovim plasiranjem na tržište i daljnjim marketingom u Europskom 
+gospodarskom prostoru, ili usporedivim zahtjevima u drugim zemljama uporabe koje je odredio 
+SIEMENS ENERGY, Dobavljač mora osigurati da proizvodi ispune te zahtjeve u njihovoj verziji 
+koja se primjenjuje u trenutku prihvaćanja. Dobavljač mora nadalje osigurati da se svi dokumenti 
+i informacije potrebne za dokaziva nje sukladnosti proizvoda s važećim zahtjevima mogu 
+dostaviti društvu SIEMENS ENERGY odmah na zahtjev.  
+ 
+16.2.  Neovisno o zakonskoj obvezi informiranja Dobavljač mora društvu SIEMENS ENERGY staviti 
+na raspolaganje sve potrebne i korisne informacije o robi ili uslugama koje je potrebno isporučiti, 
+što se osobito odnosi na upute za ispravno skladištenje i sigur nosno -tehnički list u skladu s EU 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          14                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+regulativom u verziji primjenjivoj pri sklapanju ugovora. Nadalje, Dobavljač mora SIEMENS 
+ENERGY dodatno upozoriti na mogućnost nastanka opasnog otpada ili otpadnog ulja od robe 
+koju isporučuje te se pritom mora posebno osvrnuti na vrstu i eventualne moguć nosti 
+zbrinjavanja.  Dobavljač je obvezan na zahtjev društva SIEMENS ENERGY bez posebne 
+naknade primiti natrag otpad nastao od urednog korištenja robe koju je isporučio ili istovrsne 
+proizvode, u smislu Zakona o gospodarenju otpadom, što je pak ograničeno o psegom količine 
+robe koju je isporučio. Ukoliko Dobavljač odbija ili nije u mogućnosti izvršiti prihvat otpada, 
+SIEMENS ENERGY ima pravo zbrinuti otpad na trošak Dobavljača.  
+Otpad koji nastaje tijekom izvođenja radova mora se odvojeno sakupljati, urediti pozicije za 
+odvojeno sakupljanje neopasnog otpada (metal, lim, drvo..) i odložiti na mjesta predviđena za 
+sakupljanje određene vrste otpada. Ukoliko je kod izvođenja radova predviđen nastanak 
+opasnog otpada, Dobavljač je dužan osigurati spremnike za odlaganje istog, sve sukladno 
+primjenjivim propisima. Zapaljivi otpad mora biti u metalnim spremnicima s poklopc ima i daleko 
+od zapaljivih izvora.  
+Po završetku izvođenja radova obveza je Dobavljača očistiti radilište, ukloniti sav zaostali 
+materijal i otpad zbrinuti na  zakonom propisani način , te dostaviti dokaze da je otpad zbrinut, 
+kao što su pri PL -O obrazac, ONTO obrasci i ostala dokumentacija sukladno Zakonu o zaštiti 
+okoliša i Zakonu o gospodarenju otpadom . Naknada za čišćenje gradilišta i otklanjanje odnosno 
+zbrinjavanje otpada uračunata je u ugovorenu cijenu. Propusti li Dobavljač ispuniti ovu svoju 
+obvezu ili s njenim ispunjenjem kasni, SIEMENS ENERGY je ovlašten sam izvršiti predmetni 
+posao na trošak Dobavljača i Dobavljaču će izdati fakturu s uvjetima plaćanja istovjetnima onima 
+koje SIEMENS ENERGY ima s Dobavljačem u određenom slučaju.  
+ 
+16.3.  Dobavljač jamči da je roba koju će isporučiti na temelju narudžbe u skladu s RoHS -om 
+(Restriction of the Use of certain Hazardous Substances in Electrical and Electronic Equipment) 
+i time u skladu s EU regulativom o zabrani uporabe određenih opasnih tvari u električnoj i 
+elektroničkoj opremi (EU regulativa u verziji primjenjivoj pri sklapanju ugovora) u trenutku 
+isporuke. Ako isporučena roba nije u skladu s tom regulativom, Dobavljač mora društvu 
+SIEMENS ENERGY nadoknaditi sve štete koje nastanu kao p osljedica takve nesukladnosti, ne 
+dovodeći u pitanje moguće jamstvene zahtjeve društva SIEMENS ENERGY.  
+ 
+16.4.  Ako Dobavljač isporučuje zakonski dopuštene proizvode koji međutim zbog zakona podliježu 
+ograničenjima s obzirom na tvari i/ili obvezama informiranja o tvarima (npr. REACH – 
+registracija, procjena, odobrenje i ograničenje kemikalija), Dobavljač mora takve tvari deklarirati 
+u internetskoj bazi podataka BOMcheck ( www.BOMcheck.net ) ili u formatu koje određuje 
+SIEMENS ENERGY, i to najkasnije do trenutka prve isporuke proizvoda. Prethodno navedeno 
+vrijedi samo za zakone koji se primjenjuju u sjedištu Dobavljača ili društva SIEMENS ENERGY 
+ili na mjestu koje je SIEMENS ENERGY odredio k ao mjesto isporuke. Nadalje Dobavljač mora 
+deklarirati na prethodno navedeni način i one proizvode, tvari koje su u trenutku narudžbe 
+navedene u aktualnom tzv. " Popisu tvari koje je potrebno deklarirati"  (www.bomcheck.net/ 
+suppliers/restricted -and-declarable -substances -list). 
+ 
+16.5.  Ukoliko isporuka sadrži robu koja je u skladu s međunarodnim odredbama klasificirana kao 
+opasni teret, Dobavljač mora o tome SIEMENS ENERGY obavijestiti najkasnije u potvrdi 
+narudžbenice u obliku koji je dogovoren između Dobavljača i društva SIEMENS ENERGY.  
+ 
+16.6.  Prilikom isporuke robe i usluga Dobavljač mora ispuniti sve zahtjeve vezane uz Uredbu 
+Europske unije o drvu, čiji je cilj zabraniti plasiranje nezakonito posječene drvne sirovine i 
+proizvoda koji su od nje napravljeni na tržište EU -a. To uključuje np r. sve proizvode od papira, 
+etikete, brošure, itd. Ako se ipak uvoz u EU smatra potrebnim, primjenjuje se Opis postupka 
+Uredbe Europske unije o drvu.  
+ 
+16.7.  Sadržaj odredbe ovog članka Općih uvjeta je obuhvaćen  komercijaln im jamstv om Dobavljača.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          15                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+17. Pravni slijednici i treće strane  
+ 
+17.1.  SIEMENS ENERGY je ovlašten, prema vlastitoj diskrecijskoj odluci, prenijeti ovaj Ugovor 
+djelomično ili u cijelosti ili svoja pojedina prava i obveze iz ovog Ugovora na bilo koje društvo 
+povezano s društvom SIEMENS ENERGY. Navedeni prijenos će imati učinak nakon što 
+SIEMENS ENERGY pisanim putem obavi jesti Dobavljača o prijenosu, a Dobavljač ovim putem 
+unaprijed daje svoj pristanak na svaki takav prijenos Ugovora ili pojedinog prava ili obveze.  
+ 
+ 
+18. Sprečavanje mita i korupcije   
+ 
+18.1.  Dobavljač mora najkasnije s podnošenjem ponude obavijestiti SIEMENS ENERGY ako je 
+Dobavljač ili član njegove uprave u zadnjih 5 godina prije podnošenja ponude pred nekim 
+nacionalnim sudom bio pravomoćno osuđen zbog podmićivanja dužnosnika i bez odlaganja g a 
+pisanim putem obavijestiti ako je Dobavljač ili član njegove uprave u bilo koje vrijeme između 
+podnošenja ponude i preuzimanja isporučene robe/usluge Dobavljača u skladu s člankom 9.2. 
+tužen pred nekim nacionalnim sudom zbog podmićivanja dužnosnika. Ta i nformacija služi 
+ispunjavanju zahtjeva preporuke organizacije OECD za sprečavanje mita i korupcije u vezi s 
+državnim izvoznim garancijama.  
+ 
+ 
+19. Kibernetička sigurnost  
+ 
+19.1.  Dobavljač poduzima odgovarajuće organizacijske i tehničke mjere kako bi osigurao povjerljivost, 
+autentičnost, cjelovitost i dostupnost poslovanja Dobavljača, kao i njegovih proizvoda i usluga. 
+Te su mjere sukladne dobrim praksama u industriji i uklju čuju odgovarajući sustav upravljanja 
+sigurnošću informacija usklađen s normama kao što su ISO/IEC 27001 ili IEC 62443 (u mjeri u 
+kojoj je to primjenjivo).  
+ 
+19.2.  „Poslovanje Dobavljača“ obuhvaća svu imovinu, procese i sustave (uključujući informacijske 
+sustave), podatke (uključujući podatke o kupcu), osoblje i lokacije koje Dobavljač povremeno 
+upotrebljava ili obrađuje tijekom izvršavanja ovog ugovora.  
+ 
+19.3.  Ako proizvodi ili usluge uključuju softver, firmver ili čipsetove:  
+ 
+• Dobavljač primjenjuje odgovarajuće norme, procese i metode kako bi spriječio, otkrio, 
+ocijenio i popravio sve slabe točke, zlonamjerni kod i sigurnosne incidente proizvoda i 
+usluga koji su u skladu s dobrim praksama u industriji i normama kao što su ISO/IE C 27001 
+ili IEC 62443 (u mjeri u kojoj je to primjenjivo);  
+• Dobavljač nastavlja pružati podršku i usluge u svrhu popravka, ažuriranja, nadogradnje ili 
+održavanja proizvoda i usluga, uključujući pružanje zakrpa Kupcu kojima se popravljaju 
+slabe točke tijekom razumno očekivanog vijeka trajanja proizvoda i usluga;  
+• Dobavljač Kupcu dostavlja specifikacije materijala u kojima se navode sve softverske 
+komponente treće strane sadržane u proizvodu. Softver treće strane mora biti ažuriran u 
+vrijeme isporuke Kupcu;  
+• Dobavljač Kupcu daje pravo da u bilo kojem trenutku testira proizvode ili ih da na testiranje 
+kako bi se utvrdilo sadrže li zlonamjerni kod ili slabe točke, i u tome Kupcu pruža 
+odgovarajuću podršku, ali Kupac nije obvezan ostvariti to pravo;  
+• Dobavljač Kupcu dostavlja kontakt na koji se može obratiti za sva pitanja vezana uz 
+informacijsku sigurnost (dostupan tijekom radnog vremena).  
+ 
+19.4.  Dobavljač odmah obavještava Kupca o svim relevantnim incidentima vezanima uz informacijsku 
+sigurnost koji su se dogodili ili na koje se sumnja, kao i slabe točke otkrivene u Poslovanju 
+Dobavljača te njegovim uslugama i proizvodima, u onoj mjeri u kojoj je Kupac značajno pogođen 
+ili je vjerojatno da je značajno pogođen.  
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          16                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+19.5.  Dobavljač poduzima odgovarajuće mjere kako bi osigurao da su njegovi podizvođači i 
+dobavljači, u razumnom roku, vezani obvezama sličnima odredbama ovog članka  19. 
+ 
+19.6.  Dobavljač na zahtjev Kupca dostavlja pisane dokaze poštivanja ovog članka  19., uključujući 
+općeprihvaćena izvješća nadzorne provjere.  
+ 
+ 
+20. Kodeks ponašanja za Dobavljače, sigurnost u lancu nabave  
+ 
+20.1. Dobavljač se obvezuje na pridržavanje zakona primjenjivog pravnog poretka, kao i načela i  
+zahtjeva „Siemens Energy Kodeksa ponašanja za dobavljače i posrednike treće strane “, 
+priloženog ovdje kao Prilog 1 (nadalje u tekstu: Kodeks ponašanja)  te će navedene  zahtjeve 
+priopćiti svojim dobavljačima , odnosno podugovarateljima  u lancu nabave.  
+ 
+Dobavljač  neće niti aktivno niti pasivno, izravno niti neizravno sudjelovati u bilo kojem obliku 
+podmićivanja, povredi temeljnih prava svojih radnika ili svojih suradnika,  ili u bilo kojem obliku  
+rada djece te će se Dobavljač pridržavati pravila njemačkog Zakona o obvezi primjene dužne 
+pažnje društava u lancu nabave ( Lieferkettensorg -faltspflichtengesetz, LkSG ), u mjeri u kojoj je 
+to primjenjivo na Dobavljača i njegove dobavljače  ili podugovaratelje . U slučaju upućivanja 
+zaposlenika  na rad u inozemstvo Dobavljač mor a poštivati sve pravne propise države u koju se 
+zaposlenika  upućuje na rad. Dobavljač ispunjava sve zakonom propisane zahtjeve vezane uz 
+plaću  i minimalnu plaću , kao i zahtjeve o plaći iz svih kolektivnih ugovora, zakonske obveze 
+plaćanja poreza i doprinosa za socijalno osiguranje, sve zakonske i službene zahtjeve sigurnosti 
+na radu te će na takav rad upućivati samo one zaposlenik e koji imaju potrebne radne dozvole te 
+odgovarajuće socijalno osiguranje i osiguranje u slučaju nesreće. Dobavljač će uspostaviti  
+zaštićen i mehaniz am putem kojeg radnici mogu prijaviti moguće povrede načela ovoga Kodeksa 
+ponašanja . U slučaju sudjelovanja trećih strana i/ili sudjelovanja daljnjih trećih strana koje su te 
+prve treće strane uključile, Dobavljač jednako tako osigurava poštivanje svih ovdje navedenih  
+zahtjeva  te će na najbolji mogući način poticati i zahtijevati pridržavanje Kodeksa ponašanja kod 
+svojih dobavljača . Dobavljač društvu SIEMENS ENERGY na zahtjev mora dostaviti pisani dokaz 
+ispunjavanja tih obveza od strane njega i treće strane. Dobavljač obeštećuje SIEMENS 
+ENERGY i oslobađa ga od odgovornosti za potraživanja k oja proizlaze iz kršenja obveza iz ovog 
+članka  20. od strane Dobavljača ili trećih strana.  
+ 
+20.2.  Dobavljač postupa u skladu s važećim zakonima o zaštiti okoliša. Poduzima odgovarajuće mjere 
+kako bi izbjegao upotrebu minerala iz područja zahvaćenih sukobima i osigurao transparentnost 
+u pogledu porijekla sirovina. Usto, uložit će sve napore kako b i ovaj Kodeks ponašanja 
+promovirao među svojim dobavljačima.  
+ 
+20.3.  Dobavljač je obvezan ispunjavati sve zakonske zahtjeve koji se odnose na zdravlje i sigurnost 
+njegovih zaposlenika , štoviše, Dobavljač će preuzeti odgovornost za zdravlje i sigurnost svojih 
+zaposlenika . Mora osigurati zaštitu zdravlja i sigurnost svojeg osoblja, kao i osoblja svojih 
+izravnih ili neizravnih podizvođača koji su angažirani za isporuku roba i usluga, kao i svih drugih 
+osoba koje ostvaruju pravo boravka u radnom području.  
+ 
+20.4.  Dobavljač izvršava sve potrebne organizacijske upute i mjere, osobito na području zaštite 
+objekta, sigurnosti poslovnih partnera, radnog osoblja i informacija, ambalaže i transporta, kako 
+bi osigurao sigurnost u lancu nabave u skladu sa zahtjevima od govarajućih međunarodno 
+priznatih inicijativa na temelju okvira normi WCO SAFE Framework of Standards (npr. AEO, C -
+TPAT). Dobavljač čuva robu i usluge koje isporučuje društvu SIEMENS ENERGY ili trećim 
+osobama koje je odredio SIEMENS ENERGY od neovlaštenog pristupa i manipulacija. Za takve 
+isporuke robe i usluga Dobavljač angažira isključivo pouzdano radno osoblje i svoje eventualne 
+podizv ođače  također obvezuje na poduzimanje odgovarajućih mjera.  
+ 
+20.5.   Ako Dobavljač ne izvrši  ili povrijedi  bilo koju od ovdje navedenih  obveza , tada SIEMENS 
+ENERGY, ne  dovodeći u pitanje ostala prava, ima pravo odstupiti od ugovora ili otkazati ugovor. 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          17                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+Ako se povreda obveze  može ukloniti, to se pravo smije provesti tek nakon bezuspješnog 
+proteka primjerenog roka za uklanjanje povrede te obveze.  
+ 
+20.6.  Ako SIEMENS ENERGY to zahtijeva, Dobavljač će, ne više od jednom godišnje, dostaviti 
+Društvu SIEMENS ENERGY prema svojim mogućnostima bilo (i) pisani izvještaj o samoprocjeni  
+(self-assessment ) dostavljen od društva  SIEMENS ENERGY, bilo (ii) pisani izvještaj,  odobren 
+od SIEMENS ENERGYA , koji opisuje korake koje je Dobavljač poduzeo ili će poduzeti kako bi 
+se osigurala usklađenost sa Kodeksom ponašanja.  
+ 
+20.7.  SIEMENS ENERGY  i njegovi ovlašteni zastupnici  i predstavnici i/ili treća strana imenovana od   
+strane društva SIEMENS ENERGY i razumno prihvatljiva Dobavljaču ovlašćuju se (ali ne i 
+obvezuju) da obavljaju – i u prostorijama Dobavljača – inspekciju kako bi provjerili usklađenost 
+dobavljača sa Kodeksom ponašanja.  
+ 
+Bilo koja i nspekcija se može obaviti samo nakon prethodne pisane obavijesti od strane društva 
+SIEMENS ENERGY, tijekom redovitog radnog vremena , u skladu s postojećim zakonom o zaštiti 
+podataka  i ne smije se neosnovano uplitati u poslovanje Dobavljača niti kršiti bilo koji 
+Dobavljačev ugovor o povjerljivosti kojeg je sklopio s trećim stranama. Dobavljač će u razumnoj 
+mjeri surađivati s bilo kojom inspekcijom koja se provodi. Svaka strana će snositi svoje trošk ove 
+vezane uz takvu inspekciju.  Dobavljač će bez odgađanja započeti izvršenje bilo koje mjere 
+ublažavanja  povrede  ako utvrdi povredu odredbi Kodeksa ponašanja od strane Dobavljača ili 
+bilo kojeg od svojih dobavljača ili podugovaratelja te će bez odgađanja obavijestiti SIEMENS 
+ENERGY o bilo kakvoj povredi  i mjeri ublažavanja povrede, ako i u mjeri kojoj ista utječe na 
+ugovorni odnos.  
+ 
+20.8.  Uz bilo koja druga prava i pravna sredstva koja SIEMENS ENERGY  može imati, u slučaju da 
+(materijal Dobavljača ili ponovljeni propust u skladu sa Kodeksom ponašanja ili (ii) Dobavljač 
+uskrati  društvu  SIEMENS ENERGY da iskoristi svoje pravo na inspekciju u skladu s  člankom 
+20.7. , nakon što  je pružio Dobavljaču razumnu obavijest i razumnu mogućnost  za otklanjanje , 
+SIEMENS ENERGY  može raskinuti ovaj Ugovor i/ili bilo koju narudžbu izvršenu u  skladu s njime, 
+i to bez ikakvog obeštećenja.  
+ 
+Materijalni propusti uključuju, ali se ne ograničavaju na slučajeve zapošljavanja djece, korupciju  
+i podmićivanje te propuste vezane uz zaštitu okoliša koje postavlja Kodeks ponašanja. Obavijest  
+i  mogućnost za ispravljanje propusta  ne primjenjuju se na kršenj e zahtjeva i načela vezanih uz  
+zapošljavanje djece koje postavlja Kodeks ponašanja ili namjerno propuštanje poštivanja  
+zahtjeva  zaštite okoliša koje postavlja Kodeks ponašanja.  
+ 
+20.9.  SIEMENS ENERGY ima pravo na izravnu novčanu naknadu na teret Dobavljača, na temelju  
+računa s dospijećem plaćanja u roku od 7 dana, u iznosu utvrđenom na temelju vlastite  
+diskrecijske odluke društva SIEMENS ENERGY za svaki slučaj povrede odredaba ovog članka 
+od strane Dobavljača. Dobavljač se odriče prava na osporavanje takvog računa izdanog od 
+strane društva SIEMENS ENERGY. U slučaju takve povrede, SIEMENS ENERGY ima pravo  
+raskinuti Ugovor i poduzeti bilo koje druge mjere, prema vlastitoj diskrecijskoj odl uci. Navedeno 
+pravo ni na koji način ne utječe na pravo društva SIEMENS ENERGY na naknadu štete ili bilo  
+koje drugo pravo koje proizlazi iz ponašanja Dobavljača koje je protivno zakonskim ili ugovornim  
+odredbama.  
+ 
+ 
+21. Zaštita sigurnosti, zdravlja i okoliša na radu  
+ 
+21.1.  Dobavljač će poštivati sve zakonske odredbe o zaštiti na radu te će uložiti najveće napore a) 
+kako bi uklonio opasnost za zdravlje i sigurnost osoba zaposlenih od strane Dobavljača te 
+Dobavljačevih izravnih i neizravnih poddobavljača zaduženih za obavljanj e radova („osoblje“) i 
+b) kako bi osigurao da se nijedna osoba, koja je ovlaštena biti na gradilištu, uključujući osoblje, 
+osoblje društva SIEMENS ENERGY i posjetitelje, ne ozlijedi.  
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          18                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+21.2.  Prije početka radova, Dobavljač će:  
+1) dati društvu SIEMENS ENERGY Procjenu rizika izrađenu za predmetno radilište u pismenom 
+obliku koja a) analizira sve potencijalne opasnosti za zdravlje i sigurnost osoblja koje bi mogle 
+proizaći iz obavljanja radova, i b) određuje mjere, rokove i odgovor ne osobe za otklanjanje 
+takvih opasnosti;  
+ 2) dati društvu SIEMENS ENERGY EHS Plan/Plan izvođenja radova izrađen za predmetno 
+radilište u pismenom obliku, u skladu s odredbama nadležnog pravilnika.  
+ Oba dokumenta moraju obuhvaćati sve Dobavljačeve ugovorene radove (vlastite i 
+poddobavljačeve).  
+ 
+21.3.  Dobavljač će osigurati da sve osoblje prije početka rada sudjeluje u, za radilište specifičnom, 
+osposobljavanju koje mora biti dokumentirano u pismenom obliku, te da isto osoblje, prije 
+početka radova, zaduži odgovarajuća osobna zaštitna sredstva i opremu.  Dobavljač će osigurati 
+da osoblje koristi zadužena osobna zaštitna sredstva i opremu te da se ista održavaju u dobrom 
+stanju sve vrijeme, posjeduju odgovarajuće certifikate, a po potrebi i zamijene novima.  
+ 
+21.4.  Sukladno Zakonu o zaštiti na radu, Zakonu o zaštiti okoliša, Zakonu o zaštiti požara, Dobavljač  
+je obvezan pridržavati se propisa i organiziranju zaštite na radu na zajedničkom gradilištu, kojim 
+će se regulirati sva međusobna prava, obveze i odgovornosti Naručitelja i Dobavljač a s naslova 
+zaštite na radu.  
+Dobavljač  se obvezuje:  
+ 
+- da će osigurati rad svojih zaposlenika - stranaca, s radnom dozvolom u smislu pozitivnih 
+zakonskih propisa;  
+- da je sa svakim zaposlenikom zaključio Ugovor o radu ili Ugovor o djelu u pisanom obliku;  
+- da je zaposlenike prijavio tijelima zdravstvenog, mirovinskog i invalidskog osiguranja;  
+- da je za zaposlenike uplatio sukladno Zakona o zdravstvenom osiguranju   posebni doprinos 
+za prava u slučaju ozljede na radu i profesionalne bolesti;  
+- da zaposlenici koji su raspoređeni na poslove s posebnim uvjetima rada ispunjavaju 
+posebne uvjete u skladu s odredbama Zakona o zaštiti na radu, te Pravilnika o poslovima s 
+posebnim uvjetima rada;  
+- da su zaposlenici osposobljeni za rad na siguran način u skladu s odredbama Zakona o 
+zaštiti na radu te da poslove i radne zadatke obavljaju dužnom pozornošću i pri tome vode 
+računa o svojoj sigurnosti i zdravlju te sigurnosti i zdravlju drugih osoba na ra du koje mogu 
+ugroziti njihovi postupci ili propusti u radu;  
+- da su sredstva rada, osobna zaštitna oprema i mjesta rada koja se koriste, u svakom 
+trenutku sigurna, održavana, prilagođena za rad i u ispravnom stanju, a strojevi i uređaji na 
+mehanizirani pogon s povećanim opasnostima ispitani sukladno odredbama   Zakona  o 
+zaštiti na radu   i propisima donesenim na temelju Zakona ; 
+- da organizira i provodi prevenciju zaštite na radu u svim dijelovima organizacije rada, radnim 
+postupcima, u organizaciji rada i upravljanju radnim postupcima, pri čemu mora osigurati 
+zaposlenicima najveću moguću razinu zaštite na radu, te da utvrdi obavlj anje poslova zaštite 
+na radu u skladu s procjenom rizika, stanjem zaštite na radu i brojem zaposlenika;  
+- da će, tijekom izvođenja radova provoditi sve mjere zaštite na radu, zaštite okoliša   i zaštite 
+od požara koji su na snazi, sukladno Zakonu o zaštiti na radu, Zaštiti od požara i Zaštiti 
+okoliša i pripadajućim Pravilnicima.  
+ 
+Uz navedenu dokumentaciju Dobavljač  se posebno obvezuje dostaviti slijedeću dokumentaciju:  
+ 
+- Procjena rizika radnih mjesta na privremenom gradilištu ; 
+- Radno – pravna dokumentacija: prijave, dozvole za rad i boravak na prostoru HR;  
+- Liječničke svjedodžbe za obavljanje poslova s posebnim uvjetima rada - obavljeno u 
+medicini rada u HR  ili kod poslodavca ukoliko ima važeće ovlaštenje ; 
+- Dokaze o osposobljavanju za rad na siguran način za poslove koje radnici obavljaju 
+(ovjereni zapisnici teoretski i praktični dio) – obavljeno kod ovlaštene organizacije u HR;  
+- Dokaze o osposobljavanju za početno gašenje požara - obavljeno kod ovlaštene 
+organizacije u HR ; 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          19                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+- Dokaze o osposobljenosti za pružanje prve pomoći (1 na 20 zaposlenih  te još po 1 na svakih 
+50 zaposlenih ) – mora biti obavljeno u crvenom križu ili u medicini rada  ili kod ovlaštene 
+organizacije u HR ; 
+- Dokaze o osposobljavanju ovlaštenika iz područja zaštite na radu (odgovorna osoba na 
+gradilištu) - obavljeno kod ovlaštene organizacije u HR  ili kod poslodavca ukoliko ima 
+važeće ovlaštenje ; 
+- Dokaze o ispitivanju strojeva (uređaja) s povećanom opasnosti - obavljeno kod ovlaštene 
+organizacije u HR (ukoliko ih ima);  
+- Tipski certifikati i upute za siguran rad za opremu koja se koristi (garniture, osobna zaštitna 
+sredstva, radni postupci).  
+ 
+Za slučaj kršenja gore navedenih odredbi od strane Dobavljača , Naručitelj ima pravo na svu 
+naknadu štete koja bi za njega mogla zbog toga proizaći s osnova prekršajne, kaznenopravne i 
+građanskopravne odgovornosti te predstavlja opravdani razlog za raskid Ugovora od strane 
+Naručitelja, izvršenje posla po drugom dobavljaču  na trošak Dobavljača  po Ugovoru, te svu 
+naknadu štete koja bi zbog raskida Ugovora krivnjom Dobavljača  mogla proizaći za Naručitelja.  
+ 
+Dobavljač  će poštivati sve zakonske odredbe o zaštiti na radu te će uložiti najveće napore a) 
+kako bi uklonio opasnost za zdravlje i sigurnost osoba zaposlenih od strane Izvoditelja te 
+Izvoditeljevih izravnih i neizravnih podizvoditelja zaduženih za obavljanje uslu ga („osoblje“) i b) 
+kako bi osigurao da se nijedna osoba, koja je ovlaštena biti na gradilištu, uključujući osoblje, 
+Naručiteljevo osoblje i posjetitelje, ne ozlijedi.  
+ 
+Prije početka usluga, Dobavljač  će dati Naručitelju procjenu rizika u pismenom obliku koja a) 
+analizira sve potencijalne opasnosti za zdravlje i sigurnost osoblja koji bi mogle proizaći iz 
+obavljanja usluga, i b) određuje mjere za otklanjanje takvih opasnosti.  
+Dobavljač  će osigurati da svo osoblje sudjeluje u, za radilište specifičnom, osposobljavanju te 
+da  isto osoblje, prije početka usluga, dobije odgovarajuća osobna zaštitna sredstva. Dobavljač  
+će osigurati da osoblje koristi dobivena osobna zaštitna sredstva te da se ista održavaju u 
+dobrom stanju svo vrijeme.  
+ 
+21.5. SIEMENS ENERGY  zadržava pravo, po vlastitom nahođenju i u bilo koje vrijeme, udaljiti bilo 
+koje osoblje sa gradilišta i/ili obustaviti izvođenje radova iz sigurnosnih i zdravstvenih razloga, 
+u kojem slučaju SIEMENS ENERGY  neće snositi nikakvu odgovornost niti bilo kakve druge 
+posljedice.  
+  
+21.6. Dobavljač će imenovati stručnu osobu kao svog predstavnika za okoliš te zaštitu na radu i 
+zaštitu od požara („EHS predstavnik Dobavljača“) i osigurat će da EHS predstavnik Dobavljača 
+sudjeluje u raspravama vezanim uz sigurnost koje će, s vremena na vrijeme, organizirat i 
+SIEMENS ENERGY.  
+ 
+21.7.  Dobavljač će redovito nadzirati poštivanje zakonskih odredbi kao i odredbi iz područja zaštite 
+na radu, zaštite od požara i zaštite okoliša utvrđenih ugovorom te internih pravila krajnjeg 
+Kupca. Pored navedenog, Dobavljač se obvezuje da će a) periodički  provoditi dokumentirane 
+obilaske gradilišta tzv. Sigurnosni obilasci i razgovori (eng: Safety Walk and Talk ), b) osigurati 
+komunikaciju pravila Prava na obustavu rada (eng: Stop Work Authority ) u slučaju uočenih 
+opasnosti, c) osigurati komunikaciju pr avila zabrane rada u dijelovima za koje nije izdana 
+Dozvola za rad (eng: Work Permit ), d) osigurati komunikaciju osoblju da SIEMENS ENERGY  
+mora biti obaviješten o svakom radnom nalogu, tj. radna aktivnost ne smije biti započeta bez 
+prethodnog odobrenja odgovorne osobe društva SIEMENS ENERGY.  
+ 
+U dogledno vrijeme, a prije provođenja obilaska, Dobavljač može pozvati SIEMENS ENERGY  
+da sudjeluje u obilasku. Ako Dobavljač otkrije nesukladnost sa odredbama vezanim uz zaštitu  
+na radu mora se, bez odgađanja, uskladiti sa istima te izvijestiti SIEMENS ENERGY  o nalazima  
+i statusu radnji koje je poduzeo za usklađenje.  
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          20                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+21.8.  SIEMENS ENERGY  Zero Harm Program  („SE Zero Harm Program“)  promiče kulturu u kojoj su 
+zdravlje, sigurnost i zaštita okoliša sastavni dio načela i ponašanja društva SIEMENS ENERGY  
+na svim razinama organizacije. Ovaj p ristup pokazuje da ništa nije važnije od toga da se učini 
+sve što je moguće  kako bi  se zaštitili zdravlje i sigurnost zaposlenika i izvođača te okoliš. 
+Dobavljači, i zvođači i podizvođači dužni su poduprijeti  i postupati u skladu sa  SE Zero Harm 
+Program om na radnom mjestu, uključujući i sudjelovanje u svim inicijativ ama usmjeren ima na 
+poboljšanje zdravlja, sigurnosti, radnog okruženja i EHS normi (zaštita zdravlja, sigurnosti i 
+okoliša). To može uključivati, na primjer, sudjelovanje i prisustvovanje na radi onicama, danima 
+posvećenima sigurnosti, uvodnim obukama za siguran početak rada, obukama za podizanje 
+svijesti, informativne sastanke, Toolbox talk - sigurnosn e razgovor e prije početka obavljanja 
+radnih aktivnosti itd. Ne dovodeći u pitanje pravo raskida ugovora u skladu s člankom 21.15, 
+SIEMENS ENERGY  zadržava pravo prekinuti rad i obustaviti, isključiti ili zabraniti pristup bilo 
+kojoj S IEMENS ENERGY  lokaciji  pojedincu /ima zbog kršenj a EHS plana, SE Zero Harm  
+Programa, pravila korisnika, EHS zahtjeva za izvođače, pravila lokacije i/ili lokalnih zakona i 
+propisa.  
+Mogućnost o bustav e rada, isključenj a ili zabran e pristupa  primjenjivat  će se  i u slučaju kada   
+SIEMENS ENERGY  utvrdi da su usmene ili pisane upute koje je izdao Dobavljač  u suprotnosti  
+s bilo kojim od navedenih uvjeta.  
+Obustava  rada, isključenje ili zabrana pristupa vrijede za razdoblje koje odredi S IEMENS  
+ENERGY , na temelju zaključaka i utvrđenja  bilo koje istrage , uključujući procjenu stupnja  
+odgovornosti pojedinca/pojedinaca i mjera koje Dobavljač  mora poduzeti kako bi ispravio svako   
+takvo  neželjeno ponašanje.  
+ 
+ 
+21.9. Po zahtjevu društva SIEMENS ENERGY, Dobavljač mora odmah dozvoliti društvu SIEMENS 
+ENERGY pristup svoj dokumentaciji koja se odnosi na zaštitu na radu, zaštitu od požara i zaštitu 
+okoliša, a koja je povezana sa radovima.  
+ 
+21.10. U slučaju incidenta koji vodi do a) smrti bilo koga od osoblja ili b) teške ozljede koja uključuje 
+više od jednog dana radne nesposobnosti bilo kog od osoblja ili c) više od tri zaposlenika  
+dovedenih u bolnicu ili d) ozljede zbog koje je zatražena liječnička pomoć, Dobavljač treba 
+odmah obavijestiti SIEMENS ENERGY  i treba bez odgađanja : 
+1) osigurati pružanje prve pomoći povrijeđenim osobama i osigurati mjesto incidenta  
+2) provesti analizu temeljnog uzroka incidenta,  
+3) odrediti odgovarajuće mjere kako bi se isključili slični incidenti u budućnosti,  
+4) definirati rokove i odgovorne osobe za mjere koja je potrebno provesti i  
+5) dati društvu SIEMENS ENERGY pisano izvješće u roku tjedan dana od nastanka incidenta 
+koje sadrži dovoljno detalja o temeljnom uzroku incidenta, određenim mjerama i definiranim 
+rokovima. Dobavljač će podržati svaku dodatnu istragu koju bi mogao provesti SIEMENS 
+ENERGY.  
+  
+21.11. SIEMENS ENERGY  i njegove ovlaštene osobe i predstavnici i/ili treća osoba koju je SIEMENS 
+ENERGY  imenovao, ima pravo (ali ne i obvezu) obaviti – i u prostorijama Dobavljača – Audit 
+kako bi procijenio Dobavljačev sustav upravljanja zaštitom okoliša i zdravlja i sigurnosti na radu, 
+uključujući kontrolu odgovarajućih dokumenata i, u slučaju nedostataka k oje SIEMENS 
+ENERGY  klasificira kao ozbiljne, donošenje mjera za poboljšanje.  
+ 
+Ovakav se Audit može provesti samo uz prethodnu pismenu najavu društva SIEMENS 
+ENERGY, tijekom redovnog radnog vremena, u skladu s primjenjivim zakonom o zaštiti 
+podataka i ne smije se nerazumno miješati u Dobavljačeve poslovne aktivnosti niti prekršiti bi lo 
+koji ugovor o povjerljivosti dobavljača s trećim stranama. Izvođač se obvezuje da će razumno 
+surađivati u svakom provedenom Auditu.  
+ 
+21.12. Ukoliko je Audit uzrokovan teškim incidentom kao što je opisano u točki 21. 10. ili neprekidnim 
+ili ponavljajućim nedostacima u zaštiti okoliša i zaštiti zdravlja i sigurnosti na radu, troškove 
+Audita i sve troškove kašnjenja u pružanju usluga društva SIEMENS ENERGY prema krajnjem 
+Kupcu snosi Dobavljač.  
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          21                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+ 
+21.13. U slučaju kada SIEMENS ENERGY  izradi dokument vezan uz zdravlje i sigurnost na gradilištu 
+(„EHS Plan/Plan izvođenja radova“) SIEMENS ENERGY  će dati Dobavljaču kopiju istog. 
+Dobavljač mora, u pisanom obliku, potvrditi primitak dokumenta te postupati u sukladnosti sa 
+odredbama koje se nalaze u njemu. Isto se odnosi i na ažuriranja EHS plana/Plana izvođenja 
+radova koja SIEMENS ENERGY  može provesti kada smatra da je to potrebno. Dobavljač će 
+osigurati da se njegovi izravni i neizravni poddobavljači, s ko jima je ugovorio izvođenje radova, 
+obvežu na postupanje sukladno EHS planu/Planu izvođenja radova i njegovim izmjenama.  
+ 
+21.14. Dobavljač  je obvezan planirati, pripremati i provoditi radne postupke te razraditi i primjenjivati 
+tehnologiju rada tako da ne ugrožava sigurnost i zdravlje zaposlenika , uvažavajući pri tome 
+najvišu moguću razinu zaštite od rizika na radu i u vezi s radom, u skladu s pravilima zaštite na 
+radu i drugim propisima te je obvezan osigurati da samo zaposle nici koji su dobili odgovarajuće 
+upute smiju imati pristup mjestima na kojima postoji ozbiljna i specifična opasnost. Navedene 
+obveze moguće je ispuniti i putem Plana iz vođenje radova kako bi Dobavljač  radi ispunjavanja 
+i samoprovjere svojih obveza mogao sukladno Zakonu o zaštiti na radu izraditi plan izvođenja 
+radova, neovisno o tome što mu nije propisana ta obveza.  
+ 
+21.15. Pored svih drugih prava, SIEMENS ENERGY  može, u slučaju kada Dobavljač prekrši zakonske 
+i/ili ugovorne odredbe vezane uz zaštitu na radu ili učestalo obavlja radove u nesukladnosti sa 
+istima, uključujući i odredbe ovog članka te odredbe EHS plana/Plana izvođenja radova  i SE 
+Zero Harm Programa , raskinuti ovaj ugovor nakon što Dobavljač nije u razumnom vremenskom 
+periodu ispravio utvrđene povrede ili zabraniti pristup zaposlenicima Dobavljača koji učestalo 
+krše pravila ili zaustaviti radove dok se ne otklone nesukladnosti. U tom slučaju SIEMENS 
+ENERGY  neće snositi nikakvu odgovornost prema Dobavljaču ili bilo kojoj trećoj strani niti bilo 
+kakve druge posljedice vezane uz raskid ovog ugovora.  
+ 
+21.16. SIEMENS ENERGY ima pravo na izravnu novčanu naknadu na teret Dobavljača, na temelju 
+računa s dospijećem plaćanja u roku od 7 dana, u iznosu utvrđenom na temelju vlastite 
+diskrecijske odluke društva SIEMENS ENERGY za svaki slučaj povrede zakonskih ili ugo vornih 
+zdravstvenih i sigurnosnih odredbi od strane Dobavljača. Dobavljač se odriče prava na 
+osporavanje takvog računa izdanog od strane društva SIEMENS ENERGY. U slučaju takve 
+povrede, SIEMENS ENERGY ima pravo raskinuti Ugovor i poduzeti bilo koje dr uge mjere, 
+prema vlastitoj diskrecijskoj odluci. Navedeno pravo ni na koji način ne utječe na pravo društva 
+SIEMENS ENERGY na naknadu štete ili bilo koje drugo pravo koje proizlazi iz ponašanja 
+Dobavljača koje je protivno zakonskim ili ugovornim odredbama
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          22                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+Siemens Energy Kodeks ponašanja  
+za dobavljače i posrednike treće strane  
+ 
+Ovaj Kodeks ponašanja definira osnovne zahtjeve koji se postavljaju dobavljačima i 
+posrednicima treće strane Siemens Energyja u vezi njihove odgovornosti prema njihovim 
+zainteresiranim subjektima i okolišu. Dobavljač i/ili posrednik treće strane ovime izja vljuje:  
+ 
+Pridržavanje zakona  
+• Da će se pridržavati zakona primjenjivih pravnih sustava.  
+ 
+Ljudska prava  
+Da će osigurati poštivanje svih međunarodno priznatih ljudskih prava i to izbjegavanjem uzrokovanja i 
+sudjelovanja u bilo kakvoj povredi ljudskih prava. Pojačanu pažnju usmjerit će na osiguranje poštivanja 
+ljudskih prava posebno osjetljivih nositelja prava, kao što su žene, djeca, radnici migranti ili autohtone 
+zajednice.  
+ 
+▪ Zabrana prisilnog rada  
+• Da neće koristiti niti pridonijeti stvaranju robovlasničkih odnosa, prisilnog rada, opresije, 
+izrabljivanja i trgovine ljudima.  
+ 
+▪ Zabrana dječjeg rada  
+• Da neće zapošljavati osobe koje su dobi mlađe od dobi u kojoj se završava obvezno 
+školovanje prema zakonu mjesta rada, pod uvjetom da  dob tih osoba  nije ispod 15 godina, 
+odnosno u onim zemljama za koje vrijedi iznimka koja se odnosi na zemlje u razvoju 
+Konvencije 138 Međunarodne organizacije rada (ILO) osobe mlađe od 14 godina.  
+• Da neće zapošljavati osobe mlađe od 18 godina za obavljanje opasnih poslova u skladu 
+s Konvencijom 182 Međunarodne organizacije rada.  
+ 
+▪ Zabrana diskriminacije i poštovanje u rad nom odnosu  
+• Da će osigurati jednako postupanje prema svojim radnicima bez obzira na boju kože, 
+rasu, nacionalnost, etnicitet, društveno podrijetlo, zdravstveni status, invaliditet, rod i spol, 
+spoln u orijentaciju,  seksualni identitet i orijentaciju, bračni status, političko opredjeljenje, 
+vjerska ili ideološka uvjerenja ili dob te promicati pružanje jednakih mogućnosti.  
+• Da neće tolerirati nikakvo neprihvatljivo postupanje prema radnicima, kao što su 
+psihološka okrutnost, seksualno uznemiravanje ili diskriminacija, uključujući geste, govor 
+ili tjelesne dodire koji su seksualne prirode, prisilni, prijeteći ili se mogu protu mačiti kao 
+zlostavljanje ili iskorištavanje.  
+• Da će se suzdržati od nepotrebnih ograničenja slobode kretanja, osim u slučaju zahtjeva 
+za osiguranjem zaštite i sigurnosti.  
+ 
+▪ Sloboda udruživanja i kolektivnog pregovaranja  
+• Da će priznati i poštivati  prava radnika na formiranje novih sindikata ili pridruživanje 
+postojećima i sudjelovanje u kolektivnim pregovorima; da neće zakidati niti preferirati 
+članove pojedinih organizacija radnika ili sindikata.  
+ 
+▪ Radno vrijeme i naknade radnika  
+• Da će poštivati sva primjenjiva pravila koja se odnose na radno vrijeme i odmor radnika.  
+• Da će plaćati poštenu plaću za rad, najmanje minimalnu, kako je propisano svim 
+primjenjivim zakonima . 
+• Da će u slučaju prekograničnog rada zaposlenika poštivati  sve primjenjive pravne 
+zahtjeve.  
+ 
+Kodeks ponašanja verzija 2.0, Ožujak 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          23                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+▪ Zaštita života, zdravlja i sigurnosti radnika  
+• Da će postupati u skladu s primjenjivim zakonskim i međunarodnim standardima u vezi 
+zaštite  zdravlja i sigurnosti na radu te pružiti sigurne uvjete za rad i, gdje je primjenjivo, 
+odgovarajuće prilagodbe u svrhu zaštite zdravlja i dobrobiti zaposlenika.  
+• Da će osigurati izobrazbu i upute radi osiguranja edukacije radnika o pitanjima zdravlja 
+i sigurnosti.  
+• Da će uspostaviti i primjenjivati razuman sustav upravljanja zaštitom zdravlja i sigurnosti 
+na radu¹.  
+ 
+▪ Utjecaj na zajednice  
+• Da će se suzdržati od nezakonitih postupaka iseljavanja, izvlaštenja i/ili nezakonitog 
+oduzimanja posjeda ili otimanja zemlje, šuma i voda.  
+ 
+▪ Snage sigurnosti  
+• Da će pri upotrebi privatnih ili državnih snaga sigurnosti osigurati poštivanje ljudskih prava 
+radnika i drugih nositelja prava (a posebno da neće upotrebljavati fizičku silu ili psihološku 
+prisilu, osim u slučajevima opravdane samoobrane).  
+ 
+Zaštita okoliša i klime, zaštita prirodnih resursa  
+• Da će postupati u skladu s primjenjivim zakonskim i međunarodnim standardima koji se 
+odnose na zaštitu okoliša.  
+• Da će smanjiti onečišćenje okoliša i neprekidno poboljšavati zaštitu okoliša.  
+• Da će uspostaviti razuman sustav upravljanja u vezi okoliša¹.  
+• Da neće uzrokovati štetnu promjenu tla, onečišćenje vode, onečišćenje zraka, štetne emisije 
+buke ili prekomjernu potrošnju vode koji u znatnoj mjeri narušavaju osnovne životne potrebe 
+ili štete zdravlju pojedinaca.  
+• Da će smanjiti količinu otpada te osigurati odgovarajuću obradu i zbrinjavanje otpada.  
+ 
+Poštena poslovna praksa  
+ Zabrana korupcije i podmićivanja  
+• Da neće tolerirati nikakav oblik korupcije i podmićivanja te da se neće izravno ili neizravno u 
+njih upuštati te da neće odobriti, ponuditi ili obećati nikakvu korist državnom dužnosniku ili 
+drugoj stranci u privatnom sektoru s ciljem utjecanja na službenu  radnju ili stjecanja 
+neprikladne prednosti. Ovo uključuje i susprezanje od davanja ili primanja neprimjerenih 
+olakšica.  
+ 
+ Pošteno tržišno natjecanje, protutrustovski zakoni i prava intelektualnog vlasništva  
+• Da će postupati u skladu s nacionalnim i međunarodnim pravilima  o zaštiti tržišnog natjecanja 
+i da neće sudjelovati u sporazumnom određivanju cijena, postupku dodjeljivanja tržišta ili 
+podjeli klijenata, dijeljenju tržišta ili namještanju ponuda s tržišnim natjecateljima.  
+• Da će poštovati prava intelektualnog vlasništva drugih osoba.  
+ 
+ Sukob interesa  
+• Da će izbjegavati i/ili otkriti interno i Siemens Energyju sve sukobe interesa koji bi mogli 
+negativno utjecati na poslovne odnose, te uopće izbjegavati pojavu istih.  
+ 
+ Zabrana  pranja novca i financiranja terorizma  
+• Da se neće izravno ili neizravno upuštati u pranje novca ili financiranje terorizma.  
+ 
+ Zaštita osobnih podataka i kibernetička sigurnost  
+• Da će obrađivati osobne podatke na povjerljiv način i odgovorno, poštovati svačiju privatnost 
+i osigurati učinkovitu zaštitu osobnih podataka i korištenje tih podataka isključivo u legitimne 
+svrhe.  
+ 
+Kodeks ponašanja verzija 2.0, Ožujak 2023  
+ 
+ 
+ 
+ 
+ 
+Opći uvjeti nabave Siemens Energy d.o.o.                          24                                                  Izdanje veljača  2025. 
+ 
+ 
+Letter of  
+to 
+Our reference  Neograničeno © Siemens Energy, 202 4                  Siemens Energy je zaštitni znak društva Siemens AG  
+ 
+• Da će se obvezati uspostaviti odgovarajući okvir upravljanja kibernetičkom sigurnošću u 
+svojoj organizaciji na temelju dobre industrijske prakse, kako bi se osigurala povjerljivost, 
+autentičnost, integritet i dostupnost podataka, procesa, proizvoda, sustava i usluga.  
+ 
+ Propisi o vanjskoj trgovini  
+Da će poštivati sva primjenjiva pravila i propise o izvozu, uvozu, carini i vanjskoj trgovini.  
+ 
+ 
+Odgovorno korištenje minerala  
+• Da će uložiti razumne napore kako bi u svojim proizvodima izbjegli korištenje sirovina i 
+materijala koji potječu iz područja zahvaćenih sukobima i područja visokog rizika i doprinose 
+kršenju ljudskih prava, korupciji, financiranju oružanih skupina ili slič nim aktivnostima koje 
+imaju negativne posljedice.  
+ 
+Mehanizam prijavljivanja  
+• Da će omogućiti pristup zaštićenom mehanizmu putem kojeg radnici mogu prijaviti moguće 
+povrede načela ovoga Kodeksa ponašanja.  
+• Da će osigurati zaštitu osoba koje su podnijele prijavu ili prijavitelja nepravilnosti (zviždača) 
+od bilo kakve osvete.  
+ 
+Nabavni lanac  
+• Da će u razumnoj mjeri nastojati osigurati pridržavanje načela ovog Kodeksa ponašanja od 
+strane svojih dobavljača i isto provjeravati uzimajući u obzir moguće rizike.  
+• Da će se pridržavati načela nediskriminacije pri odabiru dobavljača i postupanju prema njima.  
+ 
+1https://www.siemens -energy.com/global/en/company/about/supply -chain -management/sustainability -in-the-
+supply -chain/ehs -management - systeme.htm l 
+ 
+Kodeks ponašanja verzija 2.0 , Ožujak 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

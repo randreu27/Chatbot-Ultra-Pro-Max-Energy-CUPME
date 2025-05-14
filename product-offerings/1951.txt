@@ -1,0 +1,765 @@
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+1/12 
+ 
+International Terms and Conditions  for Project Business  
+1. General  
+1.1 The scope, quantity, quality, functionality and technical specifications of any goods, equipment, documentation, 
+software, work or services , including Digital Services,  to be provided by Siemens Energy (collectively referred to 
+as "Works ") are exclusively defined as the case may be either in the order confirmation issued by Siemens 
+Energy or the Contract signed by the Customer and Siemens Energy.  
+ 
+1.2 “Digital Service ” or “ Digital Services ” shall mean any and all deliveries and services as further described in this 
+Contract and the respective Addenda hereto. Digital Services may be comprised of hardware parts, software 
+and/or Applications. “Application” shall mean the (i) software, (ii) web  pages, (iii) connectivity, (iv) infrastructure 
+and (v) hardware being located outside of Customer ’s site, all of them as used by Siemens Energy in order to 
+provide the Digital Services.  
+ 
+1.3 The offer letter from Siemens Energy together with these terms and conditions and those other documents ex-
+pressly identified in the offer letter as forming part of the contract shall together constitute the entire agreement 
+between the parties (the " Contract "). Any terms and conditions of the Customer shall apply only where expressly 
+accepted in writing by Siemens Energy.  
+ 
+1.4 Siemens Energy is entitled to provide the Works  via a secure remote access (“ Remote Services ”). Remote 
+Service means Siemens Energy Remote Service, i.e. an online connection between Siemens Energy and the 
+relevant Work s at the Customer’s site allowing for remote services e.g. installation of Updates, Bug Fix and 
+Patches as well as monitoring and analysis.  
+ 
+The Customer shall verify that the security concept for the remote access proposed by Siemens Energy (see 
+Common Remote Service Platform cRSP – security concept in its current version) is compatible with the technical 
+capability of the Customer and the Cus tomer’s safety, cyber security and other requirements. The Customer 
+remains at all times responsible for the safety of humans, machines, and the processed  objects.  
+ 
+The Customer shall grant Siemens Energy access to the processed  objects via remote access. If contractually 
+agreed with the Customer, the Customer shall activate and accept each remote access of Siemens Energy.  
+ 
+The Customer shall provide an internet connection, which meets the technical requirements for a remote connec-
+tion. The costs for such internet connection shall be borne by the Customer.  
+ 
+Siemens Energy is entitled to modify or amend the existing security concept, so long as the performance of Works  
+via remote access is not compromised. Prior to implementing an amended security concept, Siemens Energy will 
+inform the Customer of the amended security concept. In the event the implementation is contrary to reasonable 
+interests of the Customer, the Cust omer shall give written notice to Siemens Energy within 4 weeks after receipt 
+of the notice of the intended change in concept. In the event Siem ens Energy and the Customer are unable to 
+agree on the security concept, the Customer is entitled to terminate the Contract in respect of such Works that 
+include Remote Services. In any event Siemens Energy may implement the amended security concept 8 week s 
+after notifying the Customer.  
+ 
+2. Rights of Use  
+2.1 Except as expressly otherwise agreed in this Contract all intellectual and industrial property rights in the Works, 
+in all documents provided by Siemens Energy in connection with this Contract (the “ Documents ”) and in all 
+software, hardware, know how (“ IPR”), and other things provided with or as part of the Works and the Documents 
+shall be the exclusive property of and vest in Siemens Energy. The Customer shall not reverse engineer, decom-
+pile, or reproduce the Works or parts thereof and shall ensure that th ird parties will not reverse engineer, decom-
+pile or reproduce the Works or parts thereof in each case to the extent mandatory law does not prohibit such 
+limitation.  
+ 
+2.2 The Customer may use the Documents unmodified and to the extent necessary for operation and routine mainte-
+nance of the Works by the Customer’s own personnel, unless explicitly agreed otherwise in writing by Siemens 
+Energy.  
+ 
+2.3 If the Works include Siemens Energy software, such software is licensed under the license terms contained in 
+the software documentation, the software itself or in the attached (Siemens Energy Software -) license terms (in 
+each case the “ Applicable License Conditions ”), which shall prevail over this Clause 2. The software is issued 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+2/12 
+in object code without source codes. The license hereunder only grants the non -exclusive right to use the software 
+as described in the Applicable License Conditions or, if there are no applicable license terms, for the purpose of 
+operation and routine main tenance of the Works.  
+ 
+2.4 The Works may include third party software. Insofar as specific license terms of the third -party licensor (e.g. 
+EULA) apply, Siemens Energy will provide such license terms together with the Works. The Customer shall com-
+ply with such third -party license terms.  These alone apply to the liability of the respective licensor towards the 
+Customer.  
+ 
+2.5 Insofar as the software contains Open Source Software (“ OSS ”), Siemens Energy will provide the applicable OSS 
+license terms together with the Works. The OSS license terms shall prevail over this Contract. Details regarding 
+any third -party software and OSS contained in the Works are available in the software docume ntation (e.g. RE-
+ADME_OSS).  
+ 
+2.6 Insofar as Open Source Software is included in the Works, such Open Source Software is listed in the Re-
+adme_OSS file of the Software. The Customer is entitled to use the Open Source Software in accordance with 
+the respective applicable license conditions of the Open Sourc e Software, which shall prevail over this Contract. 
+The Open Source Software license conditions shall have priority also in relation to the proprietary Siemens Energy 
+components insofar as the Open Source Software license conditions grant the Customer cert ain rights of use on 
+the basis of the connection of OSS components with proprietary Siemens Energy components. Siemens Energy 
+shall make available to the Customer, at the request of the Customer, the Open Source Software source code in 
+return for payment o f a fee to compensate for expenses insofar as the license conditions of the Open Source 
+Software require such release of the source code.  
+ 
+2.7 The rights granted in Clause 2 shall be transferable to a third party only together with the transfer of ownership 
+of all of the Works to that third party.  
+ 
+2.8 Without prejudice to the Customer’s intellectual property rights and subject to compliance with applicable law, 
+Siemens Energy and its Affiliates may for its own business purposes collect, use, modify, and copy any data 
+received in connection with the Work s. Any legal obligations regarding personal data shall remain unaffected.  
+ 
+3. Prices and Terms of Payment  
+3.1 Unless agreed otherwise in writing, prices exclude packing, freight, insurance and any other additional charges 
+(such as storage, inspections by third parties). The price payable by the Customer for the Works under this Con-
+tract shall be referred to in thi s Contract as the “ Contract Price ”. 
+ 
+3.2 Unless expressly stated otherwise, if Siemens Energy undertakes any erection, assembly, installation, commis-
+sioning or testing of the Works or a part of the Works outside Siemens Energy’s own premises (“ Works on Site ”), 
+the Customer shall bear all incidental costs, such as travel expenses, daily allowances, in addition to the Contract 
+Price.  
+ 
+3.3 The Contract Price is exclusive of any indirect taxes (such as property, license, sales, use, value added or similar 
+tax) and/or any duties, customs or public charges related to the Contract. The Customer agrees to pay or to 
+reimburse Siemens Energy for an y taxes, customs, duties or other public charges levied on Siemens Energy in 
+relation to the Works. All payments shall be made to Siemens Energy’s bank account without deduction (e.g. 
+deduction of withholding tax) within 30 days after issuance of the invoi ce. If the Customer is required to make a 
+deduction by law, the sum payable shall be increased so that Siemens Energy receives a net amount equal to 
+the amount it would have received without such deduction. The Customer shall provide to Siemens Energy tax 
+receipts from the relevant tax authorities in connection with the payments in due course.  
+ 
+3.4 Without prejudice to any other rights it may have, Siemens Energy may charge interest at 9 percentage points 
+above the current base lending rate of the European Central Bank on any overdue payments.  
+ 
+3.5 Each party must pay all sums that it owes to the other party under this Contract free and clear without any set -
+off, counterclaim, deduction or withholding of any kind, save as agreed otherwise in writing or as may be required 
+by law.  
+ 
+4. Delivery Times, Delay  and Liquidated Damages  
+4.1 Any agreed dates in respect of the Works or any part of them shall be extended by a reasonable period of time if 
+and to the extent that Siemens Energy is delayed or impeded in the performance of its obligations by any third 
+party or by the failure of the C ustomer to perform its obligations. This includes without limitation the delivery of 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+3/12 
+required documents (such as necessary permits and approvals), timely performance of any work to be undertaken 
+by the Customer or any third party appointed by the Customer, and compliance with the terms of payment.  
+ 
+4.2 Siemens Energy may, if it is reasonable to do so, deliver the Works in stages or instalments and shall be entitled 
+to invoice for the Works on a corresponding basis.  
+ 
+4.3 If Siemens Energy does not meet the agreed final delivery or final completion date solely due to the fault of 
+Siemens Energy, the Customer shall be entitled to liquidated damages amounting to 0.5% of the price of the 
+delayed part of the Works per each completed week of delay, in which the Cu stomer suffered loss as a result of 
+such delay. Liquidated damages payable in case of delay shall be limited to 5% of the price of the delayed part 
+of the Works.  
+ 
+4.4 Any other liability of Siemens Energy and any claims, rights, and remedies of the Customer in case of delay 
+except as expressly stipulated in this Clause 4 and in Clause 16.2a)  below shall be excluded, to the extent per-
+missible by law.  
+ 
+4.5 If the Customer, the Customer’s contractors, or any other third party put in charge by the Customer causes a 
+delay to the provision of the Works, the Customer shall reimburse Siemens Energy all additional costs and ex-
+penses incurred due to such delay.  
+ 
+4.6 If the Works fail to meet any guaranteed performance figures in the Contract solely due to the fault of Siemens 
+Energy, Siemens Energy shall be given additional reasonable time to achieve such figures by carrying out at its 
+own expense any work which Sieme ns Energy considers necessary. If, after completion of the work and all further 
+performance test, the performance figures are not reached, the Customer shall be entitled to liquidated damages 
+at such rate as may be specified in the Contract,  but which shal l in no event exceed 5% of the price of the part of 
+the Works failing to meet the agreed figures. The payment of liquidated damages shall be the Customer’s only 
+remedy for and in connection with the non -achievement of any performance figures required under  the Contract.  
+ 
+4.7 The parties acknowledge the worldwide outbreak of the coronavirus disease  (COVID -19), which is likely to affect 
+the execution of the Contract. The parties agree that Siemens Energy shall be entitled to reasonable adjustments 
+of the agreed dates for the performance of the Works as well as to reimbursement of costs to the extent the delay 
+and the costs are caused directly or indirectly by the outbreak o f the coronavirus disease.  
+ 
+4.8 The parties acknowledge that there is an uncertain political and security situation in the world, in particular due 
+to the invasion of Ukraine (“ Uncertain Situation ”), which effects are difficult to foresee at the time of Contract 
+signing and which can directly and indirectly affect the execution of th e Contract, including, but not limited to, the 
+availability of certain equipment, commodities, metals, and materials as well as the availability of transportation 
+means and services and supply of gas. In the light of the above, the parties agree that Siemens Energy shall be 
+entitled to reasonable adjustments of the delivery times and/or the Contract Price to the extent any delay and 
+costs are caused directly or indirectly by the above -mentioned Uncertain  Situation and any related consequences.  
+ 
+5. Transfer of Risk and Title  
+5.1 Risk of damage to or loss of any part of the Works shall pass to the Customer as follows: (i) if the Works do not 
+include full erection and full commissioning upon delivery and (ii) if the Works include full erection and full com-
+missioning upon acceptance as specified in Clause 9. 
+ 
+5.2 The Works shall be deemed provided if and when the Customer fails to accept the provision of the Works without 
+cause. In such case, parts, which are part of the Works, can be stored and insured at the risk and expense of the 
+Customer and any payment shall become due. The same consequences shall apply on the scheduled date of 
+delivery if the dispatch is postponed for reasons attributable to the Customer.  
+ 
+5.3 Title in any part of the Works shall remain with Siemens Energy until Siemens Energy has received full payment 
+for that part of the Works.  
+ 
+6. Force Majeure  
+6.1 A “Force Majeure Event”  means any event which is beyond the reasonable control of a party or its subcontrac-
+tors, which could not have been prevented by good industry practice and which results in a party, its Affiliates or 
+any of its sub -contractors or sub -suppliers (the “ Affected Party ”) being unable to perform or being delayed in 
+performing in whole or in part its obligations under this Contract. Force Majeure Events include, among others, 
+acts of war, riot, civil commotion, terrorism, natural disaster, e pidemic, strikes, lock -outs, attacks on Siemens 
+Energy’s IT systems (such as virus attacks, hacker attacks, failure or unavailability of telecommunications 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+4/12 
+networks, unavailability of power, attacks by malware, exploitation of Vulnerabilities and other attacks on contract -
+relevant IT systems and operations centres e.g. hacker attacks), non -issuance of licenses, permits, or approvals, 
+or any other act or failu re to act by any public authority, or embargos or any other trade sanctions.  
+ 
+6.2 If a Force Majeure Event occurs, the Affected Party will be deemed not to be in breach of its obligations under 
+the Contract for so long as and to the extent necessary to overcome the effects of the Force Majeure Event.  
+ 
+6.3 The Affected Party shall notify the other party as soon as reasonably practicable of the Force Majeure Event and 
+of its affected obligations.  
+ 
+6.4 If one or more Force Majeure Events and their effect lasts for a period of 180 days in aggregate either party may 
+terminate the Contract by giving to the other a written notice of termination with regard to the part of the Works 
+not yet provided . With regard to the part of the Works not yet provided, Siemens Energy shall be entitled to 
+reimbursement from the Customer of its unavoidable costs related to such termination.  
+ 
+7. Obligations of the Customer  
+7.1 The Customer shall apply for and obtain all necessary licenses, permits and approvals required for commission-
+ing, acceptance and use of the Works.  
+ 
+7.2 In order to receive the Digital Services, the Customer shall take all measures required to receive the Digital 
+Services, including without limitation, the proper installation, operation and maintenance of on -Site equipment 
+(i.e. control and communication s ystem, network components) and provision of data connectivity.  
+ 
+7.3 The provision of the Works shall be subject to the Customer providing, at its own expense and in a timely manner, 
+everything reasonably required to ensure that Siemens Energy's personnel are able to commence Works in time 
+and to carry out the Works in an uninterrupted manner. For Works on Site, the Customer shall provide, without 
+limitation:  
+a) unrestricted access to the site and related infrastructure ; 
+b) assistance with regard to obtaining required visas, work and residence permits , customs clearance for the 
+Works, personnel, or equipment of Siemens Energy or its subcontractors ; 
+c) all earth -moving and construction work and other ancillary services to the extent not expressly included within 
+Siemens Energy’s scope of Works including the necessary works, materials and tools ; 
+d) equipment, tools and materials necessary for Siemens Energy’s performance of the Works ; 
+e) energy, water, internet access, heating and lighting ; 
+f) suitable, dry and lockable rooms for the storage of materials, tools etc. and adequate working and recreation 
+rooms for personnel of Siemens Energy or its subcontractors, including telephone and communication lines 
+and appropriate sanitary facilities ; 
+g) all necessary health and safety measures to protect the personnel and the property of Siemens Energy and 
+its subcontractors ; 
+h) all necessary information concerning the location of concealed electric power, gas and water lines or of similar 
+installations as well as all required data concerning static and sub -surface conditions of the site ; 
+i) all necessary materials and equipment to start Works on Site and make sure that the Works on Site can be 
+started as agreed and carried out without interruption ; and  
+j) provide technical resources and auxiliary equipment (e.g. ladders, scaffolding, lifting devices, special tools as 
+well as on -site transportation) with the required operating personnel as well as the operating and production 
+resources and materials and cons umables necessary for the performance of the Works . 
+ 
+7.4  The Customer is solely responsible for the conception, implementation, and maintenance of a holistic, state -of-
+the-art security concept to protect its enterprise with all plants, systems, machines, and networks, for which the 
+Works  are provided, against Cyberthreats. " Cyberthreat " means any circumstance or event with the potential to 
+adversely impact the Customer’s plants, systems, machines, and networks (including the Works ) via unauthorized 
+access, destruction, disclosure and/or modification of information, denial of service attacks or comparable sce-
+narios. Such concept should inter alia include:  
+a) Access to Customer's premises and to its plants, systems, machines and networks must be restricted to where 
+absolutely necessary.  
+b) Installation of Updates as soon as they are available in accordance with the installation instructions given by 
+Siemens Energy and using the latest version. This might require Customer’s purchase of Upgrades of hard-
+ware and software, and patch management services , but subject to a prior check of the compatibility and to 
+the impact on the functionality of the whole plant or system. Use of versions that are no longer supported 
+and/or failure to install the latest Updates may increase Customer’s exposure to Cy berthreats.  
+“Update " means any software -version which primarily contains  
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+5/12 
+i) corrections of software defects („Bug Fix“),  
+ii) corrections of vulnerabilities („Patches“) and/or  
+iii) minor enhancements or improvements of the Works ,  
+but does not contain significant new features.  
+ "Upgrade " means any hardware/software which primarily contains major enhancements of the Work and new 
+features.  
+c) Complying with security advisories, implementing other related measures, published, among others, under 
+https://www.siemens -energy.com/global/en/company/about/cybersecurity/cert -services.html . 
+d) Regular Vulnerability scanning and testing of the hardware and/or software of the Works , provided however, 
+that (i) it is not performed while the components are in use, and (ii) the system configuration and security level 
+of any parts of the components shall not be modified. If Vulnerabilities are identified by the Customer, the 
+Customer sha ll notify Siemens Energy in writing within a reasonable time. Customer shall cooperate with 
+Siemens Energy and  must not disclose the Vulnerability without the prior writ ten consent from Siemens En-
+ergy.  
+e) Implementation and maintaining a state -of-the-art password policy.  
+f) Connecting the plants, systems, machines and networks, for which the Works  are provided, to an enterprise 
+network or the internet must only be done where absolutely necessary and only when appropriate security 
+measures (e.g. firewalls, network client authentication and/or network segmentation) are in place and the 
+guidelines of the respective manufacturers are fulfilled.  
+g) Minimizing the risk of a malware infection (e.g. through contents of USB -storage media and other connected 
+removable storage devices) through malware scanners with approved compatibility by the manufacturer or 
+other appropriate protective measures.  
+h) Raising the awareness of the Customer's personnel towards dangers associated with Cyberthreats. This also 
+includes regular trainings.  
+ 
+„Vulnerability " means a weakness in Works  that could be exploited to permit unauthorized access, use, or mod-
+ification to such Works  or computing environment.  
+ 
+7.5  The Customer acknowledges that Works  on site may generate hazardous waste as defined in the applicable 
+laws.  The Customer shall, at its expense, provide containers complying with all legal and regulatory requirements 
+and shall handle, store and dispose of hazardous waste in accordance with the applicable laws.  
+ 
+If Siemens Energy discovers hazardous materials (including asbestos), environmentally hazardous substances, 
+geological or geothermal conditions, archaeological findings or any other local environmental conditions which 
+have an adverse effect on the Works, the Customer shall be liable for any required remediation and shall also 
+reimburse Siemens Energy for any reasonable additional costs and expenses.  
+ 
+7.6  The Customer shall be responsible for the collection and disposal of the waste electrical and electronic equipment 
+and industrial batteries at the end of their use phase at its own expense according to the law at the place of use.  
+ 
+7.7  Siemens Energy shall comply with the Customer’s site rules and regulations when performing Works on Site, 
+provided that the Customer informs Siemens Energy, in writing, of all relevant site rules and regulations in force 
+at the premises within a reasonable  period of time prior to performance of the Works on Site.  
+ 
+Siemens Energy shall not be obliged to provide the Works on Site in unhealthy or dangerous surroundings. All 
+the necessary safety and precautionary measures shall be taken by the Customer, at no cost to Siemens Energy,  
+before the Works on Site commence and shall be maintained by the Customer during Siemens Energy’s perfor-
+mance of the Works on Site.  
+ 
+The Customer shall inform Siemens Energy prior to the execution of any Works on Site about potential health or 
+safety risks  which may originate from the Customer’s plant or equipment or may exist at Customer’s site, includ-
+ing, but not limited to hazardous materials which may exist in addition to those already specifically addressed in 
+the Contract or which may be generated or released in connection with the Works on Site (“ HS Risk ”).  
+ 
+If a potential HS Risk arises, then, without limiting its other rights and remedies, Siemens Energy may suspend 
+its Work s until the respective HS Risk has been permanently eliminated, or protective and preventive measures 
+required by Siemens Energy have been taken by the Customer.   
+ 
+The Customer shall reimburse Siemens Energy all additional costs incurred by any special protective and pre-
+ventive measures as deemed necessary by Siemens Energy to deal with the existing HS Risk as well as costs 
+resulting from the suspension. The contract ual schedules and time limits shall be adjusted accordingly.  
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+6/12 
+The Customer is responsible for the health and safety conditions on site, shall comply with any applicable laws 
+as well as the laws, regulations and requirements of the European Union, and shall implement and conduct a risk 
+assessment of potential hazards for the health and safety of the personnel on site, measures to control such risks 
+(including suitable safety and working regulations for the work on site, emergency and  evacuation procedures, 
+and effective medical aid systems and resources), and potentially necessary corrective measures. Prior to their 
+performance of any activity on site, Customer shall provide Siemens Energy’s and its sub -suppliers’ personnel 
+with the r equired safety and working regulations and related trainings. If Siemens Energy provides Customer with 
+a safety and health document for the site, the Customer shall comply with the regulations contained therein, 
+including provided updates.  
+ 
+The Customer is responsible for ensuring that the site, including the ambient air and all parts of the plant Siemens 
+Energy’s employees or subcontractors may encounter, are free of asbestos. The ambient air shall be deemed 
+free of asbestos if the airborne asbestos fiber concentration does not exceed 1,000 fibers/m³ measured with SEM 
+or 10,000 fibers/m³ measured with PCM. Upon request by Siemens Energy, the Customer shall certify these 
+conditions by a licensed and independent institute. Siemens Energy shall be entitled to perform corresponding 
+measurements.  
+ 
+In case aforementioned parts or ambient air is not free of asbestos or as long as the permanent absence of 
+asbestos is not ensured, Siemens Energy may, without limiting its other rights and remedies, suspend any work 
+in affected areas and reject any delive ry of asbestos -containing parts to its factory or workshop until it is certified 
+by a licensed and independent institute that the site and the parts are free of asbestos. The costs of such certifi-
+cation and/or other expenses related to on-site asbestos shall be borne by the Customer. Siemens Energy may 
+nevertheless agree to perform certain limited scope of work under defined protection measures to the extent 
+determined by Siemens Energy. Siemens Energy shall be entitled to compensation for any additional cost in-
+curred and to a reasonable extension of time for the provision of the Works.  
+ 
+7.8  For any portion of the Works performed by Siemens Energy and/or its subcontractors on a time basis, the Cus-
+tomer shall confirm with Siemens Energy on a weekly basis the hours worked by Siemens Energy’s and/or its 
+subcontractors’ personnel.  
+ 
+8. Changes and Variations  
+8.1 Either party may at any time request in writing changes, modifications or additions to the scope of the Works 
+(hereinafter referred to as “ Variation ”). Upon receipt of such Variation request, Siemens Energy shall provide the 
+Customer with a written quotation for the requested Variation, specifying the effects of the requested Variation on 
+the Contract, including any necessary adjustment of the Contrac t Price, time schedules and agreed dates, scope 
+of the Works and any other affected provisions of the Contra ct. 
+ 
+If the Customer wishes to proceed with a requested Variation on the basis of Siemens Energy’s quotation, the 
+Customer shall notify Siemens Energy thereof in writing within 14 days of receipt of the quotation. Siemens En-
+ergy is not obliged to give effect to the Variation until it has been agreed in writing by the parties.  
+ 
+8.2 If applicable laws, rules and regulations, engineering standards and codes of practice, and decisions or guidance 
+issued by courts or public authorities are amended or added to after the date of Contract signature, Siemens 
+Energy shall be entitled to an adjustment of the Contract, including inter alia an adjustment of the C ontract Price 
+to reflect any additional costs to be incurred by Siemens Energy, the time schedules and scope of Works, as 
+necessary in order to compensate for any adverse effects or additional requirements deriving from such changes.  
+ 
+If engineering standards and codes are listed in the technical specifications, Siemens Energy shall comply at the 
+date of the Contract  signature  only with those. In the event that, at any time, mandatory local codes or standards 
+in the country where  the Works are executed  stipulate more stringent or onerous requirements with regard to 
+the Works, the Customer is obliged to inform Siemens Energy accordingly and the Customer shall (i) request a 
+quotation from Siemens Energy specifying the effect of those more stringent requirements on the total Contract 
+Price, on the agreed dates for  performance of the Works,  the payment and any other provision under the Contract, 
+and (ii) shall enter into a Variation in accordance with this Clause  8 based on such quotation.  
+ 
+8.3 The names, functions, and the appearance, of the Digital Services and the Applications reflect the current devel-
+opment status as of the date of the Contract signature . Siemens Energy shall be entitled to issue at its discretion 
+updates, upgrades and/ or changes to the Digital Services and/ or the Applications, e.g. in order to improve the 
+Digital Services. Siemens Energy shall inform the Customer about any major update , upgrades and changes. If 
+such updates, upgrades or changes are subject to additional cha rges, it will only be effective after additional 
+agreement between the parties.  
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+7/12 
+8.4 Without prejudice to the parties’ right to request Variations, Siemens Energy may at any time make changes to 
+the Works without the Customer’s prior approval, provided such changes by Siemens Energy do not adversely 
+affect the agreed operability, functiona lity or technical characteristics of the Works. Siemens Energy shall not be 
+entitled to any additional payment, extension of time, or other adjustment of the Contract in respect of such 
+changes.  
+ 
+9. Acceptance  
+9.1 If the Works are subject to acceptance, the Customer shall accept the Works upon their completion including 
+successful performance of acceptance tests if such tests have been agreed on. In case of partial delivery, the 
+Customer shall accept functional part s of the Works separately upon their completion.  
+ 
+9.2 If Siemens Energy notifies the Customer that the Works or a part of the Works are ready for acceptance, the 
+Customer shall declare the acceptance of the Works or relevant part in writing within 2 weeks of the notified date. 
+Upon expiry of the 2-week period the Works or relevant part of the Works shall be deemed accepted, unless the 
+Customer has stated and substantiated in writing legitimate grounds on which it refuses acceptance. The ac-
+ceptance shall be effective as of the date of Siemens Energy ’s notificat ion. 
+ 
+9.3 In any case, the Works or parts of the Works shall be deemed accepted as soon as they are put into commercial 
+operation or if the acceptance tests have not been carried out within 1 week after their scheduled dates due to 
+reasons not attributable to Siemen s Energy.  
+ 
+9.4 The Customer shall be entitled to refuse acceptance only in case of Defects (as defined in Clause 10.1 below) in 
+the Works which significantly affect the use of the Works. Those items shall be listed in the acceptance record 
+and shall be remedied by Siemens Energy within a reasonable period of time or as agreed between the parties.  
+ 
+9.5 All costs and expenses of the Customer and any third parties (other than those of Siemens Energy’s own per-
+sonnel or its subcontractors) incurred in connection with inspections, tests, approvals, acceptance procedures 
+etc. shall be borne by the Customer.  
+ 
+10. Defects Liability  
+10.1 In this Contract, and subject to Clause 10.2, a defect shall mean any non -conformity of the Works with the express 
+terms of this Contract resulting from circumstances existing in the Works at the time of the transfer of risk to the 
+Customer (“ Defects ”). 
+ 
+10.2 In particular, the following shall not be Defects:  
+a) normal wear and tear, non -conformity resulting from excessive strain ; 
+b) non-conformity resulting from faulty or negligent handling , non-compliance with instructions or recommenda-
+tions in operation or maintenance manuals and other documents;  
+c) installation, erection, modification, commissioning, or pre -commissioning, in each case not carried out by Sie-
+mens Energy ; 
+d) non-reproducible software errors, furthermore, software defects shall only be deemed to be a defect if the 
+defect occurs in the software version that is most current at the time;  or 
+e) defects which do not significantly impair the use of the respective Works.  
+ 
+10.3 The Customer shall immediately  notify Siemens Energy in writing of any Defects without undue delay. Upon such 
+written notification, Siemens Energy shall, at its option, remedy a Defect by repair, replacement, or re -perfor-
+mance. Siemens Energy shall be given a reasonable period of time and opportunity to remedy the Defect. For 
+this purpose, the Customer shall grant Siemens Energy working access to the non -conforming Works, shall un-
+dertake any necessary disassembly and reassembly, and shall provide access to operation and maintenance 
+data, all at no charge to Siemens Energy. Upon Siemens Energy’s request, the Customer shall ensure that title 
+to the replaced defective parts shall transfer to Siemens Energy.  
+ 
+The Customer shall be responsible for the customs clearance in the country where the project of the Works 
+provided is located and for the further transport from the places of delivery for all equipment necessary to remedy 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+8/12 
+the Defect. Upon request of the Customer, Siemens Energy shall be obliged to reimburse the Customer for all 
+such customs duties (if any) against documentary proof and invoice.  
+ 
+Insofar as a part has to be merely delivered, the Customer shall immediately inspect that part and shall notify 
+Siemens Energy in writing of any Defects without undue delay. Customer’s claims for defects shall be excluded 
+for any apparent defects, if the C ustomer has failed to do so.  
+ 
+10.4 Unless otherwise agreed, the defects liability period for any part of the Works is 12 months. It starts at the date 
+of transfer of risk.  
+ 
+For replaced or repaired parts of the Works, the defects liability period is 6 months from the date of replacement 
+or repair, if the original defects liability period for the Works expires earlier. In any event, the defects liability period  
+shall end no la ter than 24 months from the beginning of the original defects liability period.  
+ 
+Siemens Energy is not liable for any Defects unless notified in writing by the Customer to Siemens Energy before 
+the end of the defects liability period.  
+ 
+10.5 The Customer is responsible for the conception, implementation , and maintenance of a holistic, state -of-the-art 
+security concept according 7. 4 Siemens Energy does not warrant or guarantee that any Work s will be secure 
+from Cyberthreats and does not contain any Vulnerabilities.   
+ 
+10.6 If software is defective, Siemens Energy shall only be obliged to provide the Customer with an updated version 
+of the software in which the Defect has been remedied when Siemens Energy can be reasonably expected to 
+provide such updated version or, if Siemens Energy is only licensee, such updated version is reasonably available 
+from Siemens Energy’s licensor. If the software has been modified or  individually developed by Siemens Energy, 
+Siemens Energy shall in addition provide the Customer with a workaround or other interim error correcting solution 
+until the provision of an updated version of the software in which the Defect is remedied, if such workaround or 
+interim solution is feasible at reasonable expense and if otherwise the Customer’s business operations would be 
+stopped or substantially impeded.  
+ 
+10.7 If Siemens Energy carries out remedial work and it is ultimately not established that there was a Defect, the 
+Customer shall pay Siemens Energy for such remedial work including error diagnosis and reperformance.  
+ 
+10.8 Any other liability of Siemens Energy and any claims, rights and remedies of the Customer in case of Defects of 
+the Works shall be excluded except as expressly stipulated in this Clause 10 or in Clause 16.2b) , provided that a 
+material breach shall only exist if Siemens Energy failed at least 3 times in remedying the Defect. All warranties, 
+representations, conditions, and all other terms of any kind whatsoever implied by statute or common law are, to 
+the fullest extent permitted by applicable law, excluded from this Contract.  
+ 
+11. Intellectual  Property Rights  
+11.1 If a third party asserts legitimate claims against the Customer that the Works infringe an IPR owned by such third 
+party, then subject to the following provisions of this Clause 11, Siemens Energy shall, at its option and expense, 
+either:  
+a) obtain a right to use the relevant IPR in connection with the Works; or  
+b) modify the Works so as not to infringe the relevant IPR; or  
+c) replace the infringing part of the Works.  
+ 
+If, in the opinion of Siemens Energy, none of the foregoing is reasonably possible, Siemens Energy may take 
+back the relevant part of the Works and reimburse the price for such part.  
+ 
+11.2 Siemens Energy’s obligations in Clause 11.1 are subject to the following conditions:  
+a) the Customer has immediately notified Siemens Energy in writing of the third party’s claim and furnished 
+Siemens Energy with a copy of each communication, notice or other action relating to the alleged infringement;  
+b) the Customer does not acknowledge an infringement and provides Siemens Energy with the authority, infor-
+mation and assistance reasonably required by Siemens Energy to defend or settle such claim; and  
+c) Siemens Energy is given sole control of the defence (including the right to select counsel), and the sole right 
+to settle such claim.   
+ 
+If the Customer ceases to use the Works or any relevant portion thereof, it shall notify the third party in writing 
+that this cessation of use is not an admission of IPR infringement.  
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+9/12 
+11.3 Any claims of the Customer shall be excluded if the Customer (including its agents, employees or contractors) is 
+responsible for the IPR infringement. The Customer shall be deemed responsible for the claimed IPR infringement 
+if, without limitation, it was caused by (i) specific demands of the Customer, (ii) use of the Works for a purpose or 
+in a manner not foreseeable by Siemens Energy, (iii) a modification of the Works by the Customer, or (iv) use of 
+the Works in connection with other equipment.  
+ 
+11.4 All rights, titles, interests and know -how in and to the Digital Services and the Applications and any parts and 
+every improvement or further development thereof, other than those expressly granted herein, shall remain wholly 
+vested in Siemens Energy or its third party suppliers and/ or licensors.  
+ 
+11.5 This Clause 11 sets forth Siemens Energy’s entire liability for infringement of third party IPRs. Any other claims, 
+rights, and remedies of the Customer shall be excluded.  
+ 
+12. Liability  
+12.1 Unless explicitly stipulated in this Contract, this Clause 12 shall exclusively govern the liability of Siemens Energy 
+for damages, costs and expenditures, regardless of the legal theory upon which it is based, including, but not 
+limited to liability in Contract, in tort (including negligence), misrepresentation, in demnity, under warranty or oth-
+erwise.  
+ 
+12.2 Siemens Energy shall be liable for bodily injuries and for intentional acts or omissions pursuant to the applicable 
+law. 
+12.3 Siemens Energy’s total liability, whether pursuant to any indemnity or in contract, tort (including negligence and 
+breach of statutory duty) or otherwise arising by reason of or in connection with the Contract shall not exceed for 
+loss of or damage to Cust omer’s property the lesser of  
+(i) the Contract Price ; 
+(ii) Customer’s property Construction/Erection All Risks insurance deductible ; or  
+(iii) € 500,000 per event with an aggregate limit of € 1,000,000.  
+ 
+For the avoidance of doubt, the same shall apply to damage or loss caused to the Works  by Defects or remedial 
+work carried out by Siemens Energy after delivery to or acceptance of the Works by Customer, as the case may 
+be. 
+ 
+Siemens Energy shall in no event be liable, whether pursuant to any indemnity or in contract, tort (including 
+negligence and statutory duty) or otherwise for loss of profit or revenue, loss of production, interruption of opera-
+tions or loss of use, cost of capital, loss of interest, loss of information and/or data, for claims arising from Cus-
+tomer’s contracts with third parties, loss of hydrocarbons, loss of power, cost of purchased or replacement power, 
+or for any indirect or consequential damage.  
+ 
+12.4  Any limitations of liability set forth in this Contract shall also apply for the benefit of Siemens Energy’s Affiliates, 
+subcontractors, employees, agents or any other person acting for Siemens Energy.  
+  
+12.5  If the Customer is not or shall not be the sole end user and ultimate owner of the Works or is procuring them for 
+the benefit of any kind of joint venture, the Customer shall, in every contract in connection with the Works or parts 
+thereof with the end user, ultimate owner or joint venture participant obtain written assurances from its contracting 
+party of limitation and exclusions in favour of Siemens Energy, Siemens Energy’s directors as well as Siemens 
+Energy’s employees,  agents, suppliers and subc ontractors (the “ Protected Entities ”) at least equivalent to those 
+afforded to contractor, under the contract. Customer shall indemnify and hold harmless Protected Entities against 
+any liabilities incurred by Protected Entities in excess of those that would have been incurred had the Customer 
+complied with its obligations arising out of the preceding clause . 
+ 
+12.6  Any and all liability of Siemens Energy under this Contract shall cease with the expiry of the defects liability period 
+of the Works.  
+ 
+12.7  The Customer shall secure that at its own cost a Construction/Erection All Risks (“ CEAR ”) insurance is effected 
+and maintained for the whole scope of site works, starting with the beginning of any site works until the beginning 
+of commercial operation, under which Siemens Energy, all of its affiliated companies as well as its subcontractors 
+involved in the scope under the contract shall be named as additional insured parties including a waiver of sub-
+rogation. This CEAR insurance shall be extended to provide an extended maintenance cover during Siemens 
+Energy’s defects liability period after b eginning of commercial operation. This cover shall be in accordance with 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+10/12 
+good international industrial standards applied for projects of comparable size, with not broader exclusions and 
+restraints as are typically required by the international insurance market for this type of policies, and the policy 
+shall contain all typical extension (e.g. LEG 2/96) as are commonly provided under such type of policies. The 
+Customer shall send a copy of this CEAR insurance to Siemens Energy within 90 days before start of any site 
+activities.  
+ 
+13. Assignment and Subcontracting  
+13.1 The Customer may not assign this Contract or any part thereof without Siemens Energy’s prior written approval.  
+ 
+13.2 Siemens Energy may transfer, assign, or novate the Contract or any part of it to an affiliated company ( “Affili-
+ate”), being Siemens Energy itself and any corporation, company, or other legal entity that is affiliated to Siemens 
+Energy pursuant to Sec . 189a Austrian Business Code (Unternehmensgesetzbuch – UGB ). 
+ 
+13.3 Siemens Energy shall further be entitled to assign the whole Contract or a part of it to any third party, in the event 
+of a sale or other transfer of the business or a part of the business of Siemens Energy to a third party.  
+ 
+13.4 Siemens Energy may sub -contract parts (but not all) of the Works.  
+ 
+14. Confidentiality and Data Protection  
+14.1 The parties shall use any documents, know -how, data or other information provided by the other party (" Infor-
+mation ") exclusively for the purpose of this Contract and keep the same confidential subject to the following. The 
+parties may disclose Information to employees of the receiving party and to third parties who reasonably need to 
+know such Information for the purp ose of the Contract provided such employees and third parties are bound by 
+equivalent confidentiality obligations. The party disclosing Inform ation shall be held liable for a breach of such 
+obligations by its employees or a third party.  
+ 
+14.2 This confidentiality obligation shall not apply to Information which  
+a) is or becomes part of the public domain other than by fault of the receiving party;  
+b) is disclosed to the receiving party in good faith by a third party who is entitled to make such disclosure;  
+c) is developed independently by the receiving party without reliance on Information;  
+d) was known to the receiving party prior to its disclosure by the other party; or  
+e) is required to be disclosed by law (subject to the receiving party’s obligation to notify the disclosing party in a 
+timely manner of such requirement).  
+ 
+14.3 The Customer shall only be entitled to take photographs or videos or to otherwise record the performance of the 
+Works with Siemens Energy’s prior consent. In addition, only personnel of the Customer who operate s the plant 
+shall be entitled to be present during the performance of the Works by Siemens Energy.  
+ 
+14.4 Siemens Energy and the Customer shall comply with the statutory provisions relating to protection of personal 
+data. The Customer is obliged to create the prerequisites required by law (e.g. to obtain declaration of consents) 
+to enable Siemens Energy to per form the Works without any breach of law. The Customer is advised to take 
+appropriate measures – as far as possible – to prevent access of Siemens Energy to personal data or trade 
+secrets of the Customer while providing the Works. In the event that it cann ot be prevented that Siemens Energy 
+is granted access to personal data of the Customer, the Customer is obliged to inform Siemens Energy in due 
+time before the Works are performed. The Customer and Siemens Energy shall then agree on the actions to be 
+taken . 
+ 
+14.5 This confidentiality obligation shall survive the expiration or termination of this Contract for 5 years . 
+ 
+15. Suspension  
+15.1 Siemens Energy may suspend performance of its obligations under the Contract if (i) the Customer is in delay 
+with any payment or in providing any payment security required under this Contract for more than 30 days, or (ii) 
+the Customer fails to perform tho se of its obligations necessary for Siemens Energy to provide the Works, or (iii) 
+the Customer otherwise materially breaches the Contract.  
+ 
+15.2 If Siemens Energy suspends the Contract in accordance with Clause 15.1 or in the event the Customer suspends 
+the Contract without the express written agreement of Siemens Energy, the Customer shall become immediately 
+liable to pay Siemens Energy for all parts of the Works already provided. The Customer shall further reimburs e 
+Siemens Energy all reasonable additional costs and expenses incurred as a result of such suspension (e.g. pay-
+ments to subcontractors, cost of waiting time, demobilization and remobilization, etc.). Any contractual dates shall 
+be extended for a reasonable  period to overcome the effects of the suspension . 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+11/12 
+16. Termination  
+16.1 Either party may terminate this Contract with immediate effect by written notice, if the other party becomes bank-
+rupt or insolvent, or an application for bankruptcy proceedings is not granted due to insufficient assets.  
+ 
+16.2 Save as provided under Clause 6.4 and Clause 16.1, the Customer may terminate the Contract only in the cir-
+cumstances set out below and in each case upon 14 days written notice to Siemens Energy:  
+a) in the event of delay, if the maximum liquidated damages under Clause 4.3 are payable, a reasonable addi-
+tional period of time for provision of the Works has been granted to Siemens Energy and has expired, and 
+Siemens Energy within that time has not provided a commitment to pay further liquidated damages exceeding 
+the before -mentioned maximum liquidated damages in respect of the continuing period of delay ; or 
+b) in the event Siemens Energy has materially breached the Contract and has not remedied the breach within a 
+reasonable period after receiving written notification of the breach from the Customer.  
+ 
+16.3 Any termination by the Customer shall not affect those parts of the Works already delivered or performed in 
+accordance with the Contract prior to the termination. In the event of termination in accordance with Clause 16.2, 
+the Customer shall remain liable to pay Siemens Energy for all parts of the Works already delivered  or provided 
+prior to termination. The Customer shall be entitled to compensation for the costs incurred in excess of the Con-
+tract Price if it had the defective Works completed by a third party. For the avoidance of doubt, Clause 12 shall 
+apply in case of termination. The right to rescind the Contract is excluded.  
+ 
+16.4 Notwithstanding any other rights it may have under this Contract, Siemens Energy may terminate the Contract  
+a) if the Customer comes under the direct or indirect control of any competitor of Siemens Energy; or  
+b) if the Customer materially breached the Contract and has not remedied the breach within a reasonable period 
+after a notification by Siemens Energy or is in delay in making any payment or in providing any payment 
+security required under this Contract for mo re than 60 days; or  
+c) if the Contract has been suspended for more than 60 days.  
+ 
+In the event of termination by Siemens Energy, Siemens Energy shall be entitled to recover from the Customer 
+the Contract Price less any saved or avoided expenditure and any additional cost and expenses incurred by 
+Siemens Energy due to such termination.  
+ 
+17. Dispute Resolution and Applicable Law  
+17.1 The Contract and any dispute or claim arising out of, or in connection with, it or its subject matter or formation 
+(including non -contractual disputes or claims) shall be governed by and construed in accordance with the sub-
+stantive laws of Switzerland excluding the choice of law rules. The UN Convention on Contracts for the Interna-
+tional Sale of Goods (CISG) shall not apply.  
+ 
+17.2 All disputes or claims arising out of or in connection with this Contract, including disputes relating to its validity, 
+breach, termination, or nullity, shall be finally settled under the Rules of Arbitration (Vienna Rules) of the Vienna 
+International Arbitral Centre (VIAC) of the Austrian Federal Economic Chamber by 1 or 3 arbitrators appointed in  
+accordance with the said Rules . 
+ 
+17.3 If the value of the total matter in dispute, including the value of any counterclaims, is € 1 million or above, the 
+expedited procedure provisions of the Rules shall not apply, and the arbitral tribunal shall consist of 3 arbitrators. 
+If the tribunal consi sts of 3 arbitrators, each party shall nominate one arbitrator for confirmation by the Board. 
+Both arbitrators shall agree on the third arbitrator, within 30 days after their appointment. Should the 2 arbitrators 
+fail to reach agreement on the third arbitr ator within the thirty -day period, the Board shall select and appoint the 
+third arbitrator.  
+ 
+17.4 The language to be used in the procedure and the arbitration proceeding shall be English. Any order for the 
+production or disclosure of documents shall be limited to the documents on which each party specifically relies in 
+its submission(s).  
+ 
+17.5 The seat of arbitration shall be Vienna, Austria.  
+ 
+18. Export Regulations  
+18.1 If the Customer transfers the Works (hardware and/ or software and/ or technology as well as corresponding 
+documentation and/ or works and services, regardless of the mode of provision, and/ or including all kinds of 
+technical support) provided by Siemens Energy to a third party worldwide, the Customer shall comply with all 
+applicable national and international (re -) export control regulations. In any event the Customer shall comply with 
+    
+Terms and Conditions for Project Business  - Siemens Energy Austria GmbH , Version 12/2024 
+Siemens Energy is a trademark licensed by Siemens AG.  
+12/12 
+the (re -) export control regulations of the Republic of Austria, of the Federal Republic of Germany, of the European 
+Union and of the United States of America.  
+ 
+18.2 If required to conduct export control checks, the Customer, upon request by Siemens Energy, shall promptly 
+provide Siemens Energy with all information pertaining to a particular end customer, destination and intended 
+use of the Works provided by Siemens Energy, as well as any export control restrictions existing.  
+ 
+18.3 The Customer shall indemnify and hold harmless Siemens Energy from and against any claim, proceeding, ac-
+tion, fine, loss, cost and damages arising out of or relating to any non -compliance with export control regulations 
+by the Customer, and the Customer sh all compensate Siemens Energy for all losses and expenses resulting 
+therefrom, unless such non -compliance was not caused by the fault of the Customer. This provision does not 
+imply a change in the statutory burden of proof.  
+ 
+19. Ban on re -export s to Russia and Belarus („No -Russia -Clause“)  
+19.1 Siemens Energy hereby prohibits to the Customer, and the Customer agrees, not to re -export and/or forward, 
+directly or indirectly, to Russia or Belarus or for use in Russia or Belarus any goods (hardware and/or software 
+and/or technology and related docume ntation, regardless of the mode of provision) sold, supplied, transferred or 
+exported by Siemens Energy to the Customer under this Contract . 
+ 
+19.2 Siemens Energy shall be entitled to terminate this Contract  by written notice in the event of a breach by the 
+Customer of the obligation pursuant to 19.1 of this Contract . Upon termination, the Customer shall pay to Siemens 
+Energy all costs and damages incurred by Siemens Energy from such termination. In any case, the Customer 
+shall pay Siemens Energy liquidated damages in the amount of 20 % of the Contract Price . 
+ 
+19.3  Notwithstanding t he provision in  19.2, the Customer shall indemnify and hold harmless Siemens Energy in full 
+from and against any claim, proceeding, action, fine, loss, cost and damage asserted by public authorities or 
+other third parties against Siemens Energy arising out of or relating to a breach by the Customer of the obligation 
+under 19.1 of this  Contract  and the Customer shall compensate  Siemens Energy for all losses and expenses 
+incurred resulting thereof.  
+ 
+20. Miscellaneous  
+20.1 Siemens Energy shall not be obligated to fulfil this Contract if such fulfilment  is prevented by any impediments 
+arising out of national or international foreign trade or customs requirements or any embargoes or other sanctions 
+including, but not limited to, embargoes or other sanctions imposed by the United Nations, the EU or the U. S. 
+which, upon sole discretion of Siemens Energy, may expose Siemens Energy or any of its Affiliates to sanctions, 
+penalties or other actions of governmental authorities detrim ental to Siemens Energy or any of its Affiliates.  
+ 
+20.2 If any provision of this Contract is prohibited or declared invalid or unenforceable by a court of competent juris-
+diction, this shall not affect the validity or enforceability of any other provision. The parties shall use their reason-
+able efforts to substitute such provision by a legal, valid or enforceable one with the same or a similar result.  
+ 
+20.3 Any amendments, changes or additions to this Contract must be made in writing in the form of a written agreement 
+signed by authorised representatives of both parties.  The written form is also complied with by (i) a  simple  elec-
+tronic signature and (ii) compliance with an upright EDI contract.  
+ 
+20.4 No delay or omission by either party in exercising any right, power or remedy provided by law or under this 
+Contract shall affect, impair or operate as a waiver of such right, power or remedy.  
+ 
+20.5 This Contract constitutes the entire agreement between the parties and supersedes and extinguishes all previous 
+agreements, promises, assurances, warranties, representations and understandings between them, whether writ-
+ten or oral, relating to its subject matter. Each party acknowledges that in entering into this Contract it does not 
+rely on, and shall have no remedies in respect of, any statement, representation, assurance or warranty (whether 
+made innocently or negligently) that is not set out in this Con tract. Each party agrees that it shall have no claim 
+for innocent or negligent misrepresentation based on any statement in this Contract.  
+ 
+20.6 This Contract is drawn up in the English language. If this Contract is translated into another language, the English 
+language text shall in any event prevail.  
+ 

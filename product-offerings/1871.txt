@@ -1,0 +1,102 @@
+siemens-energy.com/omnivise-t3000
+The Task
+EKu.SIM and GKS are working together to develop effective 
+simulation models and provide training courses. The primary 
+target is to equip employees with the necessary knowledge 
+and skills to operate GKS plants in a safe and efficient way. 
+In addition, optimizations of the plant processes can be 
+tested with the help of simulation. For this purpose, ther-
+mal-hydraulic and process engineering models are 
+developed to complement the Omnivise T3000 Simulator, 
+which is fully integrated in the Omnivise T3000 control 
+system.
+These high-fidelity process models must accurately
+replicate plant processes and plant behavior. This enables
+an extremely realistic simulation, directly via the user 
+interface of the control system.The Plant
+For several decades, the Kraftwerks-Simulator-Gesellschaft 
+(KSG) in Essen has been offering customized training  
+concepts.  
+EKu.SIM, KSG’s business unit for simulator engineering, 
+develops and builds accurate simulators for waste incinera -
+tion plants, industrial power plants, combined cycle plants, 
+and district heating networks. With one-to-one simulators, 
+EKu.SIM provides solutions to increase both the efficiency 
+and availability of the power plant or district heating  
+network and to solve engineering problems.  
+For example, EKu.SIM works closely with the GKS-Gemein -
+schaftskraftwerk Schweinfurt GmbH and plays a central 
+role in their simulation and training concepts. The GKS 
+plants – a coal-fired cogeneration plant with combined 
+heat and power, and a waste-to-energy plant – are operated 
+with the Omnivise T3000 control system. They supply  
+district heating and electricity to various large commercial 
+enterprises and to residential areas in the city of Schweinfurt.EKu.SIM,  
+Germany
+Optimized plant operation  
+through training and simulation“
+The T3000 Simulator trains the handling 
+of the control system, and we complement 
+this with process engineering. The result 
+is a perfect training environment, in which
+the simulation behaves exactly like the 
+plant.”
+Peter Lasch, Division Manager for Technology and Operation, 
+EKu.SIM
+© 2023 Siemens Energy Page 2“Our employees need to master the plant 
+and their processes perfectly. This is the 
+only way they can react correctly in case 
+of difficulties.
+The Omnivise T3000 Simulator and the 
+high-fidelity process models from EKu.SIM 
+provide us realistic simulation, which is 
+indispensable for the training of our 
+employees.”
+Dr. Ragnar Warnecke, Director of GKS-Gemeinschaftskraft-
+werk Schweinfurt GmbHDetailed 1:1 simulation of plant processes supports the reliable supply of  
+electricity and district heating by GKS-Gemeinschaftskraftwerk Schweinfurt GmbH.
+The Results
+• Improved knowledge of user interface and plant 
+behavior for correct reactions. 
+• Practical tests and optimization of the plant 
+through 1:1 emulation of plant processes.
+• Increased efficiency and safety of plant operation 
+through intensive training.
+• Avoidance of outages or damage to the plant.Reference | EKu.SIM, Germany
+The Solution  
+Thanks to close cooperation between EKu.SIM, Siemens 
+Energy, and GKS-Gemeinschaftskraftwerk Schweinfurt 
+GmbH, a completely realistic simulation of the GKS plants 
+was achieved. The Omnivise T3000 Simulator runs in a  
+virtual environment within a KSG data center and enables 
+immediate and direct simulation in the T3000 Workbench – 
+all based on the original control system data of the GKS. 
+Coupled with external high-fidelity process models, which 
+are based on KSG's process engineering expertise, the sim -
+ulation precisely mirrors the plant's processes and complex 
+areas like firing and flue gas cleaning. Various plant  
+conditions, from start-up to full-load operation, as well as 
+disturbed plant operation, are also simulated one-to-one. 
+EKu.SIM provides the simulation solution to GKS as a service. 
+By using the Omnivise T3000 Simulator, in conjunction 
+with external process models, GKS staff can test different 
+scenarios, optimize processes, and control the plants safely. 
+Simulation allows staff to effectively prepare for what-if 
+scenarios involving the plants. 
+Published by and copyright © 2023
+Siemens Energy Global GmbH & Co. KG  
+Gas Services  
+Siemenspromenade 9  
+91058 Erlangen, Germany
+  
+Siemens Energy, Inc.  
+Gas Services  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USASiemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described,  
+or which may undergo modification in the course of further development of the products.  
+The requested performance features are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could 
+violate the rights of the owners.

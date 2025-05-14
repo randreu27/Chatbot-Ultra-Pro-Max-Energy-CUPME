@@ -1,0 +1,173 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Gas Field Policy 29:  Maintenance 
+ 
+ 
+ROUTINE OPERATION AND MAINTENANCE  
+ 
+High speed reciprocating compressors are designed and built for long periods of continuous and reliable full-load operation.  It should be equipped with automatic safety devices to protect it and shut it down in case of low frame oil pressure, vibration, extreme temperatures or pressures and lack of cylinder lubrication.  It can also be equipped with addi tional safety devices to obtain practically any 
+degree of protection desired pending on the service and/or owner requirements. 
+ When the unit is first placed in operation and the machine is operating at normal speed and load and with stable operating pressures and temperatures, all safety alarm and shutdown controls should be carefully checked for correct operation and adjust ed where necessary.  Never disconnect the safety 
+shutdown devices and allow the unit to run unprotected. 
+ 
+Every compressor requires a certain amount of super vision and care if it is to give continued 
+satisfactory performance and long service life.  A time schedule of duties for the operator must be subject to alteration by experience to fit the actual conditions and operating environment.  The following minimum schedule is suggested based on the continuous duty of 720 hours per month. 
+ 
+ 
+NOTE  
+ 
+The time schedule of routine inspections and maintenance for the 
+compressor must be used in conjunction with the schedule and duties 
+recommended by the driver manufacturer for this machine.  This also applies to the other accessory equipment. 
+ 
+ 
+Daily:  
+ 
+1. Keep the exterior of the compressor/driver clean, as well as the surrounding work area. 
+ 
+2. Check the oil level in the frame sump and add the proper oil as required to maintain the level 
+at the oil level line on the gauge.  Check that the oil tank (if so equipped) is also filled to the proper level. 
+ 
+3. Check the oil level in the lubricator drive box and add the proper oil as necessary.  If the oil 
+level has increased, then check the pumps for leakage past the plungers.  Make sure that all the pumping units are working and also inspect the distribution blocks for leakage, indicator pins “popped up”, or other problems. 
+ 4. Keep a daily log of all gas temperatures, water temperatures and gauge pressures.  One of 
+the principal means of keeping track of the physical condition of a compressor and its 
+equipment is by these daily log readings.  Watch carefully for any marked changes which indicate that further attention is warranted.  Use the interstage pressures and temperatures to detect abnormal conditions.  A decrease in the interstage pressure and temperature means that the lower pressure cylinder has reduced capacity.  An increase in interstage pressure and 
+temperature means that the next higher stage cylinder has reduced capacity.  These effects 
+can be attributed to leaking valves, worn piston rings or broken parts. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+NOTE  
+ 
+In every case, because of variable operating conditions, the operator should establish the frequency of draining off the various drains.  This frequency will be determined by the amount of liquid that collects at each drain point. 
+ 
+5. If separators are used in the compressor system, a schedule must be established whereby 
+they are periodically drained to prevent any liquid carryover into the compressor cylinders, which can cause serious damage.  If automatic drains are furnished, check them for proper operation and be sure that no liquid has accumulated in the level gauge. 
+ 
+6. Watch for signs of excessive heating and listen for any unusual noises while the machine is 
+operating.  Any abnormal condition should be investigated immediately. 
+ 7. Visually inspect the unit for loose fasteners and supports or for any excessive shaking from 
+tubing or hoses and secure where appropriate. 
+ 
+8. Check all the gas, water and oil piping for leaks. 
+ 
+ 
+First Week:  
+ 
+1. Visually inspect and spot check with torque wrenches, the fasteners on joints with gaskets and 
+the entire cylinder to frame bolting with the unit shut down.  Take note of any fasteners that have loosened and pay close attention to these fasteners.  Increase the periodic checking of these fasteners if necessary. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during operation.  
+Tighten the fasteners as required following the procedures outlined in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 
+3. Check the runout of the compressor piston rods.  Make sure the piston rod is not scored, 
+scratched or discolored. 
+ 4. Check the oil scraper packing, piston rod packing and distance piece vents for excessive 
+blowby and/or oil leakage.  If blowby is occurring, determine the cause and if required, replace 
+the packing rings. 
+ 5. Check for adequate cylinder and packing lubrication.  This may require the removal of the 
+outer head and/or valve covers.  Compressors typically leave the factory with the cylinder lubrication system set at the maximum flow rate for break-in.  Refer to Section 2-3.4 in this Instruction Manual before reducing the flow rate. 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Monthly (ALL Daily Checks Plus):  
+NOTE  
+ 
+When the compressor is being operated in an extremely dirty 
+atmosphere, or where it is installed outdoors, operated intermittently, 
+handling foul gas in the cylinders, or operating with high oil temperatures in a very hot atmosphere, it may be necessary to change the oil more often.  Most reputable oil companies offer laboratory analysis of oil samples, the use of this type service is recommended. 
+ 
+1. Take a sample of the frame oil for analysis.  Compare the oil analysis to a clean reference 
+sample.  Change the oil and oil filter per the analysis or per the compressor manufacturer's recommendations. Refer to Chapter 2 Section 2-2.8. 
+ 2. Visually inspect all the loaded joints for motion across the joint (winking) during operation.  
+Tighten the fasteners as required following the procedures outlined in CHAPTER 5 GENERAL 
+DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 3. Visually check the oil scraper packing, piston rod packing and distance piece vents for 
+excessive blow-by and/or oil leakage. 
+ 
+ 
+Every Three Months (ALL Monthly Checks Plus):  
+ 
+1. Check all of the safety shutdowns and the operation of the loading and unloading devices for 
+proper operation. 
+ 
+2. Lubricate all of the variable volume clearance pocket (VVCP) packing grease fittings (See CHAPTER 4 MAINTENANCE Section 4-19.2 in this Instruction Manual) and check for free motion by moving the pocket in and out with the unit not operating.  Reset the pocket to the 
+correct clearance setting. 
+ 
+3. Check the frame crankcase breather(s) and clean or replace as necessary. 
+ 
+4. Clean the lubricator reservoir and pumping units as necessary or according to the manufacturer’s instructions. 
+ 
+5. Check the compressor piston rings and piston rod for wear and the cylinder bore for scoring, 
+and remove any accumulation of foreign material.  Replace the piston rings if they are worn to their limit.  Benchmark the wear data.  See CHAPTER 4 MAINTENANCE Section 4-14, in this 
+Instruction Manual for the proper procedures on checking the wear rate of, and renewing, 
+PTFE piston and rider rings. 
+ 
+6. Clean the separator sight glasses (if so equipped). 
+ 
+7. Utilizing a temperature measuring gun, measure the temperature of the valve covers; record 
+and benchmark all the data. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+8. Check the frame and driver foundation bolts for tightness.  Follow the required procedures and 
+tighten to the proper torque values given in CHAPTER 5 GENERAL DATA AND 
+SPECIFICATIONS Section 5-3, found in this Instruction Manual. 
+ 
+9. Inspect the drive coupling.  Replace any worn or broken components.  Tighten as required. 
+ 
+ 
+Every Six Months (ALL Three Month Checks Plus):  
+ 
+1. Check the crankshaft end play. 
+ 
+2. Inspect the piston rod, pressure packing and oil scraper case for discoloration or excessive 
+leakage.  Replace the rings as required. 
+ 3. Replace the cylinder lubricator filters.  
+ 
+Annually (ALL Six Month Checks Plus):  
+ 
+1. Check all of the running gear clearances and compare them to the benchmark readings.  If a 
+change is detected, disassemble and inspect those affected parts.  Replace any bearings and/or bushings where necessary. 
+ 2. Clean and flush the oil cooler and any other heat exchanger supplied.  
+3. Check the accuracy of the compressor pressure gauges and recalibrate them as required. 
+4. Remove all of the inlet and discharge valves.  Clean and inspect the valves for excessive wear 
+and broken parts.  Lap the seats and guards and replace all internal parts.  Refer to the compressor valve instructions located in CHAPTER 4 MAINTENANCE Section 4-18 in this Instruction Manual. 
+ 
+5. Remove the compressor piston and piston rod assemblies and inspect the piston rods, 
+pistons, piston rings and cylinder bore diameters.  Record the cylinder bore diameters.  Replace components where necessary.  Inspections of this nature will indicate the replacement schedule for parts that are subject to wear. 
+ 
+6. Safety valves used in the compressor gas system should have their settings tested at least 
+once a year, and more often under extreme conditions, by a hydraulic test. 
+ 7. Examine any separators, bottles, dampers and similar equipment that may be used in the 
+compressor system for accumulation of dirt, rust and other foreign material.  Remove the 
+vessel from the system and clean it if necessary. 
+ 8. Visually inspect the packing cups; re-lap as required; replace pressure packing and oil wiper 
+rings. 
+ 
+9. Pull the cylinder lubricator box pump covers and inspect the internal gears and cam shaft.  
+Replace pumps where necessary. 
+ 10. Pressure test divider valves if a block distribution system.  11. Visually inspect cylinder gas passages for debris and remove where needed. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 29 
+Februar y, 2021 
+ 
+Every 4-6 Years (Overhaul):  
+ 
+1. Completely disassemble the compressor.  2. Replace the oil pump.  
+3. Replace all valves. 
+ 4. Replace all wear items such as bearings, bushings, pistons and rings.  5. Replace all seals. 
+ 
+6. Replace piston and piston rod if necessary.  7. Replace all cylinder lubricator pumps and divider blocks.
+  
+ 

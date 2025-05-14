@@ -1,0 +1,16 @@
+siemens-energy.com/gasturbines SCC-/eight.fitted/zero.fitted/zero.fitted 
+combined cycle 
+power plant
+Siemens Energy is a trademark licensed by Siemens AG.
+NOTE: The combined cycle plant SCC-/eight.fitted/zero.fitted/zero.fitted is available based on one or multiple SGT-/eight.fitted/zero.fitted/zero.fitted gas turbines (up to CC /six.fitted × /one.fitted configuration). 
+Combined cycle performance is based on three pressure non-reheat (/three.fittedPNRH) bottoming cycle.
+SGT-/eight.fitted/zero.fitted/zero.fitted based power plant/four.fitted/five.fitted MW rating /five.fitted/zero.fitted MW rating /five.fitted/six.fitted MW rating /five.fitted/seven.fitted MW rating /six.fitted/two.fitted MW rating
+SCC-/eight.fitted/zero.fitted/zero.fitted /one.fitted × /one.fitted
+Combined cycle power plantPlant power output, gross /six.fitted/six.fitted./five.fitted MW(e) /seven.fitted/one.fitted./nine.fitted MW(e) /eight.fitted/zero.fitted./zero.fitted MW(e) /eight.fitted/one.fitted./five.fitted MW(e) /eight.fitted/nine.fitted MW(e)
+Plant efficiency, gross /five.fitted/seven.fitted./two.fitted% /five.fitted/seven.fitted./seven.fitted% /five.fitted/seven.fitted./nine.fitted% /five.fitted/eight.fitted./five.fitted% /five.fitted/nine.fitted./six.fitted%
+SCC-/eight.fitted/zero.fitted/zero.fitted /two.fitted × /one.fitted
+Combined cycle power plantPlant power output, gross /one.fitted/three.fitted/four.fitted./five.fitted MW(e) /one.fitted/four.fitted/five.fitted./three.fitted MW(e) /one.fitted/six.fitted/two.fitted./one.fitted MW(e) /one.fitted/six.fitted/four.fitted./eight.fitted MW(e) /one.fitted/eight.fitted/two.fitted MW(e)
+Plant efficiency, gross /five.fitted/seven.fitted./eight.fitted% /five.fitted/eight.fitted./three.fitted% /five.fitted/eight.fitted./six.fitted% /five.fitted/nine.fitted./one.fitted% /six.fitted/zero.fitted./six.fitted%
+SCC-/eight.fitted/zero.fitted/zero.fitted /three.fitted × /one.fitted
+Combined cycle power plantPlant power output, gross /two.fitted/zero.fitted/one.fitted./seven.fitted MW(e) /two.fitted/one.fitted/seven.fitted./nine.fitted MW(e) /two.fitted/four.fitted/three.fitted./one.fitted MW(e) /two.fitted/four.fitted/seven.fitted./five.fitted MW(e) /two.fitted/seven.fitted/three.fitted MW(e)
+Plant efficiency, gross /five.fitted/seven.fitted./eight.fitted% /five.fitted/eight.fitted./three.fitted% /five.fitted/eight.fitted./six.fitted% /five.fitted/nine.fitted./one.fitted% /six.fitted/zero.fitted./six.fitted%

@@ -1,0 +1,71 @@
+Stepless Capacity Control
+The HVVCP hydraulic variable volume 
+clearance pocket manufactured by Siemens 
+can be applied to virtually any reciprocating 
+gas compressor. Mounted in the outer head, 
+it controls capacity of the head end of the 
+cylinder by adjusting the clearance volume.The HVVCP provides stepless capacity 
+control capabilities that respond rapidly to 
+changes in process demand, all while the 
+compressor is running under load. This is a 
+replacement for the handwheel-operated 
+variable volume clearance pocket.With decades of experience  
+our innovative HVVCP capacity 
+control technology is safer than 
+handwheel-operated variable 
+volume clearance pockets, and 
+allows automatic capacity 
+adjustments while the compressor 
+is running under load.
+Handwheel-operated variable volume clearance 
+pocket.Hydraulic-operated variable volume clearance 
+pocket.HVVCP
+Hydraulic Variable Volume Clearance Pocket
+siemens-energy.com/reciprocating-compressors
+
+Published by  
+Siemens Energy, Inc.
+Transformation of Industry  
+4400 N Alafaya Trail
+Orlando, FL 32826
+USA
+© Siemens Energy, 2021
+Siemens Energy is a trademark licensed by 
+Siemens AG. Published by  
+Siemens Energy Global GmbH & Co. KG
+Transformation of Industry  
+Siemenspromenade 9  
+91058 Erlangen  
+GermanySubject to changes and errors. The information given 
+in this document only contains general descriptions 
+and/or performance features which may not always 
+specifically reflect those described, or which may 
+undergo modification in the course of further 
+development of the products. The requested 
+performance features are binding only when they are 
+expressly agreed upon in the concluded contract. All 
+product designations may be trademarks or product 
+names of Siemens Energy Global GmbH & Co. KG or 
+other companies whose use by third parties for their 
+own purposes could violate the rights of the owners.HVVCP Application
+HVVCPs are applicable for process machines, gas field machines, heavy/light gases, 
+lube/non-lube, clean/dirty service, and sour gas applications.
+Features Benefits
+“Bolt-on” adaptability •  Allows direct replacement for any head mounted handwheel-operated pockets
+• Does not require modification to the compressor cylinder
+Manual, automatic, or remote 
+control•  Provides fully adjustable capacity control on head end within limits set by pocket volume (~100% - 55%)
+•  Allows safe and reliable capacity adjustment while the compressor is running under load
+• Provides operational cost savings 
+• Reduces horsepower consumption and energy costs compared to bypass
+Vent and purge capability • Reduces fugitive emissions
+No compressor speed limitation • Can be applied to virtually any reciprocating compressor
+Self-contained hydraulic system• Requires no external hydraulic reservoir or power supply 
+• Utilizes standard hydraulic components
+Proven OEM design • Achieves optimum reliability for reduced maintenance and downtimePRESSURE RA TIOCYLINDER FL OW %
+1.00 1.50 2.00 2.50 3.00 3.50 4.00100
+90
+80
+70
+60
+50HVVCP

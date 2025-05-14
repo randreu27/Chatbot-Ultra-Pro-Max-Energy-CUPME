@@ -1,0 +1,348 @@
+Battery Energy 
+Storage Systems in 
+Power Plants
+A promising combination
+Content
+Adapt your plant to a changing energy system
+01Introduction
+Page 04
+Benefits of BESS in power plants
+Page 06
+Two major BESS technologies: Li-ion and 
+Redox Flow
+Page 10
+Comparison of the two technologies
+Page 11
+Commercial consideration
+Page 12
+06The concept of brownfield transformation
+Page 1302
+03
+04
+05Battery Energy Storage Systems 
+in power plants ‒ an overview on 
+applications
+Value
+Operational flexibilityPerformance improvement
+• aFRR (automatic Frequency Restoration 
+      Reserve)
+• mFRR (manual Frequency Restoration 
+      Reserve)
+• Intraday and day ahead arbitrage
+• Higher startup- and load gradients
+• Lower minimum environmental load
+• Black start capability
+Carbon footprint • Combination with battery storage allows 
+Combined Cycle Power Plants (CCPP)     
+operation in load ranges with higher        
+efficiency
+Power output Additional battery capacity allows for:
+• Participation in capacity markets and bal-
+ancing mechanism
+• Reserve margin reduction
+• Peak power applications
+3
+Battery Energy Storage Systems in power plants - Unrestricted Information 2
+01 
+The importance of grid scale battery 
+storage is growing – the need for grid
+stability services increases with the 
+share of renewable power.
+Over the last years, prices for renewable energy have experienced a significant 
+decrease, and its contribution to power production is steadily increasing.  
+As the production of renewable energy depends on the availability of sun  
+and wind, power systems need to adapt and fill the gap between supply of 
+renewable energy and power demand. Consequently, these systems may  
+undergo drastic changes.
+Traditional power plants have the chance to play an important role if they can 
+supply flexible “power on demand” as well as grid stability services. But other  
+technologies are also evolving. Grid scale Battery Energy Storage System 
+(BESS) may be one of the more important ones. 
+According to the International Energy Agency, annual additions increased 
+nearly ten times between 2016 and 2021. But this may only be the beginning. 
+According to IHS Markit the installed grid scale BESS will grow from approxi -
+mately 60GW in 2024 to up to approximately 400GW in 2034.
+Figure 1: Expected development of worldwide BESS capacity acc. to IHS green rules scenario.
+Battery Energy Storage Systems in power plants - Unrestricted Information
+4
+02  Benefits of BESS in power plants
+Battery Energy Storage Systems can be located 
+at various points within the energy system, such 
+as the transmission or distribution network, near 
+the load, in the vicinity of wind or solar farms, or 
+within thermal power plants.At Siemens Energy, we believe that the latter 
+location has not yet received the attention it de- 
+serves. Adding BESS to a power plant can provide 
+multiple advantages, both in terms of revenue 
+generation and cost reduction.
+The provision of ancillary services such as the  
+Frequency Containment Reserve (FCR), the auto -
+matic Frequency Restoration Reserve (aFRR) or 
+the manual Frequency Restoration Reserve (mRR) 
+are amongst the main drivers for investment in 
+BESS. 
+Power plants can also provide these services  
+and are sometimes in competition with BESS. 
+However, a solution that combines both tech-  
+nologies in a smart way may be able to provide 
+the best relationship between offered service 
+parameters like reaction time, power range,  
+and service duration and cost. 
+Plant flexibility may be further improved by up -
+grading the generator to a Rotating Grid Stabilizer 
+(RGS). With this feature it is possible to provide 
+Synchronous Inertial Response (SIR), short circuit 
+power and reactive power, even at times when 
+the turbines are not operating.
+Such configuration, extended by an integrated 
+BESS may further improve the chances to win 
+auctions for ancillary services.
+In certain markets power plants are required to 
+operate at a certain percentage below maximum 
+power output and to maintain a capacity reserve to the grid. If an integrated BESS can provide  
+this reserve, the power plant can operate at 
+maximum power output and sell more power  
+to the market at higher efficiency (max power 
+= design point).
+Flexibility is key in regions with high 
+shares of intermittent renewable energy.  
+BESS allows for steeper load gradients, improv-
+ing the position in the merit order for ancillary 
+services. If demand falls below the Minimum                
+Environmental Load (MEL) of the power plant 
+it can also absorb and store the excess power. 
+Further, it can be used to shorten the time to 
+grid synchronization for all types of conven-               
+tional power plants, from traditional steam  
+plants to gas turbine peaking units.Revenue
+Overview of the main advantages
+Figure 3: Rotating Grid Stabilizer with FlywheelRevenue CAPEX OPEX
+From ancillary services and bet-
+ter position in merit orderReduced fuel costs resulting 
+from improved average  
+efficiency Lower investment costs due to 
+joint use of equipment already 
+installed in power plant and the 
+existing grid connection
+Figure 2: Improvement of flexibility of a CCPP with BESS
+7
+Battery Energy Storage Systems in power plants - Unrestricted Information 6
+A significant portion of the investment costs of  
+a battery storage system is required for grid con -
+nection, transformers, high voltage switch gears 
+and their controls. These components are already 
+available in power plants and may be shared. 
+Thus, the investment cost of BESS in a power 
+plant may be significantly lower than at other 
+locations. BESS also have the potential to replace diesel engines required for black start capabili -
+ties. Further, additional permitting at an existing 
+power plant location may not be necessary.
+If permits are necessary, they may be easier to 
+obtain as local stakeholders are already used to 
+power generation facilities.CAPEX
+Inverter & 
+ControlsTransformer
+Instrumentation & Controls
+Automation Server (AS) system
+Centralized I/O cabinets (ET-200) located in PCC
+PROFINET field bus network to BESS group controller
+Main server rack, control softwarePower control center
+incl. MV & LV switchgear,
+LV transformer & distributionBusduct 
+connection 
+or 
+High voltage 
+grid connection
+BESS Core BESS Balance of Plant (BoP)Possible synergies with power plant 
+Battery  including 
+• Battery
+• Battery management 
+system
+Most power plants achieve their highest effi -
+ciency when operating close to maximum power 
+output.
+By charging the integrated BESS in times of 
+lower demand, power plants can be operated 
+longer in this power range. As a consequence, 
+their average specific fuel consumption may be 
+lower. Some power plants may even be required to provide ancillary services during times of low 
+power demand and at power prices lower than 
+the variable cost of the plant.
+The plant may then operate at low load to mini -
+mize its losses. In such case an integrated BESS 
+may allow to shut down the power plant and to 
+provide ancillary services with the BESS (cold 
+frequency response). OPEX
+There is always a solution 
+available ‒ we help you 
+to find the right one.
+Power output [MW]
+Time [h]BESS
+Power plantLoad level required 
+for ancillary services
+Figure 4: Frequency restoration reserve with BESS and power plant
+9 8
+03  Two major BESS technologies: 
+Li-ion and Redox Flow
+Li-ion batteries
+Brief overview on the principles
+Figure 5: Reduction and oxidation flow batteriesMain advantages of Li-ion batteries are a high 
+energy density, high roundtrip efficiency and 
+short reaction times. 
+The main characteristics of RFBs include their 
+long lifespan, minimal degradation, the ability to 
+handle up to 150% overpowering (albeit with re -
+duced roundtrip efficiency), and the flexibility to 
+extend storage duration simply by increasing the 
+amount of electrolyte and adjusting tank sizes. 
+The sytsem‘s power is determined by the size and configuration of stacks, while the total energy 
+capacity is dictated by the volume of electrolyte 
+stored in the tanks.
+Compared to Li-ion technology, RFBs have a 
+significantly lower energy density. Its effect on 
+the actual plant size can be limited because the 
+safety related distance between the single 
+battery blocks is not necessary and plant layouts 
+with multiple floors or larger tasks may also be 
+possible.04  Comparison of the technologies
+Different solutions with different strengths
+Li-ion batteries are extensively used in  
+consumer electronics and electric vehicles,  
+making them the most popular technology 
+for Battery Energy Storage Systems.
+ 
+Li-ion batteries consist of a cathode made 
+from a lithium transition metal oxide, an 
+anode typically composed of graphite, and a 
+lithium salt-based electrolyte often in a poly -
+mer matrix. The energy in Li-ion batteries is 
+stored within the battery cell itself.
+Performance characteristics such as energy 
+density and depth of discharge can be influ -
+enced by the choice of cathode material.
+The most common cathode material for 
+stationary BESS applications is Lithium Iron 
+Phosphate (LiFePO 4). This type of battery is 
+often referred to as an „Energy Cell“.
+Depending on the required performance 
+parameters, it may also be appropriate to use 
+a Lithium Nickel Manganese Cobalt (LiNMC) 
+oxide cathode, which is also referred to as a 
+“Power Cell”. Reduction and oxidation 
+(Redox) flow batteries
+Redox Flow Batteries (RFB) are composed of 
+two differently charged liquid electrolyte solu -
+tions and an electrochemical cell (also called 
+stacks), consisting of two compartments for 
+the respective electrolytes and the electrodes. 
+These compartments are separated by 
+a membrane. 
+During charging, the energy is stored in the 
+electrolytes, which are then pumped into 
+tanks outside of the electrochemical cell. 
+For discharging, the electrolytes are pumped 
+back into the electrochemical cell, where they 
+transfer the energy back to the electrodes.  
+Figure 6: Comparison of Li-ion and Redox Flow Battery, orientation values only, actual values may differ substantially depending on use case
+Technology selection for battery storage depends on the use 
+case as requirements differ significantly
+11
+Battery Energy Storage Systems in power plants - Unrestricted Information 10
+06  The concept of brownfield 
+transformation
+Our brownfield transformation approach is a holistic methodology 
+to help with the stepwise decarbonization of existing power plants 
+while maintaining most of the existing infrastructure. One potential 
+step may be the addition of a BESS.
+A possible long term perspective may be to turn these power plants 
+into decarbonized power hubs, combining BESS with Rotating Grid 
+Stabilizers and hydrogen fired gas turbines.We meet you at your starting point05 Commercial consideration
+The viability of the different technologies  
+for commercial use is impacted by pro -
+ject-specific factors such as compensation 
+structure, storage capacity and duration, the 
+number of cycles and more. Based on these 
+factors either RFB or Li-ion batteries may of -
+fer a lower Levelized Cost of Storage (LCoS). 
+Generally, RFBs tend to become more ap -
+pealing as the required storage duration 
+increases, the battery size expands, and the 
+number of cycles grows. As the amount of 
+excess power from renewable energy sources 
+increases, Redox Flow Batteries become more 
+viable due to their ability to discharge over 
+long periods of time.The choice depends on the use case
+Figure 7: Storage solutions BESS-Standalone
+13
+Battery Energy Storage Systems in power plants - Unrestricted Information 12
+Our offering
+Why Siemens Energy? 
+Siemens Energy offers products, solutions, and services across the 
+entire energy value chain. We support our customers on their way 
+to a more sustainable future – no matter how far along the journey 
+they are. 
+Our experienced service team is ready to assist you in deciding 
+which solution is the right one for you. With our experts in engi-
+neering, manufacturing and/or field service in close collaboration, 
+we can offer optimum service solutions for your power plant to 
+match your specific demands. 
+Please do not hesitate to contact your local Siemens Energy  
+representative in order to help you find the right customized and 
+project specific BESS solution.
+Visit our Customer Energy Portal cep.siemens-energy.com  or our 
+webpage siemens-energy.com .
+For detailed information on BESS please visit our webpage
+siemens-energy.com/bess .
+Expertise you can rely onWe start where you are
+Project initiation & design
+Our experienced grid consulting  team evaluates the  
+regulatory landscape and market dynamics, conducting 
+grid studies and analytics based on specific project  
+requirements.
+Concept development:  Identifying & specifying power 
+plant modifications for optimal integration of BESS into 
+your asset‘s operation, ensuring smooth system-grid  
+functioning.
+Assessment of technology, size and connection.
+Stability studies and devise voltage control concepts  
+to ensure system reliability.
+Joint optimization of business case  and business model.
+Project execution
+Project specific engagement extending to a full turnkey of 
+a Li-ion storage system,  or close cooperation with one 
+of the leading technologists in the field of RFBs.
+With OEM knowledge for new applications and service, 
+as well as SCADA expertise, we can fully integrate and 
+comission a BESS into your existing conventional power 
+plant. This will optimize and maximize the value from 
+both assets. 
+Project operation
+Continuous monitoring  and comprehensive diagnostics 
+to maintain battery health.
+Customized service concepts  to suit your needs,  
+extending up to a full Operation and Maintenance (O&M) 
+contract.
+15
+Battery Energy Storage Systems in power plants - Unrestricted Information 14
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Otto-Hahn-Ring 6  
+81739 München, Germany
+For the US published by
+ 
+Siemens Energy, Inc.  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+For more information, please visit our website:  
+siemens-energy.com
+Document No. CB3-24-0046-BP-EN-01
+© Siemens Energy, 2024
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains 
+general descriptions and/or performance features which may not always specifically reflect 
+those described, or which may undergo modification in the course of further development 
+of the products. The requested performance features are binding only when they are 
+expressly agreed upon in the concluded contract. All product designations may be 
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or other 
+companies whose use by third parties for their own purposes could violate the rights of 
+the owners .

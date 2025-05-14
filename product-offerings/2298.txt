@@ -1,0 +1,306 @@
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+Packager Guidelines 
+Section 2: Installation 
+ 
+2-1. Skids 
+ 
+All reciprocating compressors gen erate inherent unbalanced forces. Siemens Energy’s high speed 
+reciprocating compressors are balanced - opposed ty pe compressors in which the weight of one throw 
+is equal to that of the opposing throw. Where requ ired, the reciprocating weig ht of opposing throws is 
+balanced within a specified tolerance by the use of  weighted rod jam nuts, heavy crossheads and/or 
+weights attached to the crossheads. Due to the offs et of the throws, an inherent couple is present, 
+though counterbalance weights are installed on the cr ankshaft to reduce the moments significantly.  
+ 
+Because all compressors have unbalanced forces, an adequate skid and/or foundation is necessary to prevent vibration and movement of the unit. 
+ 
+NOTE 
+ 
+On a one-, three-, or five- cylinder compressor unit, the 
+open throw is fitted with a balancing crosshead or balancing 
+cylinder of sufficient weight to properly counterbalance the 
+weight of the opposing piston and rod assembly. 
+ 
+Foundation mounted skids should be rigid enough to transmit unbalance forces and moments into the 
+foundation.  
+Skids designed to operate without being mounted on  a foundation should have enough mass to properly 
+carry unbalance forces and moments into the soil. 
+ 
+2-1.1. Skid Design 
+ 
+Skid design is the responsibility of the packager; however, the following univers al guidelines are offered 
+to assist the designer:  
+1. It is essential that the frame and the skid shou ld act as a single mass to properly absorb the 
+effects of unbalance forces and moments. To do so, the frame mounting points should be flat, 
+level and smooth enough to transmit these forces into the skid structure. A machined surface 
+can be used to achieve sufficient contact. A pourable chock or grout can also be used to 
+increase the surface contact. 
+ 
+2. Compressor mounting studs should be la rge enough and have enough tensile strength to 
+prevent movement between the compressor base and the skid. The following table lists required 
+stud sizes for each of the frame models. This tabl e is based on studs or bolts with an ultimate 
+strength of 100,000 psi (703.1 kg/cm
+2). Higher strength studs are pr eferred, but if they are used, 
+they should be tightened to approximately 55% of the ultimate strength of the bolt material. 
+ 
+The bolts should be long enough to enable the bolts to remain tight through normal inspection 
+intervals. The longer the bolt, the more stretch and the longer the bolt will stay tight. In all cases, 
+the following guidelines should be adhered to: 
+ 
+• Clean and oil threads before assembly with mineral oil. 
+• Avoid shear loading of bolts. 
+• Use the proper tools for tightening. • Use calibrated torque wrenches. 
+• If grout is used, protect the anchor bolt from adhering to the grout. 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+Table 1. Required Stud Sizes 
+ 
+Compressor 
+Model Mounting 
+Hole Size 
+in. (mm) Required Bolt 
+Size 
+ in. (mm) Min. Torque 
+(oiled threads) 
+ft-lbs. (Nm) 
+MOS 1-5/16 (33.3) 1-1/4-8 (31.6) 710 (963) 
+HOS 2-3/16 (55.6) 2 4- 1/2 (51.0) 2930 (3973) 
+HOS* 1-5/8 (41.3) 1-1/ 2-6 (38.1) 1230 (1668) 
+HOSS 1-5/8 (41.3) 1-1/ 2-6 (38.1) 1230 (1668) 
+ 
+   *Effective 2014 – Verify Actual Size Before Applying Specified Torque 
+ 
+3. The skid must be rigid enough to handle lifting and tr ansporting to the job site without excessive 
+flexing, which creates high stresses on the frame and cylinders. Flexing of the skid between the 
+driver and the compressor should also be held to a minimum to reduce the possibility of 
+damage to compressor or driver bearings or co upling. Multiple runners, heavy cross-section 
+beams, or concrete fill are often us ed to increase skid rigidity. 
+ 
+4. The skid should also be designed so that its nat ural frequency, when installed, is sufficiently far 
+enough away from both the operat ing speed and twice the operating speed of the unit that a 
+resonant vibration will not be present. To avoid a resonant vibration, it is recommended that the 
+natural frequency either be less than 80% of  the minimum operating speed of the unit, or 
+greater than 240% of the maximum operating sp eed. Piping systems and structures that are 
+attached to the skid should also be examined to ensure that they are also outside the critical 
+frequency range. 
+ 
+ 
+2-2. Setting and Leveling (Grouted Frames) 
+ 
+The following procedure describes the setting and leveling of a typical grouted frame: 
+ 
+1. The compressor base is drilled and tapped near each foundation bolt hole for frame leveling 
+setscrews.  Leveling setscrews are not norma lly supplied, but are available upon request. 
+Greasing the leveling setscrews will aid in leveling the frame and make them easier to back off 
+after leveling. A 1/2 inch (13.0 mm) thick steel leveling plate should be placed under each 
+leveling screw as shown in Figure 2 to prevent the setscrews from digging into the foundation. 
+ 2. Prior to setting the frame on the skid, the area of the frame which will contact the grout should 
+be cleaned of all paint and preservative. This will insure a good adhesion of the grout to the 
+frame. 
+ 
+3. Lower the compressor frame over the foundation bolts, at the same time positioning the steel 
+plates under the leveling screws. 
+ 
+4. Place the leveling plates so that they do not extend beyond the outer edges of the compressor 
+base. 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+5. The frame leveling surfaces consist of t he lower crosshead guides and the flat-machined 
+surfaces on top of the frame. Clean all leveling su rfaces of dirt, grease, paint or anything which 
+could result in a false level reading; however,  do not file, grind or use any other cleaning 
+equipment that can remove metal from the leveling surfaces.  
+6. Level the frame both longitudinally and transve rsely by means of the leveling setscrews. The 
+nuts should not be on the foundation bolts at this time. Use a precision machinist's level on the 
+machined leveling surfaces. Bring the frame to its final elevation and level it in both directions, 
+keeping the weight evenly dist ributed on the leveling screws. Run the foundation bolt nuts lightly 
+against the frame base flange to hold the final position. Do not attempt to level the frame by 
+tightening the foundation bolt nuts. 
+ 
+ 
+NOTE 
+ 
+On four and six throw MOS, HOS and HOSS compressors, check at each main 
+bearing with a 0.0015 inch (0.04mm) feeler  to see that there is no clearance 
+between the bearing and the bottom of the crankshaft. A 0.0015 inch (0.04 mm) 
+feeler should also be inserted between the shaft and the bearing at the horizontal centerline and then moved toward the bottom of the bearing on each 
+side to be sure there is clearance just below (about 1 inch or 25.4 mm) the 
+bearing split line.   
+As the final check of frame alignment, a crankshaft deflection check may be 
+made at each crank throw, but this is  not a requirement. Check the crank web 
+deflection as shown in Figure 3. The mi crometer shown consists of an ordinary 
+inside micrometer barrel with pointed extension shaft of the proper length to 
+measure the span between crank webs. Bar the crank over until it points straight 
+up. Insert the pointed end of the micromet er into a prick punch mark and adjust 
+the barrel at the other end until it will just  pass the closest portion of the opposite 
+web. Record the micrometer reading . Bar the crank 90° and take another 
+reading - repeat at 180° and 270°. The four readings should not vary by more 
+than 0.001 inch (0.03 mm) if the crankshaft is satisfactorily aligned. If the unit 
+requires a flywheel, the frame leveling and crankshaft deflection should be done 
+prior to the flywheel installation.  
+ With the frame satisfactorily aligned and the foundation bolt nuts pulled down 
+enough to hold the frame in position, proceed to grout the frame. The area 
+under the center of the frame should not  be grouted. Place foam rubber (DO 
+NOT USE STYROFOAM®) along both sides of the area to be blanked off. This 
+should be in place before lowering the frame to its final elevation. The free 
+height of the foam should be sufficient to allow approximately 1/4-inch (6.4 mm) 
+crush per one inch (25.4 mm) of height w hen the frame is in its final position. A 
+generous bead of caulking compound can be run on the top and bottom of the 
+foam to assure a tight seal against bot h the frame and foundation. The foam can 
+be left in place after the unit is grouted. Another method of blanking off the 
+center of the frame during grouting invo lves placing a piece of foam under the 
+frame to fill the entire area where the gr out is to be exclude d. The foam must 
+then be removed, however, as it is import ant that there is an air space under the 
+unit.  
+ 
+After the unit is grouted, and the grout has been given sufficient time to harden, 
+the leveling screws should be backed o ff and the foundation bolts tightened to 
+the torque recommendations given in CHAPTER 5 of the instruction Manual. 
+ 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+NOTE 
+ 
+We recommend that epoxy grout be used. Field experience has shown that 
+certain types of non-shrink grouts continue to expand in service and can cause 
+alignment problems. If this type of grout is  to be used, the characteristics of the 
+material should be thoroughly investigated with the manufacturer before the 
+selection is made.  
+ 
+The final selection of a particular gr outing method and the brand of grouting 
+material to be used are the responsibility of the customer or his contractor. Also, 
+instructions concerning the use of a particular grouting material are the 
+responsibility of the grout manufacturer.  
+ To assure proper bonding of the epoxy grout to the concrete surface, make 
+proper surface preparations before po sitioning the frame on the foundation for 
+grouting.  
+ 
+ 
+Figure 2. Leveling Setscrew 
+ 
+ 
+NOTE 
+If the frame is to set on sole plates, y ou should ensure that the jackbolts are 
+backed off enough to not contact the sole plates after the frame has been 
+tightened.  
+On frames that are mounted on sole plates, all the feet should be checked for 
+soft foot. To check for soft foot, mount a dial indicator in so it is reading off the top of the frame foot. Torque up the hold down bolt and insure the indicator 
+does not move more than .002 inch (0.05 mm). If you have a higher reading 
+than .002 inch (0.05 mm), the foot must be shimmed.  
+The use of threaded adjustable chocks (e.g. Vibracons), are not recommended 
+with the HOS and HOSS frames. 
+
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+Figure 3. Measuring Crankshaft Deflection 
+ 
+ 2-3. Cylinder Supports  
+HOS and HOSS:  Siemens Energy highly recommends outboard cylinder supports on conventional 
+barrel type cylinders larger than 15” (381 mm), OR on any cylinder size that comes equipped with a 
+VVCP or FVCP for the outer head.  
+MOS:  Siemens Energy highly recommends outboard cylinder supports on cylinders larger than 15” 
+(381 mm).  Cylinder supports are highly reco mmended when distance pieces are required. 
+ 
+MOS cylinders come with supports on the outer end of the cylinder only.  
+All cylinder supports are to be designed to support the cylinder off the machined ledge.  The bolting is 
+provided to insure the support maintains contact wi th the ledge; the bolting is not intended to support 
+any weight. 
+  
+These supports are highly recommended to support the combined weight of the cylinders and pulsation 
+suppression devices, and to aid in stabilizing any horizontal forces generated by mechanical unbalance 
+and gas acoustics.  Experience has shown that w hen these supports are not provided, issues have 
+developed with regard to maintaining proper (free- state) frame main bearing clearances, crosshead 
+running clearances and rod run-out.  Undesirable or ev en excessive vibration can result as well without 
+them.  When the skid is designed to accommodate t hese cylinder supports, they must be bolted to a 
+main member, not just to the steel deck plate, which may cover the skid. Shims must be used to 
+maintain vertical alignment of the cylinders with the frame. 
+ 
+Advantages gained through use of cylinder supports are twofold:  
+1. Support of approximately one-ha lf of the cylinder weight and the total weight of the bottles. 
+ 
+2. Maintenance of cylinder ali gnment with the crosshead guide. 
+
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+NOTE 
+ 
+A careful examination of gas piping and vessel arrangement should be made to 
+ensure that supports indicated by these guidelines are satisfactory.  If the piping 
+system for a packaged compressor contains unusually large and heavy 
+pulsation vessels, or piping configurat ion that will induce high static and 
+dynamic loading on the cylinders, Siemens  Energy recommends the use of a 
+cylinder support for any size cylinder and frame arrangement.  
+ 
+Cylinder supports should be flexible to allow for cylinder movement caused by frame load and inertia 
+forces in a direction parallel to the piston rod cent erline. The supports must be wide at the bottom to 
+restrict cylinder side movement. Construction should be such that support vibrat ion is minimized. This 
+requires proper ribbing and gussets. Sole plates and shims should be used for ease of assembly, 
+alignment and maintenance.  It is important that the cylinder support is designed to capture the machined “ledge” or “lip” provided on the cylinder.  The bolting itself is only expected to keep the 
+support affixed to the cylinder and is not des igned to accept the weight of the cylinder. 
+ 
+Cylinder supports cantilevered from the main skid beams are the least preferred design. When 
+used, ribs must stiffen such supports. Additionally, the skid beam should be ribbed to prevent flexing at 
+point of the cylinder support attachment.  
+If the skid does not extend to the end of the cylinder to provide support, the cylinder should be 
+supported by the main concrete foundation under the skid.  The foundation in this case must be one continuous mass.  Separate foundations under cylinder feet should not be used. 
+ 
+ 
+2-4. Frame Supports (Crosshead Guide and Distance Piece) 
+ 
+HOS and HOSS:  Crosshead guides are integral  with the frame and do not have support 
+accommodations underneath the crosshead guide.  Ho wever, these frames are supplied with distance 
+pieces and Siemens Energy highly recommends these frames be supported at this location. 
+ 
+MOS:  Crosshead guides are integral with t he frame and do not have support accommodations 
+underneath the crosshead guide.  These frames are ty pically not supplied with distance pieces.  When 
+distance pieces are supplied, Siemens Energy highly recommends that these crosshead guides are 
+supported. 
+ All supports should be designed to provide good support in three directions (vertical, horizontal and 
+axial).  When installing these supports, it should be noted that the weight of the cylinders installed on 
+the frame extension/distance piece may cause some def lection, or horizontal droop.  Table 2 lists the 
+amount of droop, which can be expected for various fr ames with various cylinders.  These supports 
+cannot be bolted to the deck plate; t hey must be bolted to the main skid. 
+ 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+Table 2. Crosshead/Distance Piece Support Preload 
+ 
+Compressor 
+Model Cylinder Size 
+3.50 – 9.25 
+in. (mm) 9.50 – 15 
+in. (mm) 17.25 – 28 
+in. (mm) 
+MOS *** .002” (0.05) .003” (0.08) .005” (0.13) 
+HOS/HOSS .002” (0.05) .003” (0.08) .005” (0.13) 
+*** Required Only When Distance Pieces are Used 
+ 
+ 
+ 
+To properly allow for this droop, the support shou ld be installed with the desired amount of shim 
+material, then the cylinder should be raised enough to add the additional amount of shim from the table. 
+  
+2-5. Paint 
+ 
+All Siemens Energy equipment is shipped from the U.S.  factory with an alkyde primer sealer. It is up to 
+the packager to insure any top coat applied over the alkyde primer  will be compatible with the primer. 
+For specifics of this primer, pleas e call Siemens Energy Engineering. 
+ 

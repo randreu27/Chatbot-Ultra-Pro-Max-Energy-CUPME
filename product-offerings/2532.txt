@@ -1,0 +1,49 @@
+1. Subsea DigiGRIDTM EDU-3
+The main function ality of Subsea Dig iGRIDTM 
+EDU-3 is to switch several identical  and 
+independent power outlets in a controlled 
+manner, and at the same time independ ently 
+monitor the qual ity of the power  delivered to the 
+outlets.
+No changes in vol tage level or type (AC or DC) 
+are to take place between the power inlet to the 
+Subsea DigiGRIDTM EDU-3 unit and the outlets. 
+Given any voltag e level or type that the Subsea 
+DigiGRIDTM EDU-3 can swi tch and control, the 
+unit itself shall  operate on that i nput voltage.
+Independent overcur rent and overvoltage 
+protection are included for each outlet, and trip 
+level could be set for each outlet.
+Two types of EDU- 3 design are avai lable, one 
+design for switchin g and operating on AC 
+voltages (single- and three-phase) and one 
+design for switchin g and operating on AC 
+voltages. 
+Power outlets coul d also be enabled with SIL-3 
+certified Safety Instrumented Functi ons (SIF) for 
+some power outlets.siemens-energy.com/subsea
+Subsea DigiGRIDTM
+EDU-3
+Enabling switching of several identical and 
+independent power outlets 
+© 2021 Siemens Energy Page 1
+Image shows Subsea 
+DigiGRID TMlanding
+For more inform ation, please visit our websi te: siemens-energy.com/ subsea
+Subject to change s and errors. The information gi ven in this document   only contains general descriptions  and/or performance features which 
+may not always specifically reflect those described, or which may undergo modification in the course of further development of the produc ts. 
+The requested performance features are binding only when they a re expressly agree d upon in the concluded contract.
+Siemens Energy  is a trademark licensed by Siemens AG.
+© 2021 Siemens Energy Page 2
+Image shows Subsea DigiGRIDTM landedPubli
+shed by
+Siemens Energy Global GmbH & Co. KG
+Trans formation o f Industry
+Freyeslebenstraße 1
+91058 Erlangen
+GermanyFor the US Published by
+Siemens Energy, Inc.
+Trans formation o f Industry
+4400 N Alafaya Trail
+Orlando, F L 32826
+USA

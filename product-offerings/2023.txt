@@ -1,0 +1,96 @@
+Was gilt künftig als e -Rechnung?
+•E-Rechnungen  müssen  in einem  strukturierten  Format  erstellt  werden,  das der Norm  EN 16931  entspricht,  
+deren  Anforderungen  Papier - oder  herkömmliche  PDF-Rechnungen  nicht  erfüllen .
+•In Deutschland  erfüllen  vor allem  die weit  verbreiteten  Formate  „XRechnung“  und „ZUGFeRD“  diese  
+Anforderungen . Die XRechnung  ist ein rein maschinenlesbares  Format  (XML)  und das ZUGFeRD -Format  ist 
+ein Hybridformat  aus menschenlesbarem  PDF und darin  eingebetteter  XRechnung  für die maschinelle  
+Verarbeitung .Rechtlicher Hintergrund zu elektronischen Rechnungen (e -Rechnungen):
+•Laut  Umsatzsteuergesetz  müssen  in Deutschland  ansässige  Unternehmen  ab dem  1. Januar  2025  e-
+Rechnungen  empfangen  können . Von der Versendungspflicht  ausgenommen  sind bestimmte  steuerfreie  
+Leistungen  (§ 4 Nr. 8-29 UStG),  Kleinbetragsrechnungen  (bis 250 € brutto)  und Fahrausweise . Die Pflicht  zur 
+Erstellung  und Versendung  von e-Rechnungen   unterliegt   stufenweisen  Übergangsregelungen .
+•Aufgrund  der neuen  rechtlichen  Vorgaben  sind wir rechtlich  verpflichtet  allein  die maschinenlesbare  XML  zu 
+berücksichtigen  und zu verarbeiten . Soweit  steuerrechtlich  relevante  Informationen  nur auf der Visualisierung  
+enthalten  sind oder  von der XML  abweichen,  dürfen  wir diese  nicht  berücksichtigen . E-Rechnungspflicht in DE
+Stufenweise Übergangsregelungen
+Empfangspflicht für 
+e-Rechnungen :
+•Freiwillige Versendung 
+von e -Rechnungen 
+•Empfangsbereitschaft 
+von e -Rechnungen 
+erforderlichDie gültigen  Übergangsregelungen  sind zu beachten :
+Übergangsregelung bis zur
+Versandpflicht von e -Rechnungen :
+•Je nach Gesamtumsatz im
+vorangegangenen Kalenderjahr beginnt
+die Versendungspflicht von e -
+Rechnungen für Unternehmen :
+•Gesamtumsatz >= 800.000 Euro 
+ab 01.01.2027
+•Gesamtumsatz < 800.000 Euro 
+ab 01.01.2028Versandpflicht von 
+e-Rechnungen :
+•E-Rechnungspflicht für alle 
+in Deutschland ansässigen 
+Unternehmenab 01.01.202501.01.2026 –
+31.12.2027ab 
+01.01.2028
+Kontakt :
+SEACAPSON@siemens -energy.com  
+Zulässige Formate
+Siemens Energy akzeptiert ab dem 1. Januar 2025 neben den gängigen Formaten insbesondere die folgenden in 
+Deutschland verbreiteten E -Rechnungsformate in der jeweils gültigen Fassung
+ 
+XRechnung  
+•UBL Rechnung  & Gutschrift
+•CII Rechnung  & Gutschrift 
+ ZUGFeRD (ab Version 2.0.1)
+•Rechnung & Gutschrift
+Kontakt :
+SEACAPSON@siemens -energy.com  Wichtig : Eine ZUGFeRD -Rechnung in einer Version älter als 2.0.1. ist kein zulässiges Format im Sinne der 
+elektronischen Rechnung! Eine PDF -Rechnung ist daher per Definition eine "sonstige Rechnung". Diese „sonstigen 
+Rechnungen“ sind weiterhin bis 31.12.2026 (Unternehmen >= 800.000 Euro Gesamtumsatz) bzw. bis 31.12.2027 
+(Unternehmen < 800.000 Euro Gesamtumsatz) zulässig. 
+E-Rechnung
+ZUGFeRD XRechnung
+MaschinenlesbarXML -Format
+Meist öffentliche 
+BehördenHybrides PDF/A3 -
+Format
+Meist Industrie & 
+Gewerbe
+Maschinen - & 
+menschenlesbar
+PDF/
+A3
+XML
+
+Kontakt :
+SEACAPSON@siemens -energy.com  Versand via E -Mail
+•Bitte  senden  Sie nur eine  Rechnung  pro E-Mail
+•Bitte  vermeiden  Sie es uns Rechnungen  in unterschiedlichen  Formaten  (z. B. XML  + PDF)  zuzusenden,  da 
+Duplikate  nur zu manuellem  Aufwand  und unnötigen  Abweisungen  führen .
+•Bitte  versenden  Sie die Rechnungen  – wenn  möglich  – nicht  von einer  Noreply -E-Mail-Adresse,  da im Falle  
+einer  Ablehnung  gemäß  §14 UStG  eine  automatische  Rücksendung  an die Absender -E-Mail -Adresse  
+erfolgt ; andernfalls  teilen  Sie uns bitte  eine  alternative  E-Mail -Adresse  mit, an die eventuelle  Fehler  
+gemeldet  werden  können .
+Benötigte Informationen & Hinweise zum Rechnungsinhalt:
+Bitte  übermitteln  Sie die folgenden  Informationen,  um eine  reibungslose  Rechnungsverarbeitung  auf unserer  
+Seite  zu gewährleisten :
+•Vorgaben  gemäß  § 14 UStG
+•Bestellnummer  wie auf der Bestellung  angegeben  (ohne  Sonderzeichen  oder  Positionsnummern)  
+•Bankverbindung  mit IBAN  und BIC
+•Positionsnummern  exakt  im gleichen  Format  wie in der Bestellung  (z.B. soll für die Nummer  00010  aus der 
+Bestellung  nicht  1 geliefert  werden  sondern  ebenfalls  00010 )
+•Angabe  der vollständigen  Siemens  Energy  Rechnungsadresse  inkl. der Postfachnummer  in der zweiten  
+Adresszeile  des Rechnungsempfängers
+Beispiel
+Achtung : Es sind keine  Sammelrechnungen  zulässig,  d.h. nur eine  Bestellung  pro Rechnung .
+Anhänge :
+•Zusätzliche  Anhänge  im Zusammenhang  mit der Rechnung  (z. B. Stundenzettel)  müssen  zukünftig  
+innerhalb  der neuen  Rechnungsformate  in der Rechnung  technisch  eingebettet  sein.
+•Zur Gewährleistung  der Unveränderbarkeit  möchten  wir Sie bitten  nur PDF-Anhänge  zu verwenden,  andere  
+Formate  werden  nicht  unterstützt .
+•Anhänge  außerhalb  einer  XRechnung  oder  ZUGFeRD -Rechnung  können  nicht  verarbeitet  werden  und 
+werden  automatisch  entfernt  und abgewiesen .

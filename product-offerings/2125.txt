@@ -1,0 +1,28 @@
+The purpose of this policy is to establish the basic principles and the general framework for 
+the control and management of the information security risks.
+Information security is our synonym for secure business. We have defined responsibilities 
+for information protection, we raise awareness of the importance of information security 
+among employees and business partners. We apply organizational and technical measures 
+to protect the information assets of Siemens Energy d.o.o. and its customers.
+We are committed to understanding and effectively managing risks related to information 
+security to provide greater certainty and confidence for our employees, customers, 
+suppliers and for the communities in which we operate. Finding the right balance between 
+information security risk and business benefit enhances our business performance and 
+minimizes potential future exposures.
+We are committed to the continuous improvement of information security controls and 
+culture throughout our business. 
+We are committed to fulfilling our obligations in this area in order to ensure:
+• Information will be protected against unauthorized access
+• Confidentiality of information will be maintained
+• Information will not be disclosed to unauthorized persons through deliberate or careless
+   action
+• Integrity of information through protection from unauthorized modification 
+• Availability of information to authorized users when needed 
+• Information security trainings must be completed by all employees
+• All suspected breaches on information security will be reported and investigated
+This policy will be reviewed annually to ensure that it remains compliant to the standard 
+and relevant to the company’s activities.
+ 
+Boris Miljavac                                                                                      Laura Musi ć
+Managing Director                                                                              Finance DirectorInformation Security Policy
+Siemens Energy d.o.o., Croatia

@@ -1,0 +1,843 @@
+siemens-energy.com/omnivise-t3000Omnivise T3000 
+Simulator
+A changing industry 
+context
+Market complexity
+The energy generation environment is changing rapidly, and this  
+is driving the need for new ways to plan, test, monitor and manage  
+all forms of power generation. In developed countries, especially, 
+growing use of renewables is also changing the ways in which 
+ established, conventionally powered plants are being used.  
+Energy markets are becoming more complex, with a need for greater 
+flexibility in how they operate. These rapid changes are happening  
+at a time of growing skills shortages, as a generation of experienced 
+engineers retire, and the industry struggles to replace them. 
+Large, centralised plants are extremely 
+complex systems in themselves, and the 
+commercial and technology environments 
+in which they operate are also becoming 
+more difficult to predict and manage. 
+Though the move to distributed power 
+generation is happening at different 
+speeds in different markets, yet it is 
+happening everywhere, step by step.  
+A major side-effect of this development  
+is that conventional plants, built for  
+steady state operation, sometimes need  
+to operate outside their original design 
+parameters.To manage this new reality, skilled 
+ engineers are being challenged to move 
+beyond their established areas of exper -
+tise. We believe it is not enough for them 
+to understand their own plants in detail, 
+they also need to understand the wider 
+market context – which adds further 
+complexity to the work of control centre 
+personnel. For example, operators may  
+be required to handle more than one type 
+of plant, due to the shortage of skilled 
+personnel. It is quite normal for the same 
+engineering teams, for example, to be 
+responsible for combined cycle, biomass 
+and wind generation plants, all at the 
+same time. 
+2
+Whitepaper – Omnivise T3000 Simulator
+In dealing with these complex require-
+ments, the Instrumentation and Controls 
+(I&C) solution in use has a central role.  
+It gives operators a detailed Human 
+Machine Interface (HMI) that shows 
+exactly what is happening in any given 
+plant. An effective modern control solu-
+tion should support automation, enable 
+fast intervention when required and, 
+above all, show clearly the status of  
+all operational systems. In practice,  
+this means that if operators can manage 
+the I&C system, they can also manage  
+the plant, itself.
+In this context, simulation is becoming 
+more important than ever, for testing 
+options, trying out different configura-
+tions, and identifying potential issues in 
+advance, while defining workarounds and 
+solutions – all in a virtual environment.  
+This is the key to operational efficiency 
+and energy security, as the energy land-
+scape continues to evolve.
+A new approach to 
+training
+Perhaps the single most urgent issue 
+driving use of simulation is the need  
+to replace skilled staff as they retire.  
+Power generation businesses not  
+only have to recruit new engineers on  
+a one-to-one basis, they must also help 
+new employees rapidly gain a wider range 
+of new and different skills, while keeping 
+operational costs under control. One additional concern is the need to  
+train engineers without giving them the 
+same opportunities (as in the past) to work 
+alongside more experienced personnel. 
+These days, a new engineer is likely to go 
+through a relatively short training period 
+and then be expected to work as an 
+ operator at once – and that can be very 
+challenging for them. This explains why 
+simulation solutions are now so important 
+to all power generation companies. 
+In practice, the intensity of the work 
+required cannot always be covered by  
+“on the job training”. Operators must  
+be trained offline, and the best tool for 
+achieving this is through simulators.  
+That’s because simulation platforms  
+enable rapid training, not just on systems 
+that are operating normally, but also on 
+systems under stress, unusual pressure  
+or threat of imminent failure. 
+In an increasingly complex industry, 
+dealing with skills shortages and an 
+accelerating speed of change, training 
+under realistic conditions is now more 
+important and urgent than ever. 
+Continuous training approaches are needed to make sure operators react correctly in case of difficulties. Knowledge  
+level
+tCritical knowledge  
+for effective handling 
+of disruptions
+Knowledge gapContinuous trainig
+Initial and sproadic
+training only
+3
+Whitepaper – Omnivise T3000 Simulator
+A new role for simulators
+Why effective simulation matters
+Simulation enables teams and individuals to try out a comprehensive 
+range of scenarios, from everyday steady running to the most unusual 
+and rare cases of system failure. Above all, simulators can resolve some 
+of the most urgent and compelling issues that concern management 
+today, where skills development is concerned. They provide training 
+without risk, enabling engineers to become familiar with the systems 
+they will soon be operating for real, but to do so without any possibility 
+of causing harm, inconvenience or other hazard to the business or 
+themselves.  
+The ability to run simulations from  
+any device, anywhere adds new options 
+for skills development and management  
+of complex systems. The focus should  
+not just be on “what may go wrong”, as 
+simulation makes it possible to work on 
+the potential for optimization in different 
+kinds of operational situations. 
+This matters because:
+• Faults need to be eliminated in advance 
+wherever possible, as the cost of faults 
+increases by a factor of 10 from stage 
+to stage of development.
+• It is 6 times more costly to fix a bug 
+identified in operational systems than 
+to eliminate it at design stage.
+• The number of skilled workers aged  
+55 or over has increased in the EU  
+from 12% to 20% according to the 
+latest Eurostat figures, which cover  
+the 15 years between 2004 and 2019.1  
+The potential loss of skills through 
+retirement is a major issue, which 
+makes timely, effective training an 
+urgent necessity.
+In an industry that is subject to rapid 
+change, shortfalls in engineering skills,  
+and the need to develop more flexible 
+operational options, simulators are  
+a necessary requirement. So how do we 
+build and operate simulation solutions 
+that can be trusted to deliver the training 
+and test test support required today and 
+into the future? Let’s start with digital 
+twins.The role of digital twins 
+A digital twin is designed to be a detailed, 
+accurate virtual replica of a real system, 
+working in parallel and able to replicate 
+the same operating conditions, and this 
+concept is now well understood. It is   
+in use across many different industries, 
+ranging from power generation, which  
+is the area that concerns us, to aircraft 
+controls, smart cities, road and rail 
+networks: wherever many different 
+ variables coexist and influence each  
+other inside a single system. 
+In power generation, the most important 
+use of digital twins is for process models: 
+tracking and identifying/diagnosing the 
+ways in which a specific process operates 
+under different conditions, with varying 
+inputs and influencing factors. They can 
+also be used for thermodynamic models 
+(covering factors like physical performance 
+– heat, pressure, energy, etc.). 
+We should note that process models  
+are not homogenous and consist of 
+components and other areas that are 
+modelled differently. The main categories 
+are physical based, functional, assumed 
+conditions and fixed static values.
+4
+Whitepaper – Omnivise T3000 Simulator1Ageing Europe – looking at the lives of older people in the EU, Eurostat, 2020
+Types of digital twins
+There are different types of digital twin 
+which are used for different purposes in  
+the power generation industry. One type  
+is connected to real time data flows, 
+staying dynamically updated to reflect  
+the true status of an operational system.  
+By contrast, non real-time, static digital 
+twins can be used to optimize operational 
+performance by identifying the best opera-
+tional points, while predicting the effects  
+of aging. 
+The non real-time approach is now being 
+used to build simulators that are kept 
+physically separate from operational  
+assets, so they can be used for testing  
+and training. This enables us to use a 
+digital twin to create a virtual environment 
+that accurately reflects operational reality, 
+but does not use real time data flows and  
+is not connected to the production systems. 
+This is the key to building an effective 
+training simulator. It has much in common 
+with digital twins in terms of realism and 
+accuracy, but strict physical separation of 
+the training environment from operations 
+means that all forms of training can be 
+carried out without risk to the business. 
+Building an effective 
+simulation solution
+Given the speed of change in the power 
+generation industry, it is vitally important 
+for the industry to have the means of 
+testing, trying out and proving all tech-
+niques in virtual systems before commit-
+ting to real world applications, and only 
+simulation can provide this option.  
+To become a normal, regular part of the 
+engineer’s toolkit, however, simulation 
+needs to be affordable, easy to access  
+and intuitive to use. This has not always been the case,  
+so what is changing now? 
+In the past, simulation solutions were 
+normally hybrids, built from modules 
+provided by a range of external partners. 
+This is because component and assembly 
+providers originally developed simulation 
+modules that covered only their own 
+components, which made the process  
+for sourcing and building simulation 
+ solutions complex and costly. 
+At one point it was quite common,  
+for example, to require several different 
+servers to run the solution, one for each 
+vendor application involved. In turn, that 
+led to the need for dedicated expert teams 
+to maintain the solution, a complex 
+programme of upgrades, and the need  
+to train operators on each application 
+separately. This had the unfortunate effect 
+of raising costs, placing restrictions on use, 
+and generally making the simulator appear 
+to be a specialised, high-cost resource, 
+rather than a normal, everyday business 
+tool. 
+The industry has now advanced beyond 
+this point, with simulators that include 
+different model categories, enabling  
+a single system to replicate the entire 
+production environment. 
+Despite this advance, however, a great  
+deal of complexity remains in the form  
+of multiple software packages, interfaces 
+and – sometimes – more than one server  
+to enable all options to be covered. 
+5
+Whitepaper – Omnivise T3000 SimulatorThe fragmented, piecemeal approach 
+described above is not a practical 
+solution for most power generation 
+companies. Siemens Energy has 
+therefore developed a simpler, more 
+integrated and, above all, practical 
+method.
+Omnivise T3000 Simulator
+Towards a faster, more streamlined approach 
+In designing the Omnivise T3000 Distributed Control System (DCS), 
+Siemens Energy took the decision to break away completely from the 
+problems that limited the value of conventional simulators by making 
+simulation a built-in, fully embedded component of the control system. 
+In other words, simulation functionality 
+now comes as standard. The simulator  
+is entirely composed of internally sourced 
+elements (everything from a single 
+source), making it simpler, lower risk  
+and more cost effective to use. As the 
+simulator is based on the same T3000 
+application software as that used in the 
+real plant, any changes made on the 
+operational system can be transferred  
+to the simulator by taking a backup from 
+the plant and importing it to the simulator. 
+In this way the simulator and operational 
+systems can very easily be kept aligned. In the T3000 Simulator, the user interface 
+is identical, while the system responses and 
+the routines followed by the engineers are 
+also the same. The T3000 Simulator can 
+run in a virtual environment on any kind 
+of hardware, including a laptop. In an 
+industry, where remote teams are tasked 
+with managing fleets of production assets 
+on multiple sites, the ability to train, 
+model and test via virtual teaming is  
+a huge long-term advantage. 
+Omnivise T3000 Simulator Omnivise T3000 
+6
+Whitepaper – Omnivise T3000 Simulator
+The Simulator includes the following 
+key characteristics:
+Process models.  Every simulation 
+ environment is based on processes and 
+process flows. This requires the developers 
+to identify all elements that contribute to 
+a specific process, provide the equations 
+that define how each element within each 
+process model relates to every other 
+element, and ensure realistic responses  
+to every change. 
+To give one example, for heat exchangers 
+it is necessary to model what happens 
+when heat transfer changes at different 
+load conditions and how multiple heat 
+exchangers influence each other. Or in 
+mixed generation, how disturbances in 
+renewable energy production affect the 
+overall working of a conventional plant. This requires calibration testing and proof 
+of assumptions before the virtualized 
+process models can be used.
+Easy updating. Mathematics is the  
+basis for any simulator, as mathematical 
+calculations define how each component 
+in the virtual environment responds.  
+As changes of configuration or updating 
+of components take place in the opera-
+tional system, similar changes must be 
+made to the virtual system that mirrors  
+it (the simulator). Since the simulator  
+is also located within the same T3000 
+software as the operational system,  
+it becomes much easier to update 
+compared to conventional simulators, 
+where multiple systems may be involved. 
+This ensures that the simulator will always 
+replicate the operational environment  
+as closely as possible.Key components of the Omnivise T3000 Simulator 
+Now let’s look beneath the surface of the T3000 Simulator to under -
+stand its main components and points of difference when compared 
+with previous solutions. 
+To make the simulator work effectively, 
+we must be completely certain that 
+altering one parameter in the simulator 
+will have the same (or very similar) 
+effect on the simulated environment,  
+as altering the same parameter in  
+the real system will have on the opera-
+tional environment.
+7
+Whitepaper – Omnivise T3000 Simulator
+Omnivise T3000 Simulator
+Accurate data flows. We have already 
+seen how simulators can be made more 
+accurate by use of true data from the 
+operational environment, and by the 
+rigour imposed on definitions of process 
+models. The virtual environment must 
+work according to the same laws of 
+physics that govern all forms of power 
+generation. That includes conservation of 
+energy and mass, and accurate, trust-
+worthy responses to all physical changes. 
+T3000 provides functionality that enables 
+simulation to be carried out inside the 
+T3000 control system. In practice, 
+however, for an operator training  
+the simulator will be set up on its own 
+platform to ensure there is no risk to  
+the operational systems. For this reason, 
+the simulator should be air-gapped from 
+the physical production environment and 
+will run on a separate device, which may 
+be a server but can also be a laptop. 
+For engineering test validation however, 
+the Distributed Control System (DCS) of 
+the operational platform may be used for 
+carrying out simulations, provided this is 
+done before it becomes operational.  
+Our goal is to ensure that engineering  
+and plant data is used to measure and  
+test operation of the virtual system, 
+ensuring it remains accurate at all times. 
+This is a specialized and complex task.User Interface.  We have already made  
+it clear that the simulator should be kept 
+physically separate from the production 
+controls. Why? Because it is the task  
+of the user interface to be completely 
+identical to the real T3000 system.  
+It is not simply a model: The HMI is 
+ identical in visualisation, behaviour  
+and methods of interaction, to the  
+point where engineers or operators  
+may not be able to tell whether they  
+are interacting with the simulator or  
+the operational system. As Omnivise 
+T3000 Simulators are an integral part  
+of T3000 itself, with software maintained 
+and updated as part of overall DCS 
+updates, this similarity is a core feature  
+of the solution.
+8
+Whitepaper – Omnivise T3000 SimulatorThe relevance and effectiveness of the 
+T3000 Simulator is best demonstrated 
+through reference to real operations,  
+so now let’s explore how we set it up  
+and put it to work.
+T3000 Simulator  
+structure and setup
+Figure 1 : Simplified view of the simulator architectureT3000 Hardware T3000 Simulator
+Simulated  
+elementsSetup of the system
+Built-in simulation functionality, within 
+Omnivise T3000, enables rapid set-up,  
+as no new hardware is needed (everything 
+can run on the T3000 Application Host). 
+Engineering Testing is carried out on the 
+real T3000 system, while an “air-gapped”, 
+physically separate platform (such as  
+a laptop) is used for operator training  
+to avoid risk to operations.
+Scale and scope. The T3000 Simulator  
+can be used with many different plant 
+types, from combined cycle to gas, from 
+hydro to coal-fired, and for renewable 
+options and hybrid solutions of every kind. 
+This solution was always designed to be as 
+future-proofed as possible. Asset scale is 
+also not an issue. The simulator can match 
+and model the functionality of the wider 
+T3000 solution, itself. 
+Architecture. The simulator mirrors  
+the structure of T3000 itself and is based 
+on four layers, as shown in figure 1 below.The component layers are:
+• T3000 Clients, enabling access and  
+the same user interface from the most 
+basic terminal, with no special require-
+ments for memory or speed.
+• Server layer, with automation controllers 
+present as virtual controllers  running 
+inside the T3000 Application Host.
+• Input/Output modules to deal with the 
+flow of data from and to the generation 
+asset(s) and is also modelled inside 
+T3000 Simulator as mirror proxies 
+inside the T3000 Application Host.
+• Process layer, which manages  
+the process flow calculations and  
+feeds back system responses to  
+the operator. This is also present  
+within the T3000 Application Host.
+T3000 Clients T3000 Clients
+Hosts Hosts
+I/O modules I/O modules
+Processes ProcessesT3000  
+Application Host T3000  
+Application Host T3000 
+ControllerT3000 
+Controller
+9
+Whitepaper – Omnivise T3000 Simulator
+Low fidelityMedium fidelityHigh fidelity
+Medium fidelity systems build on  
+the base level and use real data as well 
+as empirical modelling to ensure that 
+outputs include conservation of mass 
+and energy, going beyond synthetic  
+or theoretical calculations to provide  
+a more reliable picture of the real 
+system in operation. 
+This type of solution is ideally suited  
+to auxiliary areas, which do not affect 
+the main heat balance. Examples 
+include lubrication oil system or vibra-
+tion analysis, where it is possible to 
+use a simple approach to show what 
+happens when pumps are operated.Low fidelity systems provide basic 
+“tiebacks” (in which the operator sees 
+output from individual components 
+and assemblies based on specific 
+inputs). 
+This model is appropriate in some cases, 
+for example, when modelling a grid 
+system, where very detailed working 
+of the individual power generation 
+components is not required. It 
+provides a basic simulation solution 
+with some droop characteristics.High fidelity  systems represent  
+the most effective and trustworthy 
+level of digital twin technology.  
+The models used faithfully represent 
+mass and heat balance, and are suited 
+to representing heat exchangers inside 
+the main boiler, main pumps and 
+valves, or turbines and other complex 
+components. 
+In almost every sense, this kind  
+of system is representing in detail  
+the real plant, virtualized. It models 
+process streams end to end and 
+responds accurately to automated 
+system and process changes/inputs.  
+As you would expect, such a solution 
+will require much more upfront 
+process design work and is more  
+costly to maintain.Functionality.  The physical production 
+assets are managed through data flows 
+coming from IO modules and intelligent 
+field devices, which interface with the 
+controls via Input/Output modules.  
+The engineered backup is taken from  
+the operational system and imported  
+into the simulator server.
+• A tie-back is then created, using 
+ proprietary blocks we call Mirror 
+ Proxies.
+• These are linked to the Hardware  
+Proxy, which represents the IO modules.
+• And are also linked to the Partner 
+Functions, which simulate the different 
+types of field device, such as motors, 
+valves and other hardware. 
+The T3000 Simulator uses the controls 
+backup and integrated process model  
+of the real operational system, which can 
+be customized to ensure complete data 
+consistency, eliminating the need for ex- 
+ternal software. In addition, it is possible to 
+establish a connection to external process 
+modelling software to ensure maximum 
+flexibility and even higher levels of detail, 
+while also future-proofing the solution.
+Human Machine Interface (HMI)  
+As far as trainees and operators are 
+concerned, the simulated process appears 
+identical to the same process within the 
+physical operational environment, as long as all virtual components (Mirror Proxies, 
+Partner  Functions and Process Models)  
+are correctly updated to reflect changes  
+within the physical environment. 
+This means that operator training on  
+the Simulator can always work within  
+an up-to-date, accurate representation  
+of the physical system, which simplifies  
+and accelerates the process of moving  
+from the virtual to the real operational 
+environment.
+Levels of complexity
+The T3000 Simulator can be designed to 
+reflect the customer’s exact requirements, 
+ranging from low to high fidelity, as 
+desired.  We should be careful, however, 
+not to confuse fidelity with accuracy. 
+• Fidelity is the term used to define the 
+levels of exactness with which a real 
+operational system is reproduced in  
+the simulation. 
+• Accuracy of a model is defined by 
+whether parts of a process model  
+are based on assumed conditions; 
+simplified or functional modelling;  
+or a physically based model (which 
+provides maximum accuracy). 
+At least three different levels of fidelity  
+are available when it comes to building 
+and commissioning a virtual, simulation 
+solution.
+Whitepaper – Omnivise T3000 Simulator
+10
+Current use cases 
+Omnivise T3000 simulators are being used right now at very different  
+types of power plants for training and testing. 
+Omnivise T3000 Simulator in operation
+Once set up is complete, operators can 
+proceed to using the simulator for every 
+potential purpose. This includes training 
+operators and engineers (individuals or 
+teams, on a single site or remotely based), 
+testing operational assumptions and parameters, or simulation of specific  
+states to see how the assets will respond 
+(for example, to simulated faults and 
+malfunctions).
+In simple terms, we have a four-step 
+approach, as shown in the figure below:
+1Open simulation 
+in T3000  
+Workbench
+2Load initial 
+condition3Run  
+simulation
+4Start  
+training with 
+malfunctions
+Schweinfurt 
+local utilityAt Schweinfurt, the local utility GKS, which was created  
+to provide power to industrial users, while at the same 
+time disposing of waste through incineration, uses  
+a T3000 Simulator. It is backed by detailed process 
+models from another partner, to train engineers while 
+testing plant configuration and optimising performance. 
+GKS staff can now test different scenarios, optimize 
+processes, and control the plants safely. Simulation 
+allows staff to effectively prepare for what-if scenarios 
+involving the plants.
+11
+Whitepaper – Omnivise T3000 Simulator11
+Let’s take a closer look 
+at these stages
+Open the simulation in T3000 Work -
+bench. Users, both instructors and 
+trainees, can select simulation projects  
+via preconfigured screens or select an 
+existing project via “Project View/ Plant 
+Hierarchy”. The user interface is the real 
+T3000 system: it is not a model or copy 
+but the real system itself. Figure 3 shows 
+the layout Plant Display for a combined 
+cycle gas turbine in schematic form,  
+with a drop down that enables the oper -
+ator to select the HMI they require  
+to operate the plant inside the Simulator,  
+as shown in the image. The process  
+model stays the same, but the view  
+can vary as required.
+Load initial condition. The instructor 
+loads an initial condition (which is a 
+training scenario). Loading the initial 
+conditions primes the Simulator with  
+the correct process conditions and values, 
+according to the selected initial conditions, 
+such as Cold Startup, Warm Startup or 
+other option.Run the simulation.  The operator/
+instructor can now select the view they 
+wish to test or use for training, and then 
+adapt the parameters as required.  
+They can adjust load test variables, which 
+will lead to changes in the selected view. 
+After the initial condition is loaded,  
+the instructor can select RUN, which will 
+begin the simulation from the selected 
+initial condition.  
+Start training. One of the most common 
+options is to introduce a malfunction and 
+show the impact this has on the wider 
+system over time. The instructor can intro-  
+duce a malfunction at any time, causing 
+the T3000 Simulator to behave in the 
+same way as the real operational system 
+under similar circumstances. Trainees then 
+need to find ways to respond effectively, 
+enabling them to work through increas -
+ingly serious and dramatic scenarios, with a 
+sense of great realism but without any risk 
+to operations.
+Figure 2: setting up the T3000 Simulator 12
+Whitepaper – Omnivise T3000 SimulatorFigure 3: setting up the T3000 Simulator
+Figure four below is a real snapshot of the 
+operator screen during the running of  
+a simulation. It shows the impact of steam 
+leakage in the system, a problem that  
+will become increasingly damaging over  
+a period of minutes and potentially hours. 
+For training purposes, an operator will  
+be presented with this malfunction, which 
+plays out on the screen as a representa-
+tion of the virtual system.No matter what their level of experience, 
+engineers will need to be tested on these 
+potential scenarios to ensure they know 
+the correct actions to take. The operator’s 
+own input will be integrated with auto-
+mated responses built into the system, 
+enabling the response to be highly  
+realistic.
+Figure 3: Malfunction training
+13
+Whitepaper – Omnivise T3000 Simulator
+Omnivise T3000
+T
+e
+s
+t
+i
+n
+g
+T
+r
+a
+i
+n
+i
+n
+g
+A
+n
+a
+l
+y
+s
+i
+s
+ 
+a
+n
+d
+ 
+o
+p
+t
+i
+m
+i
+z
+a
+t
+i
+o
+nThe power generation industry is facing 
+major challenges due to an unusual conver -
+gence of several different factors. These 
+include:
+• Changes in generation technology,  
+with the rise of intermittent power 
+sources.
+• Grids which are more distributed.
+• The need for more frequent ramping  
+ up and down of conventional power 
+plants to cover for intermittent sources.
+• Mass retirement of a skilled workforce. mirror proxies via partner functions, 
+providing a realistic experience while 
+leaving the engineering untouched.
+Field devices. In the simulation, these are 
+represented by Partner Function Blocks. 
+Functional testing. The process model  
+that the operator wishes to examine can 
+now be tested, using functionality that 
+replicates the physical operation of that 
+specific process. 
+Benefits for engineering tests. Testing 
+now becomes routine, with engineering 
+tests, normally using tie-back simulation, 
+ensuring that the engineering of the real 
+plant is correct and interacts with the 
+process models as desired. 
+Benefits for operator training.  
+Training becomes faster and more effec-
+tive, enabling engineers to reach higher 
+levels of competence. Costs are limited  
+and controlled, while operators can 
+ experiment and learn without risk.  
+General benefits. For engineers under -
+going training, or for operational engineers 
+reviewing an operational scenario and 
+identifying potential areas for optimization, 
+the experience is the same. Working with 
+the T3000 Simulator User Interface is 
+indistinguishable from working with the 
+physical real T3000 system.Omnivise T3000 Simulator: the benefits checklist
+By making a simulator that exactly 
+ replicates the physical status and actions 
+of the plant in operation, operators can 
+train without risk or hazards, gaining 
+real hands-on experience without the 
+worry that comes with training in a real 
+plant environment. Any one of these changes would be 
+enough to drive instability in the market, 
+while for all of these to happen at the same 
+time is a major challenge for the industry. 
+We can be certain of one thing, which is 
+the ability to test, refine, update, test again, 
+train, optimize, review, accurately, without 
+additional hardware and without risk to 
+operations is now a basic requirement. 
+Because it is an integral part of the T3000 
+system, the Omnivise T3000 Simulator 
+offers transformational benefits to power 
+generation businesses, and is a crucial 
+component in keeping them competitive, 
+efficient, compliant and relevant in  
+a changing world. It delivers:
+Simulation as standard. No specialized 
+hardware is required for the simulation.  
+It can run on the T3000 Application Host, 
+with a virtual machine, even on a laptop. 
+Realism through use of mirror proxies.   
+A tie back is generated using mirror proxies. 
+The process model is connected to these At a time of change, with the operational 
+landscape moving forward in sometimes 
+unpredictable ways, the ability to review 
+different scenarios and drive continuous 
+improvement is simply vital. 
+14
+Whitepaper – Omnivise T3000 Simulator
+Integrated with T3000 DCS,  
+Simulator comes “as standard”.
+Engineering and testing takes place in the same 
+ environment, using the T3000 Application Host  
+Workbench without changing tools. Users can  
+move between engineering and testing while  
+using the same engineering environment. 
+Instructor station is fully integrated with  
+the solution. 
+Device level simulation is generated automatically,  
+with very rapid simulation setup.
+The solution can use scalable process models, including 
+low, medium and high fidelity, with varying levels of  
+accuracy, as required. 
+The T3000 Simulator offers different options for  
+virtualization, including T3000 Application Host, 
+ cloud-based and mobile devices.T3000 Simulator summary
+The Omnivise T3000 Simulator delivers all these 
+benefits in a single package. They reduce the risk and 
+cost of testing, accelerate installation and uptake, and 
+improve the quality of operator training at a time of 
+enormous change in the power generation industry.
+15Whitepaper – Omnivise T3000 Simulator
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Gas Services  
+Siemenspromenade 9  
+91058 Erlangen, Germany
+Siemens Energy. Inc  
+Gas Services  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+siemens-energy.com/omnivise-t3000
+© Siemens Energy, 2024
+Siemens Energy is a trademark licensed by Siemens AG. 
+ 
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract. All product 
+designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties 
+for their own purposes could violate the rights of the owners.
+TH E23-230375

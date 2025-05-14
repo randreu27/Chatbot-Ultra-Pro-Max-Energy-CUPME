@@ -1,0 +1,36 @@
+Contacts & Information:
+in cooperation with
+Supplier needs to be registered in SupplyOn
+(WebUI) as prerequisite
+Supplier supports one of SupplyOn offered
+connectivity procotols and EDI formats
+Availability of ressources for EDI
+implementation project on supplier sideIntegration handled by SupplyOn
+One time implementation effort that
+requires IT experts on supplier side
+Connected to costs (not transactional) for
+suppliers to ensure continuous use and
+automationWhat are the benefits?If needed an info call can be requested via
+Integration-Service@supplyon.com
+The EDI Project needs to be ordered via the
+SupplyOn Shop solutionIntegration process steps:
+Direct integration of SupplyOn to suppliers ERP
+system
+No manual handling, fully automated process
+Reduced leadtime from invoice receipt to
+payment
+Quality check before invoice bookingDirect EDI requirements:
+Integration-service@supplyon.com
+SupplyOn EDI Info Portal
+Direct EDI Info Package
+Key Points:
+Direct EDI via SupplyOn
+Supplier
+Send
+POOrder
+ConfirmationOrder
+ChangeDispatch
+Advise
+Invoice
+ReceiptPayment
+Direct EDIERP

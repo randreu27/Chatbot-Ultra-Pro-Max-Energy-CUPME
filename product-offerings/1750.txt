@@ -1,0 +1,332 @@
+Siemens Energy High Voltage 
+Dead Tank Circuit Breakers
+
+2TABLE OF CONTENTS
+Circuit Breaker Quality. . . . . . . . . . . . . . . . .    4 
+SPS2 15 kV – 72 . 5 kV . . . . . . . . . . . . . . . . .     6 
+SPS2S 123 kV – 170 kV. . . . . . . . . .   7 
+SPS2S 245 kV. . . . . . . . . . . . . . . . . . . . . . .      8 
+SPS2 362 kV . . . . . . . . . . . .  9 
+SPS2 550 kV . . . . . . . . . . . . . . . . . . . . . . . .     10  
+CPV 2/2S, 3AP 2/3, 3AP 4/5  . . . . . . . . . . . .   11 
+Blue Circuit BreakerTM  . . . . . . . . . . . . . .    12 
+Interrupter & Spring-Spring Mechanism .....  13
+Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+3Globally standardized design includes*:
+• FA spring-spring operating mechanism
+• No maintenance or adjustments required on the operating mechanism• 3AP Arc-Assist self-blast interrupter• Rupture disks for each interrupter• Porcelain and composite bushing offerings Standard provision for up to four
+CTs per bushing Tanks meeting ASME pressure requirements
+Application-based design considerations include*:
+• Pre-insertion resistors (PIR)
+• Point-on-wave controlled switching with phase synchronizing device (PSD)• Metering accuracy CTs• Extra-creep bushings• Dual trip coils• Tank heaters for low temperature applications• High kA short-circuit current ratings
+*For a complete list of application-based design components and considerations,
+please contact your local representative.Siemens Energy High Voltage Dead Tank Circuit Breaker s | Brochure
+ Siemens Energy 
+customers ' rely on us 
+to deliver reliable 
+performance , utilizing 
+the best breaker 
+technology and 
+materials available
+Over 160,000 world wide installations of the circuit breakers current platform  
+4From quality comes quality
+Siemens Energy combines the latest in circuit breaker technology with the economies of scale and a streamlined process at 
+our manufacturing facility in Jackson, Mississippi.
+Our facility is certi fied to:
+• ISO 9001:2015 (Quality)
+• OHSAS: 18001:2007 (Occupational Health & Safety)
+• ISO 14001:2015 (Environmental)
+The manufacturing process is designed to provide measurable quality and cost containment. To ensure product 
+performance and customer satisfaction, every circuit breaker is tested to ANSI and IEC standards in one of the world’s largest high-voltage laboratories.
+All of our live and dead tank circuit breakers, as well as our gas-insulated switchgear, are equipped with common 
+components. Longevity, reliability, and a broad range of solutions for diverse climate zones around the world distinguish Siemens Energy high voltage circuit breakers from all others.
+Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+5
+The application of a circuit breaker directly correlates to the operating conditions that will be 
+serviced over the breaker’s lifetime. Siemens Energy’s circuit breaker portfolio was designed to adapt to your current and future needs across all applications. From transmission line protection to specialized controlled switching applications and high kA requirements, Siemens Energy circuit breakers can be configu ed to meet the needs of the application.
+High kA short-circuit capabilities are becoming 
+increasingly important for circuit breaker 
+applications in evolving power systems. Where high 
+kA ratings are necessary, extreme transient 
+recovery voltage (TRV) conditions and high X/R 
+ratios are common. To meet the needs of these 
+applications, Siemens Energy offers robust, time-
+tested technology that you can rely on to meet the 
+current and future needs of your power system.
+Independent pole operation (IPO) configu  ed circuit 
+breakers in conjunction with phase synchronizing 
+device (PSD) controlled switching can provide 
+increased system reliability as a result of reduced 
+voltage fluctuations and l  wer harmonic stress. IPO 
+circuit breakers with PSD are also known to extend 
+the service life of the circuit breaker’s interrupter 
+components by reducing switching over-voltages 
+and inrush currents.
+Pre-insertion resistors (PIR) limit TRV impacts on 
+circuit breakers in transmission line protection 
+applications  . These components are capable of 
+smoothing reclosing operations by dissipating 
+trapped charge on the affected transmission line 
+phase(s). Siemens Energy PIR technology can be 
+configu  ed with various resistance values and 
+externally adjustable pre-insertion times to meet 
+the needs of your system.Siemens  Energy  circuit  breakers  meet  the needs  of the 
+world’s most complex electrical power systems
+Siemens Energy High Voltage Dead Tank Circuit Breaker s | Brochure
+6Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+SPS2 15 kV – 72.5 kV
+Siemens Energy SPS2 15.5 kV – 72.5 kV dead tank circuit breakers utilize the time-tested FA 
+spring-spring operating mechanism and 3AP arc-assist interrupter common to the entire SPS2 
+portfolio .
+Standard Features
+• FA spring-spring operating mechanism
+• Gang or IPO on common frame
+• Operation to -40° C without tank heaters
+Optional Features Available
+• PSD for point-on-wave switching
+• Composite bushings / extra creep bushing• Up to four CTs per bushing
+All breakers are manufactured and tested in the USA.Type SPS2-15  .5 SPS2-25  .8 SPS2-38 SPS2-48  .3 SPS2-72  .5
+Related Max kV 15 .5 25  .8 38 48  .3 72  .5
+Rated continuous  current (A, rms) up to 3500 up to 3500 up to 3500 up to 3500 up to 3500
+Rated short circuit current at rated (kA) up to 40 up to 40 up to 40 up to 40 up to 40
+Interrupting Time Cycle 3 3 3 3 3
+Lightning Impulse withstand voltage 110 150 200 250 350
+Chopped wave, 2μs (kA) 142 194 258 322 452
+Closing and latching capability (kA) up to 108 up to 108 up to 108 up to 108 up to 108The SPS2 15 kV – 72.5 kV dead tank circuit 
+breakers are designed to meet rigorous 
+Class M2 mechanical endurance (10,000 
+operations) and Class C2 capacitive 
+switching certifications, ensuing virtually 
+maintenance-free operation over its life.The SPS2 dead tank circuit breaker can be configured with independent pole 
+operation (IPO) and phase synchronizing device (PSD) for reliable switching in 
+the most demanding electrical power systems.
+
+7Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+SPS2S 123 kV – 170 kV
+Standard Features
+• FA spring-spring operating mechanism
+• Gang or IPO on common frame• No capacitors necessary
+Optional Features Available
+• PSD for point-on-wave switching
+• Composite bushings / extra creep bushings• Slip-over CTsContinuous development of the SPS2 design has led to a refined designation of SPS2S or 123 – 245 kV  rated breakers. 
+This reflects up  rades made to reduce foundation footprint for all kA classes, allowing for easy replacement of existing 
+circuit breakers in evolving power systems.
+None of Siemens Energy SPS2S circuit breakers require capacitors to  
+reach t heir kA requirement. This design offers a true long-term  
+value by eliminating both the initial additional cost and the  
+potential maintenance expense for replacement of failed  
+capacitors  .
+The SPS2S 123 kV – 170 kV dead tank circuit breakers are  
+designed to meet rigorous Class M2 mechanical endurance
+(10,000 operations) and Class C2 capacitive switching  
+certifications, ensu  ing virtually maintenance-free operation
+over its life.
+All breakers are manufactured and tested in the USA.Type SPS2S-123 SPS2S-145 SPS2S-170
+Related max kV 123 145 170
+Rated continuous  current (A, rms) up to 4000 up to 4000 up to 4000
+Rated short circuit current at rated (kA) up to 80 up to 80 up to 80
+Interrupting Time Cycle 3 3 3
+Lightning Impulse withstand voltage 550 650/750 750/900
+Chopped wave, 2μs (kA) 710 838 968
+Closing and latching capability (kA) up to 170 up to 170 up to 170With 40, 50, 63 and 80 kA designs available, this circuit breaker can be configured 
+for all applications, including transmission line switching, transformer switching, 
+and capacitor bank switching.
+8SPS2S 245 kV
+Standard Features :
+• FA spring-spring operating
+mechanism
+• Gang or IPO on common frame
+Optional Features :
+• PSD for point-on-wave
+switching
+• Composite bushings / extra
+creep bushings
+• Tank heaters for low ambient
+temperature environments
+• Slip-over CTsWith versions ranging from 40 – 90 kA, BIL options up to 1050 kV, 2 or 3-cycle interruption time, and IEC 
+693 high seismic rated designs available, Siemens Energy’s SPS2S 245 kV circuit breaker portfolio is the most 
+adaptable in its class .
+All breakers are manufactured and tested in the USA.Type SPS2-245 SPS2S-245
+Related Max kV 245 245
+Rated continuous  current (A, rms) up to 4000 up to 4000
+Rated short circuit current at rated (kA) up to 63 up to 90
+Interrupting Time Cycle 2 or 3 2 or 3
+Lightning Impulse withstand voltage Up to 1050 Up to 1050
+Chopped wave, 2μs (kA) 1160 1160
+Closing and latching capability (kA) up to 170 up to 243Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+Helping the world become carbon 
+neutral. Find out how at
+ www.siemens-energy.com/blue-productsLike the SPS2S 123 – 170 kV breakers, the SPS2S 245 63 kA circuit breaker was 
+designed with a minimized footprint allowing for easy replacement of existing 
+circuit breakers in evolving power systems.
+The SPS2S 245 kV dead tank circuit breakers are designed to 
+meet rigorous Class M2 mechanical endurance (10,000 
+operations) and Class C2 capacitive switching certifications, 
+ensuring virtually maintenance-free operation over its life.
+9SPS2 362 kV
+Standard Features :
+• FA spring-spring operating
+mechanism
+• IPO configu ration
+• 63 kA without TRV capacitors
+• Single-break up to 63 kA
+Optional Features Available :
+• PSD for point-on-wave switching
+• Composite bushings
+• Pre-insertion resistors with
+externally adjustable insertion
+time
+• Tank heaters for low ambient
+temperature environments
+• Common frame versionSiemens Energy’s unique common frame version is designed to simplify the installation process. Typically, a SEI SPS2 362 
+kV common frame circuit breaker can be installed on an existing foundation in less than one day.
+The Siemens Energy FA spring-spring operating mechanism and 3AP arc-assist interrupter are core components of each 
+circuit breaker that provide exceptional reliability and long service lifetime with virtually no maintenance.
+The SPS2 362 kV dead tank circuit breakers are designed to meet rigorous Class M2 mechanical endurance (10,000 
+operations) and Class C2 capacitive switching certifications, ensu ring virtually maintenance-free operation over its life.
+All breakers are manufactured and tested in the USA.Type SPS2-362
+Related Max kV 362
+Rated continuous  current (A, rms) up to 5000
+Rated short circuit current at rated (kA) up to 80
+Interrupting Time Cycle 2
+Lightning Impulse withstand voltage 1300
+Chopped wave, 2μs (kA) 1680
+Closing and latching capability (kA) up to 216Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+Siemens Energy SPS2 362 kV circuit breakers have standard IPO configuration and 
+2-cycle interruption time to meet the needs of all extra high voltage (EHV) circuit
+breaker applications.
+
+10SPS2 550 kV
+Standard Features :
+• FA spring-spring operating
+mechanism
+• Shipped with CTs and CT
+covers installed
+• No line-to-ground capacitors
+necessary for 63 kA
+Optional Features Available :
+• PSD for point-on-wave
+switching
+• Composite bushings / extra
+creep bushings
+• Plug-and-play control wiring
+for ease of installationEach pole of the SPS2 550 kV circuit breaker is equipped with a dual-break 3AP2 arc-assist interrupter to ensure 
+reliable circuit interruption in the midst of large voltage transients and high reactive power switching requirements.
+Siemens Energy is pleased to offer the only 550 kV breaker operated by a spring-spring mechanism capable of 
+reliable 2-cycle interruption and reclosing operations  .
+The SPS2 550 kV circuit breaker is designed to meet rigorous Class M2 mechanical endurance (10,000 operations) 
+and Class C2 capacitive switching certifications, ensu  ing virtually maintenance-free operation over its life.
+All breakers are manufactured and tested in the USA.Type SPS2-550
+Related Max kV 550
+Rated continuous  current (A, rms) up to 5000
+Rated short circuit current at rated (kA) up to 63
+Interrupting Time Cycle 2
+Lightning Impulse withstand voltage Up to 1800
+Chopped wave, 2μs (kA) 2320
+Closing and latching capability (kA) up to 170Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+
+Siemens Energy High Voltage Dead Tank Circuit Breaker
+All breakers are manufactured and tested in the USA.Type CPV2/CPV2S
+72.5 121 145 170 245 362 550 800
+160 260 310 365 460 555 860 1150350 550 650 750 900/1050 1300 1800 210040 40 40 40 40/63 40 63 634000 3150 3150 4000 4000 5000 5000 50003AP 2/3 3AP 4/5
+Related Max kV
+Rated continuous current (A, rms)
+Rated breaking current, up to (KA)
+Power Frequency withstand voltageLightning Impulse withstand voltage BIL, (kV)Siemens Energy live tank circuit breakers / circuit
+switchers are an ideal solution for applications thatrequire two or three-cycle circuit interruption and havelimited space. These products save space and providefast protection at an economical cost. Commonly,these breakers are utilized in power transformerswitching applications that require reliable switchingdevices to provide millions of dollars of substationtransformer assets. By utilizing the FA spring-springoperating mechanism, the live tank breaker portfoliooffers the same industry-leading reliability standard asthe SPS2 dead tank circuit breaker portfolio.Boasting a small footprint, the live tank CPV2/CPV2S,3AP 2/3, 3AP 4/5 are considered the preferred modelfor retroﬁt in tallations where a circuit switcher isrecommended to replace an existing fault interruptiondevice. Fast two or three- cycle interruption timesigniﬁcant y reduces system disturbances and minimizespotential for damage to key system components. Unitsrated up to 170 kV ship fully assembled for ease ofinstallation. 245 kV rated units and above ship in sub-assemblies that have been engineered to optimizeinstallation time and cost.
+63
+5040
+31.5
+25
+0
+72.5 121 145 170 245 362 550 800
+Rated voltage [kV]CPV2/2S 3AP2/3 3SP4/5
+12Type Short Circuit 
+Current (kV)Continuous 
+Current (A)Release 
+Date
+72.5 kV LT 40 3150 2018
+72.5 kV DT 40 3150 2021
+123 kV DT 40 3150 2021
+145 kV DT 40 3150 2023
+145 kV DT 63 3150 On Demand
+245 kV DT 40 3150 On Demand
+245 kV DT 63 3150 On DemandBlue Circuit BreakerTM
+Siemens Energy recognizes climate change as a megatrend that is  
+changing the world. SF 6, the insulating gas utilized in most modern  
+gas insulated equipment (GIE) boasts a global warming potential 
+of 23,500x that of CO 2. In a revolutionary development for high 
+voltage GIE, Siemens developed CLEAN AIR vacuum technology  
+that is capable of reliable short-circuit interruption at voltage levels 
+above 69 kV with absolutely zero CO 2 emissions over the lifetime of  
+the equipment.
+Tested to the same IEEE / IEC standards as SF 6 product equivalents, 
+Siemens Energy Blue Circuit BreakerTM products offer high reliability 
+and performance that is expected of HV GIE. Other inherent 
+benefits of vacuum-interruption include applicability at low 
+ambient temperatures, higher full-fault duty than equivalent SF 6 
+products (rated for up to 30 interruptions at rated short-circuit  
+currents), and maintenance-free operation due to hermetically  
+sealed vacuum interrupter components  .
+Driven by the reliable FA spring-spring mechanism, Blue Circuit 
+BreakerTM will utilize time-tested components to provide class M2 
+mechanical endurance (10,000 operations) and Class C2 capacitive 
+switching certifications. 
+Siemens Energy plans to offer Blue Circuit BreakerTM and circuit  
+switchers in accordance with the accompanying release schedule.  
+For more information on Blue Circuit BreakerTM products, contact 
+your local representative.Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+133AP arc-assist interrupter and FA 
+spring- spring operating mechanism
+The FA spring-spring operating mechanism is unique in 
+the industry because of its scalable design that is applied 
+in Siemens Energy’s entire circuit breaker portfolio for 
+rated voltages between 15 kV to 800+ kV. Unlike all 
+hydraulic or pneumatic operating mechanisms, the FA 
+spring-spring design is inherently maintenance-free for 
+the breaker’s installed lifetime.
+Voltage Ratings
+Interrupter UnitOperation 72.5 W 145kV 170 kV 245 kV 362 kV 550 kV
+Gang FA 2 FA 2 - - - -
+Static Self-CompressionIndependent Pole 
+Operation (IPO)FA 1 FA 1/2 - - - -
+Gang - - FA2 FA 4/5 - -
+Dynamic Self  Compres-
+sionIndependent Pole 
+Operation (IPO)- - FA 2 FA 2 FA 4/5 FA5Siemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+Siemens Energy utilizes the field-p oven 3AP arc-assist 
+interrupter. Arc-assist interruption technology is the core 
+of Siemens’ HV switchgear because it has a substantially 
+smaller operating mechanism energy requirement in 
+comparison to preceding puffer interrupter technology. 
+Each interrupter consists of a main contact assembly and 
+an arcing contact mounted inside a pole unit housing. 
+During opening operations, the puffer action in the 
+compression cylinder of the interrupter is sufficient or low 
+current faults and switching operations. During high 
+current interruptions, heat from the arc causes the 
+pressure to rise in the heating volume chamber. The 
+resulting high pressure gas from the heating volume 
+extinguishes the arc.
+14NotesSiemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+15NotesSiemens Energy High Voltage Dead Tank Circuit Breakers | Brochure
+16Published by
+Siemens 2019
+Siemens Energy, Inc  .
+444 Hwy 49 South
+Richland, MS 39218
+Siemens Technical Support: 1-888-703-1175
+usa .siemens  .com/energy
+Printed in USA
+All Rights Reserved
+© 2019, Siemens Energy, Inc  .
+The technical data presented in this document is based on an actual case or 
+on as-designed parameters, and therefore should not be relied upon for any 
+specific application and does n  t constitute a performance guarantee for any 
+projects. Actual results are dependent on variable conditions. Accordingly, 
+Siemens Energy  does not make representations, warranties, or assurances as 
+to the accuracy, currency or completeness of the content contained herein. If 
+requested, we will provide specific echnical data or specifications wi  h respect 
+to any customer’s particular applications. Our company is constantly involved in 
+engineering and development. For that reason, we reserve the right to modify, 
+at any time, the technology and product specifications con  ained herein.

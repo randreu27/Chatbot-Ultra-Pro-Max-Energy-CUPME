@@ -1,0 +1,196 @@
+ILoP Quick Start Guide
+November 2020
+November 2020 Page 2 ILoP Quick Start GuideILoP Quick Start Guide
+Agenda
+I.Basic functions
+1.Access & log in
+2.Transport Order “New“
+3.Transport Order “New“ -without Purchase
+Order number
+4.Locations
+5.Freight Forwarder(s)
+6.Documents
+7.Transport Order “in Progress “
+8.Transport Order “ Completed “
+9.Maintaining Pick-up Address esII.Extended functions
+1.Maintaining Opening Times
+2.User Administration
+November 2020 Page 3 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Access & log in
+https://ax4.com/ax4/?ID=3719631
+Please enter login data received from 
+Siemens (user name and initial 
+password).
+
+November 2020 Page 4 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Terms ofUse
+
+November 2020 Page 5 ILoP Quick Start Guide
+Enter oneorder number, if 
+known ( either complete 
+information or e.g. 70008*)
+orchoose “ multiple
+Purchase Order 
+numbers”. 
+ILoP Quick Start Guide
+Transport Order “New“
+Show allopen Purchase Orders
+(note the limited time period on the right ).1.
+2a.
+Orasan alternative
+Click tosearch
+2b.
+November 2020 Page 6 ILoP Quick Start Guide
+Choose “multiple Purchase Order number”.ILoP Quick Start Guide
+Transport Order “New“ -multiple Purchase Order numbers
+1.
+Alternatively you can 
+upload a .csv file.
+Type in different order numbers.
+2.
+
+November 2020 Page 7 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Transport Order “New“
+Click on the boxes to select the 
+order items or a whole order.
+1.2.
+3203354995 P22 XXX 7X7X FXX
+Siemens
+Siemensstraße 100
+22222 Braunschweig
+DE123456789 123456789
+P22 XXX 7X7X FXX P22 XXX 7X7X FXX (FCA) Free Carrier
+
+November 2020 Page 8 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Transport Order “New“ -without Purchase Order number
+If the order was not
+found, first please
+refresh the database.
+If the order is stillnot found or
+the order number is unknown,
+please continue manually.
+Fill in the OrgID of the freight 
+payer ( from your Purchase Order 
+orfrom thelocation ofyour
+operative buyer ).
+3.4.2.1.
+
+November 2020 Page 9 ILoP Quick Start Guide
+Complete missing 
+shipment data and 
+change if necessary:
+Either each field can 
+be edited/overwritten 
+individually… ILoP Quick Start Guide
+Locations
+…or you can select an address from the 
+corresponding drop -down menu.
+In the address book you can manage your own 
+addresses.
+1b.1a.
+2.
+If you want to complete the 
+transport order at a later time, you 
+can save it for now
+(saved transport orders can be 
+found under " in Progress ").
+
+November 2020 Page 10 ILoP Quick Start Guide
+Change quantity ifnecessary (forpartial deliveries ).ILoP Quick Start Guide
+Packing Details
+Fill in packing details . 1.
+2.
+
+November 2020 Page 11 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Freight Forwarder(s)
+Select a forwarder.
+If necessary you may
+postpone the pick -up date.
+3.1.
+2.
+
+November 2020 Page 12 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Documents
+Upload delivery note or 
+other freight documents 
+necessary for the 
+transport.
+1.
+2.
+
+November 2020 Page 13 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Summary
+Check the summary and send the 
+transport request.
+After saving your transport youcanfind 
+itunder „in Progress“. Your transport
+order isnot completed yet.or
+1b.
+1a.
+
+November 2020 Page 14 ILoP Quick Start GuideILoP Quick Start Guide
+Complete a Transport Order and then…
+By clicking this button the system automatically sends a transport order to the selected forwarder, as well 
+as a copy to the e -mail address stored in your account and the Siemens Buyer(s) you entered in the 
+corresponding field under Locations.
+Please note: The following attachments can be included in this confirmation mail:
+-documents uploaded by you
+-Label (e.g. DHL Express, FedEx/TNT, UPS)
+-a Bill of Lading is automatically generated for North American ground transport
+You can find all completed transport orders under
+
+November 2020 Page 15 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Transport Order “in Progress“
+Hereunder you will find all orders "in Progress" that have not been sent out yet.
+if you want to delete open transport orders, check the 
+corresponding box and then click “Delete 
+Shipment(s)”.
+Click on the pen to edit a 
+Transport Order in progressAs soon as a Pick -up Date has been defined, you will 
+find a note on the start page regarding transport 
+orders that have not been completed yet.
+or
+
+November 2020 Page 16 ILoP Quick Start Guide
+ILoP Quick Start Guide
+Transport Order “ Completed “
+Under "Completed" you will find all transport orders that have been sent to a freight forwarder.
+For e.g. parcel services ( DHL Express, FedEx/TNT, UPS) you 
+can access the label here.
+
+November 2020 Page 17 ILoP Quick Start GuideILoP Quick Start Guide
+Maintaining Pick-up Addresses
+Hover with the cursor over 
+"Administration" and click on 
+"Address Book”.
+Click on "New Address" to add a new company address.
+Click on the pen to edit 
+an address. 
+
+November 2020 Page 18 ILoP Quick Start GuideILoP Quick Start Guide
+Maintaining Opening Times
+Hover with the cursor over 
+"Administration" and click on 
+"Opening Times”.
+Enter your opening hours here.
+
+November 2020 Page 19 ILoP Quick Start GuideILoP Quick Start Guide
+User Administration
+a.
+b.Only as Master User the function "User 
+Administration" is active for you, i.e. in 
+that case you can add more users to your 
+company account. 
+You can lock and/or delete those 
+additional users any time.
+
+Thank you for your attention!
+Please consider the environment before printing this document.  ☺

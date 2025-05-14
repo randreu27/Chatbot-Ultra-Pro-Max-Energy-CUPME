@@ -1,0 +1,24 @@
+Transaction:
+Published 10/01/2020
+LEI 5299005CHJZ14D4FDJ62
+Date 09/28/2020 UTC+2
+Type of transaction Acquisition
+Description of financial instrument: Share
+ISIN DE000ENER6Y0
+Place Xetra
+a) Price and Volume Price Volume
+EUR 22.01000 EUR 77,035.00
+b) Aggregated information Price Volume
+EUR 22.01000 EUR 77,035.00
+  
+Details of person:
+Name/Company Jochen Eickholt
+Reason Member of the managing body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

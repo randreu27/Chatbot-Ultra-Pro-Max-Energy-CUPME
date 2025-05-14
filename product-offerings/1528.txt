@@ -1,0 +1,267 @@
+Siemens Energy is a trademark licensed by Siemens AG.
+Global Functions
+Vinod Philip
+Member of the Executive BoardCMD 2023
+© Siemens Energy, 2023 | Vinod Philip | Global Functions
+Disclaimer
+Information andforward -looking statements
+This document contains statements related toourfuture business andfinancial performance, andfuture events ordevelopments involving Siemens Energy thatmay constitute
+forward -looking statements .These statements may beidentified bywords such as“expect,” “look forward to,”“anticipate” “intend,” “plan,” “believe,” “seek,” “estimate,” “will,”
+“project,” orwords ofsimilar meaning .Wemay also make forward -looking statements inother reports, prospectuses, inpresentations, inmaterial delivered toshareholders, andin
+press releases .Inaddition, ourrepresentatives may from time totime make oralforward -looking statements .Such statements arebased onthecurrent expectations andcertain
+assumptions ofSiemens Energy’s management, ofwhich many arebeyond Siemens Energy’s control .These aresubject toanumber ofrisks, uncertainties, andother factors,
+including, butnotlimited to,those described indisclosures, inparticular inthechapter “Report onexpected developments andassociated material opportunities andrisks” inthe
+Annual Report .Should oneormore ofthese risks oruncertainties materialize, should acts offorce majeure, such aspandemics, occur, orshould underlying expectations including
+future events occur atalater date ornotatall,orshould assumptions prove incorrect, Siemens Energy’s actual results, performance, orachievements may (negatively or
+positively) vary materially from those described explicitly orimplicitly intherelevant forward -looking statement .Siemens Energy neither intends, norassumes anyobligation, to
+update orrevise these forward -looking statements inlight ofdevelopments which differ from those anticipated .This document includes supplemental financial measures –thatare
+notclearly defined intheapplicable financial reporting framework –andthatareormay bealternative performance measures (non-GAAP -measures) .These supplemental financial
+measures should notbeviewed inisolation orasalternatives tomeasures ofSiemens Energy’s netassets and financial position orresults ofoperations aspresented in
+accordance withtheapplicable financial reporting framework initsconsolidated financial statements .Other companies thatreport ordescribe similarly titled alternative performance
+measures may calculate them differently .Due torounding, numbers presented throughout thisand other documents may notadd upprecisely tothetotals provided and
+percentages may notprecisely reflect theabsolute figures .
+© Siemens Energy, 2023 | Vinod Philip | Global Functions 2 2023 -11-21
+© Siemens Energy, 2023 | Vinod Philip | Global Functions 3Combining people,
+processes and dataGlobal
+Functions
+2023 -11-21Ensuring cost savings and securing  synergies
+with Siemens GamesaSupporting the growth through project execution capabilities 
+and supply chain management ramp -up
+Implementing simple, harmonized and 
+data-driven processes across Siemens EnergyDriving enterprise transformation through capability driving 
+innovation, ERP -systems integration and new ways of workingCombining AI and process automation with domain 
+know -how to improve business performanceDelivering value through Execution, Digitalization and InnovationIntroducing Global Functions
+41 Total project volume under execution by Project Entity | 2 Purchasing volume of Siemens Energy, thereof 55% managed by Global Functions | 3 Other commodities include, among others, 
+systems, insulation material and components, packaging and warehousing | 4 In Project Entity, supply chain management, digital functions, innovation and safety and health
+© Siemens Energy, 2023 | Vinod Philip | Global FunctionsKey facts & figures for FY23
+Project volume executed by PE1 Purchasing volume Siemens Energy (excl. SG)
+Services 12%€15bnIP strategy 
+and management
+18k+Steel 30%
+2023 -11-21•Project execution resources and capabilities deployed across business areas
+•Group -wide services and infrastructure through IT, logistics and procurement
+•Anchor point for future technologies through the four innovation centers  close to our customers
+•Software and data analytics products and services across the enterprise
+•Governance and process excellence in areas like safety, quality, cybersecurity and data
+Gas 
+Services
+75%Grid 
+Technologies
+25% €12bn
+Copper and Nickel 7%
+Logistics and Oil 6%Employees4
+~6k
+Others3 33%Indirect Material 12%
+patentsSupporting growth and profitability across all business areasGlobal Functions
+Project Entity as a key differentiator
+FY22 FY2310%
+60%
+30%
+FY26+16%30% 104 Projects
+in execution by Project Entity1
+•Central execution of complex, large -scale projects across all BAs
+•Standardized tools and processes for project execution and procurement
+•Career development enabled by cross -training and utilization
+•NCC2 reduction and productivity to support business area growth
+•Digitalization and BIM3 for all complex projects
+•External partner network to balance workload and cost competitivenessTendering Project execution Warranty
+1 As of Sept. 30, 2023 | 2 NCC: Non -Conformance Cost | 3 Building Information Model: Digital Twin of projectExecution
+TI
+GT
+GSProject Entity supports the business in:
+© Siemens Energy, 2023 | Vinod Philip | Global Functions 5 2023 -11-21
+Building a resilient procurement and logistics network 
+to support the growth in the business areas
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 6Supply Chain Resilience
+6 levers  
+to succeed against market constraintsAchievements FY23
+Supplier risk reductions 01
+Multi -sourcing of key components 02
+New supplier introductions 03
+Risk -based stocking concepts 04
+Strategic  partnerships with key suppliers 05
+Capacity reservations 06Bundled spending
+Increase share of procurement spend with 
+selected set of strategic suppliers +6%
+On-time delivery
+Strengthen supplier management process 
+excellence and expediting approach +5%
+Reduced  supplier  risk
+Decrease number of high risks 
+in supplier base -27%
+Logistic  supplier  complexity
+Consolidate logistic service provider base to 
+enforce standards and create value -9%Execution
+Producing tangible savings via stringent procurement processes
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 7Good progress made in driving 
+bottom -line impactCost Value Engineering framework 
+being implemented
+Savings of
+€0.4bn
+in FY231Purchase price changeMarket price
+effectsTarget cost 
+breakdownOverall target
+cost Cost Value EngineeringFinal product
+cost
+•Early supplier involvement
+•‘Should costing’
+•Design to cost
+•Concept competition
+•Technology workshops
+•Co-development & concept studies
+1 Savings from supply chain management organization across Gas Services, Grid Technologies and Transformation of Industry | 2 Cost Value Engineering Reduction measuresExecution
+Material cost productivity
+Digital products bringing tangible savings for our customers
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 8Optimized powerplant operations example
+Software defined, 
+AI-powered solutions
+Automation and 
+data analyticsCloud -based 
+digital productsDigitalization
+1 Average reduction due to optimized operation dispatch of SGT -800 turbines and reduction of 21 kg per MWhel•Thermodynamic model based on machine learning algorithms
+•Real time evaluation of actual power plant start -up conditions 
+and grid delivery plan
+•Prediction of fuel and electricity prices, demand, capacity, and 
+efficiency up to 2 weeks horizon enable up to 3% in fuel savings1
+
+Company -wide project launched to standardize and streamline 
+Siemens Energy’s ERP landscape
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 9Financial transparency based on 
+single data source
+Simplification and automation 
+of end -to-end processes  
+Optimized planning and transportation 
+enable the factory network
+~€0.3bn
+investment in harmonized 
+ERP systems 23 
+different legacy SAP systems used 
+at Siemens Energy post spin -offDigitalization
+Process modelling, automation and optimization
+to improve factory network performance
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 10Business process optimization
+Senior leaders (GPOs1) driving 
+harmonized, data -driven processes
+Smart factory network enabled by people, processes and digitalization
+Information Flow Material FlowProcess documentation2
+Decrease number of process 
+documentations in one tool -22%
+IT applications3
+Simplify existing application landscape 
+across the group -21%Digitalization
+1 GPOs: Global Process Owners | 2 Ongoing review of process documentation across the organization in joint effort with technical merge into a single process ho use for Siemens Energy |                 
+3 Programs launched at Siemens Energy and Siemens Gamesa to simplify and streamline applications, license costs and enterprise wide tool landscape~30
+Shopfloor 
+OperationsFactory 
+Digital Twin
+Manufacturing 
+Execution 
+System
+
+R&D allocation Innovation Centers
+New R&D allocation approach implemented 
+across former Gas and Power businessAll Innovation Centers inaugurated and 
+ramped -up with ongoing projects
+© Siemens Energy, 2023 | Vinod Philip | Global Functions 2023 -11-21~45%
+related to service1
+~30%
+invested in future technologies 
+and products>€1bn
+across the business areas 
+and future Fields of ActionDelivered on our CMD 2022 key targets
+11Innovation
+1 Share of R&D allocated to former Gas and Power business in FY23 >60%
+Investing into the future 
+while addressing customers' needs of todayInnovation
+2023 -11-21 © Siemens Energy, 2023 | Vinod Philip | Global Functions 12•Modification and upgrades
+of Gas Turbines
+•SF6-free switchgear
+•Enhanced IST1 platform•>50 vol-% H2 in LGT2
+•NextGen H2 compression
+•Multi -terminal DC grids•Inductive electric  heaters
+at MW -scale
+•Fuel cells for data centers
+•CO2 electrolyzersCurrent deployments Mid-term deployments Long -term developments
+1 Industrial Steam Turbines | 2 Large Gas Turbines
+Selected examples
+
+Strong focus placed on delivering synergies 
+during Siemens Gamesa integration
+Examples of largest measures:
+•Apply CVE1 more diligently to tower design
+•Optimized raw material hedging and freight pooling
+•Consolidated IT services20%
+Global
+Functions~10%
+FY23~40%
+FY24 -25~50%
+FY26 -27€0.3bn
+~40%
+Field services~30%
+Machined parts~45%
+Large steel 
+fabrication~45%
+Cabinets and low 
+voltage switchgear~45%
+Purchasing
+volume SE~€20bn
+Examples of measures:
+•Optimize sourcing and ordering 
+•One supplier capability matrix
+•Group -wide demand bundlingTop 4 direct commodities with joint purchasing volume 
+between SE and SG
+Overlap in purchasing volume (PVO) between Siemens Energy (€15bn) and Siemens Gamesa (€5bn)Siemens Gamesa synergies
+2023 -11-21 13 © Siemens Energy, 2023 | Vinod Philip | Global Functions~45% of joint purchasing 
+volume between SE and 
+Siemens Gamesa overlapSynergies allocated roughly equally to SE and SG
+1 Cost Value Engineering 
+14 2023 -11-21 14Priorities FY24
+•Financial Impact: Secure saving potentials and 
+accelerate  integration of Siemens Gamesa processes
+•Growth: Support business growth via central project excellence 
+and supply chain management
+•Transformation: Transform enterprise processes through 
+simplification, digitalization and harmonization
+•Innovation: Turn R&D portfolio in tangible customer solutions
+1 External R&D funding awarded, and proposals submitted for funding 
+© Siemens Energy, 2023 | Vinod Philip | Global Functions~€400m
+SCM savings 
+>€25m 
+IT cost savings~€100m 
+External funding1Key Achievements 
+FY23Sustained financial benefits will continue to be delivered 
+byGlobal FunctionsIn a nutshell
+Transformation
+Developing the products of tomorrow while 
+cutting down complexity across the groupDigitalization
+Digitizing our backbone and injecting 
+our products with smart algorithmsExecution 
+Enabling our business to face a fast and 
+increasingly complex environment
+Operating 
+platform deli -
+vering  value
+2023 -11-21 15Global
+Functions
+Gas
+Services
+Grid 
+Technologies
+Transformation 
+of Industry
+Siemens
+GamesaProject 
+ExecutionProcurement
+& LogisticsHealth
+& Safety
+Cybersecurity
+and ITSoftware
+Product 
+DevelopmentData, Analytics
+& AI
+ERP
+HarmonizationProcess
+Simplification & 
+HarmonizationResearch &
+Innovation
+© Siemens Energy, 2023 | Vinod Philip | Global FunctionsGlobal Functions organizational set -upBackup

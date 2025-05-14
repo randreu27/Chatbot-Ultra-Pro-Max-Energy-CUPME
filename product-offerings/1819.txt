@@ -1,0 +1,393 @@
+World Oil® / JANUARY 2021  39 
+Ensuring robust cyber defense  
+for endpoint energy assetsDIGITAL TRANSFORMATIONTwo industry-leading service 
+providers have partnered 
+to deliver a robust, AI-
+driven cybersecurity tool for 
+operations-critical equipment 
+and systems.
+ ŝ JARRED CAPELLMAN,  SparkCognition 
+and MATT STEWART,  Siemens Energy
+Companies across the hydrocarbon 
+supply chain recognize the growing threat 
+of sophisticated, malicious cyberattacks. 
+Many companies continue to struggle to 
+defend early-generation and remote oper -
+ating assets, such as older compressor sta -
+tions, which were engineered well before 
+the widespread adoption of digital indus -
+trial control systems. As a result, these as -
+sets are vulnerable to long-term exposure 
+to emerging cyber-risks, without the abil -
+ity to be patched easily or updated quickly 
+with the latest security defenses.
+Siemens Energy and SparkCognition 
+have collaborated to develop a new cy -
+bersecurity system, known as DeepArmor 
+Industrial. The system protects endpoint 
+oil and gas technology assets, including 
+human-machine interfaces (HMIs), by le -
+veraging artificial intelligence (AI) advanc -
+es to monitor and detect cyber threats, and 
+then deploy patches to ensure operational 
+technology (OT) assets continue running 
+safely and reliably in the field, Fig. 1.
+The authors analyze and discuss a vari -
+ety of real threats associated with increas -
+ingly sophisticated, malicious cyberattacks 
+on brownfield and greenfield assets. They 
+also discuss how the DeepArmor Indus -
+trial system can be implemented to protect 
+endpoint assets.
+Increasingly common cyber threats 
+prove costly and complicated.  Con -
+sider the following scenario. A pipeline 
+company’s chief information security of -
+ficer gets a phone call in the middle of the night. One of the company’s compressor 
+stations went down in a remote area in the 
+middle of the night, effectively stopping 
+natural gas transport in a thousand-mile-
+long pipeline. The problem's root cause is 
+not immediately evident, but it forces pro -
+ducers who use this pipeline to get their 
+product to market through other routes. 
+In addition, customers who rely on just-in-
+time delivery will have to scramble to find 
+other supply sources. And until the prob -
+lem can be pinpointed and isolated, the 
+pipeline company cannot guarantee that 
+other compressor stations will not suffer 
+the same fate. This scenario played out in 
+early 2020, when a ransomware attack put 
+a natural gas compression facility out of 
+commission for two days.
+Oil and gas companies across the sup -
+ply chain are recognizing cyberattacks as 
+a real and growing threat to their enter -
+prises. A 2017 study conducted by the 
+Ponemon Institute surveyed global oil and 
+gas companies about their preparedness 
+to respond to cyberattacks. The survey 
+results showed that 67% of respondents 
+believed the risk of cyber threats to indus -
+trial control systems had increased over 
+the past few years. This same study found 
+that 61% of respondents said their organi -
+zation’s industrial control systems protec -
+tion and security were not adequate. These 
+statistics point to the growing threat that 
+cyberattacks have on the energy indus -
+try, which increasingly hinder companies’ 
+physical safety and security, business op -
+erations, and other critical infrastructure. 
+Many energy companies with remote, 
+endpoint assets have struggled to defend 
+their environment, because they lack the 
+ability to quickly detect, or the agility to 
+mitigate, cyberattacks that threaten opera -
+tional technologies.
+Cyber threats to brownfield and 
+digitally native assets.  The widespread 
+adoption of digital technologies has helped 
+energy companies improve the safety, reli -
+ability and efficiency of their operations. 
+Increased connectivity of OT is widely re -garded as the key to these improvements. 
+At the same time, this connectivity has 
+expanded these operations’ exposure to 
+cyberattacks.
+While cyberattacks can successfully 
+strike both older, brownfield assets and 
+newer equipment installed with digital 
+technologies from the outset, these sys -
+tems are vulnerable for varied reasons. 
+Older compressor stations still rely on a 
+combination of analog equipment and 
+digital retrofits. Many of these facilities 
+are in remote locations along a pipeline, 
+meaning that they operate for extended 
+periods without direct human interaction 
+or involvement. This equipment may only 
+connect to networks when annual updates 
+are required or receive updates from tech -
+nicians when they visit the site. This isola -
+tion results in longer exposure to emerging 
+risks and increased maintenance expenses.
+For newer equipment, such as a smart 
+meter or digitally native compressor sta -
+tion, the OT is connected continuously 
+to information technology (IT) networks. 
+Through this connectivity, which is a criti -
+cal component of the industrial internet 
+of things (IoT), technicians can monitor 
+Fig. 1.  DeepArmor provides the 
+industry a unique solution for detecting 
+and protecting endpoint assets from 
+cyberattacks. (Image courtesy of Siemens 
+Energy).
+Originally  appeared in  World Oil® JANUARY 2021  issue, pgs 39-41. Posted with permission.
+40  JANUARY 2021  / WorldOil.com
+DIGITAL TRANSFORMATIONmetrics, diagnose problems, and make 
+software upgrades without having to visit 
+the site. However, the same connectivity 
+that enables such rapid updates and effi -
+cient operations management also increas -
+es exposure to cyberattacks. Attackers can 
+easily use the same network and tools to 
+introduce malware, Fig. 2.
+The critical need for patching.  Re-
+gardless of the equipment's age and digital 
+sophistication, operators cannot afford 
+to let their security measures fall behind, 
+as new attack methods and cyber threats 
+increasingly target energy infrastructure. 
+Software patches must be installed regu -
+larly to deal with new threats on remote 
+assets—a process that has proven techno -
+logically and economically challenging for 
+many companies.
+As a result, some companies have de -
+veloped a “can’t patch, won’t patch” men -
+tality regarding some of their assets. Sys -
+tems under the “can’t patch” category are 
+typically older machines that cannot be 
+patched because the original equipment 
+manufacturer (OEM) no longer provides 
+patches, such as Windows XP or Windows 
+7. The “won’t patch” mentality is linked 
+to the perceived criticality of a system or 
+piece of equipment. A system that is not 
+considered a critical part of the operation 
+may not get routine patching updates be -
+cause the potential threat is considered 
+low enough that the time and expense of 
+patching are not justified.
+Adhering to either of these ideas risks the asset’s safety, operability, profitability 
+and potential outages for the companies. 
+However, even the most robust patch -
+ing program may include intervals where 
+patches are not easily or quickly deployed 
+to isolated or intermittently connected 
+sites. This leaves systems vulnerable to 
+new threats before they are widely known.
+Novel endpoint monitoring and pro -
+tection.  These challenges have driven the 
+need for monitoring tools that increase 
+the chance of detecting an attack while it 
+is happening. Access to real-time data lets 
+operators identify and investigate anoma -
+lies. In addition, automated monitoring so -
+lutions provide constant tracking and vigi -
+lance to quickly recognize site conditions 
+or user behaviors that suggest a threat and 
+enable early interventions to minimize the 
+threat’s spread to other systems.
+Meeting these needs was the goal be -
+hind the development of DeepArmor 
+Industrial, powered by Siemens Energy, 
+which perpetually looks for cyber threats 
+for vulnerable endpoint OT assets—
+whether they are isolated in the field or 
+continuously connected. This constant 
+monitoring solution also deploys patches 
+to keep critical equipment safe until se -
+curity experts can update protocols in the 
+field.
+Unlike existing endpoint solutions, this 
+cybersecurity solution incorporates artifi -
+cial intelligence to provide a defense layer 
+independent of threat intelligence, thus 
+eliminating the need for threat signature updates or specialized analysts to secure 
+OT systems individually. The solution 
+uses behavioral analysis to continuously 
+monitor and detect new threats, resulting 
+in both a first line of defense and immedi -
+ate protection against previously identified  
+and zero-day attacks on endpoint devices.
+Such features provide robust cyberse -
+curity measures to prevent or mitigate at -
+tacks, even novel threats still unknown to 
+the industry, while reducing asset owners' 
+security costs. The system can be installed 
+early in the week, receive no updates all 
+week, and remain an effective defense at 
+the end of the week—even for new threats 
+that emerge in the days in between.
+The solution’s intelligent defense and 
+detection capabilities, customized design, 
+and site-specific deployment model deliv -
+er secure solutions. The AI-based defense 
+system uses a predictive approach to pre -
+vent ransomware, viruses, and other ad -
+vanced malware from executing. Data sci -
+ence models, which leverage unique threat 
+detection IP and methodology, are hosted 
+individually, and executed on-device to 
+help deliver high efficacy against zero-day 
+attacks.
+The monitoring system significantly re -
+duces false positives and the costs to update 
+physically distant assets. It vastly improves 
+cyber resiliency from the first day of instal -
+lation through pre-trained AI algorithms 
+that detect and protect against known and 
+unknown threats. It also helps prevent 
+industrial attacks in disconnected OT en -
+vironments, including industrial HMIs,  
+engineering workstations, engineering 
+notebooks, data stores, and historians.
+Because AI capabilities are built into 
+this monitoring solution, it does not re -
+quire patches and can support old versions 
+of Windows natively. This gives users the 
+IT technology of a next-generation, end -
+point protection product, installed into 
+an OT-architected product that runs on 
+everything from Windows 2000 to current 
+Windows releases such as Windows 10 
+and Server 2019.
+Deploying the system for a tailored 
+defense approach.  Because few sites in 
+the energy sector are homogenous, instal -
+lation of this cyber threat monitoring solu -
+tion is not a “one-size-fits-all” proposition. 
+The process begins with Siemens Energy’s 
+service team members gaining a deep un -
+derstanding of the unique organizational 
+and technical needs within the asset’s op -
+erational environment. This includes a Fig. 2.  The same connectivity that enables rapid updates and efficient operations 
+management also increases exposure to cyberattacks.
+
+World Oil® / JANUARY 2021  41 
+DIGITAL TRANSFORMATIONcareful review of the network architecture 
+to identify the most effective placement of 
+AI-driven, OT endpoint protection. The 
+service team helps owners evaluate their 
+assets and prioritize defense strategies 
+based on three risk criteria:
+• Connectivity, which affects the 
+magnitude of exposure to attack.
+• Operational importance, which 
+indicates the severity of impacts on 
+the business, if attacks disrupt the 
+normal function of the equipment 
+or system.
+• The maintenance schedule, which 
+indicates the length of intervals in 
+between defense updates, as well as 
+the difficulty or expense of updates.
+A customized deployment approach 
+is designed with these criteria in mind, to 
+ensure that the installed solution meets the 
+asset owner’s endpoint protection needs. 
+For example, consider two identical serv -
+ers purchased from the same manufacturer. 
+The first is installed at a remote site, where 
+it logs the activities of a pumping station. 
+The second is installed at a company’s flag -
+ship facility, supporting an HMI critical 
+to managing several parts of the plant. In 
+this example, tight restrictions, as regards 
+which applications one can execute on the 
+server, would help secure the remote site. 
+However, these same restrictions might 
+disrupt or curb critical workflows at the 
+flagship site.
+The service provider’s understanding 
+of the energy supply chain, coupled with 
+the monitoring system’s protection, gives 
+asset owners a clear picture of their risk 
+profile—both in terms of the identified 
+vulnerabilities at their sites and the opera -
+tional impact that an attack could have by 
+exploiting these vulnerabilities. This anal -
+ysis enables asset owners to prioritize high-
+risk, high-value targets and select defense 
+architecture and technology appropriate 
+to the site.
+Assured cybersecurity for long-term 
+asset optimization.  In today’s rapidly 
+changing and unpredictable energy sector, 
+the need for robust cybersecurity protec -
+tions is critical to asset owners’ reliable 
+operability and profitability. This new 
+monitoring system is proving itself to be 
+a differentiating solution for today’s cy -
+bersecurity environment, as attacks on the 
+energy sector increase in frequency and so -
+phistication, Fig. 3.  The AI-based solution 
+offers an unprecedented level of protection 
+to endpoint assets of varying application and age. The always vigilant, customizable 
+cybersecurity solution protects critical 
+assets from cyberattacks—whether inter -
+mittently connected in a remote operating 
+environment or continuously connected 
+to the network.
+The cognitive endpoint protection af -
+forded by this monitoring solution gives 
+the asset owner accurate, early-warning 
+failure prediction. By identifying and iso -
+lating cyber threats quickly, this monitor -
+ing solution prevents costly asset failures, 
+reducing unscheduled downtime while op -
+timizing asset performance. This solution 
+also provides detailed, actionable insights 
+that asset owners can use to safeguard their 
+assets from newer cyber threats.
+Consider the compressor station sce -
+nario presented earlier, but now with the 
+addition of DeepArmor Industrial at the 
+asset. This time, the chief information offi -
+cer gets an email in the middle of the night 
+from the company’s security operations 
+center. The monitoring system detected an 
+anomaly at one of the compressor stations. 
+The system immediately interrupted the 
+execution of the malicious code, prevented 
+the system from being wiped, and flagged 
+the incident for analysis.
+A technician realized that malware had 
+been inadvertently loaded onto the sys -
+tem during the previous update. The sys -
+tem was immediately reverted to an older 
+software patch, and the technician quickly 
+identified the malware that had infected the device. The technician notified his col -
+leagues of the newly identified malware 
+and shared the threat intelligence with the 
+industry. Future patches will be designed 
+to defend against this new threat.
+As such incidents become more com -
+mon, the innovative, AI-driven DeepAr -
+mor Industrial system is delivering next-
+generation antivirus, threat detection, 
+application control, and zero-day attack 
+prevention to endpoint assets across the 
+energy production, generation, transmis -
+sion, and distribution chain. For the first 
+time, asset owners have access to a system 
+that brings fleet-level cybersecurity moni -
+toring and protection capabilities—for 
+today’s cyberattacks and emerging, future 
+threats. 
+JARRED CAPELLMAN  is director of software 
+engineering at SparkCognition. He has spent 
+the last 15 years delivering scalable software 
+solutions across industries with a focus on 
+cybersecurity and leads the engineering team 
+delivering next-gen endpoint protection, 
+DeepArmor. Mr. Capellman holds a MS degree 
+in cybersecurity and is working toward a DSc 
+degree in cybersecurity, focusing on zero-day 
+network threats by combining his software 
+engineering, data science and cyber security 
+experience.
+MATT STEWART  has been an operational 
+technology controls and cybersecurity expert 
+for Siemens Energy for the past 11 years. Initially 
+part of the field service and remote support 
+team, Matt transitioned into the role of a control 
+systems expert before merging that knowledge 
+with his previous career in information 
+technology systems and security.Fig. 3.  The AI-driven software technology enables operators to defend isolated systems 
+against sophisticated cyberattacks.
+Article copyright © 2021 by Gulf Publishing Company. All rights reserved. 
+Not to be distributed in electronic or printed form, or posted on a website,  without express written permission of copyright holder .

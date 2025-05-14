@@ -1,0 +1,67 @@
+                                                                                                                                                                                                                                                                                            
+ 
+ 
+ DAR
+DEFINITION ALTERATION REQUEST
+SIEMENS ENER GY (SE)  
+ 
+REQUESTED BY  SECTION A    SUPPLIER INFORMATION    SECTION B  
+      SUPPLIER (VENDOR) CODE:    
+Supplier Reference No :      
+SUPPLIER NAME & ADDRESS:    
+        
+REQUEST DATE:      
+    PHONE:    
+REQUESTOR’S NAME:                     
+      E-MAIL ADDRESS:    
+PHONE:      
+         
+ SE SQ CONTACT:
+        EXTERNAL SUPPLIER OF SE DESIGNED PART(S)
+   SUPPLIER OF SUPPLIER DESIGNED  PART(S)
+ 
+Concession/ P P or any other Siemens document reference number : 
+ 
+ 
+   SECTION C  S
+E P/N                              SE DESIGN NUMBER
+(Drawing number)  ISSUE  P/N Description  
+                        
+ 
+REASON FOR ALTERATION (SELECT AT LEAST ONE)  
+ SECTION D  
+ RECURRING COST  REDUCTION (UNIT PRICE)  
+ NON -RECURRING COST REDUCTION  
+ ELIMINATE RECURRING CONCESSIONS  
+ CORRECT ERROR IN DEFINITION  
+ ADD ALTERNATIVE MATERIAL / PROCESS  
+ UPDATE ARRANGEMENT S 
+ UPDATE BUILD INSTRUCTIONS  
+  COMPONENT PROVING PROCESS  
+ FAULT  
+ IMPROVEMENT  
+ CHANGE IN REQUIREMENT  
+ SUPPLY  
+ OTHER;  QUALIFY:   
+ 
+ 
+ 
+BENEF ITS AND CONSEQUENCES IFNOT IMPLEMENTED (QUALIFY 
+SECTION E)  SECTION E  
+ 
+ 
+ 
+ACTION REQUESTED (DEFINE PROPOSED ALTERATIONS)  SECTION F  
+      
+DWG Ref.  
+Sheet / Loc.  ACTUAL     
+(dimension or feature)  REQUESTED (dimension or feature)  
+      
+   
+   
+   
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.Page 1 of 1 SE BUYER CONTACT:

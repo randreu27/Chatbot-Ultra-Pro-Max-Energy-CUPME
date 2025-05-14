@@ -1,0 +1,2089 @@
+Unrestrictedsiemens-energy.com
+SpecTRON 8
+Manual de instalação e operação
+Nº do documento: DOC0075
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 2 de 72
+Unrestricted
+Prefácio
+Obrigado por adquirir um produto SpecTRON 8 da Siemens Energy Subsea Connectors. As informações a
+seguir são uma visão geral das instruções de proteção, armazenamento, envio, desembalagem,
+implantação e manutenção dos produtos SpecTRON 8.
+A Siemens Subsea Connectors recomenda que a terminação e a instalação de todos os equipamentos sejam
+realizadas somente por pessoal adequadamente treinado e qualificado.
+Resumo de revisões
+Esta página registra o status de revisão de todo o documento e sua autorização para emissão. Quando uma
+página ou páginas do documento são revisadas, o número da página ou páginas afetadas será inserido na
+coluna Páginas Afetadas/Observações, e uma linha de margem vertical marcará o último texto alterado.
+Rev. Compilado
+porAprovado por Data de
+emissãoPáginas afetadas/Observações
+Consulte o histórico de revisão do TeamCenter para obter o histórico da revisão anterior
+14 C. Plant N. Williamson 20/12/2021 Atualizado para o modelo Siemens Energy e layout focado
+em segurança do produto
+Conteúdo alinhado com SpecTRON 10, 10+ e 45 IoM para
+consistência
+Adição de informações de gerenciamento/roteamento de
+mangueira
+Adição de instruções de limpeza/secagem (Seção 8.1)
+15 C. Plant N. Williamson 24/03/2022 Adicione as classificações de tensão aos dados do cabo
+(Seção 4.4)
+16 R. Duffy N. Williamson 28/10/2022 Seção 1.1: atualizada para refletir a mudança para a
+norma IEC. Seção 6.3: correção da referência às
+instruções de limpeza do conector (seção 8.1). Seção 6.4:
+atualizada para esclarecer e corrigir as orientações de
+manuseio da mangueira. Nova seção criada para
+gerenciamento de cabos MUTU (Seção 6.5).
+Seção 6.4.2: referência ao comprimento do jumper
+alterado de 15 m para 30 m
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 3 de 72
+Unrestricted
+Índice
+1 ESCOPO DO PRODUTO ................................................................................................ 7
+1.1 Certificação do produto ...................................................................................... 7
+1.2 Informações de contato ...................................................................................... 7
+1.3 Rótulo de recomendações do produto ............................................................... 8
+1.4 Marcação do produto ......................................................................................... 9
+1.5 Etiqueta/Marcação CE ...................................................................................... 10
+2 SEGURANÇA DO PRODUTO ....................................................................................... 11
+2.1 Advertências relacionadas à ação .................................................................... 11
+2.2 Uso previsto ...................................................................................................... 11
+2.3 Informações gerais de segurança ..................................................................... 12
+2.4 Documentos relacionados ................................................................................ 15
+3 ABREVIAÇÕES ............................................................................................................ 17
+4 ESPECIFICAÇÕES E RISCOS RESIDUAIS ....................................................................... 19
+4.1 Especificações gerais do conector .................................................................... 19
+4.2 Capacidade de desalinhamento dos conectores de estocada de encaixe úmido
+20
+4.3 Especificações das mangueiras ......................................................................... 21
+4.4 Especificações do cabo ..................................................................................... 21
+4.5 Outras especificações ....................................................................................... 22
+4.6 Meio ambiente, descarte e reciclagem............................................................. 24
+4.7 Equipamento de proteção individual (EPI) ....................................................... 24
+5 PREPARAÇÃO DO PRODUTO PARA USO ................................................................... 25
+5.1 Precauções de segurança antes da instalação .................................................. 25
+5.2 Desembalagem ................................................................................................. 27
+5.3 Descarte seguro da embalagem ....................................................................... 31
+5.4 Elevação ............................................................................................................ 31
+5.5 Instalação e montagem .................................................................................... 34
+5.6 Armazenamento e proteção ............................................................................. 35
+5.7 Reembalagem para evitar danos no transporte ............................................... 37
+6 OPERAÇÃO DO PRODUTO ......................................................................................... 38
+6.1 Energização do par de encaixe úmido .............................................................. 38
+6.2 Implantação ...................................................................................................... 38
+6.3 Recuperação ..................................................................................................... 38
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 4 de 72
+Unrestricted
+6.4 Gerenciamento e roteamento de mangueiras ................................................. 39
+6.5 Gerenciamento de cabos MUTU ....................................................................... 44
+6.6 Manipulador ROV ............................................................................................. 45
+6.7 Conexão do par de encaixe úmido ROV em ambiente submarino ................... 47
+6.8 Desconexão do par de encaixe úmido ROV em ambiente marinho ................. 51
+6.9 Conexão manual do par de encaixe úmido do ROV/borda do navio ................ 54
+6.10 Desconexão manual do par de encaixe úmido do ROV/borda do navio .......... 56
+6.11 Conectores de teste .......................................................................................... 57
+6.12 Testes ................................................................................................................ 61
+6.13 Referências rápidas .......................................................................................... 62
+6.14 Descarte de resíduos do produto ..................................................................... 62
+7 INFORMAÇÕES DO USUÁRIO .................................................................................... 63
+7.1 Operação normal e defeituosa/perigosa .......................................................... 63
+7.2 Proteção Catódica ............................................................................................. 63
+7.3 Resolução de problemas (FAQs) ....................................................................... 64
+8 MANUTENÇÃO DO PRODUTO ................................................................................... 65
+8.1 Limpeza e secagem do conector ....................................................................... 65
+8.2 Manutenção do produto (pessoal qualificado) ................................................ 68
+9 COMENTÁRIOS/FEEDBACK DO CLIENTE .................................................................... 71
+Tabelas
+Tabela 1 - Normas aplicáveis ao produto SpecTRON 8 ....................................................................... 7
+Tabela 2 - Informações de contato ..................................................................................................... 7
+Tabela 3 - Especificações gerais dos conectores SpecTRON 8 ........................................................... 19
+Tabela 4 – Capacidade de desalinhamento do conector de estocada SpecTRON 8 .......................... 20
+Tabela 5 - Especificações da mangueira SpecTRON 8 ....................................................................... 21
+Tabela 6 - Especificações do cabo SpecTRON 8 (4 - 16 mm²) ............................................................ 22
+Tabela 7 - Especificações do cabo SpecTRON 8 (35 mm²) ................................................................. 22
+Tabela 8 - Informações de contato para resolução de problemas do produto ................................. 64
+Ilustrações
+Figura 1 - Rótulo de recomendações do produto ............................................................................... 9
+Figura 2 - Exemplo de gravação para produtos SpecTRON 8 .............................................................. 9
+Figura 3 - Exemplo de marcação do chicote de cabos ....................................................................... 10
+Figura 4 - Corrente nominal do SpecTRON 8..................................................................................... 20
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 5 de 72
+Unrestricted
+Figura 5 - Embalagem típica de chicote de cabos SpecTRON 8 ......................................................... 25
+Figura 6 - Embalagem de plástico de polietileno opcional ................................................................ 26
+Figura 7 - Tampa do plugue ROV ...................................................................................................... 28
+Figura 8 - Tampa da tomada ROV ..................................................................................................... 28
+Figura 9 - Penetrador tipo tree cap /Remoção de plugue da tampa com chave ............................... 29
+Figura 10 - Penetrador tipo tree cap/Remoção da tampa protetora do plugue................................ 30
+Figura 11 - Penetrador tipo tree cap/Remoção da luva de plugue bipartida .................................... 30
+Figura 12 - Tomada ROV - Penetrador - Jumper do plugue tipo Tree Cap ......................................... 31
+Figura 13 - Posição de elevação recomendada - Tomada ROV.......................................................... 32
+Figura 14 - Posições recomendadas para elevação - Plugue ROV (sem/com mecanismo de
+travamento) 33
+Figura 15 - Posições de elevação recomendadas - Penetrador /Plugue tipo Tree Cap (Versão 1) ..... 33
+Figura 16 - Posições de elevação recomendadas - Penetrador /Plugue tipo Tree Cap (Versão 2) ..... 34
+Figura 17 - Posições de elevação recomendadas - Penetrador duplo ............................................... 34
+Figura 18 - Mangueiras AquaTRON (esquerda) e Gorilla (direita) no raio de dobra mínimo............. 40
+Figura 19 - Mangueiras AquaTRON (laranja) e Gorilla (amarela) dobradas incorretamente............. 40
+Figura 20 - Formador de placa .......................................................................................................... 40
+Figura 21 - Formador em "U" ........................................................................................................... 41
+Figura 22 - Formador em "L" ............................................................................................................ 41
+Figura 23 - Formador em "U" ........................................................................................................... 41
+Figura 24 - Formador fixado temporariamente (por exemplo, para SIT - Teste no local de instalação
+- de borda de navio) ......................................................................................................................... 42
+Figura 25 - Formador em "L" ............................................................................................................ 42
+Figura 26 - Suporte de mangueira fabricado com formador ............................................................. 43
+Figura 27 - Possível fixação da mangueira em conector flexível ....................................................... 44
+Figura 28 - Comprimento necessário do cabo reto e posição da braçadeira do MUTU ..................... 44
+Figura 29 - Manipulador ROV de garras paralelas recomendado para a alça de barra em T ............. 45
+Figura 30 - Manuseio do conector ROV (com e sem mecanismo de travamento)............................. 45
+Figura 31 - Manipulador ROV de garra recomendado para a alça tipo rabo de peixe....................... 46
+Figura 32 - Manuseio do conector ROV ............................................................................................ 46
+Figura 33 - Indicadores visuais de alinhamento no plugue e na tomada (conectores revestidos) .... 47
+Figura 34 - Chaveta física de alinhamento relativo ao indicador visual (conectores não revestidos)
+48
+Figura 35 - Empurrão final com a garra aberta ................................................................................. 48
+Figura 36 - Indicadores de alinhamento (conectores com mecanismo de travamento).................... 49
+Figura 37 - Verificação de encaixe - Totalmente encaixado. (OBSERVAÇÃO: Pequena folga entre os
+flanges) 49
+Figura 38 - Verificação de encaixe - Mecanismo de travamento engatado. ...................................... 50
+Figura 39 - Mecanismo de travamento desengatado ....................................................................... 52
+Figura 40 - Encaixe usando a alça do ROV ........................................................................................ 55
+Figura 41 - Verificar se os conectores estão encaixados ................................................................... 55
+Figura 42 - Pontos de conexão do chicote de cabos para teste......................................................... 58
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 6 de 72
+Unrestricted
+Figura 43 - Indicadores de alinhamento (conectores de teste para borda de navio) ........................ 59
+Figura 44 - Tomada de teste SpecTRON 8 com colar, prisioneiro e porcas ....................................... 59
+Figura 45 - Componentes da tomada para secagem e limpeza ......................................................... 66
+Figura 46 - Ponta do pino da tomada ............................................................................................... 66
+Figura 47  - Área de contato do pino da tomada conforme fornecido .............................................. 66
+Figura 48 - Locais de lavagem pressurizada do plugue SpecTRON 8 ................................................. 68
+Figura 49 - Locais de lavagem pressurizada da tomada SpecTRON 8 ................................................ 69
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 7 de 72
+Unrestricted
+1 ESCOPO DO PRODUTO
+Este manual inclui informações sobre os seguintes tipos de conectores SpecTRON 8:
+-Plugue de encaixe úmido SpecTRON 8 ROV
+-Tomada de encaixe úmido SpecTRON 8 ROV
+-Plugue de encaixe úmido SpecTRON 8 Stab
+-Tomada de encaixe úmido SpecTRON 8 Stab
+-Penetrador SpecTRON 8
+-Penetrador duplo SpecTRON 8
+-Condutor único SpecTRON 8
+oPenetrador e plugue Tree Cap
+oTomada do suporte da tubulação
+-Condutor duplo SpecTRON 8
+oPenetrador e plugue Tree Cap
+oTomada do suporte da tubulação
+-Conectores cegos SpecTRON 8 ROV
+-Tomada estacionária SpecTRON 8 ROV
+1.1 Certificação do produto
+Padrão Descrição
+IEC/IEEE 61886-1 Equipamento submarino - Parte 1: Conectores de energia, penetradores e
+conjuntos de jumpers com tensão nominal de 3 kV (U máx. = 3,6 kV) a 30 kV (U máx.=
+36 kV)
+Observação: Para obter mais informações, consulte "ERP para Conformidade do SpecTRON 8 com IEC/IEEE
+61886-1" (documento Siemens Energy 10154569) e "Boletim do Produto para Implementação do SpecTRON
+IEC 61886-1" (documento Siemens Energy 10225662).
+Tabela 1 - Normas aplicáveis ao produto SpecTRON 8
+1.2 Informações de contato
+Para mais informações ou dúvidas sobre os produtos, acesse o site da Siemens Energy www.siemens-
+energy.com/subsea ou entre em contato com o seguinte:
+Departamento E-mail
+Diretor de Segurança de Produtos subsea.connectors.productsafety.gb@siemens-energy.com
+Suporte Técnico connectortechnicalsupport.gb@siemens-energy.com
+Manutenção (equipe do local) susultlcmsupport.gb@siemens-energy.com
+Vendas connectorsales.gb@siemens-energy.com
+Tabela 2 - Informações de contato
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 8 de 72
+Unrestricted
+1.3 Rótulo de recomendações do produto
+O rótulo de recomendações do produto a seguir é fornecido com todos os produtos da Siemens Energy
+Subsea.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 9 de 72
+Unrestricted
+Figura 1 - Rótulo de recomendações do produto
+1.4 Marcação do produto
+1.4.1 Conectores e penetradores
+Figura 2 - Exemplo de gravação para produtos SpecTRON 8
+Os conectores e penetradores Siemens Energy Subsea SpecTRON 8 são marcados a laser no corpo da gaxeta
+com o número da peça, o número de série exclusivo e as informações de classificação do produto da Siemens
+Energy Subsea. Além disso, as extremidades frontais dos conectores também são marcadas com seu número
+de peça e número de série exclusivo para auxiliar na rastreabilidade durante a fabricação.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 10 de 72
+Unrestricted
+1.4.2 Chicotes de cabos
+Os chicotes de cabos também são marcados com o número de peça e o número de série exclusivo da Siemens
+Energy Subsea, conforme mostrado na Figura 3. Geralmente, informações específicas do cliente e do projeto
+também são adicionadas a essas etiquetas. As etiquetas são normalmente textos em preto com fundo
+amarelo embaixo do tubo termorretrátil translúcido. Geralmente, as etiquetas ficam localizadas em cada
+extremidade do chicote de cabos e na parte central.
+Figura 3 - Exemplo de marcação do chicote de cabos
+1.5 Etiqueta/Marcação CE
+O SpecTRON 8 está isento de todos os requisitos atuais para a marcação CE. A Siemens Energy continua a
+monitorar os requisitos europeus e internacionais de aplicabilidade à linha de produtos SpecTRON 8.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 11 de 72
+Unrestricted
+2 SEGURANÇA DO PRODUTO
+A Siemens Energy Subsea recomenda que a terminação de todos os equipamentos seja realizada somente
+por pessoal treinado, devidamente qualificado e experiente (SQEP), ou seja, pessoa competente.
+2.1 Advertências relacionadas à ação
+Classificação de advertências relacionadas à ação
+As advertências relacionadas à ação são classificadas de acordo com a gravidade do possível perigo,
+utilizando os seguintes avisos e palavras de sinalização:
+Símbolos de advertência e termos de sinalização
+Perigo!
+Perigo iminente à vida ou risco de ferimentos pessoais graves
+Perigo!
+Risco de morte por choque elétrico
+Advertência.
+Risco de lesões pessoais leves
+Cuidado.
+Risco de danos materiais ou ambientais
+2.2 Uso previsto
+Após a instalação, comissionamento e implantação do produto, preencha e devolva o formulário de
+Comentários/Feedback do Cliente (Seção 9). Envie por e-mail o formulário preenchido ao Diretor de
+Segurança de Produto em subsea.connectors.productsafety.gb@siemens-energy.com .
+Há risco de lesão ou morte do usuário ou terceiros, ou de danos ao produto e a outras propriedades no caso
+de uso inadequado ou para o qual não se destina.
+O produto é destinado a ser um conector elétrico submarino de alta tensão, para uso apenas por pessoal
+adequadamente treinado em aplicações industriais.
+O uso pretendido inclui o seguinte:
+-observância das instruções de instalação e operação incluídas para o produto e todos os outros
+componentes do sistema.
+-conformidade com todas as condições de inspeção e manutenção listadas nas instruções.
+-Uso de todas as ferramentas recomendadas e apropriadas para tarefas específicas.
+-Todas as atividades devem ser realizadas por uma pessoa competente (consulte 2.3.1 para obter a
+definição).
+Qualquer outro uso não especificado neste documento nem indicado nas instruções de instalação e
+operação, ou além do especificado neste documento, deve ser considerado uso inadequado.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 12 de 72
+Unrestricted
+2.3 Informações gerais de segurança
+2.3.1 Instalação realizada apenas por pessoas competentes
+A instalação, inspeção, manutenção e reparo do produto devem ser realizados por pessoal treinado,
+devidamente qualificado e experiente (SQEP), ou seja, pessoa competente, para realizar uma atividade
+específica. A instalação, inspeção, manutenção e reparo de produtos por pessoas não treinadas e
+consideradas não competentes podem invalidar a garantia do produto.
+Para obter mais informações, entre em contato com a Assistência Técnica (equipe do local)
+susultlcmsupport.gb@siemens-energy.com .
+2.3.2 Perigo causado por operação inadequada e mau uso previsível
+A operação inadequada e o mau uso previsível podem representar perigo para você e para terceiros, além
+de causar danos materiais. Leia atentamente as instruções anexas e todos os outros documentos aplicáveis,
+especialmente a seção "Segurança" e as advertências.
+Perigo!  Risco de morte por choque elétrico se o usuário desmontar/remontar/reterminar
+incorretamente o produto (mau uso previsível).
+-Atividades de manutenção, desmontagem, remontagem e terminação devem ser realizadas
+apenas por uma pessoa competente.
+Perigo!  Risco de morte por choque elétrico se os pinos de catraca forem pressionados, por
+exemplo, com uma chave de fenda quando o plugue estiver energizado.
+-As atividades de manutenção e teste só podem ser realizadas por uma pessoa competente.
+-Sempre devem ser usadas as ferramentas corretas.
+Perigo! Risco de perigo iminente à vida e de lesões graves causadas por um projétil de pino catraca
+devido a danos causados aos pinos; por exemplo, por uma chave de fenda (mau uso previsível).
+-As atividades de manutenção e teste só podem ser realizadas por uma pessoa competente.
+-Sempre devem ser usadas as ferramentas corretas.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 13 de 72
+Unrestricted
+2.3.3 Risco de morte devido a eletrocussão
+Perigo! Risco de morte por choque elétrico devido a pinos energizados expostos, por exemplo:
+teste de fábrica ou de sistema em navio e tomada não encaixada estando energizada, por
+exemplo, por mergulhador em ambiente submarino.
+-Assegure que todos os procedimentos de teste sejam seguidos.
+-As tomadas precisam ser acopladas a um encaixe úmido ou plugue de teste antes da
+energização
+-Os canais e protocolos de comunicação são observados.
+Perigo! Risco de morte por choque elétrico originado de qualquer condutor exposto devido a
+energia elétrica armazenada, por exemplo, capacitância do cabo ou em outro lugar no sistema.
+-Assegure que todos os procedimentos sejam seguidos.
+-Aguarde tempo suficiente para descarregar os itens após o teste
+Perigo! Risco de morte por choque elétrico dos conectores de teste. As peças energizadas podem
+ser expostas por desmontagem sem ferramenta (por exemplo, as luvas de terminação são
+acessíveis e podem ser removidas). Além disso, também pode ocorrer com condutores de cabos
+expostos na extremidade livre dos conectores de teste e cabos não blindados em algumas
+terminações.
+-Assegure que todos os procedimentos de teste sejam seguidos.
+-As tomadas precisam ser acopladas a um encaixe úmido ou plugue de teste antes da
+energização
+-Os canais e protocolos de comunicação precisam ser observados.
+Perigo! Risco de morte por choque elétrico se o produto tiver terminação incorreta feita por
+terceiros, por exemplo, um condutor solto tocando um corpo de metal, ou fio energizado
+terminado de maneira errada no corpo de metal.
+-As atividades de instalação/terminação precisam ser realizadas por uma pessoa competente
+Perigo! Risco de morte por choque elétrico devido ao corpo metálico do conector não ser aterrado
+durante o teste e o conector ter falha de aterramento (por exemplo, condutor tocando em metal)
+durante o teste elétrico.
+-Assegure que todos os testes de produtos em fábrica e em campo tenham sido concluídos por
+pessoas competentes.
+Perigo! Risco de morte por choque elétrico ou lesões pessoais graves por queimadura de
+condutores energizados desencaixados manualmente.
+-Certifique-se de que todos os procedimentos sejam seguidos para encaixe/desencaixe de
+conectores.
+2.3.4 Risco de lesões e danos materiais devido a manutenção e reparos realizados
+incorretamente ou não realizados
+Trabalhos de manutenção ou reparos nos produtos devem ser realizados apenas por uma pessoa
+competente. Falhas e danos devem ser imediatamente corrigidos por uma pessoa competente. Respeite os
+intervalos de manutenção especificados.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 14 de 72
+Unrestricted
+Perigo! Risco de perigo iminente à vida, risco de lesões pessoais graves por queimadura e danos
+materiais devido ao aquecimento ôhmico em condição de curto-circuito ou sobrecorrentes altas.
+-Assegure que todos os testes de produtos em fábrica e em campo tenham sido concluídos por
+pessoas competentes.
+Perigo! Perigo iminente à vida e lesões pessoais graves causadas por pressão liberada e/ou projétil
+devido a produto de retenção de pressão instalado incorretamente, como durante o teste de
+pressão do sistema (por exemplo, penetrador SpecTRON 8 equipado com parafusos ou vedações
+incorretos/insuficientes).
+-Assegure que todas as atividades de montagem e teste de produtos sejam realizadas por
+pessoas competentes.
+Perigo! Risco de perigo iminente à vida, risco de lesões pessoais graves a pessoas com marca-
+passos ou cardioversores/desfibriladores implantáveis (ICDS) devido a interferência
+eletromagnética (EMI), por exemplo, teste de alta frequência com correntes de carga grandes.
+-Assegure que os testes de produtos, tanto na fábrica quanto na borda do navio, não sejam
+conduzidos por ou na presença de pessoas com marca-passos ou ICDS.
+Perigo! Risco de lesões graves nos olhos devido a esguicho de óleo pressurizado da mangueira
+danificada ou remoção do parafuso de abastecimento/ventilação.
+Assegure que todos os testes de produtos em fábrica e em campo tenham sido concluídos por
+pessoas competentes.
+Advertência. Risco de lesões corporais/nos olhos causadas pela pressão liberada durante a
+desmontagem do produto em caso de recuperação submarina com uma falha que deixe a pressão
+de profundidade presa dentro do produto.
+-Assegure que todas as atividades de desmontagem do produto sejam realizadas por pessoas
+competentes, de acordo com os procedimentos adequados e usando o equipamento de
+proteção individual (EPI) apropriado.
+Advertência. Risco de lesão corporal causada pela retenção de pressão de peças que se tornam
+projéteis devido à sobrepressurização do sistema pelo usuário, por exemplo, durante o Teste de
+Instalação do Local (SIT).
+-Assegure que todas as atividades de SIT do produto sejam realizadas por pessoas
+competentes, de acordo com os procedimentos adequados.
+-Todos os testes de pressão do produto SpecTRON 8 precisam ser realizados por uma pessoa
+competente.
+-A instalação de penetradores SpecTRON 8 e conectores de anteparo precisa ser realizada por
+uma pessoa competente.
+2.3.5 Risco de lesões e danos materiais devido ao manuseio
+Sabe-se que o manuseio, levantamento e transporte manual são os fatores que mais contribuem para a má
+saúde ocupacional. Sempre que possível, garanta o uso de auxílios mecânicos de manejo para evitar a
+movimentação manual. As normas de elevação segura precisam ser seguidas quando o manuseio for
+considerado apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a elevação em equipe,
+empregar técnica de elevação segura etc. Somente pessoas competentes têm permissão para realizar tarefas
+sem supervisão; em caso de dúvida, pergunte.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 15 de 72
+Unrestricted
+Advertência. Risco de lesões musculoesqueléticas causadas pelo encaixe manual de conectores
+com alta força de encaixe/desencaixe e/ou conectores que são ejetados rapidamente durante o
+desencaixe devido à alta força da mola da catraca, por exemplo, testes de fábrica/borda de navio.
+-Assegure que todas as atividades de teste de produtos sejam realizadas por pessoas
+competentes, de acordo com os procedimentos adequados.
+-Sempre que possível, garanta o uso de auxílios mecânicos de manejo para evitar a
+movimentação manual.
+-As diretrizes de elevação precisam ser seguidas quando o manuseio for considerado
+apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a elevação em equipe,
+empregar técnica de elevação segura etc.
+Advertência. Risco de lesões musculoesqueléticas causadas pelo manuseio de produtos pesados.
+-Sempre que possível, garanta o uso de auxílios mecânicos de manejo para evitar a
+movimentação manual.
+-As diretrizes de elevação precisam ser seguidas quando o manuseio for considerado
+apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a elevação em equipe,
+empregar técnica de elevação segura etc.
+-Somente pessoas competentes têm permissão para realizar tarefas sem supervisão; se tiver
+dúvidas, pergunte.
+Advertência. Risco de lesões corporais devido à queda de produtos pesados durante a elevação
+com maquinário.
+-Certifique-se de que as máquinas/eslingas usadas tenham sido testadas e estejam dentro de
+sua data de validade.
+-Devem ser seguidas as diretrizes de elevação segura, como o plano de elevação, sinalizador
+etc.
+-Os pontos de elevação corretos precisam ser identificados e usados.
+-Somente pessoas competentes têm permissão para realizar tarefas sem supervisão; se tiver
+dúvidas, pergunte.
+Advertência. Risco de lesões leves a pessoas com sensibilidade a óleos minerais, de silicone ou
+sintéticos à base de éster.
+-Use proteção adequada para as mãos ao manusear produtos e óleos minerais, de silicone ou
+sintéticos à base de éster.
+Advertência. Risco de lesões leves e danos materiais devido a escorregões, tropeços e quedas.
+-Uma boa organização evita tropeços, quedas e escorregões; mantenha todas as áreas de
+trabalho limpas e arrumadas.
+2.4 Documentos relacionados
+Os instaladores devem realizar uma avaliação de risco completa do local e colocar em prática todas as etapas
+e procedimentos necessários para cumprir a legislação de segurança e saúde aplicável na área, regional,
+nacional ou internacional, como a Lei de Saúde e Segurança no Trabalho (HASAWA) do Reino Unido, e
+garantir a própria segurança e a de terceiros quanto aos requisitos de manuseio e trabalho em altura.
+Durante a instalação do produto (e qualquer trabalho subsequente) será necessário ter cuidado. Todos os
+instaladores e operadores envolvidos desde o descarregamento do produto até sua instalação final precisam
+exercer o dever de cuidar da própria segurança e da de terceiros. Ao elevar e manusear este produto, os
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 16 de 72
+Unrestricted
+operadores devem utilizar assistência, se necessário. Em determinadas situações, pode ser necessário usar
+auxílios mecânicos de manuseio. Tome cuidado para evitar riscos de tropeços, superfícies escorregadias ou
+molhadas.
+Os empregadores e instaladores devem consultar o site do Health and Safety Executive (HSE) do Reino Unido
+para obter orientações completas e a ferramenta de gráficos de avaliação de manuseio (MAC).
+Além disso, quando não houver instruções específicas, devem ser consultadas, entre outras, quando
+aplicável, as normas e códigos de prática britânicos, tais como:
+-A Lei de Saúde e Segurança no Trabalho.
+-Controle de substâncias perigosas à saúde - COSHH.
+-Requisitos da BS 7671 para instalações elétricas. Regulamentações de fiação da IEE.
+-Regulamentos de eletricidade no trabalho.
+É responsabilidade do operador e dos instaladores cumprir a legislação atual de saúde e segurança da
+Empresa, da área, regional, nacional ou internacional.
+Após a instalação, comissionamento e implantação do produto, preencha e devolva o formulário de
+Comentários/Feedback do Cliente (Seção 9). Envie por e-mail o formulário preenchido ao Diretor de
+Segurança de Produto em subsea.connectors.productsafety.gb@siemens-energy.com .
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 17 de 72
+Unrestricted
+3 ABREVIAÇÕES
+A Ampere
+CA Corrente alternada
+Mont Montagem
+API American Petroleum Institute
+AWG Escala americana de bitolas de fios
+BOM Lista de materiais
+°C Grau Celsius
+CE Comunidade Europeia
+Comms Sinal de comunicação
+COSHH Controle de substâncias perigosas à saúde
+CP Proteção catódica
+CC Corrente contínua
+DWG Desenho
+EFL Cabos de interconexão elétrica
+EMF Campo eletromagnético
+EMI Interferência eletromagnética
+FAT Teste de aceitação de fábrica
+IR Resistência do isolamento
+ICDS Cardioversores-Desfibriladores implantáveis
+ISO Organização Internacional para Padronização
+ITP Plano de Teste de Inspeção
+IWIS Padronização da Interface Inteligente do Poço
+K Kelvin
+LTC Tampa de longo prazo
+M Metros
+Máx. Máximo
+MFG Fabricante
+Mín. Mínimo
+NACE National Association of Corrosion Engineers
+Nº Número
+EPI Equipamento de proteção individual
+ROV Veículo remotamente operado
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 18 de 72
+Unrestricted
+SI Padrão Internacional
+SIT Teste no local de instalação
+SRT Teste no local de recebimento
+SST Aço inoxidável
+TBD A ser definido
+TSP Par trançado blindado
+UNS Sistema Unificado de Numeração para Metais e Ligas
+V Volt
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 19 de 72
+Unrestricted
+4 ESPECIFICAÇÕES E RISCOS RESIDUAIS
+A seguir, apresentamos as especificações típicas dos conectores SpecTRON 8 com cabos de jumper oferecidos
+pela Siemens Energy, que são diferentes para conectores terminados em núcleos de energia umbilical ou
+rabichos internos e em outras situações. Para obter informações específicas sobre o conector, consulte as
+folhas de dados específicas do produto. Estão disponíveis no site da Siemens Subsea www.siemens-
+energy.com/subsea ou no Suporte Técnico da Siemens Subsea
+Connectors connectortechnicalsupport.gb@siemens-energy.com .
+4.1 Especificações gerais do conector
+Valor Unidade
+Vida útil projetada 30 anos
+Número de vias/fases 3 -
+Profundidade máxima da água 3000 m
+Pressão diferencial máxima (penetrador) 345 bar
+Pressão diferencial máxima (tomada de anteparo) 15 bar
+Temperatura de operação -5 a 20 °C
+Temperatura de armazenamento -30 a 60 °C
+Número de encaixes (par de encaixe úmido) 100 -
+Tensão nominal 5/8,7(10) kV
+Corrente nominal Consulte o
+gráfico-
+Frequência nominal 5 – 200 Hz
+Tabela 3 - Especificações gerais dos conectores SpecTRON 8
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 20 de 72
+Unrestricted
+Figura 4 - Corrente nominal do SpecTRON 8
+4.2 Capacidade de desalinhamento dos conectores de estocada de encaixe úmido
+A tabela abaixo resume as capacidades máximas de desalinhamento dos conectores de estocada de encaixe
+úmido SpecTRON 8. Para obter detalhes completos, consulte os desenhos da Siemens Energy T33259. Para
+saber mais sobre as capacidades de desalinhamento dos conectores de encaixe úmido ROV, plugues tipo
+tree-cap e conectores de suporte de tubulação, entre em contato com o Suporte Técnico da Siemens Energy
+Subsea Connectors connectortechnicalsupport.gb@siemens-energy.com .
+Encaixe de
+estocadaUnidade
+Desalinhamento angular máximo (não radial ou rotacional) 2 °
+Desalinhamento radial máximo (não angular ou rotacional) 3 mm
+Desalinhamento rotacional máximo (não radial ou angular) 3 °
+Subcurso/Sobrecurso (independente de outros desalinhamentos) ± 1,5 mm
+Tabela 4 – Capacidade de desalinhamento do conector de estocada SpecTRON 8
+Frequência (Hz)
+Corrente nominal (A)
+0 °C Água do mar ambiente
+10 °C Água do mar
+ambiente
+20 °C Água do mar
+ambiente
+30 °C Água do mar
+ambiente
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 21 de 72
+Unrestricted
+4.3 Especificações das mangueiras
+AquaTRON 200 Gorilla AquaTRON 50 Unidade
+Diâmetro externo 64,6 +4 / -2,8 51,8 25,2 ± 0,6 mm mm
+Raio mínimo de curvatura 375 250 125 mm
+Faixa de temperatura de
+armazenamento-40 a +70 -25 a + 70 -40 a +70 °C
+Temperatura mín. de manipulação -25 -25 -25 °C
+Carga máxima de ruptura 5 2,5 5 kN
+Peso no ar 4,8 3,2 0,66 kg/m
+Peso na água 1,45 1 0,14 kg/m
+Comprimento máximo sem acoplador 45 N/A 80 m
+Peso do acoplador da mangueira no
+ar3,8 N/A 0,87 kg
+Peso do acoplador da mangueira na
+água3,2 N/A 0,69 kg
+Tabela 5 - Especificações da mangueira SpecTRON 8
+4.4 Especificações do cabo
+4 mm²
+(Retorno do sinal)16 mm²
+(Siwokul)16 mm²
+(S1U10510150)Unidad
+e
+Tensão nominal (U o/U(U m)) 013,6/6(7,2) 3,6/6(7,2) kVca
+Tensão de teste CA máxima para o terra 019 9 kVca
+Tensão de teste CC máxima para o terra 015 5 kVcc
+Diâmetro externo 8,95 ± 0,2 11,25 ± 0,3 10,9 ±0,4 mm
+Tela CSA N/A N/A N/A mm²
+Raio mínimo de curvatura 55 61,8 75 mm
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 22 de 72
+Unrestricted
+4 mm²
+(Retorno do sinal)16 mm²
+(Siwokul)16 mm²
+(S1U10510150)Unidad
+e
+Faixa de temperatura de
+armazenamento-40 a +70 -40 a +70 -40 a +70 °C
+Temperatura de manipulação mínima -25 -25 -25 °C
+Peso no ar 0,11 0,23 0,29 kg/m
+Peso na água 0,04 0,13 0,20 kg/m
+Resistência a 20 °C 13 1,24 1,24 mΩ/m
+1 O cabo é isolado com U o = 6,6 kV, mas é diretamente conectado aos corpos metálicos do conector
+Tabela 6 - Especificações do cabo SpecTRON 8 (4 - 16 mm²)
+35 mm²
+(Esp. Siwokul)35 mm²
+(S1U10510151)35 mm²
+(Feltoflex)Unidad
+e
+Tensão nominal (U o/U(U m)) 5/8,7(10) 5/8,7(10) 5/8,7(10) kVca
+Tensão de teste CA máxima para o terra 12,5 12,5 12,5 kVca
+Tensão de teste CC máxima para o terra 5 5 5 kVcc
+Diâmetro externo 18,10 ± 0,4 16,0 ± 0,2 24,5 mm
+Tela CSA N/A N/A 16 mm²
+Raio mínimo de curvatura 110 110 125 mm
+Faixa de temperatura de
+armazenamento-40 a +70 -40 a +70 -40 a +70 °C
+Temperatura de manipulação mínima -25 -25 -25 °C
+Peso no ar 0,55 0,63 1,04 kg/m
+Peso na água 0,29 0,43 0,56 kg/m
+Resistência a 20 °C 0.565 0.565 0.565 mΩ/m
+Tabela 7 - Especificações do cabo SpecTRON 8 (35 mm²)
+4.5 Outras especificações
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 23 de 72
+Unrestricted
+Para todas as outras especificações não incluídas nas tabelas acima, consulte as folhas de dados específicas
+do produto/projeto ou entre em contato com o Suporte Técnico connectortechnicalsupport.gb@Siemens-
+energy.com .
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 24 de 72
+Unrestricted
+4.6 Meio ambiente, descarte e reciclagem
+O descarte ou reciclagem segura de resíduos de embalagens e/ou produtos fora da vida útil é recomendado
+com a observação e cumprimento corretos da legislação ambiental regional, nacional ou internacional,
+quando aplicável.
+Para devolver a embalagem descartada e/ou o produto no fim da vida útil ao fabricante, entre em contato
+com o Diretor de Segurança de Produto em subsea.connectors.productsafety.gb@siemens-energy.com .
+Substâncias perigosas, Controle de substâncias perigosas à saúde (COSHH) e Avaliações relacionadas a
+materiais como elastômeros e óleos etc. usados nos produtos SpecTRON 8 estão disponíveis mediante
+solicitação ao Diretor de Segurança de Produto em subsea.connectors.productsafety.gb@siemens-
+energy.com .
+4.7 Equipamento de proteção individual (EPI)
+O Equipamento de Proteção Individual (EPI) é definido legalmente como "todos os equipamentos (incluindo
+roupas que oferecem proteção contra o clima) que se destinam ao uso por uma pessoa no trabalho e
+protegem o usuário contra um ou mais riscos à sua saúde ou segurança".
+Na hierarquia de controle de risco, o EPI é considerado o item de classificação mais baixa e representa a
+opção de último recurso. O EPI é apropriado apenas quando o perigo em questão não puder ser totalmente
+removido ou controlado de tal forma que seja improvável a ocorrência de danos (por exemplo, isolar o perigo
+ou reduzir o risco na origem a um nível aceitável).
+Todos os funcionários e operadores da empresa devem usar Equipamento de Proteção Individual (EPI)
+apropriado, definido como resultado de avaliações de risco relevantes de acordo com os Regulamentos de
+Equipamento de Proteção Individual (EPI).
+Advertência. Risco de lesões leves a pessoas com sensibilidade a óleos de base mineral ou de
+silicone.
+-Use proteção adequada para as mãos ao manusear produtos e óleos minerais, de silicone ou
+sintéticos à base de éster.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 25 de 72
+Unrestricted
+5 PREPARAÇÃO DO PRODUTO PARA USO
+5.1 Precauções de segurança antes da instalação
+Os produtos SpecTRON 8 são fabricados principalmente em aço inoxidável Super Duplex e, portanto, são
+projetados para resistir a ambientes salíferos agressivos. No entanto, os insertos do conector e as peças
+expostas são suscetíveis a danos mecânicos se não forem protegidos.
+Cuidado.  Risco de danos materiais.
+As tampas protetoras/contra poeira precisam sempre estar instaladas durante o
+transporte.
+Recomenda-se que as tampas permaneçam no lugar até imediatamente antes das
+atividades de teste ou implantação submarina.
+Os conectores podem ser enviados individualmente ou em várias unidades. Deve-se tomar cuidado para
+proteger o conector com plástico-bolha ou materiais de embalagem semelhantes para evitar danos à
+superfície durante o transporte. Se forem enviadas várias unidades em uma única remessa, será necessária
+uma caixa de transporte adequadamente reforçada para suportar o peso. As tampas de proteção precisam
+estar instaladas o tempo todo durante o transporte.
+Os conectores do tipo anteparo com fios residuais expostos devem ser embalados e enviados em um caixote
+de tamanho que permita espaço adequado para os fios sem dobrar ou torcer.
+Se os conectores estiverem montados em mangueiras, elas devem ser enroladas e fixadas com fita adesiva
+para evitar o desenrolamento durante o transporte. Os raios de dobra mínimos especificados na seção 4.3
+precisam ser mantidos durante o armazenamento e transporte de jumpers.
+Figura 5 - Embalagem típica de chicote de cabos SpecTRON 8
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 26 de 72
+Unrestricted
+A Figura 5 mostra como um chicote típico SpecTRON 8 é embalado. Os conectores em cada extremidade do
+chicote têm uma tampa de transporte colocada e são envoltos em plástico-bolha. A base do caixote de
+transporte é revestida com uma embalagem protetora, e o chicote de cabos é posicionado de modo que a
+mangueira possa ser enrolada sem dobrar. Os itens soltos são colocados em uma caixa dentro do caixote.
+Em seguida, a embalagem protetora é colocada em cima do chicote de cabos e fixada no lugar com um bastão
+de madeira, antes que a tampa do caixote seja parafusada.
+AFigura 6 mostra um tipo diferente de embalagem opcional em que o chicote de cabos pode ser fornecido.
+Essa caixa é fabricada em plástico de polietileno e é resistente a poeira, óleo, produtos químicos e água. Os
+conectores em cada extremidade têm uma tampa de transporte e ficam dentro de uma inserção de
+espuma que é dimensionada para o conector. Os itens soltos são colocados em uma caixa dentro do
+caixote.
+Figura 6 - Embalagem de plástico de polietileno opcional
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 27 de 72
+Unrestricted
+5.2 Desembalagem
+Os conectores são projetados para suportar vibrações que ocorrem durante o transporte e resistir à queda
+de uma altura de 1 m enquanto estiverem na embalagem. Apesar disso, podem ocorrer danos durante o
+transporte, e é importante documentar todos os sinais óbvios de manuseio incorreto ou danos que possam
+ter ocorrido em trânsito.
+Remova o material de embalagem tomando cuidado para inspecionar se há danos na superfície ou itens que
+possam ter se separado do conector, como vedações em O.
+Cuidado.  Risco de danos materiais.
+-Não use faca para cortar o material de embalagem, pois isso pode danificar partes
+elastoméricas do conector.
+-Não remova as tampas de proteção/poeira até que os conectores estejam prontos para
+instalação.
+-Na remoção, não permita que as mangueiras arrastem sobre as bordas da caixa de transporte.
+5.2.1 Tampas protetoras
+Todos os conectores/penetradores SpecTRON 8 são fornecidos com uma tampa protetora. Elas podem ser
+tampas contra poeira ou tampas protetoras. Tampas contra poeira (normalmente de cor amarela) podem
+ser simplesmente removidas torcendo-as ou puxando-as para fora. As tampas protetoras (normalmente de
+cor preta) podem ser removidas conforme detalhado abaixo.
+Tampa do plugue ROV
+A tampa do plugue ROV é travada no conector do plugue por meio do mecanismo de travamento do
+conector. Para remover a tampa, recomenda-se que o operador coloque o plugue verticalmente na tampa,
+fique de pé no flange da tampa e puxe a alça do ROV do conector do plugue. Isso desengatará o mecanismo
+de travamento do plugue. Não tente retirar a tampa diretamente do plugue, pois isso pode danificar o
+mecanismo de travamento do plugue. Use o mesmo método ao engatar e desengatar a tampa do plugue do
+ROV nos conectores do plugue com o mecanismo de travamento.
+Puxe a alça do
+ROV
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 28 de 72
+Unrestricted
+Figura 7 - Tampa do plugue ROV
+A recolocação da tampa do plugue pode ser feita simplesmente empurrando-a de volta para a ponta do
+plugue até o mecanismo de travamento encaixar.
+Tampa da tomada do ROV
+A tampa da tomada ROV pode ser removida puxando-a. A recolocação da tampa da tomada pode ser feita
+simplesmente empurrando-a de volta para a proteção da tomada.
+Figura 8 - Tampa da tomada ROV
+TAMPA DO PENETRADOR TIPO TREE CAP - Versão 1
+Normalmente, as tampas de penetrador são removidas pelos engenheiros do local da Siemens Subsea
+durante a terminação do penetrador para o módulo. Recomenda-se que apenas pessoal treinado remova as
+tampas do penetrador, pois os detalhes são fornecidos aqui apenas para fins de informação. A versão 1 do
+Penetrador tipo Tree Cap consiste em peças modulares para proteger todo o comprimento do conector.
+Posicione o plugue e o penetrador em uma bancada adequada e remova a tampa protetora com cuidado
+para não dobrar a gaxeta flexível entre o plugue e o penetrador.
+Segure a
+tampa de pé
+no flange
+Puxe a tampa
+para remover
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 29 de 72
+Unrestricted
+Figura 9 - Penetrador tipo tree cap /Remoção de plugue da tampa com chave
+Remova a
+extremidade
+da tampa
+Puxe a
+extremidade da
+tampa com chave
+com um pino guia.
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 30 de 72
+Unrestricted
+Figura 10 - Penetrador tipo tree cap/Remoção da tampa protetora do plugue
+Figura 11 - Penetrador tipo tree cap/Remoção da luva de plugue bipartida
+Puxe a
+tampa
+inteira para
+removê -la
+Desparafuse esta
+seção da extremidade
+presa ao penetrador
+de 8 kV.
+Remova a luva
+protetora bipartida
+Remova a luva
+protetora bipartida
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 31 de 72
+Unrestricted
+O procedimento de recolocação da tampa do penetrador é o inverso do de remoção.
+Penetrador tipo Tree Cap - Versão 2
+Normalmente, as tampas de penetrador são removidas pelos engenheiros do local da Siemens Subsea
+durante a terminação do penetrador para o módulo. Recomenda-se que apenas pessoal treinado remova as
+tampas do penetrador, pois os detalhes são fornecidos aqui apenas para fins de informação. O penetrador
+tipo Tree cap versão 2 consiste em metades divididas para proteger a gaxeta flexível. Posicione o plugue e o
+penetrador em uma bancada adequada e remova a tampa protetora com cuidado para não dobrar a gaxeta
+flexível entre o plugue e o penetrador.
+Figura 12 - Tomada ROV - Penetrador - Jumper do plugue tipo Tree Cap
+5.3 Descarte seguro da embalagem
+Descarte a embalagem corretamente, observando e cumprindo a legislação ambiental regional, nacional ou
+internacional. Sempre que possível, recicle de forma responsável.
+Para devolver a embalagem descartada ao fabricante, entre em contato com o Diretor de Segurança de
+Produto em subsea.connectors.productsafety.gb@siemens-energy.com .
+5.4 Elevação
+Perigo!  Risco de lesões pessoais graves ou morte e danos materiais ao produto
+Os conectores só podem ser elevados nos locais especificados abaixo.
+Nunca use o cabo ou a mangueira para elevar ou apoiar uma gaxeta de conector.
+Todas as operações de elevação devem ser realizadas por pessoal devidamente
+qualificado, de acordo com os regulamentos aplicáveis onde e quando a elevação for
+realizada.
+Puxe a tampa
+para remover
+Desrosqueie as
+presilhas e remova a
+tampa dividida
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 32 de 72
+Unrestricted
+Os conectores nunca devem ser elevados pela mangueira ou pelo cabo, pois isso aplica
+tensão desnecessária na braçadeira de cabo e nas partes internas do conector.
+Os chicotes de cabos pesam mais de 30 kg e não devem ser manipulados manualmente.
+Conectores cegos ou estacionários pesam menos de 20 kg e podem ser levantados
+manualmente; no entanto, é necessário sempre observar a prática correta de elevação
+Os conectores podem ser enrolados com segurança nos locais mostrados em Figura 13 , Figura 14, Figura
+15 e Figura 16. O centro de gravidade do Conector ou Penetrador é normalmente marcado no desenho
+geral (fornecido no pacote de documentação), mas precisa ser verificado em nível baixo antes de iniciar
+qualquer elevação.
+Para conectores especialmente pesados (por exemplo, SPO, penetrador de flange), são fornecidas as
+posições dos olhais de elevação no flange do conector. Elas são mostradas no desenho geral do conector,
+que faz parte de sua folha de dados. A folha de dados está disponível separadamente mediante solicitação e
+está incluída na documentação do conector.
+Conectores cegos ou estacionários pesam menos de 20 kg e podem ser levantados manualmente; no
+entanto, é necessário sempre observar a prática correta de elevação.
+Tomada de ROV
+Figura 13 - Posição de elevação recomendada - Tomada ROV
+Não suspenda pela alça,
+pois isso pode soltar a
+tampa protetora
+Suspenda pela
+proteção traseira do
+plugue entre as alças
+Não suspenda pelo lado
+externo da alça do
+conector, pois isso pode
+danificar o mecanismo
+de travamento
+Suspenda de cada lado do
+flange da tomada
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 33 de 72
+Unrestricted
+Figura 14 - Posições recomendadas para elevação - Plugue ROV (sem/com mecanismo de travamento)
+Figura 15 - Posições de elevação recomendadas - Penetrador /Plugue tipo Tree Cap (Versão 1)
+Suspenda pela proteção
+traseira do penetrador
+Suspenda de
+cada lado da
+tampa de
+proteção
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 34 de 72
+Unrestricted
+Figura 16 - Posições de elevação recomendadas - Penetrador /Plugue tipo Tree Cap (Versão 2)
+Figura 17 - Posições de elevação recomendadas - Penetrador duplo
+As tampas protetoras devem permanecer colocadas sempre que possível durante as operações de elevação,
+para minimizar o risco de danos à vedação ou aos componentes elétricos do conector.
+Para chicotes de cabos, o cabo ou a mangueira deve ter apoio durante as elevações para minimizar a tensão
+no conector. Os conjuntos de jumpers são classificados como 2,5 kN em todas as situações (parte superior e
+submarina); no entanto, recomenda-se que o comprimento máximo do chicote (agrupado ou individual)
+deixado sem apoio durante a operação de elevação no ar seja de 5 metros.
+Conectores somente para cabo ou conectores de ruptura de mangueira com cabo devem ser manuseados
+com cuidado, pois esses conectores não possuem a mangueira para proteger o revestimento do cabo contra
+danos mecânicos. Esses tipos de conectores são normalmente usados para fins de teste. Durante a
+desembalagem e uso, eles não devem ser arrastados pelas superfícies, devem ser protegidos quando
+passados sobre bordas e mantidos longe de materiais abrasivos para preservar o revestimento externo na
+melhor condição possível.
+5.5 Instalação e montagem
+Suspenda pelo corpo do Penetrador
+Duplo, ou de cada lado, o mais
+próximo possível do corpo do
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 35 de 72
+Unrestricted
+Perigo!  Risco de lesões pessoais graves ou morte e danos materiais ao produto
+A terminação dos conectores umbilicais precisa ser realizada por uma pessoa competente
+A instalação e a terminação interna dos penetradores nos módulos do cliente somente
+devem ser realizadas por uma pessoa competente
+Quando qualquer equipamento for removido do armazenamento para instalação ou teste SIT, deve ser feita
+uma inspeção completa do chicote de cabos como um todo.
+Os conectores SpecTRON 8 podem ser instalados nas estruturas submarinas do cliente pelo usuário final,
+desde que as orientações deste documento sejam seguidas. É importante garantir que as diretrizes de
+manuseio sejam seguidas durante todas as partes do processo de instalação. Isso é especialmente
+importante para mangueiras e cabos, que precisam ter apoio adequado durante qualquer operação de
+elevação para evitar danos à mangueira/cabo e à terminação dentro do conector.
+Durante a elevação e manobra do conector, as tampas de transporte/proteção devem ser deixadas nos
+conectores pelo maior tempo possível para proteger as interfaces mecânicas. É necessário tomar cuidado
+para garantir que a mangueira não se dobre além do seu MBR estabelecido para não causar torção, que pode
+danificar a mangueira e o cabo dentro dela. Todas as manobras de qualquer equipamento SpecTRON
+precisam ser feitas de acordo com a Seção 6.4.
+Durante ou após a instalação do equipamento SpecTRON, se for realizado algum trabalho estrutural em torno
+dos conectores, como soldagem ou esmerilhamento, em que contaminantes possam afetar os conectores,
+eles precisarão passar pelo processo de limpeza descrito na seção 8.
+5.6 Armazenamento e proteção
+Cuidado.  Risco de corrosão em contatos elétricos.
+Se o conector tiver sido testado em ambiente úmido, encaixe a tomada em um plugue
+totalmente cego ou, se usar uma tampa protetora de acetal, assegure que o pino e a
+tampa estejam completamente secos (consulte a seção 8.1)
+Se o armazenamento for realizado em condições de alta umidade e salinidade, como no
+convés, no porão do navio ou próximo à doca, devem ser usados conectores cegos
+completos.
+Cuidado.  Risco de danos materiais.
+A temperatura da superfície do conector não pode exceder 60 °C; a temperatura máxima
+de armazenamento leva em consideração o ganho solar.
+Deve ser usada proteção adequada para não se exceder a temperatura máxima de
+armazenamento.
+Componentes elastoméricos, como kits de terminação de mangueira e conector, não
+devem ser armazenados próximos a fontes naturais ou artificiais de ozônio (por exemplo,
+equipamentos elétricos de alta tensão, impressoras a laser ou operações de soldagem).
+Os conectores não devem ser expostos a gases de combustão, vapores orgânicos ou
+equipamentos que gerem esses vapores.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 36 de 72
+Unrestricted
+Cuidado.  Risco de danos materiais.
+Os conectores não devem ter contato com solventes, óleo, graxa ou outros materiais
+semissólidos.
+Nenhuma modificação no perfil interno da tampa de proteção nem quaisquer materiais
+estranhos, como sílica gel, devem ser introduzidos nas tampas, pois isso resultará em
+danos às vedações críticas e áreas de contato elétrico.
+5.6.1 Armazenamento de curto prazo de conectores
+Antes da instalação, os conectores são sensíveis a ambientes com presença de granulação e sujeira. Para
+evitar a entrada do citado acima, eles devem ser armazenados em uma área seca e limpa, protegidos por
+plástico-bolha ou material de embalagem similar. Devem-se instalar tampas protetoras/de poeira.
+5.6.2 Armazenamento de longo prazo dos conectores
+Os conectores precisam ser armazenados em uma área seca e limpa. É necessário instalar tampas de
+proteção adequadas, e a temperatura de armazenamento deve estar entre -25 °C e 60 °C. A umidade da sala
+de armazenamento deve estar entre 10% e 60%. O equipamento deve ser protegido de ozônio, luz solar forte
+e luz artificial forte com alto conteúdo ultravioleta.
+5.6.3 Kits de terminação do conector
+Os componentes elastoméricos fornecidos em kits de terminação ou reterminação devem ser mantidos na
+embalagem até que seja necessário seu uso. Deve-se observar a data de validade indicada na embalagem,
+assim como as seguintes condições de armazenamento:
+Temperatura - a temperatura de armazenamento deve estar entre 15 e 25 °C, e os componentes
+devem ser armazenados longe de fontes de calor diretas. Se a temperatura de armazenamento cair
+abaixo de 15 °C, os componentes devem ser manuseados com cuidado e sua temperatura deve ser
+elevada a aproximadamente 30 °C antes do uso.
+Umidade - a umidade relativa deve estar em um nível que evite a ocorrência de condensação como
+resultado de flutuações de temperatura.
+Luz - os componentes elastoméricos devem ser protegidos de fontes de luz, incluindo luz solar direta
+e luz artificial com alto conteúdo ultravioleta.
+Ozônio - os componentes elastoméricos não devem ser armazenados próximos a equipamentos
+geradores de ozônio (como equipamentos elétricos de alta tensão, impressoras a laser) ou operações
+(por exemplo, soldagem). A área de armazenamento também precisa estar livre de gases de
+combustão, vapor orgânico e equipamentos que gerem esse vapor.
+Tensões - os componentes devem ser armazenados livres de tensões sobrepostas, tensão de
+compressão ou outras causas de deformação.
+Radiação - os componentes devem ser protegidos de todas as fontes de radiação ionizante.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 37 de 72
+Unrestricted
+5.6.4 Armazenamento submarino
+Cuidado.  Risco de corrosão em contatos elétricos.
+Em um ambiente submarino, o conector da tomada precisa ser acoplado ao plugue cego
+completo ou à tampa de proteção classificada como submarina quando não estiver
+acoplado a um plugue.
+Durante a vida útil do conector, o contato do pino da tomada não pode ser deixado
+exposto por mais de 60 dias (para conectores fornecidos desde 2013) ou 28 dias (caso
+contrário) cumulativamente
+Se os conectores forem deixados desencaixados na água do mar, precisam ser usadas tampas protetoras
+submarinas ou conectores cegos para proteger os contatos dos pinos dos conectores da tomada. A
+superexposição aumentará o risco de danos por corrosão ou de crescimento marinho nas superfícies de
+contato dos pinos de contato da tomada. Isso pode levar a danos às vedações e ao isolamento dentro dos
+contatos da tomada.
+Os conectores de plugue podem ser deixados desencaixados na água do mar por toda a sua vida útil, mas
+recomenda-se que fiquem encaixados em uma tomada estacionária durante esse período para proteger o
+mecanismo de travamento.
+5.7 Reembalagem para evitar danos no transporte
+Caso seja necessário devolver qualquer produto ao fabricante (Siemens Energy Subsea Connectors),
+recomenda-se que a tampa contra poeira/protetora original seja instalada nos conectores após a
+limpeza.Também deve-se tomar cuidado de protegê-los com plástico-bolha ou material de embalagem
+similar para evitar danos à superfície. Recomenda-se o uso de uma caixa reforçada adequadamente para
+suportar o peso. Entre em contato com o Suporte Técnico connectortechnicalsupport.gb@siemens-
+energy.com  para discutir detalhes de caixas típicas.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 38 de 72
+Unrestricted
+6 OPERAÇÃO DO PRODUTO
+6.1 Energização do par de encaixe úmido
+Perigo! Risco de morte por choque elétrico.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Cuidado.  Risco de danos materiais.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Os conectores SpecTRON 8 devem ser integrados e gerenciados como parte de um sistema de alta tensão
+bem-projetado, com validação adequada do status do sistema e das conexões antes da energização.
+Ao realizar testes de alta tensão de um sistema elétrico contendo SpecTRON 8, a Siemens Energy oferece
+equipamentos de teste adequados que podem ser usados para fornecer a terminação segura de conectores
+de encaixe úmido e de encaixe seco. A marcação do produto nos equipamentos de teste precisa ser verificada
+para garantir que sejam devidamente classificados.
+6.2 Implantação
+Cuidado.  Risco de danos materiais.
+A taxa máxima de implantação para conectores SpecTRON 8 é de 20 bar/minuto.
+Consulte as folhas de dados e os desenhos de escopo de fornecimento específicos do projeto para obter
+especificações de desempenho e instruções de implantação detalhadas.
+6.3 Recuperação
+Cuidado.  Risco de danos materiais.
+A taxa de recuperação máxima para conectores SpecTRON 8 é de 20 bar/minuto.
+Perigo! Risco de lesões pessoais graves ou morte e danos materiais ao produto
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 39 de 72
+Unrestricted
+Potencial para pressão hidrostática presa dentro das mangueiras, extremidades frontais
+do conector e volumes de compensação. Esse risco é significativamente maior se houver
+crescimento marinho ou calcário considerável.
+Ao limpar ou manusear jumpers e conectores após a recuperação, equipamentos de
+proteção adequados (luvas, óculos) devem ser usados até que toda a inundação e as
+portas de compensação estejam limpas.
+Cuidado. Risco de corrosão em contatos elétricos.
+Após a recuperação, encaixe a tomada em um plugue totalmente cego ou, se estiver
+usando uma tampa protetora de acetal, assegure que o pino e a tampa estejam
+completamente secos (consulte a seção 8.1)
+Se o armazenamento for realizado em condições de alta umidade ou salinidade, como no
+convés ou porão de um navio, devem ser usados conectores cegos completos.
+6.4 Gerenciamento e roteamento de mangueiras
+6.4.1 Orientações gerais (borda de navio e submarina)
+A mangueira deve ser direcionada de maneira a evitar dobras além do MBR (raio mínimo de curvatura) em
+qualquer circunstância (borda de navio e submarina). Deve-se tomar cuidado ao projetar arranjos de
+montagem para mangueira e conectores com suporte flexível para garantir que a flexibilidade não dobre a
+mangueira além de seu MBR.
+Devem ser feitos esforços para evitar a aplicação de tensão excessiva na mangueira, o que pode fazer com
+que ela exceda seu MBR ou fique amassada. Isso é especialmente pertinente quando a mangueira estiver na
+borda do navio, pois o peso da mangueira no ar é significativamente maior do que seu peso na água (consulte
+a seção 4 para obter valores de peso específicos da mangueira).
+Na borda do navio (no ar), o comprimento máximo da mangueira na horizontal sem suporte é de 2 m. Quando
+a mangueira estiver orientada verticalmente no ar, o comprimento máximo sem suporte é de 5 m. Esses
+valores se aplicam tanto a mangueiras Gorilla quanto AquaTRON. (Consulte a seção 6.4.2 para obter
+informações sobre o manuseio submarino de chicotes de interconexão.)
+Se os conectores de encaixe úmido forem orientados verticalmente com o plugue acima da tomada, haverá
+uma mudança brusca na orientação da mangueira do plugue se esta estiver sem suporte. Nessa situação,
+para evitar que o peso da mangueira não cumpra o MBR, a Siemens Energy recomenda que a altura da base
+estrutural até a tomada não exceda 3 m.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 40 de 72
+Unrestricted
+Figura 18 - Mangueiras AquaTRON (esquerda) e Gorilla (direita) no raio de dobra mínimo
+A mangueira oferece certa resistência natural à dobra/torção; no entanto, a aplicação de força de
+deformação devido ao roteamento acentuado em torno do canto da estrutura (ignorando o MBR da
+mangueira) ou a aplicação de força devido ao peso da mangueira sem suporte pode causar danos aos
+condutores ou terminações. Portanto, devem ser feitos esforços para evitar isso durante todas as aplicações,
+na borda do navio ou na água.
+Figura 19 - Mangueiras AquaTRON (laranja) e Gorilla (amarela) dobradas incorretamente
+A Siemens Energy recomenda o uso de "formadores" para evitar exceder o MBR da mangueira ao passar por
+superfícies angulares acentuadas (através ou ao redor de estruturas). Esses formadores também podem ser
+usados para apoiar uma mangueira suspensa e solta por mais tempo do que os limites acima.
+Os formadores podem ser produzidos de acordo com o projeto recomendado pela Siemens (conforme
+mostrado abaixo) ou com o projeto específico do cliente, e fixados na estrutura do cliente conforme
+apropriado.
+PROJETOS DE FORMADORES RECOMENDADOS
+Figura 20 - Formador de placa
+DIÂMETRO EXTERNO MÍNIMO DA
+ CONFORME NECESSÁRIO
+MBR (RAIO MÍNIMO DE DOBRA)
+CONFORME
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 41 de 72
+Unrestricted
+Figura 21 - Formador em "U"
+Figura 22 - Formador em "L"
+Figura 23 - Formador em "U"
+CONFORME
+CONFORME
+CONFORME
+MBR (RAIO MÍNIMO DE DOBRA)
+DIÂMETRO EXTERNO
+CONFORME
+NECESSÁRIO
+CONFORME
+CONFORME
+MBR (RAIO MÍNIMO DE DOBRA)
+DIÂMETRO EXTERNO
+MÍNIMO DA MANGUEIRA
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 42 de 72
+Unrestricted
+Figura 24 - Formador fixado temporariamente (por exemplo, para SIT - Teste no local de instalação - de borda de
+navio)
+Figura 25 - Formador em "L"
+Se for necessário suporte temporário da mangueira durante o SIT, um piso temporário elevado pode ser
+criado com o uso de equipamentos como andaimes, plataformas tesoura e escadas, ou um suporte fabricado
+com um formador fixado. Veja na Figura 26 abaixo um exemplo desse suporte.
+Braçadeiras ou
+presilhas
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 43 de 72
+Unrestricted
+Figura 26 - Suporte de mangueira fabricado com formador
+6.4.2 Manobra submarina de chicotes de conexão
+--Cuidado.  Risco de danos materiais.
+O comprimento máximo da mangueira sem suporte na água para os chicotes de
+conexão SpecTRON 8 é de 30 m
+Os chicotes de interconexão SpecTRON 8 de 30 m ou menos não requerem auxílios de flutuação para
+implantação submarina.
+Os chicotes de interconexão SpecTRON 8 acima de 30 m requerem dispositivos de flutuação adequados
+para suportar 1,45 kg (consulte a seção 4) por metro de comprimento que exceda 30 m. Por exemplo, um
+cabo de interconexão elétrica (EFL) de 50 metros requer auxílios de flutuação para cobrir 20 metros de
+peso adicional da mangueira, que é 29 kg (20*1,45 = 29 kg).
+Esses dispositivos de flutuação devem ser espaçados uniformemente para garantir que a terminação de
+cada extremidade do jumper não seja carregada com mais de 30 metros de jumper. Os auxílios de
+flutuação devem ser presos ao jumper com uma eslinga macia.
+6.4.3 Conectores montados com flexibilidade
+Deve-se considerar cuidadosamente a colocação da primeira braçadeira em um conector compatível para
+não restringir a flexibilidade do conector ou transmitir tensões para a mangueira e para o cabo. Quando
+for necessária a fixação em conectores montados com flexibilidade, recomenda-se que um arranjo do tipo
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 44 de 72
+Unrestricted
+"S" ou semelhante, conforme mostrado na Figura 27, seja utilizado para absorver o movimento potencial
+do conector.
+Figura 27 - Possível fixação da mangueira em conector flexível
+6.5 Gerenciamento de cabos MUTU
+Os cabos umbilicais de energia precisam se estender diretamente das buchas do cabo MUTU por, no
+mínimo, 200 mm. Se, após a conclusão da terminação do MUTU, os cabos de energia umbilical precisarem
+ser movidos ou dobrados, deverão ser usados guias ou braçadeiras para evitar o movimento do cabo
+dentro das buchas do MUTU. Isso é necessário para evitar problemas com o sistema de vedação de cabos
+MUTU.
+Essa necessidade de uma braçadeira também se aplica se o próprio MUTU precisar ser movido após a
+conclusão da terminação do cabo e a instalação do MUTU no conjunto de terminação umbilical.
+Figura 28 - Comprimento necessário do cabo reto e posição da braçadeira do MUTU
+Conector com suporte
+flexível
+Braçadeira
+Stauff ou
+similar
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 45 de 72
+Unrestricted
+6.6 Manipulador ROV
+Os conectores SpecTRON 8 são equipados com uma alça de barra em T ISO 13628 ou alça tipo Fish Tail (rabo
+de peixe) ISO 13628.
+6.6.1 Alça de barra em T
+Os conectores de alça de barra em T precisam ser manipulados com um manipulador ROV de garras paralelas
+semelhante ao mostrado na Figura 29.
+Figura 29 - Manipulador ROV de garras paralelas recomendado para a alça de barra em T
+A barra em T deve ser segurada pela barra transversal do T, conforme mostrado na Figura 30, e não pelo
+eixo. Se a barra em T for segurada incorretamente, há risco de que o mecanismo de trava do conector não
+se engate corretamente.
+Figura 30 - Manuseio do conector ROV (com e sem mecanismo de travamento)
+6.6.2 Alça tipo Fish Tail (rabo de peixe)
+Os conectores da alça tipo rabo de peixe precisam ser manipulados com um manipulador ROV de garra de 3
+dedos, semelhante ao mostrado na Figura 31. A alça deve ser segurada na garra do ROV, conforme mostrado
+na Figura 32.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 46 de 72
+Unrestricted
+Figura 31 - Manipulador ROV de garra recomendado para a alça tipo rabo de peixe
+Figura 32 - Manuseio do conector ROV
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 47 de 72
+Unrestricted
+6.7 Conexão do par de encaixe úmido ROV em ambiente submarino
+6.7.1 Verificações pré-encaixe
+Antes do encaixe, a proteção da tomada deve ser verificada quanto a detritos. Os conectores foram
+projetados para levar em conta a contaminação por areia e sedimentos. No entanto, detritos grandes devem
+ser removidos.
+6.7.2 Sem mecanismo de travamento adicional
+Cuidado.  Risco de danos materiais.
+Todo equipamento usado para encaixar os pares de conectores SpecTRON 8 precisa ser
+projetado de acordo com as orientações de desalinhamento e interface fornecidas pela
+Siemens Subsea para evitar danos ao par de conectores.
+Não puxe a alça do ROV para verificar se o conector está encaixado corretamente, pois
+isso irá desengatar o mecanismo de trava interno e desencaixar o conector.
+Nunca puxe a alça do ROV sem antes desengatar o mecanismo de travamento, pois isso
+pode resultar em danos a esse mecanismo. (Aplicável somente a conectores com
+mecanismo de travamento adicional)
+Advertência. Perigo de lesões por aprisionamento de membros do corpo nas ferramentas de
+encaixe
+Todo processo usado para encaixar os pares de conectores SpecTRON 8 deve estar em
+conformidade com as normas e regulamentações aplicáveis para máquinas.
+Os conectores se autoalinham durante o encaixe; no entanto, eles precisam ser aproximadamente alinhados
+usando as marcas de alinhamento na parte superior do corpo do conector e do flange de
+alinhamento/proteção da tomada antes do encaixe.
+Figura 33 - Indicadores visuais de alinhamento no plugue e na tomada (conectores revestidos)
+Indicadores de alinhamento
+Chaveta física/ranhura de chaveta
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 48 de 72
+Unrestricted
+Figura 34 - Chaveta física de alinhamento relativo ao indicador visual (conectores não revestidos)
+A complacência é incorporada à alça do conector e ao suporte da tomada. Essa flexibilidade acomoda o
+desalinhamento e permite ajustes finos durante a abordagem final antes do engate do conector.
+O curso de encaixe deve estar o mais próximo possível de um movimento suave, ou seja, evite "bombear".
+Usando a garra do manipulador ROV, o piloto deve segurar a alça do ROV conforme mostrado na Figura 30
+ou Figura 32.
+O mecanismo de trava interno é ativado pressionando os conectores um no outro até que os flanges do
+plugue e da tomada estejam totalmente encaixados, conforme mostrado na Figura 37.
+Para garantir o engate correto, o piloto do ROV deve abrir a garra e realizar um empurrão final antes de
+retirá-la da barra em T com a garra totalmente aberta, como mostrado na Figura 35. Isso garante que o
+mecanismo de trava interno não seja desengatado acidentalmente  à medida que o ROV se afasta do
+conector.
+Figura 35 - Empurrão final com a garra aberta
+Indicadores de alinhamento
+Chaveta física/ranhura de
+chaveta
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 49 de 72
+Unrestricted
+6.7.3 Com mecanismo de travamento adicional
+O procedimento de encaixe do conector com mecanismo de travamento é idêntico ao do conector
+ROV padrão sem mecanismo de travamento (consulte a Seção 6.7.2).
+O mecanismo de travamento se engata automaticamente durante o encaixe e não requer outra
+ação do piloto do ROV.
+Figura 36 - Indicadores de alinhamento (conectores com mecanismo de travamento)
+6.7.4 Verificações pós-encaixe
+Todos os conectores
+Quando relaxados, pode haver uma pequena folga entre os dois (devido às molas do plugue empurrarem os
+pinos da tomada). O ressalto do plugue também deve ficar encostado na proteção da tomada.
+Figura 37 - Verificação de encaixe - Totalmente encaixado. (OBSERVAÇÃO: Pequena folga entre os flanges)
+Pinos
+Travas
+Indicadores de alinhamento
+Chaveta física/ranhura de
+chaveta
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 50 de 72
+Unrestricted
+Como ditado pela boa prática do setor, a Siemens Energy recomenda que todas as operações de encaixe do
+ROV sejam gravadas em vídeo e guardadas para consulta futura.
+Com mecanismo de travamento adicional
+Figura 38 - Verificação de encaixe - Mecanismo de travamento engatado.
+O engate correto do mecanismo de travamento precisa ser confirmado por inspeção visual conforme
+mostrado na Figura 38. Se a verificação pós-encaixe mostrar que o mecanismo de travamento não está
+engatado corretamente, o plugue precisa ser desencaixado de acordo com o procedimento indicado na seção
+6.8 e, em seguida, novamente encaixado conforme detalhado na seção 6.7.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 51 de 72
+Unrestricted
+6.8 Desconexão do par de encaixe úmido ROV em ambiente marinho
+Cuidado.  Risco de danos materiais.
+Todo equipamento usado para encaixar os pares de conectores SpecTRON 8 precisa ser
+projetado de acordo com as orientações de desalinhamento e interface fornecidas pela
+Siemens Energy Subsea para evitar danos ao par de conectores.
+Se a alça do ROV for segurada incorretamente, há risco de que o mecanismo de
+travamento interno do conector não se desengate corretamente.
+Nunca puxe a bucha ou a mangueira para desencaixar o conector
+6.8.1 Sem mecanismo de travamento adicional
+Segure a alça do ROV (alça em T ou rabo de peixe) corretamente com a garra do ROV (Figura 30 ou
+Figura 32).
+O desencaixe é obtido puxando-se em linha reta a alça do ROV o suficiente para liberar o mecanismo
+interno de travamento.
+6.8.2 Com mecanismo de travamento adicional
+Antes de desencaixar o conector, o piloto do ROV deve primeiro soltar o mecanismo de travamento.
+O mecanismo de travamento é liberado empurrando-se para frente o controle de liberação com a
+ponta da garra do manipulador ROV, conforme mostrado na Figura 39.
+As travas irão se desengatar dos pinos da tomada quando o controle for empurrado totalmente para
+frente, conforme mostrado na Figura 39.
+Quando essa ação for realizada corretamente, o controle de liberação permanecerá na posição para
+frente após a garra do ROV ser retraída.
+A vista detalhada na Figura 39 mostra as travas na posição desengatada.
+Para desencaixar o conector, segure a alça do ROV (alça em T ou rabo de peixe) corretamente com a
+garra do ROV (Figura 30 ou Figura 32).
+O desencaixe é obtido ao se puxar a alça do ROV o suficiente para liberar o mecanismo de travamento
+interno. Não puxe a gaxeta ou a mangueira.
+Conforme o conector é desencaixado, o controle de liberação retorna automaticamente para a
+posição padrão. Nenhuma ação do piloto do ROV é necessária.
+No desencaixe, o mecanismo de travamento é reinicializado de forma automática e pode ser
+reencaixado imediatamente, se necessário. Nenhuma ação do piloto do ROV é necessária antes do
+reencaixe.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 52 de 72
+Unrestricted
+Figura 39 - Mecanismo de travamento desengatado
+Controle de
+liberação
+Alça do
+ROV
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 53 de 72
+Unrestricted
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 54 de 72
+Unrestricted
+6.9 Conexão manual do par de encaixe úmido do ROV/borda do navio
+Cuidado.  Risco de danos materiais.
+Todo equipamento usado para encaixar os pares de conectores SpecTRON 8 precisa ser
+projetado de acordo com as orientações de desalinhamento e interface fornecidas pela
+Siemens Energy Subsea para evitar danos ao par de conectores.
+Não puxe a alça do ROV para verificar se o conector está encaixado corretamente, pois
+isso irá desengatar o mecanismo de trava interno e desencaixar o conector.
+Nunca puxe a alça do ROV sem antes desengatar o mecanismo de travamento, pois isso
+pode resultar em danos a esse mecanismo (aplicável apenas a conectores com mecanismo
+de travamento adicional).
+Advertência. Perigo de lesões por aprisionamento de membros do corpo nas ferramentas de
+encaixe
+Todo processo usado para encaixar os pares de conectores SpecTRON 8 deve estar em
+conformidade com as normas e regulamentações aplicáveis para máquinas.
+6.9.1 Verificações pré-encaixe
+Antes de iniciar o encaixe do par de conectores, presume-se que:
+O conector da tomada esteja montado em sua respectiva placa de montagem
+O conector do plugue se encontre nas proximidades.
+Barras de segurança ou outras interfaces estejam presentes na estrutura de montagem da tomada.
+Elas devem fornecer apoio ao mergulhador, permitindo acesso eficaz ao conector na altura do tórax.
+6.9.2 Sem mecanismo de travamento adicional
+Remova a tampa protetora do conector do plugue ou, se este estiver acoplado a uma tomada
+estacionária/cega, remova conforme detalhado no procedimento de desencaixe manual a seguir.
+Se um conector de plugue cego estiver encaixado na tomada, remova usando o procedimento de
+desencaixe manual detalhado abaixo.
+Inspecione os pinos da tomada e a proteção, assegurando que estejam limpos e sem detritos etc. Se
+houver algum detrito, remova-o usando um jato de água (na água) ou limpando (no ar).
+Insira a ponta do conector do plugue na proteção da tomada e localize a chave da ponta na fenda da
+proteção usando os indicadores de alinhamento, conforme mostrado na Figura 33 e Figura 34. Deve-se
+observar que a chaveta física/ranhura de chaveta está localizada na parte inferior dos conectores.
+Agora, o operador deve ficar em uma posição confortável e eficiente, pronto para encaixar totalmente
+os conectores. O conector deve estar na altura do tórax do operador, com as barras de segurança ou
+outras interfaces fornecidas na estrutura de montagem ao seu alcance. Usando as barras de segurança
+ou outros meios para se apoiar (por exemplo, preso à estrutura), o operador deve encaixar o conector
+segurando a alça do ROV (Figura 40) e fazer um único movimento suave para empurrar o conector do
+plugue até que ele encoste na tomada. Será necessária uma força máxima de 76,5 kgf (750 N) para
+encaixar os conectores. Assegure que o curso de encaixe esteja nivelado e que o operador possa concluí-
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 55 de 72
+Unrestricted
+lo em um movimento suave e consistente. Confirme se não ocorreu nenhum recuo ou falha no
+travamento.
+Quando a extremidade do conector do plugue fica encostada à tomada, isso ativao mecanismo acionado
+por molainterna detravamento interno, o que evita o desencaixe dos conectores. Puxar a alça do ROV
+desativará essa trava e, portanto, desencaixará o conector.
+Figura 40 - Encaixe usando a alça do ROV
+Para confirmar que os conectores estão totalmente encaixados e o plugue está travado corretamente,
+puxe cuidadosamente o conector do plugue segurando a seção inclinada para baixo da bucha do plugue
+próximo à terminação da mangueira, conforme mostrado na Figura 41. Se os conectores estiverem
+corretamente travados e encaixados, não deve haver nenhum movimento axial no conector do plugue.
+Em uma inspeção visual, o ressalto do plugue deve ficar encostado na proteção da tomada. No entanto,
+quando relaxados, pode haver uma pequena folga entre a tomada e o conector (devido às molas do
+plugue empurrarem os pinos da tomada), conforme mostrado na Figura 37.
+Figura 41 - Verificar se os conectores estão encaixados
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 56 de 72
+Unrestricted
+6.9.3 Com mecanismo de travamento adicional
+O procedimento de encaixe do conector com mecanismo de travamento é idêntico ao do conector
+ROV padrão sem mecanismo de travamento (consulte a Seção 6.9.2).
+O mecanismo de travamento se engata automaticamente durante o encaixe e não requer ação
+adicional do operador.
+6.9.4 Verificações pós-encaixe:
+O engate correto do mecanismo de travamento precisa ser determinado por inspeção visual (Figura
+38).
+Se as verificações pós-encaixe mostrarem que o mecanismo de travamento não está engatado
+corretamente (Figura 38), o plugue precisa ser desencaixado seguindo o procedimento da seção 6.10
+e, em seguida, novamente encaixado seguindo o procedimento da seção 6.9
+O ressalto do plugue deve ficar encostado na proteção da tomada.
+Como confirmação adicional de que os conectores estão totalmente encaixados e o plugue está
+travado corretamente, puxe cuidadosamente o conector do plugue segurando a seção inclinada para
+baixo da bucha do plugue próximo à terminação da mangueira, conforme mostrado na Figura 41 . Se
+os conectores estiverem corretamente travados e encaixados, não deve haver nenhum movimento
+axial no conector do plugue.
+6.10 Desconexão manual do par de encaixe úmido do ROV/borda do navio
+Cuidado.  Risco de danos materiais.
+Todo equipamento usado para encaixar os pares de conectores SpecTRON 8 precisa ser
+projetado de acordo com as orientações de desalinhamento e interface fornecidas pela
+Siemens Subsea para evitar danos ao par de conectores.
+Se a alça do ROV for segurada incorretamente, há risco de que o mecanismo de
+travamento interno do conector não se desengate corretamente.
+Nunca puxe a bucha ou a mangueira para desencaixar o conector
+Advertência. Perigo de lesões por aprisionamento de membros do corpo nas ferramentas de
+encaixe
+Todo processo usado para encaixar os pares de conectores SpecTRON 8 deve estar em
+conformidade com as normas e regulamentações aplicáveis para máquinas.
+6.10.1 Sem mecanismo de travamento adicional
+Antes de iniciar o desencaixe do par de conectores, presume-se que o conector da tomada esteja montado
+em sua respectiva estrutura, e que um conector do plugue esteja encaixado nela.
+O operador deve se apoiar usando as barras de segurança ou outras interfaces fornecidas e garantir que
+o conector esteja na altura do tórax. Segurando a alça do ROV (conforme mostrado na Figura 17), o
+conector pode ser desencaixado da tomada com um puxão suave ao longo do eixo dos conectores. Puxar
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 57 de 72
+Unrestricted
+a alça do ROV solta automaticamente o mecanismo de travamento interno. É necessária uma força de
+40 kgf (392 N)  para desencaixe dos conectores.
+Quando o conector do plugue estiver totalmente separado do conector da tomada, se necessário ele
+poderá ser encaixado na tomada estacionária usando as etapas descritas no procedimento de encaixe
+da seção 6.9.
+Um plugue cego também deve ser encaixado na tomada restante, novamente usando o procedimento
+de encaixe da seção 6.9.
+6.10.2 Com mecanismo de travamento adicional
+ Antes de desencaixar o conector, o operador precisa primeiro soltar o mecanismo de travamento.
+ O mecanismo de travamento é liberado empurrando-se o controle de liberação totalmente para a
+frente.
+ As travas se desengatam dos pinos da tomada quando o controle é empurrado totalmente para frente.
+(Figura 39 )
+ Quando essa ação for realizada corretamente, o controle de liberação permanecerá na posição para
+frente após o operador afastar a mão.
+ O operador deve se apoiar usando as barras de segurança ou outras interfaces fornecidas e garantir que
+o conector esteja na altura do tórax. Segurando a alça do ROV (conforme mostrado na Figura 40), o
+conector pode ser desencaixado da tomada com um puxão suave ao longo do eixo dos conectores.
+ Puxar a alça do ROV solta automaticamente o mecanismo de travamento interno. É necessária uma
+força de 40 kgf (392 N)  para desencaixe dos conectores.
+ Assim que o conector for desencaixado, o mecanismo de travamento será reiniciado de forma
+automática e poderá ser imediatamente reencaixado. O controle de liberação retornará
+automaticamente para a posição padrão. Isso pode ser confirmado por uma inspeção visual rápida
+ Quando o conector do plugue estiver totalmente separado do conector da tomada, se necessário ele
+poderá ser encaixado na tomada estacionária usando as etapas descritas no procedimento de encaixe
+da seção 6.9.
+ Um plugue cego também deve ser encaixado na tomada restante, novamente usando o procedimento
+de encaixe da seção 6.9.
+6.11 Conectores de teste
+Cuidado.  Risco de danos materiais.
+É necessário usar sempre o conector de teste adequado para fazer contato elétrico
+durante o teste.
+Em nenhuma circunstância um objeto estranho (como uma chave de fenda, sonda de
+teste ou clipe de mola) deve ser usado como conexão de teste, pois isso pode danificar as
+vedações e o isolamento. Essas ações invalidarão a garantia do produto.
+Perigo! Risco de morte por choque elétrico.
+É necessário usar sempre o conector de teste adequado para fazer contato elétrico
+durante o teste.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 58 de 72
+Unrestricted
+Em nenhuma circunstância um objeto estranho (como uma chave de fenda, sonda de
+teste ou clipe de mola) deve ser usado como conexão de teste
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Advertência. Perigo de lesões por aprisionamento de membros do corpo nas ferramentas de
+encaixe
+Todo processo usado para encaixar os pares de conectores SpecTRON 8 deve estar em
+conformidade com as normas e regulamentações aplicáveis para máquinas.
+Os conectores SpecTRON 8 podem ser eletricamente testados com o uso de chicotes de cabos do conector
+de teste, plugue e tomada SpecTRON 8 na borda de navio, conforme mostrado abaixo na Figura 42.
+Esses chicotes de conectores são terminados com terminais M10 de 3 saídas para conexão a uma alimentação
+de AT e terminais M4 de 3 saídas para conexão a uma fonte de aterramento. O gerenciamento de cabos
+precisa ser levado em consideração para garantir que as conexões de AT e terra sejam mantidas separadas
+pela maior distância razoável possível para garantir que não haja ignição súbita entre os diferentes núcleos
+e o terra.
+A limpeza deve ser realizada apenas com "lenços seguros" (umedecidos). Esses lenços umedecidos estão
+disponíveis na Internet e são sem fiapos, sem estática e baseados em IPA para eletrônicos. Também devem-
+se observar as orientações na Seção 8.2 sobre remoção de crescimento marinho e depósitos calcários.
+Figura 42 - Pontos de conexão do chicote de cabos para teste
+CONEXÃO DE ATERRAMENTO DE 3 SAÍDAS
+(TERMINAL M4)
+CONEXÕES DE AT DE 3 SAÍDAS (TERMINAL
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 59 de 72
+Unrestricted
+Figura 43 - Indicadores de alinhamento (conectores de teste para borda de navio)
+6.11.1 Par de encaixe úmido do ROV
+O design desses conectores é baseado no mecanismo de encaixe do ROV, conforme descrito nas seções
+anteriores; portanto, não é necessário nenhum equipamento adicional de encaixe/retenção. O colar, o
+prisioneiro e as porcas não são necessários para conexão com conectores de encaixe úmido ROV e, portanto,
+podem ser removidos antes de seguir as instruções na seção 6.9.
+6.11.2 Condutor de ESP (Bomba submersa elétrica) único
+Tomadas de teste
+As tomadas de teste SpecTRON 8 são fornecidas com um colar, prisioneiro e porcas que podem ser usados
+para manter a tomada de teste no lugar.
+Figura 44 - Tomada de teste SpecTRON 8 com colar, prisioneiro e porcas
+Para unir os conectores com segurança, o conector de teste SpecTRON 8 deve ser aproximado do conector
+submarino e puxado com o prisioneiro para garantir que o conector não possa "quicar".
+Indicadores de
+alinhamento
+Chaveta física/ranhura de
+chavetaRecursos de trava
+com base no ROVAlça
+operada
+manualme
+nte
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 60 de 72
+Unrestricted
+Plugue de teste
+As tomadas do suporte de tubulação SpecTRON 8 incluem os recursos de trava necessários para interagir
+com o mecanismo de trava do conector ROV. Portanto, as instruções na seção 6.9 devem ser seguidas.
+6.11.3 Condutor de ESP (Bomba submersa elétrica) duplo
+Tomada de teste
+A tomada de teste de alimentação através do condutor ESP duplo é fixada ao plugue da tampa em árvore
+usando um sistema de travamento integrado. A tomada de teste deve ser empurrada no plugue antes de
+girar a alavanca de trava para unir os dois conectores.
+Plugue de teste
+Há um plugue de teste disponível para conexão com a tomada do suporte de tubulação, embora,
+normalmente, esse conector seja usado apenas pelas equipes de instalação no local da Siemens Energy. Para
+obter mais informações, entre em contato com o Suporte Técnico da Siemens Energy
+connectortechnicalsupport.gb@siemens-energy.com .
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 61 de 72
+Unrestricted
+6.12 Testes
+Perigo! Risco de morte por choque elétrico.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Cuidado.  Risco de danos materiais.
+Todo equipamento usado para encaixar os pares de conectores SpecTRON 8 precisa ser
+projetado de acordo com as orientações de desalinhamento e interface fornecidas pela
+Siemens Energy para evitar danos ao par de conectores.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Não conecte a um pino de tomada não encaixado, a menos que use um plugue de teste
+6.12.1 Níveis de teste
+Os conectores e penetradores SpecTRON 8 estão sujeitos a um programa de FAT completo como parte do
+processo de fabricação. Os penetradores também serão submetidos a testes de SIT após a instalação pela
+Siemens Energy Subsea Connectors nos equipamentos do cliente (por exemplo, transformadores, motores).
+Também é possível que os clientes realizem testes adicionais, sujeito às restrições descritas abaixo.
+6.12.2 Testes elétricos
+Teste de resistência de isolamento
+oOs conectores podem ser submetidos a testes de resistência de isolamento em tensões de
+até 5 kV. Não é possível fornecer um critério de aceitação universal, pois o resultado depende
+da disposição do teste, do comprimento dos cabos/chicotes e do equipamento (por exemplo,
+motor, transformador) em teste. Para testes de verificação no equipamento após a entrega,
+os resultados obtidos no local devem ser comparados com os resultados dos testes de
+aceitação de fábrica detalhados na documentação de fabricação do equipamento.
+Testes de resistência de linha
+oOs conectores e penetradores podem ser submetidos a testes de resistência de linha com
+corrente baixa ou corrente nominal. Consulte as especificações do conector ou do projeto
+antes de iniciar um teste com corrente nominal. Não é possível fornecer um critério de
+aceitação universal, pois o resultado depende da disposição do teste, do comprimento dos
+cabos/chicotes e do equipamento (por exemplo, motor, transformador) em teste. Para
+testes de verificação no equipamento após a entrega, os resultados obtidos no local devem
+ser comparados com os resultados dos testes de aceitação de fábrica detalhados na
+documentação de fabricação do equipamento.
+Teste de alta tensão
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 62 de 72
+Unrestricted
+oEmbora seja possível realizar testes de CA ou CC de alta tensão de conectores, jumpers e
+penetradores, o departamento técnico da Siemens Energy Subsea Connectors deve ser
+consultado antes de iniciar qualquer teste.
+Teste de descarga parcial
+oConsulte o departamento técnico da Siemens Energy Subsea Connectors antes de realizar
+testes de descarga parcial (PD) de chicotes de cabos, conectores e penetradores.
+6.12.3 Testes  Hidrostáticos/de Pressão
+Testes hidrostáticos
+oOs conectores podem ser submetidos a pressões de teste hidrostático conforme definido
+pelas folhas de dados do conector e do chicote de cabos.
+Teste de pressão diferencial (penetradores)
+Os penetradores podem ser submetidos a testes de pressão diferencial conforme definido
+nos requisitos do projeto ou na folha de dados do conector.
+Teste de gás (penetradores)
+oOs penetradores podem ser submetidos a testes de vazamento de hélio de baixa pressão de
+vedações ambientais, mas não podem ser testados usando gás de alta pressão. Não é
+possível para o usuário final realizar o teste de vazamento em conectores ou chicotes de
+cabos.
+6.12.4 Inspeção visual
+Após qualquer teste de integração de sistemas, deve ser realizada uma inspeção completa de todos os
+equipamentos SpecTRON testados. O foco deve ser em áreas críticas, como o pino da tomada e o contato da
+tela de proteção da tomada, que devem estar livres de danos mecânicos, como arranhões ou furos.
+Se o SIT exigir que o equipamento SpecTRON seja parcial ou totalmente submerso em água ou água do mar,
+ele precisará passar pelo processo completo de limpeza descrito na seção 8.1, seja para ser armazenado ou
+permanecer na estrutura para implantação.
+6.13 Referências rápidas
+Para referência rápida do produto, consulte a seção 1.3, que fornece informações básicas de advertência,
+precaução e contato, entre outras.
+Além do descrito acima, algumas informações também estão indicadas no rótulo e na marcação do produto,
+como tipo de sistema, número da peça (P/N), número de série (S/N), classificação elétrica, de pressão e de
+temperatura, conforme detalhado nas Seções 1.3 e 1.4.
+6.14 Descarte de resíduos do produto
+O descarte ou reciclagem segura de resíduos e/ou produtos fora da vida útil é recomendado com a
+observação e cumprimento corretos da legislação ambiental da área, regional, nacional ou internacional,
+quando aplicável.
+Para devolver a embalagem descartada e/ou o produto no fim da vida útil ao fabricante, entre em contato
+com o Diretor de Segurança de Produto em subsea.connectors.productsafety.gb@siemens-energy.com .
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 63 de 72
+Unrestricted
+7 INFORMAÇÕES DO USUÁRIO
+7.1 Operação normal e defeituosa/perigosa
+7.1.1 Descargas de óleo visíveis do conector
+Durante a operação normal do par de encaixe úmido SpecTRON 8, é normal que uma película de óleo fique
+no pino da tomada após o encaixe. Também pode haver algum resíduo de óleo da montagem deixado no
+volume de compensação dentro do conector que pode ser visível durante o teste úmido inicial.
+Vazamento contínuo ou pesado de óleo das portas de compensação na gaxeta e no plugue, ou da ponta do
+plugue, pode ser evidência de danos aos componentes internos do conector.
+7.1.2 Proteção dos pinos de contato da tomada
+Cuidado.  Risco de danos materiais.
+Em nenhuma circunstância os pinos de contato no conector da tomada devem ser
+expostos à água do mar com a energia ligada. Se essa situação ocorrer, as superfícies de
+contato dos pinos se degradarão muito rapidamente por ação eletrolítica.
+Se esses pinos danificados forem posteriormente encaixados em um inserto de soquete,
+há um risco muito alto de danos ao isolamento e às vedações dentro do conector do
+plugue.
+Se os conectores forem deixados desencaixados na água do mar por qualquer período de tempo, deverão
+ser usadas tampas submarinas ou conectores cegos para proteger os contatos dos pinos nos conectores da
+tomada. O tempo máximo cumulativo durante o qual os contatos do pino podem ser expostos à água do mar
+durante toda a vida útil do conector é de 60 dias; para conectores fornecidos antes de 2013, essa duração é
+de 28 dias.
+A superexposição aumentará o risco de danos por corrosão ou de crescimento marinho nas superfícies de
+contato dos pinos de contato da tomada. Isso pode levar a danos às vedações e ao isolamento dentro dos
+contatos da tomada.
+7.2 Proteção Catódica
+Os conectores SpecTRON 8 são normalmente fabricados em aço inoxidável Super Duplex (UNS S32550/UNS
+S32760). Algumas unidades modulares de terminação umbilical (MUTU), conectores de teste, terminações
+umbilicais e acessórios são fabricados em aço inoxidável 316L (UNS S31603).
+7.2.1 Super Duplex (UNS S32550/UNS S32760, Material da Siemens Energy Subsea
+Connectors "BQ")
+Os conectores e penetradores de aço inoxidável Super Duplex não exigem conexão a um sistema de CP, e a
+Siemens Energy Subsea Connectors normalmente não fornece tiras de CP com os conectores Super Duplex;
+no entanto, se necessário, a Siemens Subsea Connectors pode fornecer tiras de CP com conectores Super
+Duplex, com a mesma especificação das tiras usadas nos conectores 316L, como acima.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 64 de 72
+Unrestricted
+Os conectores SpecTRON 8 fabricados com materiais Super Duplex foram analisados quanto à suscetibilidade
+a TIH (trinca induzida por hidrogênio) de acordo com o DNV RP-F112 (Design de equipamento submarino de
+aço inoxidável Super Duplex exposto a proteção catódica). Como tal, eles podem ser conectados a sistemas
+de proteção catódica, mas, como o crescimento calcário pode variar em diferentes condições da água do
+mar, é responsabilidade do usuário final avaliar o crescimento calcário esperado ao longo da vida útil do
+sistema conector.
+7.2.2 Aço inoxidável 316L (UNS S31603, Material da Siemens Energy Subsea Connectors "AA")
+Cuidado.  Risco de danos materiais.
+As unidades de terminação umbilical modular (MUTU) em aço inoxidável 316L (UNS
+S31603) devem ser sempre conectadas a um sistema de CP (proteção catódica) para
+suportar ambientes salíferos agressivos.
+A Siemens Energy Subsea Connectors fornece uma tira de CP com conectores fabricados no comprimento
+especificado pelo usuário final. A tira de CP é fabricada em aço inoxidável 316 com uma seção transversal de
+16 mm2e um terminal anelar M6 para conexão ao sistema de CP.
+7.3 Resolução de problemas (FAQs)
+Em caso de dúvidas não incluídas abaixo, entre em contato com qualquer um dos seguintes:
+Departamento E-mail
+Segurança do produto subsea.connectors.productsafety.gb@siemens-energy.com
+Suporte Técnico connectortechnicalsupport.gb@siemens-energy.com
+Instalação e Manutenção susultlcmsupport.gb@siemens-energy.com
+Vendas connectorsales.gb@siemens-energy.com
+Tabela 8 - Informações de contato para resolução de problemas do produto
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 65 de 72
+Unrestricted
+8 MANUTENÇÃO DO PRODUTO
+Perigo! Risco de morte por choque elétrico.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+Cuidado.  Risco de danos materiais.
+Os conectores não podem ser desencaixados enquanto estiverem energizados.
+Aguarde tempo suficiente para que o sistema permita que toda a tensão residual seja
+descarregada antes do desencaixe dos conectores
+Os conectores precisam ser totalmente encaixados antes da energização
+As tomadas não podem ser energizadas a menos que estejam encaixadas em um plugue
+8.1 Limpeza e secagem do conector
+Cuidado.  Risco de corrosão em contatos elétricos.
+O processo de limpeza especificado precisa ser seguido quando os conectores forem
+retirados de serviço ou após entrarem em contato com água.
+Advertência. Risco de lesões nos olhos
+Use proteção adequada para os olhos ao usar ar comprimido para remover água ou álcool
+isopropílico das partes internas do conector
+Advertência. Risco de irritação na pele
+Use proteção adequada para as mãos ao usar álcool isopropílico para limpar os
+componentes do conector
+8.1.1 Tomada
+Enxágue bem a proteção e os pinos da tomada com água doce; um garrafa do tipo squeeze pode ser
+usada para desalojar os contaminantes em torno das pontas dos pinos.
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 66 de 72
+Unrestricted
+Figura 45 - Componentes da tomada para secagem e limpeza
+Figura 46 - Ponta do pino da tomada
+Se necessário, seque com um pano que não solte fiapos
+Enxágue com álcool isopropílico (álcool absoluto IPA 100%)
+Sem acúmulo de IPA (álcool isopropílico) ou água dentro da proteção da tomada. O ar comprimido
+pode ser usado para dispersar qualquer fluido acumulado, mas os pinos da tomada precisam ser
+verificados novamente quanto à contaminação
+Deixe o pino da tomada secar completamente
+Não deve haver danos na área de contato do pino da tomada (Figura 47 )
+Figura 47  - Área de contato do pino da tomada conforme fornecido
+Pontas dos pinosPinos da tomada
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 67 de 72
+Unrestricted
+Aplique óleo dielétrico no pino. O óleo dielétrico precisa ser TDO1 para evitar problemas de
+compatibilidade com componentes elastoméricos. A Siemens Subsea recomenda que um encaixe
+seja realizado com um conector de plugue para fornecer cobertura suficiente. (Se não houver plugues
+disponíveis, entre em contato com a Siemens Energy Subsea Connectors para obter óleo TD01)
+Nesse ponto, é necessário colocar novamente a tampa de proteção. É fundamental que a tampa de
+proteção e a proteção/pino da tomada estejam limpos e secos antes da colocação; isso é feito para
+que a umidade não fique presa em torno da área de contato do pino, o que pode resultar em corrosão
+a longo prazo.
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 68 de 72
+Unrestricted
+8.2 Manutenção do produto (pessoal qualificado)
+8.2.1 Remoção de crescimento marinho e depósitos calcários
+Advertência. Risco de lesões leves a pessoas com sensibilidade a solução de ácido cítrico a 50%.
+Use proteção adequada para as mãos e os olhos ao manusear.
+Cuidado.  Risco de danos materiais.
+Use somente ácido cítrico a 50% durante a limpeza. Outros produtos de limpeza ácidos,
+como ácido acético a 50%, não devem ser usados, pois podem causar deterioração dos
+materiais elastoméricos.
+Não são recomendados cinzelamento e métodos abrasivos.
+O jato de água no ar deve ser evitado para minimizar a probabilidade de danos ao conector.
+No entanto, o uso de jato de água é aceitável desde que nunca seja direcionado para os
+pinos de catraca na frente do plugue ou para o furo da tomada.
+Enxágue bem o conector com água doce após qualquer operação de limpeza
+Após a recuperação, a Siemens Energy recomenda que o crescimento marinho e calcário seja removido do
+conector.
+Para remover o crescimento de calcita dos conectores Siemens Energy Subsea, recomenda-se uma solução
+de ácido cítrico a 50%. A Figura 49 mostra os locais que devem ser evitados na lavagem pressurizada para
+remoção do crescimento de calcita.
+Recomenda-se que a solução seja introduzida pelo adaptador da porta de lavagem (conforme Figura 49) para
+fornecer saturação máxima dentro do anel do plugue/tomada. Outras cavidades da proteção da tomada
+podem ser utilizadas para introduzir a solução, dependendo do acesso.
+Todos os materiais elastoméricos e poliméricos expostos à água do mar nos conectores Siemens Energy
+foram testados com ácido cítrico a 50% e são adequados para exposição intermitente durante operações
+de limpeza por toda a vida útil do conector.
+Figura 48 - Locais de lavagem pressurizada do plugue SpecTRON 8
+
+
+
+
+
+
+
+
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 69 de 72
+Unrestricted
+Figura 49 - Locais de lavagem pressurizada da tomada SpecTRON 8
+8.2.2 Porta de lavagem da tomada
+Cuidado.  Risco de danos materiais.
+Use somente ácido cítrico a 50% durante a limpeza. Outros produtos de limpeza ácidos,
+como ácido acético a 50%, não devem ser usados, pois podem causar deterioração dos
+materiais elastoméricos.
+A pressão de injeção máxima é de 0,5 bar
+Advertência. Risco de lesões
+A injeção de ácido cítrico a 50% na interface do plugue/tomada deve ser realizada com o
+conector imerso em água, ou com proteção adequada contra respingos/borrifos em torno
+do conector.
+Use proteção para os olhos se a operação for realizada no convés
+Use proteção adequada para as mãos ao manusear conectores após a separação
+A pressão de injeção máxima é de 0,5 bar
+A porta de lavagem da tomada SpecTRON 8 pode ser conectada a uma estocada a quente submarina ou a
+um equipamento de superfície, para permitir a injeção de produtos químicos diretamente na interface do
+plugue/tomada para remoção do crescimento calcário. O adaptador da porta de lavagem (mostrado na
+Figura 49) possui uma interface G 3/8-19 (3/8" BSP-P). Essa interface pode ser configurada para permitir a
+injeção em várias situações, conforme descrito abaixo:
+Conectada a um tubo flexível e a uma estocada a quente para permitir o uso submarino em módulos
+difíceis de recuperar, como os conectores do Conjunto de Terminação Umbilical Submarina (SUTA),
+aumentando a resiliência ao crescimento calcário
+Bloqueada com um tampão adequado para proteger as roscas contra o crescimento marinho e
+calcário, permitindo o uso após a recuperação para simplificar a separação dos conectores em
+módulos projetados para recuperação.
+Deixada aberta, se não for destinada ao uso, ou se for possível limpar a interface após a recuperação.
+
+
+
+
+Adaptador da porta de
+lavagem
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 70 de 72
+Unrestricted
+Em qualquer uma dessas situações, o ácido cítrico a 50% pode ser injetado na interface a uma pressão
+máxima de 0,5 bar. Um volume de 500 ml a 1 litro lava totalmente o anel entre o plugue e a tomada. Se os
+conectores não se soltarem após uma aplicação, o processo poderá ser repetido.
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 71 de 72
+Unrestricted
+9 COMENTÁRIOS/FEEDBACK DO CLIENTE
+Preencha a seção de Aprovação na parte inferior do formulário para confirmar que cada página deste
+documento foi lida e cumprida integralmente.
+Nome e iniciais do originador (LETRA DE FORMA) Data
+ Informações de contato  Informações de contato
+Referência do projeto Cliente Região
+Tipo de produto Número da peça (P/N) Número de série (S/N)
+Insira os detalhes abaixo; por exemplo, comentários, reclamações, evidências de boas práticas, relatórios
+de incidentes, observações e recomendações, incluindo as associadas a saúde, segurança ou meio
+ambiente etc. Inclua também nomes/informações de contato de outros funcionários relevantes.
+Seção de aprovação
+Nome (LETRA DE FORMA) Assinatura Data
+Envie o formulário preenchido por e-mail para o Diretor de Segurança de Produto no seguinte
+endereço: subsea.connectors.productsafety.gb@siemens-energy.com
+Nº do
+documento:DOC0075
+Data de
+emissão:28/10/2022
+Revisão: 16
+Página: 72 de 72
+Unrestricted
+Publicado por
+Siemens Energy Limited
+Faraday House Sir William Siemens Square
+Frimley, Camberley
+Surrey
+GU16 8QD, Reino Unido
+Para obter mais informações, acesse nosso site:
+siemens-energy.com/subsea
+Sujeito a alterações e erros. As informações fornecidas neste documento
+contêm apenas descrições gerais e/ou características de desempenho que
+podem nem sempre refletir especificamente as descritas ou que podem sofrer
+modificações no decorrer do desenvolvimento adicional dos produtos. As
+características de desempenho solicitadas são vinculantes apenas quando
+expressamente acordadas no contrato celebrado.
+Siemens Energy é uma marca registrada licenciada pela Siemens AG.

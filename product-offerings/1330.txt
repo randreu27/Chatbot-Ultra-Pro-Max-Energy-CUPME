@@ -1,0 +1,51 @@
+Transaction:
+Published 12/12/2022
+LEI 5299005CHJZ14D4FDJ62
+Date 12/09/2022 UTC+1
+Type of transaction Other
+Acquisition (in fulﬁlment of an employment contract-based
+investment obligation)
+Description of financial
+instrument:ShareI
+SIN DE000ENER6Y0
+Place Turquoise Europe
+a) Price and Volume Price Volume
+EUR 16.65500 EUR 1,032.61
+EUR 16.66000 EUR 633.08
+EUR 16.67500 EUR 200.10
+EUR 16.68000 EUR 5,571.12
+EUR 16.68500 EUR 2,869.82
+EUR 16.69000 EUR 6,158.61
+EUR 16.69500 EUR 4,791.47
+EUR 16.70500 EUR 200.46
+EUR 16.71000 EUR 9,140.37
+EUR 16.73500 EUR 5,807.05
+EUR 16.74000 EUR 1,037.88
+EUR 16.74500 EUR 1,674.50
+EUR 16.75000 EUR 4,237.75
+EUR 16.76000 EUR 720.68
+EUR 16.76500 EUR 653.84
+EUR 16.77000 EUR 9,625.98
+EUR 16.77500 EUR 5,300.90
+EUR 16.78000 EUR 5,201.80
+EUR 16.78500 EUR 5,790.83
+EUR 16.79000 EUR 2,132.33
+EUR 16.81000 EUR 3,580.53
+EUR 16.82000 EUR 588.70
+EUR 16.82500 EUR 16.83
+EUR 16.83500 EUR 824.92
+EUR 16.84000 EUR 5,456.16
+b) Aggregated information Price Volume
+EUR 16.74680 EUR 83,248.32
+  
+Details of person:
+Name/Company Anne-Laure Parrical de Chammard
+Reason Member of the managing body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

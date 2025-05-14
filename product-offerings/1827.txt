@@ -1,0 +1,149 @@
+Unser Engagement für Cybersicherheit
+Die fortschreitende Transformation unserer Energiesysteme im Zuge 
+der Digitalisierung geht mit Fortschritten in Technologie und Effi-
+zienz einher, die auch eine erhöhte Anfälligkeit für Cyberangriffe 
+bedeuten. Wir bei Siemens Energy unterstützen unsere Kunden 
+dabei, diese Herausforderung wirksam und effizient zu bewältigen, 
+indem wir Produkte, Lösungen und Dienstleistungen liefern, die 
+höchste Sicherheit gewährleisten. So setzen wir uns engagiert für 
+Cybersicherheit entlang der gesamten Wertschöpfungskette unserer 
+Kundschaft ein.
+Industrielle Cybersicherheit gewährleisten
+Kritische Infrastrukturen sind eines der Hauptziele von Cyberan-
+griffen. Als verlässlicher Partner sehen wir uns in der Pflicht, unserer 
+Kundschaft ein cybersicheres Portfolio anzubieten, das vor Cyber -
+bedrohungen schützt.
+Mit unseren Aktivitäten im Bereich Industrial Cybersecurity stellen 
+wir Cyberresilienz sicher. Dazu adressieren wir mit Prozessen, 
+Orientierungshilfen, Kompetenz und modernster Sicherheitstechnol-
+ogie auf ganzheitliche und systematische Weise die Sicherheit in 
+allen Phasen des Portfolio-Lebenszyklus Um die Integrität des 
+Portfolios von Siemens Energy zu gewährleisten, setzt Siemens 
+Energy etablierte und bewährte Mechanismen ein und wendet die 
+Konzepte „secure-by-design“ und „defense-in-depth“ an.Dr. Judith Wunschik  
+Chief Cybersecurity  
+Officer von Siemens EnergyCybersicherheit ist unsere 
+tägliche Verantwortung. Mit 
+unserem diversen Team von 
+Fachleuten verfolgen wir die 
+Ambition, unter den Energi-
+etechnik-Unternehmen die 
+Spitzenposition beim Thema 
+Cybersicherheit zu 
+übernehmen und unserer 
+Kundschaft größtmöglichen 
+Nutzen zu bringen.Cybersecurity bei 
+Siemens Energy
+siemens-energy.com/cybersecurity
+cybersecurity@siemens-energy.com
+Höchsten Nutzen für unsere Kundschaft bieten
+Berücksichtigung der Branchenstandards
+Die Absicherung unserer Daten- und Informationsbestände und 
+sichere Produkte und Lösungen für unsere Kundschaft anzubieten 
+zählen zu unseren wichtigsten Herausforderungen. Wir begegnen 
+dieser Herausforderung mit einem kontinuierlichen Optimierung-
+sprozess, der technische, organisatorische und personelle 
+Maßnahmen einschließt.
+Wir ermitteln die erforderlichen Maßnahmen auf der 
+Basis etablierter Sicherheitsstandards:
+• ISO 27001 for Informationssicherheit
+• NIST Cybersecurity Framework (CSF) für unsere Organisation
+• IIEC 62443 für industrielle Cybersicherheit, z. B. Produktions-
+stätten und Produkte und Lösungen für unsere Kundschaft
+Die Qualität dieser Maßnahmen wird mit Leistungsindikatoren auf 
+der Basis von Tests, Audits, Red Team/Blue Team-Übungen, Penetra-
+tionstests, Sicherheitsprüfungen und weiteren Methoden kontrol-
+liert.Unsere Ziele 
+• Wir sichern unsere  
+Energie-Assets.
+• Wir sorgen für das  
+Geschäft von morgen. 
+• Wir gestalten das  
+Cybersecurity-Ökosystem.~  110,000   
+ IT-Assets
+>  100  
+ Fabriken
+→ All  
+ kundennahe Produkte  
+ und Lösungen
+~  30,000   
+Lieferanten
+Fokusbereiche
+Unsere Cyberabwehr umfasst die Komponenten Infor -
+mationssicherheit (IT-Sicherheit) und Industrial Cyber -
+security (Industrielle Cybersicherheit, ICS).
+Cybervorfälle erkennen und entsprechend 
+reagieren
+Ebenso wichtig wie die Minimierung der Risiken von Cyberan-
+griffen ist bei Cybervorfällen eine schnelle und entschiedene 
+Reaktion. Das Security Operation Center (SOC) von Siemens Energy 
+macht es uns möglich, in jeder Situation schnell zu reagieren und 
+uns für potenzielle Angriffe zu wappnen. Dies wird möglich durch:
+• Bewertung der Bedrohungssituation und präventive Anpassung 
+unserer Verteidigung durch Bedrohungsintelligenz und -verfol-
+gung
+• Schwachstellenmanagement zur proaktiven Ermittlung von 
+Schwachstellen in unserer IT-Landschaft
+• Vorfall- und Krisenreaktion bei Cybernotfällen
+Förderung einer Cybersicherheitskultur
+Die jüngsten Angriffe haben deutlich gemacht, dass die Mitarbeit-
+enden das schwächste Glied in der Cybersicherheitskette sind und 
+von Hackern ausgenutzt werden können, um so ein Eindringen zu 
+ermöglichen. Alle Mitarbeitenden, die mit Unternehmensdaten 
+sowie Informationsbeständen und -systemen arbeiten, müssen sich 
+über die Konsequenzen ihres Handelns im Klaren sein.
+Im Rahmen unseres Sensibilisierungsprogramms, das auf den 
+neuesten wissenschaftlichen Ansätzen basiert, entwickeln wir 
+unsere Konzepte und Methoden zur Förderung des Sicherheitsbe-
+wusstseins laufend weiter, um die Cybersicherheit in der DNA von 
+Siemens Energy zu verankern. Das Ergebnis ist eine interne Cybersi-
+cherheitskultur, die unsere Mitarbeitenden Cybersicherheit als 
+tägliche Verantwortung begreifen lässt.Aktives Management von Cyberrisiken
+Das Cyberrisiko-Management spielt eine entscheidende Rolle bei 
+der Behandlung der Risiken im Bereich Informationstechnologie 
+und operative Technologie sowie bei den Produkten und Lösungen, 
+die Siemens Energy seiner Kundschaft anbietet. 
+Grundlage unseres Cyberrisiko-Managements ist eine adäquate 
+Organisationsstruktur mit genau definierten Rollen und Verant-
+wortlichkeiten, die durch automatisierte Workflows unterstützt 
+wird.
+Siemens Energy strebt im Rahmen eines aktiven Cyberrisiko-Man-
+agements eine kontinuierliche und transparente Verbesserung von 
+Prozessen und Tools, die Vereinfachung und Standardisierung der 
+Risikobehandlungspläne für kritische Assets und das Management 
+der Risiken von Lieferanten, Providern und Anbietern an.
+Website
+Um einen Überblick über Cybersecurity bei Siemens Energy zu 
+erhalten, besuchen Sie                                                            
+https://www.siemens-energy.com/cybersecurity  
+Kontakte
+Wenn Sie ein potenzielles Sicherheitsproblem melden 
+möchten, das das Portfolio oder die Infrastruktur von Siemens 
+Energy betrifft, senden Sie eine E-Mail an                           
+cert@siemens-energy.com
+Wenn Sie Fragen oder Kommentare zu den Inhalten dieses 
+Dokuments haben, senden Sie eine E-Mail an                   
+cybersecurity@siemens-energy.comWir sind für Sie da – Unser globales Team 
+vereint über 1.000 Jahre Erfahrung, alle Alters-
+gruppen (22–60 Jahre) und mehr als 15 
+Nationalitäten auf vier Kontinenten.
+
+Herausgeber:
+Siemens Energy Global GmbH & Co. KG  
+Otto-Hahn-Ring 6  
+81739 München  
+Germany
+Für weitere Informationen kontaktieren Sie uns bitte per E-Mail:  
+cybersecurity@siemens-energy.com
+Uneingeschränkt © Siemens Energy, 2024
+Änderungen und Irrtümer vorbehalten. Die Informationen in diesem 
+Dokument enthalten lediglich allgemeine Beschreibungen bzw. 
+Leistungsmerkmale, welche im konkreten Anwendungsfall nicht immer 
+in der beschriebenen Form zutreffen bzw. welche sich durch Weiter -
+entwicklung der Produkte ändern können. Die gewünschten Leistungs-
+merkmale sind nur dann verbindlich, wenn sie bei Vertragsschluss 
+ausdrücklich vereinbart werden. Alle Erzeugnisbezeichnungen können 
+Marken oder Erzeugnisnamen der Siemens Energy Global GmbH & Co. 
+KG oder anderer Unternehmen sein, deren Benutzung durch Dritte für 
+deren Zwecke die Rechte der Inhaber verletzen kann.
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke.

@@ -1,0 +1,103 @@
+RG3-S
+Omnivise Electrical Solutions
+Brushless Excitation Systems
+www.siemens -energy.com
+The Task
+Sooner or later, the existing excitation system 
+will reach the end of its service life. This may be 
+because some modules have been discontinued, 
+or simply because they can no longer operate 
+economically. This is the case if, for example, 
+spare parts are only available at high cost, or 
+grid operators impose new requirements for 
+control dynamics which the systems are unable 
+to meet, or for some other reason the statistical 
+risk of failures exceeds an acceptable level.
+What is then required is a solution that perfectly 
+fits the existing situation and ensures reliable, 
+continuous, operation based on innovative 
+technology. 
+Our Solution
+BES is a tried -and-tested solution for all 
+generators with exciters. For many years now, 
+more than 1700 brushless excitation systems 
+have been demonstrating the highest levels of 
+reliability and robustness.
+The solution can be adapted to conditions in 
+each individual power plant due to the high 
+degree of flexibility of the supply concepts. Brushless excitation systems (BES)
+are excitation systems for generators with (brushless) exciters, using cutting -edge technology. They are suitable for all perfor mance classes 
+from 1 over 1000 MVA generator output in gas, hydroelectric and steam power plants and are characterized by absolute reliabil ityand 
+maximum efficiency.
+The excitation system is independent of 
+which generator with exciter you choose to 
+employ, which power supply is present, 
+which I&C system you use or whether the 
+I&C system is being replaced at the same 
+time. 
+Another particularly important point: 
+Regardless of which redundancy concept is 
+required, Siemens Energy will implement a 
+customized concept, covering everything up 
+to comprehensive full redundancy concepts. 
+This flexibility is achieved solely using 
+standard industrial components, which is 
+why no "custom -made products "and no 
+costly storage of spare parts are necessary.
+The switchover to the latest generation of 
+BES also benefits user friendliness, due to 
+ergonomic and transparent presentation of 
+the operating status and excellent 
+interaction with the generator protection 
+and I&C systems. 
+Of course, Siemens Energy ensures smooth 
+replacement, encompassing everything 
+from project planning through to commis -
+sioning , and then provides ongoing service 
+support for BES. The "Plug out –Plug in" 
+replacement of the excitation system 
+requires minimal conversion time. 
+Your Benefits
+▪Highest possible availability 
+and reliability due to robust 
+and tried -and-tested 
+technology
+▪Standardized design
+▪Minimum conversion time 
+courtesy of "Plug out –Plug 
+in" replacement of the 
+existing excitation system
+▪Low maintenance costs 
+through the use of proven 
+industry components and 
+modular structure
+▪Ultra -simple and thus fault -
+free operation due to trans -
+parent representation of the 
+operating status
+Siemens Energy is a trademark licensed by Siemens AG Unrestricted
+
+Published by
+Siemens Energy Global GmbH & Co. KG
+Gas Services
+Siemenspromenade 9
+91058 Erlangen , Germany
+Siemens Energy, Inc.
+Gas Services
+4400 N Alafaya Trail
+Orlando, FL 32826, USA
+For more information, please contact
+Email : electrical -solutions@siemens -energy. com
+© Siemens Energy, 2023
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance 
+features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract.
+All product designations may be trademarks or product names of 
+Siemens Energy Global GmbH & Co. KG or other companies whose 
+use by third parties for their own purposes could violate the rights of 
+the owners.

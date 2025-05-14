@@ -1,0 +1,606 @@
+ 
+Confidencial  Página 1 de 4 Condi ciones de Compra   
+Estatus : Abril 2025  
+ 
+1. Orden y Confirmación de Orden  
+1.1 El Cliente podrá cancelar la orden si el Proveedor no ha confirmado la aceptación de 
+la orden (confirmación)  
+1.2 Los cambios, modificaciones o adiciones a la orden únicamente se convertirán en 
+parte del contrato si el Cliente acepta estos por escrito. En particular, el Proveedor está 
+obligado a los términos y condiciones del Cliente establecidos en el presente . La 
+aceptación de bienes  o servicios, así como los pagos no constituyen  dicho 
+consentimiento.  
+1.3 Las disposiciones en otros documentos previstas por el Proveedor (tales como, pero 
+sin limitar , las especificaciones, hojas de datos, documentación técnica, materiales de 
+publicidad, confirmación de órdenes y/o documentos de envío) respecto de términos 
+legales, responsabilidad, restricción de uso, restricción de aplicación y/o restricción de 
+idoneida d, o cualquier otra disposición que cambie las disposiciones de estas 
+Condiciones de Compra no serán aplicables.  
+ 
+2. Derechos de Uso  
+2.1 El Proveedor en este acto otorga al Cliente los siguientes derechos no  exclusivos , 
+transferibles, mundiales y perpetuos:  
+2.1.1 para usar los bienes  y servicios incluyendo documentación relacionada, para 
+integrarlos en otros productos y distribuirlos;  
+2.1.2 para instalar, lanzar, probar y operar software y su documentación relacionada (a la 
+que en lo sucesivo se le referirá conjuntamente como el “Software”);  
+2.1.3 para sublicenciar el derecho de uso bajo la sección 2.1.2 anterior a afiliadas  o 
+sociedades relacionadas , a las que en lo sucesivo se les referirá como “Afiliadas”), a 
+terceras partes contratadas,  a distribuidores y a clientes finales;  
+2.1.4 para dar en licencia a Afiliadas y otros distribuidores el derecho de sublicenciar el 
+derecho de uso bajo la sección 2.1.2 anterior a clientes finales;  
+2.1.5 para usar el Software para la integración en otros productos y para copiar el 
+Software, o para permitir a Afiliadas, terceras partes contratadas  o distribuidores para 
+usar y copiar el Software;  
+2.1.6 para distribuir, vender, alquilar, arrendar, preparar para descarga o poner a 
+disposición públicamente el Software, por ejemplo, en el contexto de la prestación del 
+servicio de aplicación o en los demás contextos, y para copiar el Software en la medi da 
+requerida, en el entendido siempre que el número de licencias que estén siendo usadas 
+en cualquier momento no excederá del número de licencias adquiridas;  
+2.1.7 para sublicenciar el derecho de uso bajo la sección 2.1.6 anterior a Afiliadas, 
+terceras partes contratadas  y distribuidores.  
+2.2 Adicionalmente a los derechos otorgados en la sección 2.1 anterior, el Cliente, las 
+Afiliadas y los distribuidores están autorizados para permitir a clientes finales transferir 
+las respectivas licencias.  
+2.3 Todas las sublicencias otorgadas por el Cliente deberán contener la protección 
+adecuada para los derechos de propiedad intelectual del Proveedor sobre el Software. 
+Todas las sublicencias deberán contener disposiciones contractuales utilizadas por el 
+Cliente para proteger sus propios derechos de propiedad intelectual.  
+2.4 El Proveedor informará al Cliente a más tardar al momento en que se confirme la 
+orden , si los bienes  y servicios a ser entregados contienen componentes de código 
+abierto.  
+En el contexto de esta disposición “componentes de código abierto” significa cualquier 
+software, hardware u otra información que sea proporcionada libre de regalías por el 
+respectivo licenciante a cualquier usuario en base a una licencia con el derecho de 
+modificar y/o distribuir (por ejemplo, la Licencia Pública General de GNU, (GPL), la 
+Licencia Pública General Reducida de GNU (LGPL), o la Licencia MIT). En caso de que 
+los bienes  y servicios entregados por el Proveedor contengan componentes de código 
+abierto, el Proveedor cumplirá con todos los términos de la licencia de código abierto 
+aplicable y otorgará todos aquellos derechos al Cliente y proporcionará toda la 
+información que el Cliente necesite a fin de que él mismo  cumpla con los términos de 
+licencia aplicables. En particular, el Proveedor deberá entregar lo siguiente al Cliente 
+inmediatamente después de que se confirme la orden:  
+Una lista de todos los componentes de código abierto utilizados, indicando la  respectiva 
+licencia, su versión e incluyendo una copia del texto completo de dicha licencia e 
+incluyendo una referencia a derechos de autor y/o autoría.  Dicha lista deberá tener una 
+estructura comprensible y contendrá un índice.  
+El código fuente completo del respectivo software de código abierto,  incluyendo 
+secuencias de comando e información relativa a su ambiente generador en tanto que las 
+condiciones de código abierto aplicables exijan esto.  
+2.5 El Proveedor a más tardar al momento de la confirmación de la orden informará por 
+escrito al Cliente si las licencias de código abierto utilizadas por el Proveedor podrían 
+estar sujetas a un Efecto Copyleft que podrían afectar a los bienes  del Cliente. En el 
+contexto de esta disposición, “Efecto Copyleft “significa  que las disposiciones de la 
+licencia de código abierto exigen que  ciertos bienes  del Proveedor, así como los 
+productos derivados de  dichos bienes , únicamente podrán ser redistribuidos de 
+conformidad con los términos de la licencia de código abierto, por ejemplo, únicamente si 
+el código fuente es revelado. En caso de que las licencias de código abierto utilizadas por 
+el Proveedor estén sujetas a un “Efecto Copyleft” según se define anteriormente, el 
+Cliente tendrá derecho de cancelarla orden dentro de las d os semanas a partir de la 
+recepción de esta información.  
+ 
+3. Retraso y  Pena lización  por Incumplimiento  
+3.1 Para los efectos de establecer la puntualidad de la entrega, el respectivo punto en el 
+tiempo es la fecha de recepción en el lugar de destino/entrega conforme a los Incoterms 
+® 2020 designada p or el Cliente, y para entregas que involucren servicios de instalación, 
+puesta en servicio o rectificación, el respectivo punto en el tiempo será la fecha de 
+aceptación por parte del Cliente.  
+  
+ 
+ 
+ 
+3.2 Si se anticipa un retraso en la entrega o cumplimiento o rectificación, se  
+notificará de inmediato al Cliente y se someterá a  su decisión.  
+3.3 En caso de retraso el Cliente puede aplicar o deducir una pena respecto de 
+cada día natural de retraso que será del  1% (uno por ciento) pero que no 
+excederá de un total del 10 % (diez por ciento) del valor total del contrato.  
+3.4 Los derechos adicionales u otros derechos por ministerio de ley no se verán 
+afectados por el presente.  
+ 
+4. Transferencia de Riesgo, Envío y Lugar de Cumplimiento, Transferencia de 
+Propiedad  
+4.1 Para entregas que involucren la instalación, puesta en servicio o servicios, 
+la transferencia de riesgo ocurre al momento de aceptación y para entregas 
+que no involucren  la instalación o puesta en servicio, la transferencia de riesgo 
+será al momento de la recepción  por parte del Cliente en el lugar designado  de 
+destino/entrega conforme a  los Incoterms ® 2020. Salvo que se convenga de 
+otra forma, aplicarán los Incoterms ® 2020 DDP (lugar de destino designado), 
+si (a) la sede del Proveedor y el lugar de destino designado están dentro del 
+mismo país o si (b) la sede del Proveedor y el lugar de destino designado es tán 
+ambos dentro de la Unión Europea. Si ni (a) ni (b) se cumplen, entonces 
+aplicarán  los Incoterms ® 2020 DAP (lugar de destino designado), salvo que  
+se convenga de otra forma.  
+4.2 Salvo que se convenga de otra forma, los costos de empaque adecuado 
+serán cubiertos por el Proveedor. En caso de que los costos de transporte sean 
+cubiertos por el Cliente, el aviso de dispo nibilidad para envío se dará junto con 
+la Información prevista en la sección 4.3 del presente. A solicitud del Cliente el 
+Proveedor deberá usar una herramienta de rastreo  del Cliente . El transporte 
+deberá ser arreglado por el Proveedor al costo más bajo posible, en tanto que 
+el Cliente no haya solicitado un método pa rticular de entrega o la celebración 
+de un contrato para el transporte por parte del Cliente. Cualquier costo adicional  
+derivado de la no conformidad con los requisitos de transporte incluyendo 
+costos derivados de la falta de aplicación de la herramienta de rastreo  del 
+Cliente , en caso de que se solicite, serán cubiertos por el Proveedor. En caso 
+de que se acepten los Incoterms ® 2020 DAP/DDP (lugar de destino 
+designado), el Cliente también podrá determinar el método de transporte. Los 
+costos adicionales derivados de la necesidad de cumplir con la fecha límite de 
+entrega expedita serán cubiertos por el Proveedor.  
+4.3 Cada entrega incluirá una nota de empaque con detalles  de los contenidos, 
+así como el número de orden completo.   
+4.4 Mientras que el Cliente y el Proveedor convengan que el Proveedor 
+contrate el transporte de entrega que contengan bienes peligrosos por cuenta 
+del Cliente, el Proveedor será responsable de proporcionar  la información de 
+los bienes peligrosos que se requieran legalmente al agente de transporte 
+nombrado por el Cliente cuando se haga la orden de transporte. En estos casos 
+el Proveedor también será responsable del empaque, marcado, etiquetado, etc. 
+En cumplimiento con el reglamento relativo que aplique al  transporte  utilizado.  
+4.5 Si el Cliente informa al Proveedor que después del transporte inicial está 
+programado otr a forma de transporte, el Proveedor también deberá cumplir con 
+los respectivos requisitos legales relativos a bienes peligrosos respecto de 
+dicho transporte en curso.  
+4.6 La transferencia de la propiedad  se hará a la entrega o aceptación por parte 
+del Cliente, según sea el caso.  
+ 
+5. Pago, Facturas  
+5.1 Salvo que se convenga de otra forma, los pagos serán exigibles y 
+pagaderos a más tardar dentro de 90 (noventa) días. Si el pago se hace dentro 
+de 14 (catorce) días, el Cliente tendrá derecho a un descuento del 3 % (tres 
+por ciento). El período para el pago iniciará tan pronto como el Cliente haya 
+recibido y aceptado la factura del Proveedor .  
+5.2 El Proveedor estará obligado a cumplir con los requisitos de facturación del 
+Cliente. En caso de que , dichos requerimientos  sean omitidos, las facturas no 
+serán pagad as.  
+5.3 En caso de que el Proveedor esté obligado a proporcionar pruebas de los 
+bienes , registros de pruebas o documentos de control de calidad o cualquier 
+otra documentación, estos formarán  parte de los requisitos para acreditar la 
+terminación de los servicios o la  entrega de los bienes . Si el Cliente retiene o 
+descuenta pagos derivados de una deficiencia, tendrá derecho a tener un 
+descuento.  
+5.4 El pago no constituye un reconocimiento de que la correspondiente  entrega 
+de bienes o la prestación de los servicios fue prestados de conformidad con el 
+contrato.  
+ 
+6. Inspección al momento de recepción  
+6.1 El Cliente examinará inmediatamente cuando reciba en el lugar designado 
+si la entrega corresponde a la cantidad y tipo de productos ordenados y si hubo 
+cualquier daño externo reconocible de transporte u otras deficiencias 
+evidentes.  
+6.2 En caso de que el Cliente descubra una deficiencia en el curso de estas  
+inspecciones o en una etapa posterior, informará al Proveedor sobre dicha  
+deficiencia.  
+6.3 Podrán interponerse quejas dentro de un mes a partir de la entrega de los 
+bienes  o de  la prestación de los servicios , y en tanto  que no se detecten  
+deficiencias en la puesta en servicio, procesamiento o primer uso, dentro de un 
+mes a partir de la detección.  
+ 
+
+ 
+Confidencial  Página 2 de 4 6.4 En dicho supuesto , El Cliente no tendrá ningún otro deber frente al Proveedor distinto 
+de los deberes de inspección y notificacion es antes mencionadas.  
+ 
+7. Garantía  
+7.1 Si las deficiencias se identifican antes o durante la transferencia de riesgo o durante 
+el período de garantía previsto en la sección 7.8 o 7.9, el Proveedor deberá a su propio 
+costo y a discreción del Cliente ya sea reparar la deficiencia o realizar nuevamente la 
+prestación de los servicios o la sustitución de bienes  (rectificación). Esta disposición 
+también aplica a entregas sujetas a inspección mediante pruebas de muestreo. La 
+discreción del Cliente se ejercerá en forma justa y razonable.  
+7.2 En caso de que el Proveedor no rectifique (es decir, repare o reemplace) una 
+deficiencia dentro de un período razonable de tiempo establecido por el Cliente, el Cliente 
+tendrá derecho de:  
+7.2.1 cancelar el contrato en todo o en parte sin que quede sujeto a ninguna  
+responsabilidad por daños; o  
+7.2.2 exigir una reducción en el precio; o  
+7.2.3 llevar a cabo por sí mismo cualquier reparación con cargo al Proveedor o volver a 
+prestar los servicios o sustituir los bienes  o que un tercero lo realice.  Los costos que surjan 
+en dichos casos atribuibles al Proveedor se deducirán de las facturas pendientes de pago 
+por parte del Cliente y  
+7.2.4 demandar daños en lugar de cumplimiento.  
+Para efectos de establecer el cumplimiento  de la rectificación, este se será efectivo hasta 
+la fecha de recepción en el lugar de destino.  
+7.3 Los derechos conforme a la sección 7.2 podrá n ejercerse sin un tiempo límite en 
+aquellos casos en que el Cliente t enga  un fuerte interés particular en la rectificación  
+inmediata a fin de evitar cualquier responsabilidad propia por el retraso o por otras 
+razones de urgencia y no sea razonable para el Cliente solicitar  al Proveedor rectificar la 
+deficiencia dentro de un período de tiempo razonable.  
+7.4 Los derechos antes mencionados en la presente cláusula expirarán un año después 
+de la notificación de la deficiencia  pero en ningún evento expirarán antes del vencimiento 
+de los periodos de garantía establecidos en la presente sección.  
+7.5 Los derechos adicionales u otros derechos por ministerio de ley no se verán afectados 
+por el presente.  
+7.6 Si el Proveedor realiza  reparaciones o re -ejecución de servicios subsecuente s, los 
+períodos de garantía previstos en la sección 7.8 y 7.9 empezarán a correr nuevamente . 
+7.7 No obstante la transferencia de riesgo respecto a la entrega  de los bienes , el 
+Proveedor absorberá los costos y riesgo relacionados con la rectificación (por ejemplo, 
+costos por devolución, costos de transporte, costos de desinstalación y reinstalación).  
+7.8 El período de garantía por deficiencias de material es de tres años, salvo que la s 
+disposiciones de ley establezcan períodos más largos.  
+7.9 El período de garantía en el título de propiedad  es de cinco años, salvo que la s 
+disposiciones de ley establezcan períodos más largos.  
+7.10 Para entregas que no involucren la instalación o puesta en servicio, el período de 
+garantía empieza a correr con la recepción en el lugar de destino designado por el Cliente. 
+Para entregas que involucren la instalación, puesta en servicio o servicios,  el período de 
+garantía empieza a correr con la aceptación por parte del Cliente. Cuando se haga la 
+entrega a lugares en los que el Cliente esté operando fuera de sus instalaciones, el 
+período de garantía inicia con la aceptación por parte del cliente fina l, que en ningún caso 
+será después de un año posterior a la transferencia del riesgo.  
+ 
+8. Obligación del Proveedor de Verificar e Informar  
+8.1 El Proveedor está obligado a examinar componentes tales como, materias primas 
+proporcionadas por el Cliente o proporcionadas por los proveedores del Proveedor, 
+fabricantes u otros terceros al momento de recepción de dichos Componentes respecto 
+de si es tos componentes muestran defectos evidentes u ocultos. En caso de que se 
+descubran defectos en el curso de dichas inspecciones, el Proveedor informará 
+inmediatamente a sus proveedores o en el caso de que los componentes sean 
+proporcionados por el Cliente i nformará al Cliente.  
+8.2 Es esencial que los bienes  sean entregados libres de derechos de terceros. Por lo 
+tanto, el Proveedor tiene el deber de verificar el título e informar al Cliente sobre cual quier 
+posible derecho de propiedad industrial e intelectual que estén en conflicto. El 
+incumplimiento de dicho deber está sujeto al período de prescripción establecido por la 
+ley. 
+ 
+9. Gestión de Calidad, Subcontratación de Terceros  
+9.1 El Proveedor mantendrá un sistema de gestión de calidad  conforme  a la ISO 9001.  
+9.2 La subcontra tación de terceros no podrá llevarse a cabo sin el previo consentimiento 
+por escrito del Cliente y da derecho al Cliente de cancelar el  contrato en todo o en parte 
+y demandar daños.  
+9.3. Responsabilidad laboral  
+El Proveedor reconoce que será el único y exclusivo responsable frente al Cliente del 
+cumplimiento con las obligaciones civiles, fiscales (estatales y federales), laborales, de 
+seguridad social, ambientales, sanitarias, de seguridad y de migración que las respectivas 
+legislaciones, leyes y reglamentos vigentes indiquen en relación con su personal y el 
+personal de sus subcontratistas que pudiera usar directa o indirectamente para la 
+ejecución del suministro de los bienes  y/o servicios.  
+El Proveedor como único responsable frente al Cliente del personal que interviene en la 
+ejecución del suministro de los bienes  y servicios materia objeto de esta Orden de 
+Compra, se obliga a mantener al Cliente, sus subsidiarias, sus afiliadas y sus 
+correspondientes representantes y colaboradores, en paz y a salvo de cualquier 
+reclamación, demanda, queja, acción, multa, daño o perjui cio relacionado con el 
+incumplimiento con las obligaciones antes mencionadas.  El Proveedor compensará al 
+Cliente por todos lo s daños, pérdidas y gastos que resulten de los mismos. Así como a 
+reembolsar cualquier gasto que por tal motivo pudiere desembolsar el Cliente, incluyendo 
+costas judiciales , y gastos de los abogados del Cliente.   
+ 
+10. Material Proporcionado, Información  10.1 El material e información proporcionados por el Cliente continúan siendo 
+propiedad  del Cliente y deberán almacenarse, etiquetarse como propiedad del  
+Cliente y administrarse separadamente sin costo alguno para el Cliente.  Su uso 
+está limitado a las órdenes del Cliente únicamente. El Proveedor  proporcionará 
+reemplazos en el caso de una reducción del valor o pérdida de  los cuales el 
+Proveedor sea responsable, inclusive en el caso de simple negligencia. Esto 
+también aplica a la transferencia de material asignado.  
+10.2 Cualquier procesamiento o transformación del material  e información será 
+para el Cliente. El Cliente se convertirá de inmediato en el propietario del 
+producto Nuevo o transformado. En caso de que esto fuere imposible  por 
+razones legales, el Cliente y el Proveedor convienen en este acto  que el Cliente 
+será el propietario del nuevo producto en todo momento durante el  
+procesamiento o transformación. El Proveedor cuidará el nuevo producto para 
+el Cliente sin costo extra y al hacerlo ejercerá el deber de cu idado .  
+ 
+11. Herramientas, Patrones, Muestras, Confidencialidad  
+11.1 Las herramientas, patrones, muestras, modelos, perfiles, dibujos, hojas de 
+especificaciones estándar,  plantillas de impresión y materiales proporcionados 
+por el Cliente o hechos para el Cliente, así como materiales derivados de los 
+mismos, no se pondrán a disposición de ningún tercero ni serán utilizados para 
+ningún otro fin distinto de aquellos acordados contractualmente excepto con el 
+previo consentimiento por escrito del Cliente. Dichos materiales serán 
+protegidos contra el acceso o uso no autorizad o. Sujeto a cualesquier derechos 
+adicionales el Cliente podrá exigir que dichos materiales sean devueltos si el 
+Proveedor incumple con est as obligaciones.  
+11.2 El Proveedor tratará como confidencial el conocimiento y hallazgos, 
+documentos , términos de referencia, procesos comerciales u otra información 
+que reciba por parte de o sobre el Cliente en el contexto de la realización de  
+los bienes  y servicios, así como l os términos del contrato y cual quier resultado, 
+respecto de terceros y mantendrá los mismos como confidenciales más allá de 
+la vigencia del contrato – mientras y en tanto que  dicha información no se haya 
+vuelto del conocimiento público por medios leg ales o el Cliente no haya 
+consentido por escrito su transmisión en el caso individual.  El Proveedor podrá 
+poner a disposición la información confidencial únicamente a aquellos 
+empleados que necesiten la información para el cumplimiento de sus deberes 
+y se asegurará de que dichos empleados también estén sujetos a un deber de 
+tratar dicha información como confidencial.  El Proveedor usará esta 
+información exclusivamente para fines de llevar a cabo las entregas de los 
+bienes y servicios. En tanto que el Client e acepte la subcontratación de un 
+tercero, dicho tercero deberá aceptar dichos términos por escrito.  
+ 
+12. Cesión de Reclamos  
+Cualquier cesión de reclamos solo será permitida únicamente previa 
+aprobación por escrito del Cliente.  
+ 
+13. Derecho de Termina ción y Cancela ción 
+13.1 Adicionalmente a cualesquier derechos previstos por la ley de terminar o 
+cancelar un contrato, el Cliente podrá cancelar el contrato en todo o en parte 
+en caso de que (a) el Proveedor se retrase con su entrega o servicio y dicho 
+retraso persista por más de dos semanas posteriores a la recepción d e la 
+notificación de retraso o en caso de que (b) el cumplimiento del contrato se vea 
+amenazado tomando en consideración las circunstancias del caso o por 
+intereses del Cliente. Esto podría, en particular, aplicar en caso de un deterioro 
+real o posible de la situación financiera del Proveedor que amenace por 
+consiguiente el debido cumplimiento de las obligaciones del Proveedor bajo el 
+contrato.  
+13.2 El Cliente también podrá dar por terminado el contrato en caso de que se 
+soliciten o se inicien procedimientos de insolvencia o procedimientos similares 
+en relación con los activos del Proveedor.  
+13.3 En caso de una terminación por parte del Cliente , el Cliente podrá 
+continuar utilizando las instalaciones existentes, bienes  o servicios que ya se 
+hayan prestado por parte del Proveedor a cambio del pago de bienes y/o 
+servicios que hayan sido aceptados por el Cliente al momento de la 
+terminación.  
+ 
+14. Código de conducta para proveedores y seguridad en la cadena de 
+suministro  
+14.1 El Proveedor está obligado a cumplir las leyes del sistema legal aplicable. 
+En particular, el proveedor no participará, ni activa ni pasivamente, ni directa ni 
+indirectamente en ninguna forma de soborno, en ninguna violación de los 
+derechos humanos básicos de los empleados ni en ningún trabajo infantil y el 
+Proveedor cumplirá las nor mas del Código de Conducta de Siemens Energy y 
+transmitirá estas expectativas a sus propios proveedores a lo largo de su 
+cadena de suministro.   Asimismo, el Proveedor asumirá responsabilidad por la 
+salud y seguridad de sus empleados, y cumplirá los requisi tos de salario 
+mínimo aplicables. Cuando actúe de conformidad con la legislación 
+medioambiental aplicable, el Proveedor adoptará las medidas adecuadas para 
+evitar el uso de minerales conflictivos y creará transparencia sobre el origen de 
+las materias prima s. El Proveedor pondrá a disposición de sus propios 
+empleados un mecanismo protector de denuncia para informar de posibles 
+infracciones del presente Código de Conducta y hará todo lo posible para 
+promover el presente Código de Conducta entre sus subcontrat istas. El 
+Proveedor estará obligado a documentar debidamente su cumplimiento del 
+Código de Conducta. El Cliente y sus representantes o un tercero designado 
+por el Cliente y razonablemente aceptable para el Proveedor. podrán (pero no 
+estarán obligados) a re alizar -también en las instalaciones del Proveedor - 
+inspecciones  para verificar el cumplimiento por parte del Proveedor de las 
+obligaciones contractuales, en particular el Código de Conducta. Cualquier 
+inspección de este tipo sólo podrá llevarse a cabo de conformidad con la 
+legislación aplicable en materia de protecció n de datos y no interferirá 
+injustificadamente en las actividades comerciales de los Proveedores ni violará 
+ninguno de los acuerdos de confidencialidad de los Proveedores con terceros. 
+ 
+Confidencial  Página 3 de 4 El Proveedor cooperará razonablemente en cualquier inspección que se lleve a cabo. El 
+Proveedor iniciará inmediatamente cualquier acción correctiva si detecta cualquier 
+violación del Código de Conducta por sí mismo o por sus subcontratistas e informará sin  
+demora al Cliente de dicha violación y de la acción correctiva adoptada. al Cliente de 
+dicha infracción y de las medidas correctoras, siempre y cuando dicha infracción afecte 
+al contrato.  
+14.2 El Proveedor proporcionará las instrucciones organizacionales necesarias y tomará 
+medidas, en particular respecto de las siguientes garantías: seguridad en las 
+instalaciones, empaque y transporte, socio comercial, personal e información – a fin de 
+garantizar la seguridad en la cadena de suministro conforme a los requisitos de las 
+respectivas iniciativas reconocidas internacionalmente con base en el Marco de Normas 
+WCO SAFE (por ejemplo, AEO, C -TPAT). El Proveedor protegerá los bienes y servicios 
+propor cionados/prestados al Cliente o proporcionados/prestados a terceros designados 
+por el Cliente contra el acceso y manipulación no autorizados. El Proveedor únicamente 
+utilizará a personal confiable para aquellos bienes y servicios y obligará a cualquier 
+subcontratista a tomar medidas de seguridad equivalentes.  
+14.3 Adicionalmente a otros derechos y recursos que el Cliente pudiera tener, el Cliente 
+podrá dar por terminado el contrato en caso de incumplimiento de las obligaciones del 
+Proveedor bajo la sección 14. No obstante, siempre que el incumplimiento del cont rato 
+por parte del Proveedor sea susceptible de ser subsanado, el derecho del Cliente de dar 
+por terminado estará sujeto a las disposiciones de que dicho incumplimiento no haya sido 
+subsanado por el Proveedor dentro de un período de gracia razonable establ ecido por el 
+Cliente.  
+ 
+15. Conformidad del Producto, Protección Ambiental Relacionada con el Producto  
+incluyendo Declaración de Sustancias, Bienes Peligrosos, Salud ocupacional e Higiene 
+en el trabajo . 
+15.1 En caso de que el Proveedor entregue bienes  a los que apliquen requisitos 
+obligatorios  y legales relacionados con los bienes  en vista de su colocación en el mercado 
+y posterior  comercialización en el Área Económica Europea o a los que apliquen  los 
+requisitos correspondientes respecto de otros países notificados por el Cliente al 
+Proveedor, entonces el Proveedor deberá garantizar el cumplimiento de  los bienes  con 
+estos requisitos al momento de transferir el riesgo. Adicionalmente, el Proveedor deberá 
+asegurarse de que todos los documentos e información que sean necesarios para probar 
+la conformidad de los bienes  con los respectivos requisitos sean proporcionados 
+inmediatamente al Cliente  cuando este solicite.  
+15.2 En caso de que el Proveedor entregue bienes , sustancias que estén señaladas  
+en la denominada “Lista de Sustancias Declarables”   
+(www.bomcheck.net/suppliers/restricted -and-declarable -substances -list) aplicable en el 
+momento de la orden o que estén sujetos a restricciones  de sustancias  y/o requisitos de 
+información  impuestos obligatoriamente   (por ejemplo REACH, RoHS), el Proveedor 
+declarará dichas sustancias  y proporcionará información según se solicite en la base de 
+datos en internet BOMcheck ( www.BOMcheck.net  )  a más tardar  en la fecha de la primera 
+entrega de los bienes . Respecto de restricciones de sustancias  impuestas 
+obligatoriamente , lo anterior , únicamente aplica a leyes  que sean aplicables en el país 
+registrado del Proveedor o el Cliente o en el lugar de destino designado por el Cliente.  
+15.3 En caso de que la entrega contenga bienes que – conforme a los reglamentos  
+internacionales – estén clasificados como bienes peligrosos, el Proveedor informará  al 
+Cliente del presente documento en una forma convenida entre el Proveedor y el Cliente, 
+pero en ningún caso  después de la fecha de la confirmación de la orden.  Los requisitos 
+relativos a bienes peligrosos en la sección 4.4. y 4.5  continúan sin ser afectados.  
+15.4 El Proveedor está obligado a cumplir con todos los requisitos legales relativos  a la 
+seguridad e higiene del personal empleado por el Proveedor. Este deberá  garantizar que 
+la seguridad e higiene de su personal y la de sus subcontratistas contratados para llevar 
+a cabo las entregas de bienes y servicios esté protegida.  
+ 
+16. Ciberseguridad  
+16.1 El Proveedor  adoptará las medidas organizacionales y técnicas apropiadas para 
+asegurar la confidencialidad, autenticidad, integridad y disponibilidad de sus operaciones; 
+así como de sus productos y servicios. Estas medidas deberán ser coherentes con las 
+buenas práctic as de la industria e incluirán un sistema apropiado de gestión de seguridad 
+de la información acorde con los estándares como ISO / IEC 27001 o IEC 62443 (en la 
+medida que aplique).  
+16.2 “Operaciones del P roveedor ” significa todos los activos, procesos y sistemas 
+(incluyendo la información de sus sistemas), datos (incluyendo los datos del CLIENTE), 
+personal y sitios, utilizados o procesados por el P roveedor  periódicamente en la ejecución 
+de este contrato.  
+16.3 En caso de que los productos o servicios contengan software, firmware o  
+conjuntos de chips:  
+i. El Proveedor implementará los estándares apropiados, procesos y métodos para 
+prevenir, identificar, evaluar y reparar cualquier vulnerabilidad, código malicioso, e 
+incidentes de seguridad en productos y servicios que deberán ser consistentes con 
+las buenas  prácticas y estándares de la industria como ISO / IEC 27001 o IEC 
+62443 (en la medida que aplique);  
+ii. El Proveedor continuará apoyando y brindando servicio para reparar, actualizar, 
+mejorar y mantener los productos y servicios, incluyendo la provisión de parches 
+para que el Cliente solucione vulnerabilidades durante la vida útil razonable de los 
+productos y servicios;  
+iii. El Proveedor deberá proporcionar al Cliente una lista de materiales que identifique 
+todos los componentes de software de terceros contenidos en los productos. El 
+software de terceros deberá estar actualizado al momento de la entrega al Cliente;  
+iv. El Proveedor otorgará al Cliente el derecho, pero el Cliente no estará obligado a 
+probar o haber probado los productos en busca de códigos maliciosos y 
+vulnerabilidades en cualquier momento, y deberá apoyar adecuadamente al 
+Cliente;  
+v. El Proveedor deberá proporcionar al Cliente un contacto para todos los problemas 
+relacionados con la seguridad de la información (disponible durante el horario de 
+oficina).  
+16.4 El Proveedor informará de inmediato al Cliente todos los incidentes de seguridad de 
+la información relevantes presuntos u ocurridos y las vulnerabilidades descubiertas en las 
+operaciones, servicios y productos del Proveedor, en la medida en que el Cliente se vea 
+o pueda verse materialmente afectado.  16.5 El Proveedor tomará las medidas apropiadas para lograr que sus 
+subcontratistas y proveedores, dentro de un tiempo razonable, estén sujetos 
+por obligaciones similares a las disposiciones de esta sección.  
+16.6 A solicitud del Cliente, el Proveedor  deberá proporcionar evidencia por 
+escrito de su cumplimiento con esta sección, incluyendo los informes de 
+auditoría generalmente aceptados (por ejemplo, SSAE -16 SOC 2 Tipo II).  
+ 
+17. Control de Exportaciones y Regulaciones de Comercio Exterior  
+17.1 El Proveedor cumplirá todas las normativas aplicables en materia de 
+control de exportaciones, aduanas y comercio exterior ("Regulaciones del 
+Comercio Exterior"). En particular, el Proveedor declara y garantiza que 
+ninguno de sus productos ni de sus servici os prestados en virtud del contrato 
+contiene productos y/o servicios cuya importación esté restringida en las 
+Regulaciones de Comercio Exterior aplicable al Cliente, incluido, pero no 
+limitado, a las Regulaciones del Consejo (UE) 833/2014, 692/2014, 2022/2 63 
+o 765/2006, cada uno de ellos en su versión enmendada, y las restricciones a 
+la importación aplicadas por el Servicio de Aduanas y Protección de Fronteras 
+de los Estados Unidos.  
+ 
+El Proveedor comunicará al Cliente por escrito, dentro de un plazo de dos 
+semanas contadas a partir de la recepción del pedido —y en el caso de 
+cambios sin retraso indebido —, toda información y datos exigidos al Cliente 
+para cumplir todos los Reglamentos de Comercio Exterior en el caso de 
+exportación e importación, así como reexportación, entre los cuales se incluyen 
+los siguientes:  
+ 
+- Todos los números de lista de exportación aplicables, incluido el Número de 
+clasificación de control de exportaciones de acuerdo con la Lista de control de 
+comercio de EE. UU. (ECCN); y  
+- El código estadístico de productos de acuerdo con la clasificación actual de 
+productos para estadísticas de comercio exterior y codificación del sistema 
+armonizado, incluida la base arancelaria respectiva sobre la cual se ha 
+realizado la clasificación del producto (por ejemplo, Nomenclatura Combinada 
+de la UE, TARIC, HTS de EE. UU.); y  
+- El país de origen (origen no preferencial), así como la región de origen, si 
+corresponde para el respectivo país de origen; prueba de origen (por ejemplo, 
+lista de embalaje, albarán de entrega, BOL, GAI); y  
+- a solicitud del Cliente - la declaración de origen preferencial del Proveedor (en 
+el caso de proveedores europeos) o certificados preferenciales (en el caso de 
+proveedores no europeos); y  
+- a solicitud del Cliente: evidencia del país de origen de los insumos 
+siderúrgicos utilizados para el procesamiento de los productos"  
+El Proveedor será responsable de cualquier gasto y/o daño incurrido por el 
+Cliente debido a cualquier incumplimiento de las obligaciones según esta 
+sección 17.1  
+ 
+17.2 Prohibición de reexportar a Rusia ("Cláusula de no Rusia")  
+La siguiente cláusula se aplicará si y en la medida en que (i) el Cliente 
+suministre cualquier bien o tecnología al Proveedor en el curso de la ejecución 
+del contrato, (ii) dichos bienes o tecnología suministrados sean o se refieran a 
+bienes enumerados en los Anexos establecidos en el artículo 12 g del 
+Reglamento UE nº 833/2014 y el art. 8g Reglamento UE N° 765/2006 
+modificado y (iii) y el suministro se realiza desde la UE a un tercer país, excepto 
+los países socios, de conformidad con el artículo 12 g Regl amento UE N° 
+833/2014 y el art. 8g Reglamento UE nº 765/2006 modificado:  
+- El Cliente prohíbe al Proveedor, y el Proveedor acepta, no reexportar y/o 
+reenviar, directa o indirectamente, a Rusia o Bielorrusia o para su uso en Rusia 
+o Bielorrusia, cualesquiera bienes y tecnologías suministrados (y 
+documentación relacionada, independ ientemente del modo de provisión) 
+proporcionada por el Cliente al Proveedor bajo el contrato.  
+- El Cliente tendrá derecho a resolver el contrato mediante notificación escrita 
+en caso de incumplimiento por parte del Proveedor de la obligación prevista en 
+este apartado 17.2. Tras la terminación del contrato, el Proveedor pagará al 
+Cliente todos los cos tos y daños incurridos por el Cliente a partir de dicha 
+terminación. En cualquier caso, el Proveedor deberá pagar al Cliente una 
+indemnización por daños y perjuicios equivalente al 20 % del precio del 
+contrato.  
+- Sin  perjuicio de lo dispuesto anteriormente en esta sección 17.2, el Proveedor 
+indemnizará y eximirá de toda responsabilidad al Cliente de y contra cualquier 
+reclamo, procedimiento, acción, multa, pérdida, costo y daño reclamado por las 
+autoridades públic as u otros terceros contra el Cliente que surjan o que estén 
+relacionados con un incumplimiento por parte del Proveedor de las 
+obligaciones establecidas bajo esta sección 17.2 y el Proveedor compensará 
+al Cliente por todas las pérdidas y gastos incurrido s como resultado de ello.  
+ 
+18. Cláusula de Reserva  
+El Cliente  no estará obligado a cumplir con las obligaciones asumidas en el 
+presente acuerdo de voluntades, si el cumplimiento de dichas obligaciones se 
+encuentra limitado en las disposiciones legales nacionales e internacionales 
+aplicables, mencionando de manera en unciativa mas no limitativa reglas de 
+comercio exterior y/o requisitos aduanales, embargos o cualquier otro tipo de 
+sanción.  
+ 
+19. Mención del Cliente como  Referencia  
+Únicamente con la previa aprobación por escrito del Cliente, el Proveedor 
+tendrá  permitido mencionar al Cliente como cliente de referencia y/o hacer  
+referencia a bienes  o servicios que el Proveedor haya desarrollado durante  
+el cumplimiento de una orden para el Cliente.  
+ 
+20. Disposiciones Suplementarias  
+20.1 Si las disposiciones de estas Condiciones de Compra no regulen ciertos 
+asuntos, aplicarán las disposiciones legales correspondientes.  
+ 
+Confidencial  Página 4 de 4 20.2 El Proveedor será responsable de los gastos y/o daños incurridos  
+por el Cliente debido a un incumplimiento de estas condiciones, en particular de las 
+secciones 2, 3, 4, 7, 8, 14, 15, 16 y 17, salvo que el Proveedor no sea  responsable por 
+dicho incumplimiento.  
+ 
+21. Jurisdicción y Legislación Aplicable  
+21.1 La legislación aplicable será la de Venezuela , excluyendo las disposiciones de la  
+Convención de las Naciones Unidas sobre Contratos de Compraventa Internacional  de 
+Mercaderías del 11 de abril de 1980.  
+21.2 El tribunal competente para dirimir cualquier controversia respecto la orden de 
+compra o contrato será aquel dentro de  la jurisdicción del C liente.  
+ 
+22. Suspensión  
+El Cliente podrá, mediante aviso al Proveedor, solicitar en cualquier momento la 
+suspensión del suministro de bienes  o realización de los Servicios. Los costos incurridos 
+que resulten y que se acrediten  por el Proveedor  relacionados con la suspensión se 
+cubrirán por el Cliente, siempre que dichos costos sean previamente acordados y 
+aceptados por el Cliente. Si la suspensión excede de sesenta (60) días en total, el Cliente 
+podrá dar por terminado el Contrato sin ninguna re sponsabilidad.  
+ 
+23. Caso Fortuito o Fuerza Mayor  
+Ninguna de las Partes será responsable frente a la otra por el incumplimiento de sus 
+obligaciones bajo este Contrato y/u Orden de Compra, si dicho incumplimiento es 
+resultado de un Caso Fortuito o Fuerza Mayor.  
+Caso Fortuito o Fuerza Mayor significa aquellos actos de la naturaleza, del hombre o de 
+la autoridad que estén fuera del dominio de su voluntad, que no podrían haberse previsto 
+o inclusive anticipado, que no podrían haber sido evitados o superados, y estos  deberán 
+ser generales, lo que significa, que su cumplimiento sea imposible de llevar a cabo por 
+ninguna persona, que incluyen, sin limitar, epidemias, pandemias (salvo que el Proveedor 
+suministre productos o servicios para una “actividad esencial” y/o su equivalente en el 
+país de origen del Proveedor) del Cliente  conforme a una resolución administrativa, decreto y otra disposición obligatoria emitida por autoridades locales o 
+federales), incendios, terremotos, inundaciones o cualquier otra catástrofe 
+natural, actos de vandalismo, expropiación u otras causas similares que estén 
+más allá del control de la Pa rte en incumplimiento y que no sean causadas por 
+su negligencia.   
+ 
+ 
+La Parte afectada por un Caso Fortuito o Fuerza Mayor notificará sobre dicho 
+evento a la otra Parte, por escrito, dentro de los siguientes cinco días naturales 
+posteriores a la fecha de su ocurrencia, junto con dicha notificación deberá 
+incluir documentos que justifiquen dicha circunstancia. Dicha notificación 
+deberá contener la descripción detallada de los suministros o servicios que 
+hayan sido afectados o que pudieren ser afectados, así como las acciones que 
+el Proveedor llevará a cabo para mitigar los ef ectos de la Fuerza Mayor.  
+En caso de que el Proveedor certifique en una forma confiable lo antes 
+mencionado, las fechas de prestación de servicios o la entrega de suministros 
+se prorrogarán por el mismo número de días equivalentes a la duración de la 
+suspensión debida a un evento d e Fuerza Mayor, previa formalización de lo 
+anterior por las Partes o su equivalente conforme a las circunstancias del caso.  
+ 
+ 
+El Cliente podrá dar por terminado el Contrato y/u la Orden de Compra sin 
+ninguna responsabilidad de su parte, excepto por el pago de los suministros o 
+servicios entregados y aceptados por el Cliente, si, en su opinión razonable, no 
+es económicamente razon able la continuación o si la Fuerza Mayor excede de 
+ciento veinte (120) días en total en su conjunto.   
+ 
+24. Cesión  
+El Cliente podrá transferir, ceder o novar la Orden de Compra o cualquier parte 
+de esta a una sociedad Afiliada. Asimismo, el Cliente tendrá derecho de ceder 
+todo o parte de la Orden de Compra a un tercero, en el caso de una venta u 
+otra transmisión del negocio o una parte del negocio del Cliente a un tercero  
+previa notificación por escrito a el Proveedor.  
+ 
+ 
+ 

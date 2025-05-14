@@ -1,0 +1,778 @@
+[Tapez ici]
+1
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Siemens Energy Business Quality Requirements
+(EBQR) for AGT Suppliers
+EBQR Revision 4
+Release date: 2024-03-19
+Revision Control Version / Reason Date Released
+EBQR Siemens Energy Business AGT
+(Global)Rev 1 First Release of EBQR. Date: 2014-10-01
+EBQR Siemens Energy, SECL AGT
+(Canada)Rev 2 (for SE Canada only). Date: 2020-02-01
+EBQR Siemens Energy AGT (Global)Rev 3 major revision to update EBQR in-
+line with ISO 9001:2015, see Annex 1.Date: 2022-03-17
+EBQR Siemens Energy AGT (Global) Rev 4 minor revision, SE AGT. Date: 2024-03-19
+This document has been revised and approved by:
+Head of SQD SE AGT
+Kate Siegel
+Head of Procurement SE AGTAndy Barnett
+Head of Internal Quality SE AGT
+Anthony Ricardo
+Head of Repair Network SE AGT
+Jim Smith
+
+[Tapez ici]
+2
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Contents
+Introduction.
+Section 1:   Scope, Content & Applicability / QMS Requirements (ISO 9001:2015 Clause 1).
+Section 2:   Order of Precedence.
+Section 3:   Terms and Definitions (ISO 9001:2015 Clause 3).
+Section 4:   Context of the Organization (ISO 9001:2015 Clause 4).
+Section 5:   Leadership / Policy (ISO 9001:2015 Clause 5).
+Section 6:   Planning (ISO 9001:2015 Clause 6).
+Section 7:   Support Resources (ISO 9001:2015 Clause 7).
+Section 8:   Operation (ISO 9001:2015 Clause 8).
+Section 9:   Performance Evaluation (ISO 9001:2015 Clause 9).
+Section 10: Improvement (ISO 9001:2015 Clause 10).
+Section 11: Additional Requirements & Clarifications.
+Annex A1: Correlation Matrix .
+Annex A2: Document revisions
+INTRODUCTION
+The purpose of the Siemens Energy Business Quality Requirements for SE AGT suppliers is to formally communicate
+the requirements and expectations to the global supply chain. The document is aligned with the clauses of ISO
+9001:2015 and Siemens Energy (SE AGT) “ additional requirements are highlighted in Italic text”.  This specification
+and any other associated supplier used documents are available to view and download from the Supplier Portal or
+upon request.
+https://www.siemens-energy.com/global/en/home/supplier/supplier-information.html#AGT-Global-tab-2
+Section 1:
+SCOPE, CONTENT and APPLICABILITY
+This specification applies to the suppliers and their sub-tiers, who manufacture, furnish, or process product and / or
+the provision of services against the purchase order/schedule agreement demand of Siemens Energy AGT. For the
+avoidance of doubt, this scope also applies to Authorized Repair Vendors & Maintenance Repair and Overhaul Centers
+(MROC’s) who will be referred to as suppliers throughout the remainder of the document.
+This specification is the main flow-down document and shall be invoked as the mandatory requirements for the
+supply into SE AGT sites and locations globally to ensure requirements are established, maintained, and implemented
+at all levels.
+Siemens Energy AGT reserves the right to flow down additional requirements to satisfy customer and / or business
+requirements.  Any exceptions or deviations from the requirements contained within this document must be
+mutually agreed in writing with SE AGT Supplier Quality Management .
+[Tapez ici]
+3
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+QUALITY MANAGEMENT SYSTEM REQUIREMENTS
+Quality Management Systems Certification and Approvals for Suppliers
+A)Establish a documented quality management system (QMS) to ISO 9001:2015 preferably that is
+independently assessed and certified by a certification body. The certification body must be accredited by a
+recognized National Accreditation Body to provide audit and certification services of Quality management
+systems.
+B)Work within the scope of their QMS Certification, and / or their scope of approval with Siemens Energy
+AGT.
+C)Ensure SE AGT is notified should their approval be suspended or revoked or when major nonconformances
+(NCRs) are raised by the certifying Body.
+D) Operate within the framework of ISO 14001 and ISO 45001:2018.
+(Approval to these certification standards is preferred but non mandatory).
+Section 2 :
+ORDER OF PRECEDENCE
+Order of precedence for the flow down requirements are:
+a) Purchase Order (to include drawing, specifications) and requirements.
+b) Repair Vendor License Agreements (applicable to authorized repair vendors & MROC’s only).
+c) Long Term Agreement / Contractual Agreement / Frame Agreement.
+d) This document (EBQR).
+[Tapez ici]
+4
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Section 3:
+TERMS AND DEFINITIONS (ISO 9001:2015 Clause 3)
+AGT Aeroderivative Gas Turbines.
+CFSI Counterfeit and Fraudulent Suspect Items.
+COC Certificate of Conformance.
+CEP Customer Energy Portal.
+DAR Drawing Alteration Request.
+EBQR Siemens Energy Business Quality Requirements for AGT Suppliers
+FAI(R)            First Article Inspection (Report).
+ISO International Organization for Standardization.
+ITP Inspection and Test Plan.
+ITCL Industrial Turbine Company Limited.
+MROC              Maintenance Repair Overhaul Centres.
+NCR Non Conformance Report.
+NTS                 Notice to Suppliers.
+PFMEA Process Failure Mode and Effects Analysis.
+PP Production Permit.
+PPQ Product and Process Qualification.
+QMS Quality Management System.
+QN Quality Notification.
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals
+RoHS Restriction of Hazardous Substances
+RVLA               Repair Vendor License Agreements.
+SC Source Change.
+SE Siemens Energy.
+SECL Siemens Energy Canada Ltd.
+TLRF              Technical Liaison Request Form.
+[Tapez ici]
+5
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Section 4
+Context of the organization (ISO 9001:2015 Clause 4)
+4.1   Understanding the organization and its context
+4.2 Understanding the needs and expectations of interested parties
+4.3 Determining the scope of the quality management
+4.4 Quality management system and it’s processes
+Section 5
+Leadership (ISO 9001:2015 Clause 5)
+5.1 Leadership and commitment
+5.1.1 General
+5.1.2 Customer focus
+Policy (ISO 9001:2015 Clause 5.2)
+5.2.1 Establishing the quality policy
+5.2.2 Communicating the quality policy
+5.3 Organizational roles, responsibilities & authorities
+[Tapez ici]
+6
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Section 6
+Planning (ISO 9001:2015 Clause 6)
+6.1 Actions to address risks and opportunities.
+Business Continuity & Risk Management
+In addition, the Supplier Shall:
+a)Establish business continuity plans that identify, analyze, evaluate and / or mitigate risks related to business
+continuity that may include (but is not limited to) the following:
+Obsolescence management.
+Product, facility, or individual skill uniqueness / capacity etc.
+Access to alternative production facilities.
+Single points of failure (including sub-tier suppliers) or key processes.
+Remote backup of computer data.
+Access to alternative information technology systems.
+Cybersecurity.
+Action plans and timescales for business recovery.
+Contacts, process owners and procedures to follow in the event of an emergency.
+A strategy to control, review periodically and communicate plans to all relevant personnel.
+b)It is required that a supplier inform their SE AGT Supplier Quality contact immediately regarding the
+following:
+Changes to third party or other party certification including lapse / withdrawal / major audit findings.
+Change of the nominated quality representative.
+Significant change to the quality management system.
+Change in ownership or discontinuation of business activities.
+Risks that could impact upon the continuity of the supplier’s business / operations.
+Risks with the supply of substances used in the production or physical make-up of products, due to laws
+and regulations concerning the control or use of such substances.
+c)Comply with statutory legislation including CE Marking and UKCA Marking requirements.
+d)Submit risk register and contingency plans to SE AGT on request.
+Contingency plans can be requested at any time; not just during audits and/or assessments.
+e)Maintain documented information of risk management.
+6.2 Quality objectives and planning to achieve them
+6.3 Planning of changes
+[Tapez ici]
+7
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Section 7
+Support (ISO 9001:2015 Clause 7)
+7.1 Resources
+7.1.1 General
+7.1.2 People
+7.1.3 Infrastructure
+7.1.4 Environment for the Operation of Processes
+Lighting
+In addition, the Supplier Shall:
+a) Ensure product verification / inspection activities requiring accurate visual verification are performed
+under sufficient lighting conditions that provide a recommended white light intensity of not less than 500
+Lux.
+7.1.5 Monitoring and measuring resources
+Eye Examination
+In addition, the Supplier Shall:
+A)Establish a documented procedure to ensure that eye examinations, including “visual acuity and
+colour vision, as applicable” are administered by a professionally qualified optometrist, to all
+individuals performing visual inspection and/or other product acceptance activities that require
+visual acuity.
+Intervals shall not exceed two years.
+Individuals shall be tested, either corrected or uncorrected.
+Colour Perception testing intervals should not exceed 5 years. Individuals shall be capable of
+adequately distinguishing and differentiating colours used in the method for which certification is
+required, the process being performed or inspection activity.
+B) Documentation shall be retained for each individual performing:
+Visual inspection (i.e., calibration, non-weld, in- process and final, layout, dimensional).
+Visual Inspections on Welds.
+Non-destructive Testing (NDT) .
+7.1.6 Organizational knowledge
+7.2 Competence
+7.3Awareness
+7.4 Communication
+7.5 Documented information
+[Tapez ici]
+8
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+7.5.1 General
+7.5.2 Creating and updating
+7.5.3 Control of documented information
+In addition, the Supplier Shall:
+Comply with the current revision of documents / specifications referenced on the product definition
+or purchase order / contract.
+Take appropriate action when document changes cannot be implemented prior to the shipment of
+the product.
+Flow down SE AGT documents / specifications to sub-tier suppliers (when applicable).
+Translate SE AGT documents.  If there are deviations between the English version and translated
+versions, the English version is the applicable one.
+Ensure that corrections to work Instruction or QMS documents are recorded and traceable to the
+originator (e.g. signature, stamp, etc) in ink or other permanent marking method with the original data
+being legible after the change.
+Access and changes to documented information will only be performed by persons authorized to
+do so.
+In addition, the Supplier Shall:
+Control documented information related to AGT products in a manner that will allow the recovery of a
+readable version of any documented information (including electronic documented information) by
+ensuring that:
+Documented information is retrievable on request within 24 hours.
+Data requiring authorization by SE is written in the English language or dual language i.e., the
+supplier’s national language plus an accurate English translation made from the original
+document / record (see also Control of documents).
+Documented information created by and / or retained by subcontractors / sub-tier suppliers are
+appropriately controlled in accordance with these requirements.
+Note:  Electronically scanned files are permissible In lieu of storing hardcopies. All electronic documented
+information must be controlled, retained and retrievable per the same requirements identified for hard
+copy documented information. For electronic documented information that are transferred from
+computer files, the storage media must be capable of maintaining the data integrity for the full retention
+period.
+[Tapez ici]
+9
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Retention of Documented information:
+In addition, the Supplier Shall:
+Retain the documented information for the minimum periods as below:
+When the product definition specifies "fixed process control".
+Retained permanently or until SE AGT has instructed the supplier to dispose of the documented
+information.
+All other parts documentation must be retained for 6 years minimum commencing from the date
+product was delivered to AGT SE. The supplier can dispose of documented information at the end
+of this specified period.
+Note:  MROC’s and repair vendors must comply with the latest revision of repair schemes supplied directly
+by SE AGT. When working on behalf of SE AGT, use associated documentation stored on the Customer
+Energy Portal .(For CEP access contact your local SE AGT Account Manager / Commercial Manager ).
+Section 8
+Operation (ISO 9001:2015 Clause 8)
+8.1 Operational planning and control
+Prevention of Counterfeit Parts
+In addition, the Supplier Shall:
+Establish a CFSI controlled process to prevent the use of counterfeit, or suspect counterfeit items, all parts
+shall be controlled to prevent entry into the supply chain.
+Only source catalogue items directly from the original manufacturers (or their authorized agents)
+who have been given prior approval within the suppliers QMS.
+In the event of any CFSI being discovered within the supply chain, the supplier must inform SE AGT
+immediately.
+Any CFSI items which are discovered within the supply chain must be quarantined, reported
+immediately to SE AGT, destroyed, and scrapped with documented information.
+[Tapez ici]
+10
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Material compliance:
+In addition, the Supplier Shall:
+All suppliers of goods and services provided directly to Siemens Energy must ensure that the statutorily
+imposed restrictions and/or information requirements for both those substances and mixtures shall have
+the requisite authorisations as laid out within, but not limited to, REACH and RoHS and these details shall
+be supplied to Reach.agt@siemens-energy.com prior to the supply of those goods or services. It is the
+responsibility of the supplier of those goods and services that they keep themselves up to date for the
+latest chemicals that are affected by these and future legislations.
+8.2 Requirements for products and services
+8.2.1Customer communication
+8.2.2 Determining the requirements for products and services
+Applicable to suppliers and their sub-contractors working at Siemens Energy sites and their customers
+sites; shall:  *
+The Service provider, and their sub-contractors, as appropriate, shall at all times
+              co-ordinate their activities to ensure that work is carried out safely.
+After confirmation of order and before any mobilisation of personnel, they shall agree instructions
+(including method statements and risk assessments to establish a safe system of work).
+The supplier shall at all times whilst attending or working on any site familiarise itself and fully
+comply with all relevant health, safety and environmental laws, rules, regulations and procedures,
+the SE (and the SE’s customers) health and safety policies, and any other requirements which may
+reasonably be notified to them.
+*Not applicable to SECL where defined as indirect suppliers
+8.2.3 Review of requirements for products and services
+8.2.4 Changes to requirements for products and services
+8.3 Design and development of products and services
+8.3.1 General
+8.3.2 Design and development planning
+8.3.3 Design and development inputs
+8.3.4 Design and development controls
+8.3.5 Design and development outputs
+[Tapez ici]
+11
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+8.3.6 Design and development changes
+8.4 Control of Externally Provided Processes, Products and Services
+8.4.1 General
+8.4.2 Type and extent of control
+Control of work transfers (source change)
+Applicable to Gas Turbine Engine Components only, Suppliers Shall:
+Control of work transfers (Source Change) is applicable to suppliers planning the temporary or permanent
+transfer of work and is used to control and verify that the product conforms to requirements during and
+after the following types of transfers:
+From one supplier’s facility to another supplier facility.
+From the supplier’s facility to a subcontractor / sub-tier supplier.
+From a subcontractor / sub-tier supplier to the supplier’s facility.
+From one subcontractor / sub-tier supplier to another subcontractor / sub-tier supplier.
+Any transfer of work within the supplier’s current facility that could have an effect upon the
+continuity of supply of product.
+Control of work transfers (source change) is NOT applicable to:
+Purchased standard catalogue hardware or deliverable software.
+A proposed source that holds a current valid First Article Inspection Report (FAIR) or PPQ for the
+product.
+Raw material purchased from a stockist / distributor.
+SE AGT Global Indirect contracts.
+In addition, the Supplier Shall :
+A)Establish a documented procedure for the control of work transfers (source change) to plan, control
+and verify the conformity to specified requirements during the temporary or permanent transfer of
+work. The procedure shall contain (but not be limited to):
+Formal notification to all stakeholders before any change commences.
+Risk assessment and mitigation.
+Transfer plan.
+Demonstration of capacity at the in-loading area to protect customer delivery.
+Demonstration that generation of buffer stocks are built into load and capacity plans to protect
+customer delivery.
+Complete and submit the form(s) associated with this activity to their SE AGT purchasing contact (see link
+below).
+Source and method change form
+[Tapez ici]
+12
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+B)Proceed with the work transfer (source change) only when a response has been received from their
+SE AGT purchasing contact and they comply with requirements specified in the response.
+C)Ensure that work transfer (source change) documentation / information is communicated along the
+purchase order cascade.
+D)Ensure delivery performance is protected prior to any work transfer (source change).
+E)Maintain documented information of work transfers (source change).
+8.4.3 Information for external providers
+Purchasing / Subcontracting
+In addition, the Supplier Shall:
+Communicate and flow down the supplier’s (purchaser’s) requirements and SE AGT requirements;
+(including applicable SE AGT Supplier Requirements) to subcontractors / sub-tier suppliers.
+Ensure NDA’s are in place when sharing any SE propriety information
+Note: The Authorised Repair Vendors or MROCs shall not subcontract any part of Repair Scheme or
+any related Repair Work without the prior written consent of SE AGT. Additionally, where parts or
+components are required in the performance of repair and overhaul work, such parts must only be
+purchased from Siemens Energy.
+In addition, the Supplier Shall:
+A)Only purchase from a source holding appropriate certification unless agreed with SE AGT Supplier
+Quality [1].
+B)Specify, as applicable, any critical items, during purchasing / subcontracting, product design and
+development and production design and development, including any key characteristics, and
+specific actions to be taken for these items [1].
+C)Unless otherwise noted from SE AGT, only purchase from a SE AGT designated source unless the
+supplier (purchaser) is purchasing [1]:
+SE AGT material specifications from a material stockist / distributor and with traceability to the raw
+material manufacturer.
+ Non SE AGT material specifications only purchase raw material directly from the raw material
+manufacturer.
+Or
+ Non SE AGT material specifications only purchase from a material stockist / distributor where the
+material is tested to specification by a certified inspection and testing laboratory.
+Note 1:  Only applicable to all suppliers involved in or associated with:
+Classified Components (Critical and Sensitive) New & repair.
+Procurement of Castings and Forgings.
+[Tapez ici]
+13
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+8.5 Production and service provision
+8.5.1 Control of production and service provision
+Preventative Maintenance [2]
+In addition, The supplier shall:
+Identify key process equipment and provide resources for machine / equipment maintenance and develop an
+effective planned total preventive maintenance system that includes the following:
+Planned maintenance activities (including the identification of critical spares).
+Packaging, protection and preservation of equipment, tooling, and gauging.
+Availability of replacement parts for key production equipment.
+Documenting, evaluating, and improving maintenance objectives.
+Identification and control of all safety-critical plant and equipment.
+Loss to available capacity related to planned maintenance activities.
+Note 2:  Only applicable to the equipment and Processes utilized to fulfil SE AGT demand.
+Work Instructions
+In addition, The supplier shall :
+a)Prepare documented work instructions for personnel having the responsibility for the operation of
+processes that impact product quality.
+b)Ensure work instructions are accessible for use at the workstation.
+c)Ensure work instructions are derived and cross referenced to sources such as the PFMEA and / or the
+control plan (as applicable).
+NB: Work instructions can include process flow diagrams, production documents such as production plans,
+travelers, routers, work orders, process cards and inspection documents.
+Control of Equipment, Tools and Software Programs :
+Production equipment, tools, and software programs used to automate, and control/monitor product
+realisation processes shall be validated by the supplier prior to release for production and are maintained.
+Storage requirements, including periodic preservation/condition checks, are defined for production
+equipment or tooling in storage.
+8.5.2 Identification and traceability
+In addition, the supplier shall:
+[Tapez ici]
+14
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+a)Identify raw material / product by suitable means throughout production activities and the
+identification to be maintained throughout the product life.
+b)Maintain the traceability for all product during production/repair and overhaul (including product
+quantities, split orders, nonconforming product, and scrap).
+c)Control the unique and serialized parts identification of the product when specified in the SE AGT
+product definition and / or purchase order / contract (see forms below).
+d)Establish a method to differentiate between an unfinished / incomplete product during subcontract /
+sub-tier supplier processing activities and a finished / completed product.
+e)For an assembly the ability to trace its components to the assembly and then to the next higher
+assembly.
+f)Maintain documented information of product identification, traceability, and serialization.
+g)For a product, a sequential record of its production (manufacture, assembly, inspection/verification) to
+be retrievable including repair.
+h)The ability to trace all products manufactured from the same batch of raw material, or from the same
+manufacturing batch to the destination (e.g., delivery, scrap).
+NB: Not applicable to standard catalogue hardware or deliverable software.
+8.5.3 Property belonging to customers or external providers
+8.5.4 Preservation
+Foreign Object Debris (FOD) Prevention
+In addition, The supplier shall:
+Establish a method for the prevention, detection, and removal of Foreign Object Debris.
+The method should contain the following elements as a minimum:
+i. Physical entry control into FOD critical areas (where applicable).
+ii. Inspection for foreign objects prior to closing apertures and compartments during
+assembly. Ensure that all incidents of actual or potential FOD is reported and investigated.
+iii. Include appropriate employee awareness training.
+Storage and inventory
+In addition, the supplier shall:
+A.Provide secure storage facilities for product, equipment, tools, and material, that are suitable for
+long term storage of components.
+The areas used for long term storage shall be maintained at a minimum temperature of 15 degrees
+Celsius, 59 degrees Fahrenheit, 288.15 Kelvin, and a maximum relative humidity RH of 75%.
+B.Ensure the conditions of storage prevent deterioration and damage of stored items.
+C.Assess the condition of product in stock at appropriate planned intervals in order to detect
+deterioration.
+[Tapez ici]
+15
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+•Rule for determining safety stock levels.
+•Method to guarantee inventory accuracy and stock rotation.
+•Key performance indicators to monitor inventory.
+•Method to monitor, review and action slow-moving work in progress.
+•Control of shelf-life product [3].
+D.Ensure segregation of serviceable product, equipment, tools and material from unserviceable
+product, equipment, tools and material.
+NOTE 3: Products supplied to SE AGT subject to shelf-life restrictions shall be supplied with a minimum of
+85% of their shelf-life period remaining from the date of manufacture unless specifically agreed with the SE
+AGT Supplier Quality Representative.
+Packaging and Labelling Definition
+In addition, the supplier shall:
+A)Ensure that products are packaged to a standard that provides adequate protection against
+damage, deterioration and tampering during shipment, storage, and distribution.
+B)Ensure that the product packaging is labelled to a standard that provides adequate identification
+and traceability of the product.
+C)Comply with the ‘Protection Packaging and Labelling Guidelines [4].
+NOTE 4:  Protection Packaging and Labelling Guidelines is available to view and download from the
+Supplier Portal:
+Packaging and Labelling Requirement SE AGT
+8.5.5 Post-delivery activities
+CE / UKCA Marking
+In addition, the supplier shall:
+Purposes of CE / UKCA Marking Technical Directives provide for the CE marking of products. The use
+of the CE mark implies that the manufacturer has complied with all Directives relating to the
+product.
+The European Union (EU) rules apply everywhere in the European Economic Area (EEA), so
+products complying with these requirements and bearing CE marking may be supplied anywhere in
+the EEA. The person or legal entity (e.g., a company) who affixes the CE marking on the product is
+legally responsible for the claimed compliance with the appropriate Directives. Normally that
+person would be resident in Europe and in the case of equipment manufactured outside the EEA;
+the agent who places the product on the market becomes responsible.
+[Tapez ici]
+16
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+The CE marking will not be recognised in Great Britain. However, a product bearing the CE marking
+would still be valid for sale in the UK so long as it was also UKCA marked and complied with the
+relevant UK rules. Where required, products supplied shall be duel marked with both the CE and the
+UKCA part marking.
+The UKCA marking applies to most goods previously subject to the CE marking. Technical
+requirements (‘essential requirements’) – and the conformity assessment processes and standards
+which can be used to demonstrate conformity – are largely the same as they were for the CE
+marking but are subject to change and should be confirmed.
+https://www.gov.uk/guidance/using-the-ukca-marking
+8.5.6 Control of changes
+Source & Method Control
+Applicable to Authorized Repair Vendors and MROC’s only, they shall:
+Ensure Source and Method Control approval is within a 2-year validity date.
+8.6 Release of products and services
+In addition, the supplier shall:
+The Supplier shall provide in writing all data, instructions, and warnings as are required to comply
+with applicable legislation relating to health, safety, and the environment.
+If any of the goods to be supplied under the contract contain any hazardous substances or require
+any special precautions to be taken to ensure safety in handling, transport, storage or use and for
+the protection of the environment, the Supplier shall prior to their delivery furnish the purchaser
+with written details of the nature of those substances and the precautions to be taken.
+The Supplier shall ensure that before dispatching appropriate instructions and warnings are clearly
+and prominently marked on the goods or securely attached to them and on any containers into
+which they are packed.
+Certificates of Conformance and Release documentation
+In addition, the supplier shall:
+      A) Provide separate release documentation with each delivery to SE AGT [5].
+      B)  Ensure that the release documentation:
+Is written in English or in a language specified by SE AGT.
+Refers to a single purchase order / schedule.
+Refers to a single part number.
+Is legible and protected from damage / deterioration .
+[Tapez ici]
+17
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Is attached to the outside of the secondary packaging and one copy included within the
+packaging with the product.
+C)Contains the following information as a minimum:
+Unique traceable document reference number.
+Supplier’s name, address, and telephone number.
+Country of origin.
+Delivery address.
+SEAGT purchase order number (including purchase order item number).
+SE AGT plant and storage location (when specified).
+Description of the product (as referenced on the SE AGT purchase order).
+Part number (as referenced on the SE AGT purchase order).
+Kit number (when applicable) – plus a list of part numbers, quantities, serial numbers.
+Traceable reference (serial, batch, lot, heat, cast numbers - as applicable).
+Quantity.
+Any applicable Concession/production permit references.
+Quality plan number (if applicable).
+Date of dispatch.
+Conformance / compliance statement [6].
+Signature of person authorized to release the product to the customer.
+D)Provide additional information (when applicable):
+Approved PPQ/First Article Inspection Report (FAIR) front sheet.
+Modification, repair scheme, or service bulletins.
+Hazardous substances / safety data sheet (safety data sheet to be provided).
+Shelf life (cure date, batch, group) – no mixed cure dates / batches. [3]
+Virus-free declaration (computer software).
+Cross reference to the original raw material manufacturer’s name (stockists / distributors).
+Cross reference to customer name and purchase order (material processors).
+E)Provide a certificate of analysis or raw material manufacturer’s certificate with the shipment of raw
+material that contains the following:
+Traceable reference to batch, lot, heat, cast numbers.
+Chemical analysis including constituent elements and percentages.
+Physical analysis, i.e., stress strain data, and temper.
+F)Maintain documented information [7] of release documentation as category ‘A’ when the product
+definition specifies. Fixed Process Control. All other documented information will be maintained as
+category ‘B’.
+NOTE 5:  Electronically generated release documentation is acceptable without the physical signatures
+provided controls are in place at the supplier of un-intended use of authorized person credentials.
+NOTE 6:  Typical compliance statement: “Certified that the whole of supplies hereon has been inspected /
+tested and unless otherwise stated, conform in all respects to specification, drawing and purchase order
+requirements”.
+[Tapez ici]
+18
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+NOTE 7: Documented information of release documentation held electronically shall contain all of the
+information shown on the original document and a traceable reference to the person authorized to release
+the product to customer.
+8.7 Control of Nonconforming outputs
+In addition, the supplier shall :
+A)Establish a method of detection and feedback of product / service nonconformities or process
+noncompliance.
+B)Take necessary actions to contain the effect of the nonconformity on other processes or products
+and services i.e. work in progress, stores stock, shipping area, in transit, sub-tier / subcontract
+activities, similar products, dispatched / delivered to customer (within 48 hours).
+C)Stop shipment of product when notified of non-conformance by Siemens Energy AGT, until
+appropriate corrective action has been established.
+D)Clearly identify and control product that has been deemed scrap.
+E)Verbal agreements or instructions shall under no circumstances be construed as approval or
+authorization to deliver such parts.
+Section 9
+Performance evaluation (ISO 9001:2015 Clause 9)
+9.1 Monitoring, measurement, analysis, and evaluation
+9.1.1 General
+9.1.2 Customer satisfaction
+9.1.3 Analysis and evaluation
+9.2 Internal audit
+9.3 Management Review
+9.3.1 General
+9.3.2 Management Review Inputs
+9.3.3 Management Review Outputs
+[Tapez ici]
+19
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Section 10
+Improvement (ISO 9001: 2015 Clause 10)
+10.1 General
+10.2 Nonconformity and corrective action
+Production Permit / Concessions, In addition the supplier shall:
+A)Complete and submit the form(s) associated with this activity to their SE AGT SQ contact or
+supplier Portal for concessions.
+B)Take appropriate corrective action.
+C)If required, mark the product as indicated on the deviation permit / concession, including (but not
+limited to) the relevant concession category and concession number allocated by SE AGT. in
+accordance with the applicable identification marking method (and location) specified in the
+product definition.
+D)Ensure Concession is approved prior to the shipment of a product which does not conform to
+specified requirements. [8]
+E)Maintain documented information of deviation permits / concessions as category ‘A’ Retention of
+documented information.
+NOTE 8: Cost of Non-Quality Claims.
+Applicable to SE AGT reserves the right to recover  non-conformance costs , the following amounts may
+be claimed as a standard charge (Euros) by Siemens Energy for Quality Notifications in declared and un-
+declared categories (9).
+Concessions submissions (New, Revised and Rejects):      €600
+Rejects at receipt:                            €800
+Rejects as a result of assembly/test complaints:                €1000
+Rejects as a result of customer/operator complaints:       €1650
+NOTE 9:  The claim amount will be charged according to the PO currency.
+In addition, the supplier shall:
+Applicable to Authorized Repair Vendors and MROC’s only, they shall:
+Ensure local repairs are fully approved, either by local approval (if granted) or TLRF approval.
+Ensure TLRF’s are referenced within manufacturing documentation.
+10.3 Continuas Improvement
+Quality and delivery performance
+In addition, the supplier shall:
+A)Monitor quality and delivery performance using key performance indicators. Where SE AGT has
+provided the supplier with a scorecard, the supplier will use the targets noted in the scorecard as
+Key Performance Indicators (KPI).
+[Tapez ici]
+20
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+B)Take appropriate corrective action when quality or delivery performance is not or will not be
+achieved.
+C)Inform SE AGT purchasing contact immediately when delivery schedules are not, or will not be,
+achieved and submit a recovery plan to their SE AGT purchasing contact.
+Section 11
+ADDITIONAL REQUIRMENTS AND CLARIFICATIONS
+11.1 ADDITIONAL REQUIREMENTS AND CLARIFICATIONS
+Product and Process Qualification (PPQ)
+In addition, the Supplier Shall:
+For those suppliers and their subcontractors participating in the PPQ Process (as advised by SE AGT)
+additional requirements can be found using the filepath:
+PPQ Element definition and supplier information
+Definition Alteration Request (DAR)
+DAR is applicable to Gas Turbine Engine Components only, and applies to:
+Changes that DO NOT affect fit, form or function.
+Changes (Source and method change) that impact upon SE AGT requirements.
+Changes that require a decision by SE AGT Engineering.
+The Supplier Shall:
+A)Complete and submit the form(s) associated with this activity to their SE AGT Procurement
+Contact.[10],[11].
+DAR form (Canada) (siemens-energy.com)
+B)Maintain documented information for definition alteration requests defined as category ‘A’.
+Note 10:  Evidence of repeated Concessions/ Production Permit’s acceptance on same feature and same
+deviation shall result in a DAR submission requesting updates to the drawings.
+Note 11: Cost of Non-Quality Claims (see Production Permit / Concessions) is not applicable for Production
+Permit applications if DAR is submitted to SE AGT .
+[Tapez ici]
+21
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+Annex A1
+Correlation Matrix
+ISO 9001:2015Clause
+ReferencesClause
+ReferencesContent
+ChangeContent
+Change
+Clause References: ISO 9001:2015, EBQR
+v3 2022   EBQR v1
+(2014)    EBQR v2
+(2020)EBQR v3
+(2022)EBQR v4
+(2024)
+0 Introduction 
+1 Scope, Content & Applicability A1.1, A1.2 A1.1, A1.2 
+2 Order of Precedence  
+3 Terms and Definitions 
+4 Context of the organization
+4.1 Understanding the organization and its
+context
+4.2 Understanding needs and expectations of
+interested parties
+4.3 Determining the scope of the quality
+management system
+4.4 Quality management system and its
+processes
+5Leadership A2.2
+5.1 Leadership and commitment
+5.1.1 General A2.1
+5.1.2 Customer focus
+5.2 Policy
+5.2.1 Establishing the quality policy
+5.2.2 Communicating the quality policy
+5.3 Organizational roles, responsibilities and
+authorities
+6 Planning
+6.1 Actions to address risks and opportunities A3.4 
+6.2 Quality objectives and planning to
+achieve them
+6.3 Planning of changes
+7 Support
+7.1 Resources
+7.1.2 People
+7.1.3 Infrastructure
+7.1.4 Environment for the operation of
+processesA3.2, B4.1 
+7.1.5 Monitoring and measuring resources A3.3 A2.2 
+7.1.6 Organizational knowledge
+7.2 Competence A3.1 A2.1
+7.3 Awareness
+7.4 Communication
+7.5 Documented information
+[Tapez ici]
+22
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+7.5.1 General
+7.5.2 Creating and updating
+7.5.3 Control of documented information A1.3, A1.4A1.3, A1.4,
+A1.5
+8 Operation
+8.1 Operational planning and control 
+8.2 Requirements for and services
+8.2.1 Customer communication
+8.2.2 Determining the requirements for
+products and services
+8.2.3 Review of requirements for products
+and services
+8.2.4 Changes to requirements for products
+and services
+8.3 Design and development of products and
+services
+8.3.1 General
+8.3.2 Design and development planning B2.1, B3.1
+8.3.3 Design and development inputs
+8.3.4 Design and development controls B3.3, B3.4
+8.3.5 Design and development outputs
+8.3.6 Design and development changes B2.2
+8.4 Control of externally provided
+processes, products & services
+8.4.1 General A4.4, A4.5
+8.4.2 Type and extent of control A4.2 A3.2 
+8.4.3 Information for external providersB1.2, A4.1,
+A4.3A3.1, A3.3 
+8.5 Production and service provision
+8.5.1 Control of production and service
+provisionB3.6, A4,6,
+A4.7A3.4 
+8.5.2 Identification and traceability B3.8 
+8.5.3 Property belonging to customers or
+external providersA3.5
+8.5.4 PreservationA4.8, A4.10,
+B3.11A3.6, A3.7,
+A5.4 
+8.5.5 Post-delivery activities  
+8.5.6 Control of changes 
+8.6 Release of products and services A4.9, A5.3 A4.1 
+8.7 Control of nonconforming outputs A5.4, A5.6 A4.2 
+9 Performance evaluation
+9.1 Monitoring, measurement, analysis and
+evaluation
+9.1.1 General
+9.1.2 Customer satisfaction
+9.1.3 Analysis and evaluation
+[Tapez ici]
+23
+Siemens Energy is a trademark licensed by Siemens AG.                                                                                                                                                                     E1B101022535_B
+9.2 Internal audit A5.2
+9.3 Management review
+10 Improvement
+10.1 General
+10.2 Nonconformity and corrective action A5.5, A5.7 A4.3  
+10.3 Continual improvement A5.1 A4.4 
+11 Additional Requirements & Clarifications 
+11.1 Definition Alteration Request (DAR)A5.1 
+NOTE :11.2 Reduced Inspection,11.3 Sample
+Inspection,11.4 Unclassified and Sensitive
+Components, 11.5 Parts with fly sheets have
+been omitted from v3A5.2, A5.3,
+A5.5, A5.6
+           Annex A2
+           Document Revisions
+Revised by Date
+Anthony Duggan
+Greg Hart2022-03-17
+Liliana Bonilla Guillen 2024-03-19

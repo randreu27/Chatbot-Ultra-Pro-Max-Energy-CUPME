@@ -1,0 +1,967 @@
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.
+Siemens Energy Blue 
+high -voltage products
+Sustainable Zero -impact 
+switchgear for a net Zero future
+Status: April 2025
+Unrestricted © Siemens Energy, 2025Contents
+1The growing market demand for F -gas-free high -voltage switchgear
+•The urgent need to phase out SF6to achieve decarbonization
+•Clean air and vacuum technology are the only good solution
+2Siemens Energy Blue high -voltage portfolio
+•Mission and philosophy
+•Portfolio overview
+3Blue product evaluation
+•Clean air and vacuum technology excel across all product evaluation criteria
+4Blue success stories
+•Blue solutions are proving to be successful all over the world
+•Notable case studies
+5Outlook for the future
+•The Blue innovation roadmap from Zero to Zero
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.1. The growing market 
+demand for SF6-free 
+high -voltage switchgear
+Unrestricted © Siemens Energy, 2025There is an increasingly urgent need to achieve decarbonization in all 
+sectors worldwide –actions to reduce GHG emissions must be taken fast
+•In the UNFCCC (United Nations Framework Convention on 
+Climate Change) Paris Agreement signed by 189 countries in 
+2015, it was agreed to limit anthropogenic global warming to 
+well under 2º centigrade
+•Each country must determine and report regularly on how it 
+intends to mitigate its greenhouse gas emissions and thus 
+reduce global warming
+•Up to now more than 100 countries have submitted a net -
+zero document ( Net-Zero Tracker )
+US
+2035: 100% clean electricity
+2050: Net zero GHG pollution
+EU
+2050: First climate -neutral continent
+China
+> 2030: CO2 emission peak
+> 2060: Carbon neutrality
+Unrestricted © Siemens Energy, 2025The pressure on power companies to phase out 
+SF6and other F -gases is especially high
+•With global carbon emissions hitting an all -time high of 
+47.5 Gt in 2020*, there is growing pressure on power 
+companies to step up their decarbonization efforts
+•SF6is classified as a strong greenhouse gas (GHG) with 
+a CO2 equivalent of 24,300, but is still commonly used as 
+an isolation gas in switchgear products
+•An increasing number of companies have already 
+committed to switching to SF6 -free alternatives
+*      Climatewatchdata.org
+
+Unrestricted © Siemens Energy, 2025SF6gas has a GWP 24,300 times higher than CO2–and the 
+GWP of other F -gas alternatives is also way above zero
+SF6installations
+10,000 tons of SF6are installed
+annually, with leakage1of 50 tons and 
+a GWP of around 24,3002It takes 1,000 years 
+fornature to absorb SF6
+19,440,000,000 trees
+are needed to absorb the impact
+of the yearly installations and 89,424,000
+to absorb the yearly leakage of SF6
+1Leakage rate of SF6is typically 0.5%. Source MDPI: Evaluation of SF6Leakage from Gas Insulated Equipment on Electricity Networks in Great Britain, August 2018
+2GWP -100 of Sulphur Hexafluoride (SF6) acc. To IPCC Sixth Assessment Report (AR6), 2023
+3Besides vacuum and clean air, Fluoronitrile -mix is another discussed SF6alternative.
+4Leakage rate of Fluoronitrile -mix is typically 0.5% 
+Fluoronitrile -mix3
+10,000 tons of Fluoronitrile -mix are 
+installed annually, with leakage4of 50 
+tons and a GWP of around 500It takes 30 years 
+for nature to absorb 
+Fluoronitrile -mix321,600,000 trees are needed to 
+absorb the impact oftheyearly 
+installation and leakag e
+Vacuum and clean air
+This is the most environmentally
+friendly switching technology 
+in the world with a GWP of 0The leakage rate of 
+clean air is 0.1% and it 
+isnaturally absorbed by the 
+surrounding air0 trees needed
+No greenhouse gases
+No impact on health or environment
+At the moment , natural -origin gases likeclean air aretheonly way to achieve Zero.What is global warming
+potential (GWP)?
+It represents the heat 
+absorption effect of any GHG 
+relative to CO2, which has a 
+GWP of 1
+Unrestricted © Siemens Energy, 2025•SF6is already restricted and complete phase -out is more than probable
+•F-gases are under investigation and restriction as well as a ban is possible
+•Clean air does not need any regulation now or in the future
+1 Per-and polyfluoroalkyl substances
+2 The European Commission bans using PFAS and F -gases with a GWP >10 in switchgear (October 2023)
+3European Chemicals Agency reportHealth and safety risks of F -gases Cost risks of SF6/ F-gas regulations
+•SF6and fluoronitrile F-gas mixes produce toxic 
+decomposition products during electric arcs and operation
+•F-gases belong to the PFAS1group:
+more than 4,700 chemicals which accumulate in both 
+humans and the environment, and which are highly 
+persistent and toxic (negative health impact; 
+contamination of water and soil).Phasing out SF6and other F -gas mixes is inevitable –clean air is the 
+only future -proof option
+•F-gas regulation (EU)2
+•SF6ban California (CARB) / New York in discussion
+•PFAS ban Maine (DEP) and Minnesota
+•ECHA report3from 02.2023 includes a restriction proposal for 
+PFAS -F-gases in switchgears starting 2026/27 
+•Worldwide institutions are following, e.g.Stockholm 
+Convention (UN) or the Environment Protection Agency (EPA) 
+having established a PFAS Council in the US
+Unrestricted © Siemens Energy, 2025Global stakeholders, legislation and regulations embark on 
+the path to decarbonization
+Natural origin gases with GWP < 1 are 100% future -proof with no risk for regulatory exposure!
+California (CARB2) law effective and New York state 
+in discussion for SF6phase -outfor new installations 
+starting 2025 in MV and HV –adoption in other parts 
+expected in next years
+•EPA3placed a PFAS1reporting regulation from 12.11.2024 
+as a basis for further restriction regulations  
+•US state Maine placed a first PFAS ban from 01.01.2030
+•US state Minnesota placed a PFAS ban from 01.01.2032PFAS1restrictions: First laws effective –further 
+decision and adoptions expected in next yearsRestriction proposal for PFAS1from 07.02.2023 includes 
+a restriction proposal for switchgears starting in
+2027 ≤ 145 kV and > 145 kV in 2033 
+EU committee opinion currently in progress –
+results expected in 2024 or beginning 2025Revised F -gas regulation comes into force March 2024: 
+Prohibition of F -gases or F -gases with GWP ≥ 1 
+starting in 2026 in MV and 2028 in HV in switchgears
+Taxonomy drives sustainable investments, 
+only switchgears with GWP < 10 compliant
+European Union United States
+1 Per-and polyfluoroalkyl substances including C4FN and C5FK | 2 CARB: California air resources board | 3 EPA: Environmental protection agency 
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.
+February 2024Proven technology
+Already 1,500 units with more 
+than 20 million hours success -
+fully in operation
+GWP < 1 
+Clean air gives the equip -
+ment the lowest carbon 
+footprint across its life cyclePeak performance & safety
+Highest switching performance, 
+zero toxic by -products, fully compliant 
+with IEC and ANSI/IEEE
+Suitably sized
+Our clean air units fit within 
+the footprint of the SF6units 
+they replaceReplacing SF6in high voltage
+We are doing it with clean air
+Future -proof
+Our Blue switchgear is the 
+answer to the EU F -gas 
+regulation GWP  < 1Siemens Energy welcomes 
+the regulatory frame to cut CO2
+emissions for new installations:
+Clean air insulation and vacuum 
+switching technology is future -proof 
+and not impacted by any restrictions 
+or obligations with the revised EU 
+F-gas regulation or expected 
+PFAS restrictions!
+Unrestricted © Siemens Energy, 2025SF6-free products are available and in reliable use worldwide up to 420 kV,
+the majority rely on natural -origin gases to ensure safe power grids!*
+*Natural -origin gases/F -gas-free with GWP <1
+Source: Publications & web sites                        Factory in Europemedium voltage
+ high voltage1.SF6-free alternative technology 
+& products 
+already available
+2.Manufacturers are committed to
+close the portfolio gaps
+3.Theproposed transition time is 
+sufficient to close and 
+develop SF6-free portfolio 
+
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.2. Siemens Energy Blue
+high -voltage portfolio
+Unrestricted © Siemens Energy, 2025Achieving Zero emissions 
+andZero harm
+in energy transmission
+all over the worldOurBlue switchgear portfolio already offers asolution,
+with agreater mission inmind:
+Unrestricted © Siemens Energy, 2025Until now, switchgear technology has typically used F -gases...
+In particular, 
+SF6gas. 
+But whenever 
+technically possible, 
+we must stop using 
+these gases.Because SF6is 24,300 
+times more climate -hostile 
+than CO2, and stays in the 
+atmosphere for over 1,000 
+years.
+To compensate forthe 
+annual global installations of 
+SF6would take more than 
+19 billion trees.The only way to achieve 
+carbon neutrality and 
+Zero toxicity is by using 
+clean air.That’s not 
+sustainable. And 
+other F -gases 
+neither.
+That's why 
+ourBlue 
+portfolio uses 
+clean air and 
+vacuum switching 
+technology.Zero harmful gases.
+And Zero contribution 
+to climate change.
+
+Unrestricted © Siemens Energy, 2025Siemens Energy Blue has a clear Zero -compromise philosophy
+Zero environmental
+impact
+•Zero SF6and other F -gases
+•Zero GHG emissions and 
+Zero GWP
+•Long lasting design (> 40 
+years) and circular materialsZero impact on health & 
+safety
+•Zero toxic insulation gases
+•Zero toxic decomposition 
+productsZero regulation & special 
+handling
+•Zero reporting & accounting 
+of gases required
+•Zero issues with current & 
+potential F -gas regulation
+•Zero special safety measures
+•Zero gas disposal required at 
+end of lifeZero compromise on 
+performance
+•Voltages from 72.5 to 145 kV
+•Highest short -circuit switching 
+capability with Zero 
+degradation
+•Full performance down 
+to -60°C
+•Maintenance -free interrupter 
+unit („sealed for life“)
+Unrestricted © Siemens Energy, 2025Clean air ( N2+ O2) insulation Vacuuminterruption
+The Blue portfolio is based on game -changing technology:
+vacuum switching and clean air insulation
+•Zero toxic decomposition products, hermetically tight 
+•Highest switching performance w/o degradation, 
+scalable short -circuit current capabilities
+•Zero maintenance (sealed for life)•Zero CO2emissions, lowest CO2footprint , GWP = 0
+•Zero toxicity, highest stability, easiest gas handling
+•Zero liquefaction at low temperatures -60°C
+•Zero patent dependencies, multiple suppliers
+Clean, safe and future -proof regarding F -gas and PFAS regulation!
+Unrestricted © Siemens Energy, 2025Up to 145 kV
+Blue GIS
+•145 kV / 50 kA
+•World’s first 145 kV GIS 
+switchgear with vacuum CB 
+and clean air insulation
+•Optimized footprint 
+by using LPIT1Blue Circuit Breaker
+Dead Tank
+•145 kV / 63 kA
+•World’s first 145 kV DT
+vacuum CB with clean 
+air insulation
+•Same footprint as 
+SF6productBlue Circuit Breaker
+Live Tank
+•up to 145 kV / 40 kA
+•World's first LT CB with 
+vacuum interrupter 
+and clean air insulationWind Tower and 
+Offshore Blue GIS
+•72.5 kV / 31.5 kA
+•Optimized switchgear for
+application in wind 
+turbines, with vacuum CB 
+and clean air insulationHigher voltages (available)
+Blue Circuit Breaker
+Live Tank2
+•up to 420 kV / 63 kV
+•World’s first 420 kV LT breaker
+with clean air insulation
+•Same footprint as 
+SF6 productBlue Clean Air 
+GIB
+•420 kV / 63 kA
+•245 –400 kV = combined 
+solution GIS + Blue GIB 
+(30 –65% less SF6)
+The Blue portfolio comprises individual products & solutions,
+supporting our clients ontheir way to Zero
+1 Low Power Instrument Transformer
+2available 2026
+
+Unrestricted © Siemens Energy, 2025Product one pagers
+Unrestricted © Siemens Energy, 20258VM1 wind tower Blue GIS
+ 72.5 kV / 31.5 kA
+Product characteristics
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6 or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases)
+Technical features
+•Rated voltage up to 72.5 kV
+•Rated frequency 50/60 Hz
+•Rated short -circuit breaking current up to 31.5 kA
+•Ambient temperature range -30 ºC to +45 ºC
+•Stored -energy spring type driving mechanism of circuit -breaker
+•Seismic withstand capability 0.5 g
+•Leakage rate per year (type -tested) < 0.1%
+•Internal arc classification of HV cable compartments IAC A FLR 31.5 kA, 1 s (acc. IEC 62271 -200)
+Types / variants
+•Factory tested GIS with up to three bays mounted on a base frame incl. automation and protection
+•Coming soon: Low Power Instrument transformer (LPIT) in the cable bushing
+Type tested
+•Acc. to IEC / IEEE
+Designed for 
+wind turbine 
+applications
+Unrestricted © Siemens Energy, 20258VM3 Blue GIS
+ 72.5 kV / 50 kA
+Product characteristics
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases)
+Technical features
+•Rated voltage up to 72.5 kV, rated frequency 50/60 Hz
+•Rated short -circuit breaking current up to 50 kA
+•Ambient temperature range -50 ºC to +55 ºC
+•Stored -energy spring type driving mechanism of circuit -breaker
+•Seismic withstand capability 1.0 g
+•Leakage rate per year and gas compartment (type -tested) < 0.1%
+Types / variants
+•Indoor and outdoor installation
+•Optional with Low Power Instrument Transformer (LPIT) for reduced bay size / weight
+Type tested
+•Acc. to IEC / IEEE
+
+Unrestricted © Siemens Energy, 20258VM3 Blue GIS
+ power pack 72.5 kV / 31.5 kA
+Product characteristics
+•Preassembled Ring Main Unit (RMU)
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6 or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases)
+Technical features
+•Rated voltage up to 72.5 kV; rated frequency 50/60 Hz
+•Rated short -circuit breaking current up to 31.5 kA
+•Ambient temperature range -30 ºC to +40 ºC
+•Stored -energy spring type driving mechanism of circuit -breaker
+•Seismic withstand capability 0.5 g
+•Leakage rate per year and gas compartment (type -tested) < 0.1%
+•Internal arc classification of HV cable compartments IAC A FLR 31.5 kA, 1 s (acc. IEC 62271 -200)
+Types / variants
+•Factory tested RMU with up to 3 bays mounted on a base frame incl. automation and protection
+•Coming soon: Low Power Instrument transformer in the GIS partition and the cable bushing
+Type tested
+•Acc. to IEC / IEEE
+Ideal for wind 
+turbine applications 
+and small DSOs 
+(indoor)
+
+Unrestricted © Siemens Energy, 20258VN1 Blue GIS
+ 145 kV / 50 kA
+Product characteristics
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases)
+Technical features
+•Rated voltage up to 145 kV, rated frequency 50/60 Hz
+•Rated short -circuit breaking current up to 50 kA
+•Ambient temperature range -50 ºC to +55 ºC
+•Stored -energy spring type driving mechanism of circuit -breaker
+•Seismic withstand capability 1.0 g
+•Leakage rate per year and gas compartment (type -tested) < 0.1%
+•Equipped with new Sensgear
+ technology (for more info see back -up)
+Types / variants
+•Indoor and outdoor installation
+•Optional with Low Power Instrument Transformer (LPIT) for reduced bay size / weight
+Type tested
+•Acc. to IEC / IEEE
+
+Unrestricted © Siemens Energy, 20258VQ3 Blue clean air GIB
+ 420 kV / 63 kA
+Product characteristics
+•Clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases)
+Technical features
+•Rated voltage up to 420 kV
+•Rated frequency 50/60 Hz
+•Rated short -circuit breaking current up to 63 kA
+•Rated continuous current up 5000 A
+•Ambient temperature range -50°Cto + 55 °C
+•Leakage rate per year and gas compartment (type -tested) < 0.1%
+Types / variants
+•Indoor and outdoor installation
+Type tested
+•Acc. to IEC / IEEE
+
+Unrestricted © Siemens Energy, 20253AV1 Blue live tank circuit breaker
+up to 145 kV / 40 kA
+Product characteristics
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2emission compensation (no SF6or F-gases )
+•Same dimensions as the equivalent SF6circuit breaker
+Technical features
+•Stored -energy spring drive mechanism
+•Rated voltages up to 145 kV, rated frequency for 50/60 Hz
+•Rated continuous current up to 3150 A, rated short -circuit breaking current 40 kA
+•Perfect for frequent breaking operations and extreme temperatures from -60 °C to +55 °C
+•0.5 g seismic conditions, high terminal loads (2 kNstat. / 5 kNdyn.)
+•Two-cycle current interruption
+•Leakage rate < 0.1% p.a.
+•Equipped with new Sensgear
+ technology (for more info see back -up)
+Types / variants
+•Three -pole (FG) & single -pole (FI*) operation | composite insulators
+•Also available as 60 Hz circuit switcher according to IEEE Std. C37.016
+Type tested
+•Acc. to IEC 62271 -100, -110, -310
+*available December 2025Coming soon:  
+2ndgeneration with 
+enhanced VI and latest drive 
+plus additional FI version
+
+Unrestricted © Siemens Energy, 20253AV1 Blue dead tank circuit breaker
+up to 145 kV / 63 kA
+Product characteristics
+•Vacuum interrupter technology | clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product lifetime > 50 years, first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2 emission compensation (no SF6or F-gases )
+•Same dimensions as the equivalent SF6circuit breaker
+Technical features
+•Proven reliable energy spring -drive mechanism
+•Rated voltages up to 145 kV, rated frequency 50 / 60 Hz
+•Rated continuous current up to 3000 A, rated short -circuit breaking current up to 63 kA
+•Chopped wave (2 μs) voltage 838 kV
+•Capacitive switching class (overhead lines and cables) C2
+•Perfect for frequent breaking operations and extreme temperatures from -60 °C to +50 °C
+•Leakage rate < 0.1% p.a.
+Types / variants
+•Three -pole operation (FG)
+•Composite insulators
+Type tests
+•Acc. to IEC / IEEE
+
+Unrestricted © Siemens Energy, 20253AV2 Blue live tank CB up to 420 kV
+Product characteristics
+•Vacuum interrupter technology | Clean air insulation technology
+•Weight of SF6or other fluorinated greenhouse gases = 0 kg; GWP = 0
+•Expected product life -time > 50 years | first major inspection > 25 years
+•No reporting or emission costs during operation and recycling, e.g.taxes or 
+CO2eemission compensation (no SF6-or F-gases )
+•Same dimensions as the equivalent SF6circuit breaker
+Technical features
+•Stored energy spring drive mechanism
+•Rated voltages up to 420 kV, rated frequency for 50 / 60 Hz
+•Rated continuous current up to 5000 A, rated short -circuit breaking current 63 kA / 80 kA
+•Perfect for frequent breaking operations and extreme temperatures from -60°C up to +55 °C
+•0.5 g seismic conditions, high terminal loads (3 kNstat. / 6 kNdyn.)
+•Two-cycle current interruption
+•Leakage rate < 0.1% p.a.
+•Equipped with new Sensgear®technology (for more info see back -up)
+Types / variants
+•single -pole operation (FI) | composite insulators
+Type tested
+•Acc. to IEC 62271 -100
+Coming soon 
+to the 
+Blue portfolio!
+
+Unrestricted © Siemens Energy, 20258VQ3 Blue GIS 420 kV 
+Previous SF6generation (2010) Current SF6generation New design with clean air
+Exemplary comparison of footprint
+Same bay width as previous SF6generation enables easy 
+replacement and several extension options .Coming soon 
+to the 
+Blue portfolio!
+
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.3. Blue product
+evaluation
+Unrestricted © Siemens Energy, 2025Customer product evaluation criteria for switchgear products
+Environmental 
+impactHealth & safety Performance Gas handling 
+& costsManufacturer 
+competence
+
+Unrestricted © Siemens Energy, 2025Three isolation mediums: a comparison
+Vacuum / clean air
+N2 andO2(80% / 20%)SF6sulfur hexafluoride
+SF6CO2-F mix fluoronitrile1
+(CF3)2CFCN
+1Fluor -ketone gas mix is not considered due to its inability to withstand temperatures below 5 °C
+
+Unrestricted © Siemens Energy, 2025Vacuum / clean air
+Zero greenhouse gas
+GWP = 0
+(Immediately absorbed)Criteria 1: Environmental impact
+SF6sulfur hexafluoride
+Greenhouse gas
+GWP ~24,300
+(Lifetime 1,000 years)CO2-F mix fluoronitrile
+Greenhouse gases
+GWP ~ 500
+(Lifetime 30 years)
+Vacuum / clean air is the most environmentally friendly switching technology in the world
+
+Unrestricted © Siemens Energy, 2025Criteria 2: Health & safety
+Vacuum / clean air
+Vacuum: Zero decomposition products; 
+sealed for life
+Clean air: non -toxic decomposition 
+products, non -hazardous
+Gas leakage < 0.1% p.a./compartmentSF6sulfur hexafluoride
+Toxic decomposition products
+Hazardous when inhaled, causes skin 
+and eye irritation
+Gas leakage < 0.1% p.a./compartmentCO2-F mix fluoronitrile
+Toxic decomposition products 
+(details unknown)
+Hazardous (details unknown)
+Gas leakage < 0.5% p.a./compartment 
+(details unknown)
+Vacuum / clean air is non-toxic, non -hazardous and does not require special safety systems 
+such as ventilation or CO2-monitoring
+
+Unrestricted © Siemens Energy, 2025Vacuum / clean air offers the highest short -circuit switching capability without degradation and can be
+operated in a wide temperature range, being especially suitable for very low temperature applicationsCriteria 3: Performance
+Vacuum / clean air
+Vacuum circuit breaker can switch up 
+to 30 times 40 kA currents
+Zero degradation of short -circuit 
+switching performance
+From -60 °Cto +55 °CSF6sulfur hexafluoride
+SF6CB can switch up to 10 times
+40 kA currents
+Long term stability 
+(SF6gas recombines) 
+From -40 °Cto +55 °CCO2-F mix fluoronitrile
+CO2-F mix shows decreasing 
+switching performance 
+Does not recombine completely
+after arcing
+From -30 °Cto +55 °C
+
+Unrestricted © Siemens Energy, 2025Vacuum / clean air is maintenance -and regulation -free and requires no special EOL treatment.
+Overall it has the lowest lifecycle costsCriteria 4: Gas handling & costs
+Vacuum / clean air
+Vacuum interrupter is sealed for life > 
+Zero maintenance
+No special tools, training, ventilation 
+or reporting
+No recycling or special EOL 
+treatment necessary
+Lowest lifecycle costsSF6sulfur hexafluoride
+Additional gas maintenance
+Special tools, training,
+ventilation and reporting
+Can be cleaned and re -used 
+(extra effort)
+Higher lifecycle costsCO2-F mix fluoronitrile
+unknown
+Special tools, training, 
+ventilation and reporting
+No recycling option, disposal can 
+cause extra CO2
+Higher lifecycle costs
+
+Unrestricted © Siemens Energy, 2025
+Criteria 5: Manufacturer competence
+First HV
+vacuum CB 
+with clean air 
+72.5 kVFirst HV 
+vacuum GIS 
+with clean air
+145 kVFirst HV 
+vacuum GIS 
+with clean air 
+72.5 kVFirst HV GIS 
+with air 
+insulation
+170 kVFirst MV 
+vacuum CB First HV 
+vacuum CB 
+with clean air 
+145 kV
+Design & 
+engineeringManufacturing Test lab SupplyInstallation, 
+testing, 
+commissioningTraining & 
+after sales
+Siemens Energy has over 60 years of experience inswitchgear with global production of48,000+ GIS bays and
+165,000 + CBs as well as more than 50years of experience in vacuum and air insulation technology2010 2017 2017 1970
+ 2018 2022 2024
+First GIB
+with clean
+air420kVNew wind 
+tower GIS 
+with clean
+air72.5 kV
+1976
+Unrestricted © Siemens Energy, 2025Customer product evaluation criteria for switchgear products
+Environmental 
+impactHealth & safety Performance Gas handling 
+& costsManufacturer 
+competence
+Zero greenhouse gases 
+andZero global 
+warming potentialZero toxicity 
+and Zero hazardHighest switching
+capability with Zero 
+degradation and a wide 
+temperature range 
+(down to lowest 
+temperatures)Zero maintenance 
+vacuum technology.
+Zero training, reporting, 
+orspecial EOL 
+treatment needed.
+Lowest lifecycle costsRich experience:
+> 50 years in 
+switchgear,
+> 40 years in vacuum 
+andair insulation
+
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.4.Blue success 
+stories
+Unrestricted © Siemens Energy, 2025> 6,000 units 
+sold
+> 2,000 units
+already in operation~ 7,600,000 tons
+ofCO2-equivalen t saved>32 million hours
+of commercial operationZero -harm energy transmission is already 
+becoming a reality around the world
+Status: December 2024
+Unrestricted © Siemens Energy, 2025Notable case studies
+Leading grid operators install clean air technologies
+2017 
+145 kV
+2019 
+145 kV
+2022 
+145 kV2017  
+72.5 kV
+2023 
+420 kV
+Status: December 2024
+1 copyrights of company logos with the respective companies
+2010 
+72.5 kV
+Globally around 6,000 Blue CB und GIS sold and 
+2,000+ units successfully in operation.  
+~7,600,000 tons of CO2-equivalent saved
+Unrestricted © Siemens Energy, 2025
+Vacuum interrupter
+•Eliminate need for climate -hostile
+F-gases
+•Enable Blue products to  
+achieve Zero GWP
+•Future -ready: not subject to
+EU F -gas legislationBerlin factory
+•Highly automated, fully digitally 
+connected
+•Entirely green energy supply
+•Clear commitment to climate -neutral 
+power transmission
+•Major boost to local economy•Transformation of 6,200 m2site 
+in Berlin
+•Production of vacuum interrupters 
+for clean air Blue switchgear being 
+ramped up
+•Powered 100% by renewable energy
+•Project announced: 2021
+•Operational: 2024Key factsA € 60 million investment 
+in clean air technology 
+
+Unrestricted © Siemens Energy, 2025Circuit breakers
+•Installation of two SF6-free 3AV1 Blue 
+Circuit Breakers
+ for 145 kV
+•Vacuum interrupter technology
+•Clean air insulation technology
+Instrument transformers
+•Six SVAA voltage and current 
+transformers with clean air 
+insulation•Customer: Netze BW GmbH, 
+Germany
+•Modernization of a 110 kV substation 
+in Noerdlingen
+•Operation requires no SF6or any 
+other greenhouse gas
+•Year of order: 2017
+•Energization: 2018Key facts
+The world’s first SF6-free high -voltage 
+switchgear with clean air insulation
+
+Unrestricted © Siemens Energy, 2025Gas-insulated switchgear
+•Installation of 3 bays of the 8VN1 
+Blue GIS
+ for 145 kV
+•Vacuum interrupter technology
+•Clean air insulation technology
+Low-power instrument transformers
+•GIS includes low -power instrument 
+transformers (LPIT) 
+to ensure a compact design•Customer: BKK Nett, Norway
+•Modernization of a 145 kV Koengen
+substation in Bergen –Norway's 
+largest cruise port
+•Operation requires no SF6or any 
+other greenhouse gas
+•Year of order: 2018
+•Energization: 2020Key factsThe world's first SF6-free gas -insulated 
+switchgear with clean air and vacuum technology
+
+Unrestricted © Siemens Energy, 2025Gas-insulated switchgear
+•Installation offive 8VN1 Blue GIS
+bays with low -power instrument 
+transformers (LPIT)
+•Vacuum interrupter technology
+•Clean air insulation technology
+Sensgear GIS
+•Smart sensors record all relevant 
+product operating data: gas 
+pressure, temperature, and number 
+of switching cycles
+•Service life of around 40 years•Customer: Netze BW, Burladingen , 
+Germany
+•Capacity of 80 MVA
+•Blue portfolio goes digital with 
+Sensgear
+•Year of order: 2020
+•Energization: 2022Key factsThe world's first facility combining 
+eco-efficiency and digitization
+
+Unrestricted © Siemens Energy, 2025
+Gas-insulated switchgear
+•Installation of 140 bays of the 8VM1 
+Blue GIS
+ for 72.5 kV
+•Vacuum interrupter technology
+•Clean air insulation technology
+•Project including the 1000th8VM1 
+bay
+Customer benefits
+•Zero direct CO2emissions
+•Easiest gas handling process
+•Reduced quantities of cable
+•Reduced cable installation times
+•Improved efficiencies in 
+power transmission•Customer: Siemens 
+Gamesa Renewable Energy for 
+Vattenfall
+•Offshore wind farm located just off 
+the north coast of the Netherlands
+•Operation of GIS requires no SF6or 
+any other greenhouse gas
+•Year of order: 2021
+•Energization: 2023Key factsHollandse Kust Zuid: an offshore project 
+including the 1000th8VM1 Blue GIS bay
+
+Unrestricted © Siemens Energy, 2025Gas-insulated switchgear
+•F-gas free DT CB to serve several 
+North Central Massachusetts 
+communities
+•First Siemens Energy project of in 
+total 18 Blue DT breakers for the 
+installation in National Grid’s U.S. 
+electricity network
+Customer benefits
+•Replace harmful gases in 
+switchgear with clean air to fulfill 
+commitment to decarbonize 
+switchgear technology
+•Easiest gas handling process•Customer: National Grid
+•Location: Ayer, Massachusetts, US
+•Operation requires no SF6or any 
+other greenhouse gases
+•Year of order: 2022
+•Energization: 2023Key factsCutting -edge substation upgrade using
+our F -gas free Blue circuit breaker technology
+
+Unrestricted © Siemens Energy, 2025Gas-insulated busduct
+•New switchgear for 275 kV Alyth 
+substation, including infrastructure 
+ready for future scalability to 400 kV
+•Project involves the installation of 
+8VQ3 Blue clean air gas -insulated 
+bus ducts (GIB) measuring a length 
+of more than 500 meters
+Customer benefits
+•Blue GIB technology replaces SF6
+with clean air and has Zero direct 
+CO2emissions
+•Easiest gas handling process
+•More than 2 million kg CO2e saved 
+compared to a SF6-based GIB 
+during a lifetime of 40 years•Customer: Scottish & Southern 
+Electricity Networks
+•Location: United Kingdom
+•Operation of GIBrequires no SF6or 
+any other greenhouse gas
+•Year of order: 2022
+•Energization: 2023Key factsFirst SF6-free gas -insulated busducts with clean 
+air for Alyth substation
+
+Unrestricted © Siemens Energy, 2025Hornsea 3: the largest wind park worldwide 
+including the 2000th8VM1 Blue GIS bay
+Gas-insulated switchgear
+•Installation of 197bays of SF6-free 
+8VM1 Blue GIS
+ for 72.5 kVwithin an 
+area of 696 km²
+•set to provide over 3 million UK 
+homes with green energy
+•Vacuum interrupter technology
+•Clean air insulation technology
+Customer benefits
+•Zero direct CO2emissions
+•1.8 million tons CO2e saved through 
+avoidance of installed SF6
+•Easiest gas handling process
+•Reduced quantities of cable
+•Reduced cable installation timesKey facts
+•Customer: Siemens Gamesa 
+Renewable Energy for Ørsted
+•2.9 GW -capacity offshore wind farm 
+located off the east coast of the UK
+•Operation of GIS requires no SF6or 
+any other greenhouse gas
+•Year of order: 2024
+•Energization: 2027
+
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.5. Outlook 
+for the future
+Unrestricted © Siemens Energy, 202572.5 kV GIS WTG
+145 kV GIS
+72.5 kV GIS
+Live tank CB
+DC live tankDead tank CB
+245 kV GIS
+2017 2020 2023 2025 2027 2029 2031 2033
+2017 WTG 72.5 kV/ 25 kA
+ 2021 WTG 72.5 kV/ 31.5 kA
+2024 WTG 72.5 kV/ 31.5 kA 2026 72.5 kV/ 50 kA
+2022 GIB 420 kV/ 63 kA
+2017 FG 145 kV/ 40 kA 1G 2025 
+145 kV/ 40 kA 2G FI/FG
+2026 
+420 kV/ 63 kA2028 
+420 kV/ 80 kA 
+2025 indoor commutation 
+and high -speed switches2028 outdoor and 
+multiterminal switches2018 145 kV/ 40 kA
+ 2023 145 kV/ 63 kA
+ 2028 245 kV/ 
+63 kA 2029 362 kV/ 
+63 kA2028 245 kV/ 63 kA2024 VI factory
+2020 145 kV/ 40 kA
+ 2024 145 kV/ 50 kA
++ GIB 145 kV/ 63 kA 2026 WTG 145 kV/ 31.5 kA
+ 2025 145 kV/ 63 kA
+2027 420 kV/ 
+63 kA (CB)2029 GIS 420 kV/
+80kA
+2025 72.5 kV/ 40 kA 2030 550 kV/ 63 kA
+2029  
+550 kV/ 63 kADC GIS
+2027 DC 550 kV (BP) 2030 DC 550 kV (HSS)2032 GIS 550kV/ 
+80 kA 
+2025 420 kV/ 
+63 kA (BP)Roadmap from Zero to Zero 
+Offering a fully F -gas-free, climate -neutral Blue portfolio by 2032
+2030  800 kV/ 63 kA
+All dates/milestones shown as
+sales readiness | status: March 2025Gas-insulated switchgear
+Dead tank circuit breaker
+Live tank circuit breakerFI   –Single pole drive
+FG –Common drive
+Pilot sales now ready  BP -back parts
+CB -circuit breaker
+GIB –gas insulated busbar
+HSS -high-speed switches420/550 kV GIS
+2029 245 kV/
+63 kA FI
+Product available
+Unrestricted © Siemens Energy, 2025
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.
+ Unrestricted © Siemens Energy, 2025Disclaimer
+Subject to changes and errors. The information given in this 
+document contains only general descriptions and/or performance 
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract.
+All product designations, product names, etc. may contain 
+trademarks or other rights of Siemens AG, its affiliated companies 
+or third parties. Their unauthorized use may infringe the rights of 
+the respective owner.
+Unrestricted © Siemens Energy, 2025
+ Siemens Energy is a trademark licensed by Siemens AG.Thank you for your attention!
+Published by Siemens Energy
+Grid Technologies
+E-mail:
+support@siemens -energy.com
+Further reading:
+•Siemens Energy Blue products
+•Siemens Energy Blue partnerships & more
+siemens -energy.com
+Unrestricted © Siemens Energy, 2025 Siemens Energy is a trademark licensed by Siemens AG.Back -up
+Unrestricted © Siemens Energy, 2025From products to system intelligence: converting switchgear 
+into Sensgear
+Besides general data such as l ocal weather information or 
+GPS location, the new technology provides also specific data:
+Sensformer
+ and arc 
+suppression coil with 
+Sensgear
+•oil level alarm
+•top oil temperature
+•low-voltage winding 
+currentGIS and circuit breaker 
+with Sensgear
+      
+•gas density
+•CB counter, position, 
+readiness
+•temperature (local 
+control cubicle)
+Surge arrester 
+anddisconnector with 
+Sensgear
+•AR: surge counter
+•AR: leakage current
+•DS: drive currentInstrument transformer 
+with Sensgear
+•gas density               
+•oil level alarmAdded transparency, enhanced productivity and 
+advanced intelligence:
+• software apps and digital services
+• data generation, collection, analysis and utilization
+• secure data transmission through GSM to cloud 
+with state -of-the art cyber security measures
+For more info click here

@@ -1,0 +1,107 @@
+AVIS AUX FORNISSEURS    
+ 
+   
+© Siemens AG 2015. All rights reserved  Page 1 of 1 
+ 
+ 
+ 
+Objet: Communication de SAP  
+ 
+Expéditeur: Jay Jacobs  Numéro d’avis aux fournisseurs   : 
+SC0018  
+Titre du poste  : Gerant to Approvisionnement  
+ Diffusion  : 001  
+Gamme de produits  : Turbines à gaz aérodérivées (ADGT)  Date: 22  septembre 2017  
+Unité commerciale de Siemens  : Siemens Canada limitée   
+  
+ 
+À l’attention du directeur général  
+ 
+Madame, Monsieur,  
+ 
+Introduction  
+ 
+ 
+ 
+Description  
+ 
+ 
+ 
+Garder le page 2 et 3 pour les information  
+ 
+  
+Madame/Monsieur,
+À mesure que nous approchons de la période de transition de notre système PGI basé sur SAP au modèle amélioré, Atlas, nous avons pensé qu ’il serait opportun
+de vous rappeler certaines dates et activités ainsi que les détails relatifs à la période de transfert de deux semaines, du 1erau 15 octobre.
+Vos activités commerciales sont notre priorité absolue et nous vous encourageons à discuter de toutes les questions que vous pourriez avoir au sujet de la transition
+avec votre personne -ressource chez Siemens.
+Renseignements essentiels
+Livraisons
+La personne -ressource de Siemens avec qui vous traitez directement (service aux fournisseurs/personnel de soutien)
+communiquera avec tous les fournisseurs pour discuter des demandes prévues du 1erau 15 octobre. Le nouveau système sera mis en service le 16 octobre et les
+livraisons normales reprendront à ce moment -là.
+Procédures -Commandes essentielles
+Des processus manuels ont été mis au point pour répondre aux besoins urgents pouvant survenir au cours de la période de trans ition de deux semaines. Les
+bons de commande, les d ocuments d ’expédition et les factures (ou les payables) seront saisis manuellement dans le nouveau système Atlas. Des formulaires
+d’expédition seront créés pour répondre aux exigences du service des douanes, comme d ’habitude.
+Principales personnes -ressources pendant la période de transition de deux semaines
+Les communications habituelles entre vous et la personne -ressource de Siemens avec qui vous faites affaire directement se poursuivront sur l ’interface de Siemens.
+Siemens AG Freyesleben slr. 1 Tél.: +49 (9131) 18 0
+Division Gestion de l ’énergie; gestionnaires Ralf Christian, Jan Mrosik 91058 Erlangen Téléc. : +49 (9131) 180
+Produits haute tension; gestionnaire : Harald Griem Allemagne www.siemens.com
+Siemens AG : Président du conseil de surveillance : Gerhard Cromme;
+Conseil de direction : Joe Kaeser, président -directeur général; Roland Busch, Lisa Davis, Klaus Helmrich,
+Janina Kugel, Siegfried Russwurm, Ralf P. Thomas
+Sièges sociaux : Berlin et Munich, Allemagne; bureaux d ’enregistreme nt commercial : Berlin Charlotten burg, HRB 12300, Munich, HRB 668 4
+WEEE -Reg.-No. DE 23691322SIEMENS
+Siemens AG, Freyeslebenslr. 1.91058 Erlangen, AllemagneDivision Turbines à gaz aérodérivées de
+Siemens
+Téléphone
+Télécopieur
+Cellulaire :+49 (9131) 18 -0000
++49 (9131) 18 -0000
++49 (000) 0000000
+Votre lettre du        *****
+Notre référence      *****
+Date 13 septembre 2017
+Modification des numéros de pièce
+Les anciens numéros de pièce migreront vers le nouveau système. Les numéros des pièces actives que vous avez dans votre système PGI demeurent valides.
+Toutefois, dorénavant les nouveaux numéros de pièce seront différents ( p. ex. RRE##### -> E1B1000#####). Les nouveaux numéros de pièce commenceront
+par le préfixe E1B, suivi de 9 chiffres.
+Certains numéros de pièces relatifs à la déclaration responsable (RRE) porteront le chiffre ‘_8’après 210#####.  Ceci pour éviter tout clone ou conflit avec
+d’autres numéros de pièces commerciales (ex. 210#### -> 210####_8).
+Modification de nos bons de c ommande
+Si vous avez actuellement un bon de commande avec nous, les numéros demeureront les mêmes. Si vous avez actuellement une ente nte avec nous, elle sera
+modifiée pour tenir compte du nouveau système de numérotation. Les numéros débutant par 550 commen ceront désormais par 855 (p. ex. 550##### ->
+855######).
+Les conditions générales ne seront plus imprimées sur les contrats d ’achat; elles seront affichées sur un site Web. Les liens vers ce site seront intégrés à notre
+modèle SAP et apparaîtront sur la ve rsion papier de chaque contrat.  Étant donné que les conditions générales peuvent changer à l ’avenir, les mises à jour seront
+conservées et timbrées afin que toutes les parties comprennent bien à quelle date ont lieu les changements apportés aux condi tions de commerce.
+Dernière date de réception de marchandises sur les demandes placées normalement ou les commandes expédiées
+Cette information sera disponible sur l ’interface du fournisseur de Siemens à mesure que nous approchons de la date du début du transfe rt du système.
+Codes de fournisseur
+Les codes de fournisseur seront modifiés lors de la mise à niveau et le représentant des fournisseurs qui vous est attitré vo us procurera le vôtre dès que les
+derniers détails auront été réglés.
+Facturation
+Nous avons un e politique de 75 jours pour les factures. Nos équipes des finances s ’efforcent de payer toutes les factures dont la date de soumission se situe
+entre le 1eret le 15 octobre. Le mode de facturation habituel reprendra le 16 octobre.
+Exploitation normale
+Les activités normales reprendront le 16 octobre.
+Nous espérons que vous vous êtes senti parfaitement appuyé tout au long des préparatifs pour cette mise à niveau essentielle. Nous avons apprécié votre
+collaboration et nous espérons pouvoir continuer à trav ailler avec vous à l ’avenir.
+Siemens AG Freyeslebenslr. 1 Tél.: +49 (9131) 18 0
+Division Gestion de l ’énergie; gestionnaires Ralf Christian, Jan Mrosik 91058 Erlangen Téléc. : +49 (9131) 180
+Produits haute tension; gestionnaire : Harald Griem Allemagne www.siemens.com
+Siemens AG : Président du conseil de surveillance : Gerhard Cromme;
+Conseil de direction : Joe Kaeser, président du conseil, président -directeur général; Roland Busch, Lisa Davis, Klaus Helmrich,
+Janina Kugel, Si egfried Russwurm, Ralf P. Thomas
+Sièges sociaux : Berlin et Munich, A llemagne; bureaux d ’enregistrement commercial : Berlin Charlottenburg, HRB 12300, Munich, HRB 6684
+WEEE -Reg.-No. DE 23691322SIEMENS
+Veuillez agréer nos
+sincères salutations.
+Brian Byrne,
+directeur généralDerek McLaughlin
+Chef de l ’exploitation pour la clientèle
+mondialeCraig Laviolette
+Contrôleur de division pour le
+pays

@@ -1,0 +1,32 @@
+Contacts and Information:
+in cooperation with
+Supplier needs to be registered in SupplyOn
+Template for upload in WebUI to be filled via
+download from supplier ERPSemi-automated solution with use of
+SupplyOn Web User Interface (WebUI)
+Invoice processing on SupplyOn platform
+with validation of Siemens Energy & country
+specific rules
+ERP download from supplier with required
+invoicing information to be uploaded to
+SupplyOn platformWhat are the benefits?Download from ERP of supplier to be adjusted
+to SupplyOn Template for UploadIntegration process steps:
+One time effort on supplier side to process
+future invoices semi-automatically
+Up to 100 invoice line items uploaded at once
+Reduced leadtime from invoice receipt to
+payment
+Quality check before invoice booking CSV / Excel Up-/Download requirements:
+customer-support@supplyon.com
+SupplyOn Portal for CSV
+Key Points:
+CSV / Excel Up-/ Download
+Supplier
+Send
+POOrder
+ConfirmationOrder
+ChangeDispatch
+Advise
+Invoice
+ReceiptPayment
+CSV Upload

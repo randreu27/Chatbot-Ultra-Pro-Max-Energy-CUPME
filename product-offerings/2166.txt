@@ -1,0 +1,535 @@
+  
+ 
+Conditions générales de livraison de Siemens Energy pour des installations spécifiques au client (version 04.2021) 
+ 
+© Siemens Energy  2021 Page 1 de 4 
+ 
+1. Conclusion du contrat, la livraison  
+1.1 Les présentes conditions générales régissent la relation con-
+tractuelle entre le client et Siemens Energy (ci -après «Siemens 
+Energy») , pour la livraison d’installations (produits combinés à 
+d’autres prestations) que Siemens Energy  fournit chez le client 
+ou au moyen d’un accès à distance aux systèmes IT de ce 
+dernier. Elles s’appliquent également lorsque le client accède 
+indirectement à ses propres systèmes par l’intermédiaire des 
+systèmes Siemens Energy . 
+1.2 Les offres qui ne portent aucun délai d’acceptation (délai de 
+validité) sont sans  engagement.  
+1.3 Le contrat entre en vigueur avec l’envoi de la confirmation de 
+la commande et de ses annexe s par Siemens Energy . En 
+l’absence de cahier des charges particulier, les livraisons et 
+prestations (collectivement «  livraison  ») se conforment aux in-
+dications des spécifications techniques de Siemens Energy  et 
+aux prescriptions et normes contraignantes v alables en Suisse 
+au moment de l’entrée en force du contrat.  
+1.4 A moins qu’il n’en ait été convenu autrement par écrit, le client 
+reconnaît par la conclusion du contrat la force obligatoire des 
+présentes conditions de livraison. Les conditions du client ne 
+sont pas applicables.  
+1.5 Toute convention, modification du contrat et autre déclaration 
+juridiquement pertinente des parties nécessitent la forme écrite 
+pour être valables. Il n’est possible de renoncer à cette exi-
+gence de forme que par écrit. Les offres et con firmations de 
+mandat de Siemens Energy  peuvent également être signées 
+électroniquement au moyen du certificat Siemens Energy . 
+1.6 Siemens Energy  est autorisée à faire appel à des sous -
+traitants pour l’exécution de travaux particuliers et/ou pour la 
+fabrication  de certains éléments de la livraison.  
+2. Logiciel  
+2.1 Le logiciel Siemens Energy  est concédé sous licence aux 
+conditions de licence pour utilisateurs finaux (CLUF) et non 
+pas vendu. Il est cédé en code objet, sans le code source. La 
+licence n'autorise que l'usag e en lien avec la livraison. Elle ne 
+peut être transmise qu’avec la livraison. Le client n’est pas 
+autorisé à modifier ou à décompiler ( reverse engineering ) le 
+logiciel.  
+2.2 Pour les logiciels standards courants que doit éventuellement 
+livrer Siemens Energy , seules les conditions de livraison et de 
+licence du fabriquant concerné sont valables.  
+2.3 Si le logiciel contient un logiciel libre ( open source software , 
+OSS), celui -ci est indiqué dans le menu sous la rubrique «  In-
+formations de licence  » ou dans la documenta tion écrite sur le 
+logiciel. Si les conditions de licence OSS l’exigent, Siemens 
+Energy  remet le code source OSS contre paiement des frais 
+d’envoi et de traitement.  
+3. Prix 
+3.1 Toute indication de prix s’entend en francs suisses et se base 
+sur les conditions de l ivraison décrites dans les présentes et 
+sur la situation financière du client portée à la connaissance de 
+Siemens Energy  au moment de la fixation du prix. Tous les 
+frais ac cessoires non expressément inclus dans le prix tels que 
+montage, transport, douanes,  assurance, autorisations 
+d’exportation, de transit et d’importation et autres autorisations 
+ainsi qu’authentifications sont à la charge du client. En outre, 
+les éventuelles prestations de soutien, par exemple les frais de 
+voyage et de séjour du personnel,  ne sont pas comprises dans 
+le prix. Ces prestations sont facturées aux tarifs usuels prati-
+qués par Siemens Energy .  
+3.2 Si les conditions sur lesquelles se fonde la fixation des prix – 
+notamment les parités de change ou les impôts, taxes, émo-
+luments, etc. éta tiques/officiels et taxes douanières – changent 
+entre le moment de l’offre et le délai de livraison convenu, 
+Siemens Energy  est en droit d’adapter les prix et les conditions 
+à la nouvelle situation. En cas de modification des barèmes sa-
+lariaux ou des prix des matériaux, l’adaptation des prix se fait 
+conformément à la formule d’adaptation des prix de SWISS-
+MEM.  
+3.3 Si des circonstances imputables au client entraînent des dé-
+penses supplémentaires, Siemens Energy  en informe immé-
+diatement le client. Les parties s’entendent avant l'exécution 
+du contrat sur une adaptation adéquate du prix convenu.  
+ 
+ 
+ 
+ 
+ 4. Conditions de paiem ent 
+4.1 A moins qu’il n’en ait été convenu autrement, les factures de 
+Siemens Energy  sont dues de suite et doivent être payées au 
+plus tard 30 jours après la date de la facture, sans escompte ni 
+déduction d'aucune sorte. Le paiement est réputé effectué dès 
+lors que le total du montant dû est crédité en francs suisses, 
+sans frais, sur l’un des comptes mentionnés dans la facture et 
+que Siemens Energy  en dispose librement. Aucune compensa-
+tion par des contre -créances n’est admise.  
+4.2 Les délais de paiement doivent êt re respectés même si le 
+transport, la livraison, le montage, la mise en exploitation ou la 
+réception des livraisons ou prestations sont retardés ou rendus 
+impossibles pour des raisons non imputables à Siemens Ener-
+gy, s’il manque des éléments non essentiels  ou si des re-
+touches qui n’entravent pas l’usage de la livraison s’avèrent 
+nécessaires.  
+4.3 Si le client est en retard dans un paiement pour un motif quel-
+conque ou si Siemens Energy  doit craindre sérieusement en 
+raison d’une circonstance intervenue après la co nclusion du 
+contrat de ne pas recevoir dans leur intégralité ou en temps 
+voulu les paiements du client, Siemens Energy  est autorisée, 
+sans renoncer à ses autres droits, à suspendre la livraison 
+jusqu’à obtention de sûretés ou de paiements anticipés.  
+4.4 Si le client ne respecte pas les délais de paiement convenus, il 
+entre en demeure sans rappel et doit un intérêt moratoire de 
+8% p. a. à compter du 31e jour après facturation.  
+5. Réserve de propriété  
+5.1 Siemens Energy  reste propriétaire de l’ensemble de ses livrai-
+sons  tant et aussi longtemps qu’elle n’a pas obtenu tous les 
+paiements convenus. En acceptant la livraison, le client auto-
+rise Siemens Energy  à procéder à l’inscription de la réserve de 
+propriété. Le client maintient en l’état, à ses frais, les objets li-
+vrés p endant la durée de la réserve de propriété et les assure 
+en faveur de Siemens Energy  contre le vol, les dommages, le 
+feu, les dégâts d’eau et autres risques.  
+6. Exécution du contrat par accès à distance  
+6.1 Dans la mesure où elle accepte la livraison le permet, Siemens 
+Energy  peut également effectuer la livraison par l’accès à dis-
+tance sur les installations et bases de données du client. Ce 
+dernier octroie les autorisations nécessaires et informe Sie-
+mens Energy  ainsi que les collaborateurs de cette dernière au 
+sujet de ses procédures IT, à ses propres frais.  
+6.2 Siemens Energy  part du principe que le client entretient et 
+garantit une politique de sécurité conforme à l'état de la tech-
+nique et qu'il prend et met à jour les mesures adéquates de 
+protection (comme par ex. l es mises à jour de sécurité du sys-
+tème et des logiciels antivirus).  
+6.3 Si, du côté du client, des licences sont nécessaires pour l'ac-
+cès à distance, celui -ci se les procure et les maintient à ses 
+frais pendant toute la durée du contrat.  
+6.4 Siemens Energy  est en droit d'accéder aux installations et 
+bases de données du client nécessaires à l’exécution de la 
+tâche par accès à distance.  
+6.5 Siemens Energy  est en droit de copier des données des sys-
+tèmes du client sur ses propres systèmes si c'est indispen-
+sable à l'analyse  et à la correction des erreurs.  
+7. Délai de livraison  
+7.1 Le délai de livraison commence à courir dès l’émission de la 
+confirmation de la commande et lorsque toutes les formalités 
+contractuelles, techniques et administratives telles 
+qu’autorisations d’importatio n, d’exportation, de transit et de 
+paiement sont remplies et que la livraison est déterminé. Le 
+délai de livraison est réputé tenu si, à l’échéance, la livraison a 
+été effectuée à l’endroit convenu, si l’objet est monté ou instal-
+lé prêt à fonctionner et si  la réception peut être attestée immé-
+diatement. Des livraisons partielles sont admises.  
+  
+  
+ 
+Conditions générales de livraison de Siemens Energy pour des installations spécifiques au client (version 04.2021) 
+ 
+© Siemens Energy  2021 Page 2 de 4 
+ 
+7.2 Le délai de livraison est prolongé en conséquence  : 
+- lorsque les données ou éléments dont Siemens Energy  a 
+besoin pour remplir le contrat ne lui parviennent pas à temps 
+ou lorsque le client exige après coup des modifications ou 
+des compléments;  
+- lorsque surviennent des empêchements que Siemens Ener-
+gy ne peut pas éviter malgré tout le soin requis, indépen-
+damm ent de savoir si ces empêchements sont le fait de 
+Siemens Energy , du client ou d’un tiers. Sont considérés 
+comme tels notamment  : restrictions à l’exportation ou à 
+l’importation, ordres de boycott d’organisations étatiques ou 
+supranationales, mesures ou om issions administratives  ; 
+conflits du travail ou autres perturbations non imputable à 
+Siemens Energy , épidémies, catastrophes naturelles, pira-
+tages informatiques et activités terroristes. En présence de 
+tels événements, Siemens Energy  informe immédiatement  
+le client de leur ampleur et de leurs causes, et le tient au 
+courant;  
+- lorsque le client ou des tiers qu’il a mandatés sont en retard 
+dans des travaux ou dans l’exécution de leurs obligations 
+contractuelles, ou lorsque le client ne respecte pas les con-
+ditions de paiement;  
+- tant que le client n’a pas mis en place les conditions néces-
+saires à l’accès à distance ou si ces dernières ne sont, pro-
+visoirement ou définitivement, plus réunies;  
+- en cas d’abus de l’accès à distance ou si un autre danger 
+menace le systèm e concerné.  
+7.3 Le client est autorisé, en cas de retards dus à une faute avérée 
+de Siemens Energy , à faire valoir une indemnité pour retard 
+dans la mesure où il a de ce fait subi un dommage attesté. Ce 
+droit est caduc si une livraison de remplacement est four nie en 
+temps voulu au client.  
+7.4 L’indemnité pour retard se monte à 0,5% au plus pour chaque 
+semaine complète de retard à compter de la fin de la deuxième 
+semaine, au total toutefois pas à plus de 5% du prix contrac-
+tuel de l'élément dont la livraison est reta rdée.  
+7.5 Une fois le montant maximum de l’indemnité pour retard at-
+teint, le client peut fixer à Siemens Energy  par écrit un dernier 
+délai supplémentaire raisonnable pour la livraison. Si Siemens 
+Energy  ne tient pas ce délai pour des motifs défendables, le 
+client est autorisé à refuser la réception de l'élément dont la li-
+vraison est retardée. Si une livraison partielle est pour lui éco-
+nomiquement inacceptable, il est alors en droit de se départir 
+du contrat et d’exiger le remboursement des paiements déjà 
+effect ués contre retour des livraisons faites.  
+7.6 Un retard de livraison ne donne pas au client d’autres droits ni 
+d’autres prétentions que ceux mentionnés expressément au 
+présent chiffre  7.  
+8. Collaboration entre les parties au contrat  
+8.1 Siemens Energy  et le client tr availlent ensemble à l’exécution 
+du contrat et prennent à temps les mesures nécessaires à ce 
+titre. 
+8.2 Pour les collaborateurs de Siemens Energy  qui travailleront 
+chez lui, le client met à disposition gratuitement et en temps 
+voulu des postes de travail équip és de manière adéquate (y 
+compris alimentation énergétique requise) ainsi que les 
+moyens auxiliaires nécessaires.  
+8.3 Au besoin, le client loue en temps voulu à Siemens Energy  
+d'autres outils, logiciels et/ou données test éventuels sur des 
+supports de données adéquats.  
+8.4 Chaque partie est en droit d’interrompre l'accès à distance 
+avec effet immédiat en cas d'abus ou si un autre danger me-
+nace le système concerné.  
+9. Modifications du contrat  
+Si des événements imprévisibles modifient en substance le 
+contenu des livrais ons ou influencent considérablement les 
+travaux de Siemens Energy , de même qu’en cas 
+d’impossibilité d’exécution postérieure à la conclusion du con-
+trat, le contrat est adapté en conséquence. Si une telle adapta-
+tion n’est pas défendable sur le plan économiq ue, Siemens 
+Energy  a le droit de dissoudre le contrat ou les éléments du 
+contrat concernés. Dans le cas où Siemens Energy  entend 
+faire usage de son droit de dissoudre le contrat, elle en fait part 
+au client après avoir pris acte de la portée de l’événement , et 
+ce, également si une prolongation du délai de livraison a été 
+tout d’abord convenue. En cas de dissolution du contrat, Sie-
+mens Energy  a droit à être indemnisée pour les livraisons déjà 
+effectuées au prix convenu. Toute prétention en dommages -
+intérêts sur la base d’une telle dissolution du contrat est ex-
+clue.  10. Transfert des profits et des risques  
+Les profits et les risques passent au client au moment de 
+l’annonce que la livraison est prête pour réception; en 
+l’absence d’une telle annonce, au moment de l’enlèvement de 
+la livraison pour transport au lieu de stockage. Si la livraison, le 
+montage ou l’ installation sont retardés sur demande du client 
+ou pour toute autre raison non imputable à Siemens Energy , 
+les risques passent au client au moment prévu initialement.  
+11. Réception (acceptation)  
+11.1 Le fait que la livraison est prête pour réception doit être anno n-
+cé au client au moins cinq jours ouvrables à l’avance.  
+11.2 Le client effectue en collaboration avec Siemens Energy , dans 
+un délai d’un mois à compter de l’annonce que la livraison est 
+prête pour réception, un contrôle de réception conformément 
+aux conventions  contractuelles.  
+11.3 Siemens Energy  établit un procès -verbal de réception, qui est 
+aussi signé par le client. Ce document doit préciser si la récep-
+tion a eu lieu ou si elle a été refusée. Les défauts relevés doi-
+vent être mentionnés en détail dans le procès -verbal de récep-
+tion. 
+11.4 Siemens Energ y remédie aussi rapidement que possible aux 
+défauts établis dans le procès -verbal, à son gré par une remise 
+en état ou par une livraison de remplacement. Le client donne 
+à Siemens Energy  l'opportunité de remédier aux défauts et lui 
+concède le temps nécessa ire à cette fin. Les éléments rempla-
+cés doivent être rendus à Siemens Energy . 
+11.5 Si seuls apparaissent au contrôle de réception des défauts 
+négligeables qui n’affectent pas de manière substantielle 
+l’usage convenu, le client doit accepter la livraison.  
+11.6 Si des  défauts qui rendent impossible l’usage convenu appa-
+raissent lors du contrôle de réception, Siemens Energy , après 
+y avoir remédié – le client concède à Siemens Energy  un délai 
+supplémentaire adéquat à cet effet –, réitère l’annonce que la 
+livraison est prê te pour réception.  
+11.7 Si les défauts qui apparaissent au nouveau contrôle de récep-
+tion ou pendant le délai de garantie ne peuvent pas être répa-
+rés dans un délai raisonnable et sont à ce point graves que 
+l’usage convenu de la livraison reste impossible, le cli ent a le 
+droit d'exiger une réduction conséquente du prix convenu ou 
+de refuser l'élément défectueux ou, si une acceptation partielle 
+est inexigible pour lui, se départir du contrat. Dans ce dernier 
+cas, Siemens Energy  ne peut être contrainte de rembourser  
+que les montants qui lui ont été payés pour les éléments de la 
+livraison non acceptés par le client.  
+11.8 Si le client n’accepte pas la livraison même en l’absence de 
+défauts qui en empêcheraient l’usage convenu, ou s’il refuse 
+de cosigner le procès -verbal de réception, la livraison est répu-
+tée acceptée à l’échéance des délais de réception.  
+12. Garantie  
+12.1 A moins qu’il n’en ait été convenu autrement, le délai de garan-
+tie pour la livraison est de 24 mois. Il commence à courir dès 
+réception de la livraison. Si l’envoi est retardé pour des raisons 
+non imputables à Siemens Energy , le délai de garantie échoit 
+au plus tard 30 mois après l’annonce que la livraison est prête 
+pour réception.  
+12.2 Pour les éléments de la livraison remplacés ou réparés, le 
+délai de garantie est de 6 mois dès le remplacement, la répa-
+ration achevée ou l’acceptation des éléments remplacés ou 
+réparés si le délai de garantie pour la livraison échoit plus tôt 
+selon l’alinéa ci -dessus. Le délai de garantie échoit en tout cas 
+au plus tard 30 mois après l’anno nce que la livraison est prête 
+pour réception.  
+12.3 La garantie s’éteint prématurément si le client ou des tiers, 
+sans l’approbation écrite préalable de Siemens Energy , procè-
+dent à des modifications ou des réparations ou si le client, 
+lorsqu'apparaît un défaut,  ne prend pas de suite toutes les me-
+sures adéquates pour minimiser le dommage et n'annonce pas 
+à Siemens Energy  ledit défaut en lui donnant la possibilité d’y 
+remédier.  
+12.4 Les défauts constatés pendant le délai de garantie doivent être 
+communiqués à Siemens E nergy  immédiatement pas écrit, 
+toutefois au plus tard dans un délai de cinq jours ouvrables. 
+Siemens Energy  remédie aux défauts constatés aussi rapide-
+ment que possible, à son gré par une remise en état ou par 
+une livraison de remplacement. Dans la mesure o ù ils sont 
+remplacés, les éléments défectueux retournent dans la pro-
+priété de Siemens Energy . 
+ 
+ 
+ 
+  
+ 
+Conditions générales de livraison de Siemens Energy pour des installations spécifiques au client (version 04.2021) 
+ 
+© Siemens Energy  2021 Page 3 de 4 
+ 
+12.5 Les coûts des réparations menées en usine sont à la charge 
+de Siemens Energy . Si la réparation dans l’usine de Siemens 
+Energy  n’est pas possible, les coûts qui  en résultent, pour au-
+tant qu’ils ne dépassent pas les frais usuels de transport, de 
+personnel, de voyage et de séjour, ainsi que les frais de mon-
+tage et de démontage des éléments défectueux, sont à la 
+charge du client.  
+12.6 Ne sont des qualités promises que ce lles désignées expres-
+sément comme telles dans la confirmation de la commande. 
+La garantie est réputée satisfaite si la preuve de la qualité con-
+cernée a été apportée à l’occasion du contrôle de réception; 
+autrement, la garantie vaut au plus tard jusqu’à l’é chéance du 
+délai de garantie. Si les qualités promises ne sont pas satis-
+faites ou ne le sont qu’en partie, le client a tout d’abord droit à 
+la réparation par Siemens Energy . Si cette réparation ne réus-
+sit pas ou qu’en partie, le client a alors droit à une réduction 
+appropriée du prix. Si le défaut est à ce point grave qu’il ne 
+peut être réparé dans un délai convenable et qu’il rend impos-
+sible l’usage convenu de la livraison, le client a le droit de refu-
+ser la réception de l'élément défectueux ou, si une réc eption 
+partielle est inexigible, de se départir du contrat. Siemens 
+Energy  ne peut alors être contrainte de rembourser que les 
+montants qui lui ont été payés pour les éléments de la livraison 
+concernés.  
+12.7 Sont exclus de la garantie et de la responsabilité le s dom-
+mages dont il n’est pas prouvé qu’ils résultent de mauvais ma-
+tériaux, d’un vice de construction ou d’un défaut d’exécution, 
+mais qui sont dus par exemple à une usure naturelle, à un 
+manque d’entretien, au non -respect des prescriptions 
+d’exploitation, à une utilisation excessive, à des matériaux ina-
+daptés, à des interférences ou dérangements chimiques ou 
+électrolytiques provenant d'appareils non livrés par Siemens 
+Energy , à des travaux de construction ou de montage non réa-
+lisés par Siemens Energy , ainsi  qu’a d’autres raisons que Sie-
+mens Energy  ne doit pas assumer.  
+12.8 Lorsque le défaut concerne des logiciels, il n'y est remédié 
+qu'à la condition qu’il est documenté avec un maximum de dé-
+tails et qu’il est reproductible dans la version originale inchan-
+gée sur le matériel informatique de référence ou matériel in-
+formatique cible prévu par le contrat. Les défauts sur les logi-
+ciels sont réparés en premier lieu, et si possible à des coûts 
+raisonnables, via une mise à niveau ou une mise à jour. Si le 
+client ne peut p lus effectuer de tâches importantes pressantes, 
+Siemens Energy  cherche si possible dans un délai adéquat et 
+selon un effort exigible une solution alternative. En cas de 
+perte de données ou de dommages aux données et/ou des 
+supports de données, la garantie ne couvre que l’installation 
+de données sauvegardées.  
+12.9 Pour des  livraisons de sous -traitants, comme aussi pour des 
+appareils usuels provenant de sous -traitants tels 
+qu’ordinateurs, imprimantes, etc., Siemens Energy  cède au 
+client les droits à l’égard des sous -traitants.  
+12.10  Par défauts, on entend tout écart dans la livrai son, les logiciels 
+et/ou la documentation par rapport aux termes expressément 
+convenus dans le contrat et ses annexes.  
+12.11  Les défauts du matériel, de la construction ou de l’exécution 
+comme aussi les vices dans les qualités promises ne donnent 
+au client aucun  droit ni aucune prétention autres que ceux 
+mentionnés expressément au chiffre 12.  
+12.12  Si les vices relevés par le client ne peuvent être ni reproduits ni 
+constatés au moment de la recherche des erreurs, Siemens 
+Energy  est autorisée à facturer au client les fr ais liés à cette 
+recherche. Pour les défauts à la livraison ou aux logiciels impu-
+tables au client, Siemens Energy  y remédie sur demande du 
+client, contre indemnisation adéquate et aux conditions à con-
+venir en l’espèce.  
+13. Autres responsabilités  
+13.1 Siemens Energ y ne répond que de l'exactitude des données 
+qu'elle fournit au point de sortie WAN de l'ordinateur qu'elle uti-
+lise. 
+13.2 En cas de perte ou de détérioration de données et/ou de sup-
+ports de données, l'obligation de remplacement de Siemens 
+Energy  se limite à la restauration des données sauvegardées.  
+13.3 Le client est seul responsable de l'accès aux données qu’il a 
+autorisé et du r espect des dispositions légales applicables 
+dans ce contexte.  
+13.4 Si le client utilise l'accès à distance pour apporter des modifi-
+cations à son propre système, il en est seul responsable.  
+ 
+ 13.5 Toute prétention du client autre que celles ressortant expres-
+sément du  contrat et des conditions générales, indépendam-
+ment du motif juridique sur lequel elle repose, notamment 
+toutes les prétentions non expressément mentionnées à des 
+dommages -intérêts, à une réduction de prix, à la suspension 
+ou la résiliation du contrat, es t exclue. Le client ne peut pré-
+tendre à la réparation de dommages qui ne sont pas survenus 
+à la livraison elle -même, p. ex. arrêt de production, pertes 
+d’exploitation, perte de mandats, manques à gagner ou autres 
+dommages directs et indirects, que si ceci est expressément 
+convenu par écrit et en tout cas uniquement jusqu’à hauteur 
+d’un montant total d’un million de francs suisses. Cette exclu-
+sion de la garantie ne vaut pas dans les cas de négligence 
+grave ou de dol  ; le droit impératif contraire reste réser vé. 
+14. Conformité à la réglementation relative au  contrôle des 
+exportations  
+14.1. Siemens Energy sera en droit de ne pas remplir ses obliga-
+tions si une réglementation nationale ou internationale ou 
+toute autre contrainte impérative, relative au commerce natio-
+nal ou international, à l’importation ou à l’exportation, à des 
+obligations douanières, des mesures d’embargos ou toutes 
+autres sanctions, s’opposait ou contrevenait à la validité ou à 
+l’exécution de ses obligations.  
+14.2 Si le client  transfère ou cède la marchandise fournie par Sie-
+mens Energy (matériel et/ou logiciel et/ou technologie ainsi 
+que la documentation correspondante, indépendamment du 
+mode de fourniture) ou les services fournis par Siemens Ener-
+gy (incluant toute sorte d’assistance technique) à un  tiers, le 
+client  s’engage à observer les réglementations nationales et 
+internationales en vigueur en matière de contrôle des exporta-
+tions (ou réexportations). En pareil cas, le client  se conformera 
+à la réglementation relative au contrôle des exportations  (ou 
+réexportations) de la Suisse , l’Allemagne, l’Union Européenne 
+et des États -Unis d’Amérique.  
+14.3 Le client  devra, sur demande de S iemens Energy , lui fournir 
+dans les plus brefs délais toutes les informations relatives au 
+client final, à la destination finale et à l’usage final des mar-
+chandises et services fournis par S iemens Energy , ainsi que 
+les restrictions existantes à l’exportation pour permettre aux 
+autorités ou à S iemens Energy  d’effectuer des vérifications en 
+matière de contrôle des e xportations . 
+14.4  Le client  garantit S iemens Energy  contre tout recours, procé-
+dures, actions, amende, perte, frais résultant de 
+l’inobservation et/ou de la violation par le Client  de la règle-
+mentation en matière de contrôle des exportations . Le client  
+indemnisera S iemens Energy  pour tous dommages y affé-
+rents.  
+15. Maintien du secret et protection des données  
+15.1 Siemens Energy  et le client s'engagent à traiter de manière 
+confidentielle, au même titre que leurs propres secrets d'entre-
+prise, et au -delà de la fin d u contrat, tous les documents, in-
+formations, moyens auxiliaires et logiciels obtenus en lien avec 
+le présent contrat et qui ne sont pas généralement acces-
+sibles  ; ils s'engagent également à ne pas les diffuser en in-
+terne inutilement ni les rendre accessibl es à des tiers – à l'ex-
+ception des sous -traitants – que ce soit globalement ou sous 
+forme d'extraits.  
+15.2 Pour autant que Siemens Energy  traite des données person-
+nelles dans le cadre de ses travaux sur la livraison et la docu-
+mentation, elle respecte les instru ctions du client et les lois sur 
+la protection des données. Siemens Energy  prend des me-
+sures correspondantes pour protéger ce type de données 
+contre tout accès non autorisé de tiers.  
+15.3 Le client prend acte du fait que les indications, informations et 
+documen ts qui le concernent peuvent être conservés égale-
+ment à l'extérieur de la Suisse. Ils peuvent être portés à la 
+connaissance aussi bien de Siemens Energy  que d'autres en-
+treprises liées au groupe dans le cadre de l'exécution du con-
+trat.  
+15.4 Si la fourniture du service exige un accès à distance à des 
+données personnelles, le client en sera informé et prié d'auto-
+riser l'accès. L'accès aux données personnelles n'aura lieu 
+qu'après l'autorisation du client. Dans l'intervalle, l'obligation de 
+prestation de Siemens En ergy est suspendue sans indemnité.  
+15.5 Siemens Energy  n’est en droit de faire usage des informations 
+dont elle prend connaissance dans le cadre de l'exécution du 
+contrat que dans ce dernier but et, sous une forme anonymi-
+sée, pour le développement de ses produi ts. 
+  
+ 
+Conditions générales de livraison de Siemens Energy pour des installations spécifiques au client (version 04.2021) 
+ 
+© Siemens Energy  2021 Page 4 de 4 
+ 
+16. Droits sur la livraison et la documentation  
+16.1 La propriété intellectuelle sur tout le matériel informatique de la 
+livraison et sur sa conception, comme aussi sur tous les logi-
+ciels et les documentations y relatifs, appartient à Siemens 
+Energy  ou aux sous -traitants de Siemens Energy  concernés, 
+indépend amment de leur capacité à être protégés.  
+16.2 Le client obtient le droit d'utiliser la livraison, y compris le 
+logiciel et les documentations créés pour lui sur la base du 
+contrat, conformément aux dispositions du présent contrat.  
+17. Droits de protection et préten tions de tiers  
+17.1 Siemens Energy  veille dans la mesure du possible et de ce qui 
+est exigible de sa part – pour autant que Siemens Energy  
+puisse s'en rendre compte – à éviter que la livraison ne viole 
+les droits de tiers.  
+17.2 Si un tiers fait valoir des prétention s justifiées tirées de droits 
+de propriété industrielle (brevets, etc.) en raison de la livraison, 
+Siemens Energy  – à l'exception de toute autre prétention – à 
+son gré et à ses frais  
+- obtient du titulaire du droit de disposition un droit d'usage 
+pour le dro it de propriété concerné, ou  
+- modifie les éléments qui violent le droit de propriété, ou  
+- échange les éléments qui violent le droit de propriété contre 
+des éléments exemptés de tels droits, ou  
+- reprend la livraison contre remboursement du prix d'achat.  
+Seules sont considérées comme justifiées les prétentions qui 
+sont admises par Siemens Energy  ou reconnues dans le 
+cadre d'une procédure close et ayant force de chose jugée.  
+17.3 Le client est tenu d'informer immédiatement Siemens Energy  si 
+un tiers, à un titre jur idique quelconque, fait valoir des préten-
+tions dirigées à l'encontre de Siemens Energy . Le client n'est 
+pas autorisé à reconnaître de lui -même de telles prétentions.  
+17.4 Dans la défense contre de telles prétentions et la confrontation 
+avec des tiers, notamment  en cas de litige juridique, le client 
+soutient Siemens Energy  et n’agit dans ce cadre que sur ins-
+truction écrite de Siemens Energy . Siemens Energy  rembourse 
+au client les dépenses attestées subies à cette occasion.  
+18. Conséquence de la cessation du contrat  
+Les droits et devoirs selon les chiffres 14 et 15 pour tous les 
+événements qui surviennent pendant la durée du contrat et en 
+lien avec le contrat re stent valables sans changement après la 
+cessation du contrat.  
+19. Droit applicable  
+Les rapports contractuels sont soumis au droit matériel suisse. 
+La Convention des Nations Unies sur les contrats de vente in-
+ternationale de marchandises (dit droit d'achat de Vi enne) du 
+11.4.1980 n'est pas applicable au présent contrat.  
+20. For 
+Le for pour le client et pour Siemens Energy  est Zurich. Sie-
+mens Energy  est toutefois autorisée à poursuivre le client éga-
+lement à son siège.  

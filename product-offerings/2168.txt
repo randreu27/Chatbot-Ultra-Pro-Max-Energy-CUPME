@@ -1,0 +1,511 @@
+  
+ 
+General Terms and Conditions for Serv ice - Siem ens Energy  (Version 04.2021) 
+ 
+    
+© Siemens Energy 20 21   
+ The present General Terms and Conditions for Service - 
+Siemens Energy (GTCS) shall be binding if declared applicable 
+in our tender/ order  confirmation or our report. Any conditions to 
+the contrary stipulated by the customer shall be vali d only if 
+expressly accepted by us in writing.  
+A. DEFINITION S 
+A.1 System : The hardware and software which are the 
+subject of the Service Contract  or the Services Based on 
+Time and Workload . The term “equipment” may be used 
+as a synonym.  
+A.2 Service s: Servi ces B ased on Service  Contract  
+(Paragraph A.5) a long with  Services  Based on Time and 
+Workload  (Paragraph A.3 ).  
+A.3 Services B ased on Time and Workload : Services which 
+we perform  on a time -and-workload  basis to maintain, 
+restore or functionally upgrade  the operationa l readines s 
+of a System (Paragraph B) . 
+A.4 Service Contract : Individual section of the contract with 
+the customer -specific details and agreements.  
+A.5  Services  Based on Service Contract : Any services 
+under the  Service Contract (Paragraph C) . 
+A.6 Service S tand -By Ti me: Our accessibility and provision 
+of suitable personnel and material resources for rapid and 
+effec tive intervention in the event of a fault during the time 
+agreed in the Service Contract.  
+A.7 Normal Working Hours : Working days from Monday 
+through Frida y, from 0800 to 1700 in each case, statutory 
+public holi days as applying at our service location 
+excluded.  
+A.8 On-Call Service : The extension of our Service Stand -by 
+Time beyond the Normal Working Hours.  
+A.9 Service Call Desk : Our ce ntral poin t for the acceptance 
+of fault reports and their forwarding to the responsible 
+member of our personnel. The telephone and fax number, 
+plus, where applica ble, the internet - or e-mail address of 
+the Service Call Desk are listed in the Service Contr act. 
+The t erm “Helpl ine” may be used as a synonym.  
+A.10 Response Time : Period between customer’s call being 
+received by the Service Call Desk until our first expert 
+telephone support is provided during the Service Stand -
+By Time.  
+A.11 Intervention Time : Period bet ween custo mer’s call being 
+received by the Service Call Desk until our first expert 
+interven tion on the System via Remote Access or On -Site 
+Access dur ing the Service Stand -By Time.  
+A.12 Remote Access : Services for fault diagnosis, 
+troubleshoot ing or monitoring  of the System, performed 
+by our personnel from one of our support centers  or a 
+mobile station via telecommuni cations facilities (inte rnet, 
+telephone or data line).  
+A.13 On-Site Access : Services performed by our personnel at 
+the location of the Sys tem.   
+A.14 Update : Corrected and / or further developed version of 
+the System’s software without functional expansion.  
+A.15 Upgrade : Corrected and / or further developed version of 
+the System’s software or hardware with functional 
+expansion.  
+A.15 Force Ma jeure : Impediments we are unable to overcome 
+in spite of taking the required care, whether affecting 
+ourselves, the customer or any third party. Such 
+impediments shall include government measures or 
+omissions, riots, mobilization, war; la bour co nflicts, l ock-
+outs, strikes, accidents and other material equipment 
+interruptions, epidemics, or natural occurrences; ter rorist 
+activities.  
+ 
+ 
+ 
+ 
+ 
+ B. SERVICES BASED ON TIME AND WORKLOAD  
+1.  Subject Matter  
+1.1 We shall provide  – in the absence of a Service Contract – 
+Services  Based on Time and Workload during N ormal 
+Working Hours in accordance with the individual agreement 
+between us and the customer. If possible  for us , we shall 
+provide Services B ased on Time and Workload  outside 
+Normal Working Hours as well; in thi s case, overtime and  
+on-call surcharges  shall be  invoiced .  
+2.  Costs  and Payment Terms  
+2.1 We shall invoice the provided services on a time-and-
+workload  basis  and any surcharges  according to  the rates  
+in our price list that is applicable at the time of servi ce 
+provisi on.  
+2.2 Our invoices shall be due without cash discounts  and 
+without any other deduction s within 30 days of the invoice 
+date. The o ffsetting  of such claims  against counterclaims 
+shall not be  allowed . 
+2.3 Should  the customer fail to meet  the agre ed payment  
+dates, he shall be in default without a payment reminder 
+being issued  and shall pay a default interest of eight 
+percent p.a. starting on  the 31st day after the invoice date .  
+C. SERVICES BASED ON SERVICE CONTRACT  
+If the customer has concluded a S ervice Contract 
+(Parag raph A.4) with us, the provisions of this Paragraph C 
+shall apply additionally:  
+3. Subject Matter   
+3.1 We shall be  available to provi de the Services Based on 
+Service Contract during the Service Stand-By Time agreed 
+in the Service Contract . 
+3.2 The customer shall submit fault reports to the  Service Call 
+Desk. Outside N ormal Working Hours, faults shall be 
+reported by phone .  
+3.3 We shall consult with the customer by phone within t he Re -
+sponse Time agreed  upon  in the S ervice Contract, classif y 
+the rece ived fault report and commence fault rectification  
+within the Intervention Time agreed  upon  in the Service 
+Contract.  
+3.4 In case  we fail to meet jointly agreed -upon  times and 
+deadlines by reason of our own fault , the customer shall be 
+entitled to  a credit note to be  agreed  upon  in the Service 
+Contract. The total of all c redit notes shall be  limited to a  
+maximum of  ten percent of the annual  flat-rate service fee. 
+Additional claims o n the part of  the customer  based on  
+default , especially claims for damages , are exclude d. 
+3.5 Defective system parts shall, at our discretion, be repair ed 
+or replace d.  
+3.6 We shall be entitled to invoice the customer separately for 
+costs associated with fault location, if reported faults can 
+neither be identified nor re produced, or are att ributable to 
+causes outside the System.  
+4. Additional Services Requested by the Customer   
+4.1 Services requested by the customer which  go beyond  the 
+scope agreed  upon  in the S ervice Contract must be agreed  
+upon  in writing in advance. The provisions  in Paragr aph B. 
+shall apply additionally  to such services . 
+5. Duties and Obligations of the Customer  
+5.1 The customer shall have all work on the System carried out 
+exclusively by us or by third parties authorised by us  in 
+advance . 
+5.2 The customer shall obse rve the pe rtinent operating 
+instructions a nd, in particular , comply with the 
+environmental values approved for the S ystem.   
+5.3 If we are unable to provide  the Services Based on Service 
+Contract at the customer’s premises  in a timely or proper 
+manner for r easo ns for  which he is responsible, we shall be 
+entitled to charge him for the resultant costs.   
+   
+ 
+ 
+General Terms an d Conditions for Service - Siem ens Energy  (Version 04.2021) 
+  
+  
+ 
+© Siemens Energ y 202 1  Seite 2 von 4 
+ 6. Service Fees, Indexing, Payment Conditions   
+6.1 The flat -rate service fee shall be calculated from the 
+agreed services in accordance with the Service  Contract.  
+6.2 Flat-rate service fees do not cover  services which  are 
+invoiced  on a time-and-workload basis , which  are 
+provided additionally at the customer’s request 
+(Paragraph C.4) or which  are provided to rectify a defect  
+outside the system . 
+6.3 We shall be entitled to adj ust flat -rate service fees if the 
+wage index of Swissmem (formerly “ ASM, Association of 
+Swiss Engineering Employers ”) changes or if changes 
+occur in the scope of service s. 
+6.4 Our invoices shall be due without cash discounts and 
+without  any other  deduction s within 30 days of the invoice 
+date. The offsetting of such claims against counterclaims 
+shall not be allowed . 
+6.5 Should the customer fail to meet the agreed payment 
+dates, he shall be in default without a payment reminder 
+being issue d and he s hall be liable to pay default interest 
+at a rate of eight percent  p.a. Should the customer be 
+more than three months in default , we shall be entitled to 
+suspend performance of the Services. We expressly 
+reserve the right of termination with immed iate effec t of 
+the S ervice Contract.  
+7. Term of Service Contract , Notice of Termination  
+7.1 The Service Contract (incl. this GTCS ) shall come into 
+force upon its legally valid signature by both contractual 
+parties as at the date agreed in the Service Contrac t. We 
+shall in all cases sign collectively in pairs.  
+7.2 The S ervice Contract shall be concluded for the agreed -
+upon  minimum period and thereafter – if a maximum 
+period is not provided  in the Service Contract  – for an 
+indefinite period.   
+7.3 Each contractu al party s hall be en titled to give written 
+notice of termination of the Service Contract (incl. this 
+GTCS ), subject to a notice period of three months from 
+the end a calendar year, but effective at the earliest from 
+the end of the agreed minimum term, unle ss otherwi se 
+agreed in the Service Contract.  
+7.4 Each contractual party shall be entitled to give written 
+notice of termination of the Service Contract (incl. this 
+GTCS ) with immediate effect for good cause, which shall 
+apply in particular:  (a) in the eve nt of culp able mater ial 
+breach of contract by the other contractual party which is 
+not fully rectified within a rea sonable period despite 
+written warnings; or  (b) if the other con tractual party has a 
+long-term inability to pay or if insolvency or probate  
+proceedin gs are app lied for or initiated against the other 
+party or dismissed due to insufficient assets.  
+7.5 We shall be entitled to give written notice of termination of 
+the Service Contract (incl. this GTCS ) with immediate 
+effect if the System suffers serious da mage  or is rendered 
+unusable as a result of improper treatment on the part of 
+the customer or third parties or as a consequence of 
+Force Majeure. The customer shall inform us of such an 
+event without delay. In this case re muneration shall be 
+calculated pr o rata tem poris. We reserve the right to 
+institute claims for damages.  
+7.6 After termination of the Service Contract (incl. this GTCS ), 
+the customer shall be entitled to continue to use the last 
+version of the software installed by us, in accorda nce with 
+the pertine nt usage conditions.  
+D. GENERAL PROVISIONS FOR SERVICES  
+8. General Information  
+8.1 Services shall be provided, at our discretion, via Remote 
+Access, On-Site Ac cess or at our premises .  8.2 We shall be entitled to engage  subcontractors and  shall be 
+liable for  their services like our own.   
+8.3 Spare  parts shall be invoiced according to the relevant list 
+price s. They  may be new or as good as new . If defective 
+parts are replaced, we shall acquire ownership thereof . The 
+spare parts shall become  the custo mer’s prop erty as soon 
+as they are fully paid for . 
+8.4 Hardware deliveries shall take place EXW, Zurich 
+(Incoterms 20 20). 
+8.5 Software and documentation shall be supplied on a 
+suitable data carrier of our choice.  
+8.6 The customer shall be oblige d to provid e us  with the 
+informa tion and documentation necessary for the Services 
+before commencement of their performance.   
+8.7 The customer shall be responsible for the regular backup of 
+his data himself.   
+8.8 The customer shall obtain for us the Syste m access 
+required for  performance of the Services, and shall make 
+available the necessary transmission devices, network 
+connections and workstations.   
+8.9 The customer shall make a properly qualified  contact 
+person available to us during the performance o f our 
+Servi ces and in form us , without being requested to do so , 
+of the safety regu lations applicable at that person’s  
+premises .  
+8.10 The customer recognizes our exclusive right of disposal in 
+respect of such of our tools as are located at the site.   
+9. Confidentiali ty and Dat a Protection  
+9.1 We undertake to treat confidentially at all times, even after 
+the performance of the Service s, as our own trade secrets, 
+all documents and information received from the customer 
+in relation to the Service s, including a ll copies o r recordin gs 
+that may have been made thereof, as well as the object and 
+purport of the tasks we have been entrusted with, and such 
+documents and information as we shall elaborate or 
+develop. We therefore shall not divulge without cause such 
+docu ments or in formation within our business enterprise 
+and shall not disclose them to any third parties – neither in 
+full nor in part – except to subcontractors and then subject 
+to paragraph D . 9.3 only. The obligation shall not apply for 
+such documents and i nformation of w hich i t is 
+demonstrated that  (a) they have beco me a matter of 
+common knowledge without the obligation to observe 
+confidentiality having been infringed, or  (b) they have been 
+lawfully disclosed by third parties, without the obligation to 
+obse rve confide ntiality h aving been infringed,  (c) they have 
+been elaborated by us independently.  
+9.2 Insofar as we process personal data when performing work 
+in relation with the equipment or documentation, we shall 
+comply with customer's instructions and cur rent Data 
+Protection Acts; further, we shall take such measures as 
+are necessary with a view to safeguarding such data 
+against unauthorized access by third parties.  
+9.3 Insofar as this should prove necessary, we shall be entitled 
+to pass documents and info rmation on to subcont ractors, 
+provided the latter, on their part, have previously agreed in 
+writing to observe confidentiality within the meaning of this 
+paragraph . 
+9.4 In accordance with the above provisions the customer 
+under takes to treat confidentiall y and not t o disclose  to any 
+third party, all documents received from us and bearing the 
+mention "vertraulich", "confidential", "Fabrik ations -
+geheimnis" or "manufacturing secret", etc.  
+ 
+ 
+ 
+   
+ 
+ 
+General Terms an d Conditions for Service - Siem ens Energy  (Version 04.2021) 
+  
+  
+ 
+© Siemens Energ y 202 1  Seite 3 von 4 
+ 10. Rights to Hardware and Software and Documentation  
+10.1 Intellectual or industrial property r ights, irrespective of 
+whether such rights are eligible for legal protection or not, 
+of all the hardware and software, including associated 
+changes, as well documentation, shall remain with us, or 
+with our subcontractors or third party  suppliers,  as the 
+case may be.  
+10.2 The customer shall enjoy the right to use the supplied 
+hardware and software and the documentation provided 
+in accordance with the se GTCS and any  Service 
+Contract, along with any license conditions also supplied. 
+Stand ard softwar e and its documentation shall be 
+exclusively subject to the pertinent conditions of supply 
+and licensing of the respective suppliers.  
+10.3 Unless otherwise expressly agreed, the cus tomer shall 
+not be entitled to: ( a) reproduce or have reproduced  the 
+hardware or part s thereof, (b) duplicate the software 
+(except for backup purposes) or make it available to third 
+parties,  (c) copy or pub lish the associated documentation, 
+or have it copied or pub lished.  
+10.4 Upon transfer of the System, these obli gations and  rights 
+shall be assigned to the recipient.  
+11. Warranty  
+11.1 We do not warrant that the System maintained by us may 
+be used in a fault -free manner and without interruption in 
+all con figurations desired by the customer.  
+11.2 We provide a warranty for a perio d of six m onths from the 
+date of delivery for a spare part or an Upgrade; in the 
+case of an Upgrade, the warranty shall apply exclusively 
+to the functional extension of the System affected by the 
+Upgrade.  
+11.3 In the case of the provision of a Service or the supply  of 
+an Updates, we provide a warranty for a period of three 
+months after completion of the Service or after delivery of 
+the Update in respect of proper and careful execution.  
+11.4 In any case the warranty period shall end 9 months at the 
+latest after begi nning of the o rdinary warranty period 
+stipulated under Art. 11.2 respectively 6  months at the 
+latest after begi nning of the o rdinary warranty period 
+stipulated under Art. 11.3.  
+11.5 We provide no warranty for wear and tear parts.  
+11.6 Should the customer d iscover a fault or deficiency during 
+the warranty period, it shall report this to the Service Call 
+Desk without delay. We shall rectify the fault / deficiency 
+by means of our choice within a reasonable period of 
+time. Paragraph D. 8.3  shall apply  analogous ly.  
+11.7 The terms “fault” / “deficiency” shall be taken to mean  
+a)  in the case of the supply of hardware or software, 
+non-conformances from the properties agreed in the 
+respective specification, and  
+ b)  in the case of Services, execution i n an impro per 
+manner, or without due care and attention.   
+11.8 If we are unable to repair  a fault/defect within a 
+reasonable grace period, the customer shall be entitled to 
+waive repair and to request a reasonable reduction of the 
+costs  in the case of Services Based on Time and 
+Workload or  of the service fee i n the case of the S ervice 
+Contract. The reasonable reduction shall amount , at 
+most,  to the costs paid by the customer for our Service s 
+Based on T ime and Workload  in question  or, at most, to  
+the annual  flat-rate service fee of the Service s Based on 
+Service Contract for which we were unable  to provide  
+warranty.  
+ 
+ 
+ 
+ 11.9 The warranty shall exclude all deficiencies and damage not 
+demonstrably occurring as a result of faulty material or con -
+struction , or imperf ection in the execution, such as 
+depreciation due to ordinary wear and tear, or interference 
+with equipment not supplied by us, or of inexpert 
+intervention and modifications on the part of the customer 
+or thir d parties not authorized by us.  
+11.10 The custo mer shall have no rights and claims as a result of  
+faults/ defects except for those set out explicitly in 
+Paragraph D.11.  
+12. Intellectual Property Rights and Third Party Claims  
+12.1 We shall, to the extent that it is possible and reasonable 
+that we recognize s uch a situ ation, make sure that the 
+hardware and software supplied does not encroach upon 
+the rights of third parties.  
+If a third party should raise a legitimate claim arising from 
+intellectual property rights (patents, etc.) or with respect to  
+intellec tual proper ty rights relating to the delivery of 
+hardware and software, we shall – at our discretion and 
+expense – to exclu sion of any further claims, either  
+a) obtain, from the person entitled to dispose of the 
+intellectual property right conc erned, the right to u se 
+this intellectual property right, or  
+b) modify the parts that infringe intellectual property rights, 
+or 
+c) replace the parts that infringe intellectual property rights 
+by parts that are not infringing, or  
+d)  take back the parts aga inst restit ution of t he price paid 
+by the customer.  
+We shall be entitled to require appropriate restitution from 
+the customer for use of the software.  
+A claim is considered to be a legitimate claim only if it has 
+either been acknowledged by us, or if it has been aw arded 
+by a judicial decision not subject to appeal.  
+12.2 The customer shall inform us immediately of any claim 
+being raised against us on any legal ground by a third 
+party. The customer shall not acknowledge any such 
+claims. He shall assist us i n warding o ff such cl aims and 
+support us in the con flict with the third party, in particular in 
+a lawsuit, and he shall act in compliance with our written 
+instructions. We shall refund to the customer all related 
+expenses incurred by him to the extent the y are evide nced.  
+13. Liability 
+13.1 We shall be liable without limitation for personal damages 
+for which we are responsible in accordance with the 
+statutory provisions, and shall pay compensation for direct 
+damage to tangible property for which we are responsi ble, 
+up to an amount of CHF 1,000,000 (one million) per event, 
+up to a maximum of CHF 2,000,000 (two million) per 
+calendar year.  
+13.2 In the event of loss of or damage to data and/or data 
+storage media, we are not liable for cost relating to the 
+restoratio n of lost o r damaged data.   
+13.3 We shall not be liable if we are prevented, on grounds for 
+which we are not responsible, from performing the Services 
+in a timely or proper manner.  
+13.4 Claims on the customer’s part extending beyond those 
+expressly cited in these GTCS, in par ticular those 
+stemming from warranty, delay, non -fulfilment and claims 
+for damages – whatever their legal basis – and any liability 
+for pecuniary damage, loss of profit, loss of use, production 
+stoppages, operational interruption or th e rights of  third 
+parties, and for all indirect or consequential damage shall 
+be excluded, unless mandatory liability shall exist by virtue 
+of unlawful intent or gross negligence.  
+ 
+ 
+   
+ 
+ 
+General Terms an d Conditions for Service - Siem ens Energy  (Version 04.2021) 
+  
+  
+ 
+© Siemens Energ y 202 1  Seite 4 von 4 
+ 14. Disclosure of the Business Relationship and of Data 
+and Information  
+14.1 The custome r agrees that all data and information 
+required for the business relationships or resulting from 
+said relation ships, especially contractual documents and 
+papers as well  as data and information necessary for the 
+performance of the Service s of and a bout the  customer 
+and their auxiliary persons (Hilfspersonen) may also be 
+stored outside Switzerland. Furthermore, all this data and 
+information may be disclosed to Siemens Energy  as well 
+as to their associated companies for corresponding 
+processing, especiall y for provi ding services, fulfilment of 
+legal requirements or for Siemens -internal audit and/or 
+supervisory requirements; this always in compliance with 
+respectively applicable data protection laws.  
+15. Compliance with Export Control  Regulations  
+15.1 Siemens Ene rgy shall not be obligated to fulfil this 
+agreement if such fulfilment  is prevented by any 
+impediments arising out of  national or international foreign 
+trade or customs requirements or any embargoes or other 
+sanctions.  
+15.2 If Purchaser transfers goods (ha rdware and/ or software 
+and/ or techno logy as well as corresponding 
+documentation, regardless of the mode of provision ) 
+delivered by Siemens Energy or works and services 
+(including all kinds of technical support) performed by 
+Siemens Energy to a third part y worldwide, Purchaser 
+shall comply wi th all applicable national and international 
+(re-) export control regulations. I n any event Purchaser 
+shall comply with the (re -) export control regulations of 
+Switzerland, Germany, of the European Union and of the 
+United States of America.  
+15.3 If require d to conduct export control checks, Purchaser, 
+upon request by Siemens Energy, sh all promptly provide 
+Siemens Energy with all information pertaining to 
+particular end customer, destination and intended use of 
+goods, wo rks and services provided by Siemens E nergy, 
+as well as any export control restrictions existing.  
+15.4 Purchaser shall indem nify and hold harmless Siemens 
+Energy from and against any claim, proceeding, action, 
+fine, loss, cost and damages arising out of or  relating to 
+any noncompliance with ex port control regulations by 
+Purchaser, and Purchaser shall compensate Siemens 
+Energy f or all losses and expenses resulting thereof, 
+unless such noncompliance was not caused by fault of 
+the Purchaser. This provision doe s not imply a change in 
+burden of proo f. 
+16. Concluding Provisions  
+16.1 Any amendments and supplements  to these GTCS and to 
+any Service Contract must be made in writing to be valid. 
+This requirement may be waived  only in writing.  
+16.2 We shall be entitled to assign  these GTCS and any 
+Service Contract or any rights and duties thereunder to a 
+company within our group o f companies .  
+16.3 Should individual provisions of these GTCS or and 
+Service Contract be or become ineffective in part or in 
+whole, or should it pr ove impossible to i mplement them in 
+the intended manner for legal reasons, this shall not 
+affect t he validity  of the remaining contract provisions. 
+The parties shall replace the ineffective provision with an 
+effective provision that approximates the econom ic 
+intention of the  ineffective provision as closely as is 
+legally possible.   
+ 
+ 17. Applicable Law and Arbitral Tr ibunal  
+17.1 These GTCS and any Service Contract are governed by 
+Swiss substantive law. The application of the United 
+Nations Convention on Contract s for the Internati onal Sale 
+of Goods (the Vienna Law on the International Sale of 
+Goods) of April  11, 1980, shall be excluded.  
+17.2 Any dispute, controversy or claim arising out of or in 
+relation to this contract, including the validity, invalidity, 
+breac h or termination th ereof, shall be settled by arbitration 
+in accordance with the Swiss Rules of In ternational  
+Arbitration of the Swiss Chambers of Commerce in force on 
+the date when the notice of arbitration is submitted in 
+accordance with these Rules. The  number of arbitrat ors 
+shall be three. The seat of the arbitration shall be in Zurich, 
+Switzerland . The arbit ral proceedings shall be conducted in 
+English.  

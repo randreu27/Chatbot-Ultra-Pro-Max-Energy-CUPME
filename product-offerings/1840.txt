@@ -1,0 +1,740 @@
+What does it take to run a successful AM Business?1
+What does  
+it take to run  
+a successful  
+AM Business?
+Roundtable and  
+Survey Report
+Additive manufacturing 
+faces hurdles that need to 
+be overcome to realise its 
+potential, and while there 
+are dozens of conferences 
+that focus on technical 
+elements, very few - if any 
+- conversations focus on 
+the business, economic, 
+and cultural considerations 
+required to unleash the full 
+potential of AM.
+Convened by Siemens 
+Energy in collaboration 
+with IQPC, organisers of the 
+Additive Manufacturing 
+for Aerospace & Space 
+conference, this discussion 
+and subsequent survey of 
+senior executives drawn from 
+across the AM ecosystem 
+focused on issues beyond 
+the technical.
+What does it take to run a successful AM Business?2
+I have had the opportunity to participate in various conferences and panel 
+discussions over the years to share my views on how the industry at large 
+can accelerate the adoption of additive manufacturing towards a trusted and 
+fully industrialized process.  Technology development typically dominates 
+these discussions, especially with the rapid technical advancements in machine, 
+materials and software that we have witnessed over the last decade. 
+We have adopted the tag line of “Together we lead the Additive Manufacturing 
+Revolution” in our Siemens Energy AM family, and like the rest of the AM industry 
+a major focus has been technology development. However, while the maturation 
+of technology is fundamental in the journey towards industrial level adoption of 
+AM, I believe we must also consciously address the lesser mentioned soft factors 
+like organization culture if we truly want to lead this revolution.
+I have previously presented this model, which attempts to capture this holistic 
+approach that I believe is needed to effectively implement AM at an enterprise 
+level.  At Siemens Energy we have elected to set up AM as a standalone venture 
+with end-to-end accountability for both the hard and soft factors that influence 
+our ability to effect sustainable adoption of AM.  This discussion was born out 
+of the belief that across the entire AM eco-system, all businesses share this 
+same challenge of how to balance the hard and soft factors that determine the 
+holistic success of an AM implementation strategy.  If we have a shared goal to 
+accelerate the adoption of AM across industries, then it is equally important to 
+collaborate and share best practices on how we run our businesses as much as 
+the technology that supports this.Foreword by  
+Markus Seibold,  
+Vice President, Additive 
+Manufacturing, 
+Siemens Energy
+Soft FactsCulture
+Business 
+ModelsTechnology
+Qualification 
+& CertificationHard FactsInternal Focus
+External Focus
+
+What does it take to run a successful AM Business?3
+To kick-start the discussion, we hosted a Roundtable and 
+the invited participants represented a cross-section of the 
+AM industry ecosystem; Printer OEMs, users, service and 
+software providers and included metal, polymer and hybrid 
+industry leaders.
+Under discussion were three key questions:
+1.  How can the economic considerations of running 
+an AM business be balanced, and what challenges 
+have been experienced in its adoption? 
+2.  What are the main operational constraints that 
+have had to be overcome and what challenges still 
+remain?
+3. How significant is the role of organisational culture?
+The discussion was driven not only by the perspective of big 
+OEMs, but also by software and the digitalisation needed for 
+mass adoption. It covered a range of critical areas that both 
+industry and users need to be aware of, matters that also 
+required further exploration. 
+Following the discussion, a survey was sent out to the wider 
+Additive Manufacturing community in order to ascertain 
+whether their individual objectives bore any resemblance 
+to one another; in addition, it also examined whether 
+the difficulties and ‘pain points’ of the various AM users 
+were comparable. The chart opposite is a summary of the 
+comments captured in the survey about the key challenges 
+that the participants see to the wide scale adoption of AM, 
+and how these challenges relate to the model that Markus 
+presents above.  This write-up aims to capture some of the 
+key takeaway points and contribute to the debate.The survey participants were asked to provide their thoughts on what 
+solutions there might be to existing challenges and what steps can 
+best be taken to enable AM’s wider adoption.
+Technology
+• Update experts and designers
+•  Bridge the gap between 
+academia and industry
+•  Allow the end user to evaluate 
+performance themselves
+•  Demonstrate and showcase 
+AM advantages
+•  Develop national 
+collaborationsCulture
+•  Convincing contacts of the 
+benefits of AM
+•  Sharing knowledge, and 
+supporting SME’s in adopting 
+AM technologies
+•  Improved inter-company 
+coordination, with a focus on 
+the customer
+• Launch awareness programs
+•  Convince engineers to adopt 
+AM with re-engineering 
+opportunities
+Qualification
+•  Impliment AM in low/medium-
+risk applications
+•  Establish world-class 
+standardization
+•  Discover necessities of part 
+consistency
+•  Develop qualified processes 
+and systems for industrial 
+sectorsBusiness models
+•  Being aware of competitors’ 
+movements and actions
+•  Strategic planning with 
+partners
+•  Start simple before branching 
+out
+•  Focus and concentrate on 
+what the company already doesModerated by: Discussion members:
+Challenge solutions and 
+future steps to be taken 
+across the AM ecosystemMadeline Salazar
+Manager, Additive & Digital 
+Manufacturing
+Northrop GrummanIvan Madera
+Chief Executive Officer
+Morf3DMarkus Seibold 
+Vice President, Additive 
+Manufacturing
+Siemens EnergyBrad Keselowski
+Owner and Founder,
+Keselowski Advanced 
+Manufacturing
+Marie Langer
+Chief Executive Officer
+EOSDr. Melissa Orme
+Vice President, Additive 
+Manufacturing
+Boeing
+Bill Cronin
+Chief Revenue Officer
+XometryNeil Mantle
+Director Manufacturing
+Rolls-Royce
+Ben Ferrar
+Vice President
+Carpenter AdditiveVishal Singh
+Chief Technology Officer
+Link3DDr. Mohsen Seifi
+Director of Global Additive Manufacturing Programs
+ASTM International
+What does it take to run a successful AM Business?4
+Key Topic 1:
+How can the community promote the wider 
+use of Additive Manufacturing?  
+What challenges have you experienced in 
+its adoption, and how can those sceptical of 
+the technology be convinced?  
+How can the economic considerations of 
+running an AM business be best balanced? 
+The discussion began with 
+reflections on a presentation 
+delivered by Markus Seibold from 
+Siemens Energy at the 2020 
+Additive Manufacturing for Aerospace & 
+Space conference on the importance of 
+culture. The participants agreed on the 
+need for this industry-wide collaborative 
+discussion to identify areas for cooperation 
+across the AM ecosystem. In order to drive 
+the rapid adoption of AM technology - an 
+industry acknowledged to be rapidly 
+evolving - it makes sense to exchange best 
+practices at the executive level.
+Throughout the conversation, most of the 
+participants referenced Markus’ model, 
+with some talking about the technologists 
+(left) and the bankers (right), and how to 
+bring these key stakeholders on the AM 
+adoption journey.
+While most of the conversation was 
+firmly fixated on the right-hand side, a 
+few opening remarks touched on the 
+technology and the importance of using 
+data to mitigate risk and evangelizing 
+about the technology to key stakeholders 
+but using hard data to do this. The 
+potential of AM technology to create truly 
+differentiating products with improved 
+performance rather than simply to replace or optimise conventionally 
+manufactured parts was seen as important 
+in demonstrating the strategic nature of 
+the technology, the viability of the business 
+model, and bring executive support.
+“We think it’s important to present a 
+wide range of capabilities and provide 
+data and information that will lead 
+people to make the right choices  
+leading to better results. There’s a great 
+opportunity to be very innovative from a 
+business model standpoint”
+It was also noted that the model can be 
+interpreted in other ways; one participant 
+mentioned that in their own case, success 
+was a result of securing the support 
+of their banker. This endorsement 
+was seemingly earned by the banker 
+in question recognising how Additive 
+Manufacturing could assist in their own 
+operations. This idea was later connected 
+to the importance of raising awareness of 
+the capabilities of AM. 
+“It’s on us all to focus on the educational 
+aspect and relate that back to the 
+challenges we face”
+Management challenges associated 
+with technology and maturing markets 
+were identified, such as the positions of younger people within a company 
+who truly understand the technology 
+compared to some of the more senior 
+decision-makers who remain more 
+unfamiliar with AM and the opportunities 
+it offers.
+“When you come into a new technology, 
+there’s a lot to overcome. The key issue 
+is that the performance of the parts we 
+create is stable, reliable, and repeatable. 
+It’s how we can prove that – we’re not 
+going to have the trust or confidence 
+without it. ”
+Elon Musk’s advice to business founders 
+of “Have a High Pain Threshold” was 
+quoted. In order for AM to mature to 
+deliver its full promise, it will require 
+intentionality, commitment and 
+endurance. One of the key points was 
+that stakeholders often do not have 
+the necessary ‘pain tolerance’ for this 
+new technology, and that expectations 
+should be carefully managed – indeed, 
+in the accompanying survey, ‘economic 
+constraints’ was the majority (37.50%) 
+answer to the question “What would you 
+consider to be the biggest constraint in 
+your business today towards the goal of 
+accelerated AM adoption?” .
+What does it take to run a successful AM Business?5
+Key Topic 1 continued
+Its hardly a surprise to see that the 
+results from the survey show that the 
+economic and technological concerns 
+are still the most prevalent barrier to the 
+wider adoption of AM. More interestingly 
+though, it is also the case that operational 
+and cultural constraints are coming 
+more to the foreground as soft factor 
+considerations – and both people and 
+businesses are beginning to recognise the 
+need to address these also.
+ It was stated that there will be a lot 
+of ‘pain’ that needs to be endured to 
+succeed, which later led to the question 
+of how this pain can be reduced to 
+allow more companies to succeed. A 
+concerning issue was raised in that 
+much of AM’s current levels of success 
+and failure is being dictated by the pain 
+thresholds of stakeholders.
+“We have also experienced that Additive 
+needs to be a strategic choice by the 
+company. It needs to be an incorporated 
+business strategy”
+Additive also needs to be a strategic 
+choice by companies who can see the 
+effect on their business model and 
+can understand both how to use the 
+technology and where it can make a 
+meaningful difference. 
+Indeed, in answering the question of 
+where Additive Manufacturing positions 
+in their own business today, 42.86% of 
+respondents to the distributed survey 
+considered it to be a strategic technology 
+rather than a wing of R&D or Product 
+Development. In addition, companies that 
+have a better track record at digitalisation 
+have been found to be better at the 
+adoption of AM; this points to the fact that 
+this all starts with a cultural shift. 
+So while it was uplifting to see that 
+viewing Additive Manufacturing as a 
+“strategic technology” was the majority 
+answer; there clearly remains a large 
+gap to bridge with over 50% still not 
+seeing AM as strategic. If we believe that 
+successful adoption requires AM to be a 
+business level strategy then far more work 
+still needs to be done to convince our 
+organisations of this.Smaller companies in the AM ecosystem 
+have managed to keep up with digital 
+transformation in an agile way that has 
+helped both their reporting and their 
+ability to compete. An environment of 
+small teams and continually evolving 
+practices leads to a dynamic atmosphere 
+seen as an important non-financial 
+benefit for attracting top talent. 
+It was agreed that the culture of some of 
+these companies – moving from startups 
+to larger businesses, or publicly limited 
+companies – will change. Risk levels will 
+adjust, and in some cases become more corporate and risk averse. In order to 
+enact this change, it was suggested that 
+trade studies become a widely adopted 
+practice; these trade studies would 
+provide data, and through gathering data 
+a culture can grow. This was connected 
+to an idea raised later in the discussion 
+regarding AM’s comparatively recent 
+appearance as a viable option: unlike 
+other methods, it simply does not have 
+decades of data behind it that can show 
+its effectiveness.  This again, highlights 
+the need for standards and industry 
+consortium where all companies can 
+benefit from non-competitive date.
+Biggest business contraints  
+to AM adoption
+How do you see AM positioned in 
+your business today?40%
+Economic
+Strategic 
+Technology/Business
+Product 
+Development 
+Enabler
+OtherStandard 
+Manufacturing 
+TechnologyResearch & 
+DevelopmentOperational Cultural Technological30%
+10%20%
+0%
+0% 20% 10% 30% 40% 50%
+
+What does it take to run a successful AM Business?6
+Key Topic 1 continued
+In responding to the question ‘How would 
+you best characterize the focus of the 
+AM growth mindset in your business?’ , it 
+was encouraging to see that the majority 
+of respondents believe that the growth 
+of the industry is based on some level 
+of industry collaboration. The change 
+from inward focused growth through 
+protectionism towards industry growth 
+through collaboration is hopefully the 
+start of a significant change in the culture 
+of the ecosystem. 
+In the current era of consolidations, 
+mergers and acquisitions, and IPOs, the 
+cultural dynamics that are required within 
+an AM organization need to be protected. 
+Merging an AM team into an established 
+manufacturing business may lead to a risk 
+averse approach to the new technology 
+which lacks the track record that risk-
+averse engineers are used to, coupled 
+with the data they typically require. It was also mentioned that AM is at a 
+point of development that it needs to 
+continually push boundaries by failing 
+and learning. Through agile failure 
+the most can be learnt, and while 
+consequences need to be mitigated, this 
+process cannot take place within a risk 
+averse environment. “What matters in failure is that we 
+learn a lot and can then take things 
+to the next level. This is all about the 
+technology, and what gaps we have in 
+further developing it, as well as how we 
+ensure quality through qualification and 
+certification”A balance
+Internal focusExternal focus0% 20% 10% 30% 40% 50% 60%
+How would you best characterize the 
+focus of the AM growth mindset in 
+your business?
+What does it take to run a successful AM Business?7
+Key Topic 2:
+What are the main operational constraints 
+within your own business, as well as those in 
+your associated AM eco-system today that 
+you have had to overcome?  What are the 
+biggest operational challenges that you still 
+face in your business/associated ecosystem 
+that is preventing further accelerated 
+adoption of AM, and what possible solutions 
+are there?
+Companies making use of 
+Additive Manufacturing need 
+to to master all aspects of 
+the process from designing, 
+cleaning and testing, through to 
+assembly. It was highlighted that less than 
+5% of the production time is spent in the 
+3D printer itself. An AM part that might 
+take just a few days to print may take 40 
+days from start to finish to manufacture.
+“The Additive Manufacturing ecosystem 
+needs to function more like a software 
+company, and act as the master for all 
+information. From the business side, 
+you have to show it economically makes 
+sense as well as being qualitatively 
+better. The business always needs to 
+know that the part will be produced at 
+better quality for a reduced cost, and 
+that the end product is superior. ”
+Furthermore, the customer needs to 
+understand the need of their parts. Any 
+misunderstanding or miscalculation by 
+the customer can lead to the part failing, 
+and it is always the AM process that is 
+subsequently blamed. Sometimes a 
+customer may under-spec, which leads 
+to failure, or sometimes over-spec, which 
+can undermine the business case. It is increasingly important to have a well-
+educated client base in order to preserve 
+the trust in the technology; when parts 
+break, confidence is lost.
+The survey asked ‘How do you solve 
+operational constraints in your business 
+today?’ , and only 20% of respondants 
+believe that the answers lie within. 
+This seems to reinforce the need to 
+look beyond the boundaries of our 
+own business to address our current 
+constraints. Collaboration and increased 
+digitisaiton is going to be key to progress, 
+especially as individual firms are not able 
+to master everything on their own.The AM Ecosystem needs to function 
+more like a software company than a 
+manufacturing company. Lower costs can 
+be achieved through digital technologies, 
+cloud computing and the right adoption 
+and use of software, which still results in 
+the delivery of higher quality parts.
+“Proper digital workflow is a critical 
+barrier to widespread AM adoption...but 
+regarding culture, AM culture requires 
+collaboration at every level. In order for 
+AM to mature to deliver its full promise it 
+will require intentionality, commitment, 
+and endurance”
+0%30%
+10%40%
+20%50%
+Internal 
+SolutionsCollaboration 
+with PartnersDevelop 
+Internal TalentAutomation 
+and DigestionOtherHow do you solve operational 
+constraints in your business today?
+What does it take to run a successful AM Business?8
+Key Topic 2 continued
+Automation, too, is seen as being key in 
+driving down costs, after which it will be 
+more realistic to persuade any business-
+oriented sceptics that AM can make 
+products that are qualitatively better 
+and economically viable. An important 
+element of this is recognising how much 
+of the process can be fully automated. 
+However, change management is neither 
+simple nor easy, since those on the 
+factory floor or working with bankers 
+will have to have all of their processes 
+changed; due to the fact that they have 
+become very accustomed to their current 
+operations, enacting change is difficult. 
+Answers to the question of ‘How 
+committed is your business to 
+overcoming the challenges necessary to 
+reach and push beyond the economic 
+tipping point for successful AM adoption?’ 
+showed that most companies are making 
+strides towards incorporating AM on 
+a wide scale in spite of the identified 
+economic constraints. However, there 
+are clearly some respondents that 
+feel their companies may not have 
+the aforementioned “pain tolerance” 
+of their peers, resulting in less overall 
+commitment.Proper digital workflow is also considered 
+to be a critical barrier to adoption, 
+especially in the automotive industry 
+where the fewer ‘hands on parts’ , the 
+better. Software is seen as being key 
+to this, along with greater levels of 
+automation.
+“I can only go so far by myself, but with 
+some of the partnerships we have, we’re 
+able to integrate across various work 
+streams on the value chain to deliver an 
+integrated solution”One of the greatest identified challenges 
+was the fact that some AM producers 
+are obligated to be the master of every 
+technology and every process; they must 
+understand AM technology from the 
+perspectives of the entire value chain, 
+in terms of what does and does not 
+work. They are required to inspect the 
+technology and ensure that they have 
+satisfied the demands of the customer. 
+In effect they must act as a software 
+engineer, a metallurgist, a post process 
+specialist, etc. We are there
+Medium
+LowHigh0% 20% 10% 30% 40% 50%
+How committed is your business to 
+overcoming the challenges necessary 
+to reach and push beyond the 
+economic tipping point for successful 
+AM adoption?
+What does it take to run a successful AM Business?9
+Key Topic 3:
+How significant is the role of your own 
+organisational culture (organisation, 
+people, processes etc.) and the associated 
+ecosystem culture (collaboration, technology 
+sharing, connectivity) in how you run your 
+business today?
+Confidence and trust are both 
+extremely important, and 
+with trust comes simplicity. 
+The panel stated that they 
+mostly knew far more about additive 
+manufactured parts than about cast 
+parts, but subtractive manufacturing is 
+aware of its boundaries and limits; AM, 
+meanwhile, is comparatively new. 
+Although external trust levels and outside 
+confidence in Additive Manufacturing 
+were identified as remaining challenges, 
+in answering the survey question of ‘What 
+is the level of trust and confidence that 
+AM holds internally in your business 
+today?’ , the respondents indicated that at 
+least within their own organisations, AM 
+is largely viewed positively. However, the 
+eventual benchmark for AM’s success 
+must be similar to those of machining 
+and casting, with their high levels of 
+industry trust. It will likely be the soft 
+factors that ultimately help AM establish 
+itself as a comparable solution with more 
+conventional manufacturing methods. Standardisatoin will also greatly help AM 
+learn its own boundaries, and through the 
+use of parts adhering to standard comes 
+trust in the technology, which then opens 
+up more complex applications. In other 
+words, standardisation plays a significant 
+role in establishing trust, which in turn will 
+lead to wider adoption.“It boils down to two things: confidence 
+and trust. Confidence in being able to 
+understand that you’re going to do what 
+you said you were going to do, and trust 
+in that you understand what you’ve got 
+to do to make it effectively. That trust 
+then expands onto your customers and 
+your regulators. ”■ High
+■ Medium
+■ Low
+61.9%26.2%11.9%What is the level of trust and 
+confidence that AM holds internally 
+in your business today?
+What does it take to run a successful AM Business?10
+Question 3 continued
+In order to gain new customers essential 
+for long-term success, large costs need to 
+be sustained to establish a track record. 
+This type of financial decision cannot 
+be made by a spreadsheet - it can only 
+be made by people who can look at an 
+individual case and decide if it is worth 
+building a new business relationship, and 
+worth investing money in a relationship 
+that they believe will become profitable 
+over time. Enabling this type of decision 
+making is why culture is key.
+Given the initial hype around AM, there is 
+also a need for expectation management 
+of the applications that AM will be put to. 
+Companies with experience of integrating 
+new manufacturing techniques, such as 
+those who adopted carbon fibre in its own 
+early days, are familiar with the 10-year 
+induction that this can take, but others 
+will need guidance. Again, for such a 
+significant investment that comes with 
+a long journey of adoption, support from 
+the company and recognizing AM as a 
+strategic initiative is important. 
+“We’ve created teams of people that 
+have the ability to continually evolve. We 
+have to let them infect the rest of the 
+organisation and show the value of AM 
+to the broader team, our bankers, and 
+other stakeholders to increase their pain 
+threshold”
+A recurring theme throughout the 
+discussion was the need to raise awareness of AM and its benefits – 
+including some benefits that are not 
+directly financial in nature. Showing 
+successes with Additive Manufacturing 
+and then encouraging its adoption 
+in other sectors of an organisation is 
+a demonstrably effective method of 
+spreading AM use. 
+Emphasizing the importance of 
+collaboration and cooperation in the 
+Additive Manufacturing ecosystem was 
+the majority answer to the question 
+‘What best describes your industry 
+partnerships?’ .  This seems to indicate 
+that there is a move towards an ecosystem culture based on two-way 
+value-added collaborations.
+Raising awareness would also lead 
+to countering any misinformation or 
+inaccurate preconceptions that might 
+be encountered. For instance, one 
+participant related how they had heard 
+the expectation that 33% of an aircraft 
+can and will be constructed via AM parts. 
+Managing expectations and embarking 
+on educational efforts over AM’s real 
+possibilities will also have an impact on its 
+broader adoption, as well as further build 
+trust and confidence in its application.
+■ Collaborative
+■  Customer/Supplier
+■  Tech Partnership
+■  IP Exchange
+ 53.6%
+26.8%17.9%1.8%What best describes your industry 
+partnerships?
+What does it take to run a successful AM Business?11
+Summary
+The discussion identified the fact 
+that AM is still a tough business 
+to succeed in and there are 
+challenges that clearly remain 
+before Additive Manufacturing is adopted 
+on a broader scale. Businesses will need 
+a high pain threshold to work through 
+some of these remaining hurdles, but the 
+conversation was fruitful in that a number 
+of ways forward were identified. 
+Of these, collaboration was identified as a 
+key component needed to make further 
+progress, which further suggests the 
+need for a consortium. The discussion 
+agreed that it will be necessary for the AM 
+community to work together collectively 
+at all levels of the value chain and every 
+part of the ecosystem, pooling skillsets 
+and resources, in order to achieve the best 
+possible outcomes – it was identified that 
+companies themselves cannot function at 
+their most effective when they are operating 
+alone.   Importantly the ecosystem collaboration needs to increasingly function 
+in the digital manner to fully realise Additive 
+Manufacturing’s potential as a lean and 
+cost-effective solution.
+This does not just refer to collaborating on 
+a production level, but also in cooperating 
+to convince the “bankers” that Additive 
+Manufacturing is a worthwhile investment 
+due to the strategic value to the business as 
+opposed to just another technology stream. 
+Building trust in Additive Manufacturing 
+was also shown to be important, a 
+viewpoint which was supported by the 
+prior experiences of a number of panellists. 
+However, trust in the technology is 
+inherently linked to AM’s ability to mitigate 
+perceived risks in its use. One proposed 
+way of doing this is standardisation, which 
+is starting to be introduced in Additive 
+Manufacturing. 
+With both risk mitigation and trust 
+building in mind, the discussion also highlighted the need to raise 
+further awareness of AM. Given AM’s 
+comparatively new nature, reports of 
+both misinformation regarding the risks 
+of using it and overestimations of its 
+capabilities emerged during the panel. 
+Exactly what AM is capable of – and 
+what it is not best suited for – and what 
+can realistically be done with it, as well 
+as managing expectations, will all be of 
+the utmost importance in ensuring the 
+technology’s broader adoption. 
+The technology development in the 
+industry will remain critical to building 
+the trust in AM, but the discussion has 
+identified a number of softer factors 
+based in our culture, our collaboration 
+models, our organisation designs etc that 
+clearly will play an increasingly important 
+role in convincing the wider community 
+of the sustainability of AM beyond what is 
+technically achievable.
+Podcast
+What does it take to run a 
+successful AM Business?
+COMING SOON
+Europe’s Premier Additive 
+Manufacturing for Aerospace and 
+Space Conference will return to 
+Hamburg in 2022, 22-24 FebruaryAdditive Manufacturing
+for Aerospace & Space
+We look forward to welcoming  
+you back to our in person event

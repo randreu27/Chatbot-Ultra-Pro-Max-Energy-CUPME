@@ -1,0 +1,582 @@
+ © 202 4 Siemens Energy  Page 1 
+ 
+  
+ ergy.com  Techno -economic optimization of 
+industrial energy systems using 
+Energy System Design:   
+Cost -optimiz ing decarbonization  
+for pulp and paper mills  
+ © 202 4 Siemens Energy  Page 2  
+ 1 Executive summary  
+The pulp and paper industry faces unparalleled financial and 
+environmental challenges stemming from forestry practices, 
+greenhouse gas emissions, and waste management tech-niques. Among these, the energy systems used in pulp and pa-per production processes have gained significant attention, accounting for up to 30% of operating costs and contributing  
+to substantial greenhouse gas emissions.   Siemens Energy has developed an optimization method for en-ergy system designs that holds the potential to markedly en-hance the efficiency, cost -effectiveness, and environmental 
+footprint of powering pulp and paper facilities. This design strategy helps mills  minimize costs, curb carbon emissions, 
+boost grid independence, and elevate the overall operational performance and reliability of the ir energy  systems.  
+ This whitepaper discusses efficient  energy management tech-
+nologies and practices within pulp and paper mills while ex-ploring contemporary renewable, conventional, and hybrid electrical and thermal energy solutions for powering  mill pro-
+cess systems . Siemens Energy’s Energy System Design method 
+is introduced as a holistic approach to identifying energy sys-
+tem designs which meet  the technical, financial, and environ-
+mental targets of our customers. A case study  details the En-
+ergy System Design process at work i n designing the energy 
+system for a real customer’s paper machine expansion project. The study  identified energy system  designs that reduced cost 
+by up to 22.1% while  reducing CO
+2 emissions by up to  26.8% 
+than the originally planned energy system  (i.e. reference sys-
+tem) . Multiple energy system designs are discussed with their  
+sensitivity to uncertainty in the study’s assumptions and infor-
+mation. Dispatch profiles are included to demonstrate  the op-
+erational differences and opportunities between a cost -opti-
+mized design and the reference system . Finally, a decarboni-
+zation roadmap is delivered by identifying cost -optim ized en-
+ergy system designs with progressively lower CO 2 emissions.  
+This work considers hourly -matched CO 2 emissions  accounting 
+to identify energy system designs that show a progressive de-crease in CO
+2 emissions, ultimately leading to the develop-
+ment of a so-called 24/7 carbon -free energy system. This exer-
+cise offers customers a practical tool for understanding  the 
+cost of decarbonization and what technologies and operating strategies may be required for their energy system.  Energy System Design supports the optimization of energy 
+systems  for industrial applications. This powerful tool delivers 
+concepts for t urnkey energy system solutions complete with  
+technology selection , sizin g, and operation with in one inte-
+grated optimization procedure. A successful energy transition 
+requires  balancing affordability , reliability, and sustainability. 
+Siemens Energy works with our industrial customers to exploit 
+each of these in their current and future energy systems by 
+guiding the selection and configuration of energy conversion 
+and storage assets, identifying utilization opportunities for 
+waste streams, and producing world class energy generation, 
+transmission, and storage  technologies . 
+siemens -energy.com  Page  
+02 Executive summary  
+03 Pulp and paper industry and its    
+energy usage  
+05 Energy System Design  
+06 Case study: cost-optimal                  
+decarbonization of a paper machine  
+11 Conclusion  
+ 
+ 
+Authors  
+Joshua Brooks, PhD  
+Siemens Energy  
+Orlando, United States  
+ 
+Stefan Bruche , PhD  
+Siemens Energy  
+Berlin, Germany  
+ © 202 4 Siemens Energy  Page 3 A The  global pulp  and paper industry is valued at over 350 bil-
+lion USD and is expected to grow well into the future with the 
+shift from newsprint and printing and writing material toward packaging board for consumables 
+1. Globally, over 400 million 
+metric tons (Mmt) of paper products are produced by over 700 virgin pulp mills and nearly 6,000 paper machines before even 
+considering secondary fiber (recycled) repulping operations 
+2,3. To accomplish this, pulp and paper mills consume massive 
+amounts of energy in driving process es and generating steam.  
+ 
+Pulp and paper mills are historically resourceful energy man-agers, generating as much as 65% of their electrical and steam 
+requirements on- site by recovering and burning process mate-
+rials (black liquor , solids and other extractives) and other wood 
+byproducts. In addition, mills generally recover waste heat and 
+steam to minimize freshwater consumption and unnecessary auxiliary heating 
+3, 4. Even still, the remaining energy require-
+ment must be met by on -site power and steam generation us-
+ing fossil fuels or through external power and steam pur-
+chases. This supplemental power requirement accounts for up to about 15% and 23% of the total operating costs for virgin pulp mills and paper machines, respectively 
+4, 5. The U.S. pulp 
+and paper industry consume s billions of dollars on purchased 
+fuels and electricity annually 6. In addition to the financial cost, supplemental power consumption by US pulp and paper 
+mills contributed to the  industry’s estimated 31.2  Mm t of CO 2e 
+emissions  in 2022 alone 7. Improving the energy efficiency of 
+both the processes inside pulp and paper mills and the energy systems used for powering these is therefore,  an imperative 
+toward reducing overall plant costs and carbon emissions. 
+ 
+There are opportunities available to significantly improve  the 
+energy efficiency of many of the core processes within pulp and paper mills. Figure 1 presents the  energy consumption of 
+industry -standard technology against both state -of-the-art 
+technology available today and the ultimate thermodynamic 
+minimum for the most energy -intensive  processes inside  pulp 
+and paper mills  
+8. The improvement potential afforded by 
+adopting the  latest technolog ies is quantified for each process, 
+amounting to a total opportunity of 48 % energy savings over 
+the industry standard. Historical inertia and cheap and availa-
+ble yet carbon -intensive fuel sources have slowed the wide-
+spread adoption of these energy -efficient  technologies. How-
+ever,  investing in  improvements to energy efficiency in each 
+of these areas is unavoidable  as the expe ctations of regulators, 
+investors, and the public to decarbonize operations continue 
+to grow , and unprecedented tax credit opportunities and fi-
+nancial incentive s continue to become available. 
+ 
+ 
+Figure 1  Current opportunity energy savings bandwidths for processes in pulp and paper manufacturing . Figure adapted from Figure 5 -1 of Band-
+width  Study on Energy Use and Potential Energy Saving Opportunities in U.S. Pulp and Paper Manufacturing 8 
+  050100150200250300350400450
+Paper Drying Paper Machine
+Wet EndLiquor
+EvaporationWood Cooking Pulp Chemical
+PreparationBleaching All Other
+ProcessesOn-site Energy Consumption [TBtu/yr]65%
+75%2 Pulp and paper industry and its energy  usage  
+Industry Standard  
+State -of-the-Art 
+Thermodynamic Minimum  
+Available Savings Today 
+Potential Future Savings  
+37%  
+35%  
+38%  
+54%  
+75%  
+ © 202 4 Siemens Energy  Page 4 In addition to technology upgrades, pulp and paper mills can 
+decarbonize their processes and reduce their energy costs by 
+re-evaluating how they generate on -site power and steam. 
+Globally, government incentives such as the U.S. Inflation Re-
+duction Act and the E.U. Green Deal Industrial Plan have begun to incentivize the electrification of heating and processes, power generati on from renewables, combined heating and 
+power systems, and waste heat recovery. These energy system 
+opportunities help to  reduce s cope 1 and scope 2 emissions 
+but may also be eligible for substantial investment and pro-
+duction tax credits.  Some of the best  practices for capitalizing 
+on these opportunities include:  • Plant hybridization with renewable energy  
+• Substituting coal with biomass and natural gas as the sup-
+plemental fuel source  
+• Replacing traditional boilers with combined heat and power (CHP) units  
+• Electrifying heat  through electri cally powered  boilers and  
+heat pumps  with waste heat recovery  
+• Upgrading recovery boiler units to gasification with com-bined cycle technology  
+• Improving heat recovery from pulp and paper -making pro-
+cesses,  including de -inking, drying, cooking, etc. Traditional thinking has led to pulp and paper mill assets being purchased and commissioned for a singular purpose. For ex-
+ample, auxiliary boilers and diesel generators have been tradi-
+tionally built to source auxiliary steam and electricity, respec-tively. Improvements to the overall mill system have then log-
+ically proceeded by upgrading the efficiency of each of its in-dividual assets. A sset upgrades are the central way to improv e 
+process energy efficiency . However,  mill- wide efficiency, and 
+carbon intensity , will only be significantly improved by consid-
+ering energy system designs that cogenerate power, steam, 
+heating, and /or cooling, and responsibly manage the energy 
+content available between each of the mill’s processes and steam flows.  Siemens Energy’s Energy System Design studies 
+help industr ial customers , including  pulp and paper manufac-
+turers , to improve the cost, carbon intensity , and reliability of 
+their energy systems by helping to identify the  most robust set 
+of technologies and operating strategies to meet the custom-
+ers energy needs.  
+ Siemens Energy has helped customers improve the sustaina-
+bility and profitability of their overall operations by facilitating 
+the recovery of waste streams. For example, Siemens Energy is currently leveraging its expertise in advanced chemical pro-cesses wit h its hydrogen production technology, the PEM elec-
+trolyzer Elyzer P -300
+, to facilitate the synthesis of marine fuel 
+grade methanol from recovered biogenic carbon dioxide and 
+green hydrogen. As a large producer of biogenic carbon, pulp 
+and paper mills are in an excellent position to monetize  their 
+waste streams through the introduction of similar green fuel synthesis projects.
+ 
+
+ © 202 4 Siemens Energy  Page 5 Siemens Energy has introduced Energy System Design (ESD) 
+to help pulp and paper mills make the right decisions for en-
+ergy system expansions, upgrades, and new system designs , 
+in light of the need for decarbonized and low -cost energy, the 
+current incentive landscape, and the broad range of technolo-gies available.  ESD is a model- based engineering optimization 
+study that selects and sizes energy conversion and storage as-
+sets to supply  thermal and electrical power to  an individual 
+mill or paper machine. Figure 2 summarizes the ESD process. 
+ 
+Energy System Design Inputs  : 
+ 
+• Energy system loads :  electrical,  steam  (High/Intermedi-
+ate/Low Pressure) , hot water, or chilled water demand on 
+an hourly or sub -hourly basis. 
+• Options for purchasing and/or selling commodities includ-
+ing pricing : electricity, natural gas, other residuals, etc. 
+• Local renewable potentials such as solar PV or wind turbine 
+generation profiles  
+• Local climate conditions to account for asset impacts such 
+as gas turbine or chiller performance. 
+• Existing mill assets for potential integration within the en-ergy system design.  
+In addition to these  design inputs , Siemens Energy works wit h 
+customer s to understand their technology preferences, the 
+overall objective of the study , and what constraints must be considered. Traditionally, customers are looking for energy 
+systems with a minimum total cost of ownership, but ESD 
+studies can also target improv ed carbon emissions, primary 
+energy  use, energy -system specific water consumption or 
+other attributes , and any combination of these.  
+ 
+Once the c ustomer’s energy needs, targets, and site -specific 
+boundary conditions are  thoroughly  understood, a collection 
+of energy conversion and storage technologies is defined and 
+modeled regarding performance and cost. Each technology is then included as an option within a n optimization  model . The 
+model  evaluates many different collections of these, including 
+their interconnections, to identify the most competitive  en-
+ergy system and asset dispatch strategy for powering the mill.  
+ 
+Energy System Design Results : 
+• Most suitable  set of technologies (assets)  
+• Optimized  capacit y for each asset  
+• Most suitable  dispatch strategy for each asset  
+ESD study results are subject to the evaluation period (single  
+or multiple  representative year (s)) and provided model data. 
+Since each input to the study is subject to uncertainty, a col-
+lection of scenarios is strategically defined, and a few param-eters are selected to inform a collection of sensitivity analyses. 
+These sensitivity analyses help identi fy the most robust possi-
+ble energy system design against a mill’s requirements, tar-
+gets, and the uncertainty of future information.
+ 
+ 
+Figure 2 Energy System Design  is a model -based, optimized selection , sizing , and dispatching  of technologies  to best comprise an energy system .
+3 Energy System Design
+ © 202 4 Siemens Energy  Page 6 
+ 
+ 
+ 
+ Siemens Energy has worked with pulp and paper customers to 
+reduce the cost and carbon emissions of mill energy systems. 
+An ESD study was performed to help one such customer who 
+was considering expanding their paper -production capacity by  
+adding an additional paper machine. The additional electrical 
+and steam demand was estimated at 40  MW e and 85  MW th, 
+respectively. The customer was investigating on- site genera-
+tion in order to  improve power and steam supply security and 
+to take advantage of  existing tax credit opport unities. Siemens 
+Energy was tasked with pr oducing  a collection of turnkey so-
+lutions for power and steam , which included not only the low-
+est cost option  but also those which reduced carbon emissions 
+and the cost associated with each.  The presented  case study  is 
+a simplification of the complete study performed for the cus-
+tomer. The  results are anonymized and do not directly reflect  
+the customer ’s actual proprietary  data and study results.  
+Reference Case  
+The ESD study began by establishing a reference case, to both 
+demonstrate the capabilities of Siemens Energy’s modeling 
+tools and to establish a baseline for comparing all other energy system designs. The customer’s originally proposed energy system design provided steam and power to the new paper machine using a gas boiler and a combined cycle power plant, 
+as shown in Figure 3. The combined cycle power plant includes  
+a gas turbine engine with an auxiliary burner, a heat recovery 
+steam generator, and a high -pressure  (HP) turbine. The gas 
+turbine and HP turbine connect to a generator to produce  elec-
+tricity. A small steam turbine converts intermediate pressure 
+(IP) steam into electricity and lower pressure process IP steam 
+for the mill. A grid connection facilitates the purchase and sale 
+of low-cost and excess power, respectively .  
+  
+The reference system was modeled using Siemens Energy’s 
+own optimization tool and verified to estimate system perfor-
+mance with in 0.2% of the customer’s expected performance 
+based on the new paper machine’s loads, assets’ performance, and costs. Once  verified, this energy system model was 
+adapted to represent the expected electrical and steam loads of the prospective paper machine. In addition, a tax credit  for 
+combined heating and power (CHP) capacity was considered 
+alongside tax penalties for excessive non- CHP gas utilization. 
+This energy system design represents the otherwise expected 
+“business- as-usual” expansion of the existing energy system  
+and, therefore,  establishes the reference baseline for compar-
+ing all other system designs developed by Siemens Energy . 
+ 
+Figure 3 Reference system as a baseline for comparison to all other energy system designs . 
+ 
+ 
+4 Case Study :  Cost -optimal decarbonization of a 
+paper machine
+ © 202 4 Siemens Energy  Page 7 
+ 
+ 
+ 
+ Energy System Design Optimization 
+Having established both a reference case and agreement on 
+the customer’s energy needs, targets, and site -specific bound-
+ary conditions, a set of energy conversion and storage tech-nologies was defined and modeled with respect to perfor-
+mance and cost. The complete collection of energy system de-
+sign options  is shown in Figure 4. In addition to the assets in-
+cluded in the reference system, the ESD study consider ed: 
+ 
+• Green (carbon neutral) fuel  
+• Cogeneration using an open cycle ga s turbine with a heat 
+recovery boiler and auxiliary firing  
+• Combined cycle power generation using a gas turbine, heat 
+recovery boiler, auxiliary firing, and an HP turbine. 
+• Electric boilers 
+• Solar photovoltaic (PV) and wind turbine power generation 
+• Steam storage and compression and battery energy storage 
+• Heat pumps for converting low -temperature heat from gas 
+turbine exhaust or paper machine waste heat to high -tem-
+perature heat or steam . Heat pumps can offer the added 
+benefit of de -humidifying and cooling  exhaust flows from 
+other areas in the mill. Th e recovered condensate may be reused to reduce the mill’s total water consumption, and 
+the cooler, dryer exhaust may improve other environmental 
+emissions properties. 
+These technologies are considered based on their potential to 
+positively interact within the system, as well as their commer-
+cial maturity and fit  for the industry. Performance models de-
+fine conversion efficiencies between incoming and outgoing energy or material streams, capacity and energy limitations, ramp rates, and other properties. Cost models define invest-ment costs, operation and maintenance costs, and tax oppor-
+tunities.  
+ 
+The optimization environment was then  used to identify the 
+lowest cost system by comparing many combinations of the 
+available assets, the interconnections between them, and their operation. An additional constraint ensure d a minimum 
+amount of backup steam capacity  to be always available across 
+the energy system. The next step in the ESD study considers “cost -optimal” energy system designs against the uncertainty 
+in the study’s inputs.  
+  
+The results  in this whitepaper  are simplified from the actual  
+study performed in that only a single IP steam is delivered to 
+the paper machine  and only the combined cycle power plant 
+is considered for on- site power generation. 
+ 
+ 
+Figure 4  Complete optimization design space including all considered technologies.  
+
+ © 202 4 Siemens Energy  Page 8 
+ 
+ 
+ 
+ Sensitivity Analysis  
+Although individual optimization results may be exciting, to  
+select the  overall  best design, it is important to understand the 
+impact of uncertainty in the ESD study’s inputs on the study’s 
+results . The most variable input to this specific study was the 
+current and future price of electricity. Therefore, a collection 
+of twelve electricity purchase price scenarios were considered, 
+each containing a one -year hourly forecast. Each scenario is 
+shown in Figure 5 on a period -averaged  basis for clarity. Sale 
+of electricity was assumed to be available at a rate just below the real time hourly  purchase price throughout the study. 
+ 
+  
+Figure 5  Period -averaged e lectricity pricing scenarios . 
+ 
+The complete model was optimized to find the lowest cost en-ergy system across each of the twelve electricity pricing sce-narios. In every case, electricity was purchased from and sold to the electrical grid. Three Siemens Energy gas turbine gener-
+ators were considered in the 30 -60 MW range, with the 
+SGT-
+800 g as turbine delivering the lowest cost option across all 
+twelve scenarios. Across the twelve electricity pricing scenar-
+ios considered, six unique energy system designs  were identi-
+fied as cost -optimal in at least one of the scenarios. These six 
+energy system designs , including the sized capacity of the in-
+cluded assets, are summarized in Table 1.  
+ To determine which of the six designs  is the best decision for 
+powering the new paper machine , each were evaluated 
+against all twelve electricity pric ing scenarios. Within each 
+evaluation, an individual design optimized its asset dispatch to 
+minimize the system’s overall cost. The result of this sensitivity 
+analysis is a  distribution of the estimated total cost of ownership and CO
+2 emissions of each of the six designs across 
+the range of future scenarios. The Reference Design  was eval-
+uated in the same way  for comparison. Figure 6  shows the re-
+sults of this sensitivity analysis. All six energy system designs 
+significantly outperform the R eference  Design , offering , on av-
+erage,  17% savings to both  system cost and carbon emissions. 
+Design 4 offers  the largest  single scenario  benefit with 22.1% 
+cost savings while accomplishing a 26.8% reduction in carbon 
+dioxide compared to the reference case in the 2040 high elec-tricity rate scenario.  On the other hand, Design 5 offers the 
+estimated lowe st cost , and second lowest CO
+2 emissions and 
+average  standard deviation across all scenarios  considered, 
+making it a robust  energy system against all future scenarios.  
+Figure 7 shows Design 5 for comparison to  the full optimiza-
+tion superstructure  shown in Figure 4. 
+ 
+Table 1  Comparison of cost -optimal designs  and references . 
+ 
+   
+ 
+Figure 6  Sensitivity analysis of all six cost -optimal designs . 
+ 050100150200250300
+0 2000 4000 6000 8000Electricity Cost ($/MWh )
+Houry g 
+2025 Low 2030 Low 2040 Low
+2025 Mi d 2030 Mi d 2040 Mi d
+2025 High 2030 High 2040 High
+2025 Shock 2030 Shock 2040 Shock
+
+ © 202 4 Siemens Energy  Page 9 
+ 
+ 
+ 
+  
+Figure 7 Design 5 provides the greatest cost benefit across all  the future scenarios considered . 
+Dispatch Profile  
+Each optimization exercise conducted within an ESD study 
+identifies the strongest  collection of assets and the best dis-
+patch strategy for operating these on an hourly or sub -hourly 
+basis across the modeling period. Figure 8 compares the rec-ommended dispatch profile for the Reference Design  to the 
+cost-optimal Design  5 for a single week . As discussed  before , 
+the selection and sizing of assets within a  desig n, as well as 
+the operat ing strategy directing the dispatch of th ese assets , 
+are what define a specific energy system design . The dispatch 
+profile determined within each evaluation is highly  dependent 
+on the electricity price scenario being examined, and the pa-per machine’s steam and electricity load profiles.  
+ In the Reference Design , a combined cycle gas turbine is used 
+to produce electricity and steam from natural gas  in some 
+cases while a grid connection and a gas boiler are used to 
+source electricity and steam in other cases when it is more eco-
+nomical. For example, at low electricity and steam demands or 
+low electricity prices, gas boilers are used to produce steam while electricity is purchased from the grid. When the electric-ity price is higher, the gas turbine is operated alongside the gas boiler to meet steam an d power demands, with excess 
+electricity being generated for  sale to the grid. 
+ In the cost -optim ized Design  5, a combined cycle gas turbine 
+is joined by a grid connection, wind power, solar PV power, and a collection of steam turbines for generating electricity, and a  
+gas boiler, auxiliary burner, heat pump, and electric boiler for generatin g steam.  The capacity of each of these units is opti-
+mized for cost, as shown in Table 1. Here, at low electricity 
+prices, steam is generated using the heat pum p in addition to 
+the gas boiler while electricity is drawn from the grid. At me-
+dium electricity prices, the gas turbine is operated  to produce 
+electricity and steam. Excess electricity is generated to drive the heat pump and an e -boiler to supply  additional steam. This 
+combined utilization of the units prevents peaks in gas or elec-
+tricity draw , avoiding demand charges . At high electricity 
+prices, the gas turbine is operated to produce electricity and 
+steam. The gas boiler and e -boiler assist with steam produc-
+tion. Although the heat pump more efficiently converts elec-
+tricity into steam, it is limited by its minimum operating part-
+load and therefore is replaced by the e -boiler for steam gener-
+ation in this condition. Including the heat pump, e -boiler, 
+wind, and solar assets alongside the gas turbine, steam tur-
+bines, and boilers allows for more strategic operation in re-
+sponse to real -time electrical and steam loads  and electrical 
+pricing. A diverse set of assets also offers a more flexible sys-
+tem for minimizing actual operating costs across the range of 
+possible future scenarios.
+
+ © 202 4 Siemens Energy  Page 10  
+Figure 8 Hourly asset dispatch  profiles.  
+Decarbonization  
+The study thus far has successfully identified a very strong can-
+didate energy system for supplying the expanded mill with the lowest cost electrical power and steam in light of future uncer-tainties. Next , Siemens Energy helped the customer  to identify 
+energy systems which minimize their CO
+2 emissions in addi-
+tion to cost . To do this, the complete superstructure shown in 
+Figure 4 was re -optimized with the objective of finding the 
+lowest cost energy system design  across a series of constraints 
+on the maximum a mount of CO 2 emissions allowed. Figure 9 
+compares the cost and CO 2 emissions of the energy system de-
+signs developed across progressively more severe CO 2 emis-
+sions constraints for a single electricity price scenario. R esults 
+show normalized values against the original R eference Design .  
+ The ESD study first identifie d the lowest cost design, as dis-
+cussed in the previous sections.  Within this study , the lowest 
+cost design is Design 4 from the sensitivity analysis,  consist ing 
+of a combined cycle  power plant, LP turbine, wind turbine, 
+electric boiler, gas boiler, and a heat pump to convert mill 
+waste heat into process steam. This is seen visually in Figure 9 
+by moving down (lower CO
+2 emissions) and to the left (lower 
+cost)  from the Reference Design . In this specific study, i n order 
+to reduce the  cost-optimal  energy system design’s  CO 2 emis-
+sions by 10% , new technologies in the form of battery energy 
+storage, a low -cost PV array, and a small amount of low -carbon 
+fuel was required , leading  to a slight increase in cost. This en-
+ergy system design may then be further decarbonized, down to about 70% lower than the cost -optimal design by replacing 
+conventional natural gas with low -carbon fuel . This is see n vis-
+ually in Figure 9 by moving down (lower CO
+2 emissions) and 
+to the right (higher cost). At this point, additional higher cost PV energy generation, and flue gas waste heat recovery 
+through a heat pump are required to continue reducing the 
+system’s CO 2 emiss ions. Finally, to completely eliminate the 
+system’s CO 2 emissions,  green fuel must completely replace 
+conventional natural gas. This result considers hourly time -
+matched CO 2 emissions accounting and exemplifies a so-called 
+24/7 carbon -free energy system design. These results are spe-
+cific to the unique boundary conditions and requirements con-
+sidered in this study, but demonstrate how powerful of a tool 
+an ESD stud y can be for decarbonization pathway planning at 
+the mill or fleet level.  It is possible that u nder different condi-
+tions, for example with  the consideration of ma rkets for re-
+newable energy certificates (RECs) or Guarantees of Origin 
+(GO)  for produced electricity , a different specific pathway to 
+decarbonization would likely emerge. ESD helps stakeholders 
+understand the  actual  costs of reducing CO 2 emissions.  
+Figure 9 Estimation of CO 2 emissions vs cost of energy system designs.  
+
+ © 202 4 Siemens Energy  Page 11 5 Conclusion
+Siemens  Energy has introduced Energy System  Design  as a 
+powerful tool to deliver  its customers  concepts for turnkey en-
+ergy system solutions to optimize the afford ability, reliability, 
+and sustainability of current and future pulp and paper mills  
+tailored to individual customers demands .  
+ 
+This whitepaper discuss ed energy and carbon management 
+technologies, practices, and opportunities within pulp and pa-
+per mills. In addition, a case study detailed the actual deploy-
+ment of Energy System Design toward the development of the energy system needed to drive a paper machine expansion. The cost optimization study identified energy system designs 
+that consistently outperformed the original Reference Design 
+alternative by reducing cost and carbon emissions by an aver-
+age of 17%. In one considered futur e scenario, a cost -optimal 
+design identified in the study offered cost savings of 22.1% 
+while emitting 26.8% less carbon than the Reference Design.   Each energy system design consists of its included technolo-
+gies, the interconnections between these, and the dispatch, or operating strategy, of each. Dispatch profiles are included to 
+demonstrate the operational differences and opportunities be-tween a cost -optimal design and the reference system. Multiple energy system designs are discussed with their sensi-tivity to uncertainty in the studies' assumptions and infor-
+mation. Finally, a decarbonization pathway is delivered by 
+identifying cost -optimal energy system designs with progres-
+sively lower carbon emission s, culminating in a design which 
+is a so-called  24/7 carbon- free system . This exercise offers cus-
+tomers a practical tool for understanding the cost of decarbon-ization and what technologies and operating strategies may be required to  completely de carbonize their energy systems. 
+ Energy System Design supports the optimization of energy 
+systems for industrial applications. This powerful tool delivers 
+concepts for  turnkey energy system solutions complete with 
+technology selection, sizing, and operation within one inte-
+grated optimization procedure. A successful energy transition requires balancing affordability , reliability, and sustainability. 
+Siemens Energy works with its industrial customers to maxim-
+ize each of these in their current and future energy systems by 
+identifying robust energy system designs, guiding cost and en-vironmentally positive waste management strategies, and de-livering the world’s most efficient  industrial energy technolo-
+gies. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Source -list 
+1. Fortune Business Insights : Pulp and Paper Market S ize, Share & COVID -19 Impact Analysis, By Category (Wrapping & 
+Packaging, Printing & Writing, Sanitary, New Print, and Others) and Regional Forecast, 2022 -2029  (2022)  
+2. Food and Agriculture Organization of the United Nations: Forest Products Yearbook (2019)  
+3. Fisher  International: FisherSolve (2023)  
+4. TAPPI Press: Handbook for Pulp and Paper Technologists, 4th Edition (2016)  
+5. Fisher International: A Retrospective on 90 Years and the Future of the Paper Industry (2019)  
+6. Lawrence Berkeley National Laboratory:  Energy Efficiency Opportunities in the US Pulp and Paper Industry (2009)  
+7. U.S. Environmental Protection Agency: Greenhouse Gas Report Program Pulp and Paper (2023)  
+8. U.S. Department of Energy  Report: Bandwidth Study on Energy Use and Potential Energy Saving Opportunities in US Pulp 
+and Paper Manufacturing (201 5)
+  
+ © 202 4 Siemens Energy  Page 12 
+ 
+ 
+Published by  
+ 
+Siemens Energy  
+Transformation of Indust ry, Energy System Design  
+ 
+Freyeslebenstrasse 1  
+91058 Erlangen  
+Germany  
+ 
+Siemens Energy Inc.  
+4400 N. Alafaya Trail  
+Orlando, FL, 32826, USA  
+ 
+ 
+For more information, please visit our website:  
+https://www.siemens -energy.com/global/en/home/products- services/ser-
+vice/energy -system -design.html  
+ 
+ 
+Disclaimer:  
+This publication is provided for informational purposes only and you 
+should not construe any information presented as legal, tax, investment, 
+financial, or other professional advice. The content is of a general nature 
+and does not address the specific circ umstances of any particular market, 
+event, application or installation, nor does it constitute a comprehensive 
+or complete statement of the matters discussed or the laws relating 
+thereto  and is not an offer of Siemens Energy or a publicly granted war-
+ranty . Statements related to potential savings and/or revenues in this 
+publication are based on assumptions in relation to future technical, en-
+ergy / commodity market and other frame conditions. Siemens Energy as-
+sumes no liability for the accuracy of forecasts which have been incorpo-
+rated as input parameters in the services. Any information about Siemens 
+Energy products and services is subject to change without notice. Ex-
+pected capabilities or benefits may not apply in specific applications or 
+be realized in all  cases. Nothing in this document shall be deemed or 
+construed to be a warranty or guarantee of the information, product(s), 
+service(s) or method(s) described herein.  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+   

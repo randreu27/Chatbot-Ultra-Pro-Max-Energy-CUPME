@@ -1,0 +1,32 @@
+C E R T I F I C A T E
+No. IITS3 118525 0001 Rev. 00
+Page 1 of 1
+TÜV SÜD Product Service GmbH • Certification Body • Ridlerstraße 65 • 80339 Munich • GermanyHolder of Certificate: Siemens Energy Global GmbH & Co. KG
+SE GT GS
+Siemenspromenade 11
+91058 Erlangen
+GERMANY
+Site(s):Siemens Energy Global GmbH & Co. KG 
+SE GT GS
+Siemenspromenade 11, 91058 Erlangen, GERMANY
+Siemens Energy Global GmbH & Co. KG 
+SE GT GS
+Am Stahl 2, 91301 Forchheim, GERMANY
+Certification Mark:
+ 
+Type: Industrial IT Security
+Scope of Certificate: Security Program for the Blueprint “High- 
+Voltage Direct Current (HVDC)” 
+Tested 
+according to:IEC 62443-2-4:2015/AMD1:2017
+IEC 62443-3-3:2013/COR1:2014
+PPP 15011B:2021 (IEC 62443-2-4: Full ML2 Process Profile for a 
+Blueprint)
+The security program and the resulting products(s) as well as the (generic) technical solution was assessed on 
+a voluntary basis and complies with the essential requirements. The certification mark shown above can only be 
+used in conjunction with certified scope. It is not permitted to alter the certification mark in any way. In addition, 
+the certification holder must not transfer the certificate to third parties.See http://www.tuvsud.com/ps-cert for 
+details. 
+Test report no.: 22CR12S055
+Valid until: 2025-10-27
+Date, 2022-11-03 ( Nadia Patricia Stefan )

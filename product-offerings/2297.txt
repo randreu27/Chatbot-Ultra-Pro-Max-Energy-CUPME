@@ -1,0 +1,448 @@
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+                                     Packager Guidelines 
+Section 1: General Information 
+ 
+ 
+1-1.  Serial Numbers 
+Correspondence concerning your compressor and related equipment must include the serial numbers of the equipment about which you are writing. A complete record of serial numbers 
+and other data on your Siemens Energy compressor is kept at the factory; giving the serial 
+numbers in your correspondence and parts orders helps us in providing prompt service. 
+ 
+1. The compressor frame serial number applies to the frame and running gear parts. It 
+is located on a nameplate that is attached to the side of the frame at the oil pump 
+end. The serial number is also permanently  stamped directly below the nameplate in 
+the frame metal. It consists of several letters and numbers. Always give the complete serial number (for example; 6HF751, Y6H1 08) when requesting specific information. 
+ 
+2. Each compressor cylinder has its own serial number that is stamped on a nameplate 
+attached to the cylinder. The cylinder nameplate also includes other data; this is 
+described in the section that follows. Always  give the complete serial number (for 
+example; 6HC2400, Y6H775) when requesting specific information. 
+ 
+ 
+1-2. Cylinder Nameplate Information 
+The nameplate (Figure 1) attached to the compressor cylinder contains information that 
+allows both the customer and Siemens Energy to identify a particular cylinder. The following 
+is an explanation of some of the terms used on nameplates. 
+ 
+ 
+Figure 1. Cylinder Nameplate 
+ 
+
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1-2.1.  Cylinder Type, Serial Number, Bore & Stroke 
+The first block describes the compressor type. Following this is the block for the serial 
+number. The cylinder serial number is the mo st important item st amped on the nameplate. It 
+allows the customer, the distributor and the m anufacturer to identify a particular cylinder, its 
+specifications, the parts used to build it and the performance conditions for which it was designed. This is important in that it allows  tracking of a particular cylinder throughout its 
+history, no matter what frame it may be installed on in later years. Always give this serial 
+number when ordering spare parts. This will expedite the handling of your order and helps prevent shipment of incorrect parts. The cylinder bore is the inside diameter of the cylinder. If 
+there is a liner present, the cylinder bore is the inside diameter of the liner. This is also the 
+nominal piston diameter. Liners of  different thicknesses may be installed in a given cylinder to 
+vary the bore diameter. The stroke is the di stance the piston and rod travels (forward or 
+backwards) for every 1/2 re volution of the crank. 
+ 
+1-2.2.  Rated Discharge Pressure 
+The rated discharge pressure, or RDP, is the maximum pressure the cylinder is allowed to 
+see under normal continuous operating conditions. 
+ 
+1-2.3.  Maximum Allowable Working Pressure 
+The maximum allowable working pressure, or MAWP, is the maximum gas pressure 
+permitted in the cylinder period. The cylinder may be operated for short periods of time at 
+pressures up to this figure provided that other factors (such as driver horsepower, maximum bearing loads, and piping and vessel limitations) do not prohibit this. Safety valve settings are 
+usually much lower than this figure, and may never exceed it in any case. 
+ 
+1-2.4.  Hydrostatic Test Pressure 
+The pressure at which the cylinder has been hydrotested. Hydrosta tic tests are always 
+performed at pressures at least 1.5 times that of the MAWP. 
+ 
+1-2.5.  Maximum Cooling Water Pressure 
+This pressure limitation applies not only to jacke ted cylinders, but to in ternally water cooled 
+packing cases as well. 
+ 
+1-2.6. Maximum Allowable Discharge Gas Temperature 
+This is the highest temperature to which any compressor cylinder parts should be exposed to 
+for a short period of time.  
+ 
+1-2.7. Maximum Speed 
+This is the maximum design speed of the cylinde r. Certain cylinders, mainly the large ones 
+with high reciprocating weights, may have speed limits that are lower than that of the frame. 
+This is uncommon and always addressed in t he early states of any potential application. 
+ 1-2.8.  Base Clearance 
+This is the inherent clearance that lies within and/or  built within the cylinder.  It is in the form of 
+a percent of the swept volume for a given end of the cylinder. It cannot be changed without 
+physically altering the internals of the cylinder. 
+ 
+1-2.9. Normal Lineal Clearance 
+The clearance between the piston and the head when the piston is at the end of the stroke 
+(each end). It is required to allow for the thermal expansion of the piston and rod when 
+temperatures increase through compression. 
+ 
+1-2.10. Added Fixed Clearance 
+The clearance added by some physical means to meet the required operating condition(s). It 
+is typically added in the form of valve spacers or a shorter than normal head or piston. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1-2.11. Noise Levels 
+Siemens Energy does not guarantee noise levels.   Siemens Energy has no practical 
+method of obtaining and isolating compressor noi se data.  Many factors impact compressor 
+noise that may impact field readings.  Some  of these factors are ambient noise, motor 
+selection and noise, gas piping noise, system natural frequencies and other noise emitting 
+sources.  The values below can be considered a typical range of expected compressor noise 
+and actual values may vary in field. 
+ Electric drive outdoors:  94-98 
+Electric drive indoors:  98-102 
+Engine drive outdoors:  96-100 
+Engine drive indoors:  100-104 
+ 
+1-2-12.  Recommended Blow Down Procedure 
+The recommended blow down procedure is: 
+1. Comply with the ASME pressure vessel code.  This requires rapid venting to 50% 
+pressure. 
+2. At 50% pressure, hold and slowly vent at a rate of 10 psi/min until pressure reaches 700 
+psig.  This gives the gas time to slowly exit from the o-ring. 
+3. Below 700 psig, the depressurization rate is not restricted. 
+ 
+1-3.  Lifting Devices 
+Compressor frames are drilled and tapped at the factory for lifting devices. These lifting 
+devices are not supplied as standard scope of supply. These devices can either be 
+purchased locally or from Siemens Energy.  
+1-4.  Storage 
+If the compressor frame or skid is to be stored at any time and it is not resting on a foundation, it should be supported the full length to prevent any possible sag or distortion. It 
+will also be necessary to prot ect the unit from the weather, either in a building or by a 
+tarpaulin or similar covering. The standard sh ipping preparation used by Siemens Energy is 
+suitable for outdoor equipment storage of up to  six months. Additional protection for longer 
+storage periods can be provided as an equipm ent option. This additional protection is 
+normally selected to suit the particular storage requirements and environmental conditions. 
+ 
+NOTE 
+ 
+Local environment has such an effect on how well 
+any rust preventative material or technique will hold 
+up that Siemens Energy cannot realistically accept responsibility for the storag e, as we have no control 
+of the local conditions at the installation site. 
+ 
+When a lubricated compressor cylinder is shipped, the main bores and gas passages are 
+coated with rust preventative oil. This oil s hould not be removed or wiped out of the cylinder 
+until actual starting of the compressor. All of t he cylinder openings must be completely closed 
+so that dirt, rain or dust cannot be blown into them. Consult Siemens Energy on storage 
+requirements when non-lubricated cylinders are involved. 
+ 
+Non Lubricated Cylinder Application - For Domestic applications, aluminum paint is used in 
+the cylinder gas passageways and heads as a corrosion preventative. On Export Shipments 
+or Extended Storage, the gas passages and heads will be sprayed with a mineral rust 
+preventative after the aluminum paint is appl ied. Pressure, partition packings and oil wiper 
+rings are removed and placed into a greaseproof, waterproof, flexible barrier material 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+followed by an outer wrap. Export or Ext ended Storage also requires the piston and rod 
+assembly to be removed for shipment. Piston and rider rings are to be removed and packed 
+in the same manner as the packing rings ment ioned above. Piston and rod are sprayed with 
+a fingerprint neutralizer, then the piston, rod and ja mnut are sprayed with a rust preventative 
+and finally wrapped in the same manner as the packing rings mentioned above. 
+ Before storing the unit, it is important to chec k inside as well as outside the machine to be 
+sure all running parts and exposed surfaces su bject to corrosion are adequately protected. 
+Make certain all covers are bolted tight and all openings are properly closured against moisture and dust. During storage, periodically remove covers and check the frame interior 
+for condensation and for adequate protection of the internal surfaces. This should be done at 
+least once a month. 
+ 
+1-4.1.  Extended Storage 
+The following recommendations apply to compress ors that are being stored for an extended 
+period of over six months. Because of t he variations between storage sites, these 
+recommendations are presented only as guidelines, which should be modified to suit a particular situation. The following procedure is in addition to the storage instructions 
+described in the preceding paragraphs. 
+ 1.  The internal surfaces of the frame, frame extensions and the internal running gear 
+components have been coated with a rust prevent ative at the factory; this protective 
+coating must be left in place. While installing the compressor, take extreme care to prevent dirt, sand and other contaminant s from entering it. Any contaminants 
+introduced at this time must be thoroughly removed. After the machine is installed, it 
+is important that all frame openings are closed and sealed to pr event contamination 
+of the frame interior. 
+ 
+ 
+NOTE 
+When the compressor is to be stored for an extended period in an "as shipped" condition, an inspection 
+schedule must be established whereby the frame interior can be periodically exami ned and the rust preventative 
+coating restored as required. Any rust preventative 
+applied to the parts during this period should meet U.S. Government Specification MIL-C-16173 (latest edition), 
+Grade II, (such as Valvoline Te ctyl 502-C® distributed by 
+Ashland Oil, Inc.)  
+2.  All pipe connections must be plugged or fitted with suitable covers. Openings at the 
+ends of the frame extensions must also be closured if the compressor cylinders are 
+not mounted. 
+ 
+3. Ensure all access covers on the compress or are in place. It is important that the 
+machine is adequately closured against moisture and dirt. Wipe the outside of the 
+unit clean and dry. Spray all exposed "bright " surfaces, including that portion of the 
+crankshaft between the drive end and frame, with rust preventative.  
+ 
+4. Bar over the crankshaft at least once ev ery thirty days (more frequently if feasible) 
+during storage. When possible, operate the priming oil pump to be sure that rust 
+preventative oil is flushed onto all inter nal bearing surfaces. Do not allow the 
+crankshaft to come to rest at the same position it was in before barring. A simple 
+scribe line on an exposed por tion of the shaft will aid in this determination. 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+5. Remove compressor valves from the cy linders and either store them submerged in 
+an oil tank or coat them with a suitable rust preventative, wrap them and store them 
+indoors. 
+ 
+6. When compressor cylinders are shipped, the main bores and gas passages are 
+coated with rust preventative oil. This o il should not be removed or wiped out of the 
+cylinder until it is time to start up the compressor. All of the cylinder openings must be 
+completely closed so that dirt, rain or dust cannot be blown into them. 
+ 7. If the pistons, piston rods and packings are left installed during the storage period, 
+the cylinder lubricator should be filled with ru st preventative oil. Operate the lubricator 
+so that the rust preventative oil is pumped into the lubricator lines and main bores at 
+the same time the unit is being barred over. Prior to starting, drain this oil and flush 
+the system with the normal lubricating oil. 
+ 
+8. The rust preventative oil we use is only good for six months. We cannot ensure that 
+any parts put in storage over six months will not suffer damage. 
+ 
+9. The following inspections for corrosio n should be made at the end of the initial 6-
+month period and each month thereafter. 
+ 
+A.  Inspect the internal surfaces of the frame. 
+B.  Inspect the cylinder bores. C.  Inspect the piston, piston rods and packing for rust. 
+D. Inspect the valves by removing t he protective coating of protective 
+paper and checking for rust. Carefully spray with oil and repackage these parts after inspection. 
+E. If there is any rust presen t, clean and re-coat parts with a 
+preservative oil. 
+ 
+10.  When the compressor is ready to be placed in operation, drain all of the rust 
+preventative oil and flush the system as described in CHAPTER 3 (OPERATION 
+AND TROUBLESHOOTING) of the Instructi on Manual before filling the lubrication 
+system with the oil selected for regular operation. 
+ 
+1-5.  Routine Operation and Maintenance 
+High speed reciprocating compressors are designed and built for long periods of 
+continuous and reliable full-load operation.  It should be equipped with automatic safety devices to protect it and shut it down in case of low frame oil pressure, vibration, extreme temperatures or pressures and lack of cylinder lubrication.  It can also be 
+equipped with additional safety devices to obtai n practically any degree of protection 
+desired pending on the service and/or owner requirements. 
+ 
+When the unit is first placed in operation and the machine is operating at normal speed and load and with stable operating pressures and temperatures, all safety alarm and shutdown controls should be carefully checked for correct operation and adjusted 
+where necessary.  Never disconnect the safety shutdown devices and allow the unit to 
+run unprotected. 
+ 
+Every compressor requires a certain amount of supervision and care if it is to give 
+continued satisfactory performance and long service life.  A time schedule of duties for 
+the operator must be subject to alteration by experience to fit the actual conditions and 
+operating environment.  The following minimum schedule is suggested based on the continuous duty of 720 hours per month. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+NOTE  
+ 
+The time schedule of routine inspections and maintenance for the compressor must be used in conjunction with the schedule and duties recommended by the driver manufacturer for this 
+machine.  This also applies to the other accessory 
+equipment. 
+ 
+ Daily:  
+ 
+1. Keep the exterior of the compressor/driver clean, as well as the surrounding 
+work area. 
+ 
+2. Check the oil level in the frame sump and add the proper oil as required to 
+maintain the level at the oil level line on the gauge.  Check that the oil tank (if so 
+equipped) is also filled to the proper level. 
+ 
+3. Check the oil level in the lubricator drive box and add the proper oil as 
+necessary.  If the oil level has increased, then check the pumps for leakage 
+past the plungers.  Make sure that all the pumping units are working and also 
+inspect the distribution blocks for leakage, indicator pins “popped up”, or other problems. 
+ 
+4. Keep a daily log of all gas temperatures, water temperatures and gauge 
+pressures.  One of the principal means of keeping track of the physical 
+condition of a compressor and its equipment is by these daily log readings.  
+Watch carefully for any marked changes which indicate that further attention is warranted.  Use the interstage pressures and temperatures to detect abnormal conditions.  A decrease in the interstage pressure and temperature means that the lower pressure cylinder has reduced capacity.  An increase in interstage 
+pressure and temperature means that the next higher stage cylinder has 
+reduced capacity.  These effects can be attributed to leaking valves, worn piston rings or broken parts. 
+ 
+NOTE  
+ 
+In every case, because of variable operating conditions, the operator should establish the frequency of draining off the various drains.  This frequency will be 
+determined by the amount of liquid that 
+collects at each drain point. 
+ 
+5. If separators are used in the compressor system, a schedule must be 
+established whereby they are periodically drained to prevent any liquid 
+carryover into the compressor cylinders, which can cause serious damage.  If 
+automatic drains are furnished, check them for proper operation and be sure that no liquid has accumulated in the level gauge. 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+6. Watch for signs of excessive heating and listen for any unusual noises while the 
+machine is operating.  Any abnormal condition should be investigated 
+immediately. 
+ 
+7. Visually inspect the unit for loose fasteners and supports or for any excessive 
+shaking from tubing or hoses and secure where appropriate. 
+ 
+8. Check all the gas, water and oil piping for leaks. 
+ 
+ 
+ First Week:  
+ 
+1. Visually inspect and spot check with torque wrenches, the fasteners on joints 
+with gaskets and the entire cylinder to frame bolting with the unit shut down.  Take note of any fasteners that have loosened and pay close attention to these fasteners.  Increase the periodic checking of these fasteners if necessary. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during 
+operation.  Tighten the fasteners as required following the procedures outlined 
+in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 
+3. Check the runout of the compressor piston rods.  Make sure the piston rod is 
+not scored, scratched or discolored. 
+ 
+4. Check the oil scraper packing, piston rod packing and distance piece vents for 
+excessive blowby and/or oil leakage.  If blowby is occurring, determine the cause and if required, replace the packing rings. 
+ 
+5. Check for adequate cylinder and packing lubrication.  This may require the 
+removal of the outer head and/or valve covers.  Compressors typically leave the factory with the cylinder lubrication system set at the maximum flow rate for break-in.  Refer to Section 2-3.4 in this Instruction Manual before reducing the flow rate. 
+ 
+ 
+ Monthly (ALL Daily Checks Plus):  
+NOTE  
+ 
+When the compressor is being operated in an extremely dirty atmosphere, or where it is installed outdoors, operated intermittently, handling foul gas in the cylinders, or 
+operating with high oil temperatures in a 
+very hot atmosphere, it may be necessary to change the oil more often.  Most reputable oil companies offer laboratory analysis of oil samples, the use of this type 
+service is recommended. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1. Take a sample of the frame oil for analysis.  Compare the oil analysis to a clean 
+reference sample.  Change the oil and oil filter per the analysis or per the 
+compressor manufacturer's recommendations. Refer to Chapter 2 Section 2-2.8. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during 
+operation.  Tighten the fasteners as required following the procedures outlined 
+in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this 
+Instruction Manual. 
+ 
+3. Visually check the oil scraper packing, piston rod packing and distance piece 
+vents for excessive blow-by and/or oil leakage. 
+ 
+ 
+ Every Three Months (ALL Monthly Checks Plus):  
+ 
+1. Check all of the safety shutdowns and the operation of the loading and 
+unloading devices for proper operation. 
+ 
+2. Lubricate all of the variable volume clearance pocket (VVCP) packing grease fittings (See CHAPTER 4 MAINTENANCE Section 4-19.2 in this Instruction Manual) and check for free motion by moving the pocket in and out with the unit 
+not operating.  Reset the pocket to the correct clearance setting. 
+ 
+3. Check the frame crankcase breather(s) and clean or replace as necessary. 
+ 
+4. Clean the lubricator reservoir and pumping units as necessary or according to 
+the manufacturer’s instructions. 
+ 
+5. Check the compressor piston rings and piston rod for wear and the cylinder bore for scoring, and remove any accumulation of foreign material.  Replace the piston rings if they are worn to their limit.  Benchmark the wear data.  See CHAPTER 4 MAINTENANCE Section 4-14, in this Instruction Manual for the 
+proper procedures on checking the wear rate of, and renewing, PTFE piston 
+and rider rings. 
+ 
+6. Clean the separator sight glasses (if so equipped). 
+ 
+7. Utilizing a temperature measuring gun, measure the temperature of the valve covers; record and benchmark all the data. 
+ 
+8. Check the frame and driver foundation bolts for tightness.  Follow the required procedures and tighten to the proper torque values given in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, found in this Instruction 
+Manual. 
+ 
+9. Inspect the drive coupling.  Replace any worn or broken components.  Tighten as required. 
+ 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ Every Six Months (ALL Three Month Checks Plus):  
+ 
+1. Check the crankshaft end play. 
+ 
+2. Inspect the piston rod, pressure packing and oil scraper case for discoloration 
+or excessive leakage.  Replace the rings as required. 
+ 
+3. Replace the cylinder lubricator filters. 
+ 
+ 
+ Annually (ALL Six Month Checks Plus):  
+ 
+1. Check all of the running gear clearances and compare them to the benchmark 
+readings.  If a change is detected, disassemble and inspect those affected parts.  Replace any bearings and/or bushings where necessary. 
+ 
+2. Clean and flush the oil cooler and any other heat exchanger supplied. 
+ 
+3. Check the accuracy of the compressor pressure gauges and recalibrate them 
+as required. 
+ 
+4. Remove all of the inlet and discharge valves.  Clean and inspect the valves for 
+excessive wear and broken parts.  Lap the seats and guards and replace all internal parts.  Refer to the compressor valve instructions located in CHAPTER 4 MAINTENANCE Section 4-18 in this Instruction Manual. 
+ 
+5. Remove the compressor piston and piston rod assemblies and inspect the 
+piston rods, pistons, piston rings and cylinder bore diameters.  Record the 
+cylinder bore diameters.  Replace co mponents where necessary.  Inspections 
+of this nature will indicate the replacement schedule for parts that are subject to wear. 
+ 
+6. Safety valves used in the compressor gas system should have their settings 
+tested at least once a year, and more often under extreme conditions, by a hydraulic test. 
+ 
+7. Examine any separators, bottles, dampers and similar equipment that may be 
+used in the compressor system for accumulation of dirt, rust and other foreign 
+material.  Remove the vessel from the system and clean it if necessary. 
+ 
+8. Visually inspect the packing cups; re-lap as required; replace pressure packing 
+and oil wiper rings. 
+ 
+9. Pull the cylinder lubricator box pump covers and inspect the internal gears and 
+cam shaft.  Replace pumps where necessary. 
+ 
+10. Pressure test divider valves if a block distribution system. 
+ 
+11. Visually inspect cylinder gas passages for debris and remove where needed. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+ Every 4-6 Years (Overhaul):  
+ 
+1. Completely disassemble the compressor. 
+ 
+2. Replace the oil pump. 
+ 
+3. Replace all valves. 
+ 
+4. Replace all wear items such as bearings, bushings, pistons and rings. 
+ 
+5. Replace all seals. 
+ 
+6. Replace piston and piston rod if necessary. 
+ 
+7. Replace all cylinder lubricator pumps and divider blocks.   
+ 
+ 
+1-6.  Unit Throw Configuration  
+See Drawing to View Throw Configuration 
+ 1-7.  Recommended Allowable Forces and Moments  
+See Drawing to View Forces and Moments 
+ 
+ 

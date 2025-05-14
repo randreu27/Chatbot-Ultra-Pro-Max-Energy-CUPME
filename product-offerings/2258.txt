@@ -1,0 +1,458 @@
+siemens-energy.comHydrogen compression –  
+An integral part of the  
+H2 value chain
+   
+Page
+03	 1. Introduction:  
+An element full of energy   
+05	 2. The Ecosystem:  
+An interlocking value chain
+08	 3. Compression:  
+A crucial technology
+12	 4. The Future:  
+Balance requires diversity
+Authors
+Peter Adam 
+Siemens Energy,  Germany
+Mark Barton 
+Siemens Energy,  United States
+Keiren Lake  
+Siemens Energy,  
+United Kingdom
+Michael Schulz 
+Siemens Energy,  
+Germany 
+Co-authors
+José L. Gilarranz 
+Siemens Energy,  United States
+Thomas Soulas 
+Siemens Energy,  United States
+Page 2 © 2021 Siemens Energy
+With increasing frequency, we are witnessing more 
+dramatic weather extremes, as temperature records are 
+broken year after year. Meanwhile, larger and more destruc-tive storms, floods, droughts, wildfires, and hurricanes touch nearly every corner of the globe. 
+At the same time, greenhouse gas emissions
+1) continue to 
+rise – approaching 2018 and 2019 peaks in 2021 – with an 
+increase of nearly 5% while ever-higher atmospheric CO2 
+concentrations are being recorded with concentrations 
+exceeding 410 ppm for the first time in 20192).
+Against this backdrop, governments are taking increasingly 
+clear action to meet their commitments made as part of the 2015 Paris Agreement to help limit global warming.  
+This includes the December 2020 agreement among EU 
+countries to cut net carbon emissions by 55 percent over 
+the next decade. The details of this agreement demonstrate how most areas of economic activity will be impacted by 
+the steps taken to achieve the Paris climate goals.
+That is to be expected, given that a diverse range of sectors 
+collectively account for more than three-quarters of global CO
+2 emissions4). More specifically, power generation and 
+heating contribute 30.4 percent, transportation contributes 
+15.9 percent, manufacturing and construction add 12.4 
+percent, agriculture produces 11.8 percent, and industrial 1. Introduction: An element full of energy
+20253035
+1990 2000 2010 2020 tGtCO22021 Total: 
+330 GT CO2
+Figure 1: Global energy-related CO2 emissions, 1990-20213)
+Figure 2: Five ways to reach the Paris climate target
+Page 3 © 2021 Siemens Energy
+H2Help decarbonize 
+transportation
+Help decarbonize industrial energy 
+use
+Help decarbonize 
+building heat and power
+Serve as renewable 
+feedstock
+Enable large-scale renewables integration and power generationDistribute energy acrosssectors and regions
+Act as a buffer to increasesystem resilience
+processes emits 5.6 percent5). Making a difference will require 
+significant emission reductions across all these sectors.
+That’s why hydrogen – the most common element in the 
+universe6) – is such a focus of interest. It can support decar -
+bonization in every one of these sectors. At the heart of 
+hydrogen’s appeal are three factors:
+• This element and its role in decarbonization are not theo-
+retical or ‘under development’. They are well known, well 
+understood, and widely used. Hydrogen has played a role 
+in many industrial processes and industries for decades. We know how to safely use, store, and transport it, and we 
+do this today with commercially available technologies.
+• Existing proven technologies can produce hydrogen in 
+several ways – some without releasing CO
+2 into the 
+atmosphere.
+• Due to its versatility, hydrogen can play a variety of roles, including as an energy carrier for power generation and transportation, and as feedstock for industry, agricul-ture, and synfuels.
+In addition, the market for hydrogen will grow dramatically as the energy transition is inevitable and the need for decarbonization becomes more urgent. From approximately 
+75 Mtpa today, market demand is expected to rise up to ten 
+times to 750 Mtpa 2050
+7). Nearly all of today’s output is 
+utilized to produce ammonia and other chemicals for indus-try and fertilizer, and for refining. By 2050, the largest 
+shares will be used as a transportation fuel, as fuel for 
+industrial energy, for building heat and power, for power generation, and for new and existing feedstock
+8).
+The way we produce hydrogen also will dramatically 
+change as we move along the decarbonization pathway. 
+Currently, most hydrogen is produced from fossil fuels in Figure 3: Hydrogen can play different roles in the energy transition and is therefore an important lever for decarbonization9)
+processes that emit ~ 10 ton of CO2 per ton of hydrogen 
+produced. However, two proven technologies for generat-ing lower-CO
+2 emissions during hydrogen production are 
+ripe for further advancement:
+• Green hydrogen is produced without generating any CO2 
+by using electricity from renewable energy sources to 
+power the electrolysis of water, which results in hydrogen and oxygen. This is a key long-term source of clean hydro-gen. In an electrolysis process 8 tons of Oxygen is produced 
+to make one ton of hydrogen. This Oxygen will probably be 
+used in future as well e.g. in Oxyfuel processes.
+• Hydrogen also can be produced from natural gas, with the resulting CO
+2 captured and stored so it does not end 
+up in the environment. This will be used as an intermedi-
+ate technology for the next decades to accelerate the 
+transition to a green hydrogen energy system long-term.
+A third zero-emission technology – using clean-ener -
+gy-powered pyrolysis to ‘crack’ natural gas into solid carbon 
+and hydrogen – is still in the development stage but offers 
+great potential.
+As economies decarbonize and companies look for ways to 
+lower the climate impact of their processes, hydrogen offers a tremendous opportunity. With proven technologies set to become even more efficient, accompanied by addi-
+tional benefits through sector coupling, hydrogen can help 
+companies, industries and economies achieve both commercial and environmental goals.
+To make this possible, organizations require a partner with 
+decades of experience across the entire hydrogen value 
+chain. Siemens Energy brings a unique constellation of technologies and expertise to help business, industry, and 
+society make the most of the hydrogen revolution at all 
+stages – today, tomorrow, and in the long term.
+Page 4 © 2021 Siemens Energy
+A process with many components
+While the possibilities for hydrogen are enormous, 
+unlocking this opportunity is only possible when all the 
+pieces of a fully integrated value chain are put in place.  
+A successful hydrogen project requires a supportive and 
+carefully designed regulatory environment, sufficient renewable energy supply, the right hydrogen-production technologies, suitable transport and storage infrastructure, 
+and end users for the clean hydrogen. What’s more, at 
+every step in this value chain, it’s essential that operations are as efficient as possible – both in terms of cost and in 
+terms of minimizing impact on the environment.  
+Location, location, location
+Location is a top priority for making any hydrogen project 
+succeed. This includes placing electrolyzers close to the source of clean energy, whether adjacent to wind farms 
+and PV plants, or even built into offshore wind turbine 
+platforms. A minimization of the distance between the energy source and the hydrogen production will bring about a significant cost advantage. 
+That said, efficiency in the system is further improved when 
+hydrogen production and offtake are located near each other. That’s already how it is done with today’s conven-
+tional hydrogen production. Around the world, there are 
+nearly 9,000 kilometers of hydrogen pipeline, some as long as a couple of hundred kilometers linking production to 
+consumption. As a result, the technology for hydrogen 
+transport and storage is well understood and well devel-oped. This includes the technology to store hydrogen in large underground formations, such as salt caverns.
+End users for clean hydrogen can include ammonia and 
+methanol producers that currently use conventional 
+hydrogen as an input. By switching to clean hydrogen, they can shrink their carbon footprint. Likewise, steel manufac-turers and other high-temperature process industries can use clean hydrogen fuel to significantly lower their emis-
+sions, especially since high-temperature processes can’t be 
+electrified easily.
+Industrial processes also can transform hydrogen into 
+transport fuel for fields such as aviation, shipping, long-  
+distance rail, and heavy trucks.
+Another major end user group that can benefit from being 
+located near to clean hydrogen production facilities are 
+gas-fired power plants that today can run on a fuel blend that includes a small amount of hydrogen.  2. The Ecosystem: An interlocking value chain
+Figure 4: Hydrogen value chain
+Page 5 © 2021 Siemens Energy
+With modifications, these plants ultimately will be able to 
+run on 100 percent hydrogen. 
+Ensuring accessibility to transport infrastructure is also 
+important. This includes existing hydrogen pipelines, but also natural gas infrastructure, which can accommodate small amounts of hydrogen blended into the gas stream.
+In the future, existing natural gas pipeline networks and 
+storage facilities will require modifications, including the 
+deployment of high-efficiency turbocompressors, to transi-
+tion to fully decarbonized hydrogen. Even so, the cost of retrofitting existing infrastructure would be only 10 percent to 15 percent of the cost of building new pipelines and storage tanks.
+In the long term, consideration will be given to locating 
+hydrogen production facilities in areas with direct access to ports for easy export internationally. Countries like Australia 
+and Saudi Arabia are planning for a future where hydrogen 
+is exported in a similar way as oil is today.Figure 5: Side by side – a functioning hydrogen landscape
+The economics
+As has happened with other technologies at the heart of a decarbonized future – such as solar photovoltaic (PV) and wind power – costs across the hydrogen value chain are 
+expected to fall rapidly in coming years. Today, most clean 
+hydrogen systems are not commercially viable, except with government intervention in areas such as subsidies, mandates around the use of clean hydrogen, or emission 
+reduction requirements.
+BloombergNEF predicts that by 2030, hydrogen produced 
+from renewable energy will be cheaper than conventionally 
+produced hydrogen in 16 of the 28 countries it modeled
+10).
+One short and midterm challenge is the very large electrical 
+energy demand of electrolysis systems (55 MWh /ton of H2). 
+The required electrical energy demand to allow large scale 
+hydrogen production with electrolysis competes with all the 
+other users of renewable electricity and to build up the 
+required gigantic capacities requires time and funding.
+Green hydrogen production will be supported by the 
+continued fall in renewable energy prices, improvements in 
+electrolyzer costs and technologies, gas compression systems advances, and other efficiencies of scale. Today, it is not economical to use renewable energy to produce 
+hydrogen and then use that hydrogen to fuel gas turbine 
+power plants. In the future, this is expected to provide an effective way to deliver zero-carbon dispatchable electricity to balance the intermittency of renewable power sources.
+Page 6 © 2021 Siemens Energy
+Figure 6: The H2 economy is a systems play - an interaction of different technologies, solutions and stakeholders (excerpt of the hydrogen value chain)
+As an experienced technology provider along the entire 
+hydrogen value chain, Siemens Energy understands the role of future technologies as one aspect in building an efficient 
+hydrogen system. For example, Siemens Energy develops 
+and provides both upstream hydrogen technologies such as wind turbines and polymer electrolyte membrane (PEM) electrolyzers, as well as two critical downstream technolo-
+gies – compressors that will be key to the efficient transpor -
+tation and storage of hydrogen, and gas turbines, which 
+will make it possible to efficiently reconvert hydrogen to a usable source of energy (electricity, heat, mechanical power to drive equipment, etc).Partnership and collaboration
+The financing challenges, alongside the need to bring together the right mix of infrastructure, location, tech-nology, and regulations, mean that no one entity can 
+develop a viable hydrogen project alone. All stakeholders 
+need to collaborate and contribute their part. Only in this way can any clean hydrogen project deliver on both cost and sustainability. 
+Governments need to create an enabling environment. 
+Renewable energy developers and utilities with clean 
+energy capacity need to coordinate electricity demand 
+requirements with electrolysis developers. Hydrogen producers, in turn, need to be sure that steady and reliable buyers will consume the volume of hydrogen produced. 
+Owners of pipelines and storage infrastructure need to be 
+ready to handle the flow of hydrogen from production to consumption or to export. 
+Required 
+compression
+O2 and CO 2 
+pipelinesH2 transportation
+Long distance pipelinesCompressors
+Page 7 © 2021 Siemens Energy
+3. Compression: A crucial technology
+An essential component of the hydrogen value chain is 
+compression. It is needed to move, store, and use 
+hydrogen. From the point at which hydrogen is produced to the point where it is consumed, different types of compres-sion are required. This includes the gathering of hydrogen produced by electrolyzers, steam methane or autothermal reformers (SMRs/ATRs), sending hydrogen through short-  
+or long-distance pipelines, compressing hydrogen to the pressure levels required by vehicle fueling stations, lique-faction for vessel transport facilities, and feeding it into gas 
+turbines or other downstream and petrochemical processes.
+In addition, CO
+2 compression is a critical element to enable 
+blue hydrogen production and related CCUS (Carbon 
+Capture Underground Storage).
+Hydrogen has the lowest molecular weight of any sub-  
+stance and has a low density (one eighth that of natural 
+gas): this has important implications for compression, 
+including the need for more energy and more compression 
+stages to reach a given compression level. Its small molec-ular size also results in some additional sealing challenges for compressors to minimize internal and external leakages compared against the requirements when they handle 
+natural gas.  
+Compression process
+There are two primary compression methods used for 
+hydrogen today, both of which have years of demonstrated success in industrial applications. The first is positive 
+displacement, most commonly applied by reciprocating 
+compressors using a piston to compress the gas. For these machines, hydrogen is drawn into the cylinder through the suction inlet as the piston moves from outer-dead-center 
+position to inner-dead-center; the piston then reverses 
+direction and compresses the gas contained in the cylinder. As the gas reaches discharge pressure, the discharge valves open, allowing the gas to flow from the cylinder at higher 
+pressure, and then the process repeats.
+The second method is dynamic, most commonly applied by 
+centrifugal type turbocompressors. These are based on 
+imposing changes in the angular momentum of the fluid, 
+utilizing high-speed impeller rotation to impose high-ve-locity kinetic energy into the gas that is then converted to pressure through the stationary diffuser. In these machines, gas enters via the suction inlet flange, flows into a series of 
+compression stages which sequentially increase the pres-
+sure of the gas as it passes through the machine, and then exits the machine through the discharge nozzle (flange). 
+Each one of the compression stages is composed of a 
+rotating component (i.e. the impeller) and stationary components (i.e. the diffuser, which converts kinetic energy into pressure energy, and the return channel which 
+redirects the gas and prepares it to enter into the next 
+stage. For the case of the last stage, the stationary compo-nents will have a discharge volute following the diffuser 
+(there is no return channel). The pressure ratio that can be 
+achieved by the machine is influenced by the size of the impellers, the number of impellers, and the rotational speed than can be achieved.
+Irrespective of the compression technology that is chosen, 
+getting hydrogen gas to the required discharge pressure level usually requires several stages. In reciprocating machines, the piston speed, stroke length and bore size together determine compressor capacity, and the compres-sion ratio is limited by the discharge gas temperature, 
+based on American Petroleum Institute (API) industry 
+standards. In turbocompressors, one key factor to influence the pressure ratio capability per compression stage is the tip-speed of the impeller (a function of the impeller diam-
+eter and rotating speed), which is usually constrained by 
+aerodynamic design limits, as well as mechanical and material strength limitations.  
+Reciprocating compressors
+Several factors go into the choice of a reciprocating compressor, including valve lift, rotating speed, piston speed, piston and packing ring, rider bands materials, and 
+capacity controls.
+Valves, rotation speed and pistons
+The compressor valve is perhaps the most crucial element 
+of the compressor, requiring a balance between reliability and efficiency. High lift, high efficiency valves can lead to valve ‘flutter’ which causes the valve sealing elements to 
+cycle many times per single stroke of the piston.
+Figure 7: Siemens Energy BDC reciprocating compressor
+Page 8 © 2021 Siemens Energy
+This increase in cycling introduces many more seating 
+impact events, which can lead to increased wear rates and 
+maintenance. Reducing valve lift reduces impact forces and cycling, and extends valve operating life but may compro-mise efficiency due to increased pressure drop across the valves. Compressor valve selection is optimized for reli-ability and efficiency with a dynamic valve analysis for each 
+application.
+Valve life also is impacted by compressor rotating speed, 
+since lower rotating speed will reduce the number of valve 
+impact events per minute, mean time between valve change-out will be proportional to rotating speed. Conversely, higher rotating speed will increase the mainte-nance frequency.
+The rotation speed also cycles the compressor piston from 
+outer-dead-center, to inner-dead-center and back with each revolution. Because of the interplay between rotating speed and stroke length, maximum average piston speed can be 
+maintained by adjusting these two parameters. Mainte-
+nance intervals are therefore impacted by the choice of allowable rotating speed and maximum average piston speed.
+Process reciprocating compressors (API 618) typically 
+operate between 277 rpm and 450 rpm, with a stroke range from 9” to 18” (229 mm to 458 mm). High-speed recipro-
+cating compressors (API 11P) typically operate between  
+600 rpm and 1800 rpm, with a stroke range from 5” to 8”  
+(127 mm to 203 mm).Piston and packing rings, and rider bands
+Rider bands carry the weight of the piston and half of the 
+piston rod and distribute this weight over the area of the rider band contacting the cylinder bore. Force per unit area, or unit loading of the rider band is determined by dividing the weight by the contact area. API 618 recommends  
+10 psi (69 kPa) unit loading for lubricated services and 5 psi (34.5 kPa) unit loading for non-lubricated applications.
+Piston rings and packing rings are composed of carbon-
+filled PTFE (polytetrafluoroethylene) non-metallic materials, which have better sealing and wear properties than prior generation metallic-ring materials.
+Reciprocating compressors  
+Over 1,500 units in operation,  
+over 2 million horsepower in H2 rich services
+Markets
+• Process industries
+• Refining
+• H2 pipelines (up to 750,000 Nm3/h with 3 units)
+• H2 boosting after electrolysis system
+• H2 storage (up to 300 bar)• High Speed and Process Recip –  
+standardized and project specific designs
+• Up to 170 bar (dry) 300 bar (lubed), 1 to 5 MW 
+• Used primarily for H2 product, tail gas, feed gas and H2 
+make up applications as well as H2 pipeline and storage.
+• Very efficient for hydrogen compression applications
+• World renowned dependable service  
+and steadfast reliability
+Page 9 © 2021 Siemens Energy
+Turbocompressors
+The specific work required to compress a volume flow from 
+a suction to a discharge-pressure is defined by the pres-
+sure-integral across the specific volume of the flow.  
+So, because of the very low density of hydrogen, turbo-
+compressors in hydrogen duty require a comparably high number of compression stages. This, in turn, results in a trade-off regarding the footprint for turbocompressors. 
+Indeed, in the recent past, turbocompressors in hydrogen 
+duty have been primarily applied for medium and high volume flows, but rather small overall pressure ratios.
+One way to increase the work/pressure ratio per compres-
+sion stage and decrease the footprint of a turbocompressor in hydrogen duty is to increase the tip speed and/or circum-
+ferential portion of the absolute flow leaving the impeller 
+at outer diameter (discharge). For gases with high molec-ular weights, this approach might be affected by transonic considerations; but for hydrogen, the speed of sound is rather high, which supports a high tip speed approach.
+This approach, achieved by increasing rotating speeds, 
+requires additional considerations regarding the compressor 
+and the compressor train, in terms of technical feasibility 
+and ensuring that the solution is cost effective and efficient. The evaluations need to include the proper balance in the design among mechanical, material stress, aerodynamic and 
+rotor-dynamic criteria, among others. Finally, especially 
+considering the increased speed requirements of the compressor, the overall train architecture needs to be prop-erly evaluated to achieve the best overall solution.
+H2 rich synthesis gas turbocompressors
+• Up to 200 bar and 100% H2 content
+• Typically steam turbine driven several compressor body 
+trains primarily for hydrogen rich syngas services
+• Advanced, reliable technology with proven references
+• Existing turbocompressor technology requires many impellers in several casings to achieve a reasonable  
+compression ratio for hydrogen gas
+• Existing turbocompressors in natural gas pipelines can be 
+upgraded to be used for up to 40% H
+2 in the pipeline
+Markets
+• Downstream/process industries
+• Refining
+• PipelinesCompressor selection considerations
+For operators looking to deploy hydrogen compressors, the 
+most salient features include the facility’s footprint, capital costs, availability/reliability and operating expenses 
+(including the cost of maintenance). Both compressor types 
+can handle a broad range of application scenarios, with the choice of technology based on economic tradeoffs and the specific requirements of each application, including 
+required flowrates, pressure ratios, use cases, footprint 
+limitations, use of dry or wet sealing, and whether the gas is 100 percent hydrogen or blended with natural gas.Figure 8: Siemens Energy turbocompressor, STC-SV
+Page 10 © 2021 Siemens Energy
+Figure 9: Main target of Siemens Energy compressors is to provide typical pipeline pressure ratio in a single casing
+Pressure ratioReciprocating compressors:
+ High efﬁcient H 2-compression via 
+positive displacement even at part loads
+ Part load ﬂow rate turn downs of 50% 
+or more typical at high compression efﬁciency (90%)
+ Maintenance intervals of over 3 years, 
+process and gas dependent. 
+Clean dry H
+2 is ideal.
+Turbocompressors:
+ Primarily applied with moderate/high volume ﬂows
+ Two well-referenced product lines, i.e. integrally 
+geared and single shaft compressors to optimize compression solution with TurbocompressorsComing soon for turbocompressors:
+Maximized pressure ratio per stage resultingin reduced frame size and stage countincreased applicability for high pressure ratio 
+Suction volume ﬂow [m3/h]
+Molecular weight and efficiency
+The most apparent differentiator between reciprocating 
+and turbocompressors in the hydrogen context relates to its 
+low molecular weight. While reciprocating compressors can have an advantage with respect to efficiency and leakage for low molecular weight gases such as hydrogen, several 
+aspects (including those identified above) have to be 
+considered for a proper evaluation.
+Compressor stages
+For example, while turbocompressors may require more 
+stages, the nature of turbocompressor designs is such that multiple stages handling large volumes of gas can be accommodated in machines that occupy a smaller footprint 
+than reciprocating compressors handling the same volumes 
+of gas at similar pressure ratios. For reciprocating compres-sors, more stages require more cylinders, given the temperature limits, while turbocompressors can increase tip 
+speed and wheel size. This also means turbocompressors 
+can deliver capital cost advantages in high-volume situa-tions.
+The efficiency advantage of reciprocating compressors may 
+also be diminished at high flow volumes, given the increased number of cylinders required with that technology. 
+As a result, turbocompressors are more often applied in 
+high-volume flow situations requiring relatively lower pressure ratios. Reciprocating compressors are more often used in situations where lower volumes, but higher pres-sures are required. Reciprocating compressors also are better suited where part-load operations are anticipated.
+OPEX considerations
+While the higher efficiency of reciprocating compressors 
+makes them attractive from a power consumption perspec-
+tive, turbocompressors can usually run for longer times without requiring maintenance, so they have an operating expense benefit resulting from their longer maintenance intervals. Furthermore, when the end user has a spare 
+centrifugal compressor modular cartridge available, the 
+time to refurbish these types of machines is significantly lower, reducing the time to bring the facility back online. 
+Capacity control 
+Capacity control facilitates greater efficiency in power 
+consumption by enabling users to compress only as much 
+hydrogen as is needed. With reciprocating compressors, 
+this can be achieved with fixed volume clearance pockets within the compressor cylinder, suction valve unloaders to reduce compressor capacity, and reverse suction-flow or 
+infinite-step capacity controls. 
+For both reciprocating and turbocompressors, variable 
+frequency drive (VFD) motors can be used to vary the 
+rotating speed of the compressor to adjust to capacity 
+demand.
+Page 11 © 2021 Siemens Energy
+4. The Future: Balance requires diversity
+Here, compressors represent a basic technology, as they are 
+used for a safe and cost-effective hydrogen transport and 
+storage – an essential point for a smooth energy flow and deployment. With a comprehensive portfolio of both recip-rocating and turbocompression solutions for use in hydrogen applications, along with a global manufacturing network, Siemens Energy is prepared to meet the growing 
+demand for future compression technology and to enable 
+customers to shift to a more efficient and sustainable future.
+Just as the hydrogen economy requires many parties to 
+work together, the larger energy transition requires industry, government, citizens and other stakeholders to come together to build an energy system that is advanta-geous – to the people of today and tomorrow, and to the 
+planet. By balancing interests and leveraging a range of 
+energy solutions, the global community will be able to address the threat of climate change and create countless new opportunities.
+Figure 10:  
+ In the interplay of the various technologies, hydrogen compression plays an essential role for a safe and reliable energy flow in all areas of application
+Addressing climate change will require action across the 
+entire economy and in most other areas of life. Siemens 
+Energy is committed to providing solutions that benefit society as well as the economy. Building a low-carbon energy system to achieve the goal of full decarbonization will entail a range of energy technologies, including both zero- and lower-carbon solutions.
+During the energy transition, renewable energy solutions, 
+such as solar PV and wind, will play a major role, but so will 
+natural gas and synthetic fuels such as hydrogen. These 
+technologies are not in opposition, they will actually complement each other.
+As policymakers look to address climate change, while also 
+ensuring affordability and security of supply as demand 
+grows, they cannot choose one over the other. Many solu-
+tions are needed today and will continue to be a crucial part of the energy story for decades. Siemens Energy is well placed to provide holistic, clean and safe solutions for the 
+emerging hydrogen economy, by offering all necessary 
+technologies, products, solutions and services along the entire H
+2 value chain and its application fields. 
+Page 12 © 2021 Siemens Energy
+
+Page 13 © 2021 Siemens EnergyPublished by
+Siemens Energy 2021
+Siemens Gas and Power GmbH & Co. KG  
+Siemens Energy  
+Freyeslebenstrasse 1  
+91058 Erlangen  
+Germany
+Siemens Energy Inc.  
+15375 Memorial Drive  
+Houston TX 77079  
+United States  
+For more information, please contact us:  
+(Charges depending on provider)  
+E–mail: communications.industrialapplications@siemens-energy.com
+ 
+siemens-energy.com/industrial-applicationsThe content is provided for informational purposes only and you should 
+not construe any information presented as legal, tax, investment, financial, or other professional advice. The content is of a general nature and does not address the circumstances of any particular application or installation, nor does it constitute a comprehensive or complete statement of the matters discussed or the laws relating thereto. Any information about Siemens Energy products and services is subject to change without notice. Cost assumptions, expected 
+capabilities or benefits may not apply in specific applications or be 
+realized in all cases. Nothing in this document shall be deemed or construed to be a warranty or guarantee of the information, product(s), service(s) or component(s) described herein.Source-list: 
+1) IEA 2021, CO2 emissions in https://www.iea.org/reports/
+global-energy-review-2021/CO2 -emissions
+2) United Nations, UN News 2020, Carbon dioxide levels 
+hit new record in https://news.un.org/en/story/2020/  
+11/1078322 
+3) IEA 2021, CO2 emissions in https://www.iea.org/reports/
+global-energy-review-2021/CO2 -emissions
+4) World Resources Institute 2020, Greenhouse gas emis-sion in https://www.wri.org/blog/2020/02/greenhouse-gas-emissions-by-country-sector
+5) World Resources Institute 2020, Greenhouse gas emis-sion in https://www.wri.org/blog/2020/02/greenhouse-
+gas-emissions-by-country-sector
+6) Live Science 2017, Why is hydrogen the most common 
+element in https://www.livescience.com/58498-why-is-
+hydrogen-the-most-common-element.html7) Strategy and Part of the PWC Network, The dawn of green hydrogen in https://www.strategyand.pwc.com/
+m1/en/reports/2020/the-dawn-of-green-hydrogen/the-dawn-of-green-hydrogen.pdf
+8) Hydrogen Council 2017, Hydrogen scaling up in  
+https://hydrogencouncil.com/wp-content/uploads/  
+2017/11/Hydrogen-scaling-up-Hydrogen-Council.pdf
+9) Hydrogen Council 2017, Hydrogen scaling up in  
+https://hydrogencouncil.com/wp-content/uploads/  
+2017/11/Hydrogen-scaling-up-Hydrogen-Council.pdf
+10) BloombergNEF 2021, Green hydrogen to outcompete blue everywhere by 2030 in https://about.bnef.com/blog/green-hydrogen-to-outcompete-blue-every -
+where-by-2030/

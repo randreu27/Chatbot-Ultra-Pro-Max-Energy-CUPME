@@ -1,0 +1,195 @@
+ILoP Schnellstartanleitung
+November 2020
+November 2020 Seite 2 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Inhaltsverzeichnis
+I.Basisfunktionen
+1.Zugang & Anmeldung
+2.Transportauftrag „Neu“
+3.Transportauftrag „Neu“ -ohne Bestellnummer
+4.Ortsangaben
+5.Verpackungsdetails
+6.Spediteur(e)
+7.Dokumente
+8.Transportauftrag „in Bearbeitung “
+9.Transportauftrag „Abgeschlossen“
+10.AdressbuchII.Erweiterte Funktionen
+1.Öffnungszeiten verwalten
+2.Benutzerverwaltung
+November 2020 Seite 3 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Zugang & Anmeldung
+https://ax4.com/ax4/?ID=3719631
+Bitte geben Sie die von Siemens 
+erhaltene Anmeldedaten ein 
+(Benutzername und Initialpasswort).
+
+November 2020 Seite 4 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Nutzungsbedingungen
+
+November 2020 Seite 5 ILoP Schnellstartanleitung
+Geben Sie eine bekannte Bestellnummer ein
+(entweder komplette Angabe oder z.B. 70008*)
+oder wählen Sie „ mehrere Bestellnummern“.
+ILoP Schnellstartanleitung
+Transportauftrag „Neu“
+können Sie sich alle offenen Bestellungen anzeigen lassen
+(im eingegrenzten Zeitraum).1.
+2a.
+Alternativ
+Hier klicken um zu Suchen.
+2b.
+November 2020 Seite 6 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Transportauftrag „Neu“ –mehrere Bestellnummern
+1.
+Hier können Sie verschiedene Bestellnummern eingeben2.
+Alternativ können Sie auch eine . csvDatei mit 
+Bestellnummern hochladenWählen Sie „mehrere Bestellnummern” aus
+
+November 2020 Seite 7 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Transportauftrag „Neu“
+Boxen anklicken, um eine Bestellpositionen auszuwählen.
+1.2.
+
+November 2020 Seite 8 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Transportauftrag „Neu“ -ohne Bestellnummer
+Wenn die Bestellung nicht
+gefunden wurde, aktualisieren 
+Sie bitte zuerst die Datenbank neu.
+Die OrgID des Frachtzahler (aus der 
+Bestellung oder vom operativen 
+Einkäufer) eingeben.
+1.
+2.
+4.Wenn die Bestellung trotzdem
+nicht gefunden wird oder die
+Bestellnummer unbekannt ist, 
+fahren Sie hier manuell fort.
+3.
+
+November 2020 Seite 9 ILoP Schnellstartanleitung
+Sendungsdaten
+vervollständigen und 
+wenn nötig ändern:
+Entweder kann jedes 
+Feld einzeln 
+bearbeitet/überschrieben 
+werden… 
+ILoP Schnellstartanleitung
+Ortsangaben
+Wenn Sie den Transportauftrag zu 
+einem späteren Zeitpunkt 
+abschließen möchten können Sie 
+ihn vorerst speichern
+(gespeicherte Transportaufträge 
+finden Sie unter „ in Bearbeitung “).1b.1a.
+2.
+…oder Sie können eine Adresse aus dem 
+entsprechenden Dropdown Menü auswählen.
+Sie können im Adressbuch eigene 
+Adressen pflegen.
+
+November 2020 Seite 10 ILoP Schnellstartanleitung
+Menge bei Bedarf anpassen (Teillieferung).ILoP Schnellstartanleitung
+Verpackungsdetails
+2.
+1.
+Verpackungsdetails hier eingeben.
+
+November 2020 Seite 11 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Spediteur(e)
+Einen Spediteur 
+auswählen.
+Das Abholdatum kann bei
+Bedarf geändert und auf 
+einen späteren Zeitpunkt gelegt werden.
+1.
+2.
+3.
+
+November 2020 Seite 12 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Dokumente
+Lieferschein oder 
+andere 
+Frachtdokumente 
+hochladen.
+1.
+2.
+
+November 2020 Seite 13 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Transportauftrag abschließen
+Überprüfen Sie die Zusammenfassung 
+und senden Sie den Transportauftrag 
+ab.
+oder
+1a.1b.
+Nachdem Sie Ihren Transport gespeichert 
+haben, finden Sie ihn unter „in 
+Bearbeitung". Ihr Transportauftrag ist noch 
+nicht abgeschlossen.
+
+November 2020 Seite 14 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Transportauftrag abschließen und dann..
+Mit Klicken auf diesen Button versendet das System automatisiert einen Transportauftrag an den 
+ausgewählten Spediteur, sowie eine Kopie an die in Ihrem Account hinterlegte Email Adresse und den von 
+Ihnen eingetragenen Siemens -Besteller(n) im entsprechenden Feld unter Ortsangaben . 
+Bitte beachten Sie: In dieser Bestätigungsmail können folgende Anlagen beigefügt sein:
+-von Ihnen hochgeladene Dokumente
+-Label (z.B. DHL Express, FedEx/TNT, UPS)
+-bei nordamerikanischem Landverkehr wird automatisch eine „Bill ofLading “ erzeugt
+Alle abgeschlossenen Transportaufträge finden Sie unter
+
+November 2020 Seite 15 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Transportauftrag „in Bearbeitung“
+Unter „in Bearbeitung“ finden Sie alle Aufträge die angefangen aber noch nicht abgesendet sind.
+Klicken Sie auf den Stift, um offene 
+Transportaufträge entweder zu bearbeiten 
+oder
+durch Auswählen „Sendung(en) löschen“ 
+zu entfernen.Sobald ein Abholdatum definiert wurde, finden Sie einen 
+Hinweis auf der Startseite bzgl. der noch nicht 
+abgeschlossenen Transportaufträge.
+
+November 2020 Seite 16 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Transportauftrag „Abgeschlossen“
+Unter „Abgeschlossen“ finden Sie alle Aufträge, die an einen Spediteur gesendet wurden.
+Für Dienstleister wie z.B. DHL Express, FedEx/TNT, UPS 
+können Sie ein Label aufrufen.
+
+November 2020 Seite 17 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Adressbuch
+Halten Sie den Mauszeiger 
+über „Verwaltung“ und klicken 
+Sie dann auf „Adressbuch“.
+Klicken Sie auf den Stift, um 
+eine Adresse zu bearbeiten.
+Klicken Sie auf „New Address “, um 
+eine neue Adresse hinzuzufügen.
+
+November 2020 Seite 18 ILoP Schnellstartanleitung
+ILoP Schnellstartanleitung
+Öffnungszeiten verwalten
+Halten Sie den Mauszeiger 
+über „Verwaltung“ und klicken 
+Sie dann auf „Öffnungszeiten“
+Tragen Sie hier entsprechende 
+Öffnungszeiten ein.
+
+November 2020 Seite 19 ILoP SchnellstartanleitungILoP Schnellstartanleitung
+Benutzerverwaltung
+Ausschließlich als Master User ist die 
+Funktion „Benutzerverwaltung“ für Sie 
+aktiv, d.h. in diesem Fall können 
+Sieweitere Nutzer Ihrem 
+Firmenkonto hinzufügen.
+Nach Hinzufügen obliegt es Ihnen u.a. 
+diese Nutzer zu sperren und/oder zu  
+löschen. a.
+b.
+
+Vielen Dank für Ihre Aufmerksamkeit!
+Bitte denken Sie an die Umwelt, bevor Sie dieses Dokument ausdrucken .

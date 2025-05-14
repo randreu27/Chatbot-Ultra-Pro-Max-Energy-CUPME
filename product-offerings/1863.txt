@@ -1,0 +1,114 @@
+T3000 simulates  
+what T3000  
+controls
+Omnivise T3000 Simulatorsiemens-energy.com/omnivise-t3000
+The challenge
+Even with the best control system, operating 
+generation units is no easy task. In-depth knowl-
+edge of the plant remains indispensable for 
+critical situations. Especially in remote locations, 
+skilled personal is sometimes hard to find, and 
+experienced plant operators must train and  
+qualify new operators on site.
+Simulation not only supports training, but also 
+provides the ability to test the initial engineering 
+of the control systems or changes in process en-
+gineering before possible faults may impact plant 
+operation. In addition, simulation enables you to 
+virtually commission and optimize plants.
+Most I&C simulation systems are based on the in-
+troduction of dedicated simulation software and 
+hardware, which requires additional investments 
+and implies coordination efforts.
+Our solution
+T3000 Simulator is our fully integrated digital 
+process and automation twin of Omnivise T3000 
+and all kinds of generation units that rely on 
+T3000. It is not a separate system; it is part of 
+Omnivise T3000 and thus provides immediate 
+and direct simulation in the T3000 Workbench.
+Training and testing directly in T3000 are possible 
+from the very beginning and overcome synchro-
+nization problems: Simulated engineering data 
+can be easily implemented in the actual T3000 
+configuration. Your benefits
+• 1:1 simulation  
+Digital twin of T3000 shows the real plant 
+behavior before any real change is made
+• Keep and build plant know-how  
+Hands-on staff training with the actual control 
+system already during commissioning
+• Better basis for decision-making  
+Detailed testing of the effects of measures  
+in engineering, changes or adjustments  
+in Omnivise T3000
+•  Easy handling and cost security  
+No additional software/hardware required
+
+Only 4 steps to simulation
+Open simulation in T3000 Workbench  
+Start a new project via the T3000  
+Workbench.
+Load initial condition  
+Open the “Instructor Station” application.  
+Select and load a snapshot. All the real  
+settings of this plant fragment are now  
+simulated.Lean system setup
+Since the Omnivise T3000 Simulator is fully  
+embedded in Omnivise T3000 and thus runs on 
+the existing T3000 hardware and software, system 
+startup is easy.
+•  Simulation running on Application Server
+•  Automation Server, I/O modules, field devices  
+and processes integrated in T3000 Simulator
+•  Integrated process models provided
+•  Control functionality  
+– Run, Freeze  
+– Load IC  
+ (Initial Condition)Omnivise T3000 Simulator1
+ 3
+2 4
+Thin Clients Server I/O modules ProcessesAutomation
+ServerApplication
+Server
+Simulated in Omnivise T3000As the simulation is running on the Application 
+Server, no separate hardware, physical instructor 
+stations or software applications are needed. 
+Licenses and libraries – which you can download 
+– are the only things you need to start. 
+Integrated process models and the coupling of 
+external process models enable simulation from 
+low- to high-fidelity.
+– Snapshot  
+– Malfunctions  
+– Backtrack
+Operate simulation  
+Select a view to adapt parameters and witness 
+the direct implications in the selected view.
+Start Training with malfunctions  
+Select a malfunction in the library (e.g., steam 
+leakage), adjust and trigger it (e.g., leakage 
+amount, activation time, ramp time). The 
+instructor may assign a malfunction to the 
+trained operator, who can now test his skills 
+in finding the malfunction and take action. 
+© Siemens Energy, 2023
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only  
+when they are expressly agreed upon in the concluded contract. All 
+product designations may be trademarks or product names of Siemens 
+Energy Global GmbH & Co. KG or other companies whose use by third 
+parties for their own purposes could violate the rights of the owners.Published by
+Siemens Energy Global GmbH & Co. KG 
+Gas Services
+Siemenspromenade 9
+91058 Erlangen, Germany
+Siemens Energy Inc.
+Gas Services
+4400 N Alafaya Trail 
+Orlando, FL 32826, USA
+siemens-energy.com/omnivise-t3000

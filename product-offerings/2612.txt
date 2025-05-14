@@ -1,0 +1,1581 @@
+  
+ 
+Unrestricted  siemens -energy.com  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+    
+  SpecTRON  
+45 
+Installation, Operation Manual  
+Document No: 10051285  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  2 of 56 
+ 
+Unrestricted  
+Foreword  
+Thank you for purchasing a Siemens Energy  SpecTRON 45  product. The information that follows is 
+an overview of the protection, storage, shipment, unpacking, deployment,  and maintenance 
+instructions for SpecTRON 45 products.  
+Siemens Energy  recommend the termination and installation of all equipment only be un dertaken 
+by suitably trained and qualified personnel.  
+Revision Summary  
+This page records the revision status of the entire document and its authorisation for issue. When a 
+page or pages of the document are revised, the number of the page(s) affected will b e entered in the 
+Page(s) Affected/Remarks column and a vertical margin line will appear against the latest amended text.  
+Rev Compiled by  Approved by  Issue Date  Page(s) Affected/Remarks  
+01 C. Plant  N. Knight  08/10/2020  • First Issue  
+02 C. Plant  N. Williamson  07/01/2022  • Changed to Siemens Energy Template  
+• Section 3 –  Added definition of CMI (Common Module 
+Interface)  
+• Section 4.2 -  Clarified misalignment capabilities  
+• Section 4.3 –  Update jumper weights in air/water and 
+add hose coupler weights.  
+• Section 7.3 –  New section to clearly define hose routing  
+• Section 7.8 –  Added guidance on management of heat -
+shrink cable test terminations  
+• Section 9.1 –  Add details of connector cleaning and 
+drying procedure  
+     
+     
+     
+     
+     
+     
+     
+     
+     
+ 
+ 
+  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  3 of 56 
+ 
+Unrestricted  
+Contents   
+1 PRODUCT SCOPE  ............................................................................................ 6 
+1.1  Permeguard™ Wet Mate Receptacle Connector  ................................... 6 
+1.2  Product Certification .............................................................................. 6 
+1.3  Contact details  ....................................................................................... 6 
+1.4  Product advice label  .............................................................................. 7 
+1.5  Product marking  .................................................................................... 8 
+1.6  CE label/marking  .................................................................................... 8 
+2 PRODUCT SAFETY  .......................................................................................... 9 
+2.1  Action -related warnings  ........................................................................ 9 
+2.2  Intended use  .......................................................................................... 9 
+2.3  General safety information  .................................................................  10 
+2.4  Related documents  .............................................................................. 13 
+3 ABBREVIATIONS ........................................................................................... 14 
+4 SPECIFICATION AND RESIDUAL HAZARDS ................................................... 16 
+4.1  Connector General Specification  ......................................................... 16 
+4.2  Misalignment capability of wet mate connectors ............................... 17 
+4.3  Hose Specifications  ............................................................................. 18 
+4.4  Cable Specifications  ............................................................................ 18 
+4.5  Other specifications  ............................................................................. 19 
+5 HEALTH AND ENVIRONMENTAL INFORMATION  .......................................... 20 
+5.1  Environmental, disposal and recycling  ............................................... 20 
+5.2  Personal protective eq uipment (PPE)  .................................................. 20 
+6 PREPARING PRODUCT FOR USE  ................................................................... 21 
+6.1  Before installation  ............................................................................... 21 
+6.2  Unpacking  ............................................................................................ 21 
+6.3  Safe disposal of packaging  .................................................................. 22 
+6.4  Lifting ................................................................................................... 23 
+6.5  Installation and assembly  .................................................................... 25 
+6.6  Storage and protection  ........................................................................ 30 
+6.7  Repackaging to prevent damage in transport  .................................... 31 
+7 OPERATION OF PRODUCT  ............................................................................ 32 
+7.1  Energising Wet Mate Pair  .................................................................... 32 
+7.2  Deployment  ......................................................................................... 32 
+7.3  Hose Management and Routing  .......................................................... 33 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  4 of 56 
+ 
+Unrestricted  
+7.4  Hose Buoyancy Subsea  ........................................................................ 39 
+7.5  Umbilical Power Core Management and Termination  ........................ 39 
+7.6  Connecting Wet Mate Pair Subsea  ...................................................... 41 
+7.7  Temporary Connection of Wet Mate Pair  ............................................ 41 
+7.8  Quick Connect (Dry Mate)  ................................................................... 45 
+7.9  Testing  .................................................................................................  46 
+7.10  Disposal of waste products .................................................................. 49 
+7.11  Quick references  .................................................................................. 49 
+8 USER INFORMATION  .................................................................................... 50 
+8.1  Normal and faulty/dangerous operation  ............................................. 50 
+8.2  Cathodic Protection  ............................................................................. 50 
+8.3  Troubleshooting (FAQ’s)  ...................................................................... 50 
+9 PRODUCT MAINTENANCE ............................................................................ 52 
+9.1  Connector Cleaning and Drying  .......................................................... 52 
+9.2  Product maintenance (skilled persons)  ............................................... 54 
+10 CUSTOMER COMMENTS/FEEDBACK  ............................................................ 55 
+ 
+Tables  
+Table 1 - SpecTRON 45 Product Certification  ..................................................................... 6 
+Table 2 - Contact Details  ................................................................................................... 6 
+Table 3 - SpecTRON 45 Connectors General Specification  ............................................... 16 
+Table 4 – SpecTRON 45 Connector Misalignment Capability  ........................................... 17 
+Table 5 - SpecTRON 45 Hose Specifications ..................................................................... 18 
+Table 6 - SpecTRON 45 Cable Specifications .................................................................... 18 
+Table 7 - Troubleshooting product contact details  .......................................................... 51 
+ 
+Illustrations  
+Figure 1 - Product Advice Label  ......................................................................................... 7 
+Figure 2 - Example Etching for SpecTRON 45 Products  ................................ ..................... 8 
+Figure 3 - Example harness marking  ................................................................................. 8 
+Figure 4 - SpecTRON 45 Rated Current Curves  ................................................................ 16 
+Figure 5 - Definition of misalignment directions  ............................................................. 17 
+Figure 6 - AquaTRON hose at minimum bend radius  ....................................................... 33 
+Figure 7 - Incorrectly routed AquaTRON hose  .................................................................  34 
+Figure 8 - Immediate fall in routing  ................................................................................ 34 
+Figure 9 - Hose kink due to immediate fall in routing and weight application  ................ 34 
+Figure 10 - Plate Former  .................................................................................................  35 
+Figure 11 - ‘U’ Former ...................................................................................................... 35 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  5 of 56 
+ 
+Unrestricted  
+Figure 12 -  ‘L’ Former  ..................................................................................................... 36 
+Figure 13 - Permanent fixed ‘U’ former  ........................................................................... 36 
+Figure 14 - Minimum clamp spacing from fixed mount connector .................................. 37 
+Figure 15 - Clamping of hose on compliant connector .................................................... 37 
+Figure 16 - Example of temporary hose support during SIT  ............................................ 37 
+Figure 17 - Example of support for immediate fall in hose routing  .................................  38 
+Figure 18 - Fabricated stand with former used for hose support  .................................... 38 
+Figure 19 – Typical (SpecTRON 10 shown) Umbilical Receptacle Side on Termination 
+(outside UTA)  39 
+Figure 20 - Umbilical clamping position  .......................................................................... 40 
+Figure 21 - SpecTRON 45 Test Jumper Configurations (with out protective caps)  ............ 46 
+Figure 22 - SpecTRON 45 Test Termination Support and HV Clearances  ......................... 47 
+Figure 23 - Disassembled receptacle protective cap  ....................................................... 52 
+Figure 24 – Receptacle Components for drying and cleaning  ......................................... 53 
+Figure 25 - Receptacle pin contact area as supplied ........................................................ 53 
+ 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  6 of 56 
+ 
+Unrestricted  
+1 PRODUCT SCOPE 
+This manual includes information on the following SpecTRON 45 connector types:  
+- SpecTRON 45 Jumpers  
+- SpecTRON 45 Wet Mate Pair 
+- SpecTRON 45 Common Module Interface 
+- SpecTRON 45 Shallow Water/Test Jumpers  
+1.1 Permeguard™ Wet Mate Receptacle Connector  
+SpecTRON 45 wet mate receptacle connectors use Siemens Energy’s Permeguard™  wet mate 
+receptacle connector to provide industry leading robustness and reliability by preventing direct 
+seawater contact with insulation.  
+1.2 Product Certification 
+Standard  Description  
+SEPS SP -1001  Power connectors,penetrators and jumper assemblies with rated voltage 
+from 3 kV (Umax = 3,6 kV) to 30 kV (umax = 36 kV)  
+Note: Self -certified via in- house testing. 
+Table 1 - SpecTRON 45 Product Certification  
+1.3 Contact d etails  
+For additional information or questions regards the products visit the Siemens Energy  website 
+www.siemens -energy.com/subsea  or contact the following: 
+Department  E-mail address  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -energy.com  
+Technical Support  connectortechnicalsupport.gb@siemens -energy.com  
+Service (Site Team)  susultlcmsupport.gb@siemens -energy.com  
+Sales  connectorsales.gb@siemens -energy.com  
+Table 2 - Contact Details   
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  7 of 56 
+ 
+Unrestricted  
+1.4 Product advice label  
+The following product advice label is supplied with all Siemens Energy  subsea  connector  products.  
+ 
+ 
+Figure 1 - Product Advice Label  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  8 of 56 
+ 
+Unrestricted  
+1.5 Product m arking  
+1.5.1  Connectors and Penetrators  
+ 
+Figure 2 - Example Etching for SpecTRON 45  Products  
+Siemens Energy  SpecTRON 45  connectors and penetrators are laser marked  on the gland body  with 
+the Siemens Energy  part number , unique serial number , and product ratin g information .  
+Additionally, connector front -ends are also marked with their part number and unique serial number 
+to aid traceability during manufacturing.  
+1.5.2  Harnesses 
+Harnesses are also marked with the Siemens Energy  part number and unique serial number as  shown 
+in Figure 3. Client and project specific information is also usually added to these labels. Labels are 
+typically black text on a yellow background underneath clear heat shrink. Typically, labels are located 
+at each end of the harness and centrally.   
+ 
+Figure 3 - Example harness marking  
+1.6 CE label/m arking  
+SpecTRON 45 is exempt from any current requirement for CE marking.  Sieme ns Energy continue to 
+monitor European and International requirements for applicability to the SpecTRON 45 product 
+range.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  9 of 56 
+ 
+Unrestricted  
+2 PRODUCT SAFETY  
+Siemens Energy  Subsea recommends the termination of all equipment shall only be undertaken by 
+trained, suitably qualified and experienced personnel (SQEP) i.e. competent person.   
+2.1 Action -related warnings  
+Classification of action- related warnings  
+The action related warnings are classified in accordance with the severity of the possible danger using 
+the following warning signs and signal words: 
+Warning symbols and signal words  
+ Danger!  
+Imminent danger to life or risk of severe personal injury 
+ Danger!  
+Risk of death from electric shock 
+ Warning.  
+Risk of minor personal injury 
+ Caution.  
+Risk of material or environmental damage 
+2.2 Intended use  
+Following installation, commissioning, and deployment of product, please complete and return the Customer Comments/Feedback form (Section  10). Please e- mail completed form to the Product 
+Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com
+. 
+There is a risk of injury or death to the user or others, or of damage to the product and other property in the event of improper use or use for which it is not intended.  
+The product is intended as a subsea high voltage electrical connector, for use by suitably trained 
+personnel in industrial application s only.  
+Intended use includes the following: 
+- Observance of the installation and operating instructions included for the product and any other 
+system components. 
+- Compliance with all inspection and maintenance conditions listed in the instructions. 
+- Use of al l recommended tooling appropriate for specific tasks. 
+- All activities to be undertaken by a competent person (see 2.3.1 for definition).  
+Any other use that is not specified in this document or covered in installation and operating instructions, or beyond t hat specified in this document shall be considered improper use.  
+ 
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  10 of 56 
+ 
+Unrestricted  
+2.3 General safety information  
+2.3.1  Installation by competent persons only  
+The installation, inspection, maintenance and repair of the product shall be undertaken by trained, 
+suitably qualified and experienced personnel (SQEP) i.e. competent person, to carry out a specified activity. Installation, inspection, maintenance and repair of products by untrained and deemed non -
+competent persons could invalidate the product warranty.  
+For further information contact Service (Site Team)  susultlcmsupport.gb@siemens -energy.com
+.  
+2.3.2  Danger caused by improper operation and foreseeable misuse  
+Improper operation and foreseeable misuse may present a danger to you and others and cause material damage. Carefully read the enclosed instructions and all other applicable documents, particularly the “Safety” section and the warnings. 
+ Danger!  Risk of death from electric shock if user dismantles/incorrectly re -
+assembles/incorrectly re- terminates product (foreseeable misuse).  
+- Maintenance, disassembly, re- assembly and termination activities must only be carried 
+out by a competent person.  
+ Danger!  Risk of death from electric shock if shuttle pins are depressed e.g. with a 
+screwdriver when plug is live (foreseeable misuse).  
+- Maintenance and testing activities must only be carried out by a competent person.  
+- Correct tools must always be used.  
+ Danger!  Risk of imminent danger to life, risk of severe personal injury caused by a shuttle 
+pin projectile due to damage caused to shuttle pins e.g. with a screwdriver (foreseeable misuse).   
+- Maintena nce and testing activities must only be carried out by a competent person . 
+- Correct tools must always be used.  
+2.3.3  Risk of death due to electrocution  
+ Danger!  Risk of death from electric shock due to exposed live pins, e.g. factory or top -side 
+system test and unmated receptacle is energised, e.g. by diver subsea.  
+- Ensure all test procedures are followed. 
+- Communication channels and protocols are observed. 
+ Danger!  Risk of death from electric shock due to unscreened HV cables in Jumpers.   
+- Ensure all test procedures are followed. 
+ Danger!  Risk of death from electric shock from any exposed conductors due to stored 
+electrical energy, e.g. capacitance of cable or elsewhere in the system.  
+- Ensure all procedures are followed.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  11 of 56 
+ 
+Unrestricted  
+ Danger!  Risk of death from electric shock from test connectors. Live parts accessible with 
+standard finger test, also live parts can be exposed by disassembly without a tool (e.g. 
+terminat ion sleeves are accessible and can be removed). Also exposed cable conductors at 
+free end and cables unscreened.  
+- Ensure all connectors are assembled correctly with termination sleeves in position prior 
+to conducting standard finger test.  
+ Danger!  Risk o f death from electric shock if product is terminated incorrectly by 3rd party 
+e.g. loose conductor touching metal body, or live wire terminated to metal body in error.  
+- Installation/termination activities must be carried out by a competent person.  
+ Danger!  Risk of death from electric shock due to metal body of connector not being earthed 
+during test and connector having earth fault (e.g. conductor touching metalwork) during 
+electrical testing.  
+- Ensure all testing of products both factory and deployed  in-field have been completed 
+by competent persons.  
+ Danger!  Risk of death from electric shock or severe personal injury through burning from 
+de-mating live conductors by hand.  
+- Ensure all procedures are followed for mating/de -mating connectors.  
+2.3.4  Risk of  injury and material damage due to maintenance and repairs carried out 
+incorrectly or not at all  
+Maintenance work or repairs  on the products should only be carried out by a competent person.   
+Faults and damage should be immediately rectified by a competent person.  Adhere to the 
+maintenance intervals specified.  
+ Danger!  Risk of imminent danger to life, risk of severe personal injury from burning and 
+material damage from ohmic heating in short -circuit condition or high over -currents.  
+- Ensure all testing of products both factory and deployed in -field have been completed 
+by competent persons.  
+ Danger!  Risk of imminent danger to life, risk of severe personal injury caused by released 
+pressure and or projectile due to incorrectly installed pressure retaining product, e.g. 
+during system pressure test (e.g. SpecTRON 45 penetrator f itted with wrong/insufficient 
+screws or seals).   
+- Ensure all product assembly and testing activities are completed by competent persons.  
+ Danger!  Risk of imminent danger to life, risk of severe personal injury to persons with 
+pacemakers or implantable cardioverter -defibrillators (ICDS) from electromagnetic 
+interference (EMI) e.g. high frequency testing with large load currents.  
+- Ensure all testing of products both factory and topside are not conducted by or in the 
+presence of persons with pacemakers or ICDS.  
+ Danger!  Risk of sev ere personal eye injury due to pressurised oil squirting out of damaged 
+hose or removal of fill/vent screw.  
+Ensure all testing of products both factory and deployed in -field have been completed by 
+competent persons.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  12 of 56 
+ 
+Unrestricted  
+ Warning.  Risk of eye/bodily injury caused by released pressure during product disassembly, 
+in the event of retrieval from subsea with a fault that causes depth pressure to be trapped 
+inside the product.  
+- Ensure all product disassembly activities are completed by co mpetent persons in 
+accordance with relevant procedures and using relevant personal protective equipment (PPE).  
+ Warning.  Risk of bodily injury caused by pressure retaining parts becoming projectile due 
+to user over -pressurising the system, e.g. during S ite Installation T est (SIT) .  
+- Ensure all product SIT activities are completed by competent persons in accordance 
+with relevant procedures.   
+2.3.5  Risk of injury and material damage due to manual handling  
+Manual handling, lifting and carrying are known t o be one of the largest contributors to occupational 
+ill-health. Ensure mechanical handling aids are used wherever possible to avoid manual handling. 
+Where manual handling is considered appropriate for the task, safe lifting guidelines must be followed, e. g. adopt correct posture, consider team lifting, employ safe lifting technique, etc. Only 
+competent persons are permitted to perform tasks without supervision, if in doubt ask.  
+ Warning.  Risk of musculoskeletal injury from hand -mating connectors with high  mate/de -
+mate force and/or connector rapidly fires out during de -mate due to high shuttle spring 
+force, e.g. factory/topside testing.  
+- Ensure all product testing activities are completed by competent persons in accordance 
+with relevant procedures.  
+- Ensure mechanical handling aids are used wherever possible to avoid manual handling.  
+- Where manual handling is considered appropriate for the task, safe lifting guidelines must be followed, e.g. adopt correct posture, consider team lifting, employ safe lift ing 
+technique, etc.  
+ Warning.  Risk of musculoskeletal injury from manual handling of heavy products.  
+- Ensure mechanical handling aids are used wherever possible to avoid manual handling.  
+- Where manual handling is considered appropriate for the task, safe lifting guidelines 
+must be followed, e.g. adopt correct posture, consider team lifting, employ safe lifting 
+technique, etc.  
+- Only competent persons are permitted to perform tasks without supervision, if in doubt ask. 
+ Warning.  Risk of bodily injury from h eavy product falling during lift with machinery.  
+- Ensure machinery/slings used have been tested and are within their expiry date.  
+- Safe lifting guidelines must be followed, e.g. lifting plan, banksman, etc.  
+- Correct lifting points must be identified and used . 
+- Only competent persons are permitted to perform tasks without supervision, if in doubt 
+ask. 
+ Warning.  Risk of minor personal injury to persons with sensitivities to silicone  or synthetic 
+ester based  oils.   
+- Wear appropriate hand protection when handling products or silicone  or synthetic  ester  
+based oils.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  13 of 56 
+ 
+Unrestricted  
+ Warning.  Risk of minor personal injury and material damage due to slips, trips and falls .  
+- Good housekeeping avoids slips, trips and falls, keep all work areas clean and tidy . 
+ Warning.  Risk of minor personal injury and/or material or environmental damage during 
+assembly .  
+- Caution shall be exercised during assembly to ensure that fittings and 
+hydraulic/pneumatic equipment are correctly installed.  
+2.4 Related documents  
+Installers shall perform  a full site risk assessment and put into place all necessary steps and 
+procedures to comply with applicable area, regional, national and  international health and safety 
+legislation, e.g. The Health and Safety at Work Act (HASAWA) in the United Kingdom (UK) and ensure 
+safety of themselves and others regarding manual handling and working at height requirements. 
+During the product installation (and any subsequent work) it will be necessary to employ caution. All 
+insta llers and operatives involved from unloading the product until it is deployed in its final installed 
+location must exercise a full duty of care for themselves and others regarding safety. When lifting and handling this product, operatives should employ assistance if required. In certain situations, it may be necessary to use mechanical handling aids. Take care to avoid trip hazards, slippery or wet surfaces.  
+Employers and installers should refer to the Health and Safety Executive (HSE) web site in the UK fo r 
+full advice and manual handling assessment charts (MAC) tool. 
+In addition, where no specific instructions are given then reference shall be made, but not restricted 
+to, where applicable, British Standards and codes of practice such as the following: 
+- The Health and Safety at Work Act. 
+- COSHH Control of substances hazardous to health. 
+- BS 7671 Requirements for electrical installations. IEE Wiring Regulations. 
+- The Electricity at Work Regulations. 
+It is the operator’s and installers responsibility to comply wit h current Company, area, regional, 
+national and  international health and safety legislation.  
+Following installation, commissioning and deployment of product, please complete and return the 
+Customer Comments/Feedback form (Section 9). Please e -mail complet ed form to the Product Safety 
+Officer at subsea.connectors.productsafety.gb@siemens -energy.com
+. 
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  14 of 56 
+ 
+Unrestricted  
+3 ABBREVIATIONS 
+A Ampere  
+ac Alternating Current  
+Assy  Assembly  
+API American Petroleum Institute  
+AWG  American Wire Gauge  
+BOM  Bill of Material 
+°C Degree Celsius  
+CE Community European  
+CMI Common Module Interface, a penetrator which presents a common interface to a dry -
+mate gland, regardless of the interface to a customer module  
+Comms  Communication Signal  
+COSHH  Control of substances hazardous to health  
+CP Cathodic Protection  
+dc Direct Current  
+DWG  Drawing  
+EFL Electrical Flying Leads  
+EMF  Electrical Magnetic Field  
+EMI  Electromagnetic Interference  
+FAT Factory Acceptance Test  
+IR Insulation Resistance  
+ICDS  Implantable Cardioverter -Defibrillators  
+ISO International Organization for Standardization  
+ITP Inspection Test Plan  
+IWIS  Intelligent Well Interface Standardisation  
+K Kelvin  
+LTC Long Term Cover  
+M Metres  
+Max.  Maximum  
+MFG  Manufactur er 
+Min.  Minimum  
+NACE  National Association of Corrosion Engineers  
+No. Number  
+PPE Personal Protective Equipment  
+ROV Remotely Operated Vehicle 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  15 of 56 
+ 
+Unrestricted  
+SI Standard International  
+SIT Site Installation Test  
+SRT Site Received Test  
+SST Stainless Steel  
+TBD To Be Defined  
+TSP Twisted Screened Pair  
+UNS Unified Numbering System for Metals and Alloys  
+V Volt 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  16 of 56 
+ 
+Unrestricted  
+4 SPECIFICATION AND RESIDUAL HAZARDS  
+The following is the typical specification for SpecTRON 45 connectors  and penetrators  with 630 mm², 
+26/45(52) kV  jumper cable and will differ for connectors terminated to umbilical power cores or 
+internal pigtails, and in other situations.  For connector specific information, please refer to product 
+specific datasheets.  These are available via the Siemens Energy  website  http://www.siemens -
+energy.com/subsea  o r Siemens Energy  Connectors Technical Support 
+connectortechnicalsupport.gb@siemens -energy.com . 
+4.1 Connector General Specification  
+ Value  Unit  
+Design Life  30 years  
+Number of ways / phases  1 - 
+Maximum Water Depth  3 000  m 
+Maximum Differential Pressure  (Penetrator)  10 bar 
+Operating Temperature  -5 to 20 °C 
+Storage Temperature  -25 to 60  °C 
+Number of Mates (Wet Mate Pair)  100 - 
+Rated Voltage  26/45(52 ) kV 
+Rated Current  See Graph  - 
+Rated Frequency  5 – 200 Hz 
+Table 3 - SpecTRON 45  Connectors General Specification  
+ 
+Figure 4 - SpecTRON 45 Rated Current Curves  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  17 of 56 
+ 
+Unrestricted  
+4.2 Misalignment capability of wet mate connector s 
+For any wet mate pair, one connector must be rigidly mounted using a fixed mount kit, and the other 
+half compliantly mounted.  Siemens Energy Subsea  offer two compliant kits which differ in the 
+amount of compliance they offer.   Allowable misalignments are defined relative to the mounting 
+mounts in the plates in the mating/stab tool, rather than the connectors themselves.  This is to 
+simplify designing mating interfaces  and remove the requirement for calculation of connector 
+positions.  
+ 
+Figure 5 - Definition of misalignment directions  
+The radial misalignment and angular misalignment are interdependent, any increase in angular 
+misalignment reduces the allowable radial misalignment, and vice -versa.  With no angular 
+misalignment, a  standard kit offers 17,5 mm maximum radial compliance, and an extended kit offers 
+35 mm maximum radial compliance.    This relationship is shown in the graph below.   
+ 
+Table 4 – SpecTRON 45  Connector Misalignment Capability  
+The recommended design points for maximum combined misalignment for the compliant mount kits are: 
+• Standard Kit, 5 mm radial, 1° angular  
+• Extended Kit, 10 mm radial, 2° angular  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  18 of 56 
+ 
+Unrestricted  
+Both kits offer a maximum of 10 mm allowable axial offset relative to the “ideal” position.  
+4.3 Hose Specifications  
+ AquaTRON 350 
+Unit  630 mm²  
+Outside Diameter  112,5  mm 
+Minimum Bend Radius  680 mm 
+Storage Temperature Range  -25 to +60  °C 
+Min.  Manipulation Temperature  -25 °C 
+Maximum Snag Load  5 kN 
+Weight in air  17,0  kg/m  
+Weight in water  6,9 kg/m  
+Max Length without coupler  35 m 
+Hose Coupler Weight in air  6,3 kg 
+Hose Coupler Weight in water  5 kg 
+Table 5 - SpecTRON 45 Hose  Specification s 
+4.4 Cable Specifications  
+ 630 mm²  Unit  
+Outside Diameter  68 mm 
+Minimum Bend Radius  680 mm 
+Storage Temperature Range  -25 to +60 °C 
+Minimum Manipulation Temperature  -25 °C 
+Max Pull Force  5 kN 
+Weight in air  9,1 kg/m  
+Resistance @ 20 °C  0,0292 mΩ/m  
+Capacitance (Core to Ground)  0,41  nF/m  
+Table 6 - SpecTRON 45 Cable Specifications  
+  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  19 of 56 
+ 
+Unrestricted  
+4.5 Other specifications  
+For all other specifications not included in the above tables, refer to product/project specific data 
+sheet(s), alternatively contact Technical Support connectortechnicalsupport.gb@Siem ens-
+energy.com . 
+  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  20 of 56 
+ 
+Unrestricted  
+5 HEALTH AND ENVIRONMENTAL INFORMATION  
+5.1 Environmental, disposal and recycling  
+Safe disposal or recycling of waste packaging and/or end of life product is recommended by correctly, 
+observing and complying with area, regional, national or inte rnational environmental legislation 
+where applicable.  
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety Officer at subsea.conne ctors.productsafety.gb@ siemens -energy.com
+. 
+Hazardous substances, Control of substances hazardous to health (COSHH) Assessments regards to materials such as elastomers and oils, etc. used in SpecTRON 45  products are available on request 
+from the Product Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com
+. 
+5.2 Personal protective equipment (PPE)  
+Personal Protective Equipment (PPE) is legally defined as ‘all equipment (including clothing affording protection against the weather) which is intended to be worn or held by a person at work and which protects the user against one or more risks to their health or safety’. 
+In the hierarchy of risk control, PPE is considered to rank lowest and represent the option of last 
+resort. PPE is only appropriate where the hazard in question cannot be totally removed or controlled in such a way that harm is unlikely (for example by isolating the hazard or reducing the risk at source to an acceptable level).  
+All company personnel and operators should wear appropriate Personal Protective Equipment (PPE) defined as a result of relevant risk assessments in accordance with the Personal Protective Equipment (PPE) Regulations.  
+ 
+Warning. Risk of m inor personal injury to persons with sensitivities to mineral , silicone,  or 
+synthetic based oil s.  
+- Wear appropriate hand protection when handling products, mineral , silicone,  or synthetic 
+based oils.  
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  21 of 56 
+ 
+Unrestricted  
+6 PREPARING PRODUCT FOR USE   
+6.1 Before installation  
+SpecTRON 45 products are manufactured primarily from Super Duplex stainless steel s and Inconel 
+625 materials , and as such are designed to withstand harsh saliferous environments. However, the 
+connector inserts and exposed parts are susceptible  to mechanical damage if not protected. Dust 
+caps or polyethylene protective caps must be fitted to all Siemens Energy Subsea  connectors before 
+transport.  
+ 
+ Caution.  Risk of material damage.  
+• Dust/protective caps must always be fitted during transport.  
+• It is recommended that caps remain in place until immediately prior to testing 
+activities or deployment subsea.   
+ 
+Connectors can be shipped singularly or in multiples. Care should be taken to protect the connector(s) 
+with bubble wrap or similar wrapping materials to avoid surface damage during transit. If large 
+numbers are shipped in one consignment suitably reinforced transport box will be necessary to 
+withstand the weight. See Figure(s) for details of transport box(es).  
+ 
+  
+Figure 1  Typical transport bo x for short (10 m) harness  
+Connectors are designed to withstand vibration that occurs during transportation and to withstand being dropped from a height of 1 metre whilst in packaging.  
+6.2 Unpacking  
+ 
+ Caution.  Risk of material damage.  
+• Do not use a knife to cu t the wrapping material, as this may cause damage to any 
+elastomeric parts of the connector.  
+• Do not remove dust/protection caps until connectors are ready for mating  
+• On removal do not allow the hoses to drag over the edges of a transport box.   
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  22 of 56 
+ 
+Unrestricted  
+ 
+Remove wrapping material taking care to inspect for any surface damage or separately packed 
+installation or spares kits which may have become separated from a connector. 
+6.2.1  Protective caps 
+All connectors come supplied with a protective cap. Protective caps (t ypically white in colour) are 
+typically attached to the products as shown in the images below, with the caps indicated with a red arrow.  
+   
+  
+Figure 2  Protective Caps on SpecTRON 45  
+The modules below use disposable screws to attach the caps to the connect or: 
+• Shallow Water Gland (M12 Screws) 
+• Umbilical Gland (M12 Screws) 
+• Jumper Gland (M12 Screws)  
+• Wet Mate Plug and Receptacle (Gland Interface, M12 Screws) 
+• Common Module Interface/Penetrator (M12 and/or customer specific screws)  
+For the front -end of the wet mat e connectors, the caps use plastic screws which engage with the 
+groove on the plug and the flushing holes on the receptacle.  
+6.3 Safe disposal of packaging  
+Dispose of the packaging correctly, observing and complying with area, regional, national and  
+international environmental legislation. Where possible recycle responsibly.  
+To return waste packaging to the manufacturer, contact the Product Safety Officer at  
+subsea.connectors.productsafety.gb@siemens -energy.com . 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  23 of 56 
+ 
+Unrestricted  
+6.4 Lifting  
+ Danger!   Risk of serious personal injury or death, and material damage to product  
+• Connectors must only be lifted at the locations specified below.   
+• Never use the cable or hose to lift or support a connector gland.  
+• All lifting operations should be performed by sui tably qualified personnel, in 
+accordance with applicable regulations where and when the lift is performed.  
+ 
+The table below shows the most common modules in the SpecTRON 45 product range and their most 
+appropriate lifting points.  It is intended as a guide to correct lifting locations and to aide specification of correct lifting equipment (e.g. lifting eyes, and slings) and is not a replacement for a well- designed 
+lifting plan.  
+Where a single lifting point is specified the centre of gravity is below the lifting point, and where two  
+or more  lifting points are specified, the centre of gravity is between the two points at a location which 
+may vary depending on the project specific configuration of the product. 
+For assemblies which consist of multiple modules from the table below, use the two outer lifting 
+points to ensure the centre of gravity is within the lifting points.   
+For more detailed lifting information or guidance,  contact Siemens Energy technical support 
+(connectortechnicalsupport.gb@siemens -energy.com
+). 
+ 
+Module Name  Mass (kg)  
+(in air)  Slinging  Comments/Notes  
+10” Compact Flange 
+Common Module 
+Interface 49 
+  
+Receptacle and Jumper Gland  160 
+  
+Plug and Jumper Gland 178 
+ Ensure choke is on 
+narrow band of plug 
+nose  
+Receptacle and Umbilical Gland  200 
+  
+Shallow Water Gland with Dry -Mate  85 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  24 of 56 
+ 
+Unrestricted  
+Shallow Water Gland 
+with Plug  175 
+ Ensure choke is on 
+narrow band of plug 
+nose  
+Shallow Water Gland with Receptacle  157 
+  
+Cable & Hose    Support with s oft s ling  
+every 5 m maximum   
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  25 of 56 
+ 
+Unrestricted  
+6.5 Installation and assembly  
+The compliant and fixed mounts for the SpecTRON 45 are shipped in the same packaging as the 
+connectors but are not assembled to the connector.  
+The connectors need to be routed to their final installation position before the mounting kit is used 
+to mount the connector to the module panel or mating head.  There is no requirement for alignment 
+between the connector and the module panel/mating head as the compliant and fix ed mount can be 
+attached in any possible alignment using the 15 -bolt pattern to avoid rotational strain in the jumper.  
+ 
+ Danger!   Risk of serious personal injury or death, and material damage to product  
+• Only use fasteners and equipment provided by Siemens as part of installation kit  
+• Connectors must only be lifted at the locations specified previously  
+• Never use the cable or hose to lift or support a connector gland.  
+• All lifting operations should be performed by suitably qualified personnel, in 
+accord ance with applicable regulations where and when the lift is performed.  
+• Do not remove the lifting equipment supporting the connector until the mounting 
+is fully assembled, including torquing.  
+6.5.1  Compliant Mount (Standard and Extended) Assembly  
+To assemble the compliant mount onto the connector:  
+1. Verify the correct spacing of the compliant mount points against Siemens drawing 00029936, 
+ensuring that the hole pattern used matches the compliant mount kit supplied.  
+ 
+2. Route the connector through the module and to the  mounting point  
+ 
+3. Attach the compliant mount arms to the connector using the M10 screws and the M10 Nord -
+Lock washers.  Tighten to a torque of 60 Nm.  
+ 
+   
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  26 of 56 
+ 
+Unrestricted  
+4. Bring the connector with the arms to the plate.  
+ 
+5. Thread the bobbins onto the arms  
+   
+6. Secure the bobbins to the mounting plate using 3 socket head cap screws and M12 Nord -Lock 
+washers, tighten to a torque of 100 Nm.  
+ 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  27 of 56 
+ 
+Unrestricted  
+7. Verify that all fasteners are correctly tightened.  
+ 
+ 
+ Danger!   Risk of serious personal injury or death, and material damage to product  
+• The connector will drop to the lowest position possible when the lifting equipment 
+and support is removed, this is intended behaviour of the compliant mount.  
+• Ensure all fasteners are properly tightened before removing any lifting equipment 
+or supports.  
+• Remove the lifting equipment and supports slowly to ensure that there is no sudden 
+movement of the connector.  
+ 
+8. Verify that the connector, hose and compliant mount are properly assembled and that they 
+can move freely within the mating head.  
+6.5.2  Fixed Mount Assembly  
+To assemble the fixed mount onto the connector:  
+1. Verify the correct spacing of the fixed mount points against Siemens drawing 00029937.  
+ 
+2. Route the connector through the mod ule and to the mounting point  
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  28 of 56 
+ 
+Unrestricted  
+ 
+ 
+3. Align the fixed mount segments with the connector flange and attach the fixed mount segments to the connector flange using 5 x M10 screws and Nord -Lock washers.  Tighten to 
+a torque of 60 Nm.  
+ 
+   
+ 4. Repeat for all three segments and lower the connector back onto the mounting face.  
+ 
+ 
+5. Attach the fixed mount flanges to the mounting face with 12 x M12 screws and Nord -Lock 
+washers, tighten to a torque of 100 Nm.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  29 of 56 
+ 
+Unrestricted  
+ 
+6. Verify that all fasteners are correctly tightened before  slowly releasing any supports and/or 
+lifting equipment.  
+ 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  30 of 56 
+ 
+Unrestricted  
+6.6 Storage and protection 
+ Caution.  Risk of corrosion to electrical contacts.  
+• If the connector has been tested in a wet environment, mate receptacle to a full 
+dummy plug, or if using a protective ca p ensure that the pin and cap are completely 
+dry (see section 6.6.3 ) 
+• If storage is carried out in high humidity or salinity conditions, e.g. on a ship’s deck 
+or hold,  or near a dockside, then full dummy connectors should be used.   
+ Caution.  Risk of material damage.  
+• Connector surface temperature must not exceed 60 °C, maximum storage 
+temperature accounts for solar gain.  
+• Suitable protection must be used to ensure maximum storage temperature is not 
+exceeded.   
+• Elastomeric components such as hose and connector termination kits should not be 
+stored near natural or artifi cial sources of ozone (e.g., high voltage electrical 
+equipment, laser printers, or welding operations) . 
+• Connectors  must not be exposed to combustion gases, organic vapour or 
+equipment which generate organic vapours.    
+ Caution.  Risk of material damage.  
+• Connectors should not be allowed to encounter solvents, oil, grease , or other semi-
+solid materials.  
+• No modification to the internal profile of the protection cap or any foreign materials 
+such as Silica gel should be introduced into protective caps , as these will lead to 
+damage of the critical seals and electrical contact areas.  
+6.6.1  Short term connector storage  
+Prior to i nstallation the connectors are sensitive to environments where grit and dirt are present. To 
+prevent ingress of the above, they should be stored in a clean dry area and be protected by bubble wrap or similar wrapping material. Dust/protective caps must be fitted.  
+6.6.2  Long term connector storage  
+Prior to installation the connectors are sensitive to environments where grit and dirt are present. To prevent ingress of the above, they should be stored in a clean dry area and be protected by bubble 
+wrap or similar wr apping material. Dust/protective caps must be fitted.  
+Connectors must be stored in a clean dry area. Suitable protection caps must be fitted, and the 
+storage temperature should be between -25°C and 60 °C.  Humidity of the storage room should be 
+between 10% and 60%. The equipment  should be protected from ozone, strong sunlight and strong 
+artificial light with a high ultraviolet content.  
+6.6.3  Connector Termination Kits 
+Elastomeric components supplied in termination or re -termination kits should  be kept in their 
+packaging until required for use.  The date of expiry stated on the packaging should be observed, as 
+should the following storage conditions.   
+• Temperature – the storage temperature shall be between 15 and 25°C and the components 
+will be stor ed away from direct heat sources. If the storage temperature falls below 15°C the 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  31 of 56 
+ 
+Unrestricted  
+components shall be handled carefully and the temperature of the components shall be raised 
+to approximately 30°C prior to use.  
+• Humidity – the relative humidity shall be at a level that prevents condensation occurring as a result of temperature fluctuations.  
+• Light – the elastomeric components shall be protected from light sources including direct 
+sunlight and artificial light having a high ultraviolet content.   
+• Ozone – elastomeric components shall not be stored near ozone generating equipment (e.g. 
+high voltage electrical equipment, laser printers) or operations (e.g. welding).  The storage 
+area must also be free from combustion gases and organic vapour and equipment that 
+generate organic vapours.   
+• Stress – components shall be stored free from superimposed tensions and compressive 
+stresses or other causes of deformation.  
+• Radiation – components shall be protected from all sources of ionizing radiation.   
+6.6.4  Subsea Storage  
+ Caution.  Risk of corrosion to electrical contacts.  
+• In a subsea environment the receptacle connector must be mated to full dummy 
+plug or subsea rated protective cap when not mated to a plug.  
+• Over the life of the connector, the receptacle pin contact cannot be left exposed for more than 28 days cumulatively. 
+If the connectors are to be left unmated in seawater dummy connectors or subsea protective cap must be used to protect the pin contacts in the receptacle connectors. Over exposure will increase the risk of corrosion damage or marine growth on the contact surfaces of the receptacle contact pins. This could lead to damage to the seals and insulation within the socket contacts.  
+Plugs can be stored subsea indefinitely without any protection, however Siemens Energy offer 
+parking receptacles and protective caps which can minimise marine growth and contamination.  
+6.7 Repackaging to prevent damage in transport  
+In the event of a requirement to return any product back to the manufacturer ( Siemens Energy  
+Subsea Connectors), it is recommended that the original dust/protective cap is fitted to the 
+connector(s)  after cleaning  and care should be taken to protect the connector(s) with bubble wrap 
+or similar wrapping materials to avoid any surface damage. I t is recommended that a suitably 
+reinforced box be used to withstand the weight. Contact Technical Support connectortechnicalsupport.gb@siemens -energy.com
+ to discuss details of typical boxe s.  
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  32 of 56 
+ 
+Unrestricted  
+7 OPERATION  OF PRODUCT  
+7.1 Energising Wet Mate Pair  
+ 
+ Danger ! Risk of death from electric shock.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to discharge any residual voltage to discharge 
+before de- mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a plug  
+ Caution.  Risk of material damage.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to discharge any residual voltage to discharge 
+before de- mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a plug  
+ 
+SpecTRON 45 connectors should be integrated and managed as part of a well -designed high voltage 
+system with appropriate validation of system status and connections before energisation.   
+When performing high -voltage testing of an electrical system containing SpecTRON 45, Siemens offer 
+appropriate test equipment which can be used to provide sa fe termination of wet -mate and dry -mate 
+connectors.  Product marking on the test equipment must be verified to ensure that they are appropriately rated.  
+7.2 Deployment  
+ 
+ Caution.  Risk of material damage.  
+• The maximum deployment rate for SpecTRON 45 connectors is 20 bar/minute.   
+ 
+Refer to project specific data sheets and scope of supply drawings for performance specifications and 
+detailed deployment instructions.   
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  33 of 56 
+ 
+Unrestricted  
+7.3 Hose Management and Routing  
+ 
+ Caution.  Risk of material damage.  
+• The maximum unsupported hose length in water during ROV operations for 
+SpecTRON 45 harnesses (single and bundled) using AquaTRON 350 hose and 630 
+mm² cable is 50 m  
+• Maximum unsupported horizontal hose length  in air and water  for SpecTRON 45  
+harnesses is 2m  
+• Maximum unsupported vertical hose length in  air and  water for SpecTRON 45 
+harnesses is 5m  
+• Hose should be routed in a manner to avoid bending beyond the MBR under any 
+circumstances. Care should be taken when designing mounti ng arrangements for 
+hose and compliant mount connectors to ensure that the compliance does not bend 
+the hose beyond its MBR.  
+ 
+The weight of hose in air will vary from that in water (refer to section 4.3 for weights in air and water). 
+Topside the weights can be significantly different to the weight in water and efforts should be made 
+to avoid application of excessive weight to avoid exceeding the MBR or causing kinking.  We 
+recommend th at the maximum unsupported hose length in air is 2 meters. At bends the cable must 
+be supported at tangents to maintain the MBR around the bend. 
+   
+Figure 6 - AquaTRON hose at minimum bend radius  
+The hose is resistant to  bending/ kinking however application of snag force due to unsuitable routing 
+(ignoring hose MBR) or ap plication of force due to unsupported hose weight may cause damage to 
+the conductors or terminations and efforts should be made to avoid this during all applications 
+topside or in water.  
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  34 of 56 
+ 
+Unrestricted  
+       
+Figure 7 - Incorrectly routed AquaTRON hose  
+Particular efforts should be made to support the hose where it exits the rear of the connector, 
+particularly if the hose is to be routed immediately in an orientation contradictory to the connector (e.g. immediate fall in routing – see Figures below).  
+ 
+ 
+Figure 8 - Immediate fall in routing  
+  
+Figure 9 - Hose kink due to immediate fall in routing and weight application  
+Siemens recommends the use of “formers” to avoid exce eding the MBR of the hose when exiting the 
+connector or passing over acute angled surfaces (through or around structures).  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  35 of 56 
+ 
+Unrestricted  
+7.3.1  Recommend Hose Former Designs  
+Detailed below are some recommended shapes of former that may be utilised to aid routing of hose 
+during  SIT or structure routing (deployment).  
+ 
+RECOMENDED FORMER DESIGNS  
+ 
+Figure 10 - Plate Former  
+ 
+Figure 11 - ‘U’ Former 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  36 of 56 
+ 
+Unrestricted  
+ 
+Figure 12 -  ‘L’ Former  
+7.3.2  Fixed Installations 
+Routing  
+To aid routing of hose within MBR and support free hanging hose greater than 5m, formers can be 
+produced to Siemens recommended design (See section 7.2.1) or to client specific design, and 
+permanently fixed to the client’s structure via welding or bolt patter n. 
+ 
+ 
+Figure 13 - Permanent fixed ‘U’ former  
+Clamping  
+Siemens Energy recommends that plastic clamps with elastomer insert are used to secure the hose (such as a Stauff pipe clamps with the correct inside diameter, refer to section  4.3 for hose 
+diameters).  
+Careful consideration should be given to the placement of the first clamp on a compliant mount 
+connector so as not to restrict the compliancy of the connector or impart stresses into the hose and cable. Where clamping is required on compliantly mounted con nectors, it is recommended that an 
+‘S’ type arrangement or similar as shown in Figure 15 is utilised to take up the potential movement 
+of the connecto r.  The hose should not be clamped any closer than  1 00 0 mm  measured along the 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  37 of 56 
+ 
+Unrestricted  
+length of the hose  to the start of the hose adaptor on a compliant mount connector and 250 mm for 
+a fixed mount connector or penetrator as shown below.  
+ 
+ 
+Figure 14 - Minimum clamp spacing from fixed mount connector   
+ 
+ 
+ 
+Figure 15 - Clamping of hose on compliant connector  
+7.3.3  Dynamic Installation (SIT Layout) 
+To aid the support of hose during SIT, formers can be produced to Siemens recommended design 
+(See section 7.3.1) or to client specific design, and temporarily fixed to the client’s structures via the use of tie wraps or clamps.  
+ 
+Figure 16 - Example of temporary hose support during SIT  
+Compliantly 
+mounted connector  Stauff clamp or 
+similar  
+Tie wraps  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  38 of 56 
+ 
+Unrestricted  
+The maximum recommended vertical length of hose which can be unsupported (hang) in air is 5 
+meters, however the MBR of the hose must still be observed at the hose exit of a connector or change 
+from horizontal to vertical orientation before allowing 5m of hose to hang freely.  
+ 
+ 
+Figure 17 - Example of support for immediate fall in hose routing  
+Figure 17 shows an example of an immediate fall in routing from an inline plug. The image sho ws 
+how the hose may be supported using formers mounted to the customer’s structure. If a system like 
+Figure 17 is to be used, then Siemens Technical m ust be consulted to assess the impact on the 
+connectors and their terminations.  
+During SIT the hose termination has significant weight (refer to section 4.3 for hose weights) and 
+efforts should be made to avoid hanging of this weight from the connector termination itself. This could also be combated by providing a temporary elevated floor for SIT via the use equipment such 
+as scaffolding, scissor lifts  and ladders etc or alternatively a fabricated stand with a former attached. 
+See Figure 18 . 
+ 
+Figure 18 - Fabricated stand wi th former used for hose support  
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  39 of 56 
+ 
+Unrestricted  
+7.4 Hose Buoyancy Subsea  
+SpecTRON 45 electrical flying leads (harnesses) under or equal to 6 0m require no buoyancy aids for 
+subsea deployment.  
+SpecTRON 45 electrical flying leads over 60m require buoyancy aids suitable to sup port 6,9 kg (see 
+section  4.3) per metre length in excess of 60m.  For example, a n 80 metre EFL requires buoyancy 
+aids to cover 20 metres of additional hose weight which is 138 kg (20  * 6.9 = 138 kg).   
+These buoyancy aids  should be spaced evenly to ensure that the termination on each end of the 
+jumper is not loaded with more than 30 metres of jumper.  
+The buoyancy aids should be attached to the jumper with a soft sling.  
+7.5 Umbilical Power Core Management and Termination  
+7.5.1  Routin g 
+For site terminated and factory terminated umbilical connectors s ervice loops should be planned into 
+an umbilical termination assembly to give enough length for re -termination (site terminated 
+connectors) or re- splicing (factory terminated connectors) pu rposes and to facilitate the termination 
+of the umbilical receptacle outside of the UTA.  
+If it is not possible to provide a service loop are not possible then overlength should be provided in 
+the power core routing.  A minimum length of 0,5 metres is requ ired for re -termination  of site 
+terminated connectors , in addition to the length required to manoeuvre the connector outside the 
+UTA structure.   For splices on factory terminated connectors, please refer to umbilical provider 
+guidance.  
+ 
+ 
+Figure 19 – Typical (SpecTRON 10 shown) Umbilical Receptacle Side on Termination (outside UTA)  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  40 of 56 
+ 
+Unrestricted  
+7.5.2  Clamping  
+ 
+Figure 20 - Umbilical clamping position  
+Umbilical cable can be clamped at a minimum of 5 00 mm in line with the axis of the connector to aid 
+with routing and support.  
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  41 of 56 
+ 
+Unrestricted  
+7.6 Connecting Wet Mate Pair Subsea  
+ 
+ Caution.  Risk of material damage.  
+• Any mating equipment used to mate the SpecTRON 45 must be d esigned in 
+accordance with the misalignment and interface guidance provided by Siemens 
+Energy Subsea  to avoid damage to the connector pair.  
+ Warning.  Risk of injury from trapping of limbs in mating tools  
+• Any mating equipment used to mate the SpecTRON 45 connector pairs should be 
+in compliance with applicable standards and regulations for machinery.  
+ 
+The SpecTRON 45 wet mate pair cannot be mated subsea without specialised mating and locking 
+equipment (mating tool).   The maximum mate/de- mate sp eed for the SpecTRON 45 connector is 30 
+mm/s.  
+7.7 Temporary Connection of Wet Mate Pair  
+ Warning.  Risk of musculoskeletal injury from mating  heavy connectors  
+• Connectors should always be moved using appropriate lifting equipment and 
+methods  
+• During mating of the connectors, the hose and cable should be supported so that 
+they do not induce unforeseen movement or strain in the connectors.  
+• Only use  equipment and procedures specified by Siemens.  
+ 
+For connection of a wet mate pair in a test or workshop environment  without a separate subsea 
+mating tool, Siemens offer a mating kit (S1U10509597) which allows the connectors to be mated 
+using simple tooling in a safe manner using standard bar clamps (e.g. Irwin Quick -Grip) (600 mm 
+clamping length) which can be purchased  separately.  
+7.7.1  Mating the connectors 
+1. Attach mating lugs/ears to the two connector halves using the M12 bolts  
+ 
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  42 of 56 
+ 
+Unrestricted  
+ 
+2. Lift the connectors onto the supports  
+ 
+ 
+3. Align the two connector halves and engage the plug into the receptacle 
+ 
+ 
+4. Use clamps to drive the two connector halves together.  When the receptacle hits the plug 
+nose support, remove it.  
+ 
+ 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  43 of 56 
+ 
+Unrestricted  
+5. Continue to use the two clamps to draw the connectors together until the mating faces 
+close . 
+ 
+ 
+ 
+6. Remove the clamps one at a time and replace with the stud iron to clamp the two connector 
+halves together.  Ensuring that the insulating sleeves are fitted to the stud and nut to isolate them from any electrical testing.  
+ 
+ 
+ 
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  44 of 56 
+ 
+Unrestricted  
+7.7.2  De-mating the connectors 
+ 
+1. Slowly remove the clamping rods, there should be no force push ing the connectors apart.   
+ 
+ 
+ 
+2. Use the clamps between the lugs to slowly push the connectors apart.  
+ 
+ 
+3. When the groove on the plug is visible, slide the plug nose support under the plug  
+ 
+ 
+ 
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  45 of 56 
+ 
+Unrestricted  
+4. Continue to push the connectors apart with the clamps until then is an audible click as the 
+shuttle pin disengages  
+ 
+ 
+5. Slide the connectors apart  
+ 
+ 
+7.8 Quick Connect (Dry Mate)  
+ 
+ Caution.  Risk of material damage.  
+• Siemens strongly recommend that the Quick Connect / Dry -Mate operation is only 
+performed by Siemens or sui tably certified personnel in possession of the correct 
+equipment and documentation.   
+ 
+The SpecTRON 45 connector family offers a dry- mate system between the connector gland 
+component and connector/penetrator “front -end” module.  
+This operation should only be carried out by Siemens or other suitability certified personnel in 
+possession of the correct equipment and work instructions.  Please contact Siemens Energy Subsea  
+for more information on training, certification and termination services for SpecTRON 45 provided by Siemens Energy Subsea . 
+  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  46 of 56 
+ 
+Unrestricted  
+7.9 Testing  
+ Danger!  Risk of death from electric shock.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to allow any residual voltage to discharge before 
+de-mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a plug  
+• An appropriate test connector must always be used to make electrical contact 
+during testing.  
+• Under no circumstances should a foreign object (such as a screwdriver, test probe 
+or crocodile clip) be used as a test connection  
+ Caution.  Risk of material damage.  
+• Any mating equipment used to mate the SpecTRON 45  connector pairs must be 
+designed in accordance with the misalignment and interface guidance provided by Siemens Energy to avoid damage to the connector pair.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to allow any resid ual voltage to discharge before 
+de-mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a plug  
+• An appropriate test connector must always be used to make electrical contact during testing.  
+• Under no circumstances should a foreign object (such as a screwdriver, test probe 
+or crocodile clip) be used as a test connection as this could damage the seals and 
+insulation. Such actions will invalidate the product warranty.  
+7.9.1  Test connectors  
+SpecTRON 45 test connectors are available in configurations to support all interfaces within a project, specifically, plug, receptacle, and dry -mate interfaces  as shown in Figure 21 .   
+ 
+Figure 21 - SpecTRON 45 Test Jumper Configurations (without protective caps)  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  47 of 56 
+ 
+Unrestricted  
+SpecTRON 45 test connectors are supplied with a heat -shrink cable termination on the free end of 
+the cable, which is sensitive to bending after it has been installed onto the cable.  Bending of the test 
+termination should be installed and it should be correctly supported during testing/operation.  The 
+termination can be installed vertically, or horizontally with supports  and HV clear ance/flashover 
+distances  as shown below  
+ 
+Figure 22 - SpecTRON 45 Test Termination Support and HV Clearances  
+7.9.2  Test Levels  
+The SpecTRON 45 connectors and penetrators are subjected to a complete FAT program as part of 
+the manufacturin g process.  Penetrators will also be subjected to SIT testing after installation by 
+Siemens Energy Connectors onto customer equipment (e.g. transformers, motors).  
+It is also possible for customers to perform additional testing, subject to the restrictions outlined 
+below.  
+7.9.3  Electrical Tests 
+• Insulation resistance tests  
+o Connectors may be subjected to IR tests at voltages of up to 5 kV.  It is not possible to 
+give a universal acceptance criterion as the result is dependant on the test 
+arrangement, cable/harness lengths, and the equipment (e.g. motor, transformer) 
+under test.  
+o IR testing of unmated receptacles can be performed with the protective cap fitted to the receptacle. The protective cap and receptacle contact pin must be clean and dry in accor dance with the cleaning process outlined in section 9.1.  Contact must be 
+made from the opposite end of the jumper or umbilical power core.  
+ 
+• Line resi stance tests  
+o Connectors and penetrators can be subjected to line resistance tests either at low current or rated current.  Please consult connector or project specification before commencing a test at rated current.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  48 of 56 
+ 
+Unrestricted  
+ 
+• High Voltage Testing  
+o Although it is pos sible to carry out high voltage AC or DC tests of connectors, jumpers 
+and penetrators, Siemens Energy Connectors technical department should be 
+consulted before starting any testing.  
+ 
+• Partial Discharge Test  
+o Please consult Siemens Energy Connectors technica l department before carrying out 
+partial discharge (PD) testing of harnesses, connectors and penetrators.  
+7.9.4  Pressure/Hydrostatic Tests  
+• Hydrostatic Tests  
+o Connectors can be subjected to hydrostatic test pressures as defined by the connector 
+and harness datashe ets. 
+ 
+• Differential Pressure Testing (Penetrators)  
+o Penetrators can be subjected to differential pressure testing as defined in the project 
+requirements or connector datasheet.  
+ 
+• Gas Testing (Penetrators)  
+o Penetrators can be subjected to low pressure helium leak testing of environmental 
+seals, but must not be tested using high pressure gas. It is not possible for the end 
+user to perform leak testing on connectors or harnesses.  
+7.9.5  Visual Inspection 
+After any systems integration test, a full inspection of a ll SpecTRON equipment tested should be 
+carried out. Focus should be on critical areas such as the receptacle pin, and receptacle shroud screen contact which should be free from any mechanical damage such as scratches or pitting.  
+If the SIT requires the SpecTRON equipment to be partially or fully submerged in water or seawater they must undergo a full cleaning process outline in section 9.1 whether they  are to be placed in 
+storage or to remain on the structure for deployment.  
+ 
+ 
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  49 of 56 
+ 
+Unrestricted  
+7.10 Disposal of waste products  
+Safe disposal or recycling of waste/end of life product is recommended by correctly, observing and 
+complying with area, regional, national, or international environmental legislation where applicable.  
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com
+. 
+ 
+7.11 Quick references  
+For quick reference of the product, see section 1.4, which provides basic warning, caution and 
+contact details among other information.  
+In addition to the above, some details are also listed on the product label  and marking  such as, system 
+type , part number (P/N), serial number (S/N), electrical, pressure and temperature rating  as detailed 
+in Sections 1.4  and 1.5. 
+  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  50 of 56 
+ 
+Unrestricted  
+8 USER INFORMATION  
+8.1 Normal and faulty/dangerous operation  
+8.1.1  Visible oil discharges from connector  
+During normal operation of the SpecTRON 45 wet mate pair, it is normal for a film of oil to be left on 
+the receptacle pin after mating.  There may also be some oil residue from assembly left in the compensation volume within the connector which may be visible during initial wetted testing.  
+Continuous, or heavy leakage of oil from t he compensation ports on the gland and plug, or from the 
+plug nose may be evidence of damage to the connector internals.  
+8.1.2  Protection of receptacle contact pins  
+ 
+ Caution.  Risk of material damage.  
+• Under no circumstances must the contact pins in the receptacle connector be 
+exposed to seawater with power on. If this situation does occur the contact surfaces of the pins will very rapidly degrade by electrolytic action.  
+• If these damaged pins are subsequently mated into a socket insert there is a very 
+high risk  of damage to the insulation and seals within the plug connector.  
+ 
+If the connectors are to be left unmated in seawater dummy connectors and subsea protective caps 
+must be used to protect the pin contacts in the receptacle connectors.   The maximum c umulative 
+time for which the pin contacts can be exposed to sea -water over the entire lifetime of the connector 
+is 60 days.  
+Over exposure will increase the risk of corrosion damage or marine growth on the contact surfaces 
+of the receptacle contact pins. Th is could lead to damage to the seals and insulation within the socket 
+contacts.  
+8.2 Cathodic Protection  
+Siemens Energy SpecTRON 45 Connectors are offered in Super Duplex stainless steel (UNS 
+S32550/UNS S32760) only.  
+8.2.1  Super Duplex (UNS S32550 /UNS S32760 , Siemen s Energy  Connectors Material 
+“BQ”)  
+Super Duplex stainless steel connectors and penetrators do not require a connection to a  CP system .    
+However, Siemens Energy  supply CP strap s with Super Duplex connectors,  which can be used to 
+provide electrical continuity during testing.  The CP strap is manufactured in 316 stainless steel with a cross section of 16 mm
+2, and a M6 spade terminal for connection to the CP system.  
+8.3 Troubleshooting (FAQ’s)  
+For any questions not included below, please contact any of the following:  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  51 of 56 
+ 
+Unrestricted  
+Department  E-mail address  
+Product Safety  subsea.connectors.productsafety.gb@ siemens -energy.com  
+Technical Suppo rt connectortechnicalsupport.gb@ siemens -energy.com  
+Installation and Servicing  susultlcmsupport.gb@ siemens -energy.com  
+Sales  connectorsales.gb@ siemens -energy.com  
+Table 7 - Troubleshooting product contact details  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  52 of 56 
+ 
+Unrestricted  
+9 PRODUCT MAINTENANCE 
+ Danger ! Risk of death from electric shock.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to discharge any residual voltage to discharge 
+before de- mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a  plug  
+ Caution.  Risk of material damage.  
+• Connectors must not be de -mated whilst live.  
+• Allow sufficient time for system to discharge any residual voltage to discharge 
+before de- mating connectors  
+• Connectors must be fully mated before energisation  
+• Receptacles must not be energised unless mated to a plug  
+9.1 Connector Cleaning and Drying  
+ Caution.  Risk of corrosion to electrical contacts.  
+• Connectors should be mated to a dummy plug or cleaned as detailed below after 
+deployment or contact with water.  
+ Warning. Risk of eye injury  
+• Wear appropriate eye protection when using compressed air to remove water or 
+isopropyl alcohol from the connector internals  
+ Warning. Risk of skin irritation  
+• Wear appropriate hand protection when using isopropyl alcohol to clean 
+connection components  
+9.1.1  Receptacle Protective Caps  
+• Remove seals and grub screws  
+ 
+ 
+Figure 23 - Disassembled receptacle protective cap  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  53 of 56 
+ 
+Unrestricted  
+• Clean seals and body with fresh water  
+• Rinse with Isopropyl Alcohol (IPA absolute alcohol 100%)  
+• Allow to dry (can be placed in an oven at 50°C for 1 hour if required)  
+• Check all parts to ensure they are free from dried salts  
+• Reassemble cap using a small amount of silicone grease on the seals  (see Figure 23).  
+9.1.2  Receptacle  
+ 
+Figure 24 – Receptacle Components for drying and cleaning  
+• Rinse the whole pin well with fresh water  
+• Wipe using lint free tissue if required  
+• Rinse with Isopropyl Alcohol (IPA absolute alcohol 100%)  
+• Allow Receptacle pin groove to completely dry  
+• Inspect the receptacle pin contact area, t here should be no damage present ( Figure 25 ).  
+ 
+    
+Figure 25 - Receptacle pin contact area as supplied  
+• Perform a mate  with a Plug connector to lightly coat the receptacle pin in oil. If no plugs are 
+available contact Siemens Energy for Midel 7131 oil, which can then be applied directly to the 
+pin using a clean, soft lint -free cloth.  
+• Protective cap must be refitted at this stage. It is critical that both the protective cap , 
+receptacle shroud and pin  are clean and dry before fitting .  This  is to ensure that moisture is 
+not trapped aro und the pin contact area, which could result in corrosion  of the receptacle pin . 
+  
+Receptacle Pin C ontact  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  54 of 56 
+ 
+Unrestricted  
+9.2 Product maintenance (skilled persons)  
+9.2.1  Removal of Marine Growth and Calcareous Deposits 
+ Warning.   Risk of minor personal injury to persons with sensitivities to a solution of 50% 
+Citric Acid.  
+ 
+• Wear appropriate hand , skin,  and eye protection when handling.  
+ Caution.  Risk of material damage.  
+• Other acid cleaners, such as 50% Acetic Acid, should not be used as they may cause 
+deterioration of the elastomeric materials.  
+• Chiselling and abrasive methods are not recommended. Use of a water jet is 
+acceptable, but the jet should not be directed into t he shuttle pins at the front of the 
+plug as this could result in a risk of water being forced through the primary seals . 
+• If performing this operation topside, rinse the connector with water when complete.  
+To remove cal careous growth from Siemens Energy Subsea  connectors, a solution of 50% Citric 
+Acid is recommended. All seawater exposed elastomeric materials in Siemens Energy Subsea  
+connectors have been fully tested against 50% Citric Acid and are compatible for a duration of 1 
+hour. In addition, the thermoplastic materials have a good resistance to citric acid.  
+
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  55 of 56 
+ 
+Unrestricted  
+10 CUSTOMER COMMENTS/FEEDBACK  
+Please complete the Sign Off section at the bottom of form to confirm each page of this document 
+has been read and complied with in full.  
+Originator Name and Ini tials (BLOCK CAPITALS)  Date  
+  
+ Contact Details   Contact Details 
+  
+Project Reference Customer Region 
+   
+Product Type  Part Number (P/N)  Serial Number (S/N)  
+   
+Please enter details below e.g. comments; complaints; evidence of good practice; incident 
+reports; observations and recommendations, including any associated with health, safety or the 
+environment, etc., also include any names/contact details of other relevant personnel. 
+  
+ 
+Sign Off Section  
+Name (BLOCK CAPITALS)  Signature  Date  
+   
+Please e-mail completed form to the Product Safety Officer at the following address: 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+  Document No:  10051285  
+ Issue Date:  22/10/2021  
+ Revision:  02 
+ Page:  56 of 56 
+ 
+Unrestricted  
+ 
+ 
+Published by  
+ 
+Siemens Energy Limited  
+Faraday House  Sir William Siemens Square  
+Frimley, Camberley  
+Surrey  
+GU16 8QD , United Kingdom  
+For more information, please visit our website:  
+siemens -energy.com/ subsea  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically  reflect those described, or which may undergo 
+modification in t he course of further development of the products. The 
+requested performance features are binding only when they are expressly 
+agreed upon in the concluded contract.  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.     
+   

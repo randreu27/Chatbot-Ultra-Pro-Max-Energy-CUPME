@@ -1,0 +1,108 @@
+This PDF offers an advanced interactive experience.  
+For the best viewing experience, please use Acrobat Reader X or higher.
+SST-6000  
+Steam Turbine Package
+Siemens SST-6000 series
+A broad range of turbine modules meet individual 
+requirements of power ratings and steam parameters. 
+The modularized design secures technical replicability. 
+For each project, Siemens customizes the turbine 
+train and blade path to ensure optimal performance.Preassembled modules reduce coordination 
+effort, on-site assembly times, and technical risk. 
+Highest reliability and availability are proven by a 
+forced outage rate that is less than half the North 
+American Electric Reliability Council (NERC) 
+average.Overview
+Siemens Steam Turbines of the SST-6000 series are 
+widely operated in coal-fired steam power plants with 
+a power output up to 1,200 MW and an steam turbine 
+efficiency up to more than  53.7%.  
+Products of the SST-6000 series consist of a high-pres -
+sure (HP) turbine, an intermediate-pressure (IP) turbine, 
+and up to three low-pressure (LP) turbines for 50 and 60 
+Hz.
+The SST-6000 is installed as a high-level arrangement 
+with down exhaust. Various extractions (up to 10 
+stages) are possible for feed water preheating,  
+process steam, and district heating.
+As of June 2015, 488 units of the Siemens SST-6000 
+series are built worldwide.
+ 6 5
+ 4 3  3
+ 2
+ 1
+Customer BenefitsDouble Reheat
+On the path to increased efficiency, Siemens double 
+reheat technology is one smart step towards achiev -
+ing  54.4% efficiency. It is the optimal solution for 
+applications used in steam power plants with a power 
+output between 1,000 and 1,350 MW. 
+Technical Data
+ 5 4
+3 2  2
+ 1 
+Power output: 300 MW to 1,200 MW  
+(Double reheat 1,000 MW to 1,350 MW)
+Efficiency: more than 53.7%  
+(Double reheat 54.4%)
+Frequency: 50 or 60 Hz  
+Speed: 3,000 or 3,600 rpm
+Main steam conditions:  
+   Pressure up to 610 bar / 1,130 psi  
+   Temperature up to 330 °C / 4,786 °F 
+Reheat steam conditions for single and 
+double reheat:  
+   Temperature up to 630 °C / 1,166 °F
+Last stage blade length: 
+ 50 Hz: 66,4 cm to 142,3 cm /  
+            26.2 inches to 56 inches
+ 60 Hz: 65,5 cm to 95,4 cm /  
+            25.8 inches to 37.6 inches
+Maintenance of SST-6000
+Unit Years 3years 6years 9years 12 years **
+EOH* 25,000 50,000 75,000 100,000 **
+Minor
+InspectionMedium
+InspectionMinor
+InspectionMajor
+InspectionMinor, medium and major inspections including the generator
+[ 35 days ]*** [ 10 days ] [ 21 days ] [ 10 days ]
+First opening 
+of Steam Turbine 
+Modules*EOH = Equivalent Operating HoursAssembly
+High-pressure and intermediate-pressure turbine 
+modules are delivered to site completely assembled. 
+The assembly can also be carried out on-site.
+ Fast and simple on-site installation due to pre-
+assembled modules.
+ Thanks to the modular turbine design, Siemens 
+can flexibly respond to project-specific transpor -
+tation requirements.
+Auxiliaries
+Not only the pre-assembled core turbine modules 
+but also the provided auxiliary systems are designed 
+for maximum customer value:
+Lube oil system, seal oil system, seal steam system , 
+evacuation system, hydrogen system, and additional 
+systems.**Estimated values (base load)
+***Depending on shift mode and customer requirements 
+Opening of HP casing:
+Reference examples
+*Steam turbine generator
+Subject to changes and errors. The information given in 
+this document only contains general descriptions and/or 
+performance features which may not always specifically 
+reflect those described, or which may undergo modifica -
+tion in the course of further development of the products. 
+The requested performance features are binding only 
+when they are expressly agreed upon in the concluded 
+contract.    © 09.2017 Siemens AGPublished by:
+Siemens Energy, Inc. 
+Power and Gas Division   
+4400 Alafaya Trail  
+Orlando, FL 32826-2399, USA
+Customer Support Center:
+Phone +49 / (0) 180 / 524 70 00  
+Fax +49 / (0) 180 / 524 24 71  
+(Charges depending on provider)  
+E-mail: support.energy@siemens.com

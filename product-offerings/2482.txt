@@ -1,0 +1,262 @@
+A KHL Group publicationCAT’S NEW HMI PANEL                                       
+UNIFORMITY FOR ENGINES           NEW SIEMENS’ MILESTONES    
+SGT-750 GAS TURBINEA FIRST FOR MAN MAX1
+BLAST FURNACE INSTALLATION
+OCTOBER 2019 |  www.compressortech2.com
+VOLUME 24 | ISSUE 8
+   
+Karen 
+Buchwald 
+Wright:
+A look at Ariel’s 
+past, present 
+and near future
+EXECUTIVE 
+OUTLOOK:
+Francesca 
+Cozzani
+EXECUTIVE OUTLOOK:
+EXECUTIVE 
+OUTLOOK:
+Francesca 
+Cozzani
+EXECUTIVE 
+OUTLOOK:
+Francesca 
+Cozzani
+CT2 10 2019 Front Cover JG DJ BARN DOOR.indd   1 23/09/2019   17:11:57
+PRODUCT NEWS
+SIEMENS’ SGT-750
+SGT-750 gas turbine 
+hits new milestones 
+In recent years, oil and gas operators 
+across the supply chain have faced 
+increased pressure to improve efficiency 
+and minimize environmental impacts. During 
+this time, Siemens’ SGT-750 industrial gas 
+turbine has been frequently selected for 
+power generation and mechanical drive 
+applications. 
+Optimized for direct drives without 
+intermediate gears and with a rotational 
+speed of 6100 rpm, the 41 MW SGT-750 gas 
+turbine enables long intervals between 
+maintenance events, helping customers 
+increase production uptime and reduce 
+facility lifecycle costs, Siemens said. Since the first unit went into service in 
+2013, the fleet has accrued more than 61,000 
+hours of operating service worldwide.
+In 2018, the SGT-750 turbine underwent 
+its first hot path overhaul at 36,000 hours. 
+The components that were inspected 
+showed minimum wear and demonstrated 
+the capability to further extend the overhaul 
+cycle, Siemens said.
+The SGT-750 goes to Mexico
+In 2015, Siemens supplied three SGT-750s 
+to Mexican midstream operator Fermaca 
+for use in its El Encino compression 
+station in Chihuahua. The trains recently 
+became operational and play a key role in 
+transporting natural gas from Waha, Texas, 
+to power plants and industrial parks in 
+Chihuahua, Coahuila and Durango, as well 
+as to central and western Mexico. The three 
+turbocompressor trains have an installed 
+rated power output totaling 155,000 hp 
+(115,583 kW) and a compression capacity of 
+1.2 Bcfd (33.9 X 106 m3/d). 
+The Fermaca project marks the first installation where an SGT-750 is being 
+used as a mechanical drive unit coupled 
+with STC-SV pipeline compressors. The 
+turbine provides a 13-stage compressor 
+with a pressure ratio of 24:1 and mechanical 
+efficiency of 41.6%. The SGT-750 minimizes 
+starting power requirements but delivers a 
+high starting torque and variable compressor 
+speeds from 50% to 105%. 
+North of the border  
+Earlier this year, Encana selected the SGT-
+750 for its Pipestone processing facility in 
+Alberta, Canada. For the project, Siemens 
+will provide one feed and sales gas train, 
+along with a refrigeration compression train. 
+The feed and sales gas train will use an 
+SGT-750 to drive two Dresser-Rand Datum 
+compressors, combined with a Siemens 
+waste heat recovery unit for process heat. 
+The refrigeration train will consist of an 
+electric motor-driven Datum compressor 
+with a Siemens variable frequency drive. The 
+Datum compressor line is suited for unspared 
+feed/sales gas and refrigeration compression KIRK STALIS  has more than 20 
+years of experience in the rotating 
+equipment industry in various roles 
+in engineering, project management, 
+business development, commercial and 
+proposals management. He serves as the 
+Proposal Director for Gas Turbines for Siemens 
+Oil and Gas.
+THE AUTHOR
+FIGURE    Siemens’ SGT-750 industrial gas 
+turbine, which is optimized for direct drives 
+without intermediate gears and with a 
+rotational speed of 6100 rpm.Siemens equipment gets selected for midstream, 
+downstream, offshore applications. By Kirk Stalis
+REPRINTED FROM COMPRESSORTECH2 OCTOBER 2019
+PRODUCT NEWS
+SIEMENS’ SGT-750
+applications, Siemens said.
+The Pipestone processing facility will 
+provide Encana with 19,000 b/d of net raw 
+condensate processing capacity, plus 170 
+MMcfd (4.8 X 106 m3/d) of net inlet natural 
+gas processing capacity. Keyera will own the 
+Pipestone processing facility and provide 
+processing services to Encana. The facility 
+will have a total processing capacity of 200 
+MMcfd (5.7 X 106 m3/d) and is expected to 
+start up in 2021. 
+The project marks the first gas processing 
+plant application of the SGT-750 in North 
+America.  Siemens will supply all the 
+equipment for the two compression trains, 
+which will reduce interfacing complexity for 
+Encana and contribute to streamlined project 
+delivery, Siemens said.
+Something new in the downstream
+Another SGT-750 milestone occurred this 
+year when the first-ever downstream 
+application of the unit became operational in China. The turbine (Figure 1) is being 
+used to drive two Siemens single-shaft 
+STC-SH compressors for a reactor effluent 
+compressor train at Zhejiang Satellite Energy 
+Co.’s propane dehydrogenation (PDH) plant in 
+the Zhejiang province. 
+This order follows a previous one from 
+Zhejiang Satellite Energy for the PDH project 
+in 2013, which consisted of a compressor 
+train featuring two STC-SH compressors 
+and an SGT-700 gas turbine. The single-
+shaft compressor comes with standardized 
+components for ease of maintenance, 
+making it suited for petrochemical process 
+applications with a wide range of volume 
+flows, the company said.
+Compared with steam turbine-driven or 
+electric motor-driven compressor options, 
+which are more commonly used in PDH 
+processes, gas turbine-driven solutions allow 
+operators to burn waste gas generated in 
+the process. This provides fuel savings and, 
+in turn, lower lifecycle costs. Siemens has 
+experience in burning a wide range of waste 
+gas with dry low emission (DLE) technology. 
+This, along with the SGT-750’s attributes, 
+were critical factors in it being used for the 
+plant, Siemens said.
+The fourth-generation DLE burner included 
+with the SGT-750 turbine enables it to operate 
+on a wide variety of fuels. This includes fuels 
+with high amounts of inert gases; very lean fuels containing natural gas diluted with 
+more than 40% CO 2 and more than 50% 
+N2; and highly reactive gases containing 
+high concentrations of C 2+ and H 2. The 
+combustion system can also automatically 
+handle quick variations of the Wobbe index 
+thanks to the Active Wobbe Algorithm (AWA) 
+integrated into the control system. 
+Despite the high concentration of ethane 
+in the gas used for firing at the PDH facility, 
+the turbine achieves low NOx emissions of 
+25 ppm. The continuously controlled fuel 
+control to the burners enables a permanent 
+stable operation in the load range with no 
+need for complicated staging sequences in 
+different load regimes or seasonal mapping. 
+In other applications with more favorable gas 
+compositions, the SGT-750 has been able 
+to achieve emissions as low as 9 ppm NOx 
+down to 20% load. 
+First offshore application in the 
+Barents Sea
+For offshore facilities, particularly floating, 
+production, storage and offloading (FPSO) 
+vessels, profitability is becoming increasingly 
+contingent on the use of topsides packages 
+that can efficiently deliver the horsepower to 
+exploit resources in a range of water depths 
+and operating conditions. At the same time, 
+operators must be cognizant of lowering 
+emissions, reducing OPEX and minimizing the 
+weight and footprint of modules. 
+The SGT-750 is designed to meet 
+these objectives, Siemens said. In 2018, 
+Siemens received the contract to engineer, 
+manufacture and commission a compression 
+train utilizing the SGT-750 for Equinor’s FPSO 
+FIGURE  3   
+The SGT-750 core engine exchange, which 
+demonstrated the ability to remove the core 
+from the package and replace it to minimize 
+downtime during maintenance. FIGURE  2   
+The SGT-750’s removal 
+from the package. 
+The SGT-750 has been 
+used in midstream, 
+downstream and 
+offshore applications.PRODUCT NEWS
+SIEMENS’ SGT-750
+REPRINTED FROM COMPRESSORTECH2 OCTOBER 2019
+PRODUCT NEWS
+SIEMENS’ SGT-750
+FIGURE  4   
+Siemens’ STC-SH single-shaft compressor 
+with a horizontally-split casing offers a robust 
+design with standardized components for 
+maintenance simplicity.
+vessel in the Johan Castberg oilfield on the 
+Norwegian shelf in the Barents Sea. 
+The turbine will drive two Dresser-Rand 
+Datum compressors operating in a tandem 
+arrangement. The GT package was specially 
+designed for harsh environments and 
+features a unique design that eliminates 
+the need for a speed-increasing gearbox, 
+which reduces its weight and footprint. 
+The compressors will reinject gas into the 
+oil reservoir, providing pressurization and 
+eliminating the need for capture or flaring,  
+the latter of which is not permissible in the 
+region. 
+For the FPSO, Siemens will also supply 
+a waste heat recovery unit to recover 
+gas turbine exhaust heat, which will be used for process heating and anti-icing. 
+The turbine was delivered earlier this year 
+and was subject to extensive testing to 
+ensure the necessary levels of reliability 
+and serviceability. The testing included a 
+demonstration of an engine exchange to 
+showcase the ability to remove the core from 
+the package and replace it to minimize the 
+downtime during the maintenance period 
+(Figures 2 and 3).Fit for oil and gas applications
+The SGT-750 was designed to incorporate 
+the size and weight advantages of an 
+aeroderivative gas turbine while maintaining 
+the robustness and flexibility of heavy-duty 
+models. With 68,000 operating hours to a first 
+major overhaul and a service plan with only 
+17 maintenance days in 17 years, the turbine 
+has become a popular option in oil and gas 
+applications, Siemens said. CT2
+IN NEED OF REPLACEMENT CYLINDERS?
+740-435-0240     ACIServices.comWhen your OEM no longer supports your existing cylinders, call ACI. 
+We manufacture replacement cylinders for all makes & models of 
+reciprocating compressors.  ACI’s custom cylinder replacements 
+are cost-effective and will get you back up and running in no time!  
+Keep your existing compressors running  
+with new cylinders from ACI!
+If you enjoyed this article, subscribe to 
+the COMPRESSORTECH2 magazine.  
+www.compressortech2.com/subscribe

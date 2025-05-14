@@ -1,0 +1,318 @@
+DUP Anleitung
+Lieferantenhandbuch
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+1 Allgemein 3
+1.1 Ziel 3  
+1.2 Anwendungsbereich 3
+1.3 Abkürzungen 3
+1.4 Wesentliche Änderungen gegenüber der letzten Revision 3
+1.5 Prozessrollen & Verantwortlichkeiten 3
+2 Anforderungen an Lieferantendokumente 4
+2.1 Betreffende Dokumente 4
+2.1.1 Zulässige Dateitypen 4
+2.2 Qualität der eingereichten Dokumente 5
+2.2.1 Schriftgröße 5
+2.2.2 Papiergröße 6
+2.2.3 Sprache 6 
+3 Verfahren zur Bearbeitung von Lieferantendokumenten mit Siemens 7
+3.1 Dokumentenstatus 8
+3.2 Umschlagszeit 8
+4 DUP -Einreichverfahren 9
+4.1 Erste Registrierung beim DUP 9 
+4.2 Anmeldung beim DUP 9
+4.3 DUP -Benutzeroberfläche 11
+4.4 Status des DUP`s 13
+4.5 Dokumente ins DUP hochladen 14
+4.6 Mehrfachregistrierung eines Dokumentes 15
+4.7 Wild Card Funktion 16
+4.8 Dokumente auf dem DUP runterladen 17
+5 Benachrichtigungen an den Lieferanten aus dem DUP 18
+6 Hilfe 19
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+1 Allgemein
+1.1 Ziel
+Diese Richtlinie enthält Dokumentationsanforderungen für Siemens -Lieferanten. Werden diese Anforderungen nicht erfüllt, werden d ie Dokumente 
+abgelehnt und müssen korrigiert und erneut eingereicht werden.
+1.2 Anwendungsbereich
+Diese Richtlinie gilt für alle Dokumente, die von Lieferanten über das Dokumenten -Upload -Portal (DUP) anSiemens geliefert werden.
+1.3 Abkürzungen
+1.4 W esentliche Änderungen im Vergleich zur letzten Revision (gültig ab 21 Mai 21)
+-Mehrfachregistrierung eines Dokumentes (Seite 15)
+-Wild Card Dokumenten Kategorie (Seite 16)
+-Email Benachrichtigung selektiv gemäß Dokumentenkategorie (Seite 18)
+1.5 Prozessrollen & Zuständigkeiten
+Siemens –Gewährt Zugang zum DUP für Lieferanten
+Siemens –Stellt Dokumentenforderungen im DUP zum Hochladen zur Verfügung, ggfs.. auch Templates und kommentierte Dokumente zum Download
+Lieferant –Erstellt und sendet Dokumente über das DUP anSiemens
+ANSI  - American National Standards Institute  
+DUP  - Dokument en-Upload -Portal  
+ISO - International e Organisation für Normung  
+PDF - Portable s Dokument enformat  
+PO - Bestellung  
+SDRL  - Lieferantendokumentenanforderungsliste  
+ 
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+2 Anforderungen an Lieferantendokumente
+Lieferantenunterlagen sind gemäß den nachstehend beschriebenen Anforderungen vorzulegen.
+2.1Betreffende Dokumente
+Alle Qualitätsdokumente nach dem IP (Inspektionsplan). Es ist das Ziel weitere Dokumententypen über das Portal zu 
+vereinnahmen. Diese Dokumente wie z.B. SDRL -(Lieferantendokumentenliste) Dokumente sind über das DUP zu liefern, 
+sobald die Forderung im Portal von Siemens bereitgestellt wird.
+2.1.1 Zulässige Dateitypen
+Dateitypen die in das DUP hochgeladen werden dürfen:
+
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+2.2 Qualität der eingereichten Unterlagen
+Die Dokumente müssen von ausreichender Qualität sein, um eine sofortige und genaue Verwendung zu ermöglichen, ohne dass eine Interpretation 
+aufgrund möglicher Unleserlichkeit erforderlich ist. Jede unleserliche oder unentzifferbare Zeichnung oder Dokument wird syst ematisch an den 
+Lieferanten zurückgegeben, die in keinem Fall die Rücksendung von Dokumenten als Grund für etwaige Lieferverzögerungen gelten d machen können.
+Es ist zwingend erforderlich, dass die Dokumente von guter Qualität sind, um Drucke/Kopien von schlechter Qualität zu vermeiden.
+• Der Inhalt des Dokuments muss durchsuchbar sein
+• Dokumente müssen Lesezeichen für Kapitel, Unterkapitel und gegebenenfalls Lesezeichen für weitere Themen enthalten. Für den L eser muss es 
+einfach sein, durch das Dokument zu navigieren 
+• Alle Seiten sind in der richtigen Ausrichtung anzuordnen
+• Gescannte Dokumente müssen mit OCR -Software gescannt werden, um sicherzustellen, dass sie lesbar sind. Die Volltextsuche muss in einem 
+pdf-Dokument indiziert werden können. Signierte Originaldokumente müssen farblich gescannt werden. Dokumente dürfen nicht geschüt ztsein
+• Auf Wunsch behält sich Siemens das Recht vor, native Dateien anzufordern
+• Dokumente mit mehreren Seiten/Blättern müssen als eine Datei eingereicht werden
+• Überarbeitete Dokumente sind als Ganzes vorzulegen, nicht nur der überarbeitete Abschnitt
+2.2.1 Schriftgröße
+Lieferantenunterlagen müssen klar lesbar sein und eine Größenreduzierung der Zeichnungen muss alle Details zeigen.
+Die Mindestschriftgröße, die in den Dokumenten, Zeichnungen und Berechnungen verwendet wird, muss 8 (acht) Pkt. betragen.
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+2.2.2 Papiergröße
+Die Größe der Lieferantendokumente ist aus der ISO -A-Serie gemäß ISO 216 oder ANSI auszuwählen.
+Zulässige ISO-A-Größen : Zulässige ANSI -Größen :
+2.2.3 Sprache der Dokumentation
+Führend ist die Vorgabe in der Bestellung. Gibt es keine gesonderte Forderung ist die Dokumentation in englischer Sprache anzufertigen. Die für die gesetzlichen 
+Genehmigungen erforderlichen Unterlagen sind in der von den Behörden geforderten Sprache sowie in englischer Sprache zu erste llen. Eine zweite Sprache kann 
+angefordert werden.
+Bezeichnung  Abmessungen  (mm)  Abmessungen der Gliederung  
+(mm)  
+A4 210 x 297  190 x 277  
+A3 297 x 420  277 x 375  
+A2 420 x 594  390 x 554  
+A1 594 x 841  554 x 781  
+A0 841 x 1189  791 x 1119  
+ 
+Bezeichnung  Abmessungen  (Zoll) Abmessungen  (mm)  
+ANSI A  8.5 x 11  216 x 279 
+ANSI B  11 x 17  279 x 432  
+ANSI D  22 x 34  559 x 864  
+ 
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+3 Verfahren zur Bearbeitung von Lieferantendokumenten mit Siemens -Energy
+Der Lieferant sendet und erhält alle Unterlagen über das DUP.
+Schritt Aktion Verantwortlich Anweisung
+S1 Vorbereiten des Dokuments Lieferant
+S2 Dokument hochladen Lieferant
+S3 Empfangen vom Dokument Siemens Energy
+S4 Wenn das Dokument zur Information dient, speichert Siemens das Dokument. Siemens Energy
+Es sind keine Folgemaßnahmen erforderlich.
+Wenn das Dokument zur Genehmigung dient, wird Siemens das Dokument überprüfen 
+und an den Lieferanten zurücksenden.
+S5 Dokument an Lieferant zurücksenden Siemens Energy 
+S6 Empfangen vom Dokument Lieferant
+S7 Wird das Dokument von Siemens kommentiert oder abgelehnt, so aktualisiert der 
+Lieferant das Dokument und sendet es an Siemens zurück. Lieferant
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+3.1 Dokumentenstatus
+Jedes Dokument hat einen Status und eine Kategorie. Durch Zuweisen eines Dokuments wird die Folgeaktion für Siemens Energy od erden Lieferanten bestimmt.
+Folgende Dokumentenstatus werden für Dokumente verwendet:
+Zur Information:
+Dokumente mit der Kategorie "Engineering Dokument –Zur Information" sind nur zur Information zu senden. Siemens wird dieses Do kument nur zur 
+Information aufbewahren und nicht mit Kommentaren zurücksenden.
+Zur Genehmigung:
+Das Dokument mit der Kategorie " Engineering Dokument –Zur Genehmigung"  ist zur Genehmigung zu übermitteln. Siemens Energy üb erprüft das 
+Dokument und nimmt erforderlichenfalls zum Inhalt des Dokuments Stellung. Das Dokument mit den Siemens Energy Kommentaren kan n über das 
+Portal heruntergeladen werden. Der Lieferant nimmt dann eine Überarbeitung dieses Dokuments vor und lädt eine neue Version zu r Überprüfung 
+hoch.
+Antwort von Siemens nach Erhalt der Genehmigungsunterlagen:
+3.2 Umschlagszeit
+Dokumente mit der Kategorie “ Engineering Dokument –Zur Genehmigung“ , haben eine Umschlagszeit von zehn Werktagen.
+Nach Erhalt eines Dokuments, das zur Genehmigung eingereicht wird, muss Siemens Energy das Dokument mit dem Status " Finale V ersion",  
+kommentiert oder "abgelehnt" zurücksenden. Wenn das Dokument Kommentare enthält oder abgelehnt wird, hat der Lieferant insgesa mt zehn 
+Werktage Zeit, um die Kommentare umzusetzen und das aktualisierte Dokument erneut zu übermitteln.
+Siemens Antwort  Lieferantenaktion  
+Finale Version  Die Produktion kann fortgesetzt w erden. Es sind keine weiteren Maßnahmen 
+erforderlich.  
+Genehmigt mit Kommentaren  Die Produktion kann entsprechend de n Kommentaren  fortgesetzt w erden . 
+Erneutes Einreichen eines überarbeiteten Dokuments.   
+Abgelehnt  Die Produktion kann nicht f ortgesetzt  werden . Erneutes Einrechen eines 
+überarbeiteten Dokuments  
+ 
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+4 DUP -Einreichverfahren
+4.1 Erste Registrierung beim DUP
+Wenn Sie aufgefordert werden, das DUP für den Dokumentenaustausch zu nutzen, senden Sie uns bitte folgende Informationen:
+• Ihre Email -Adresse, die für die Registrierung verwendet wurde (nur Firmenmailadressen!) 
+• Mindestens eine Bestellnummer
+Bitte senden Sie diese Informationen an Ihren Ansprechpartner
+Siemens wird Ihre Anfrage überprüfen. Nach erfolgreicher Zuordnung der Email -Adresse zur Lieferanten -ID erhalten Sie eine Bestät igungs -Email.
+4.2 Anmeldung beim DUP
+Erste Registrierung beim DUP:
+Nachdem Sie die erste Bestätigung von Siemens Energy erhalten haben, 
+greifen Sie über die folgende URL auf die DUP -Anmeldeseite zu:
+https://dup.apps.prd.cf.siemens -energy.cloud/
+ Es ist wichtig, Google C hrome oder Firefox für das DUP zu verwend en. Jeder andere Browser wird 
+nicht unterstützt.  
+ 
+Sie können die Sprache 
+ändern, indem Sie auf 
+das Globussymbol in der 
+oberen rechten Ecke 
+klicken.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Klicken Sie auf “Einloggen”
+Gehen Sie auf die Registerkarte „Registrieren“
+Bitte beachten Sie, dass Ihnen noch kein 
+Passwort zugewiesen wurde.
+• Geben Sie Ihre Email -Adresse ein.
+• Geben Sie ein Passwort ein. Das Passwort muss die folgenden Bedingungen erfüllen: 
+oMindestens 8 Zeichen lang
+oEnthält mindestens 3 der folgenden 4 Satzzeichen
+oKleinbuchstaben (a-z)
+oGroßbuchstaben (A-Z)
+oNummern (0-9)
+oSonderzeichen (z.B.!@#$%^&*)
+• Fügen Sie Ihren Namen hinzu
+Den Allgemeinen Geschäftsbedingungen zustimmen und auf „ Registrieren “ klicken
+Sie erhalten direkt eine Benachrichtigung, gefolgt von einer Bestätigungsmail.
+In der Bestätigungsmail müssen Sie Ihr Konto bestätigen, indem Sie auf den Button 
+„Mein Konto bestätigen“ klicken.
+In Ihrem Browser erhalten S ie die endgültige Bestätigung Ihrer Email und Ihres Kontos.  
+ 
+Sie können sich nun anmelden  
+ 
+Jetzt müssen Sie auf die Registerkarte „Anmelden“ in Ihrem Browser wechseln  
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.3 DUP -Benutzeroberfläche
+Auf der Startseite des DUP sehen Sie angeforderten Dokumente von Siemens Energy für die Bestellungen, die Ihrem Konto zugeord net 
+sind.
+Im Kopf der Seite können Sie Dokumente basierend auf Bestellungen oder Bestellpositionen filtern. 
+Unter der Kopfzeile finden Sie die Dokumente, die Ihrem Konto zugeordnet wurden und an Siemens Energy gesendet werden 
+müssen.
+Durch die Eingabe einer bestimmten Bestellung können Sie alle angeforderten oder bereitgestellten Dokumente und nicht nur 
+die dringenden Dokumente sehen. Hier haben Sie zudem die Möglichkeit, zusätzliche Dokumente hochzuladen, die nicht auf der 
+Hauptseite aufgeführt sind. Durch Hinzufügen einer Bestellposition kann die Liste auf die Dokumente reduziert werden, die mit
+einer Position verknüpft sind.
+Spalte  Beschreibung  
+Bestellung  Siemens Bestellnummer  
+Bestellposition  Position  innerhalb der Bestellung   
+ 
+ Die Reihenfolge der Auflistung d er Dokumente beruht auf der Dringlich keit. Überfällige Dokumente 
+werden zuerst aufgelistet und die Dokumente, die innerhalb der nächsten zwei Wochen fällig sind.  
+ 
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Spalte Beschreibung
+Dokument hochladen 1. Spalte, in die das angeforderte Dokument hochgeladen werden muss
+-> Hier klicken für mehr Informationen
+Lieferanten Dokumenten Nummer optional kann hier die Lieferanten Dokumenten Nummer eingegeben werden. Pflichtfeld falls ein 
+Dokument mehrfach registriert werden soll 
+SE Dokumentennummer Siemens Energy Dokumentennummer
+Dokumentenname Siemens Energy Dokumentenname
+Bestellauftrag Siemens Energy Bestellnummer
+Position Bestellposition
+Kategorie Art des Dokuments
+Fälligkeitsdatum Vereinbarter Fälligkeitstermin für den Versand an Siemens Energy
+Version Versionskennzeichen des Dokuments
+Zusätzliche Infos Kommentar an Siemens Energy oder den Lieferanten
+Letzte Änderung Datum, an dem das Dokument zuletzt geändert wurde
+Geändert von Siemens Energy -Mitarbeiter, der das Dokument zuletzt geändert hat
+Status Status des Dokuments
+-> Hier klicken für mehr Informationen
+
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.4 Status im DUP
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.5 Dokument ins DUP hochladen
+Sie können Dokumente direkt in die Liste der dringenden Dokumente hochladen. Geben Sie die Bestellnummer ein, um bei Bedarf n icht dringende 
+Dokumente anzuzeigen.
+Je nach Backbone -System auf der Siemens Energy Seite können sie nur eine Datei pro Dokumentenzeile hochladen. Mehrere Dateien können dann 
+nur hochgeladen werden, indem sie in einer ZIP -Datei komprimiert werden. Daher komprimieren Sie bitte alle Dokumente zu einer Po sition in eine 
+PDF-Datei (Index + Inhalt) bzw. ZIP Datei. 
+Erlaubt das Backbone -System mehrere Dokumente pro Zeile, stellen Sie sicher, dass Sie alle Dokumente gleichzeitig auswählen.
+Klicken Sie auf das Upload -Symbol und wählen Sie dann die Datei(en) von Ihrer 
+Festplatte aus, um sie hochzuladen.
+Sie können die Datei(en) auch auf die 
+Upload -Fläche ziehen und loslassen.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Während des Uploads wird eine Fortschrittsleiste in der Upload -Fläche angezeigt.
+Maximale Dateigröße: 800 MB
+Wenn der Upload abgeschlossen ist, wird eine Erfolgsmeldung angezeigt.
+Sie können einen Kommentar hinzufügen, der mit dem Dokument verknüpft und nach  
+dem Hochladen angezeigt wird. Diese Meldung kann der Siemens -Mitarbeiter dann 
+sehen.
+Eine Fehlermeldung wird angezeigt, falls ein Virus oder Malware in der Datei erkannt wird 
+oder das Upload -Portal ein technisches Problem hat.
+4.6 Mehrfachregistrierung (nicht verfügbar für Dokumente der Kategorie „Engineering document “)
+Wenn ein Dokument für mehr als eine Bestellanforderung gültig ist, können Sie eine Mehrfachregistrierung durchführen 
+und das Dokument mit verschiedenen Bestellungen/Positionen verknüpfen. Geben Sie dazu Ihre Lieferanten Dokumenten 
+Nummer ein, bevor Sie das Dokument das erste Mal hochladen. 
+ Sie können eine neue Version eines Dokuments hochladen, solange sein Status nicht „Finale 
+Version“ ist.  
+ 
+ 
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Anstatt das Dokument zur nächsten Bestellung hochzuladen, geben Sie einfach die 
+Lieferanten Dokumenten Nummer ein und drücken die Eingabetaste. 
+Der DUP prüft, ob diese Dokumentnummer dem System bekannt ist und es erscheint 
+ein Pop -up-Fenster. Sie können diese Aktion mit "OK" oder mit Enter bestätigen. Wenn 
+Sie ein neues Dokument hochladen wollen, die Nummer aber bereits einem anderen 
+Dokument zugeordnet ist, müssen Sie die Nummer ändern! 
+Sie erhalten ein Pop -up-Fenster für die erfolgreiche Registrierung
+4.7 Wild Card Funktion
+Wenn Sie eine einzelne Bestellposition auswählen, können Sie neue, nicht angeforderte 
+Dokumente hochladen.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Damit das Dokument richtig zugeordnet werden kann, muss einen Dokumenttyp aus 
+der Liste ausgewählt werden. 
+4.8 Download von Dokumenten aus dem DUP
+Dokumente, die an den Lieferanten zurückgesendet wurden oder Templates die von 
+Siemens zur Verfügung gestellt werden, können heruntergeladen werden, 
+indem Sie auf den roten Link unter dem Dokumentennamen klicken.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+5 Benachrichtigungen an den Lieferanten aus dem DUP
+Das DUP sendet Emails, um den Lieferanten über Fälligkeitstermine und Statusänderungen zu informieren. Wenn mehrere Kontaktma ilsfür einen 
+Lieferanten vorhanden sind, erhalten alle Benutzer, die hierfür aktiviert sind, eine Email.
+Die Emails beinhalten:
+• Name der angeforderten Dokumente
+• Bestellnummer und Artikel
+• Fälligkeitsdatum des Dokuments
+• Link zum Portal
+5.1 Anstehende & überfällige Dokumente (wöchentliche Mail)
+Eine Email mit einer Liste von Dokumenten, die innerhalb der nächsten zwei Wochen fällig sind, wird wöchentlich an den Liefer anten geschickt.  
+Diese Liste beinhaltet auch überfällige Dokumente.
+5.2 Überfällige Dokumente (tägliche Mail)
+Bei überfälligen Dokumenten wird dem Lieferanten jeden Werktag eine Email zugesandt.
+5.3 Kommentierte und abgelehnte Dokumente
+Bei Dokumenten, in denen der Status in „Kommentiert“ oder „Abgelehnt“ geändert wird, wird eine Email an den Lieferanten gesen det, sobald die 
+Statusänderung erfolgt. 
+5.4 Genehmigte Dokumente
+Bei technischen Unterlagen, in denen der Status von „Warten auf Antwort von Siemens“ in „Genehmigt“ geändert wurde, wird dem Lieferanten nach 
+der Änderung eine Email gesendet.
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+6 Hilfe
+• Kein Zugriff auf das DUP: Diese Seite kann nicht angezeigt werden: 
+o Bitte verwenden Sie den Chrome Browser oder Firefox
+o Falls Ihre lokale IT den Seitenzugriff verboten hat, müssen Sie sich an Ihre IT wenden, um Zugriff zu bekommen.
+• Login nicht möglich :
+Sie müssen sich mit derselben Email anmelden, die für die Anmeldung an Siemens übermittelt wurde.
+• Passwort vergessen : 
+Unter der Registerkarte „Anmelden“ finden Sie die Schaltfläche „Passwort vergessen?“. Folgen Sie den Anweisungen.
+• Uploadfehler :
+o Wenn Sie eine Weile ohne Aktion eingeloggt sind, drücken Sie F5 für eine Aktualisierung der Verbindung. Möglicherweise werden Sie 
+aufgefordert, sich erneut anzumelden. Nach der erneuten Anmeldung sollte der Upload möglich sein.
+o Wenn Sie versuchen, von einem anderen Laufwerk (Netzwerklaufwerk) hochzuladen und Probleme bekommen, versuchen Sie zuerst, vo n 
+Ihrem lokalen Desktop hochzuladen. Ihre IT unterstützt möglicherweise das Hochladen von externen Laufwerken nicht.
+Weitere Informationen
+Wenn Sie weitere Hilfe benötigen, kontaktieren Sie bitte ihren zuständigen Einkäufer

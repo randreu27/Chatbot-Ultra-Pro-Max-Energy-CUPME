@@ -1,0 +1,400 @@
+ 
+ 
+Ergänzung zu den Siemens Energy Bestell - 108 508 10, Revision 8  
+bedingungen für den Standort Duisburg  Mitgeltende Unterlage zu 107 047 10  
+Stand 24.09.2024  Siemens Energy is a registered trademark licensed by Siemens AG  Seite 1 von 4 
+ 
+1.   Auftragsbestätigung  
+Ergänzend zu Artikel 1 der Siemens  Energy  AGB gilt:  
+Die BESTELLUNG wird wirksam, wenn dem BESTELLER die 
+vorbehaltlose schriftliche Annahme  der Bestellung durch den 
+AUFTRAGNEHMER zugeht. Die Annahme kann nur in Form der 
+beiliegenden Auftragsbestätigung erfolgen.  
+Die Auftragsbestätigung wird durch Rücksendung der beigefügten 
+Bestätigungskopie vorgenommen, die ohne Vorbehalte gestempelt 
+und unterschrieben wurde. Die Auftragsbestätigung erwartet der 
+BESTELLER innerhalb von 10 (zehn) Werktagen.  
+Findet ein Punkt dieses Schreibens / dieser Unterlagen nicht die 
+Zustimmung des AUFTRAGNEHMERS, ist der Widerspruch detailliert 
+auf der Bestätigung oder einem separat beigefügten Schreiben 
+begründet anzugeben.  
+ 
+2.   Leistungszeit, Vertragsstrafe bei Leistungsstörung  
+Ergänzend zu Artikel 3 der Siemens Energy AGB gilt:  
+Kommt der AUFTRAGNEHMER bei der Lieferung der geforderten 
+Dokumente in Verzug, so ist der BESTELLER berechtigt, für jede 
+angefangene Kalenderwoche der Verzögerung eine Vertragsstrafe in 
+Höhe von 500,00 Euro (fünfhundert Euro) pro Dokument, höchstens 
+jedoch  20.000,00 Euro (zwanzigtausend Euro) zu berechnen.  
+Die Liefertermine der Dokumente (z.B. für Lieferanten -
+dokumentationen und Betriebsanleitungen) definieren sich aus der der 
+Bestellung angehangenen Lieferantendokumentationsliste sowie aus 
+den der Bestellung angehangenen Dokumenten und Informationen . 
+Spätester Liefertermin für ECC -Dokumente (Exportdatenblatt, 
+Lieferantenerklärung für Waren mit Präferenzursprungseigenschaften 
+und Ursprungszeugnisse) sowie Qualitätsdokumente und Zertifikate ist 
+bei Auslieferung der Hardware , bei Dokumenten im Rahmen einer 
+Beistellung drei Arbeitstage nach Anlieferung der Beistellung.  
+3.   Geheimhaltung  
+Ergänzend zu Artikel 11 der Siemens Energy AGB gilt:  
+Alle Pläne, Schriftstücke, Konstruktionen, Zeichnungen, Modelle usw., 
+die dem AUFTRAGNEHMER im Rahmen der BESTELLUNG zur 
+Verfügung gestellt werden, bleiben ausschließlich Eigentum des 
+BESTELLERs. Sie sind jederzeit auf Verlangen, spätestens jedoch 
+nach Bee ndigung der BESTELLUNG unaufgefordert an den 
+BESTELLER, zurückzugeben. Die Geltendmachung eines 
+Zurückbehaltungsrechtes an diesen Gegenständen ist 
+ausgeschlossen.  
+Alle vom AUFTRAGNEHMER erzielten Arbeitsergebnisse werden für 
+den BESTELLER geschaffen und sind uneingeschränktes Eigentum 
+des BESTELLERs. Der AUFTRAGNEHMER wird über alle Vorgänge, 
+Betriebseinrichtungen, betriebliche Anlagen usw., die ihm im 
+Zusammenhang mit seiner Tätigkeit bekannt geworden sind, auch 
+Dritten gegenüber striktes Stillschweigen bewahren.  Diese 
+Verpflichtung gilt nach Erledigung des Auftrags für einen weiteren 
+Zeitraum von 10 (zehn) Jahren fort. Der AUFTRAGNEHMER wird in 
+geeigneter Weise sei ne mit der Durchführung des Auftrages 
+beauftragten Mitarbeiter zu einer dieser Vorschrift entsprechenden 
+Geheimhaltung verpflichten.  
+ 
+4.   Dokumentation  
+Alle erforderlichen Dokumente sind je nach  Art und Umfang an 
+folgende Adressen zu liefern oder im Document Upload Portal zu 
+hinterlegen:  
+- Qualitätsdokumente und Zeugnisse nach Anweisung 106  663 10 im Document Upload Portal https://dup.apps.prd.cf.siemens -
+energy.cloud/#/login  
+Eine Anleitung zur Nutzung und Anwendung des Document Upload 
+Portals ist auf der Internetseite www.siemens -energy.com/supplier -
+information  hinterlegt.  
+- Betriebsanleitungen und Lieferantendokumentation nach WN 
+801 445 98: Die relevante E -Mail Adresse ist in der 
+Lieferantendokumentationsliste angegeben   
+- Betriebsanleitungen (falls keine Lieferantendokumentationsliste 
+vorhanden ist) an : manuals.duisburg.oil -gas@siemens -
+energy.com  oder alternativ im Document  Upload Portal  
+- Anforderungsformular für Exportdaten / (Langzeit -) 
+Lieferantenerklärung für Waren mit Präferenzursprungseigenschaft 
+(nach der Durchführungsverordnung (EU) 2015/2447 zum 
+Unionszollkodex/Anhang 22 -15): 
+eccdokumente.duisburg.energy@siemens -energy.com  bzw. bei 
+Service -Bestellungen (Abteilung SE GP I SV TCP OPS SCM DBG 
+….und /oder mit dem Zusatz in der Anlieferadresse „ SE GP I SV TCP 
+OPS SCM DBG Repair  and Logistik Center“) an den in der Bestellung 
+genannten Einkäufer zu senden.  
+5.   Teilekennzeichnung  
+Jedes lose Teil der Lieferung ist bei einem Gewicht von mehr als 
+250 kg (zweihundertfünfzig Kilogramm) zusätzlich mit dessen Gewicht 
+nicht lösbar zu kennzeichnen.  
+Bei der Zusendung von geforderten Werkstoffproben sind diese mit der 
+Teilekennzeichnung der zugehörigen Hauptkomponente zu stempeln.  
+Teile und Dokumente ohne Kennzeichnung werden vom BESTELLER 
+kostenpflichtig zurückgesandt oder nach der Wahl des BESTELLERs 
+vernichtet und gelten als nicht geliefert.  
+Der AUFTRAGNEHMER hat in jedem Fall, soweit nicht anders 
+angegeben, mit der Lieferung der Bauteile Kolli - und Packlisten zu 
+liefern, in denen alle einzelnen Lieferpositionen mit detaillierter 
+Beschreibung aufgeführt sind. Die Ausführung der Listen muss 
+verbindlich entweder in Englisch oder zweisprachig in 
+Deutsch/Englisch erfolgen. Sollten lose/demontierte Teile mitgeliefert 
+werden, die nicht als solche aus den Bestellpositionen erkennbar sind, 
+sendet der AUFTRAGNEHMER das Dokument „10600010 Losteilliste“ 
+vollständig ausgefüllt spätestens 36 (sechsunddreißig) Werktage vor 
+Auslieferung an den BESTELLER zurück.   
+Die nach Übermittlung der Losteilliste generierten Etiketten werden 
+vom AUFTRAGNEHMER auf die entsprechend losen/demontierten 
+Teile vor Anlieferung aufgebracht.  
+ 
+Das Dokument  „10600010 Losteilliste“ s owie die entsprechende 
+Ausfüllanleitung kann sich der AUFTRAGNEHMER zur Nutzung auf 
+der Internetseite www.siemens -energy.com/supplier -information  
+herunter laden . 
+ 
+Die Versandbereitschaft ist 5 (fünf) Werktage vor Versand schriftlich 
+dem im Bestellkopf ausgewiesenen zuständigen Einkäufer zu melden. 
+Die Lieferung dieser BESTELLUNG hat komplett zu erfolgen. 
+Teillieferungen sind von uns nicht zugelassen und werden von uns 
+nicht angenommen, sondern zu Lasten des AUFTRAGNEHMERS 
+zurückgeschickt und gelten als nicht geliefert.  
+Anlieferungen über 5 (fünf) Tonnen Bruttogewicht je Stück an den 
+Standort Duisburg sind zusätzlich an folgende E -Mail Adresse 
+anzukündigen:  logistikdbg.wareneingang.energy@siemens -
+energy.com  
+ Ergänzung zu den Siemens Energy Bestellbedingungen  
+für den Standort Duisburg  
+Stand 19.03.2025   
+ 
+ 
+ 
+Ergänzung zu den Siemens  Energy  Bestell - 108 508 10, Revision 8 
+bedingungen für den Standort Duisburg  Mitgeltende Unterlage zu 107 047 10  
+Stand 24.09.2024  Siemens Energy is a registered trademark licensed by Siemens AG.  Seite 2 von 4 
+6.   Routingorder  / ILoP 
+Der AUFTRAGNEHMER bestätigt hiermit, gemäß der allgemeinen 
+Geschäftsbedingungen der Siemens Energy Global GmbH & Co. KG 
+und beruhend auf den Incoterms EXW, FCA oder FOB, den 
+Warentransport über das Online -Portal ILoP (Inbound Logistics for 
+Plants) zu beauf tragen  
+Bei der Nutzung ist folgende Information zu berücksichtigen:  
+ 
+Zur verbindlichen Erfassung Ihrer Sendungsdaten und Avisierung Ihres 
+Materials zur Abholung nutzen Sie bitte „ILoP“ (Inbound Logistics for 
+Plants) auf der folgenden Internetseite: 
+https://ax4.com/ax4/?ID=3719631  
+ 
+Die Avisierung über dieses Tool ist ausschließlich für Sendungen , bei 
+denen die Siemens Energy  Duisburg Frachtzahler ist.  
+Der Abschluss der Sendungsdaten (Aviso -Versand) erzeugt eine E -
+Mail an den vorgegebenen Vertragsspediteur, den BESTELLER und 
+an den AUFTRAGNEHMER. Damit ist die Lieferavisierung seitens des 
+AUFTRAGNEHMERS dokumentiert.  
+Eine Schnellstartanleitung zur Nutzung des Tools ist auf der 
+Internetseite  www.siemens -energy.com/supplier -information  
+hinterlegt.  
+Der BESTELLER bittet den AUFTRAGNEHMER um frühstmögliche 
+Beauftragung  in ILoP. Der AUFTRAGNEHMER lässt sich vorab die 
+finale Anlieferadresse durch den BESTELLER bestätigen. Im Falle der 
+Nichteinhaltung dieser Routingorder, werden die Transportkosten vom 
+BESTELLER nicht übernommen.  
+ 
+7.   Verpackungsregelung  
+Eine Verpackung der vom AUFTRAGNEHMER bereitgestellten Ware 
+muss im Einklang mit dem Dokument „106  821 10 
+Verpackungsleitfaden für externe Lieferanten“ erfolgen. Abweichungen 
+hiervon berechtigen den BESTELLER zur Ablehnung der Ware, bzw. 
+kostenpflichtigen Rücksendung.   Der Verpackungsleitfaden ist auf der 
+Internetseite  www.siemens -energy.com/supplier -information  
+hinterlegt.  
+ 
+8.   Kostenlose Einlagerung  
+Sollte eine Versandfreigabe gefordert sein, sind Lieferungen ohne 
+Versandfreigabe des BESTELLERS nicht zulässig. Der 
+AUFTRAGNEHMER räumt zudem die Möglichkeit ein, das zu liefernde 
+Material für einen Zeitraum von bis zu 36 (sechsunddreißig) Werktagen 
+für den BESTELLER kostenfrei einzulagern.  
+Sollte die Einlagerungszeit darüber hinaus verlängert werden, zahlt der 
+BESTELLER dem AUFTRAGNEHMER einen dann zu vereinbarenden 
+angemessenen Betrag je weiterer Kalenderwoche Einlagerung.  
+ 
+9.  Umweltverträgliche Produkte  
+Der BESTELLER besteht auf der Einhaltung der „EP Standard Nr.1  
+Anforderungen an die umweltverträgliche Produkt - und 
+Anlagengestaltung“.  Dieses Dokument ist auf der Internetseite  
+www.siemens -energy.com/supplier -information  hinterlegt.  
+ 
+10.  Audits  
+Bei Bedarf kann der BESTELLER, ggf. zusammen mit dem Kunden 
+oder einer dritten Partei, die vom BESTELLER beauftragt worden ist, 
+jederzeit während der normalen Arbeitszeit mit einer Vorankündigung 
+von 10 (zehn) Werktagen ein Audit hinsichtlich des 
+Qualitäts managementsystems und der Aktivitäten der 
+Qualitätssicherung des AUFTRAGNEHMERs in den Betrieben des 
+AUFTRAGNEHMERs und dessen Unterlieferanten durchführen. Die 
+Anforderung muss begründbar sein und Ziel, Typ und Umfang sowie Ort und Zeit des Audits angegeb en. Während des Audits garantiert der 
+AUFTRAGNEHMER dem Inspektionspersonal alle notwendigen 
+Unterstützungen sowie den Zugang zu qualifiziertem Personal, der 
+Dokumentation und dem Fertigungsprozess. Dem Inspektionspersonal 
+ist es gestattet an jeglichen Qua litätstests des AUFTRAGNEHMERS 
+teilzunehmen.  
+Der AUFTRAGNEHMER kann den Zugang zu Firmengeheimnisse 
+verweigern. Alle anfallenden Kosten in Verbindung mit dem Audit, 
+gehen mit Ausnahme der Reisekosten für das Inspektionspersonal zu 
+Lasten des AUFTRAGNEHMERs.  
+Der BESTELLER darf den Audit Report sowie sämtliche 
+Aufzeichnungen des Audits mit Siemens  Energy  und deren 
+verbundenen Unternehmen teilen.  
+Der AUFTRAGNEHMER stellt sicher, dass die Auditrechte ebenfalls 
+entsprechen bei dessen Unterlieferanten eingehalten werden.  
+ 
+11.   Expediting  
+Der AUFTRAGNEHMER stellt sicher, dass die Fertigung des bestellten 
+Materials sowie alle damit zusammenhängenden Tätigkeiten sowohl 
+durch den BESTELLER, dessen Beauftragten und/oder durch dessen 
+Kunden oder dessen Beauftragten jederzeit in den Betrieben des  
+AUFTRAGNEHMERS und in denen seiner Unterlieferanten besichtigt 
+und kontrolliert werden können; diese Kontrollen können auch 
+unangekündigt stattfinden. Soweit derartige Kontrollen Kosten 
+verursachen, gehen diese mit Ausnahme der personellen Kosten für 
+das vom Kunden des BESTELLERS oder dessen Beauftragten 
+eingesetzte Inspektionspersonal zu Lasten des AUFTRAGNEHMERS. 
+Der AUFTRAGNEHMER gibt dem Inspektionspersonal alle 
+notwendigen Unterstützung en, damit es seine Aufgabe erledigen kann 
+und stellt die Unterlagen zur Verfügung, die zur Prüfung der 
+technischen Eigenschaften der vom AUFTRAGNEHMER zu liefernden 
+Teile benötigt werden. Werden bei Kontrollbesuchen der Kunden des 
+BESTELLERS und/oder deren B eauftragten Forderungen an den 
+AUFTRAGNEHMER gestellt, die nicht  mit BESTELLUNG 
+übereinstimmen, muss der AUFTRAGNEHMER sich vor ihrer 
+Zustimmung die Genehmigung des BESTELLERS einholen.  
+ 
+12.   Abnahme  
+Sollte eine Abnahme gemäß Art. 4.1 Siemens Energy AGB vorgesehen 
+sein, entbindet diese Abnahme oder ein eventueller Verzicht darauf 
+den AUFTRAGNENHMER nicht von seiner allgemeinen Haftung 
+gemäß Artikel 8 Siemens  Energy  AGB. Die Abnahmebereitschaft ist 
+mindestens 10 (zehn) Werktage vor Abnahme (abweichende Fristen 
+aus Prüfplänen sind vorrangig zu beachten) schriftlich per Fax oder 
+Mail an den/die im Bestellkopf genannten Einkäufer/in zu melden. Die 
+Einladung ist mit dem von Siemens  Energy  zur Verfügung geste llten 
+Vordruck „10184610 „Supplier Inspection Notification Form“ 
+durchzuführe n 
+ 
+Abnahme -Wiederholkosten:  
+Sollte bei einer vom BESTELLER verlangten Abnahme eine 
+Wiederholung notwendig werden, da der Abnehmer vom BESTELLER 
+eine Abnahme aufgrund nicht erfüllter Vorschriften verweigern musste, 
+gehen die beim BESTELLER durch einen erneuten Abnahmeversuch 
+anfallend en Kosten zu Lasten des AUFRTAGNEHMERS. Zudem 
+übernimmt der AUFTRAGNEHMER etwaige Reise - und 
+Aufwandskosten des BESTELLERS, dessen Kunden und/oder einer 
+dritten Partei, die vom BESTELLER beauftragt worden ist, plus 0,5% 
+(null Komma fünf Prozent) des Bestel lwertes der Positionen, deren 
+Abnahme geplant war, mindestens jedoch 500 EUR (fünfhundert 
+Euro).  
+ 
+ 
+ 
+ 
+Ergänzung zu den Siemens  Energy  Bestell - 108 508 10, Revision 8 
+bedingungen für den Standort Duisburg  Mitgeltende Unterlage zu 107 047 10  
+Stand 24.09.2024  Siemens Energy is a registered trademark licensed by Siemens AG.  Seite 3 von 4 
+13.  Verschiebung, Stornierung, Übertragbarkeit /  
+Änderung Liefer - und Leistungsumfang  
+13.1 Bei Standardprodukten ist der BESTELLER kostenfrei berechtigt, 
+den Liefertermin für alle oder für einen Teil der bestellten Produkte zu 
+verschieben oder diesen VERTAG teilweise oder ganz zu stornieren, 
+wenn er dies dem AUFTRAGNEHMER mindestens 10 (zehn) 
+Werktage vor dem vereinbarten Li efertermin mitteilt.  
+Bei Produkten, die auf die Bedürfnisse des BESTELLERS angepasst 
+wurden, ist der BESTELLER kostenfrei berechtigt, den Liefertermin für 
+alle oder für einen Teil der bestellten Produkte zu verschieben oder 
+diesen VERTAG teilweise oder ganz zu stornieren, wenn  er dies dem 
+AUFTRAGNEHMER mindestens 30 (dreißig) Werktage vor dem 
+vereinbarten Liefertermin mitteilt.  
+Der BESTELLER ist jederzeit berechtigt, Änderungen bezüglich der 
+bestellten Produkte zu verlangen. Der AUFTRAGNEHMER informiert 
+den BESTELLER schriftlich oder per E -Mail innerhalb von 5 (fünf) 
+Werktagen nach Zugang der Änderungsmitteilung des BESTELLERS, 
+ob und inwiefern sich das Änderungsverlangen des BESTELLERS auf 
+den vereinbarten Liefertermin und/oder die vereinbarte Vergütung 
+auswirken kann; in diesem Fall legen die VERTAGSPARTEIEN 
+einvernehmlich eine angemessene Verschiebung des Liefertermins 
+sowie fü r Mehraufwendungen eine angemessene Vergütung fest. 
+Mehraufwendungen werden nur erstattet, wenn der BESTELLER den 
+Mehraufwendungen vorab ausdrücklich schriftlich zugestimmt hat. 
+Unterbleibt eine solche Information durch den AUFTRAGNEHMER 
+innerhalb dieser 5  (fünf) Werktage, gilt die vom BESTELLER 
+gewünschte Änderung als vom AUFTRAGNEHMER ohne Auswirkung 
+auf vereinbarten Liefertermin und vereinbarte Preise akzeptiert.  
+Der BESTELLER kann Rechte und Pflichten, die sich für ihn aus dieser 
+BESTELLUNG ergeben, jederzeit ohne Zustimmung des 
+AUFTRAGNEHMERS ganz oder teilweise auf ein mit dem 
+BESTELLER i.S.d. §15 AktG verbundenes Unternehmen übertragen.  
+ 
+13.2 Sollten vom AUFTRAGNEHMER durch Zeichnungsänderungen 
+des BESTELLERS und/oder aufgrund gemeinsamer 
+Abstimmungsgespräche preisliche und/oder terminliche 
+Konsequenzen abgeleitet werden, ist der BESTELLLER spätestens 
+innerhalb von 10 (zehn) Werktagen nach Ein gang der geänderten 
+Zeichnungen beim AUFTRAGNEHMER und/oder nach dem 
+Abstimmungsgespräch in einem separaten Schreiben mit Nennung der 
+Preisänderung und/oder Terminverschiebung unaufgefordert zu 
+benachrichtigen.  
+Sollte eine exakte Preisangabe innerhalb dieser Frist nicht möglich 
+sein, erhält der BESTELLER vorab einen Schätzpreis, der innerhalb 
+weiterer 10 (zehn) Werktage exakt zu nennen ist. Später angemeldete 
+Mehrkosten und/oder Terminverzögerungen wird der BESTE LLER 
+nicht anerkennen.  
+Rechtzeitig gemeldete Preis - und/oder Terminveränderungen 
+bedeuten nicht, dass eine Anerkennung durch den BESTELLER 
+erfolgen muss. Preis - und/oder Terminänderungen werden 
+vertragswirksam durch einen Nachtrag Abteilung „Einkauf“ des 
+BESTELLERS.  
+Der AUFTRAGNEHMER wird den BESTELLER darauf hinweisen, 
+wenn fehlende Informationen, Beistellungen oder 
+Zeichnungsgenehmigungen durch den BESTELLER den vereinbarten 
+Termin gefährden, und zwar so früh, dass der BESTELLER die 
+Zustellung noch rechtzeitig vorne hmen kann.  
+Sollten der AUFTRAGNEHMER den BESTELLER nicht oder zu spät 
+informieren, liefert der AUFTRAGNEHMER auch unter den geänderten 
+vertraglichen Bedingungen zum Preis und Termin wie im 
+Ursprungsvertrag festgelegt. Vereinbarungsgemäß gilt die Lieferung 
+des AUFTRAG NEHMERS erst dann als erfüllt, wenn dem BESTELLER auch die geforderte Dokumentation komplett und 
+ordnungsgemäß vorliegt.  
+Änderungen dieser BESTELLUNG bedürfen der Schriftform. Auf das 
+Schriftformerfordernis kann nur schriftlich verzichtet werden.  
+Soweit eine Regelung dieser BESTELLUNG unwirksam oder nicht 
+durchsetzbar ist, bleiben die übrigen Regelungen davon unberührt.  
+ 
+14.  Vollständigkeit  
+Im Preis sind alle Lieferungen und Leistungen enthalten, die zur 
+ordnungsgemäßen Nutzung oder zum einwandfreien Betrieb gehören, 
+auch wenn sie in der BESTELLUNG nicht ausdrücklich erwähnt 
+wurden.  
+Sollte sich herausstellen, dass zur ordnungsgemäßen Nutzung oder 
+zum einwandfreien Betrieb noch Teile  fehlen, werden diese vom 
+AUFTRAGNEHMER für den BESTELLER kostenlos und auf 
+schnellstem Weg nachgeliefert und - falls erforderlich - eingebaut.  
+ 
+Eine Lieferung ist vollständig wenn alles inkl. Dokumente mit 
+Auslieferungsdatum bzw. definierten Anforderungsdatum vorliegt.  
+ 
+15. Versicherung  
+Der AUFTRAGNEHMER ist verpflichtet, auf eigene Kosten alle 
+erforderlichen Versicherungen (einschließlich der gesetzlich 
+vorgeschriebenen Versicherungen), die den ausgeführten Tätigkeiten 
+angemessen sind, abzuschließen und während der gesamten Dauer 
+des Auf trags (einschließlich der Gewährleistungsfrist) und deren 
+Verlängerungen in vollem Umfang aufrechtzuerhalten, einschließlich, 
+aber nicht beschränkt auf die folgenden Versicherungen bei 
+angesehenen und finanziell soliden Versicherern:  
+• Arbeitsunfall - und Arbeitgeberhaftpflichtversicherung für das 
+Personal des Verkäufers gemäß den am Ort der Ausführung 
+der Tätigkeiten und/oder Arbeiten im Zusammenhang mit 
+dem Auftrag geltenden Gesetzen, einschließlich der 
+Gesetze der Wohnsitzländer des Pe rsonals des Verkäufers, 
+in einer Höhe, die nicht unter dem von diesen Gesetzen 
+vorgeschriebenen Mindestwert liegt.  
+ 
+• Haftpflichtversicherung, einschließlich Bearbeitungs - und 
+Leitungsschäden, erweiterter Produkthaftpflicht, und 
+Umwelthaftpflicht  im marktüblichen Umfang (GdV), mit den 
+angemessenen Höchstbeträgen pro Ereignis (mindestens 
+jedoch zwei Millionen Euro) und de ckt auch den Verlust oder 
+die Beschädigung von Sachen, die sich in der Obhut, dem 
+Gewahrsam oder der Kontrolle des Verkäufers befinden 
+und/oder Sachen, die benutzt oder bearbeitet werden.  
+• Transportversicherung (All Risks Transport Insurance) für 
+alle Transport - und transportbedingten Lagerrisiken des 
+Verkäufers, die den Verlust oder die Beschädigung von 
+Waren und Lieferungen, einschließlich der bestellten Artikel, 
+während des Transports zum  endgültigen Lieferort zum 
+vollen Wiederbeschaffungswert abdeckt.  
+Der AUFTRAGNEHMER hat dem BESTELLER auf Verlangen und 
+unverzüglich die  Versicherungsnachweise der 
+Versicherungsgesellschaften des AUFTRAGNEHMERS vorzulegen.  
+Es liegt in der Verantwortung des AUFTRAGNEHMERS, dafür zu 
+sorgen, dass die Versicherungen des AUFTRAGNEHMERS allen 
+geltenden Gesetzen entsprechen. Alle Versicherungen sind bei 
+Versicherern abzuschließen und aufrechtzuerhalten, die in der/den 
+Gerichtsbarke it(en), in der/denen die Tätigkeiten und/oder Arbeiten im 
+ 
+ 
+ 
+Ergänzung zu den Siemens  Energy  Bestell - 108 508 10, Revision 8 
+bedingungen für den Standort Duisburg  Mitgeltende Unterlage zu 107 047 10  
+Stand 24.09.2024  Siemens Energy is a registered trademark licensed by Siemens AG.  Seite 4 von 4 
+Zusammenhang mit der Bestellung ausgeführt werden, rechtmäßig 
+zugelassen sind.  
+Die hierin enthaltenen Versicherungsanforderungen schränken die 
+Haftung, Verpflichtungen oder Verantwortlichkeiten des 
+AUFTRAGNEHMERS im Rahmen der Bestellung und/oder des 
+Gesetzes weder ein noch verzichten sie darauf. Tritt ein Schaden ein, 
+für den der AU FTRAGNEHMER verantwortlich ist oder der aufgrund 
+des Verschuldens des AUFTRAGNEHMERS und/oder des 
+Unterauftragnehmers nicht durch eine Versicherung gedeckt werden 
+kann, so haftet der AUFTRAGNEHMER für den vollen Betrag des 
+Schadens, einschließlich des Betr ags, der die Versicherungsgrenzen 
+und/oder den Versicherungsschutz übersteigt, einschließlich des 
+Betrags einer etwaigen Selbstbeteiligung und des Betrags, der nicht 
+durch eine Versicherung gedeckt ist.   
+  

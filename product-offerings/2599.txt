@@ -1,0 +1,75 @@
+RestrictedSiemens Energy 2024. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AG
+Tidak terkawal jika di luar Sistem Pengurusan Dokumen
+Halaman idaripada iNama Dokumen: GARIS PANDUAN OPERASI UNTUK PENYESUAI UJIAN
+TEKANAN TC6A -349 DAN TC6A -797
+Nombor Dokumen: E1A4041813
+Semakan Pengarang Penyemak Pelulus Tarikh
+Keluaran
+A D. MCDOUGLE C. HARRISON S. KELLY 07/05/2024
+KELUARAN
+KAWALAN SEMAKAN: Sejarah Kawalan Semakan Diurus oleh Sistem Pengurusan Dokumen.
+OPERATING GUIDELINES FOR PRESSURE TEST ADAPTORS
+TC6A -349 AND TC6A -797Nombor
+Dokumen:E1A4041813
+Semakan: A
+Halaman: 1daripada 2
+RestrictedSiemens Energy 2024. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan oleh Siemens AG1TUJUAN & SKOP
+Prosedur ini bertujuan untuk memperincikan proses penggunaan penyesuai ujian tekanan TC6A -349 dan TC6A -
+797 dengan penyambung yang memerlukan ujian tekanan hidrostatik semasa pemasangan. Penyambung yang
+berkenaan disenaraikan dalam lembaran data produk peny esuai yang berkaitan (PDS).
+2DOKUMEN DAN LUKISAN BERKAITAN
+Nombor Nama Lokasi
+10009195 TC6A -797 PDS Pusat pasukan
+SD00021194 TC6A -349 PDS Pusat pasukan
+T14850 Lukisan TC6A -349 dan BOM Berkaitan Pusat pasukan
+T20448 Lukisan TC6A -797 dan BOM Berkaitan Pusat pasukan
+10204852 Manual Penyelenggaraan, Operasi dan
+Pemasangan ElecTRONSiemens -energy.com/subsea
+3PERALATAN
+Peralatan berikut diperlukan untuk melengkapkan pemasangan ini:
+Perengkuh kilas spigot 16 mm yang ditentukur No. Bahagian NOR -13019 (15 hingga 80 lbf ft) (atau
+setara)
+3/4” A/F kelengkapan hujung terbuka No. Bahagian NOR -29709 (atau setara)
+Kunci Allen 5 mm
+4MAKLUMAT KESELAMATAN DAN RISIKO AM
+1.Untuk mendapatkan maklumat Keselamatan dan Bahaya penuh, sila rujuk ElectTRON IOM atau
+Lembaran Data Keselamatan untuk media ujian yang digunakan.
+Amaran. Risiko kecederaan diri yang ringan kepada orang yang mempunyai alahan terhadap minyak
+berasaskan mineral.
+Memakai perlindungan tangan yang sesuai semasa mengendalikan produk atau minyak berasaskan
+mineral atau sintetik.
+Amaran. Risiko kecederaan diri yang ringan dan/atau kerosakan bahan atau persekitaran semasa
+pemasangan.
+Hendaklah sentiasa berhati -hati dan berwaspada semasa pemasangan bagi memastikan bahawa
+kelengkapan dan peralatan hidraulik/pneumatik dipasang dengan betul.
+Amaran. Risiko kecederaan anggota badan disebabkan oleh bahagian penahan tekanan menjadi
+peluncur disebabkan oleh pengguna mengenakan tekanan yang berlebihan terhadap sistem.
+Amaran. Risiko suntikan hidraulik. Hanya untuk digunakan pada MAWP dengan minyak dan pam
+yang sesuai, selaras dengan Peraturan (Keselamatan) Peralatan Tekanan (2016) atau alternatif
+tempatan yang berkaitan jika digunakan di luar negara.
+5PERSEDIAAN
+1.Periksa pemasangan penyesuai secara visual, pastikan tiada kerosakan pada kon pengedap, bebenang
+atau badan penyesuai. Jika terdapat sebarang keraguan tentang keutuhan penyesuai, hentikan kerja
+dengan serta -merta dan hubungi Jabatan Teknikal Siemens Energy .
+
+OPERATING GUIDELINES FOR PRESSURE TEST ADAPTORS
+TC6A -349 AND TC6A -797Nombor
+Dokumen:E1A4041813
+Semakan: A
+Halaman: 2daripada 2
+RestrictedSiemens Energy 2024. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan oleh Siemens AG6PROSES
+1.Rujuk prosedur pemasangan dan lukisan penyambung/skop yang berkaitan untuk tekanan ujian
+yang akan digunakan dan lokasi port ujian.
+2.Pasangkan penyesuai ujian yang digunakan dengan longgar pada penyambung yang sedang diuji.
+3.Untuk TC6A -349, ketatkan skru grub dengan tangan sahaja (4 Nm) menggunakan kunci Allen 5 mm
+untuk menahan sebarang kelonggaran dalam sambungan.
+4.Ketatkan lekapan ujian kepada 5 hingga 10 Nm dengan menggunakan perengkuh kilas NOR -13019
+dan ¾” penyesuai NOR -29709.
+5.Lakukan ujian tekanan mengikut prosedur pemasangan yang berkaitan.
+6.Turunkan tekanan sistem kepada keadaan sekitar.
+7.Keluarkan penyesuai ujian daripada penyambung yang sedang diuji dan bersihkan sebarang sisa
+minyak pada penyambung dan penyesuai.
+TAMAT PROSEDUR

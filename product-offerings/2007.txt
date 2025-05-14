@@ -1,0 +1,1334 @@
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 1 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+I. Úvodní ustanovení  
+ 
+1. Tyto objednací obchodní podmínky (dále jen 
+„podmínky“) jsou obchodními podmínkami ve smyslu 
+§ 1751 a násl. zákona č. 89/2012 Sb., občanský 
+zákoník , (dále jen „občanský zákoník“). Těmito 
+podmínkami se řídí právní vztah, který vznikl mezi 
+Siemens Energy , s.r.o., jako objednatelem zboží 
+(dále jen „ Siemens Energy “ nebo „objednatel“) a 
+dodavatelem zboží (dále jen „dodavatel“), a to bez 
+ohledu na skutečnost, jaký konkrétní smluvní typ je 
+mezi nimi sjednán. Specifikace dodávaného zboží 
+(dále jen „dodávka“)  je vymezena smlouvou.  
+ 
+2. V případě, že vedle těchto podmínek platí rovněž 
+obchodní podmínky dodavatele, pak v případě 
+rozporu mezi nimi a těmito podmínkami mají přednost 
+tyto podmínky.  
+ 
+3. Dodavatel  výslovně potvrzuje, že si přečetl, 
+porozuměl a souhlasí s  čl. III. odst. 4 a 5 , čl. V. 
+odst. 11, čl. VI II. a čl. X V. odst. 5, 6 a 10 podmínek.  
+ 
+II. Vznik smluvního vztahu mezi objednatelem a 
+dodavatelem – objednávka , přijetí (potvrzení) 
+objednávky  
+ 
+1. Smluvní vztah mezi objednatelem a dodavatelem 
+vzniká vystavením písemné objednávky 
+objednatelem (dále jen „ návrh smlouvy “) a písemným 
+přijetím objednávky dodavatelem bez jakékoliv 
+odchylky (dále jen „potvrzení obj ednávky“). Potvrzení  
+objednávky ze strany dodavatele musí mít  písemnou 
+formu  jinak je neplatné . 
+  
+2. Objednatel je oprávněn objednávku odvolat či 
+změnit kdykoli před jejím potvrzením  dodavatelem.  
+ 
+3. Jestliže se potvrzení objednávky a/nebo plnění 
+dodavatele odchyluje od obsahu objednávky, je 
+objednatel vázán vůči dodavateli, jen pokud takové 
+odchýlení od objednávky dodavateli výslovně a 
+písemně odsouhlasil. Přijetí plnění od dodavatele ani 
+platba objed natele za takové plnění neznamenají 
+odsouhlasení . 
+ 
+4. Dodávka bez montáže je kupní smlouvou podle § 
+2079 a násl. občanského zákoníku. Dodávka včetně 
+montáže, sjednání zkušebního provozu, popř. 
+uvedení do provozuschopného stavu, je smlouvou o 
+dílo podle § 2586 a násl. občanského zákoníku.  
+ 
+III. Cena, platební podmínky a započtení  
+ 
+1. Cena je sjednána jako konečná. V ceně jsou 
+zahrnuty veškeré náklady dodavatele nezbytné pro 
+řádné provedení dodávky. V ceně je zahrnuta i 
+případná odměna za poskytnutí práva k užití software a firmware, je -li takový software či firmware součástí 
+dodávky.  
+2. Cenu je objednatel povinen dodavateli zaplatit na 
+základě daňového dokladu (dále jen „faktura“). 
+Faktura musí mimo jiné obsahovat správnou sazbu 
+DPH , číslo dodacího listu  a číslo objednávky 
+objednatele, jakož i čísla (a příslušné věcné názvy 
+(kódy) každé položky. Při fakturaci plnění 
+podléhajícího režimu přenesení daňové povinnosti 
+v tuzemsku, musí faktura obsahovat také kód 
+předmětu plnění dle platných instrukcí GFŘ 
+(Generálního finančního ředitelství). Nesprávně 
+účtovanou, neúplnou nebo příslušnými dok lady 
+nedoloženou fakturu je objednatel oprávněn vrátit v 
+době splatnosti dodavateli, aniž by tím nastalo 
+prodlení se zaplacením.  
+ 
+3. Dodavatel je povinen vystavit fakturu ke  dni 
+uskutečněn í zdanitelného plnění. Dnem uskutečněn í 
+zdanitelného plnění je den převzetí dodávky 
+objednatelem, kterým se rozumí den přechodu 
+nebezpečí škody na objednatele.  
+ 
+4. Splatnost faktury je stanovena na 60 dnů od 
+doručení faktury objednateli. Cena bude zaplacena 
+na bankovní účet dodavatele uvedený ve smlouvě, 
+který je správcem daně zpřístupněn dálkovým 
+způsobem a je veden poskytovatelem platebních 
+služeb v  tuzemsku. Použití odst. 9 tohoto článku tím 
+není vyloučeno. Dluh objednatele je splněn 
+okamžikem odepsání dlužné částky z účtu 
+objednatele. V případě prodlení objednatele 
+s platbou v  délce trvání do 7 dnů není dodavatel 
+oprávněn účtovat úrok z  prodlení.  
+ 
+5. V případě, že objednatel zaplatí fakturovanou 
+cenu v době od 31. do 45. dne ode dne doručení 
+faktury, poskytuje dodavatel objednateli slevu 
+z ceny ve výši 0,5  % z fakturované částky (s DPH). 
+V případě, že objednatel zaplatí fakturovanou 
+cenu v době od 15. do 30. dne ode dne doručení 
+faktury, poskytuje dodavatel objednateli slevu 
+z ceny ve výši 1  % z fakturované částky (s DPH). 
+V případě, že objednatel zaplatí fakturovanou 
+cenu v době do 14 dnů ode dne doručení faktury, 
+poskytuje dodavatel objednateli sle vu z ceny ve 
+výši 1,5% z  fakturované částky (s DPH). 
+Objednatel je v  takovém případě oprávněn 
+zaplatit fakturovanou cenu již sníženou o 
+příslušnou slevu. Nárok na slevu zůstává 
+zachován i v  případě, kdy objednatel zaplatí 
+později z  důvodu uplatnění reklamace vad 
+dodávky.  
+ 
+6. Dodavatel je oprávněn započíst své pohledávky, 
+které jsou splatné, vymahatelné, nepromlčené, které 
+nejsou mezi stranami sporné, a za předpokladu, že 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 2 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+zápočet byl písemně odsouhlasen objednatelem. 
+Objednatel je oprávněn započíst svým písemným 
+prohlášením vůči dodavateli jakékoli své splatné  i 
+nesplatné  pohledávky  proti jakýmkoliv splatným i 
+nesplatným pohledávkám dodavatele . Dodavatel 
+není oprávněn postoupit jakoukoliv pohledávku za 
+objednatelem na třetí osobu bez předchozího 
+písemného souhlasu objednatele.  Pohledávky 
+v různých měnách je možné započíst podle kurzu 
+stanoveného Českou národní bankou ke dni zápočtu.  
+ 
+7. Zaplacení ceny objednatelem je podmíněno tím, 
+že dodavatel není vůči němu v  prodlení s  žádnou 
+platbou za dodávky, jež byly dodány i na základě 
+jiného smluvního vztahu. Po dobu takového prodlení 
+dodavatele není objednatel v  prodlení se zaplacením 
+ceny a sjednaná doba k zaplacení se přiměřeně 
+prodlužuje o dobu odpovídající délce shora 
+uvedeného prodlení dodavatele.  
+ 
+8. Na žádost objednatele v  odůvodněných případech 
+(např. v případě insolvence dodavatele) dodavatel 
+doloží, že provádí řádné odvody DPH. Do doby 
+doručení takového dokladu je objednatel oprávněn 
+odložit platbu za poskytnutou dodávku, aniž by tím 
+nastalo prodlení se zaplacením. Použit í následujícího 
+odstavce tím není vyloučeno.  
+ 
+9. Pokud je dodavatel ke dni uskutečnění 
+zdanitelného plnění nespolehlivým plátcem ve 
+smyslu zákona o DPH nebo pokud bude objednatel 
+v dobré víře, že je dodavatel v  postavení, které by 
+jinak založilo ručení objednatele za nezaplacenou 
+DPH, je objednatel oprávněn a) zaplatit dodavateli 
+cenu dodávky bez částky rovnající se příslušné výši 
+DPH a b) odvést DPH za dodávku přímo na účet 
+příslušného správce daně.  
+ 
+10. Dodavatel poskytne objednateli nezbytně nutnou 
+součinnost při jednání objednatele se správcem daně, 
+která bude spočívat zejména v  řádném a včasném 
+poskytnutí pravdivých informací a dokladů a v 
+podpoře při jednání objednatele se správcem daně, 
+pokud by správce daně vůči objednateli vznesl nárok 
+z titulu jeho ručení za DPH, nebo pokud by objednatel 
+dobrovolně odvedl DPH za dodávku podle této 
+smlouvy.  
+ 
+ IV. Předání  a převzetí dodávky  
+ 
+1. Dodávka je převzata:  
+a) u dodávek bez montáže: písemným potvrzením 
+doručení (včetně vyložení) kompletního předmětu 
+dodávky na místo určení podle potvrzené objednávky,  
+b) u dodávek s  montáží: písemným potvrzením 
+převzetí kompletního předmětu dodávky 
+objednatelem.  
+ 2. Při dodání technických zařízení a přístrojů je 
+dodavatel povinen vyškolit obsluhující a údržbářský 
+personál objednatele, popř. konečného uživatele 
+dodávky. Dále se dodavatel zavazuje dodat potřebné 
+dokumenty k dodávce (zejména plány kompletní 
+montáže vč. všech přípojek a stavebních nutností, 
+listy s  údaji, návody k  montáži, pokyny ke zpracování, 
+skladové, provozní předpisy a předpisy údržby apod.). 
+Veškeré dokumenty dodávané dodavatelem musí být 
+předány nejpozději spolu s dodávkou, a to ve dvojím 
+vyhotov ení v  českém jazyce, popřípadě v anglickém 
+jazyce. Na vyžádání objednatele je dodavatel 
+povinen bezplatně dodat také další jazykovou verzi 
+předaných dokumentů.  
+ 
+3. V případě, že předmětem smlouvy jsou výrobky 
+stanovené prováděcími předpisy k zákonu č. 22/1997 
+Sb., o technických požadavcích na výrobky, je 
+dodavatel povinen předat objednateli kopii 
+Prohlášení o shodě , resp. písemné Ujištění o vydání 
+prohlášení o shodě , a to nejpozději k dohodnutému 
+termínu plnění. Dále je dodavatel povinen v průběhu 
+plnění smlouvy umožnit objednateli kontrolu 
+rozpracovanosti předmětu plnění.  
+ 
+4. Objednatel je oprávněn kdykoli písemně vyzvat 
+dodavatele k pozastavení plnění smlouvy.  Dodavatel 
+se zavazuje po obdržení tohoto oznámení přerušit 
+veškeré práce do doby, než obdrží od objednatele 
+písemnou výzvu k pokračování v plnění.  
+ 
+5. Dodavatel není oprávněn požadovat za prvních 90 
+dnů ode dne pozastavení plnění smlouvy  úhradu 
+skladného ani jiných nákladů, které mu z tohoto 
+důvodu vzniknou. Termíny plnění smlouvy budou 
+prodlouženy přiměřeně o dobu trvání pozastavení 
+plnění.  
+ 
+6. Jestliže hrozí prodlení dodavatele, je dodavatel 
+povinen o tom objednatele ihned uvědomit a vyžádat 
+si jeho pokyny.  
+ 
+7. Při prodlení dodavatele s plněním smlouvy je 
+dodavatel povinen zaplatit objednateli smluvní 
+pokutu ve výši 0,3  % z ceny předmětného plnění (s 
+DPH) za každý den prodlení. U jednáním  smluvní 
+pokuty není dotčen nárok objednatele na náhradu 
+škody přesahující smluvní pokutu.  
+ 
+8. Místem plnění je místo uvedené v objednávce. 
+Časem plnění jsou pracovní dny od 8:30 hod. do 
+17:00 hod.  
+ 
+9 Dodavatel je oprávněn zajistit splnění dodávky 
+prostřednictvím poddodavatele pouze s  předchozím 
+souhlasem objednatele.  
+ 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 3 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+10. Pokud to je z povahy konkrétní části dodávky 
+možné, lze d odávku nebo její část provádět 
+prostřednictvím tzv. vz dáleného přístupu. Pokud 
+smlouva výslovně nestanoví, zda konkrétní část 
+dodávky má být dodavatelem prováděna v místě 
+plnění, nebo vzdáleným přístupem, přičemž povaha 
+plnění obě tyto varianty umožňuje, je objednatel 
+oprávněn zvolit mezi těmito způsoby dle svého 
+uvážení bez vl ivu na dohodnutou cenu dodávky. V 
+případě, že má být dodávka nebo její část prováděna 
+vzdáleným přístupem, objednatel je p ovinen takovýto 
+vzdálený přístup dodavateli umožnit. Dodavatel nese  
+náklady spojené se vzdáleným přístupem.  
+ 
+11. Dodavatel je oprávněn uskutečnit dodávku i před 
+sjednaným termínem plnění pouze s  výslovným 
+písemným souhlasem objednatele.  
+ 
+V. Dodání dodávky, přechod vlastnického práva, 
+přechod nebezpečí škody  
+ 
+1. Dodavatel předá dodávku  s vyplacenými výdaji na 
+svůj náklad a nebezpečí na sjednané místo dodání (v 
+České republice přepravné  zaplaceno a v  případě 
+přepravy  ze zahraničí – DAP dle INCOTERMS 2010). 
+Zásilky na dobírku nebudou  akceptovány.  Dodávku je 
+dodavatel  povinen zabalit takovým způsobem, aby v 
+průběhu přepravy nedošlo k jejímu poškození či ke 
+škodám na zdraví a majetku . 
+ 
+2. Dodavatel připojí k dodávce dodací list se všemi 
+údaji z  objednávky, jakými jsou číslo objednávky, 
+čísla dílů, přesné označení zboží, položka 
+objednávky a v  případě dodávek ze zemí Evropské 
+unie sazební zařazení zboží.  Součástí dodávky je i 
+vyplněné Prohlášení dodavatele pro účely exportní a 
+celní kontroly a dále doklady prokazující původ zboží, 
+sloužící pro účely celní, reexportu apod.  
+ 
+3. V případě, že náklady přepravy  dodávky na 
+sjednané místo plnění má dle potvrzené objednávky 
+hradit objednatel, je dodavatel oprávněn objednateli 
+vyúčtovat pouze ty náklady, které objednatel předem 
+odsouhlasil.  
+ 
+4. V případě, že náklady přepravy  dodávky na místo 
+plnění hradí objednatel, platí, že škody na dodávkách 
+při jejich přepravě  jsou pojištěny globálním 
+transportním pojištěním (GTV) Siemens Energy  
+s celosvětovou působností. Dodavatel je povinen 
+objednateli hlásit předem přepravu každé jednotlivé 
+zásilky v  ekvivalentní hodnotě nad 10  milionů EUR 
+a/nebo přepravu v  celkovém trvání (včetně doby 
+skladování v přepravě) přes 60 dnů. Dodavatel je 
+povinen pojištění Siemens Energy -GTV respektovat, 
+zejména též zabránit zdvojení tohoto pojištění. 
+Nadbytečné pojistné objednatel neuhradí. Tímto 
+ustanovením není vyloučena obecná odpovědnost dodavatele za škody na dodávkách při jejich 
+přepravě . 
+ 
+5. Pokud přepravu provádí dopravce  pověřený 
+objednatelem, je dodavatel povinen dopravce  
+informovat o nezbytných údajích týkajících se 
+nebezpečného zboží.  
+ 
+6. Dodavatel je povinen zajistit, že:  
+a) dodávka bude vybavena balicím nebo dodacím 
+listem se  zřetelným údajem o  obsahu, jakož i s 
+úplným číslem (značkou) objednávky objednatele,  
+b) každá část zásilky (tzv. colli) bude na obalu 
+opatřena zřetelným údajem o  obsahu, jakož i úplným 
+číslem (značkou) objednávky objednatele,  
+c) vypravení dodávky, jejíž přijetí v  místě určení 
+vyžaduje přítomnost/součinnost jejího příjemce, bylo 
+objednateli, popř. příjemci neprodleně písemně 
+oznámeno (avizováno) nejméně 1 pracovní den 
+předem, a to spolu se zřetelným údajem o  obsahu, 
+jakož i úplným číslem (značkou) objednávky.  
+ 
+7. Vlastnické právo a nebezpečí škody na dodávce 
+přechází na objednatele:  
+a) u dodávek bez montáže písemným potvrzením 
+převzetí (doručení včetně vyložení) nepoškozené 
+dodávky na místo určení dle potvrzené objednávky,  
+b) u dodávek s  montáží podpisem zápisu o převzetí 
+plnění dodavatelem i objednatelem.  
+ 
+8. Materiál ve vlastnictví objednatele, poskytnutý 
+dodavateli za účelem realizace dodávky, zůstává 
+vlastnictvím objednatele, musí být bezúplatně 
+odděleně skladován, označován a administrativně 
+veden. Jeho použití je přípustné jen pro splnění 
+závazků dodavatele  vůči objednateli. Při jeho 
+znehodnocení nebo ztrátě je dodavatel povinen na 
+své náklady obstarat a  použít odpovídající náhradu.  
+ 
+9. Zpracování a/nebo úpravy materiálu objednatele 
+obstarává dodavatel výhradně pro objednatele. 
+Objednatel je bezprostředně vlastníkem, resp. 
+spoluvlastníkem upraveného materiálu, 
+meziproduktu nebo nové věci. Kdyby to nemohlo být 
+z právních důvodů možné, pla tí, že objednatel je v 
+každém okamžiku zpracování nebo úpravy 
+vlastníkem každé nové věci . Dodavatel je povinen 
+každou tuto novou věc objednateli bezúplatně 
+opatrovat s  odbornou péčí do doby jejího předání 
+objednateli  
+ 
+10. Nástroje, formy, vzorky, modely, profily, výkresy, 
+normy, tiskové předlohy, instrukce v  jakékoliv formě, 
+jež poskytne objednatel, právě tak jako předměty 
+podle nich vyrobené, nesmějí být bez písemného 
+povolení objednatele předány třetím osobám, ani 
+použity k  jiným účelům než podle příslušné  smlouvy. 
+Dodavatel je povinen je chránit (zabezpečit) proti 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 4 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+neoprávněnému náhledu nebo použití a označit 
+jménem objednatele, je -li to technicky možné. 
+Poruší -li dodavatel tyto povinnosti, může objednatel 
+požadovat jejich vydání , aniž by tím jeho další práva 
+byla jakkoliv dotčena.  
+ 
+11. Dodavatel přebírá riziko změny okolností ve 
+smyslu § 1764 až 1766 občanského zákoníku.  
+ 
+VI. Záruka za jakost,  odpovědnost za vady  
+ 
+1. Dodavatel poskytuje objednateli záruku za 
+jakost na dodané dodávky v  délce 3 let, přičemž 
+záruční doba začíná běžet okamžikem přechodu 
+nebezpečí škody.  
+ 
+2. U dodávky, jež objednatel dále dodává třetí osobě, 
+aniž byla použita, začíná záruční doba běžet až 
+převzetím dodávky příslušnou třetí osobou, končí 
+však nejpozději 3 roky po přechodu nebezpečí škody 
+na zboží na objednatele.  
+ 
+3. Dodavatel se zavazuje, že jeho plnění bude 
+v souladu s  požadavky norem ISO 9001, ISO 14001 , 
+ISO 27001  a ISO 45001 . V případě, že je dodavatel 
+podle těchto norem certifikován, musí být platné 
+certifikáty k  dispozici na svých internetových 
+stránkách. Pokud dodavatel není podle těchto norem 
+certifikován, je povinen jednat v  souladu s  těmito 
+normami.  Objedna tel je oprávněn u dodavatele 
+provést audit za účelem zjištění shody plnění těchto 
+norem.  Dodavatel se zavazuje dodržovat veškeré 
+politiky, příručky, směr nice, instrukce  a pokyny 
+objednatele, se kterými byl seznámen.  
+ 
+4. Vadu, která byla  zjištěna do přechodu nebezpečí 
+škody nebo se projevila v záruce, je dodavatel 
+povinen na své náklady a dle volby objednatele buď 
+odstranit, nebo dodat novou dodávku, a to do 5 
+pracovních dnů od reklamace. Toto ustanovení se 
+použije také pro dodávky, u  nichž se přejímací 
+kontrola omezila jen na namátkovou kontrolu vzorků 
+nebo identity. Dodavatel je povinen zaslat objednateli 
+informaci o nápravných opatřeních, která zavedl 
+k zabránění opakování chyb ve formátu 
+požadovaném objednatelem. Lhů ta pro zaslání 
+informace je 2 pracovní dny od obdržení reklam ace. 
+ 
+5. Neprovede -li dodavatel odstranění vady, popř. 
+náhradní dodávku, a to ani po poskytnutí přiměřené 
+dodatečné lhůty objednatelem, je objednatel 
+oprávněn:  
+a) od smlouvy zcela nebo zčásti odstoupit,  
+b) požadovat poskytnutí slevy, nebo  
+c) na náklady dodavatele buď sám, nebo 
+prostřednictvím třetí osoby přistoupit k  odstraňování 
+vady či obstarat náhradní dodávku, přičemž povinnosti dodavatele ze záruky za jakost a z 
+odpovědnosti za vady tím nejsou dotčeny.  
+ 
+6. Objednatel má právo uplatnit vůči dodavateli 
+smluvní pokutu za vadné plnění předmětu smlouvy 
+ve výši 15%  z dohodnuté ceny. Nárok objednatele na 
+náhradu škody přesahující smluvní pokutu není 
+ujednáním smluvní pokuty dotčen.  
+7. K odstraňování vady na náklady dodavatele může 
+dojít i bez poskytnutí dodatečné lhůty dodavateli, 
+jestliže dodavatel byl s původní m plněním v  prodlení.  
+8. Náklady vynaložené objednatelem na odstranění 
+následků porušení povinnosti dodavatele a na 
+odstranění všech vad dodávky je dodavatel povinen 
+objednateli uhradit na základě písemné výzvy  
+objednatele . To se přiměřeně týká i nákladů marně 
+objednatelem vynaložených na zpracování nebo 
+úpravu dodávky za výše uvedeným účelem.  
+ 
+9. Objednatel je oprávněn uplatnit reklamace vad 
+dodávky takto:   
+a) do 1 měsíce od přechodu nebezpečí škody, nebo  
+b) do 1 měsíce od zjištění vad, pokud dodávka byla 
+dosud nepoužitá a vady zjištěny teprve při jejím 
+dalším zpracování nebo úpravě, nebo při jejím 
+dodání třetí osobě.  
+ 
+10. Výše uvedená pravidla platí v odpovídající míře i 
+pro náhradní dodávku dle odst. 4 . 
+ 
+11. Náklady spojené s  reklamací  včetně přepravních 
+nákladů hradí  dodavatel.  
+ 
+12. Dodavatel je povinen po dobu 10 let od 
+uskutečnění dodávky provádět nebo zajistit za 
+přiměřenou úplatu pozáruční opravy, a to včetně 
+obstarání náhradních dílů, pokud to z  povahy 
+dodávek vyplývá. V opačném  případě je dodavatel 
+povinen bez prodlení o této skutečnosti objednatele 
+informovat a zajistit mu náhradní řešení za 
+obdobných podmínek.  
+ 
+VII. Licenční ujednání  
+ 
+1. Pokud je součástí dodávky software nebo jiný 
+produkt chráněný autorskými právy (dále jen “APV”), 
+včetně souvisejících znalostí a vědomostí k jejich 
+využití, je objednatel oprávněn a povinen s  APV 
+nakládat způsobem dále uvedeným.  
+ 
+2. Dodavatel je povinen objednatele informovat – 
+nejpozději v  době potvrzení objednávky – zda 
+výrobky a služby, které má dodat, obsahují „Open 
+Source Software“ (otevřený software). Open Source 
+Software  se rozumí  jakýkoli software, který příslušný 
+poskytovatel licence poskytuje bez licenčních 
+poplatků kterémukoli uživateli na základě licence 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 5 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+nebo jiné dohody s  právem tento software 
+pozměňovat a/nebo distribuovat. Podmínky  otevřené 
+licence (Open License Terms) zahrnují následující  
+například tyto  licence: GNU, General Public License 
+(GPL), GNU Lesser GPL (LGPL), BSD License, 
+Apache License nebo MIT License.  V případě, že by 
+dodávky obsahovaly otevřený software, je dodavatel 
+povinen objednateli dodat nejpozději v  době 
+potvrzení objednávky následující: zdrojový kód 
+příslušného otevřeného softwaru, pokud příslušné 
+podmínky otevřeného zdroje sdělení tohoto 
+zdrojového kódu vyžadují, seznam veškerých 
+použitých open source souborů, s  uvedením 
+příslušné licence a obsahující kopii celého textu 
+takovéto licence  a písemné prohlášení o tom, že 
+v důsledku zamýšleného použití otevřeného softwaru 
+nebudou výrobky dodavatele ani výrobky objednatele 
+podléhat efektu „Copyleft Effect“.  V  případě, že 
+dodavatel sdělí objednateli, že jeho dodávka 
+obsahuje open source software nebo se objednatel 
+takovou informaci dozví až po potvrzení objednávky, 
+je objednatel oprávněn z rušit objednávku ve lhůtě 14 
+dnů od obdržení a potvrzení této informace, přičemž 
+nárok na náhradu škody tímto není dotčen.  
+ 
+3. Dodavatel tímto uděluje objednateli následující 
+nevýlučná, přenositelná, celosvětová a časově 
+neomezená práva k:  
+a) užívání dodávek, k  jejich integraci do jiných 
+produktů a k  jejich celosvětové distribuci,  
+b) poskytnutí podlicence k  užívání nebo povolení 
+třetím osobám užívat  APV a související dokumentace 
+ve spojení s  instalací, uvedením do provozu, 
+testováním a provozem APV,  
+c) poskytnutí podlicence práv k  užívání také osobám 
+ovládajícím objednatele nebo ovládaných 
+objednatelem nebo jiným osobám ve skupině 
+Siemens Energy , 
+d) užívání APV k  integraci do jiných produktů,  
+e) distribuci, pořízení rozmnoženiny (Všechny 
+záložní rozmnoženiny podléhají těmto licenčním 
+podmínkám. Všechny názvy, obchodní značky, 
+označení autorské ochrany (©, ®) a poznámky 
+o omezení uživatelských práv budou na  těchto 
+kopiích reprodukovány), prodeji, zapůjčení, 
+pronajímání APV, jeho poskytnutí ke stahování nebo 
+jeho zpřístupnění veřejnosti, např. ve smyslu 
+poskytování aplikačních služeb nebo v  jiném smyslu, 
+a k jeho kopírování v  potřebném rozsahu, avšak vždy 
+za předpokladu, že počet licencí používaných 
+v jednom okamžiku nesmí překročit počet 
+zakoupených licencí,  
+f) kromě práv udělených výše jsou osoby uvedené 
+v odstavci c) oprávněny povolit koncovým uživatelům 
+poskytovat licence na užití APV.  
+ 
+4. Všechny podlicence udělené objednatelem musí 
+obsahovat příslušnou ochranu práv k  duševnímu vlastnictví, která dodavatel vlastní. Veškeré 
+podlicence musí obsahovat smluvní ustanovení 
+používaná objednatelem k  ochraně jeho vlastních 
+práv k  duševnímu vlastnictví.  
+ 
+5. Dodavatel prohlašuje, že výše uvedená práva 
+k APV je oprávněn poskytnout, zejména prohlašuje, 
+že vypořádal všechna potřebná autorská práva 
+třetích osob.  
+ 
+ 
+VIII. Náhrada újmy  
+ 
+Celkový rozsah povinnosti objednatele nahradit 
+dodavateli újmu na jmění (škodu), která 
+dodavateli v  souvislosti s  plněním smlouvy nebo 
+porušením právního předpisu vznikne, je omezen 
+do výše 10% celkové smluvní ceny (bez DPH), a 
+to za veškeré škodní události v  jejich souhrnu. 
+Nahrazuje se pouze skutečná škoda; ušlý zisk ani 
+další typy škod se nenahrazují. Škoda se 
+nahrazuje přednostně v  penězích. Případné 
+smluvní pokuty či jiné sankce hrazené 
+objednatelem dodavateli se započítávají na 
+náhradu škody v plné vý ši. Výše sjednané 
+omezení se nepoužije na náhradu škody 
+způsobené úmyslně nebo z  hrubé nedbalosti 
+nebo na náhradu škody způsobené člověku na 
+jeho přirozených právech.  Promlčecí lhůta pro 
+uplatnění nároku na náhradu škody trvá 1 rok.  
+ 
+IX. Odstoupení od smlouvy  
+ 
+1. Smluvní strany mohou odstoupit od smlouvy pouze 
+v případech podstatného porušení smlouvy či 
+v případech výslovně uvedených ve smlouvě nebo 
+v těchto podmínkách  či v  případech výslovně 
+uvedených v  právních předpisech . Odstoupení je 
+účinné dnem doručení písemného oznámení o 
+odstoupení druhé smluvní straně.  
+ 
+2. Podstatným porušením smlouvy se rozumí:  
+a) prodlení dodavatele s uskutečněním dodávky delší 
+jak 20 dnů. V případě prodlení objednatel vyrozumí 
+dodavatele, zda trvá na uskutečnění dodávky. Trvá -li 
+objednatel na jejím uskutečnění, může od smlouvy 
+odstoupit teprve po marném uplynutí lhůty stanovené  
+k nápravě,  
+b) prodlení objednatele se zaplacením fakturované 
+částky, které je delší než 90 dnů,  
+c) porušení závazků uvedených v  článku XI. těchto 
+podmínek.  
+ 
+3. Smluvní strana je oprávněna taktéž odstoupit od 
+smlouvy s účinky ke dni doručení projevu vůle 
+obsahujícího odstoupení druhé smluvní straně, 
+pokud:                
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 6 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+a) bylo příslušným insolvenčním soudem vydáno 
+rozhodnutí o úpadku druhé smluvní strany,  
+b) byl příslušným insolvenčním soudem zamítnut 
+návrh na vydání rozhodnutí o úpadku, a to pro 
+nedostatek majetku druhé smluvní strany,  
+c) druhá smluvní strana zastavila své platby,  
+d) byl druhou smluvní stranou podán insolvenčnímu 
+soudu návrh na vydání rozhodnutí o úpadku ohledně 
+této druhé smluvní strany,  
+e) byl bezvýsledně veden výkon rozhodnutí nebo 
+exekuce na majetek druhé smluvní strany,  
+f) druhá smluvní strana se stala nespolehlivým 
+plátcem ve smyslu zákona o DPH.  
+ 
+4. Smluvní strany jsou oprávněny odstoupit od 
+smlouvy rovněž v  případě, že okolnost vyšší moci 
+brání realizaci dodávky po dobu delší než 3 měsíce.  
+ 
+5. Objednatel je oprávněn odstoupit od smlouvy také 
+v případě, kdy se dodavatel dostane vůči němu do 
+prodlení se splněním svých závazků z  jiné smlouvy, 
+které je delší než 30 dnů.  
+ 
+6. Objednatel je dále oprávněn odstoupit od smlouvy, 
+jestliže se zaváže uhradit dodavateli cenu již 
+dodaných a rozpracovaných dodávek ke dni 
+účinnosti odstoupení od smlouvy. Dodavatel je 
+v takovém případě povinen tyto dodávky předat 
+objednateli.  
+ 
+X. Důvěrnost, ochrana osobních údajů  
+ 
+1. "Důvěrnými informacemi" se rozumí jakékoliv 
+informace, data, údaje či sdělení označená smluvní 
+stranou, která informace poskytuje, jako „důvěrné“ či 
+podobně popsané, a dále zejména jakékoli obchodní 
+či technické informace a data, které jedna ze 
+smluvních stran sdělí druhé, a které se vztahují 
+k účelu, k  jehož naplnění je předmětný smluvní vztah 
+uzavírán, a to na jakémkoliv nosiči – ať už na papíře 
+či elektronicky. Budou -li data či informace důvěrného 
+charakteru sděleny ústně, musí být přijímající strana 
+na tuto skutečnost upozorněna při ústním sdělení a 
+následně musí být důvěrnost potvrzena předávající 
+stranou písemně do 3 dnů od sdělení.  
+ 
+2. Žádná ze smluvních stran není oprávněna bez 
+předchozího písemného souhlasu druhé smluvní 
+strany sdělit třetí osobě důvěrnou informaci, nebo jí 
+důvěrnou informaci, byť i jen částečně, jakkoli 
+zpřístupnit. Smluvní strany jsou oprávněny použít 
+přijaté dokumenty, údaje a  informace související 
+s důvěrnou informací pouze k účelu stanovenému 
+smluvním vztahem . Dodavatel je povinen přijmout 
+taková opatření, aby důvěrné informace nebyly 
+zpřístupněny žádné třetí osobě, včetně používání 
+ochrany proti malwaru, užití pouze legálního softwaru a dodržování bezpečnosti sítí. Porušením povinnosti 
+mlčenlivosti není poskytnutí informací při plnění 
+povinnosti vyplývající ze zákona nebo poskytnutí 
+informací soudu nebo  rozhodčímu soudu při 
+uplatnění jakýchkoli nároků či  práv z  daného 
+smluvního vztahu anebo poskytnutí informací, 
+dokumentů a údajů osobám, které s  danou smluvní 
+stranou tvoří koncern (holding), dále konzultantům 
+a jiným osobám zúčastněným na plnění smluvního 
+vztahu nebo činnostech souvisejících s  daným 
+smluvním vzta hem, kteří mají podle zákona nebo 
+smluvně převzatou povinnost mlčenlivosti, přičemž 
+žádná ze smluvních stran není oprávněna 
+v jakékoli  souvislosti s  tímto smluvním vztahem tyto 
+osoby zprostit povinnosti mlčenlivosti. Smluvní strany 
+se zavazují zajistit, aby tyto osoby byly seznámeny 
+s povinností utajení a  byly zavázány k  jejímu 
+dodržení ve stejném rozsahu jako smluvní strany. 
+Povinnost mlčenlivosti se nevztahuje na:  
+a) informace, které jsou veřejně známé v  době uza-
+vření smluvního vztahu, nebo k  jejichž zveřejnění do-
+jde následně jiným způsobem než porušením povin-
+nosti zachovávat důvěrnost smluvní stranou,  
+b) informace, které smluvní strana musí zveřejnit 
+v souladu s  právním předpisem nebo rozhodnutím 
+orgánu veřejné moci oprávněného k  tomu na základě 
+právního předpisu,  
+c) informace, které má smluvní strana prokazatelně 
+k dispozici již k  datu uzavření smluvního vztahu,  
+d) informace, které jsou nebo budou smluvní straně 
+sděleny třetí stranou bez nároků na omezení jejich 
+využití nebo důvěrnost.  
+ 
+3. Povinnost zachovávat důvěrnost trvá i po zániku 
+smluvního vztahu. V  případě porušení povinností dle 
+tohoto článku je porušující smluvní strana povinna 
+zaplatit smluvní pokutu ve výši 100.000, - Kč za každé 
+takové porušení. Nárok poškozené strany na ná-
+hradu škody přesahující smluvní pokutu není ujedná-
+ním smluvní pokuty dotčen.  
+ 
+4. Dodavatel uděluje souhlas objednateli k e 
+zpracovávání, shromažďování a uchovávání  
+osobních údajů dodavatele uvedených ve smlouvě či 
+objednateli předaných za účelem plnění smlouvy. 
+Tyto osobní údaje budou objednatelem 
+zpracovávány a uchovávány v interním registru 
+objednatele pro evidenční účely a k plnění jeho 
+smluvních závazků.  
+ 
+5. Dodavatel uděluje souhlas dle předchozího 
+odstavce na dobu trvání tohoto smluvního vztahu, a 
+na dobu dalších pěti (5) let od jejího splnění.  
+ 
+XI. Zásady chování dodavatele  
+ 
+1. Dodavatel se zavazuje dodržovat právní předpisy, 
+mimo jiné, i v  oblasti boje proti korupci, ochrany 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 7 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+hospodářské soutěže, boje proti praní špinavých 
+peněz, jakož i další právní předpisy trestního či 
+správního práva, jakož i ostatní principy a požadavky 
+obsažené v „ Zásadách chování společností skupiny 
+Siemens Energy  pro dodavatele a zprostředkovatele 
+(Siemens Energy  Group Code of Conduct for 
+Suppliers and Third Party Intermediaries) “, které jsou 
+uvedeny v  příloze č. 1 těchto podmínek.  
+ 
+2. Dodavatel se zejména zavazuje netolerovat 
+jakoukoliv formu korupce či úplatkářství, resp. se k 
+nim jakýmkoliv způsobem nepropůjčit, včetně toho, 
+že se zavazuje netolerovat jakékoliv protizákonné 
+nabídky plateb nebo podobných plnění veřejným 
+činitelům (oso bám působícím v  orgánech veřejné 
+moci či v  jiných subjektech kontrolovaných orgány 
+veřejné moci) sloužících k  tomu, aby tyto osoby 
+ovlivňovaly úřední výkon nebo zajistily neoprávněnou 
+výhodu v  souvislosti s  podnikáním smluvní strany. 
+Dále se dodavatel zejm éna zavazuje netolerovat 
+dětskou práci a nedodržování požadavků na ochranu 
+životního prostředí.  
+ 
+3. Na žádost objednatele je dodavatel nejvýše jednou 
+za rok povinen poskytnout objednateli podle svého 
+uvážení buď a) písemné informace na formuláři 
+objednatele, nebo b) písemnou zprávu, kterou 
+objednatel odsouhlasí, popisující opatření, která 
+prodávající po dnikl, nebo se chystá podniknout 
+k zajištění požadavků obsažených v  „Zásadách 
+chování společností skupiny Siemens Energy  pro 
+dodavatele a zprostředkovatele “. 
+ 
+4. Objednatel a/nebo třetí osoba jím pověřená, kterou 
+dodavatel akceptuje, jsou oprávněni prověřovat 
+dodržování povinností obsažených v „ Zásadách 
+chování společností skupiny Siemens Energy  pro 
+dodavatele a zprostředkovatele “ dodavatelem, a to i 
+v prostorách dodavatele. Inspekce může být 
+provedena pouze na základě předchozího 
+písemného oznámení ze strany objednatele během 
+běžné pracovní doby a v  souladu s  platnými předpisy 
+na ochranu údajů. Tato inspekce nesmí nepřiměřeně 
+omezit obchodní aktivity dodavatele,  ani narušit 
+smluvní závazky dodavatele týkající se důvěrnosti 
+informací vůči třetím osobám. Při prováděné inspekci 
+se dodavatel zavazuje poskytnout přiměřenou 
+spolupráci. Každá strana si hradí své náklady 
+vynaložené ve spojitosti s  touto inspekcí.  
+ 
+5. Dodavatel se zavazuje neumožnit výkon nelegální 
+práce ve smyslu zvláštních právních předpisů, a to 
+jak přímo pro dodavatele, tak i případně pro jeho 
+poddodavatele. Dodavatel se zavazuje na žádost 
+objednatele předložit objednateli doklady prokazující, 
+že osoby vykonávaj ící práci pro dodavatele nebo 
+jeho poddodavatele nevykonávají nelegální práci ve 
+smyslu zvláštních právních předpisů.   
+6. Dodavatel je povinen n ahlásit objednateli bez 
+zbytečného odkladu jakékoliv bezpečnostní incidenty 
+ve smyslu ISO 27001.  
+ 
+XII. Zásady BOZP, PO a ŽP pro dodavatele  
+ 
+1. Níže uvedené zásady jsou zpracovány v  souladu 
+s právními předpisy a jsou určeny pro poučení osob 
+provádějících na pracovištích objednatele práce. 
+Jejich účelem je zajistit bezpečnost a ochranu zdraví 
+při práci a ochranu životního prostředí, zejména 
+správné nakládání s odpady a nebezpečnými 
+chemickými lá tkami, a dále informování o systémech 
+řízení zavedených ve společnosti objednatele.  
+ 
+2. Dodavatel je povinen dodržovat veškeré právní 
+předpisy týkající se ochrany zdraví a bezpečnosti a je 
+povinen vynakládat své nejlepší úsilí k  opatřením, 
+která mají za cíl:  
+a) předcházet rizikům, odstraňovat rizika nebo 
+minimalizovat působení neodstranitelných rizik pro 
+zdraví a bezpečnost personálu zaměstnávaného 
+dodavatelem a přímými či nepřímými poddodavateli 
+dodavatele na provádění díla (dále jen „personál“) a  
+b) k  zajištění toho, aby žádné osoby, které na 
+pracovišti oprávněně jsou, včetně personálu, 
+personálu objednatele a návštěvníků, neutrpěly 
+jakoukoli újmu.  
+ 
+3. Před dodáním zboží je dodavatel povinen 
+objednateli poskytnout písemné posouzení rizika, 
+které:  
+a) rozebírá veškerá potenciální nebezpečí pro zdraví 
+a bezpečnost personálu vyplývající z  díla a  
+b) určuje opatření k  vyloučení takových nebezpečí,  
+a dále přijmout posouzení rizik od objednatele.  
+ 
+4. Dodavatel je povinen zajišťovat, aby veškerý jeho 
+personál byl odborně a zdravotně způsobilý k  dodání 
+zboží  (a na výzvu objednatele tuto způsobilost 
+doložit), zúčastňoval se lokálně -specifických 
+bezpečnostních školení a obdržel příslušné osobní 
+ochranné prostředky před zahájením práce na 
+pracovišti. Dodavatel je povinen zajišťovat, aby 
+personál osobní ochranné prostředky využíval 
+příslušným způsobem a aby takové prostředky byly 
+vždy udržovány v  dobrém a provozuschopném stavu . 
+ 
+5. Objednatel si vyhrazuje právo, podle svého 
+výlučného uvážení, vyloučit jakýkoli personál 
+z pracoviště a/nebo pozastavit dodávky zboží  
+z bezpečnostních, zdravotních a ochranných důvodů, 
+a to kdykoli bez jakékoli odpovědnosti . 
+ 
+6. Dodavatel je povinen ustanovit odpovědnou osobu 
+jako svého zástupce pro záležitosti ekologické, 
+zdravotní a bezpečnostní (dále jen „zástupce 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 8 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+dodavatele pro EHS“) a je povinen zajišťovat, aby se 
+zástupce dodavatele pro EHS zúčastňoval jednání o 
+bezpečnosti pořádaných objednatelem . Dodavatel je 
+dále povinen určit koordinující osobu dle § 101 odst. 
+3, druhá věta, zákoníku práce.  
+ 
+7. Dodavatel je povinen pravidelně sledovat soulad s 
+ustanoveními právních předpisů i se smluvními 
+ustanoveními o ochraně zdraví a bezpečnosti tím, že 
+bude provádět bezpečnostní prohlídky na pracovišti. 
+S dostatečným předstihem před bezpečnostní 
+prohlídkou je dodavatel povinen objednatele pozvat 
+k účasti na prohlídce, a umožnit kontroly výše 
+uvedeného souladu přímo objednatelem, a to bez 
+předchozího upozornění (Spot Checks + ToolBox 
+Talks), a vyvinout maximální úsilí k  účasti dodavatele 
+na těchto kontrolách. V  případě, že dodavatel zjistí 
+nesoulad s  ustanoveními o ochraně zdraví a 
+bezpečnosti, je povinen soulad bez zbytečného 
+prodlení obnovit a společnost Siemens Energy  o 
+zjištěních a o stavu nápravných kroků informovat . 
+ 
+8. Na žádost objednatele je dodavatel povinen 
+objednateli neprodleně udělit přístup k  veškerým 
+dokumentům týkajícím se otázek ochrany zdraví a 
+bezpečnosti souvisejících s e zbožím . 
+ 
+9. V případě události vedoucí:  
+a) ke smrti nebo k závažnému úrazu způsobujícímu 
+přímé ohrožení života nebo trvalé zdravotní následky 
+jakéhokoli Personálu, je dodavatel povinen 
+informovat objednatele okamžitě , 
+b) k ostatním úrazům jakéhokoli Personálu, je 
+dodavatel povinen informovat objednatele do 
+jednoho pracovního dne.   
+ 
+Dále je dodavatel povinen bez zbytečného odkladu:  
+1) objasnit příčiny a okolnosti vzniku úrazu,  
+2) stanovit příslušná opatření k  vyloučení podobných 
+příhod do budoucna,  
+3) vymezit lhůty pro realizaci takovýchto opatření a  
+4) poskytnout objednateli písemnou zprávu 
+obsahující dostatečné podrobnosti o příčině, 
+stanovených opatřeních a vymezených lhůtách. 
+Dodavatel je povinen poskytnout plnou součinnost při 
+jakémkoli dalším šetření prováděném objednatelem, 
+včetně poskytnutí inf ormací, svědectví a dokladů pro 
+objasnění příčin a okolností vzniku úrazu . 
+ 
+10. V případě, že objednatel vytvoří pro předmětné 
+pracoviště dokument k  oblasti bezpečnosti a zdraví 
+(dále jen „plán EHS“), poskytne dodavateli kopii 
+daného plánu EHS. Dodavatel je povinen písemně 
+potvrdit jeho obdržení a dodržovat předpisy v  něm 
+obsažené. Totéž platí pro aktualizace plánu EHS, 
+které objednatel podle svého uvážení případně 
+vytvoří. Dodavatel je povinen zajistit, aby se k dodržování plánu EHS a jeho aktualizací zavázali i 
+jeho přímí i nepřímí poddodavatelé použití 
+k provádění díla . Dodavate l je povinen zhotovit 
+vlastní plán EHS a předložit jej objednateli před 
+zahájením dodávek zboží  ke schválení.  
+ 
+11. Vedle jakýchkoli jiných práv, která objednatel 
+případně má, platí, že v  případě podstatného nebo 
+opakovaného porušení ustanovení právních předpisů 
+nebo smluvních ustanovení o ochraně zdraví a 
+bezpečnosti dodavatelem, včetně ustanovení tohoto 
+článku i ustanovení plánu EHS objednatele i plánu 
+EHS dodavatele, může objednatel ukončit smlouvu, 
+a to naprosto bez jakékoli odpově dnosti, poté, co 
+dodavateli poskytne přiměřenou lhůtu k  nápravě 
+porušení.  
+12. Dodavatel odpovídá za své pracovníky,  a je 
+povinen zajistit, aby všichni měli  platné povolení k  
+pobytu a výkonu práce na území České republiky . 
+ 
+13. V  případě, že by dodavatel dodal výrobky, které 
+podléhají omezením týkajícím se látek a/nebo 
+požadavkům na informace uloženým právními 
+předpisy (např. REACH, RoHS), je dodavatel 
+povinen takové látky deklarovat v  internetové 
+databázi BOMcheck (www.BOMcheck.net) nebo v  
+přiměřeném formátu poskytnutém objednatelem 
+nejpozději do dne prvního dodání výrobků , a to  ve 
+vztahu k  předpisům , které jsou účinné v  místě sídla 
+dodavatele nebo objednatele nebo v  určeném místě 
+dodání požadovaném objednatelem. Dále je 
+doda vatel způsobem uvedeným výše  povinen 
+deklarovat všechny  látky, které jsou uvedeny v  
+aktuálním znění seznamu deklarovatelných látek 
+Siemens Energy  („Siemens Energy  List of Declarable 
+Substances “). 
+ 
+14. Pokud je pro splnění sjednané práce použití 
+nebezpečných chemických látek a přípravků 
+nezbytné, musí dodavatel poskytnout objednateli  
+jejich seznam a bezpečnostní listy a jejich používání 
+musí být odsouhlaseno specialistou EMS 
+objednatele  a musí prokázat připravenost pro případ 
+havárie . 
+ 
+15. V  případě, že by dodávka obsahovala zboží, které 
+je podle mezinárodních předpisů zařazeno jako 
+nebezpečné zboží, je dodavatel povinen objednatele 
+o tom informovat způsobem dohodnutým mezi 
+dodavatelem a objednatelem, avšak v  každém 
+případě nejpozději do dne potvrzení objednávky.  
+ 
+16. Dodavatelem přivezené nebo vnesené 
+nebezpečné chemické látky a chemické přípravky, 
+které nebyly ten samý pracovní den spotřebované, je 
+dodavatel povinen při ukončení pracovního dne z  
+objektu objednatele odvézt, nebo uložit na místo k  
+tomu určené až do jejich spotřebování.  
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 9 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+ 
+17. Prázdné nevyčištěné obaly od nebezpečných 
+chemických látek a  chemických přípravků je 
+dodavatel povinen odvézt v den jejich vyprázdnění.  
+ 
+18. Dodavatel, jehož činností v  objektu objednatele 
+vznikl odpad, je původcem tohoto odpadu a je 
+povinen zajistit jeho zneškodnění na své náklady.  
+ 
+19. Dodavatel je povinen na žádost zákazníka včas 
+poskytnout veškeré potřebné údaje a informace v 
+souladu se zákonnými předpisy EU, které se týkají 
+mechanismu uhlíkového vyrovnání na hranicích 
+(“CBAM”), aby mohl splnit své povinnosti vůči třetím 
+stranám. Nejno vější vývoj CBAM i pokyny jsou k 
+dispozici na oficiálních webových stránkách  Carbon 
+Border Adjustment Mechanism Website;  v současné 
+době jsou k dispozici pod následujícím odkazem  
+https:taxation -customs.ec.europa.eu/carbon -border -
+adjustment -mechanism_en  
+ 
+20. Objednatel je oprávněn provést u dodavatele 
+audit systému jakosti  a systému BOZP . Ustanovení 
+článku XI. odst. 4 těchto podmínek se použije 
+obdobně.  
+ 
+21. Dodavatel se zavazuje zaplatit  objednateli 
+smluvní pokutu ve výši 50.000  Kč za každé závažné 
+porušení povinností dle čl. XII. těchto podmínek resp. 
+25.000 Kč za každý případ ostatního porušení 
+povinností dle čl. XII. těchto podmínek tak, jak je 
+uvedeno v Sankčním řádu EHS, který tvoří přílohu č. 
+2 těchto podmínek.  
+ 
+XIII. Ustanovení týkající se exportní kontroly  
+ 
+1. Objednatel není povinen plnit smlouvu, pokud 
+takovémuto plnění brání jakékoli překážky vyplývající 
+z národních nebo mezinárodních předpisů z oblasti 
+práva mezinárodního obchodu, anebo na základě 
+embarg či jiných sankcí.  
+ 
+2. Dodavatel je ve vztahu k dodávaným výrobkům a 
+poskytovaným službám povinen dodržet veškerá 
+aplikovatelná ustanovení příslušných národních 
+právních předpisů a mezinárodního práva, jež se 
+týkají exportní kontroly, cel či souvisejících daní a 
+poplatků, a práv a mezinárodního obchodu (dále 
+souhrnně jen “právo mezinárodního obchodu”). 
+Dodavatel je rovněž povinen obstarat nutné vývozní 
+licence či povolení, ledaže by podle aplikovatelného 
+ustanovení právo mezinárodního obchodu byl o tyto 
+licence či povolení povi nen požádat nikoli dodavatel, 
+nýbrž objednatel či třetí osoba.  
+ 
+3. Dodavatel je povinen neprodleně, nejpozději však 
+do stanoveného termínu plnění, poskytnout objednateli v písemné formě veškerá data a 
+informace, která jsou nezbytná k tomu, aby 
+objednatel mohl dodržet veškerá aplikovatelná 
+ustanovení práva mezinárodního obchodu, jež se 
+mohou na vývoz, dovoz či (v případě dalšího prodeje) 
+zpětný vývoz příslušných  výrobků či služeb vztahovat. 
+Zejména je dodavatel ke každému výrobku či službě 
+povinen objednateli poskytnout:  
+a) “Export Control Classification Number“ v  souladu s 
+„U.S. Commerce Control List“ (ECCN) v případě, že 
+zboží podléhá úpravě „U.S. Export Administration 
+Regulations“,  
+b) veškerá vývozní čísla, zejména všechna AL čísla 
+podle komunitárních předpisů v  případě, že zboží je 
+uvedeno v  Příloze č. 1 Nařízení Rady (ES) č. 
+428/2009,  
+c) statistické číslo zboží podle platné klasifikace zboží 
+statistik zahraničního obchodu a zařazování dle HS 
+(harmonizovaný systém),  
+d) údaje o zemi původu (v případě nepreferenčního 
+původu),  
+e) prohlášení dodavatele k  preferenčnímu původu 
+zboží (v případě evropských dodavatelů) či 
+preferenční certifikát (v případě neevropských 
+dodavatelů), je -li to ze strany objednatele vyžádáno 
+(dále souhrnně jen “data”)  
+f) důkaz o zemi původu vstupů ze železa a oceli 
+použitých pro zpracování výrobků . 
+ 
+4. V případě jakýchkoliv změn původu nebo 
+vlastností výrobků či služeb, anebo změn 
+aplikovatelných ustanovení práva mezinárodního 
+obchodu,  je dodavatel povinen neprodleně, 
+nejpozději však do stanoveného termínu plnění,  
+aktualizovat data, a tato data objednateli v písemné 
+formě poskytnout. Dodavatel se zavazuje uhradit 
+objednateli veškeré náklady či jinou škodu, která by 
+mu vznikla v  důsledku neúplnosti či nesprávnosti 
+poskytnutých dat.  
+ 
+5. Dodavatel se zavazuje zajistit nezbytné 
+organizační instrukce a přijmout opatření, zvláště 
+dbát na zabezpečení obchodních prostor, balení, 
+přepravy, obchodních partnerů, zaměstnanců a 
+informací, aby zaručil bezpečnost v  dodavatelském 
+řetězci dle požadavků mezinárodně uznávané 
+iniciativy podle norem pro zabezpečení a sjednocení 
+celosvětového obchodu přijatých Světovou celní 
+organizací (WCO SAFE Framework of Standards)  
+(např. oprávněný hospodářský subjekt – Authorized 
+Economic Operator AEO, celní a obchodn í 
+partnerství proti terorismu Customs – Trade 
+Partnership Against Terrorism C -TPAT). Dodavatel 
+musí zboží nebo služby určené pro objednatele nebo 
+třetí stranu pověřenou objednatelem zabezpečit proti 
+neoprávněnému přístupu nebo manipulaci. 
+Dodavatel pověří jen spolehlivé osoby pro dispozice 
+se zbožím či službami a zaváže své poddodavatele, 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 10 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+aby přijali odpovídající bezpečnostní opatření. Kromě 
+dalších práv a opatření, která mohou objednateli 
+náležet, může objednatel v  případě porušení těchto 
+závazků dodavatelem odstoupit od této smlouvy 
+nebo jakékoliv nákupní objednávky, vystavené na 
+jejím základě. V  případě, že je toto porušení smlouvy 
+dodavatelem možné odstranit, objednatel je 
+oprávněn odstoupit od této smlouvy jen, pokud 
+porušení nebylo dodavatelem odstraněno ani 
+v dodatečné přiměřené lhůtě, poskytnuté 
+objednatelem.  
+ 
+XIV. Ustanovení týkající se kybernetické 
+bezpečnosti  
+ 
+1. Dodavatel přijme vhodná organizační a technická 
+opatření k zajištění důvěrnosti, authenticity, integrity 
+a dostupnosti činností dodavatele stejně jako jeho 
+výrobků a služeb. Tato opatření budou odpovídat 
+dobré průmyslové praxi a budou zahrnovat vhodný 
+systém řízení Informační bezpečnosti konsistentní se 
+standar dy jako ISO/IEC 27001 nebo IEC 62443 (v 
+použitelném rozsahu).  
+  
+2. Činnostmi dodavatele se rozumí veškerý majetek, 
+procesy a systémy (včetně informačních systémů), 
+data (včetně zákaznických dat), person ál a lokality, 
+používané nebo zpracovávané dodavatelem čas od 
+času za účelem plnění smlouvy.   
+ 
+3. Pokud výrobky nebo služby zahrnují software, 
+firmware, nebo čipsety :  
+a) dodavatel zavede vhodné standardy, procesy a 
+metody prevence, identifikace, vyhodnocení a oprav 
+jakýchkoliv slabých míst, záludných kódů a bezpeč-
+nostních incidentů u výrobků a služeb, které budou 
+konsistentní s dobrou průmyslovou praxí a a stan-
+dardy ISO/IE C 27001 nebo  IEC 62443 (v použitel-
+ném rozsahu) , 
+b) dodavatel bude pokračovat v podpoře a poskyto-
+vání služeb oprav, aktualizací, vylepšování a udržo-
+vání výrobků a služeb včetně poskytování oprávek 
+objednateli napravujících slabá místa po dobu přimě-
+řeného životního cyklu daných výrobků a služeb,  
+c) dodavatel poskytne objednateli seznam materiálů 
+identifikujících softwarové komponenty od třetích 
+stran obsažené ve výrobcích. Software třetích stran 
+bude aktualizovaný ke dni dodávky objednateli,  
+d) dodavatel zaručuje objednateli právo, ale objedna-
+tel nebude povinen toto právo využít, testovat nebo 
+nechat otestovat výrobky pro škodlivý kód nebo bez-
+pečnostní zranitelnosti, a to kdykoliv, a adekvátně 
+v tomto objednatele podporovat . 
+e) dodavatel poskytne objednateli kontaktní údaje pro 
+všechny záležitosti týkající se informační bezpečnosti 
+(dostupné v  pracovní době) . 
+ 
+4. Dodavatel bezodkladně vyrozumí objednatele o všech relevantních incidentech v  oblasti informační 
+bezpečnosti, které se stanou nebo na něž bude 
+podezření, a o slabých místech objevených 
+v jakékoliv činnosti dodavatele, výrobcích či službách, 
+pokud a v  rozsahu, v  jakém by objednatel byl nebo 
+mohl by pravděpodobně být závažným způsobem 
+dotčen .  
+ 
+5. Dodavatel přijme příslušná opatření k  dosažení 
+toho, že jeho subdodavatelé a dodavatelé budou 
+v přiměřené době vázáni závazky podobným 
+závazkům obsaženým v  tomto ustanovení.  
+ 
+6. Na základě žádosti objednatele poskytne 
+dodavatel písemný důkaz o jeho souladu s  těmito 
+ustanoveními včetně obecně akceptovatelných zpráv 
+auditorů (např.  SSAE -16 SOC 2 Type II).  
+ 
+XV. Závěrečná ustanovení  
+ 
+1. Je-li nebo stane -li se některé ustanovení smlouvy 
+či těchto podmínek neplatným, nevymahatelným, 
+zdánlivým nebo neúčinným, nedotýká se taková 
+skutečnost platnosti, vymahatelnosti nebo účinnosti 
+ostatních ustanovení smlouvy či těchto podmínek. 
+Strany smlouv y jsou v takovém případě povinny 
+vynaložit veškeré úsilí k uzavření dodatku ke smlouvě, 
+jímž bude příslušné neplatné, nevymahatelné nebo 
+neúčinné ustanovení nahrazeno novým, které bude 
+nejlépe odpovídat původně zamýšlenému účelu. 
+Právo domáhat se zrušení z ávazku ve smyslu § 2000 
+občanského zákoníku je vyloučeno.  
+ 
+2. Písemnou formou se ve smyslu těchto podmínek 
+rozumí dokument vyhotovený buď a) v tištěné 
+podobě a zaslaný druhé smluvní straně na adresu 
+smluvní strany uvedenou ve smlouvě 1) 
+doporučenou poštou nebo kurýrní službou či 
+jakýmkoliv jiným způsobem, který umož ňuje předání 
+potvrzení o doručení zpět odesílateli, nebo 2) faxem 
+na faxové číslo smluvní strany uvedené ve smlouvě 
+s potvrzením o doručení, nebo b) v  elektronické 
+podobě a zaslaný elektronickou poštou se 
+zaručeným elektronickým podpisem či elektronickou  
+značkou.  
+ 
+3. Písemnost se považuje za doručenou 3. pracovní 
+den poté, co byla zaslána některým ze způsobů 
+uvedených v  předchozím odstavci na příslušnou 
+adresu smluvní strany, a to i když adresát písemnost 
+nepřevzal.  
+ 
+4 Smlouva a jakékoli spory nebo nároky, které 
+vzniknou na jejím základě nebo v souvislosti 
+s plněním smlouvy (včetně mimosmluvních sporů 
+nebo nároků), se budou řídit a vykládat podle 
+hmotného práva České republiky. Úmluva OSN o 
+ 
+Objednací obchodní podmínky  
+ 
+Siemens  Energy , s.r.o.  
+ 
+– datum vydání: 01. 02. 2024 – 
+ 
+ 
+- 11 - 
+ 
+Siemens Energy  je ochranná známka používaná na základě licence od Siemens AG. 
+smlouvách o mezinárodní koupi zboží (CISG) se 
+nepoužije.  
+ 
+5. Vylučuje se použití § 558 odst. 2, § 1726, § 1728, 
+§ 1729, § 1740 odst. 3, § 1744, § 1751 odst. 2, § 
+1757 odst. 2 a 3, § 1765, § 1798 až 1800, § 1950 a 
+§ 2112  občanského zákoníku. Smluvní strany 
+výslovně potvrzují, že tuto smlouvu uzavírají jako 
+podnikatelé při svém podnikání. Ani jedna 
+smluvní strana vůči druhé nemá postavení slabší 
+strany.  
+ 
+6. Všechny spory vzniklé ze smlouvy nebo v 
+souvislosti s ní, včetně jakýchkoli otázek ohledně 
+ukončení nebo následné změny smlouvy, budou 
+s konečnou platností rozhodnuty obecnými 
+soudy České republiky. Platí, že se smluvní 
+strany dohodly, že m ístně příslušným soudem je 
+obecný soud objednatele.  
+ 
+7. Tyto podmínky tvoří spolu s dokumentem, jehož 
+jsou přílohou a přílohami tohoto dokumentu, úplnou 
+smlouvu a nahrazují veškerá dřívější písemná či ústní 
+jednání, návrhy nebo dohody týkající se tohoto 
+smluvního vztahu. Smluvní strany se dohodly, že nad 
+rámec  této smlouvy nemohou být jakákoliv práva a 
+povinnosti dovozovány z dosavadní či budoucí praxe 
+zavedené mezi smluvními stranami či obchodních 
+zvyklostí zachovávaných obecně či v odvětví 
+týkajícím se předmětu této smlouvy.  
+ 
+8. Objednatel je oprávněn postoupit smlouvu na jinou 
+osobu.  K rámcové smlouvě, jejíž součást jsou tyto 
+podmínky, je oprávněna přistoupit jakákoliv právnická 
+osoba přímo č nepřímo kontrolovaná společností 
+Siemens Energy  Aktiengesellschaft, a to formou 
+písemného prohlášení o přistoupení doručeného 
+dodavateli. Práva a povinnosti uvedené v  rámcové 
+smlouvě se použijí i na právní vztahy mezi 
+dodavatelem a při stupující právnickou osobou 
+vztahující se k  předmětu smlouvy . Prohlášení o 
+přistoupení nezakládá společnou a  nerozdíl nou 
+odpovědnost přistupující společnosti a objednatele 
+nebo jiných účastníků rámcové smlouvy, ani ručení, 
+zajištění závazku nebo obdobný právní vztah.  
+ 
+9. Smlouvu lze měnit a doplňovat pouze písemnými 
+číslovanými dodatky podepsanými všemi smluvními 
+stranami. Smlouva či její změna není sjednána, 
+dokud smluvní strany neujednaly v  úplné shodě 
+všechny náležitosti, a to písemným projevem (v 
+případě objednávky se musí jednat o potvrzení 
+objednávky v  celém rozsahu bez jakékoliv odchylky) 
+v celém rozsahu . 
+ 
+10. Objednatel je ve smyslu § 1752 odst. 1 
+občanského zákoníku oprávněn měnit tyto 
+podmínky. Účinnost změny nastává 10 dnů od jejího  doručení dodavateli podle článku XV. odst. 
+1 těchto podmínek. Dodavatel je oprávněn do 10 
+dnů ode dne doručení oznámení o změně těchto 
+podmínek změny těchto podmínek odmítnout a 
+tyto obchodní podmínky vypovědět s  výpovědní 
+lhůtou nejvýše 30 dnů.  
+ 
+Přílohy:  
+ 
+č. 1 – Zásady chování společností skupiny Siemens 
+Energy  pro dodavatele a zprostředkovatele  
+ 
+č. 2 – Pravidla chování v oblasti EHS a Sankční řá d 
+ 
+  

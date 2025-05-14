@@ -1,0 +1,12 @@
+siemens-energy.com/gasturbines Industrial gas turbine 
+SGT-800
+Siemens Energy is a trademark licensed by Siemens AG.
+NOTE: All performance values are based on standard design, ISO ambient conditions and natural gas fuel. No intake or exhaust loss.45 MW 50 MW 56 MW 57 MW 62 MW
+Gross efficiency % 38.4 39.4 39.5 40.1 41.1
+Heat rate kJ / kWh 9,381 9,147 9,123 8,970 8,759
+Turbine speed rpm 6,600 6,600 6,600 6,600 6,600
+Pressure ratio 18.3:1 19.8:1 22.0:1 22.0:1 21.1:1
+Exhaust mass flow kg / s 115.1 124.7 137.7 136.6 135.5
+Exhaust temperature °C 574 560 564 565 596* H2 content in natural gas 
+(volume percent)75%*Capable to burn
+hydrogen

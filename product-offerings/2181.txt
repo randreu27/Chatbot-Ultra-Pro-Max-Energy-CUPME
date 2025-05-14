@@ -1,0 +1,54 @@
+Unrestricted April 2022 1 NTS ITC012 Iss 001 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For the attention of the Quality Director / Manager 
+ 
+Dear Sir or Madam 
+ 
+Introduction 
+This Notice to Suppliers (“ NTS”) covers the latest update to the Energy Business Quality Requirements (“ EBQR”) for all 
+Siemens Energy (“ SE”) for Aeroderivative Gas Turbine (“ AGT”) Suppliers, Maintenance Repair Overhaul Centres and 
+Repair Vendors (“ Suppliers ”). The SE EBQR version 3 document is the SE Supplier quality guidelines for all AGT 
+Suppliers, the document is aligned with ISO 9001:2015, (International Standard for Quality Management System 
+Requirements). 
+ 
+Scope/Applicability 
+The purpose of the EBQR is to formally communicate the SE Supplier quality guidelines and expectations to the global 
+AGT supply chain. In this latest version of the EBQR there are additional requirements unique to SE AGT which our 
+Suppliers are expected to adhere to in conjunction with ISO 9001:2015 clauses 1 – 10.  This alignment with ISO 9001:2015 
+will enable Suppliers to align the EBQR with their own QSHE systems more efficiently. 
+ 
+Action Required 
+EBQR version 3 incorporates a combination of version 1, and version 2 relevant topics in addition the Introduction of new 
+requirements that include: Foreign Object Debris (“ FOD”), UK Conformity Assessed Marking (“ UKCA”), and Counterfeit 
+Fraudulent Suspect Items (“ CFSI”).  A Correlation Matrix Annex A1 shows the content changes from previous versions 
+(version 1 and version 2) to the current version 3, with the aim to enable Suppliers to quickly establish their own correlation 
+and compliance matrices. 
+ 
+Link to Document: 
+This new version of the document is available on the SE supplier portal within the AGT section. If you require further 
+information, please contact your in country regional supplier quality representatives.  
+  
+https://www.siemens-energy.com/global/en/company/about/supply-chain-management/supplier-
+information.html  
+With Kind regards 
+ 
+NTS Category:       Authorised by: 
+        
+Supplier Quality Management      Greg Hart – Supplier Quality Manager      Notice to Suppliers              
+        Subject: EBQR Update to Version 3 – April 2022          
+          
+         Originator:  Anthony Duggan 
+         Job Title:     Supplier Quality Engineer 
+         Product Line:  Aero Derivative Gas Turbine (AGT) 
+ Siemens Energy Business Unit: Industrial Turbine Company (UK) Ltd    
+ 
+        NTS Number: ITC012 
+        Issue: 001 
+        Date: 28th April 2022 

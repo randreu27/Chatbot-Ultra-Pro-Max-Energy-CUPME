@@ -1,0 +1,364 @@
+ 
+ 
+Allgemeine Geschäftsbedingungen für den Einkauf der Siemens Energy  (Version 05.2023) 
+ 
+© Siemens Energy 2021 
+ 
+1. Allgemeines  
+1.1 Unsere Bestellungen sind nur dann verbindlich, wenn sie schriftlich 
+erteilt werden. Mündliche und telefonische Abmachungen werden 
+von uns schriftlich bestätigt. Dies gilt auch für alle Änderungen, 
+Ergänzungen, Spezifikationen etc.  
+1.2 Die vorliegenden Bedingungen sind für alle Lieferungen und 
+Leistungen (nachstehend „Leistungen“) des Lieferanten 
+massgebend, soweit nicht im Einzelfall schriftlich eine andere 
+Vereinbarung getroffen wird. Bedingungen d es Lieferanten sind für 
+uns nur dann gültig, wenn und soweit wir diesen ausdrücklich und 
+schriftlich zugestimmt haben.  
+1.3 Soweit Geschäfte mit einem Lieferanten vorwiegend im EDI -
+Verfahren abgewickelt werden, müssen die anwendbaren 
+Bedingungen vorgängig s chriftlich vereinbart werden. Dabei sind 
+sowohl die Geschäftspartner wie auch die betreffenden Geschäfte 
+aufzuführen.  
+1.4 Als Dritte im Sinne dieser Bedingungen gelten auch Tochter -, 
+Beteiligungs - und Konzerngesellschaften des Lieferanten.  
+2. Nutzungsrecht e, Rechte an Entwicklungsergebnissen, Open 
+Source Software  
+2.1 Der Lieferant gewährt uns das weltweite, zeitlich unbegrenzte , 
+nicht ausschliessliche, übertragbare Recht zur Nutzung der in der 
+Leistung enthaltenen Standardsoftware. Der Lieferant garantiert, 
+dass er über die entsprechenden Nutzungs - und Vertriebsrechte 
+verfügt und stellt uns bei allfälligen Ansprüchen Dritter aus der 
+Verletzung solcher Rechte frei.  
+2.2 Soweit aus der Leistungserbringung Konstruktions - oder 
+Entwicklungsergebnisse hervorgehen, stehen uns im Falle eines 
+Konstruktions - oder Entwicklungsauftrags das geistige Eigentum 
+und die ausschliessliche Nutzung daran uneingeschränkt zu. Die 
+Konstruktionen und Entwicklungen dürfen ohne unsere 
+ausdrückliche sc hriftliche Zustimmung weder ganz noch teilweise 
+Dritten zugänglich gemacht noch für eigene oder andere Zwecke 
+verwendet werden.  
+2.3  Der Lieferant hat uns rechtzeitig, spätestens mit 
+Auftragsbestätigung, darauf hinzuweisen, ob seine Lieferungen 
+Open Source  Komponenten enthalten. Dabei handelt es sich um 
+Software, Hardware oder sonstige Informationen, die beliebigen 
+Nutzern lizenzgebührenfrei mit dem Recht zur Bearbeitung bzw. 
+Verbreitung auf der Grundlage einer entsprechenden Lizenz 
+überlassen wird (z.B. GP L, LGPL oder MIT Lizenz). Enthalten die 
+Lieferungen Open Source Komponenten, so hat der Lieferant die 
+Verpflichtungen aller anwendbaren Open Source Lizenzen 
+einzuhalten sowie uns alle Rechte einzuräumen und Informationen 
+zu übermitteln, die wir zur Einhalt ung dieser Lizenzverpflichtungen 
+benötigen. Insbesondere muss der Lieferant uns unverzüglich 
+nach Auftragsbestätigung Folgendes liefern:  
+- Ein Dokument mit einer Auflistung aller enthaltenen Open -
+ Source Komponenten und deren Versionen, aller 
+anwendbaren L izenztexte und Copyright - bzw. 
+Autorenhinweise mit angemessener Gliederung und 
+Inhaltsverzeichnis, sowie  
+- den vollständigen Quelltext der verwendeten Open -Source 
+Software einschlie sslich Skripten und Informationen zur 
+Generierumgebung, wenn die geltenden Lizenzen dies 
+verlangen.  
+2.4  Der Lieferant informiert uns rechtzeitig, spätestens bei 
+Auftragsbestätigung schriftlich, falls vom Lieferanten verwendete 
+Open Source Lizenzen einem Copyleft -Effekt unterliegen, der sich 
+bei bestimmungsgemä ssem Gebrauch auf u nsere Produkte 
+auswirken kann. Dies ist dann der Fall, wenn Lizenzbedingungen 
+der vom Lieferanten verwendeten Open Source Komponenten 
+verlangen, dass unsere Produkte oder von diesen abgeleitete Werke nur unter den Bedingungen der Open Source 
+Lizenzbedingun gen, z.B. unter Offenlegung der Quelltexte, 
+weiterverbreitet werden dürfen. Ist dies der Fall, sind wir berechtigt, 
+die Bestellung innerhalb von zwei Wochen nach Zugang der 
+vollständigen Information zu widerrufen.  
+ 
+3. Unterlagen und Hilfsmittel  (Beistellun gen)  
+3.1 Von uns zur Verfügung gestellte Unterlagen (Zeichnungen, 
+Fabrikations - Prüf-, Liefervorschriften etc.) und sonstige Betriebs - 
+und Hilfsmittel (Muster, Modelle, etc.) bleiben unser Eigentum und 
+sind entsprechend zu kennzeichnen.   
+3.3 Die Beistellu ngen dürfen ohne unsere ausdrückliche schriftliche 
+Zustimmung weder vervielfältigt noch Dritten zugänglich gemacht 
+und nur zur Erfüllung unserer Bestellung und nicht für andere 
+Zwecke verwendet werden. Die Beistellungen  sind uns auf 
+Verlangen jederzeit, sp ätestens jedoch mit der vollständigen 
+Erbringung der Leistung unversehrt zurückzugeben oder, falls 
+ausdrücklich vereinbart, vom Lieferanten bis auf Widerruf zu 
+verwahren.  
+3.4 Der Lieferant ist für jegliche Beschädigung unseres Eigentums 
+verantwortlich und verpflichtet sich deshalb, die Beistellungen  
+zweckmässig zu lagern bzw. zu behandeln und in Absprache mit 
+uns gegen mögliche Schäden zu versichern.  
+4. Preise und Zahlungsbedingungen  
+4.1 Die vereinbarten Preise sind Festpreise. Preisänderungen und 
+diesbezüg liche Vorbehalte sind nur dann verbindlich, wenn und 
+soweit diese von uns ausdrücklich und schriftlich anerkannt sind.  
+4.2 Jede Lieferung ist bei Versand sofort zu fakturieren. Für jede 
+Lieferung ist eine separate Rechnung mit Ausweis der 
+Mehrwertsteuer und Hinweis auf unser Auftragskennzeichen 
+auszustellen. Rechnungen ohne diese Angaben werden 
+zurückgewiesen. Nachnahmesendungen werden nicht akzeptiert.  
+4.3 Unsere Zahlungen erfolgen unabhängig einer Prüfung der Leistung 
+bei deren Eingang am  Bestimmungsort. Unsere Zahlungen bzw. 
+Teilzahlungen bilden somit keine Anerkennung von Menge, Preis 
+und Qualität. Unsere diesbezüglichen Rechtsansprüche bleiben 
+deshalb auch nach erfolgter Bezahlung der Leistung 
+vollumfänglich gewahrt.  
+4.4 Sofern nicht an ders vereinbart, erfolgen unsere Zahlungen 
+spätestens am 90. Tag nach Rechnungsdatum.  
+4.5 Die Abtretung uns gegenüber bestehender Forderungen wie auch 
+die Verrechnung mit Gegenforderungen ist nicht zulässig.  
+5. Lieferungen und Leistungen des Lieferanten  
+5.1 Die in unseren Bestellungen festgelegten Mengen sind 
+einzuhalten. Wir behalten uns vor, überzählige Teile dem 
+Lieferanten gegen volle Entschädigung unserer Umtriebe zur 
+Verfügung zu stellen und bei Mindermengen auf Erfüllung der 
+bestellten Menge zu bestehen.  
+5.2 Lieferungen von Lieferanten und Unterlieferanten sind Gegenstand 
+unseres Qualitätssicherungs -Systems gemäss ISO9001 / 
+EN29001. Unsere Lieferanten und Unterlieferanten werden 
+dementsprechend beurteilt.  
+5.3 Liefert der Lieferant Produk te, deren Produktbestandteile in der 
+jeweils zum Zeitpunkt der Bestellung aktuell gültigen „Liste 
+Deklarationspflichtiger Stoffe“ 
+(https://www.bomcheck.net/suppliers/ restricted -and-declarable -
+substances -list) aufgeführt sind oder die aufgrund von Gesetzen 
+stofflichen Restriktionen und/oder stofflichen Informationspflichten 
+unterliegen (z. B. REACH, RoHS), hat der Lieferant diese Stoffe 
+spätestens zum Zeitpunkt der ersten Lieferung der Produkte in der 
+ 
+ 
+Allgemeine Geschäftsbedingungen für den Einkauf der Siemens Energy  (Version 05.2023) 
+ 
+© Siemens Energy 2021 
+ 
+Internetdatenbank BOMcheck (www.BOMcheck.net) zu 
+deklarie ren. 
+5.4 Enthält die Lieferung Güter, die gemäss den internationalen 
+Regelungen als Gefahrgut zu klassifizieren sind, teilt uns dies der 
+Lieferant spätestens mit Auftragsbestätigung in einer zwischen 
+Lieferant und uns vereinbarten Form mit.  
+6. Verpackung u nd Versand  
+6.1 Die Verpackung ist der jeweiligen Leistung und der vorgesehenen 
+Transportart anzupassen. Dabei sind umweltfreundliche 
+Verpackungsmaterialien zu bevorzugen. Verluste und 
+Beschädigungen von Waren, die auf mangelhafte Verpackung 
+zurückzuführen sind, gehen zu Lasten des Lieferanten.  
+6.2 Jeder Leistung / Teilleistung ist ein Lieferschein mit Angaben über 
+unsere Auftragskennzeichen, Artikel -Nr. und Warenbezeichnung, 
+Netto - und Bruttogewichte und/oder genaue Stückzahlen 
+beizulegen. Teilleistungen si nd als solche zu bezeichnen.  
+6.3 In sämtlichen, die Bestellung betreffenden relevanten 
+Schriftstücken sind mindestens unsere Auftragskennzeichen 
+aufzuführen.  
+7. Termine, Fristen, Verzug  
+7.1 Die von uns bestimmten Termine und Fristen (auch bei 
+Teilleistunge n) sind verbindlich. Sie gelten als eingehalten, wenn 
+bis zu deren Ablauf die Leistung erbracht worden ist bzw. die 
+Bestellung am Bestimmungsort eingetroffen ist.  
+7.2 Bei Nichteinhaltung der vereinbarten Termine bzw. Fristen (auch 
+bei Teilleistungen) sind wir berechtigt, ohne Ansetzung einer 
+Nachfrist auf die Erfüllung der Leistung zu verzichten und vom 
+Vertrag zurückzutreten. Gesetzliche Ansprüche auf Schadenersatz 
+bleiben vorbehalten.  
+7.3 Erfolgt eine Leistung früher als vereinbart, so behalten wir uns vor, 
+die diesbezügliche Rechnung erst zum vereinbarten 
+Leistungszeitpunkt zu begleichen.  
+7.4 Wird wegen verspäteter Versendung ein beschleunigter Transport 
+notwendig (Fr achtgut, Schnellgut, etc.), so trägt der Lieferant die 
+zusätzlichen Frachtkosten. Mehrkosten für nicht verlangte 
+Eilsendungen gehen ebenfalls zu Lasten des Lieferanten.  
+8. Erfüllungsort, Übergang von Nutzen und Gefahr  
+8.1 Erfüllungsort für die Leistung ist  der Bestimmungsort, für die 
+Bezahlung unser Domizil.  
+8.2 Nutzen und Gefahr gehen mit der Leistungserbringung bzw. 
+Eingang der Bestellung am Bestimmungsort auf uns über.  
+9. Prüfung, Gewährleistung, Haftung für Mängel  
+9.1 Der Lieferant prüft Menge und Quali tät der Leistung vor Versand.  
+9.2 Der Lieferant übernimmt Gewähr für eine vertragsgemässe sowie 
+von Sach - und Rechtmängeln freie Leistung in einwandfreiem 
+Zustand unter Verwendung einwandfreier Rohstoffe, geeignet für 
+den vorgesehenen Verwendungszweck.  
+9.3 Die sofortige Prüf - und Rügepflicht nach Art. 201 OR wird 
+wegbedungen. Der Lieferant anerkennt durch Annahme unserer 
+Bestellung, Mängelrügen ohne Einhaltung einer Rügefrist als 
+rechtzeitig erhoben entgegenzunehmen.  
+9.4 Ansprüche auf Wandelung, Minderung, Nachbesserung respektive 
+Ersatzlieferung und Schadenersatz (Art. 205ff bzw. 368OR) 
+bleiben vorbehalten. Wir behalten uns zudem vor, die Bezahlung 
+ganz oder teilweise zurückzuhalten, bis, (i) sofern wir Ersatz 
+verlangen, der Lieferant seiner Pflicht zur ein wandfreien 
+Ersatzlieferung nachgekommen ist oder (ii) die Sachlage 
+hinsichtlich Wandelung, Minderung und Schadenersatz verbindlich 
+geklärt ist.  9.5 Kürzungen der gesetzlichen Gewährleistungsfristen werden nicht 
+anerkannt. In jedem Fall dauert die Gewährlei stungsfrist 
+mindestens 2 Jahre ab Lieferung bzw. Abnahme anlässlich einer 
+separat vereinbarten förmlichen Abnahme (je nachdem welcher 
+Zeitpunkt später eintritt).  
+10. Produkthaftung  
+Wir werden den Lieferanten unverzüglich über jeden uns 
+bekanntgewordenen Produktfehler an der gelieferten Ware 
+unterrichten, falls der Fehler zu einem Unfall mit der Folge von Tod, 
+Körperverletzung oder Sachschaden geführt hat oder führen 
+könnte, und uns m it dem Lieferanten über das weitere Vorgehen 
+absprechen. Der Lieferant wird uns bei der Auseinandersetzung 
+mit Geschädigten unterstützen und uns von berechtigten 
+Ansprüchen sowie Kosten einer Rückrufaktion, soweit diese auf 
+Produktfehler an der gelieferten  Ware zurückzuführen sind, 
+freistellen.  
+ 
+ 
+11. Haftung  
+Der Lieferant hält uns hinsichtlich jeden mit der Leistung 
+zusammenhängenden Schadens vollumfänglich schadlos und 
+stellt uns von sämtlichen Ansprüchen Dritter frei; dies gleich aus 
+welchem Rechtsgrund die Schäden oder Ansprüche geltend 
+gemacht werden, z.B. aus Gewährleistung, Verzug, 
+Produkthaftung, Verletzung von Schutzrechten und des 
+geistigen Eigentums.  
+12. Geheimhaltung  
+Von uns erlangte Informationen sowie das bestehende 
+Geschäftsverhäl tnis wird der Lieferant Dritten weder zugänglich 
+machen noch bekannt geben. Soweit wir einer Weitergabe von 
+Aufträgen an Dritte zugestimmt haben, sind diese entsprechend 
+schriftlich zu verpflichten.  
+13. Offenlegung der Geschäftsverbindung und von Daten und  
+Informationen  
+Der Lieferant erklärt sich damit einverstanden, dass sämtliche für 
+die geschäftlichen Beziehungen erforderlichen oder sich daraus 
+ergebenden Angaben und Informationen, insbesondere 
+vertragliche Dokumente und Unterlagen sowie alle für den 
+Vollzug der vertraglichen Verpflichtungen erforderlichen Daten 
+und Informationen, des und über den Lieferanten und dessen 
+Hilfspersonen auch ausserhalb der Schweiz aufbewahrt werden 
+dürfen. Alle diese Angaben und Informationen dürfen darüber 
+hinaus, insbesond ere für die Leistungserfüllung, die Erfüllung 
+gesetzlicher Anforderungen oder für Siemens -interne Prüf - 
+und/oder Aufsichts -Zwecke sowohl der Siemens AG wie auch 
+deren konzernrechtlich verbundenen Unternehmen bekannt 
+gegeben und zur entsprechenden Bearbeitu ng offen gelegt 
+werden; dies stets unter Einhaltung aller jeweils anwendbaren 
+Datenschutzgesetze.  
+14. Verhaltenskodex für Lieferanten  
+Der Lieferant ist verpflichtet, die Gesetze der jeweils 
+anwendbaren Rechtsordnung(en), insbesondere solche des 
+Hersteller - und Bestimmungslandes einzuhalten. Er wird sich 
+weder aktiv noch passiv, direkt oder indirekt an jeder Form der 
+Bestechung, der Verletzung der Grundrechte seiner Mitarbeiter 
+oder der Kinderarbeit beteiligen. Er wird im Übrigen 
+Verantwortung für die Gesund heit und Sicherheit seiner 
+Mitarbeiter am Arbeitsplatz übernehmen, die 
+Umweltschutzgesetze beachten und die Einhaltung dieses 
+Verhaltenskodex bei seinen Lieferanten bestmöglich fördern und 
+einfordern. Verstösst der Lieferant schuldhaft gegen diese 
+Verpflic htungen, so sind wir unbeschadet weiterer Ansprüche 
+berechtigt, vom Vertrag zurückzutreten oder den Vertrag zu 
+ 
+ 
+Allgemeine Geschäftsbedingungen für den Einkauf der Siemens Energy  (Version 05.2023) 
+ 
+© Siemens Energy 2021 
+ 
+kündigen. Sofern die Beseitigung der Pflichtverletzung möglich 
+ist, darf dieses Recht erst nach fruchtlosem Verstreichen einer 
+angemessenen Frist  zur Beseitigung der Pflichtverletzung 
+ausgeübt werden.  
+15. Informationssicherheit/Cybersecurity  
+15.1 Der Lieferant hat angemessene organisatorische und technische 
+Massnahmen zu treffen, um die Vertraulichkeit, Authentizität, 
+Integrität und Verfügbarkeit d es Betriebs des Lieferanten sowie 
+seiner Lieferungen und Leistungen sicherzustellen. Diese 
+Massnahmen sollen branchenüblich sein und ein angemessenes 
+Managementsystem für Informationssicherheit in 
+Übereinstimmung mit Standards wie ISO/IEC 27001 oder IEC 
+62443 (soweit anwendbar) beinhalten.  
+15.2 „Betrieb des Lieferanten“ bedeutet alle Güter, Prozesse und 
+Systeme (einschlie sslich Informationssysteme), Daten 
+(einschlie sslich Kundendaten), Mitarbeiter und Standorte, die 
+zeitweise für die Durchführung dieses Ver trages verwendet oder 
+verarbeitet werden.  
+15.3 Sofern Lieferungen oder Leistungen Software, Firmware oder 
+Chipsätze beinhalten : 
+15.3.1  wird der Lieferant angemessene, branchenübliche Standards, 
+Prozesse und Methoden in Übereinstimmung mit Standards wie 
+ISO/IEC 27001 oder IEC 62443 (soweit anwendbar) 
+implementieren, um jegliche Schwachstellen, Schadcode und 
+sicherheitsrelevante Ereignisse in den Lieferungen und 
+Leistungen zu verhindern, zu identifizieren, zu bewerten und zu 
+beheben;  
+15.3.2  wird der Lieferant für den Zeitraum einer angemessenen 
+Lebensdauer der Lieferungen und Leistungen Reparatur -, 
+Update -, Upgrade - und sonstige Pflegeleistungen anbieten und 
+Patches zur Verfügung stellen, um Schwachstellen zu beheben;  
+15.3.3  wird der Liefer ant uns eine Stückliste zur Verfügung stellen, aus 
+der sich alle Softwarekomponenten Dritter ergeben, die in den 
+Lieferungen und Leistungen verwendet werden. 
+Softwarekomponenten Dritter müssen zum Zeitpunkt der 
+Lieferung auf dem aktuellen Stand sein;  
+15.3.4 sind wir berechtigt, jedoch nicht verpflichtet, die Lieferungen und 
+Leistungen jederzeit selbst oder durch Dritte auf Schadcode und 
+Schwachstellen zu testen, wobei der Lieferant uns in 
+angemessener Weise unterstützen wird;  
+15.3.5  wird der Lieferant uns  einen Kontakt für Themen der 
+Informationssicherheit (erreichbar während der Geschäftszeiten) 
+benennen.   
+15.4 Der Lieferant wird uns unverzüglich über alle 
+sicherheitsrelevanten Ereignisse, die aufgetreten sind oder 
+vermutet werden, und den Betrieb des Lie feranten oder die 
+Lieferungen oder Leistungen betreffen, informieren, wenn und 
+soweit wir hiervon tatsächlich oder wahrscheinlich wesentlich 
+betroffen sind.  
+15.5 Der Lieferant wird entsprechende Ma ssnahmen treffen, um 
+seinen Unterlieferanten und Lieferante n innerhalb eines 
+angemessenen Zeitraums Verpflichtungen aufzuerlegen, die den 
+Verpflichtungen in dieser Ziffer 15 entsprechen.  
+15.6 Auf Anforderung von uns wird der Lieferant seine Einhaltung der 
+Bestimmungen dieser Ziffer 15 durch schriftliche Nachweise , 
+einschlie sslich allgemein anerkannter Prüfberichte 
+(beispielsweise SSAE -16 SOC2 Type II) bestätigen.  
+16. Bestimmungen über Ausfuhrkontroll - und 
+Aussenhandelsdaten  
+ 16.1 Der Lieferant sichert zu, dass keine der unter diesem Vertrag zu 
+liefernden Waren ode r zu erbringenden Dienstleistungen 
+Einfuhrbeschränkungen oder -verboten gemäß 
+AUSSENWIRTSCHAFTSRECHT unterliegen. Im Sinne dieses 
+Abschnittes umfasst das AUSSENWIRTSCHAFTSRECHT in 
+jedem Fall die Verordnungen (EU) Nrn. 833/2014, 692/2014, 
+2022/263 und 765/2 006, jeweils in ihrer geltenden Fassung, 
+sowie die von der U.S. Zollbehörde (U.S. Customs and Border 
+Protection) überwachten Einfuhrbeschränkungen.  
+16.2 Der Lieferant hat uns spätestens zwei Wochen nach Bestellung 
+sowie bei Änderungen unverzüglich alle Informationen und 
+Daten schriftlich mitzuteilen, die wir zur Einhaltung des 
+Aussenwirtschaftsrechts bei Aus -, Ein - und Wiederausfuhr 
+benötigen, insbesondere:  
+- alle anwendbaren Ausfuhrlistennummern einschlie sslich der 
+Export Control Class ification Number gemä ss der U.S. 
+Commerce Control List (ECCN);  
+- die statistische Warennummer gemä ss der aktuellen 
+Wareneinteilung der Au ssenhandelsstatistiken und den HS 
+(Harmonized System) Code und  
+- Ursprungsland (nichtpräferenzieller Ursprung) und, sof ern 
+von uns gefordert, Lieferantenerklärungen zum 
+präferenziellen Ursprung (bei europäischen Lieferanten) 
+oder Zertifikate zur Präferenz (bei nichteuropäischen 
+Lieferanten).  
+16.3 Im Falle der Nichteinhaltung von Pflichten nach 16.1 bis 16.2 
+haftet der Lieferant für die Erstattung sämtlicher Aufwendungen 
+und Schäden, die dem Besteller aus der Pflichtverletzung 
+entstehen . 
+17. Vorbehaltsklausel  
+Die Vertragserfüllung durch uns steht unter dem Vorbehalt, dass 
+der Erfüllung keine Hindernisse aufgrund von nationalen oder 
+internationalen Vorschriften des Aussenwirtschaftsrechts sowie 
+keine Embargos und/oder sonstige Sanktionen entgegenstehen.  
+18. Anwendbares Recht  
+Das Vertragsverhä ltnis unter  steht dem schweizerischen 
+materiellen Recht unter Ausschluss des Übereinkommens der 
+Vereinten Nationen über Verträge über den internationalen 
+Warenkauf (Wiener Kaufrecht) vom 11.4.1980.  
+19. Gerichtsstand  
+Gerichtsstand für den Lieferanten und f ür uns ist Zürich. Wir sind 
+jedoch berechtigt, den Lieferanten auch an dessen Sitz zu 
+belangen.  
+ 

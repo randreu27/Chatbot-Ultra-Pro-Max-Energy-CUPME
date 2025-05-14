@@ -1,0 +1,150 @@
+Service for 
+VIB3000 & CM500
+Creating maximum value 
+without compromising availability 
+www.siemens -energy.com/vib3000Ou
+r convenient service option for VIB3000 & CM500 enables users to generate maximum value from their 
+platforms. The Siemens Energy solution offers expert guidance and advice for maintaining hardware components 
+and software tools alike and using them to reach firm specific KPIs. It gives transparency on the functioning of 
+processes and helps understanding and implementing results better.
+Y
+our benefits
+▪24/7 expert support for 
+maximum value creation
+▪Full operational service 
+▪Direct and constant
+knowledge transfer with 
+flexible training units
+▪Increased availability for value
+across processesS
+iemens Energy is a trademark licensed by Siemens AG. Unrestricted
+On call services hotline, helpline:
+Our Service offers 24/7 on call support for 
+efficient emergency response by on-site experts. 
+Siemens Energy’s highly qualified OEM experts
+are on call to actively intervene in case of soft- & 
+hardware issues. Access to the Remote Expert 
+Center (REC) and OEM spare parts allow for our 
+swift, reliable response.
+Many day-to-day maintenance tasks can be 
+carried out by well-trained operating personnel. 
+If more complex problems arise, however, 
+specialist know-how is required to prevent 
+system inoperability or, in the worst case, a 
+shutdown of the plant.
+Upon receipt of the fault report, the global 
+service network mobilizes a specialist with the 
+nearest accessibility to the plant. These specia-
+lists are available around the clock, 365 days a 
+year, in more than 190 countries.Remote and on-site services:
+Regular on-site activities are principally 
+scheduled to coincide with planned outages 
+during major and minor turbine overhauls. 
+Comprehensive inspection and maintenance of 
+VIB3000 and CM500 systems are performed by 
+our experts. Remote Services allow for 
+maintenance activities to be performed by 
+remote administration, even during normal 
+operation.
+The services include IT security packages that 
+offer your plant comprehensive protection to 
+reduce current cyber threats and to help to
+prevent outages. In addition, our Remote Expert 
+Center (REC) offers a comprehensive failure-
+prevention service. Using the latest tools, we 
+conduct system diagnostics on your plant 
+remotely at regular intervals.
+Hardware basis VIB3000 for 
+vibration protection
+Diagnostics service is offered for a broad variety 
+of users. The important basis is the VIB3000 ma-
+chinery protection platform, which  basically 
+consists of a 19” rack backplane (VIB340), one
+or two protection modules (VIB310) and up to 
+six 10- channel data acquisition boards (VIB320
+/ 321). For vibration analysis task performed by 
+CM500 a VIB330 module is added to the rack.
+
+Published by
+Siemens Energy Global GmbH & Co. KG 
+Siemenspromenade 9
+91058 Erlangen, GermanyF
+or more information, please contact
+Email: diagnosticservices.se@siemens-energy.com
+© Siemens Energy, 2025
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract.The system was carefully designed to offer security for the 
+machine and its environment from the consequences of 
+machine failure and security against spurious tripping and 
+thus offers maximum availability.
+What differentiates VIB3000 from competitor systems is the 
+wide variety of available redundancy options. Depending on 
+customers’ redundancy philosophy and needs, VIB3000 can be 
+configured to use redundant sensors, redundant signal 
+processing, redundant voting and redundant connections to 
+the control system. C
+M500 condition monitoring
+All CM500 software tools are integrated in software mainte-
+nance providing automatic updates, error corrections, security 
+patches and modifications. This secures reliable operations 
+long after the installation.H
+ow much do diagnostic service activities for VIB3000 
+hardware and CM500 software components depend on each 
+other? - The optional VIB330 analysis module extends VIB3000 
+machinery protection to become a full-blown vibration 
+diagnostic system. VIB330 pre-processes vibration samples
+into vibration indicators, which are the basis for the CM500 
+software. The VIB330 also handles the diagnostic monitoring
+of the machine by continuously comparing current character-
+istics to reference values derived earlier. Today, CM500’s
+sophisticated high-sensitivity diagnostic monitoring features 
+and vibration analysis package comprises expert tools for all 
+types of rotating equipment, from turbo sets to balance-of-
+plant machinery. With CM500 online condition monitoring 
+once alerted, the severity of a problem can be actively 
+monitored, and the operator could e. g. account for the 
+problem by avoiding critical operation modes. The condition 
+monitoring system enables maintenance engineers to analyze 
+the machine’s condition and thus generate valuable
+information for decision making and efficient overhaul 
+preparation.
+Our main goal is to support this by giving you the right 
+recommendation and support you to understand and interpret 
+these results. Benefit from training and knowledge transfer 
+that will help you keep your plant running, increase availability 
+and optimize OEM strategies.Module overview
+Hotline: 24/7 support by system experts to
+increase plant availability with no limitation 
+concerning the frequency and duration of 
+Remote Expert Center (REC) use.
+Helpline: Get the full OEM know -how (e. g. 
+engineering support, function knowledge) 
+with direct access to Siemens Energy 
+experts worldwide when needed.So
+ftware maintenance : Modification of 
+security patches and functional patches 
+(CM500 software updates) to make 
+necessary adjustments to a changing 
+environment after delivery.On-s
+ite- / remote inspection:
+Instrumentation and data support check the 
+measurement chain functionality and data 
+quantity for maximal user comfort. Includes 
+product service, system health and
+condition check of VIB3000 and VIS 
+computer hardware and CM500 software 
+settings.T
+raining & workshops: Unlimited access to 
+online training videos and documents 
+enable self-paced learning for professional 
+system usage. Topics are categorized by 
+interests and allow skill transfer for efficient 
+operation.
+Siemens Energy Inc.                           
+4400 Alafaya Trail
+Orlando, F L 32826, USA

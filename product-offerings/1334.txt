@@ -1,0 +1,31 @@
+Transaction:
+Published 03/16/2022
+LEI 5299005CHJZ14D4FDJ62
+Date 03/14/2022 UTC+1
+Type of transaction Other
+Automatic booking-in of 2,430 Siemens Energy shares at the Xetra closing
+price of the Siemens Energy share on 2022-03-14, +01:00 (purchase
+settlement in connection with a Siemens Energy share program)
+Transaction linked to the exercise of share option programmes
+Description of
+financial instrument:Share
+ISIN DE000ENER6Y0
+Place Outside a trading venue
+a) Price and Volume Price Volume
+not numberable not numberable
+b) Aggregated
+informationPrice Volume
+not numberable not numberable
+  
+Details of person:
+Name/Company Karim Ahmed Amin Aly Khalil
+Reason Member of the managing body
+Initial notification /
+CorrectionInitial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

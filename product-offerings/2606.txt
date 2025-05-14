@@ -1,0 +1,71 @@
+RestrictedSiemens Energy 2024. Todos os direitos reservados
+Siemens Energy é uma marca registrada licenciada pela Siemens AG
+Não controlado se estiver fora do Sistema de Gerenciamento
+de Documentos
+Página 1deiiNome do documento: OPERAÇÃO DO PLUGUE DE VEDAÇÃO DA INTERFACE TC6A -
+528
+Número do documento: E1A4144075
+Revisão Autor Verificador Aprovador Data de
+emissão
+A D. MCDOUGLE C. HARRISON S. KELLY 12/09/2024
+EMISSÃO INICIAL
+CONTROLE DE REVISÕES: O Histórico de Controle de Revisões é gerenciado pelo Sistema de
+Gerenciamento de Documentos.
+OPERATING GUIDELINES FOR VALVE BLOCK WET MATE PLUG
+INTERFACE BLANK TC6A -528N.º
+Doc.:E1A4144075
+Rev.: A
+Página: 1de2
+RestrictedSiemens Energy 2024. Todos os direitos reservados
+Siemens Energy é uma marca registrada da Siemens AG1OBJETIVO E ESCOPO
+O objetivo deste procedimento é detalhar o processo de uso do plugue de vedação da interface do plugue de
+encaixe úmido do bloco de válvulas TC6A -528.
+O plugue de vedação TC6A -528 replica as características de vedação dos plugues de encaixe úmido DHCE -A43,
+A47, A62 e A80. Devido às semelhanças de design entre os conectores e o plugue de vedação, esse plugue é
+adequado para testes repetidos até a pressão de teste máxima de 15.000 psi, desde que as verificações da
+Seção 5sejam cumpridas.
+2DOCUMENTOS E DESENHOS ASSOCIADOS
+Número Nome Localização
+10204852 Manual de instalação, operações e manutenção
+do ElecTRONSiemens -energy.com/subsea
+E1A414074 TC6A -528 PDS Teamcenter
+T16966 TC6A -528 Desenho e BOM (lista de materiais)
+associadaTeamcenter
+3EQUIPAMENTOS
+Os seguintes equipamentos serão necessários para realizar essa instalação:
+Composto antiaderente Goop.
+Graxa de silicone DC4
+Ferramenta de instalação E1A3854517.
+Chave de torque de acionamento de ½" classificada para 35 lbf ∙ft.
+4INFORMAÇÕES GERAIS DE SEGURANÇA E RISCOS
+Para obter informações completas sobre Segurança e Perigos, consulte o IOM do ElecTRON ou a Folha
+de Dados de Segurança dos meios de teste em uso.
+Advertência. Risco de lesões pessoais leves a pessoas com sensibilidade a óleos minerais.
+Use proteção adequada para as mãos ao manusear produtos ou óleos minerais ou sintéticos.
+Advertência. Risco de lesões leves e/ou danos materiais ou ambientais durante a montagem.
+Deve -se tomar cuidado durante a montagem para garantir que as conexões e os equipamentos
+hidráulicos/pneumáticos sejam corretamente instalados.
+Advertência. Risco de lesão corporal causada pela retenção da pressão em peças que se tornam
+projéteis devido à pressurização excessiva do sistema por parte do usuário.
+Advertência. Risco de injeção hidráulica. Somente deve ser usado para PMTA (pressão máxima de
+trabalho admissível) com óleo e bomba adequada em linha com os Regulamentos de Equipamentos
+de Pressão (Segurança) (2016) ou alternativa local relevante quando usado no exteri or.
+5PREPARAÇÃO
+Inspecione visualmente o conjunto do plugue de vedação e certifique -se de que não haja danos no
+cone de vedação, na vedação elastomérica, nas roscas ou no corpo do plugue. Se houver alguma
+dúvida sobre a integridade do plugue de vedação ou de qualquer de s eus componentes, interrompa o
+trabalho imediatamente e entre em contato com o Departamento Técnico da Siemens Energy.
+
+OPERATING GUIDELINES FOR VALVE BLOCK WET MATE PLUG
+INTERFACE BLANK TC6A -528N.º
+Doc.:E1A4144075
+Rev.: A
+Página: 2de2
+RestrictedSiemens Energy 2024. Todos os direitos reservados
+Siemens Energy é uma marca registrada da Siemens AG6PROCESSO
+1.Aplique uma camada de composto antiaderente Goop nas roscas do anel de retenção e na face da
+vedação cônica.
+2.Aplique uma camada fina de graxa de silicone DC4 nas vedações em O.
+3.Encaixe o plugue de vedação em sua interface usando a ferramenta E1A3854517. Aperte o anel de
+retenção com 35 lbf ∙ft (45 Nm).
+FIM DO PROCEDIMENTO

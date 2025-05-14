@@ -1,0 +1,104 @@
+siemens-energy.com/machinery-protection
+VIB3000  
+Machinery  
+Protection
+Highest safety and availability  
+for your plant assets
+Omnivise VIB3000 Machinery Protection  is an integrated 
+hardware platform for Machinery Protection, online Condition Monitoring and Vibration Analysis.  
+The Siemens Energy solutions consist of hardware components and software tools for data  
+analytics relying on sensors. Continuous condition monitoring enables transparency on the  
+functioning of processes and aggregates and helps to detect failures at an early stage.
+VIB3000-Platform
+Modularity of the VIB3000 rack platform – possible configurations:
+1. Machinery Protection system with redundant power supply, SIL-1-certified 
+2. Machinery Protection system with redundant vibration processing 
+3. Combined Machinery Protection and Analysis solution CM500
+4. Combined Machinery Protection and Analysis solution CM500  
+ with redundant vibration processing 
+5. Stand-alone Machinery Analysis system CM500
+In a wide range of retrofit projects, the system has proven its adaptability to all kinds  
+of sensors, in all kinds of control system environments for all kind of power plants and  
+industrial applications.This common platform basically consists of  
+a 19” rack backplane (VIB340), up to six 10-  
+channel Data Acquisition Boards (VIB320/  
+321), and three slots for two types of modules 
+determining the functions of the system. 
+Depending on the number of Machinery  
+Vibration Monitoring Module (VIB310)   
+and Machinery Analysis Module (VIB330)  
+selected for an application, the assembled 
+VIB3000 solution is one of the following.
+
+VIB3000 Machinery Protection© 2021 Siemens EnergyVIB3000 Machinery Protection
+Safe operation and high availability are crucial for the eco-
+nomic success of a technical asset. In order to maintain its 
+safety and availability it is necessary to continuously obtain 
+and assess information on a machine’s current condition.
+The VIB Machinery Protection System was carefully designed 
+to offer security for the machine and its environment from 
+the consequences of machine failure and security against 
+spurious tripping and thus maximum availability.
+Our proven and reliable protection system 
+• uses the latest technologies and is at the cutting edge 
+in vibration instrumentation,
+• avoids outages caused by faults within the protection 
+system and always provides the full information,
+• reduces the hardware, cabling, and engineering effort  
+and simplifies spare part stocking,
+• can be operated directly from the control room and 
+permits a system status analysis from there.
+What differentiates VIB3000 from competitor systems is the wide  
+variety of available redundancy options. Depending on customers’ 
+redundancy philosophy and needs, VIB3000 can be configured 
+to use redundant sensors, redundant signal processing, redundant 
+voting and redundant connections to the control system. 
+Apart from redundancy, VIB3000 also supports SIL-1 (Safety 
+Integrity Level 1) approved by German TÜV signal processing 
+and control system communication. CM500 Condition Monitoring
+The optional VIB330 Analysis Module extends VIB3000 
+Machinery Protection to become a full-blown vibration diagnostic 
+system. VIB330 pre-processes vibration samples into vibration 
+indicators, which are the basis for the CM500 software. The 
+VIB330 also handles the Diagnostic Monitoring of the 
+machine by continuously comparing current characteristics 
+to reference values derived earlier.
+CM500’s online Condition Monitoring features and vibration 
+analysis toolkit have matured for more than two decades. 
+Today, CM500’s sophisticated High-Sensitivity Diagnostic 
+Monitoring features and vibration analysis package comprises 
+expert tools for all types of rotating equipment, from turbo 
+sets to balance-of-plant machinery.
+With CM500 Online Condition Monitoring once alerted, the 
+severity of a problem can be actively monitored and the 
+operator could e.g. account for the problem by avoiding critical 
+operation modes. The condition monitoring system enables 
+maintenance engineers to analyze the machine’s condition 
+and thus generate valuable information for decision making 
+and e.g. overhaul preparation. 
+CM500 Condition Monitoring enhances machine availability, 
+makes plant availability more predictable and cuts mainte-
+nance costs.
+Notable features are 
+• maximum possible measurement accuracy through 
+rotor-triggered data acquisition
+• maximum sensitivity to changes, using up to  
+1,000 automatically derived limit values per vibration 
+measuring point (machine learning)
+• comprehensive condition monitoring for current and 
+historic machine health at constant and transient operation
+• a unique archiving concept with event-oriented  
+storage of complete data sets and tools for automated 
+data interpretation and
+• numerous additional data analysis functions including 
+statistical assessments or transient recorder functionality
+Published by and copyright © 2021
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6
+81739 Munich, Germany  
+Article No. SVXX-B10015-00-7600
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon in the concluded contract.Our solutions at a glance
+Page 2

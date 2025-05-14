@@ -1,0 +1,75 @@
+The Plant
+The refinery Heide GmbH processes raw oil into a wide 
+range of products at its base in Hemmingstedt. This is 
+possible due to the very high level of procedural complexity 
+compared to other refineries, which also allows a variation 
+in the production volume of the different end products. In 
+addition to classic raw oil products such as fuels and bitu-
+men, the refinery Heide also produces a wide range of 
+pre-products for the plastic and chemicals industries. Also, 
+refinery Heide is preparing for the future, planning the 
+installation of an infrastructure for large-scale hydrogen 
+production at their site.
+The Task
+Until now, Heide GmbH has been using an older machinery 
+protection system from a competitor at different production 
+sites. The existing system needs to be replaced step
+by step due to  the continuously running production. For now 
+and in the future Heide sees good opportunities for possible 
+fields of application of the modular and flexible VIB3000 
+vibration protection system from Siemens Energy. This is
+easily expandable to a versatile and comprehensive analysis 
+system.
+Reﬁnery
+Heide
+The Solution
+The refinery Heide decided to gradually replace its existing 
+machine protection systems with VIB3000 from Siemens 
+Energy. One gas turbine and several screw compressors have 
+already been converted to the VIB3000 machinery protection 
+system, and further assets will follow .
+A main reason for this decision was the fact that VIB3000 can 
+be connected to all sensors installed in the plants with the 
+existing cabling, without any modification. Furthermore, the 
+extensive system redundancies, the very simply designed 
+spare parts concept and the SIL capability of the system 
+convinced the customer. Another advantage is the possibility 
+to expand the system with comprehensive analysis functions 
+(CM500 software plus additional module).Refinery Heide,  
+Germany
+Increased security and profitability  
+thanks to a machinery protection systemsiemens-energy.com/VIB3000
+Reference l  Refinery Heide, Germany“We need and expect a proven 
+high-availability machine protec-
+tion system to replace our old  
+existing systems. VIB3000 fully 
+meets our technical require-
+ments, is economically applicable 
+and future-proof.”  
+ 
+Fynn Carstensen,  
+I&C Engineer, Southern Area, Refinery Heide GmbHThe Result
+• Avoidance of expensive damage to production plants 
+through permanent monitoring and protective shut-
+down when required
+• High plant availability due to freely adjustable interven-
+tion parameters
+• Easy upgrade of existing hardware to a comprehensive 
+vibration analysis system, if required
+Published by and copyright © 2022
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6  
+81739 Munich, Germany
+For more information, please visit our website:  
+www.siemens-energy.com/VIB3000
+© Siemens Energy, 2022
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon in the concluded 
+contract. 
+All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. 
+KG or other companies whose use by third parties for their own purposes could violate the rights of 
+the owners
+© 2022 Siemens Energy Seite 2

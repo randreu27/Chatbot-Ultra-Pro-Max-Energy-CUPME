@@ -1,0 +1,97 @@
+Our innovative Turbo Heater technology is specifically 
+designed to deliver high-temperature process heat at industrial scale without combustion of fossil fuels. This is achieved through a unique method that utilizes supersonic gas dynamics and shock waves to produce direct heating of gas mixtures. A novel approach to the electrification of high-grade process heat is introduced, decoupled from the physical limitations of heat transfer in conventional methods.
+The Turbo Heater combines these features with the 
+outstanding energy density of axial turbomachinery,  
+and the high temperature capability of using materials already well known and proven in service in Siemens  
+Energy‘s gas turbine products.
+The result is a solution which is ready to scale and  
+highly relevant to address the challenge of many  
+hard-to-decarbonize industries.Key BenefitsGHG Emissions: Rotating machinery can utilize clean  
+energy (e.g. electric motor drive).
+Direct Heating: Eliminate losses, fouling and leaks in heat 
+exchangers for efficient (> 95%) heating of process flow.Process Optimization:  
+•
+  V
+ery uniform temperature distribution (no hot spots)  
+and precise temperature control
+•
+  Pr
+ovide heat and flow in a single device, without separate 
+circulation blower
+•
+ No combus
+tion products added
+•
+  N
+ear-instantaneous fluid heating simplifies downstream 
+process control 
+•
+  Can be im
+plemented in hybrid configurations with fuel-fired 
+backup
+Size: Compact, energy-dense turbomachinery, heat input not constrained by exchanger surface area.
+Scale-up: Technology inherently capable of high throughput, 
+2x flow << 2x size.siemens-energy.comDecarbonize  
+industrial processes 
+with the Turbo Heater
+Inherently capable of large-megawatt 
+scale and high temperature (1000 °C)
+Direct heating of gas mixtures   
+via fluid momentum (shock wave)Eliminate fuel burning and decouple  
+from rate-limited heat transfer
+Potential use in combination with existing  
+fuel-fired systems for progressive phase-out
+Siemens Energy Global GmbH & Co. KG  
+Transformation of Industry  
+Siemens promenade 9  
+91058 Erlangen, Germany
+For the U.S. published by
+Siemens Energy, Inc.  
+Transformation of Industry  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+Subject to changes and errors. The information given in this  
+document only contains general descriptions and/or performance  
+features which may not always specifically reflect those described,  
+or which may undergo modification in the course of furhter  
+development of the products. The requested performance features  
+are binding only when they are expressly agreed upon in the  
+concluded contract. All product designations may be trademarks  
+or product names of Siemens Energy Global GmbH & Co. KG or  
+other companies whose use by third parties for their own purposes  
+could violate the rights of the owner.
+Siemens Energy is a trademark licensed by Siemens AG.Decarbonize energy- 
+intensive industrial processes via novel-class Turbomachinery
+*  In a par allel development, Siemens Energy has partnered with Technip 
+Energies to jointly develop the Rotating Olefins Cracker (ROC), which applies the principle of shock wave heating turbomachinery to the steam cracking process to produce olefins such as ethylene.Incremental technology maturation
+•
+ Succes
+sful 1.6 MW demo exceeding 700 °C
+•
+ Higher t
+emperature in development (> 1000 °C)
+•
+  Inher
+ently scalable to double-digit megawatt and higher
+•
+  Built wit
+h materials and know-how already proven in 
+Siemens Energy's Compression and Gas Turbine products
+How the Turbo Heater works
+Rotating stages 
+accelerate flow to supersonic  
+Mechanical work  
+ Kinetic energyStatic diffuser decelerates 
+flow back to subsonic (shock 
+wave)  
+Kinetic energy  
+ Thermal energy
+ 
+ 
+ Process Flow
+Driver
+(e.g. electric motor)
+Iron 
+& SteelCement /
+MineralsPulp &
+Paper Oil & Gas Petrochem* 

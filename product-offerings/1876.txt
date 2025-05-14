@@ -1,0 +1,185 @@
+With the power  
+of water to a 
+sustainable future
+Comprehensive Solutions  
+for Small Hydropower Plants
+siemens-energy.com
+Ready for the future 
+Renewable energy is the linchpin of 
+todays energy mix. Solar, wind, bio-mass, 
+and, of course, water are vital elements 
+for an environmentally compatible global 
+energy supply.
+In view of the need to balance economical 
+needs, ecological awareness and grid 
+stabili ty, hydropower stands out in terms of 
+profitability, sustainability, and availability. 
+Small hydropower plants in particular have 
+proven to be a functional and intelligent 
+source of energy.
+Distributed power generation from hydro 
+sources increases independence from fuel 
+price developments and carbon emissions 
+costs, potentially generating additional 
+revenue from carbon emissions credits.Siemens Energy can draw on decades of 
+experience and hundreds of small hydro -
+power plants installed worldwide. The 
+company is renowned for its innovation 
+strength, technical excellence and out-
+standing service and can serve as a system 
+provider with comprehensive expertise in 
+the implementation of turnkey  projects – 
+nowadays also often in combination with 
+wind, solar and others (hybrid plants) and 
+storage systems (e. g. batteries).
+Additionally, Siemens Energy is also a 
+leading company in the field of digitaliza -
+tion. Beside the Fleet and Control system 
+solutions we can create a Digital Twin of 
+your generating unit with our Sipocon H  
+Optimizer to keep it optimized over its 
+lifetime. This can translate into high profit -
+ability and availability of the plant and low 
+total cost of ownership.Making hydro energy an investment that pays off
+In Véroia at the western edge of 
+the Thessaloníki plain in Greece, 
+the Aliakmon river is used to 
+produce hydroelectric power.
+Siemens Energy Hybrid Control 
+combines different decentralized 
+sources to optimize efficiency, 
+flexibility, reliability and sustain -
+ability.
+© 2021 Siemens Energy Page 2
+With the power of water to a sustainable future
+Expertise that generates revenue 
+Proven solutions
+Siemens Energy stands out as an indepen -
+dent and reliable partner drawing on 
+comprehensive know-how and technolo -
+gies. The company promotes and continu -
+ously improves innovative solutions that 
+help clients operate successfully.
+Siemens Energy presents one face to the 
+customer for an entire project as the solu -
+tion provider. Its expertise in small hydro -
+power plants covers:• Turnkey solutions for the water to wire 
+scope of supply
+• Customized design and installation to 
+meet the client’s individual needs
+• Modernization of existing plants with 
+minimized production losses utilizing 
+parts and equipment as suitable
+• Plant performance optimization using a 
+digital plant model (Digital Twin)
+• Integration of turbines from various 
+manufacturers
+• Integration of different turbines in one 
+plant
+• Local support, maintenance, and service 
+help provide high availability
+• Highest degree of operational safety and 
+efficiency even for smallest plants
+Hydropower plant Klimatia in 
+Greece: Interior overview of 
+Francis and Pelton turbines with 
+synchronous generators and 
+hydraulic units, medium voltage 
+panels.
+© 2021 Siemens Energy Page 3
+With the power of water to a sustainable future
+Project references
+St. Anton, Austria  
+8 MW
+Scope of supply and solutions
+• Complete electro-technical solution for two twin-nozzle 
+Pelton-turbines rated at 4,000 kW each
+• Engineering, supply, installation, and commissioning
+• 5 kV switchgear, 6,300 kVA and 5,250 kVA transformers
+• Supply includes 50 switchboards providing automation 
+for 3,000 I / O
+• Control system with redundant PROFIBUS coupling via 
+Ethernet
+Customer benefits
+• Energy supply security
+• Cost-competitive, environmentally friendly renewable 
+energy
+• Comprehensive electro-technical solutionSmådola, Norway  
+15.5 MW
+Scope of supply and solutions
+Engineering, supply, erection, and commissioning of
+• 3 different sized Francis turbines (9,8 / 3,25 / 1,4 MW)
+• Synchronous generators
+• Electrical equipment including: transformers, 22 kV and 
+0,69 kV switchgear, low-voltage switch-boards automa -
+tion, control and monitoring (SCADA)
+Customer benefits
+• Customized turnkey solutions
+• Highest energy production due to high-efficiency 
+ systems
+• Reliable electro-mechanical components /systems
+© 2021 Siemens Energy Page 4
+With the power of water to a sustainable future
+A convincing scope of supply
+As the only integrated energy company that serves the 
+entire energy conversion chain with products, solutions, 
+and services, Siemens Energy provides both sophisticated 
+technology and substantial knowhow. This includes the 
+construction of new, small hydropower plants as well as the 
+modernization of existing ones. Siemens Energy is able to 
+provide comprehensive solutions for small hydropower  
+plants up to 30 MW unit capacity from various worldwide 
+locations.
+Modernization of  existing plants
+If an existing plant needs to be upgraded with state-of-
+the-art technology, Siemens Energy is the partner of 
+choice. By using the pre-existing technical equipment that 
+is already installed on site, Siemens Energy can optimize 
+the technology with minimal budget requirements. 
+In addition to that, Siemens Energy is able to optimise the 
+plant performance of the existing plant (in case of a 
+modernisation) as well as for a new-built plant by using a 
+Digital Twin.The Siemens scope of supply includes:
+• Turbines from leading manufacturers
+• Generators, transformers
+• Turbine control
+• Medium-voltage switchgear
+• Excitation devices, voltage and efficiency factor 
+ regulators
+• Machine automation
+• Monitoring and control of the entire hydraulic system 
+(dam, reservoir  operation, weir system, residual water 
+release)
+• Safety devices
+• Alarm signals and telephone alerts
+• Remote control devices
+• Remote data transfer
+• Integrated power plant control systems
+• Plant Optimizer using a Digital Twin
+• Lighting, power installations, earthing and lightning 
+protection
+• Energy feed-in to the regional network
+• Linking multiple plants
+© 2021 Siemens Energy Page 5
+With the power of water to a sustainable future
+Published by 
+Siemens Energy © 2021
+SE GP G IC CON-S HS  
+Freyeslebenstrasse 1  
+91058 Erlangen, Germany
+ 
+Unrestricted AL:N ECCN:N
+ 
+For more information:
+e-mail: contact@siemens-energy.com  
+www.siemens-energy.com/small-hydro-power
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract. All product 
+designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties 
+for their own purposes could violate the rights of the owners.
+Siemens Energy is a trademark licensed by Siemens AG.

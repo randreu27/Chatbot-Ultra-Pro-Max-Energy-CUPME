@@ -1,0 +1,110 @@
+Siemens Energy is a trademark licensed by Siemens AG.Gas-insulated  
+switchgear
+from 72.5 kV up to 550 kV
+
+03  Foreword
+04  Portfolio overview
+10  GIS local control
+13  GIS monitoring
+14  Interruption principles
+15  Drive system
+16  Development and routine testing
+17  Installation and commissioningIndiaChinaGermanyCustomized products with  
+the shortest delivery times  
+from our global production 
+networkChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Foreword
+The availability of electric energy is vital for  
+economic development and for quality of life and 
+the demand is constantly increasing. One of the 
+necessary conditions for a reliable electric power 
+supply is a well-functioning transmission system.   
+Siemens Energy worldwide supports customers 
+along the entire chain of energy conversion, 
+with an efficient range of products, solutions 
+and know-how for the transmission of  
+electrical energy from one source. 
+ 
+Circuit breakers are the central part of air-  
+insulated (AIS) and gas-insulated (GIS) switchgear. 
+High-voltage circuit breakers are mechanical 
+switching devices which connect and break  
+current circuits (operating currents and fault 
+currents) and carry the nominal current in  
+closed position.
+As a world market leader, Siemens Energy takes 
+the responsibility to provide circuit breakers which 
+meet highest environmental, technological and 
+economic conditions in the various countries worldwide. For more than 150 years we have been 
+shaping and improving the energy world. 
+Sustainability is the core of our actions
+Siemens Energy is fully committed to supporting 
+worldwide agreements and sustainable develop -
+ment goals of nations and our customers. Our 
+ambition is to achieve climate-neutrality in our 
+own operations by 2030 and to cover 100% of our 
+own electricity consumption from renewable 
+sources by 2023.  
+Furthermore, we want to make power grids com -
+pletely free of greenhouse gas emissions with 
+highest performance and health and safety stan -
+dards. Sustainable means for us: Zero SF6 gas, 
+Zero F-mix-gases and Zero greenhouse gases.  
+Our Blue products with vacuum interruption and 
+clean air insulation combine the game changing 
+technology paving the way for climate neutral 
+high-voltage switchgear.Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+8VM1Portfolio overview
+Product line 8DN8 8VN1 8DN9 8DQ1
+Solution
+Rated voltage up to 72.5 kV 145 kV 145 kV 170 kV 245 kV 420 kV (245 kV) 420 kV 550 kV
+Rated short circuit 
+breaking currentup to 31.5 kA 40 kA 40 kA 63 kA 50 kA 63 kA (80 kA) 80 kA 63 kA
+Rated current busbar up to - 3150 A 3150 A 4000 A 4000 A 6300 A 6300 A 6300 A
+Rated current feeder up to 1250 A 3150 A 3150 A 4000 A 4000 A 5000 A 5000 A 5000 A
+Interrupter technology vacuum self-compression principle
+Insulation medium clean air SF6
+Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+8VM1 – Blue GIS™ for wind 
+applicationsChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+8DN8 – Benefiting from 
+experienceChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+8DN9 Benefiting from 
+experienceChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+8DQ1 Benefiting from 
+experienceChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+GIS monitoringChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Drive systemChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Quality right from the startChapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Easy installation and  
+commissioning  Chapter overview GIS | iPDF 8DQ1 8DN9 8DN8 8VN1 8VM1
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Transmission  
+Freyeslebenstraße 1  
+91058 Erlangen      
+Germany
+For the U.S. published by    
+Siemens Energy, Inc     
+Transmission      
+4601 Six Forks Road     
+Raleigh, NC 27609      
+USA
+For more information, please visit our website:  
+                                                       
+or contact us: support@siemens-energy.com
+© Siemens Energy, 2022                 
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance 
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks or 
+product names of Siemens Energy Global GmbH & Co. KG or other 
+companies whose use by third parties for their own purposes could 
+violate the rights of the owners.

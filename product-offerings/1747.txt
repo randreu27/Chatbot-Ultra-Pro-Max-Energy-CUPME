@@ -1,0 +1,44 @@
+Siemens Energy is a trade mark licensed by Siemens AG.
+Blackout prevention
+Dynamic voltage and frequency support 
+combined in one unit for optimal power quality. 
+Cost-effective solution
+Low lifetime expenditures through compact, 
+space-saving installation with high power density, 
+low losses, and easy maintenance.
+Short response time
+Fast response time with high active power 
+output over several seconds.
+High flexibility
+The highly adaptable solution is suitable 
+for various applications through the flexible 
+adjustment of control parameters. Independent of power generation
+Not defined as a power generating unit 
+and therefore available to all transmission 
+system operators who aren‘t allowed to 
+operate power generating assets.
+Environmentally friendly
+Small footprint, no local CO2 emmissions; 
+allows more grid access for renewable power 
+generators.
+Proven technologies
+High-end field-proven SVC PLUS® technology 
+and innovative application of supercapacitors 
+combined into a reliable solution. Operational benefitsThe challenge
+While grids are undergoing fundamental changes in terms of power generation, renewable 
+infeed and ever-growing demand, power quality and dynamic grid stability are at risk due 
+to less synchronous power generation.
+SVC PLUS FS: A convincing solution
+By using a bulk number of supercapacitors, the new SVC PLUS® frequency stabilizer 
+(SVC PLUS FS) is a cost-efficient, compact solution that helps to overcome generation-
+consumption imbalances
+•b y boosting high active power into the grid when needed emulating system inertia (discharging)
+•actively load capacitors when it is benifitial for the grid (charging) as well
+•voltage support by means of reactive power compensation like SVC PLUS®siemens-energy.com/SVCPLUSFSSVC PLUS FS
+Ensuring grid stability 
+with frequency support 
+by power electronics
+SupercapacitorsGrid
+Transformer
+Converter
+=
