@@ -9,6 +9,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
 import torch
+from voice_recognition import VoiceRecognition
 
 # Check if GPU is available and set the device accordingly
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -80,7 +81,7 @@ qa_system_prompt = (
     "If you DO NOT KNOW the answer, just say that you "
     "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
     "Use five sentences maximum and keep the answer concise."
-    "At the end of your answer, cite your sources (if necessary) by writing SOURCES: followed by the source links. (separated by a line break). "
+    "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links. (separated by a line break). "
 )
 
 # Create a prompt template for answering questions
@@ -97,8 +98,32 @@ def continual_chat():
     print("Start chatting with the AI! Type 'exit' to end the conversation.")
     chat_history = []  # Collect chat history here (a sequence of messages)
     while True:
-        query = input("You: ")
-        if query.lower() == "exit":
+
+        VOICE_INPUT = True
+        query = None
+
+        if VOICE_INPUT:
+            while query == None:
+                # Initialize the voice recognition engine
+                voice_recognition = VoiceRecognition()
+                # Start recording
+                print("Press Enter to simulate button press (start recording)")
+                input()
+                voice_recognition.start_recording()
+                # Stop recording and get the recognized text
+                print("Recording... Press Enter to simulate button release (stop recording)")
+                input()
+                query = voice_recognition.stop_recording()
+                if query == None:
+                    print("Sorry, I didn't catch that. Please try again.")
+                    continue
+                else:
+                    print("You: ", query)
+        else:
+            # If not using voice input, get text input
+            query = input("You: ")
+
+        if query.lower() == "exit" :
             break
         
         # First get documents from retriever to access their metadata
