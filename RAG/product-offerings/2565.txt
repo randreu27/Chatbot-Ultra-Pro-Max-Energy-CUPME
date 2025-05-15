@@ -1,0 +1,1615 @@
+ 
+Unrestricted   Lorem ipsum l Veribus 
+dolorpro  
+ 
+ 
+ 
+DigiTRON  
+Manual Pemasangan, Operasi dan 
+Penyelenggaraan  
+IOM-006 Rev 5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON Retrievable Electrical Distribution Unit  
+(REDU) - Generasi  1 
+Arahan Perlindungan, Penyimpanan, Penghantaran, 
+Pembungkusan, Pengerahan dan Penyelenggaraan  
+siemens -energy.com  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  2 daripada 46 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON Retrievable Electrical Distribution Unit  
+(REDU) - Generasi  1 
+Arahan Perlindungan, Penyimpanan, Penghantaran, 
+Pembungkusan, Pengerahan dan Penyelenggaraan  
+  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  3 daripada 46 
+ 
+Unrestricted   
+Pendahuluan  
+Terima kasih kerana membeli produk Siemens Energy Subsea. Maklumat yang terdapat dalam 
+dokumen ini adalah gambaran keseluruhan termasuk perlindungan, penyimpanan, pengiriman, 
+pembungkusan, pengerah an dan penyelenggaraan untuk ‘TC3A’ DigiTRON Retrievable Electrical 
+Distribution Unit (REDU) generasi 1 dan plat lekap.  
+ 
+PENTING  
+SILA BACA DENGAN TELITI SEBELUM PENGGUNAAN  
+SIMPAN SEBAGAI RUJUKAN MASA DEPAN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ringkasan Semakan  
+Halaman ini merekodkan status semakan keseluruhan dokumen dan kebenarannya untuk 
+dikeluarkan.  
+ 
+Hak cipta © 2022  Siemens Energy Subsea Connectors, (bahagian Siemens Energy plc), Subsea 
+Excellence Centre, Ulverston, Cumbria, LA12 9EE, England.  
+Sem
+akan  Disusun 
+oleh Tarikh  Diluluskan 
+oleh Tarikh 
+Keluaran  Halaman Terjejas/Catatan  
+      
+      
+5 R Wyatt  27/06/2022  R Wyatt  27/06/2022  Halaman muka depan dan belakang Siemens 
+Energy ditambah  
+4 R Wyatt  20/06/2022  R Wyatt  20/06/2022  Bahagian yang dikemas kini: 2.4   2.5   3.3.6   6.4.1   
+6.4.2   9.4.2  
+3 R Wyatt  16/11/2020  Eric Chaize  16/11/2020  Dikemas kini ke templat IOM baharu dengan 
+nasihat keselamatan produk dikenal pasti dengan 
+jelas.  Harmoni dengan IOM -005.  
+2 A.Ellis  28/10/2020  J. Pridmore  28/10/2020  Rajah 1 ditambah menunjukkan titik mengangkat 
+REDU. Bahagian 7 dikemas kini dengan kelaj uan 
+kerahan/ambilan semula maksimum dan rujukan 
+kepada IOM -002 ditambah  
+1 T. Archer   JP Smith  11/02/2020  Keluaran pertama  
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  4 daripada 46 
+ 
+Unrestricted   
+ 
+Kandungan  
+1 PRODUK YANG DIRANGKUMI OLEH MANUAL INI  ................................ ...... 7 
+2 MAKLUMAT ASAS & RUJUKAN PANTAS  ................................ .....................  8 
+2.1 Gambaran keseluruhan produk  ................................ ..............................  8 
+2.2 Spesifikasi dan pensijilan produk  ................................ ..........................  8 
+2.3 Maklumat perhubungan dan maklum balas  ................................ ........  10 
+2.4 Label peringatan produk  ................................ ................................ ....... 11 
+2.5 Penandaan produk  ................................ ................................ .................  12 
+2.6 Label/penandaan CE  ................................ ................................ ..............  12 
+2.7 Contoh produk  ................................ ................................ .......................  13 
+3 KESELAMATAN PRODUK  ................................ ................................ .............  14 
+3.1 Amaran berkaitan tindakan  ................................ ................................ ... 14 
+3.2 Penggunaan yang dimaksudkan  ................................ ..........................  14 
+3.3 Maklumat keselamatan am  ................................ ................................ ... 15 
+3.4 Dokumen berkaitan  ................................ ................................ ................  19 
+3.5 Kawalan bahan berbahaya kepada kesihatan (COSHH)  ....................  20 
+4 SINGKATAN  ................................ ................................ ................................ ... 21 
+5 SPESIFIKASI  ................................ ................................ ................................ .. 22 
+5.1 Spesifikas i Penyambung yang dikendalikan oleh ROV  .....................  22 
+6 MENYEDIAKAN PRODUK UNTUK KEGUNAAN ATAU PENYIMPANAN  ... 24 
+6.1 Perlindungan dan pembungkusan produk  ................................ ..........  24 
+6.2 Mengangkat  ................................ ................................ ............................  24 
+6.3 Nyahpembun gkusan  ................................ ................................ ..............  25 
+6.4 Penyimpanan, perlindungan dan akhir hayat  ................................ ..... 25 
+7 PEMASANGAN DAN PENGUMPULAN  ................................ .........................  28 
+7.1 Perlindungan Katodik  ................................ ................................ ............  28 
+7.2 REDU  ................................ ................................ ................................ ....... 28 
+7.3 Pemasangan plat asas  ................................ ................................ ..........  30 
+7.4 Mate/de -mate kotak REDU box ke plat Asas  ................................ ....... 31 
+8 MAKLUMAT PENGGUNA SEMASA OPERASI BIASA DAN KEA DAAN 
+ROSAK  ................................ ................................ ................................ ....................  36 
+8.1 Isyarat yang boleh dilihat/boleh didengar  ................................ ...........  36 
+8.2 Operasi normal dan rosak/berbahaya  ................................ .................  36 
+8.3 Penyelesaian masalah  ................................ ................................ ...........  36 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  5 daripada 46 
+ 
+Unrestricted   
+9 OPERASI DAN PENYELENGGARAAN PRODUK  ................................ ........  37 
+9.1 Amaran keselamatan  ................................ ................................ .............  37 
+9.2 Penyelenggaraan dan servis produk  ................................ ...................  37 
+9.3 Perlindungan dasar laut pada pin sentuhan receptacle  ....................  37 
+9.4 Perlindungan produk; penutup dan penyambung tiruan  ..................  37 
+9.5 Live Mate / De -mate  ................................ ................................ ...............  39 
+9.6 Penyingkiran pertumbuhan laut dan deposit berkapur  .....................  40 
+9.7 Ujian produk  ................................ ................................ ...........................  40 
+9.8 Periksa sebelum melakukan mate terhadap penyambung  ................  42 
+9.9 Penyambung ROV mating dan de -mating  ................................ ...........  42 
+10 KOMEN/MAKLUM BALAS PELANGGAN  ................................ .....................  45 
+ 
+Jadual  
+Table 1  Senarai manual Pemasangan, Operasi dan Penyelenggaraan lain yang 
+berkaitan dengan rangkaian produk DigiTRON  ................................ ................................ . 7 
+Table 2  Spesifikasi dan pensijilan produk DigiTRON  ................................ ..............  9 
+Table 3  Maklumat perhubungan produk DigiTRON  ................................ ...............  10 
+Table 4  Spesifikasi penyambung ROV DigiTRON  ................................ ..................  22 
+Table 5  Nilai salah penjajaran maksi mum kotak REDU ke plat Asas  ...................  31 
+Table 6  Penyelesaian masalah maklumat perhubungan produk  ..........................  36 
+ 
+Ilustrasi  
+Figure 1  Label peringatan produk  ................................ ................................ ............  12 
+Figure 2  Penandaan produk pada produk DigiTRON  ................................ ..............  12 
+Figure 3  Pemasangan kotak REDU Tipikal dan Pemasangan Plat Asas  ................  13 
+Figure 4  Titik mengangkat REDU  ................................ ................................ ..............  24 
+Figure 5  Penyambung Ujian Kering (Bahagian atas), ROV, jenis Penyelam dan plat 
+Stab  30 
+Figure 7  Penandaan pada petunjuk arah  ................................ ................................ . 32 
+Figure 8  a) Salah Penjajaran Mendatar Dibenarkan, b) Pandangan Akhir Salah 
+Penjajaran Dibenarkan  ................................ ................................ ................................ ...... 32 
+Figure 9  Salah Penja jaran Penangkapan Pin Sekunder  ................................ ..........  33 
+Figure 10  Salah Penjajaran Kon ke Pin Sepusat Dibenarkan  ................................ ... 34 
+Figure 11  Diameter 23mm (0.905”) melalui lubang  ................................ ....................  34 
+Figure 12  Penutup Pengangkutan jenis ROV (kiri) dan Penutup Pelindung 
+Bahagian Atas  ................................ ................................ ................................ ....................  38 
+Figure 13  Penutup Subsea jenis ROV  ................................ ................................ ........  39 
+Figure 14  Penutup Persekitaran Subsea jenis ROV (cakera berwarna merah)  ....... 39 
+Figure 15  Penyambung Tiruan jenis ROV, jenis flying dan bebibir (cakera berwarna 
+hitam)  39 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  6 daripada 46 
+ 
+Unrestricted   
+Figure 16  Label contoh pada penyambung ('DIGELUNG' atau 'PERINTANG' atau 
+'SIFAR VOLT')  ................................ ................................ ................................ ....................  39 
+Figure 17  Tanda penjajaran dan petunjuk mating kedap bibir  ................................ . 43 
+Figure 18  Alat de -mate ROV, nombor bahagian BQ -30090 -00 ................................ .. 44 
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  7 daripada 46 
+ 
+Unrestricted   
+1  PRODUK YANG DIRANGKUMI OLEH MANUAL INI  
+Dokumen ini adalah gambaran keseluruhan tentang arahan perlindungan, penyimpanan, 
+pembungkusan, pengerahan dan penyelenggaraan untuk Retrievable Electrical Distribution Unit 
+(REDU) jenis ‘TC3A ’generasi 1.  
+ 
+Produk yang dirangkumi oleh IOM ini dapat dikena l pasti secara visual, semuanya serupa dengan 
+contoh yang diberikan di bahagian 2.7. 
+ 
+Nombor bahagian untuk produk REDU ini semuanya bermula dengan:  
+ 
+TC3A -xxx   -  di mana xxx adalah nombor bahagian untuk varian tertentu REDU, perbezaan 
+terutamanya adalah kuantiti penyambung dan jenis penyambung.  
+ 
+Manual pemasangan, operasi dan penyelenggaraan untuk produk DigiTRON lain yang tidak 
+dirangkumi oleh dokume n ini boleh didapati di laman web Siemens Subsea https://www.siemens -
+energy.com /cari Subsea, seperti berikut:  
+ 
+No. 
+DOKUMEN.  PRODUK  
+IOM-001 Flying leads elektrik DigiTRON, Jumper dan Sensor Harness  
+IOM-002 Penyambung tunggal DigiTRON  
+IOM-003 Usang, digantikan oleh IOM -002. 
+IOM-004 Tidak digunakan  
+IOM-005 Retrievable Electrical Distribution unit (REDU), generasi 2 
+IOM-007 Junction box nyahsambung jenis TC3A -107 dan Unit Pengagihan Elektrik 
+(EDU) yang serupa.  
+IOM-008 Pemasangan gentian optik flying leads dan harness DigiTRON  
+IOM-009 Penyambung tunggal gentian optik DigiTRON  
+00003075  PT Dasar laut/Sensor TT  
+00007464  Sensor Tekanan Pembezaan SDP -6 / SDP -8 
+Table 1  Senarai manual Pemasangan, Operasi dan Penyelenggaraan lain yang berkaitan dengan 
+rangkaian produk DigiTRON  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  8 daripada 46 
+ 
+Unrestricted   
+2 MAKLUMAT ASAS & RUJUKAN PANTAS  
+2.1 Gambaran keseluruhan produk  
+Penggunaan DigiTRON REDU yang dimaksudka n adalah komunikasi dan pengedaran voltan 
+rendah antara kepingan peralatan elektrik yang terendam di dalam air, contoh dasar laut. REDU 
+menggunakan penyambung DigiTRON. Rangkaian penyambung DigiTRON telah dibangunkan 
+untuk komunikasi jangka panjang yang bo leh dipercayai dan aplikasi sistem kawalan kuasa voltan 
+rendah yang berkaitan dengan pemasangan di luar pesisir. Kapasiti mating bawah air penyambung 
+ini dicapai dengan menggunakan sisipan elektrik yang dikompensasi tekanan menggunakan prinsip 
+CE.  
+ 
+Satu c ontoh ditunjukkan dalam bahagian 2.7 untuk membantu mengenal pasti produk REDU.  
+2.2  Spesifikasi dan pensijilan produk  
+Spesifikasi asas yang berkaitan dengan semua produ k yang dirangkumi oleh manual ini adalah di 
+bawah di Table 2 . Spesifikasi tambahan boleh didapati di bahagian 5. 
+Reka Bentuk Hayat:  30 tahun dalam persekitaran da sar laut  
+Nilai voltan  1,000Vac pin -bumi, 2,000Vac pin -pin 
+Nilai arus  Dalam air: 4 -hala 35 -40A   7 -hala 22 -32A   12 -hala 20 -28A  
+Di udara:    4 -hala 18A     7 -hala 14A     12 -hala 11A  
+Lebihan arus  100A selama 5 saat, tidak lebih daripada 2 sejam  
+Nombor dinilai 
+operasi  1000 (750kering/250basah) kitaran mate / de -mate (Matikan)  
+Kedalaman air  3,000 m (9,843 kaki)  
+Kadar pengerahan 
+dan pengambilan 
+semula  Maksimum 350m/min  (1,150kaki/min)  
+Suhu Penyimpanan  -40°C  +70°C ( -40°F +158°F) (had atas adalah suhu permukaan produk 
+dan termasuk penambahan solar daripada cahaya matahari terang)  
+Suhu operasi  Dasar Laut: -5°C  +60°C (+23°F  +140°F)   
+Di udara: -20°C  +50°C ( -4°F  +122°F)  
+Berat  Sehingga 170kg (374 lb), bergantung kepada konfigurasi produk  
+(lihat nota penghantaran atau helaian data produk tertentu)  
+Pensijilan Produk:  
+Standard  Penerangan  
+Arahan EU 
+2001/95/EC  Keselamatan Produk Am  
+Arahan EU 
+2014/35/EU  Arahan Voltan Rendah  
+IEC 61984  Penyambung - Keperluan keselamatan dan ujian  
+API-17F  Standard untuk Sistem Kawalan Pengeluaran Subsea  
+Nota: Disahkan sendiri melalui ujian dalaman.  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  9 daripada 46 
+ 
+Unrestricted   
+Table 2  Spesifikasi dan pensijilan produk DigiTRON  
+  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  10 daripada 
+46 
+ 
+Unrestricted   
+2.3 Maklumat perhubungan dan maklum balas  
+Untuk maklumat atau pertanyaan tambahan tentang produk, sila layari laman web Siemens 
+www.siemens -energy.com  /cari Subsea, atau hubungi  yang berikut:  
+Jabatan  Alamat e -mel 
+Pegawai Keselamatan Produk  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Sokongan Teknikal  connectortechnicalsupport.gb@siemens -energy.com  
+Perkhidmatan (Pasukan Tapak)  susultlcmsupport.gb@siemens -energy.com  
+Jualan  connectorsales.gb@siemens -energy.com  
+Table 3  Maklumat perhubungan produk DigiTRON  
+Sebarang maklumat, rekod atau maklum balas Kesihatan dan Keselamatan yang perlu diperincikan 
+boleh direkodkan dala m bahagian 10 dalam dokumen ini dan dihantar kepada jabatan yang 
+berkaitan dalam Table  3. 
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  11 daripada 
+46 
+ 
+Unrestricted   
+2.4 Label peringatan produk  
+Label peringatan produk berikut dibekalkan dengan semua produk Siemens Energy Subsea.  
+ 
+ 
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  12 daripada 
+46 
+ 
+Unrestricted   
+Figure 1  Label peringatan produk  
+2.5 Penandaan produk  
+Produk Siemens Energy REDU ditandakan dengan nombor bahagian Siemens Energy dan nombor 
+siri yang unik. Juga, voltan, suhu dan penarafan kedalaman air ditunjukkan.  
+Biasanya ini terukir pada label berwarna kuning yang melekat pada produk secara kekal, (rujuk 
+Figure 3 ) 
+Juga, maklumat serupa yang berkaitan dengan setiap penyambung terukir pada badan logam 
+penyambung, rujuk Figure 2 . 
+ 
+Figure 2  Penandaan produk pada produ k DigiTRON  
+ 
+2.6 Label/penandaan CE  
+Label/tanda CE di mana berkenaan menunjukkan bahawa produk mematuhi keperluan arahan yang 
+berkenaan seperti berikut:  
+• 2014/35/EU - Arahan Voltan Rendah  
+Pengisytiharan Pematuhan akan dibekalkan bersama barangan.  
+ 
+  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  13 daripada 
+46 
+ 
+Unrestricted   
+2.7 Contoh produk  
+ 
+ 
+Figure 3  Pemasangan kotak REDU Tipikal dan Pemasangan Plat Asas  
+ 
+ 
+Label pengenalan produk  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  14 daripada 
+46 
+ 
+Unrestricted   
+3 KESELAMATAN PRODUK  
+Siemens Energy Subsea mengesyorkan penamatan semua peralatan hanya boleh dilakukan oleh 
+kakitangan yang terlatih, berkelayakan dan berpengalaman (SQEP) iaitu orang yang kompeten.  
+ 
+Jika anda mempunyai sebarang maklum balas selepas pemasangan, penggunaan at au pengerahan 
+produk, sila lengkapkan dan kembalikan borang Komen/Maklum Balas Pelanggan (Bahagian 10). 
+Sila e -melkan borang yang lengkap kepada Pegawai Keselamatan P roduk di 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+3.1 Amaran berkaitan tindakan  
+Klasifikasi amaran berkaitan tindakan  
+Amaran berkaitan tindakan diklasifikasikan mengikut  keterukan bahaya yang mungkin 
+menggunakan tanda amaran dan kata isyarat berikut:  
+Simbol amaran dan kata isyarat  
+ Bahaya!  
+Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang teruk  
+ Bahaya!  
+Risiko kematian akibat renjatan elektrik  
+ Amaran.  
+Risiko kecederaan diri kecil  
+ Awas.  
+Risiko kerosakan bahan atau alam sekitar  
+ 
+3.2 Penggunaan yang dimaksudkan  
+Produk ini adalah bertujuan sebagai sambungan elektrik Voltan Rendah dan sistem pengedaran 
+untuk kegunaan dasar laut. Terdapat risiko keced eraan atau kematian pada pengguna atau orang 
+lain, atau kerosakan pada produk dan harta benda lain sekiranya berlaku penggunaan yang tidak 
+sesuai atau penggunaan yang tidak dimaksudkan.  
+ 
+Penggunaan yang dimaksudkan termasuk yang berikut:  
+- pematuhan arahan pemasangan dan operasi termasuk untuk produk dan mana -mana 
+komponen sistem lain.  
+- pematuhan kepada semua syarat pemeriksaan dan penyelenggaraan yang disenaraikan dalam 
+arahan.  
+- penggunaan semua alat yang disyorkan sesuai untuk tugas tertentu . 
+- semua aktiviti hendaklah dilakukan oleh orang yang kompeten (lihat 3.3.1  untuk definisi).  
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  15 daripada 
+46 
+ 
+Unrestricted   
+Sebarang penggunaan lain yang tidak dinyatakan dalam dokumen ini atau dirangkumi dalam arahan 
+pemasangan dan operasi, atau selain daripada yang dinyatakan dalam dokumen ini adalah 
+dianggap sebagai penggunaan yang tidak wajar.  
+ Awas.  Risiko kerosakan baha n atau alam sekitar, penggunaan yang tidak wajar dalam 
+apa jua bentuk adalah dilarang.  
+3.3 Maklumat keselamatan am  
+ Pemasangan oleh orang yang kompeten sahaja  
+Pemasangan, pemeriksaan, penyelenggaraan dan pembaikan produk hendaklah dilakukan oleh 
+tenaga terlat ih, berkelayakan dan berpengalaman (SQEP), iaitu orang yang kompeten, untuk 
+menjalankan aktiviti yang ditentukan. Pemasangan, pemeriksaan, penyelenggaraan dan pembaikan 
+produk oleh orang yang tidak terlatih dan dianggap tidak kompeten boleh membatalkan war anti 
+produk. Untuk maklumat lanjut sila hubungi Pengurusan Kitaran Hayat Siemens Energy di 
+susultlcmsupport.gb@siemens.com  (Pasukan Tapak).   
+ 
+ Peralatan perlindungan peribadi (PPE)  
+Peralatan Perlindungan Peribadi (PPE) ditakrifkan secara sah sebagai 'semua peralatan (termasuk 
+pakaian yang mampu memberikan perlindungan terhadap cuaca) yang bertujuan untuk dipakai atau 
+dipegang oleh seseorang di tempat kerja dan yang melindungi pengguna daripada  satu atau lebih 
+risiko terhadap kesihatan atau keselamatan mereka'.  
+ 
+Dalam hierarki kawalan risiko, PPE dianggap berada di peringkat terendah dan merupakan pilihan 
+terakhir. PPE hanya sesuai di mana bahaya yang dimaksud tidak dapat sepenuhnya dihilangkan 
+atau dikendalikan sedemikian rupa sehingga bahaya tidak mungkin terjadi (misalnya dengan 
+mengasingkan bahaya atau mengurangkan risiko pada sumber ke tahap yang boleh diterima).  
+ 
+Semua kakitangan dan pengendali syarikat hendaklah memakai Peralatan Perlindun gan Diri (PPE) 
+yang sesuai yang ditakrifkan sebagai hasil daripada penilaian risiko yang relevan selaras dengan 
+Peraturan Peralatan Perlindungan Diri (PPE).  
+ 
+Pakai PPE yang sesuai mengikut peringatan keselamatan produk yang diberikan dalam 
+dokumen ini  
+ 
+ Bahaya yang disebabkan oleh operasi yang tidak wajar dan salah guna 
+yang boleh dijangka  
+Operasi yang tidak wajar dan salah guna yang boleh dijangka boleh mendatangkan bahaya kepada 
+anda dan orang lain dan menyebabkan kerosakan bahan. Baca dengan teliti ara han yang disertakan 
+dan semua dokumen lain yang berkenaan, terutamanya seksyen "Keselamatan" dan amaran.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik jika pin shuttle (pada penyambung 
+palam) tertekan contohnya dengan pemutar skru apabila palam hidup (penyalahgunaan 
+boleh diramalkan).  
+- Aktiviti ujian hanya boleh dilakukan oleh orang yang kompeten.  
+- Penyambung ujian yang betul hendaklah sentiasa dipasang untuk ujian elektrik.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  16 daripada 
+46 
+ 
+Unrestricted   
+ Bahaya! Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang teruk 
+disebabkan oleh peluncur pin shuttle kerana kerosakan yang disebabkan pada pin shuttle, 
+contoh dengan pemutar skru (jangkaan penyalahgunaan).  
+- Aktiviti penyelenggaraan dan ujian hanya boleh dilakukan oleh orang yang kompeten.  
+- Alat yang betul hendakla h sentiasa digunakan.  
+ 
+  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  17 daripada 
+46 
+ 
+Unrestricted   
+ Risiko kematian akibat renjatan elektrik  
+ Bahaya!  Risiko kematian akibat renjatan elektrik kerana pin hidup yang terdedah, contoh 
+ujian sistem kilang atau bahagian atas dan receptacle unmated yang bertenaga.  
+- Jangan sekali -kali memberi tenaga kepada penyambung receptacle apabila tidak 
+mated dengan palam.  
+- Pastikan semua prosedur ujian dipatuhi.  
+- Saluran komunikasi dan protokol dipatuhi.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik kerana kabel yang tidak ditapis.  
+- Jangan sentuh wayar elektrik semasa bertenaga. Pastikan semua prosedur ujian 
+dipatuhi.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik dari sebarang konduktor yang terdedah 
+disebabkan tenaga elektrik yang tersimpan, contoh kapasitans kabel atau di tempat lain 
+dalam sistem.  
+- Bumikan semua konduktor elektrik setelah diuji dan jangan menyentuh konduktor 
+sehingga sistem elektrik telah dinyahcas sepenuhnya. Pastikan semua prosedur 
+dipatuhi.  
+ Bahaya! Risiko kematian akibat renjatan elektrik, jika produk ditamatkan dengan salah 
+contohnya konduktor longgar menyentuh kotak logam atau ditam atkan ke kotak logam 
+yang salah.  
+- Aktiviti pemasangan/penamatan hendaklah dilakukan oleh orang yang kompeten.  
+- Sentiasa bumikan elektrik badan logam sebelum menghidupkan penyambung secara 
+elektrik.  
+- Jangan sekali -kali memegang produk semasa ia hidup.  
+ Baha ya! Risiko kematian akibat renjatan elektrik atau kecederaan diri yang teruk akibat 
+melecur dari de -mating konduktor hidup dengan tangan.  
+- Jangan de -mate produk semasa ia hidup  
+- Jangan sekali -kali memegang produk semasa ia hidup  
+- Pastikan semua prosedur untu k penyambung mating/de -mating dipatuhi.  
+ 
+ Risiko kecederaan dan kerosakan bahan akibat ujian, penyelenggaraan 
+dan pembaikan yang dilakukan dengan cara yang tidak betul atau tidak 
+dilakukan sama sekali  
+REDU tidak boleh diservis oleh pengguna. Sekiranya terdapat kerosakan produk yang disyaki (rujuk 
+bahagian 8.2), jangan gunakan produk dan sila hubungi Sokongan Teknik al Siemens Energy atau 
+Keselamatan Produk Siemens Energy untuk mendapatkan nasihat. Jangan cuba untuk menjalankan 
+kerja -kerja penyelenggaraan atau pembaikan pada produk itu sendiri.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik jika pengguna membuka / salah 
+memasang semula / salah menamatkan produk (penyalahgunaan yang boleh diramalkan).  
+- Tiada bahagian produk yang memerlukan penyelenggaraan atau pemeriksaan. 
+Nyahpasang produk adalah dila rang.  
+- Penamatan wayar elektrik ke produk hanya boleh dilakukan oleh orang yang 
+kompeten.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  18 daripada 
+46 
+ 
+Unrestricted   
+ Bahaya!  Risiko kematian akibat renjatan elektrik daripada penggunaan penyambung ujian 
+yang tidak wajar (penyalahgunaan yang boleh diramalkan). Khususnya, mengalih k eluar 
+sarung penahan getah yang diletakkan di atas sambungan antara kabel dan penyambung 
+ujian adalah dilarang, kerana ini akan mendedahkan bahagian hidup kepada pengguna.  
+Jangan sekali -kali nyahpasang penyambung ujian  
+ Amaran. Risiko kecederaan diri kecil dari suhu tinggi produk disebabkan pemanasan 
+ohmik dalam keadaan litar pintas atau arus yang tinggi.  
+- Sekiranya berlaku terlebih arus yang tinggi, benarkan penyambung untuk menyejuk 
+sebelum menyentuh.  
+- Memastikan bahawa semua uj ian produk baik di kilang mahupun di lapangan telah 
+dilengkapkan oleh orang yang kompeten.  
+ Bahaya! Risiko kecederaan mata yang teruk disebabkan minyak bertekanan keluar dari 
+hos yang rosak atau ketiadaan skru pengisi/lubang.  
+- Memastikan bahawa semua ujian produk baik di kilang mahupun di lapangan telah 
+dilengkapkan oleh orang yang kompeten.  
+ Amaran. Risiko kecederaan mata/anggota badan disebabkan oleh tekanan yang 
+dilepaskan semasa nyahpasang produk, sekiranya pengambilan produk dari dasar laut 
+yang mengalami kerosakan lalu menyebabkan tekanan kedalaman terperangkap di dalam 
+produk.  
+- Memastikan semua aktiviti nyahpasang produk dilakukan oleh orang yang kompeten 
+mengikut prosedur yang berkaitan dan menggunakan peralatan perlindungan peribadi 
+yang relevan (PPE).  
+ Amaran. Risiko kecederaan badan disebabkan oleh bahagian penahan tekanan menjadi 
+peluncur disebabkan pengguna mengenakan tekanan yang berlebihan terhadap sistem, 
+contoh semasa Ujian Pemasangan Tapak (SIT).  
+- Memastikan semua aktiviti SIT produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+ 
+ Risiko kecederaan dan kerosakan  bahan disebabkan pengendalian secara 
+manual  
+Mengendali, mengangkat dan membawa secara manual diketahui sebagai salah satu penyumbang 
+terbesar terhadap kesihatan pekerja. Pastikan alat pengendalian mekanikal digunakan sebaik 
+mungkin untuk mengelakkan penge ndalian secara manual. Sekiranya pengendalian secara manual 
+dianggap sesuai untuk sesuatu tugas, panduan mengangkat yang selamat hendaklah diikuti, cthnya 
+menggunakan postur badan yang betul, pertimbangkan untuk mengangkat secara berpasukan, 
+menggunakan te knik mengangkat yang selamat, dll. Hanya orang yang kompeten dibenarkan 
+melakukan tugas tanpa pengawasan, sila tanya jika ada keraguan.  
+ Amaran. Risiko kecederaan muskuloskeletal daripada penyambung mating atau de -
+mating dengan tangan.  
+- -Merujuk kepada kekuatan mate / demate yang dinyatakan di sini, sila pastikan 
+langkah -langkah pengendalian manual yang sesuai diambil.  
+Memastikan semua aktivitiujian produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  19 daripada 
+46 
+ 
+Unrestricted   
+ - Amaran. Risiko keced eraan muskuloskeletal daripada pengendalian produk berat 
+secara manual. Rujuk seksyen 2.2 (Jadual 2) atau maklumat penghantaran atau 
+helaian data produk untuk berat produk.  
+- Pastikan alat pengendalian mekanikal digunakan sebaik mungkin untuk 
+mengelakkan pen gendalian secara manual.  
+- Sekiranya pengendalian secara manual dianggap sesuai untuk sesuatu tugas, 
+panduan mengangkat yang selamat hendaklah diikuti, contoh menggunakan postur 
+badan yang betul, pertimbangkan untuk mengangkat secara berpasukan, 
+menggunakan teknik mengangkat yang selamat, dll.  
+Hanya orang yang kompeten dibenarkan untuk melaksanakan tugas -tugas tanpa 
+pengawasan, jika terdapat keraguan sila bertanya.  
+ Amaran. Risiko kecederaan badan akibat produk berat yang jatuh semasa mengangkat 
+menggunakan mesin.  
+Peraturan tempatan untuk operasi mengangkat bantuan mekanikal dan peralatan 
+mengangkat mesti dipatuhi, mis. ‘LOLER’ di UK.  
+ Amaran. Risiko kecederaan ringan kepada orang yang mempunyai alahan terhadap 
+minyak berasaskan silikon atau mineral.  
+Terdapat risiko kecil bahawa minyak boleh bocor dari produk jika berlaku kerosakan. 
+Pakai perlindungan tangan yang sesuai semasa mengendalikan pro duk atau minyak 
+berasaskan mineral atau sintetik sekiranya berlaku kebocoran minyak bocor dari 
+penyambung disebabkan kerosakan.  
+ Amaran. Risiko kecederaan kecil dan kerosakan bahan akibat tergelincir, tersadung dan 
+terjatuh.  
+Pengemasan yang baik mengela kkan berlaku tergelincir, tersadung dan terjatuh, 
+memastikan semua kawasan kerja sentiasa bersih dan kemas.  
+ 
+3.4 Dokumen berkaitan  
+Pemasang hendaklah melakukan penilaian risiko tapak sepenuhnya dan melaksanakan semua 
+langkah dan prosedur yang diperlukan untuk  mematuhi undang -undang kesihatan dan keselamatan 
+kawasan, wilayah, nasional atau antarabangsa yang berkaitan, contoh The Health and Safety at 
+Work Act (HASAWA) di United Kingdom (UK) dan memastikan keselamatan diri dan orang lain 
+terhadap keperluan pengen dalian secara manual dan bekerja pada ketinggian.  
+ 
+Semasa pemasangan produk (dan apa -apa kerja berikutnya) hendaklah dilakukan dengan penuh 
+berhati -hati. Semua pemasang dan pengusaha yang terlibat dari memunggah produk sehingga 
+dipasang di lokasi terakhirn ya mesti melaksanakan tugas sepenuhnya untuk menjaga keselamatan 
+diri dan orang lain. Apabila mengangkat dan mengendalikan produk ini, mereka yang terlibat perlu 
+mendapatkan bantuan jika diperlukan. Dalam situasi tertentu, mungkin perlu menggunakan alat 
+bantuan pengendalian mekanikal. Hendaklah berhati -hati untuk mengelakkan bahaya tersadung, 
+tergelincir atau permukaan yang basah.  
+ 
+Majikan dan pemasang perlu merujuk kepada laman web Eksekutif Kesihatan dan Keselamatan 
+(HSE) di UK untuk mendapatkan nasihat p enuh dan alat carta penilaian pengendalian manual 
+(MAC).  
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  20 daripada 
+46 
+ 
+Unrestricted   
+Di samping itu, jika tiada arahan khusus diberikan maka rujukan hendaklah dibuat, tetapi tidak terhad 
+kepada, jika berkenaan, Standard British dan kod amalan seperti berikut:  
+- Akta Kesihatan dan Kese lamatan di Tempat Kerja.  
+- Kawalan COSHH bahan berbahaya kepada kesihatan.  
+- BS 7671 Keperluan untuk pemasangan elektrik. Peraturan Pendawaian IEE.  
+- Peraturan Elektrik di Tempat Kerja.  
+ 
+Adalah menjadi anggungjawab operator dan pemasang untuk mematuhi undang -undang kesihatan 
+dan keselamatan Syarikat, kawasan, wilayah, nasional atau antarabangsa semasa.  
+ 
+3.5 Kawalan bahan berbahaya kepada kesihatan (COSHH)  
+Bahan -bahan berbahaya, Kawalan bahan -bahan berbahaya kepada kesihatan (COSHH) Penilaian 
+tentang bahan -bahan seperti elastomer dan minyak, dan lain -lain yang digunakan dalam produk 
+DigiTRON boleh didapati atas permintaan daripada Pegawai Keselamatan Produk di 
+subsea.connectors.productsafety.gb@siemens -energy.com . 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  21 daripada 
+46 
+ 
+Unrestricted   
+4 SINGKATAN  
+°C Darjah Celsius  
+°F Darjah Fahrenheit  
+A Ampere  
+ac Arus Ulang Alik  
+API American Petroleum Institute  
+CE Komuniti Eropah  
+COSHH  Kawalan bahan berbahaya kepada kesihatan  
+CP Perlindungan Katodik  
+dc Arus Terus  
+DWG  Lukisan  
+EDU  Unit Pengagihan Elektrik  
+EFL Electrical Flying Leads  
+EMF  Medan Magnetik Elektrik  
+M Meter  
+Max.  Maksimum  
+Min. Minimum  
+No. Nombor  
+PPE Peralatan Perlindungan Peribadi  
+REDU  Retrievable Electrical Distribution Unit  
+ROV  Kenderaan Dikendalikan Dari Jauh  
+SIT Ujian Pemasangan Tapak  
+UNS  Sistem Pernomboran Bersepadu untuk Logam dan Aloi  
+V Volt 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  22 daripada 
+46 
+ 
+Unrestricted   
+5 SPESIFIKASI  
+Berikut ini adalah spesifikasi asas untuk penyambung DigiTRON ROV yang digunak an dalam 
+REDU. Produk sebenar mungkin berbeza -beza.  Sila rujuk helaian data khusus produk, laman web  
+www.siemens.com/subsea  atau hubungi Sokongan Teknikal Siemens Energy 
+diconnectortechnicalsupport.gb@siemens.com untuk maklumat yang lebih terperinci.  
+ 
+Spesifikasi umum produk disenaraikan dalam bahagian 2.2.  
+5.1 Spesifikasi Penyambung yang dikendalikan oleh ROV  
+ 4 & 7 hala  12 hala  
+Jenis Salah Penjajaran    
+Putaran (0º)  ±15º ±15º 
+Radial  ±20mm (0.787”)  ±20mm (0.787”)  
+Sudut  ±20º ±20º 
+ 
+Daya Mate  <300N (67 lb)  <500N (67 lb)  
+Daya De -mate  240 – 360N (54 – 81 lb)  480-800N (54 – 81 lb)  
+Kelajuan maksimum mate dan de -mate  1 m/s (3.3 kaki/s)  1 m/s (3.3 kaki/s)  
+ 
+Tahan beban berlebihan    
+Beban paksi  9800N (2,198 lb)  9800N (2,198 lb)  
+Beban lenturan  500Nm (369 lbf.ft)  500Nm (369 lbf.ft)  
+Beban kilasan  500Nm (369 lbf.ft)  500Nm (369 lbf.ft)  
+Had pendedahan pin jantan kepada air laut  28 hari kumulatif sepanjang hayat  
+Table 4  Spesifikasi penyambung ROV DigiTRON  
+ 
+ Awas.  Risiko kerosakan bahan. Pendedahan kumulatif maksimum pin jantan ke air laut 
+adalah 28 hari untuk mengelakkan kakisan pin. Sekiranya penyambung dibiarkan tidak 
+mate, di dalam air laut, untuk jangka masa yang panjang, Penutup Persekitaran Subsea 
+atau Palam  Tiruan hendaklah dipasang untuk melindungi sentuhan pin pada 
+penyambung receptacle. Terlalu banyak pendedahan akan meningkatkan risiko 
+kerosakan kakisan atau pertumbuhan marin pada permukaan sentuhan pin receptacle. 
+Ini boleh menyebabkan kerosakan pada ke dap dan penebat pada sentuhan soket palam. 
+Penyambung palam tidak memerlukan penyambung tiruan penuh untuk perlindungan. 
+Siemens Energy Subsea menasihatkan pemasangan penutup dasar laut untuk 
+melindungi palam daripada pertumbuhan marin. Adalah satu amalan yang baik untuk 
+sentiasa memasang penutup perlindungan apabila penyambung unmated di bahagian 
+atas sebelum digunakan untuk memberi perlindungan mekanikal.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  23 daripada 
+46 
+ 
+Unrestricted   
+ Awas.  Risiko kerosakan bahan. Receptacle yang unmated (pin jantan yang terdedah) 
+tidak boleh berte naga elektrik di dasar laut (walaupun voltan sisa kecil cth. 1 Volt).  Ini 
+boleh menghakis pin dengan cepat, menyebabkan tindak balas kimia yang 
+memudaratkan secara setempat di dalam air laut, dan juga menyebabkan produk 
+mengalami kegagalan elektrik sepenu hnya.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  24 daripada 
+46 
+ 
+Unrestricted   
+6 MENYEDIAKAN PRODUK UNTUK KEGUNAAN ATAU PENYIMPANAN  
+6.1 Perlindungan dan pembungkusan produk  
+REDU direka untuk menahan getaran yang berlaku semasa pengangkutan. REDU dihasilkan 
+terutamanya dari keluli tahan karat 316L (UNS S31603), dan oleh itu direka un tuk menahan 
+persekitaran yang sukar. Walau bagaimanapun, jika ia tidak dilindungi secukupnya, sisipan 
+penyambung dan bahagian yang terdedah akan mudah mengalami kerosakan mekanikal. Penutup 
+pengangkutan dipasang pada semua penyambung DigiTRON sebelum penga ngkutan, tetapi 
+penutup pelindung bahagian atas akan dipasang jika ditentukan oleh pelanggan. Langkah berjaga -
+jaga hendaklah diambil untuk melindungi penyambung dengan balutan gelembung atau bahan 
+pembungkus yang serupa bagi mengelakkan kerosakan permukaan  semasa transit.  
+ 
+ Awas.  Risiko kerosakan bahan. Penutup pengangkutan atau penutup perlindungan 
+bahagian atas hendaklah sentiasa dipasang pada penyambung unmated semasa 
+pengangkutan, dan hendaklah kekal terpasang sebelum diedarkan  
+ 
+ 
+6.2 Mengangkat  
+Jangan sekali -kali cuba untuk men gangkat pemasangan atau mana -mana bahagian daripadanya 
+secara manual. Sentiasa gunakan kren atau peranti mengangkat lain yang dinilai dengan sesuai.  
+ 
+Kotak REDU dilengkapi dengan dua mata angkat patuh ROV. Kedua -dua mata mengangkat ini akan 
+digunakan untuk  mendapatkan bantuan apungan apabila digunakan; ia juga boleh digunakan untuk 
+mengendalikan kotak REDU sebelum penggunaan.  
+Pastikan mata angkat telah dipasang dan ditetapkan dalam orientasi yang betul seperti yang 
+ditunjukkan pada lukisan pemasangan yang b erkaitan.  
+ 
+Pemegang bar 'T' tidak boleh digunakan sebagai titik angkat tunggal sehingga pemasangan berada 
+di dasar laut dan hanya boleh digunakan untuk mengangkat Kotak REDU dari plat asas ( Figure 4 ). 
+ 
+ 
+ 
+Figure 4  Titik mengangkat REDU  
+ 
+T-bar untuk kegunaan dasar laut 
+sahaja dan hanya untuk badan 
+REDU  Mengangkat belenggu 
+untuk kegunaan 
+bahagian atas atau 
+dasar laut  
+Mengangkat mata 
+untuk Plat Asas 
+sahaja  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  25 daripada 
+46 
+ 
+Unrestricted   
+Kotak REDU dan plat asas TIDAK boleh diangkat sebagai pemasangan tunggal; tiada ciri 
+penguncian antara asas dan badan utama. Gunakan dua bolt pengangkat pada kotak REDU dan 4 
+mata pengangkat pada unit Asas semasa melakukan sebarang arah pengendalian ( Figure 4 ). 
+ 
+6.3 Nyahpembungkusan  
+Tanggalkan bahan pembungkus dengan berhati -hati dan periksa jika terdapat sebarang kerosakan 
+permukaan atau item yang mungkin tertanggal daripada pr oduk.  
+Untuk bahagian yang dibekalkan secara berasingan dan dibungkus dengan bahan, jangan gunakan 
+pisau untuk memotong bahan pembungkus, kerana ini boleh menyebabkan kerosakan pada 
+bahagian elastomer atau lukisan produk.  
+Jangan tanggalkan penutup pengangk utan atau penutup bahagian atas sehingga REDU bersedia 
+untuk dipasang.  
+6.4 Penyimpanan, perlindungan dan akhir hayat  
+Semua penyambung dibekalkan dengan penutup pengangkutan. Adalah disyorkan untuk 
+membiarkan penutup terpasang seboleh mungkin. Penutup hendakla h dibuka sebelum pengerahan 
+di dasar laut.  
+ 
+Penyambung boleh dipasang dengan Penutup Pelindung Bahagian Atas plastik belakang ( Figure 
+12), yang tersedia untuk dibeli  secara berasingan (keutamaan pelanggan). Penutup ini menyediakan 
+tahap perlindungan mekanikal yang lebih tinggi kepada penyambung berbanding penutup 
+pengangkutan.  
+ 
+Rujuk bahagian 9.4 untuk mendapatkan butiran tentang jenis penutup dan penyambung tiruan yang 
+tersedia untuk perlindungan semasa penyimpanan.  
+ 
+ 
+Sekiranya produk telah diambil dari penggunaan dasar laut, ia hendaklah dibersihkan sebelum 
+disimpan. Bersihkan hanya menggunakan air tawar atau larutan asid sitrik 50%. Sekiranya 
+pencucian asid sitrik 50% tidak dilakukan, secara minimum, sila basuh men ggunakan air bersih 
+untuk membuang sebarang air garam pada produk.  
+ Penyimpanan jangka pendek  
+Sebelum pemasangan penyambung pada REDU adalah sensitif terhadap persekitaran di mana 
+terdapat kerikil dan kotoran. Untuk mengelakkan kemasukan bahan -bahan di atas , ia perlu disimpan 
+di dalam kawasan kering yang bersih dan hendaklah dilindungi dengan penutup pengangkutan atau 
+penutup perlindungan bahagian atas. Penutup pengangkutan atau penutup perlindungan perlu 
+dikeluarkan sebelum penggunaan sahaja.  
+ 
+Keluli karbon  tidak boleh berada dalam simpanan produk, untuk mengelakkan pencemaran produk 
+keluli tahan karat.  
+  Awas.  Risiko kerosakan bahan. Sekiranya penyimpanan dilakukan dalam keadaan masin, 
+contoh di geladak kapal atau penahan, maka penyambungan Penutup Persekitaran 
+Subsea atau penyambung Palam Tiruan hendaklah digunakan untuk melindungi pin 
+receptacle dari kakisan.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  26 daripada 
+46 
+ 
+Unrestricted   
+Penutup Pengangkutan atau Penutup Perlindungan Bahagian Atas untuk Penyambung Plat Stab 
+(Penyambung Tiruan) di bahagian Asas perlu dikeluarkan hanya sebelum  digunakan. Penutup 
+perlindungan perlu dikeluarkan selewat mungkin sebelum Kotak dipasang ke bahagian Asas.  
+ 
+Penyimpanan di mana suhu dan kelembapan tidak dikawal hendaklah dihadkan kepada 4 minggu  
+ 
+Julat suhu penyimpanan: -40°C hingga 70°C ( -40 hingga 158°F)  Kelembapan penyimpanan di 
+bawah 75%.  
+ 
+ Awas.  Risiko kerosakan bahan. Suhu penyimpanan maksimum disumbang oleh kenaikan 
+solar. Suhu kulit tidak boleh melebihi 70°C. Perlindungan yang sesuai hendaklah 
+digunakan untuk memastikan suhu penyimpanan maksimum tidak dilampaui.  
+ 
+ 
+ Penyimpanan penyambung jang ka panjang  
+REDU hendaklah disimpan di kawasan kering yang bersih dan dilindungi dengan pembalut 
+gelembung atau yang serupa.  Penutup pelindung yang sesuai hendaklah dipasang dan suhu 
+penyimpanan antara -40°C hingga 70°C (-40°F +158°F) .  Kelembapan bilik si mpanan hendaklah di 
+bawah 75%. Keadaan yang sangat lembap atau sangat kering hendaklah dielakkan.  Palam 
+hendaklah dilindungi daripada cahaya matahari yang kuat dan cahaya tiruan yang kuat dengan 
+kandungan ultraviolet yang tinggi.  
+ 
+Keluli karbon tidak bol eh berada dalam simpanan produk, untuk mengelakkan pencemaran produk 
+keluli tahan karat.  
+Selepas penyimpanan selama 5 tahun adalah disyorkan untuk melakukan pemeriksaan visual dan 
+ujian elektrik untuk mengesahkan produk masih sesuai untuk tujuan dan dalam spesifikasi.  Periksa 
+jika terdapat sebarang kebocoran minyak atau tanda -tanda kerosakan yang jelas pada penyambung 
+dan unit utama.  Rujuk kepada dokumen 'Ujian Penerimaan Tapak' SRT -002, yang tersedia di laman 
+web Siemens -Energy/subsea untuk keperluan uji an elektrik.  
+Selepas penyimpanan selama 5 tahun, pemeriksaan semula dan ujian disyorkan untuk dilakukan 
+setiap 2 tahun dan sebelum produk digunakan.  
+ 
+ Awas.  Risiko kerosakan bahan. Suhu penyimpanan maksimum disumbang oleh kenaikan 
+solar. Suhu kulit tidak boleh melebihi 70°C. Perlindungan yang sesuai hendaklah 
+digunakan untuk memastikan suhu penyimpanan maksimum tidak dilampaui.  
+ Awas.  Risiko kerosakan baha n. Penyambung tidak boleh bersentuh dengan pelarut, 
+minyak, gris atau bahan separa pepejal yang lain.  
+ 
+ Pembungkusan semula untuk mengelakkan kerosakan semasa 
+pengangkutan  
+Sekiranya terdapat keperluan untuk mengembalikan REDU kembali ke Siemens Energy, REDU 
+hendaklah diangkut kembali dalam Kotak pengangkutan yang ditetapkan. Penutup pengangkutan 
+atau penutup pelindung bahagian atas harus dipasang pada penyambung dan penjagaa n harus 
+diambil untuk melindungi penyambung dengan pembungkus gelembung atau bahan pembungkus 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  27 daripada 
+46 
+ 
+Unrestricted   
+yang serupa untuk mengelakkan kerosakan permukaan. Hubungi Sokongan Teknikal Siemens 
+Energy connectortechnicalsupport.gb@siemens -energy.com untuk membincangkan perincian kotak 
+tipikal.  
+ 
+ Pelupusan dan kitar semula  
+Pelupusan selamat atau kitar semula pembungkusan sisa dan/atau akhir hayat produk adalah 
+disyorkan dengan memerhati dan mematuhi unda ng-undang kawasan, wilayah, alam sekitar 
+kebangsaan atau antarabangsa yang mana berkenaan.  
+  
+Untuk mengembalikan pembungkusan sisa dan/atau produk akhir hayat kepada pengeluar, sila 
+hubungi Pegawai Keselamatan Produk di subsea.connectors.productsafety.gb@siemens -
+energy.com . 
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  28 daripada 
+46 
+ 
+Unrestricted   
+7 PEMASANGAN DAN PENGUMPULAN  
+Jika ragu -ragu sila hubungi Sokongan Teknikal Siemens Energy 
+connectortechnicalsupport.gb@siemens -energy.com  untuk mendapatkan maklumat yang lebih 
+terperinci.  
+ 
+7.1 Perlindungan Katodik  
+Pemasangan REDU dan plat asas telah dihasilkan terutamanya dari keluli tahan karat 316L (UNS 
+S31603) dan hendaklah disambungkan ke sistem hos struktur CP (Perlindungan Katodik) pada 
+setiap masa menggunakan kabel yang disediakan.  Setelah dipasang, kotak REDU disambungkan 
+ke sistem CP melalui pangkalan REDU dan tidak memerlukan sambungan CP tambahan yang perlu 
+dibuat.  
+ 
+Penyambung ROV dalam REDU direka untuk beroperasi secara berasingan daripada sistem CP 
+(Perlindungan Katodik). Penyambung ROV diasingkan daripada kotak utama REDU dan tidak 
+boleh disambungkan ke sistem CP.  
+ 
+7.2 REDU  
+Penutup pengangkutan atau penutup perlindungan perlu dikeluarkan sebelum penggunaan.  Jika 
+mana -mana penyambung dibiarkan unmated dalam air laut untuk sebarang tempoh masa, 
+penyambung tiruan atau penutup persekitaran dasar laut hendaklah digunakan untuk me lindungi 
+sesentuh pin dalam penyambung receptacle (lihat bahagian 9.4.2 ). 
+ 
+Jika Asas perlu digunakan untuk jangka masa yang panjang tanpa kotak REDU, maka Penutup 
+Perlindungan Dasar Laut hendaklah digunakan bersama dengan Asas  
+ 
+ Awas.  Risiko kerosakan bahan. Pendedahan kumulatif maksimum pin jantan ke air laut 
+adalah 28 hari untuk mengelakkan kakisan pin. Sekiranya penyambung dibiarkan tidak 
+mate, di dalam air laut, u ntuk jangka masa yang panjang, penutup persekitaran dasar laut 
+atau penyambung tiruan hendaklah digunakan untuk melindungi sentuhan pin pada 
+penyambung receptacle. Terlalu banyak pendedahan akan meningkatkan risiko 
+kerosakan kakisan atau pertumbuhan marin pada permukaan sentuhan pin receptacle. Ini 
+boleh menyebabkan kerosakan pada kedap dan penebat dalam sentuhan soket. 
+Penyambung palam hanya memerlukan penutup pelindung bawah laut, bukan 
+penyambung tiruan untuk perlindungan.  Amalan yang baik untuk sentias a memuatkan 
+penutup pengangkutan atau penutup pelindung bahagian atas apabila penyambung 
+unmated di bahagian atas sebelum digunakan untuk memberikan perlindungan mekanikal.  
+ 
+  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  29 daripada 
+46 
+ 
+Unrestricted   
+ Ujian REDU  
+Untuk menguji produk dalam persekitaran kering (bahagian atas) penya mbung ujian yang 
+bersesuaian hendaklah sentiasa digunakan untuk membuat sentuhan elektrik semasa ujian.  
+Untuk ujian dalam persekitaran yang basah, penyambung dasar laut standard hendaklah digunakan.  
+Penyambung Siemens tidak boleh digunakan sebagai halanga n tekanan dalam kapal 
+tekanan, ia tidak direka untuk kegunaan ini . 
+Jika ada, pin panduan tidak boleh dikeluarkan daripada penyambung ujian kerana ini boleh 
+menyebabkan kerosakan dan akan membatalkan waranti penyambung.  
+ 
+ Bahaya!  Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang teruk.  
+Lepaskan tekanan yang disimpan secara tiba -tiba. 
+Produk DigiTRON tidak bertujuan sebagai penembusan untuk kapal tekanan bahagian 
+atas yang tetap atau yang berpangkalan di darat. Ia  tidak direka untuk mematuhi 
+keperluan Arahan Peralatan Tekanan (2014/68/EU). Ia bertujuan untuk integrasi ke 
+dalam peralatan dasar laut sahaja.  
+Semua ujian tekanan produk DigiTRON hendaklah dilakukan oleh orang yang kompeten.  
+ Bahaya!  Risiko kematian ak ibat renjatan elektrik dari penyambung ujian yang rosak  
+- Jangan pegang penyambung ujian semasa ia bertenaga elektrik  
+- Jangan gunakan penyambung ujian jika ia kelihatan rosak dalam apa jua cara.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik daripada penggunaan penyambung ujian 
+yang tidak wajar. Jangan sekali -kali nyahpasang penyambung ujian. Khususnya, mengalih 
+keluar sarung penamatan getah yang diletakkan di atas sambungan antara kabel dan 
+penyambung  ujian adalah dilarang, kerana ini akan mendedahkan bahagian hidup kepada 
+pengguna.  
+- Jangan sekali -kali nyahpasang penyambung ujian  
+ Awas.  Risiko kerosakan bahan. Penyambung ujian yang sesuai hendaklah sentiasa 
+digunakan untuk membuat sentuhan elektrik se masa ujian. Dalam apa jua keadaan, objek 
+asing (seperti pemutar skru, prob ujian atau klip buaya) digunakan sebagai sambungan 
+ujian kerana ini boleh merosakkan kedap dan penebat. Tindakan sedemikian akan 
+membatalkan jaminan produk.  
+ Awas.  Risiko kerosaka n bahan. Penyambung ujian tidak boleh digunakan di dalam air. 
+Terdapat kemungkinan besar kerosakan pada penyambung ujian dan juga ke 
+penyambung yang sedang diuji.  
+ 
+Berikut adalah beberapa imej penyambung ujian Siemens Energy Subsea standard.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  30 daripada 
+46 
+ 
+Unrestricted   
+ 
+Figure 5  Penyambung Ujian Kering (Bahagian atas), ROV, jenis Penyelam dan plat Stab  
+Sebagai alternatif, penyambung dasar laut standard (cth. Figure 6 ) yang diikat dengan kabel boleh 
+digunakan sebagai penyambung ujian. Ini lebih disukai oleh beberapa pengguna kerana ia 
+menyembunyikan sarung penamatan getah di dalam badan penyambung, yang men gelakkan 
+sarung penamatan getah dikeluarkan oleh pengguna (rujuk nota Bahaya! di atas).  
+Siemens boleh menyediakan penyambung sedemikian yang disambungkan dengan kabel yang 
+sesuai (cadangan Siemens), atau tidak disambung.  
+Ekor kabel memerlukan pematerian ke  dalam cawan pateri di belakang penyambung.  Setiap 
+penamatan mesti dilindungi oleh sarung penamatan yang dibekalkan dengan penyambung.  
+Hanya Orang Berkelayakan dan Berpengalaman (SQEP) yang sesuai boleh memasang ekor 
+kabel, contohnya orang yang dilatih ol eh Siemens Energy.  
+Prosedur pemasangan Siemens Energy hendaklah digunakan.  
+ 
+Figure 6  Contoh penyambung dasar laut standard (ditunjukkan tiada ekor)  
+ 
+7.3 Pemasangan plat asas  
+Plat asas standard dibekalkan dengan skru penutup kepala soket 6 -off M10 x 40mm. Tork hingga 
+35Nm (25.8 lbf.ft)  dan gunakan tempat Loctite 243 pada utas semasa pemasangan (pilihan 
+pemasangan lain tersedia atas permintaan).  
+ 
+Pasang plat asas dalam kedudukan mendatar, pastikan spring terapung dipasang hos penyambung 
+plat stab (atau penyambung tirua n) tidak terganggu dalam pergerakannya dan penyambung 
+diselaraskan pada 90 darjah ke plat asas. Ia adalah penting untuk reka bentuk bahawa penyambung 
+mesti dibenarkan untuk terapung supaya toleransi salah penjajaran boleh diterima.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  31 daripada 
+46 
+ 
+Unrestricted   
+ 
+Penutup Penguncian dibe kalkan bersama -sama dengan Asas. Untuk mengelakkan kehilangan 
+Penutup Penguncian, Siemens Energy menasihatkan agar pelanggan mengikat Pemegang 
+Penguncian ke Mata Mengangkat Plat Asas yang membolehkan panjang wayar yang mencukupi 
+untuk membolehkan mengunci / membuka kunci dan penyingkiran. Jika Asas perlu digunakan tanpa 
+Kotak REDU, Penutup Penguncian perlu dipasang ke Asas semasa penggunaan tetapi MESTI 
+dikeluarkan sebelum Kotak REDU dipasang ke Asas.  
+ 
+7.4 Mate/de -mate kotak REDU box ke plat Asas  
+Plat Asas mes ti dipasang sebelum memulakan operasi ini.  Untuk melengkapkan proses mate/de -
+mate kotak REDU yang selamat dan berjaya ke atau dari Plat Asas, pemasangan hendaklah 
+mendatar ke mengangkat menegak (pilihan dengan penggunaan alat bantuan keapungan). Anjakan 
+sudut maksimum mestilah tidak lebih daripada nilai salah penjajaran maksimum yang ditetapkan 
+dalam Table 5 . Nilai -nilai yang dinyatakan adalah berkaita n dengan pengimbangan antara pin lokasi 
+utama dan jenis salah penjajaran yang dinyatakan.  
+ 
+Jenis salah penjajaran  Nilai – merujuk kepada Figure 8  hingga Figure 10  
+Mendatar  20° di atas satah mendatar  
+Pandangan Akhir  +/-20° dari satah menegak  
+Pandangan Pelan  +/- 2.5° dari garis tengah petunjuk plat pelekap  
+Kon ke Pin Sepusat  +/- 36mm (1.42 ")  radius  pusat pin lokasi utama  
+Table 5  Nilai salah penjajaran maksimum kotak REDU ke plat Asas  
+Pastikan bahawa Penutup Perlindungan (jika ada) untuk penyambung plat  stab pada plat dasar 
+dikeluarkan sebelum mating. Pastikan Penutup Perlindungan diambil.  
+ 
+Sebelum mating kotak REDU, pastikan penyambung plat stab yang terletak di plat asas berada pada 
+90 darjah ke plat asas.  
+ 
+  Awas.  Risiko kerosakan bahan. Seksyen yang dapat diambil REDU mesti dipasang 
+seperti yang ditunjukkan oleh tanda pada petunjuk arah (lihat Figure 7 ).  Pemasangan unit 
+dalam mana -mana orientasi lain akan menyebabkan kerosakan kepada unit.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  32 daripada 
+46 
+ 
+Unrestricted   
+ 
+Figure 7  Penandaan pada petunjuk arah  
+ 
+ 
+Dalam usaha untuk mendapatkan pin lokasi utama, kotak REDU mestilah tidak lebih daripada +20 
+darjah di atas satah mendatar dan +/ - 20 darjah dari satah menegak (lihat Figure 8 ). 
+ 
+      
+Figure 8  a) Salah Penjajaran Mendatar Dibenarkan, b) Pandangan Akhir Salah Penjajaran 
+Dibenarkan  
+ 
+NOTA:  Palam Tiruan dan Receptacle Pembumian tidak ditunjukkan dalam Figure 8 - Figure 
+10 
+ 
+ 
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  33 daripada 
+46 
+ 
+Unrestricted   
+ 
+Untuk memastikan penangkapan pin lokasi sekunder, kotak REDU mesti berada dalam jarak +/ - 2.5 
+darjah dari garis tengah kotak, lihat Figure 9 .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9  Salah Penjajaran Penangkapan Pin Sekunder  
+ 
+Salah penjajaran kon ke pin maksimum Figure 10  menunjukkan bahawa lokasi kon 1 mempunyai 
+salah penjajaran menegak yang dibenarkan sebanyak +/ - 36mm (1.42 ") maksimum sekitar paksi 
+menegak pin lokasi utama. Ruang 43mm (1.7") antara kon penj ajaran sekunder dan pin mesti 
+digunakan pada titik ini.  
+ 
+ 
+ 
+  Awas.  Risiko kerosakan bahan.  Sekiranya Kotak REDU bersudut di bawah satah 
+mendatar ketika cuba mencari pin lokasi kedua, kerosakan pada Receptacle 
+Pembumian/Palam Tiruan mungkin berlaku . 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  34 daripada 
+46 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+Figure 10  Salah Penjajaran Kon ke Pin Sepusat Dibenarkan  
+ 
+ 
+Apabila unit mated sepenuhnya ke plat asas, terdapat pilihan untuk menggunakan penguncian rod 
+untuk mendapatkan unit ke plat asas melalui dia meter 23mm (0.905 ") menerusi lubang pada 
+petunjuk arah (lihat Figure 11 ) Lihat Nota Di bawah.  
+ 
+Figure 11  Diameter 23mm (0.905”) melalui lubang  
+ 
+ 
+NOTA:   Rod penguncian ini tidak dibekalkan dengan produk.  Lubang telah dimasukkan dalam 
+reka bentuk ini sebagai mekanisme penguncian tambahan untuk digunakan oleh 
+operator mengikut budi bicara mereka.  
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  35 daripada 
+46 
+ 
+Unrestricted   
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  36 daripada 
+46 
+ 
+Unrestricted   
+8 MAKLUMAT PENGGUNA SEMASA OPERASI BIASA DAN KEADAAN 
+ROSAK  
+8.1 Isyarat yang boleh dilihat/boleh didengar  
+Tiada isyarat yang boleh dilihat atau boleh didengar daripada produk semasa penggunaan yang 
+mengenal pasti operasi tertentu kepada pengguna.  
+ 
+Produk hendaklah senyap semasa operasi dan penampilannya tidak boleh ber ubah.  
+ 
+8.2 Operasi normal dan rosak/berbahaya  
+Jangan kendalikan produk jika terdapat kerosakan. Sekiranya terdapat keraguan, sila hubungi 
+Sokongan Teknikal Siemens Energy. Berikut adalah beberapa petunjuk kerosakan produk.  
+• Apa-apa item yang longgar seperti badan logam, pengikat, penetapan lain  
+• Sebarang kebocoran minyak, sama ada dari penyambung atau dari REDU.  
+• Pin bengkok  
+• Kedap getah menjadi berwarna hitam atau gelap di bahagian depan penyambung palam.  
+• Apa-apa tanda aktiviti elektrik di bahagian luar  produk, seperti terbakar di bahagian depan 
+palam atau pin jantan terbakar.  
+• Kakisan berwarna hijau pada pin jantan.  
+• Penebat yang rosak pada mana -mana kabel.  
+• Sambungan elektrik yang longgar atau rosak antara kabel dan penyambung.  
+• Sebarang bunyi bising yang terhasil dari produk.  
+ 
+8.3 Penyelesaian masalah  
+Jika terdapat sebarang masalah dengan produk yang gagal beroperasi dengan betul, sila hubungi 
+Siemens Energy untuk mendapatkan nasihat.  Jangan membuka produk dalam apa jua cara.  
+Jabatan  Alamat e -mel 
+Pegawai Kes elamatan Produk  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Sokongan Teknikal  connectortechnicalsupport.gb@siemens -energy.com  
+Perkhidmatan (Pasukan Tapak)  susultlcmsupport.gb@siemens -energy.com  
+Table 6  Penyelesaian masalah maklumat perhubungan produk  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  37 daripada 
+46 
+ 
+Unrestricted   
+9 OPERASI DAN PENYELENGGARAAN PRODUK  
+9.1 Amaran keselamatan  
+Sebelum digunakan, baca bahagian 3 tentang peringatan keselamat an produk.  
+9.2 Penyelenggaraan dan servis produk  
+Produk DigiTRON tidak memerlukan sebarang penyelenggaraan untuk jangka hayat dasar laut 
+selama 30 tahun dan sehingga 250 kitaran mate dan de -mate dasar laut.  
+ 
+Tidak ada bahagian yang boleh diservis oleh pengguna  dalam REDU. Nyahpasang produk adalah 
+dilarang. Sekiranya terdapat masalah yang timbul dengan produk tersebut maka pengguna 
+hendaklah menghubungi pihak Sokongan Teknikal Siemens Energy untuk mendapatkan nasihat.  
+9.3 Perlindungan dasar laut pada pin sentuhan r eceptacle  
+ Awas.  Risiko kerosakan material, kakisan pin jantan yang terdedah dalam penyambung 
+receptacle.  
+28 hari adalah pendedahan kumulatif maksimum yang dibenarkan untuk pin receptacle 
+yang tidak dilindungi terhadap air laut sepanjang hayat penyambung.  Sentiasa 
+pasangkan Penutup Persekitaran Subsea atau Palam Tiruan ke receptacle untuk 
+melindungi pin daripada kakisan.  
+ Awas.  Risiko kerosakan bahan. Dalam apa jua keadaan pin sentuhan dalam penyambung 
+receptacle terdedah kepada air laut dengan kuasa terpasang.  
+Sekiranya keadaan ini berlaku, penyambung elektrik boleh rosak (bergantung kepada 
+tenaga elektrik yang tersedia). Sekurang -kurangnya, permukaan sentuhan pin akan 
+merosot dengan cepat oleh tindakan elektrolit. Sekiranya pin yang rosak ini kemudian 
+mated ke dalam soket, terdapat risiko tinggi  kerosakan pada penebat dan kedap pada 
+penyambung palam.  
+ Awas.  Risiko kerosakan bahan. Adalah penting untuk mengasingkan dan membumikan 
+sebelum memutuskan untuk menghapuskan sebarang cas yang tidak diingini dalam 
+sistem. Jika dibiarkan, ini boleh mendorong kakisan pada pin yang terdedah sebaik sahaja 
+palam dikeluarkan.  
+ 
+9.4 Perlindungan produk; penutup dan penyambung tiruan  
+Terdapat lima jenis penutup dan penyambung tiruan yang tersedia untuk melindungi produk yang 
+sedang digunakan. Berikut memberikan kes penggunaan untuk setiap jenis.  
+ Penutup bahagian atas  
+Penutup bahagian atas boleh ditolak atau dikeluarkan dengan tangan. Ia tidak boleh digunakan di 
+dasar laut.  
+ 
+• Penutup pengangkutan:  Dibekalkan dengan penyambung untuk melindunginya daripada 
+kerosakan semasa pengangkutan ( Figure 12 ) 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  38 daripada 
+46 
+ 
+Unrestricted   
+• Penutup pelindung:  Memberikan tahap perlindungan mekanikal yang l ebih tinggi kepada 
+penyambung berbanding penutup pengangkutan. Disarankan apabila penyambung terdedah 
+kepada risiko kerosakan yang lebih tinggi di luar pengangkutan ( Figure 12 ) 
+    
+Figure 12  Penutup Pengangkutan jenis ROV (kiri) dan Penutup Pelindung Bahagian Atas  
+ 
+ 
+ Penutup dasar laut  
+• Penutup Perlindungan Dasar Laut:  Menyediakan perlindungan mekanikal kepada palam 
+atau penyambung receptacle ( Figure 13 ). Ini adalah penutup bukan elektrik . Penutup untuk 
+penyambung palam (soket betina, berisi minyak) boleh digunakan untuk perlindungan 
+mekanikal jangka panjang. Penutup untuk receptacle (pin jantan terdedah) tidak  melindungi 
+pin jantan yang terdedah dalam reseptacle dari kakisan. I a hanya boleh digunakan untuk 
+penggunaan di dasar laut jangka pendek, contohnya penutup dikeluarkan dalam masa 
+beberapa hari selepas penggunaan dan flying lead disambungkan ke receptacle (pernyataan 
+maksimum 28 hari dalam bahagian 9.3) 
+• Penutup Persekitaran Dasar Laut:  Menyediakan perlindungan mekanikal kepada 
+penyambung reseptacle (pin jantan) termasuk  perlindungan kakisan pin yang terdedah. Ini 
+adalah penutup bukan elektrik . (Figure 15 ). Untuk digunakan di mana penyambung 
+receptacle akan ditinggalkan un -mated untuk sebarang tempoh masa.  Penutup Persekitaran 
+Subsea boleh dikenal pasti dengan cakera berwarna merahnya dan dilabelkan 'sifar volt' 
+(Figure 14  dan Figure 16 ) 
+• Penyambung Tiruan.  Menyediakan perlindungan mekanikal dan elektrikal kepada pemalam 
+atau receptacle termasuk  perlindungan kakisan pin yang terdedah dalam receptacle ( Figure 
+15). Penyambung ini mempunyai penarafan elektrik penuh. Ia boleh dikonfigurasikan pada 
+masa pesanan untuk menjadi litar terbuka atau digelung dengan wayar atau perintang 
+(dilabelkan s eperti ditunjukkan dalam Figure 16 ). Penyambung ini hendaklah digunakan di 
+mana -mana sistem akan bertenaga elektrik atau untuk ujian elektrik.  
+ 
+ Awas.  Risiko kerosakan bahan. Sekiranya penyimpanan dilakukan dalam keadaan masin, 
+contoh di geladak kapal atau penahan, maka penyambungan Penutup Persekitaran 
+Subsea atau penyambung Palam Tiruan hendaklah digunakan untuk melindungi pin 
+receptacle dari kakisan.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  39 daripada 
+46 
+ 
+Unrestricted   
+Figure 13  Penutup Subsea jeni s ROV  
+ 
+ 
+Figure 14  Penutup Persekitaran Subsea jenis ROV (cakera berwarna merah)  
+ 
+ 
+     
+Figure 15  Penyambung Tiruan jenis ROV, jenis flying dan bebibir (cakera berwarna hitam)  
+ 
+ 
+Figure 16  Label contoh pada penyambung ('DIGELUNG' atau 'PERINTANG' atau 'SIFAR VOLT')  
+ 
+ 
+9.5 Live Mate / De-mate  
+Penyambung tidak direka untuk mated atau de -mated semasa bertenaga elektrik. Bergantung 
+kepada jenis beban elektrik, nasihat berikut perlu diikuti.  
+ Bahaya!  Risiko kematian akibat renjatan elektrik kerana pin hidup yang terdedah, contoh 
+ujian sist em kilang atau bahagian atas dan receptacle unmated yang bertenaga.  
+- Pastikan semua prosedur ujian dipatuhi.  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  40 daripada 
+46 
+ 
+Unrestricted   
+- Saluran komunikasi dan protokol dipatuhi.  
+ Awas.  Risiko kerosakan bahan. Bilangan maksimum operasi live mate / de -mate di bawah 
+mana -mana keadaan  ini adalah SATU sahaja. Terdapat risiko kerosakan yang tinggi 
+kepada penyambung palam dan receptacle yang akan menyebabkan ia tidak boleh 
+digunakan.  
+ 
+Beban resistif  
+Mating penyambung tidak boleh menyebabkan apa -apa kerosakan kepada mekanisme kedap 
+dalam palam. Kelajuan de -mating hendaklah antara 40mm/s hingga 60mm/s (1.6 - 2.4"/s).  
+ Berikutan prosedur de -mating ini, ujian perlu dijalankan ke atas penyambung untuk mengenal pasti 
+jika terdapat apa -apa kerosakan telah berlaku. Dalam apa jua keadaan, penyambung tidak boleh 
+sebahagiannya mated dengan kuasa terpasang.  
+Beban kapasiti  
+Mating  dengan kuasa terpasang akan menyebabkan arus mengalir dengan serta merta. Magnitud 
+arus ini akan bergantung kepada kapasitans litar. Adalah sangat penting bahawa arus tersebut tidak 
+lebih daripada 100A selama 5 saat.  
+Beban induktif  
+Mating penyambung tidak  boleh menyebabkan apa -apa kerosakan kepada mekanisme kedap 
+dalam sisipan. De -mating tidak boleh dicuba  kerana terdapat risiko EMF belakang yang tinggi yang 
+akan menyebabkan kerosakan pada kedap dan penebat dalam sisipan.  
+9.6 Penyingkiran pertumbuhan laut dan deposit berkapur  
+Untuk mengeluarkan deposit berkapur dari penyambung DigiTRON, adalah disyorkan untuk 
+menggunakan larutan Asid Sitrik 50%. Semua bahan elastomerik yang terkena air laut dalam 
+penyambung DigiTRON telah diuji sepenuhnya terhadap Asid Sitrik 5 0% dan adalah sesuai untuk 
+tempoh selama 1 jam. Di samping itu, bahan termoplastik mempunyai ketahanan yang baik terhadap 
+asid sitrik.  
+ 
+ Amaran.  Risiko kecederaan diri kecil. Pakai perlindungan tangan dan mata yang sesuai 
+semasa mengendalikan larutan asid  sitrik 50%.   
+ Awas.  Risiko kerosakan bahan. Pembersih asid lain, seperti Asid Asetik 50%, tidak boleh 
+digunakan kerana ia boleh menyebabkan kerosakan pada bahan elastometrik.  
+ Awas.  Risiko kerosakan bahan. Kaedah memahat dan melelas adalah tidak diga lakkan. 
+Penggunaan jet air boleh diterima, tetapi jet tidak boleh diarahkan ke pin shuttle di 
+bahagian hadapan palam, atau muka depan receptacle, kerana ia boleh mengakibatkan 
+risiko air dipaksa masuk melalui kedap primer.  
+ 
+9.7 Ujian produk  
+Rujuk bahagian 7.2.1  
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  41 daripada 
+46 
+ 
+Unrestricted   
+  
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  42 daripada 
+46 
+ 
+Unrestricted   
+9.8 Periksa sebelum melakukan mate terhadap penyambung  
+Penutup perlindungan pengangkutan dan bahagian atas hendaklah dibuka sebelum pengerahan di 
+dasar laut  
+ 
+Sebelum melakukan mate, penyambung receptacle (pin jantan) perlu diperiksa bagi memastikan 
+tiada serpihan dan kerosakan. Penyambung telah direka untuk menampung pencemaran pasir dan 
+kelodak; walau bagaimanapun kepingan serpihan ya ng besar hendaklah dikeluarkan. Gunakan jet 
+air jika di dasar laut, tetapi jangan arahkan jet air di muka depan (kedap) penyambung palam  
+ 
+Periksa pin receptacle untuk sebarang tanda -tanda kerosakan, seperti pin bengkok, warna hitam 
+disebabkan oleh kerosaka n elektrik atau kakisan pin (warna hijau) atau lain -lain dalam bahagian 8.2. 
+ 
+Sekiranya terdapat bukti kerosakan tersebut, jangan gunakan penyambung. Sila hubungi Sokongan 
+Teknikal Siemens Energy untuk mendapatkan na sihat.  
+ 
+9.9 Penyambung ROV mating dan de -mating  
+ Penjajaran dan mating penyambung ROV  
+ 
+Rujuk Figure 17  untuk mendapatkan imej tanda penjajaran dan mating  
+• Penyambung DigiTRON telah direka untuk menyelaraskan diri semasa mating.  
+• Penyambung hendaklah diselaraskan secara kasar dengan menggunakan t anda 
+penjajaran pada kotak palam, bebibir dan kon receptacle.  
+• Pemasangan pemegang ROV mempunyai kepatuhan yang mencukupi untuk menampung 
+pelarasan kecil semasa pendekatan terakhir sebelum penyambungan penyambung.  
+• Pastikan orientasi cakera penjajaran yang betul  
+• Adalah penting bahawa bebibir patuh ROV diorientasikan dengan betul.  
+• Perhatikan teks pada bebibir dan ubah orientasi dengan sewajarnya.  
+ 
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  43 daripada 
+46 
+ 
+Unrestricted   
+ 
+ 
+ 
+Figure 17  Tanda penjajaran dan petunjuk mating kedap bibir  
+ 
+• Apabila mated sepenuhnya, kedap bibir tid ak akan dapat dilihat dan sambungan akan 
+kelihatan seperti yang ditunjukkan dalam Figure 17  
+• Sekiranya kedap bibir masih dapat dilihat, keluarkan dan cuba buat sambung an dengan 
+mengikuti prosedur sekali lagi.  
+• Jika penyambung tidak boleh mated, kedua -dua palam dan receptacle perlu diperiksa jika 
+terdapat sebarang kerosakan penjajaran yang salah atau serpihan yang menghalang 
+sambungan.  
+• Sekiranya berlaku sebarang kerosakan , sila hubungi Sokongan Teknikal Siemens Energy 
+untuk mendapatkan nasihat.  
+ 
+ Nilai salah penjajaran dan daya mating maksimum penyambung ROV  
+Rujuk bahagian 5.1 
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  44 daripada 
+46 
+ 
+Unrestricted   
+ Pemeriksaan pasca mating penyambung ROV  
+Semasa mating, penunjuk oren kedap bibir yang terletak di penyambung palam akan melipat ke 
+belakang dan hilang ke kon penjajaran pada penyambung recept acle. Selepas mating penyambung 
+berjaya dilakukan, tidak ada bahagian dari kedap bibir penunjuk yang harus menjulur melalui 
+sambungan antara palam dan penyambung receptacle.  
+ 
+ De-mating penyambung ROV  
+Demating dicapai dengan tarikan lurus pada pemegang ROV, cukup untuk melepaskan 
+mekanisme selak. Daya yang diperlukan diperincikan di bawah daya mekanikal di bahagian 5.1 
+ 
+Untuk kegunaan bahagian atas, contohnya semasa ujian sistem, terdapat alat de -mate ROV yang 
+dikendalikan menggunakan tangan yang tersedia untuk melakukan penyambung de -mate dengan 
+tangan lebih mudah dan selamat. Adalah disyorkan bahawa alat ini hend aklah sentiasa digunakan 
+di bahagian atas. Nombor bahagian BQ -30090 -00. Lihat Figure 18  
+ 
+ 
+Figure 18  Alat de -mate ROV, nombor bahagian BQ -30090 -00 
+ 
+ Amaran. Risiko kecederaan muskuloskeletal daripada penyambung hand -mating atau de -
+mating.  
+- Merujuk kepada kekuatan mate / de -mate yang dinyatakan di sini, sila pastikan 
+langkah -langkah pengendalian manual yang sesuai diambil dan alat de -mate bahagian 
+atas digunakan  
+- Memastikan semua  aktivitiujian produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+ 
+ 
+
+  No Dokumen:  IOM-006 
+ Tarikh 
+Keluaran  27/06/2022  
+ Semakan:  5 
+ Halaman:  45 daripada 
+46 
+ 
+Unrestricted   
+10 KOMEN/MAKLUM BALAS PELANGGAN  
+Sila lengkapkan bahagian Tandatangan di bahagian bawah borang untuk mengesahkan bahawa 
+setiap halaman dokumen ini telah dibaca dan dipatuhi sepenuhnya.  
+Nama dan Parap Pemula (HURUF BESAR)  Tarikh  
+  
+ Butiran Hubungan   Butiran Hubungan  
+  
+Rujukan Projek  Pelanggan  Wilayah  
+   
+Jenis Produk  Nombor Bahagian (P/N)  Nombor Siri (S/N)  
+   
+Sila masukkan butiran di bawah cth. komen; aduan; bukti amalan yang baik; laporan insiden; 
+pemerhatian dan cadangan, termasuk yang berkaitan dengan kesihatan, keselamatan atau 
+persekitaran dan lain -lain, juga merangkumi sebarang nama/maklumat perhubungan kakitangan 
+lain yang berkaitan.  
+  
+ 
+Bahagian Tandatangan  
+Nama (HURUF BESAR)  Tandatangan  Tarikh  
+   
+Sila e -melkan borang yang lengkap kepada Pegawai Keselamatan Produk di alamat berikut: 
+subsea.connectors.productsafety.gb@siemens -energy.com
+ 
+Unrestricted   
+ 
+Diterbitkan oleh:  
+Siemens Energy Global GmbH & Co. KG  
+Aplikasi Perindustrian  
+Freyeslebenstraße 1  
+91058 Erlangen  
+Jerman  
+E-mel: subsea@siemens -energy.com  
+Untuk maklumat lanjut, sila layari laman web kami:  
+www.siemens -energy.com/subsea  
+ 
+Tertakluk kepada perubahan dan ralat. Maklumat yang diberikan dalam dokumen ini 
+hanya mengandungi perihalan umum dan/atau ciri prestasi yang mungkin tidak selalu 
+menggambarkan secara khusus yang diterangkan, atau yang mungkin mengalami 
+pengubahsuaian semasa pembangunan produk pada masa hadapan . Ciri -ciri prestasi 
+yang diminta hanya mengikat apabila ia dipersetujui secara nyata dalam kontrak yang 
+dimuktamadkan.  
+ 
+ 
+ 
+Siemens Energy ialah tanda dagangan berdaftar yang dilesenkan oleh Siemens AG  Untuk AS Diterbitkan oleh  
+Siemens Energy, Inc.  
+Aplikasi Perindustrian  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+USA  

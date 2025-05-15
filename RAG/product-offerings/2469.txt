@@ -1,0 +1,128 @@
+
+Davor Rubinic, Siemens Energy, Germany, outlines how as the speed 
+and complexity of transfer logistics have increased in recent years, so has the need for optimised product transfer and utilisation. 
+takeholders across the LNG industry are facing 
+increased pressure to reduce costs, improve operational efficiency, and ensure profitably in a 
+future defined by market volatility. Owners and operators of tank farms and terminal facilities have not been immune to this trend. In recent years, as the speed and complexity of transfer logistics have increased, so too has the need for optimised product transfer and asset utilisation. These requirements, coupled with growing health, safety, and environmental (HSE) demands, are incentivising bulk storage and terminal operators to transform traditional processes using automation and digitalisation. 
+The implementation of an open and flexible terminal 
+management system (TMS) is an essential step on the way to making that a reality.
+Defining the TMS
+LNG terminals are like other types of midstream facilities in that they must maintain flexibility in supply chain management and ensure that all product transfer (i.e. loading and unloading) activities are conducted in a safe, efficient, and well-documented manner. 
+Over the past decade, an increasing number of terminal 
+operators have begun leveraging automation and digitalisation to achieve those goals. However, there are still many facilities in operation today that rely heavily on manual intervention for critical tasks related to access control and authorisation, inventory management, scheduling, ordering, loading/unloading, reporting, etc. Furthermore, the systems in place for managing these activities are often not connected and have information spread across a multitude of databases and spreadsheets both on and offsite. This disjointed approach to terminal management ultimately limits transparency into operations and makes optimisation virtually impossible to achieve.
+A TMS aims to solve these problems by automating, 
+synchronising, co-ordinating, and optimising the entire tank terminal process. The TMS is to the LNG terminal what the manufacturing execution system (MES) is to the production plant (ISA 95 - Level 3). In the context of the latter, the MES allows operators to track and document the transformation of raw materials into finished products by providing up-to-the-minute information that helps decision makers understand how conditions on the plant floor can be altered to increase performance and production output. The MES works in real-time and provides visibility into all elements of the production process, including personnel, equipment, support services, etc.
+The TMS replicates these capabilities for the LNG terminal 
+– providing monitoring, control, and management of the entire product handling process via operational workflows. This includes scheduling; planning; queue management; access control of ships, trucks, or railcars; loading and unloading control; quantity archiving and reporting; safety inspection sealing; weighing; metering; balancing; reconciliation, etc. All these activities can be monitored and managed from a single user-interface (on-site or remotely), giving operators complete transparency and control over their terminal infrastructure and associated processes. 
+The need for flexibility
+When it comes to selecting a TMS, an important characteristic that operators should look for is an open and flexible software architecture so that the solution can be tailored to the exact needs of the terminal. No two facility configurations are the same, and, because of this, there is no one-size-fits-all TMS that will fill every need or business objective. Moreover, it is likely that over time, infrastructural changes, such as expansion projects, will take place at the terminal. The TMS solution needs to have the flexibility to be quickly and easily scaled to accommodate the evolving environment. 
+Seamless integration with enterprise resource planning 
+(ERP) tools (ISA 95 - Level 4) and operational systems (ISA 95 - Level 2) is another preferred characteristic. The latter includes supervisory control and data acquisition (SCADA) and distributed control systems (DCS), tank gauging systems, metering devices, etc. Integration with third-party software applications is also essential, as it is a prerequisite for leveraging digitalisation to its fullest potential and ‘future-proofing’ the TMS as new technological solutions are developed and commercialised. 
+Siemens’ SITERMINAL TMS 3.1, for example, which is an 
+open and flexible solution, provides data integration across all levels – from the field device to the enterprise level. It features a modular design and is specifically designed to support data transparency and accessibility at the terminal execution level. 
+All functionalities are accessible through a secure, 
+Windows desktop or web-based interface, which shows real-time and historical data, such as load rack status and quantities, tank gauging, weighing scales, loading orders, shipments, transactions, alarms, etc. The TMS can also be integrated with select smart wearable products, such as HoloLens. The TMS provides fully automatic plant workflow control for critical processes and field devices, such as preset controllers, driver interface devices (DIDs), metering and other instruments, which are at the heart of any terminal facility. The ultimate objective is to visualise all data so that personnel can make decisions based on an accurate, up-to-the-minute picture of their facility. 
+   Reprinted from December 2020Some notable capabilities and associated benefits of the 
+TMS include:
+�
+ More than 10% higher loading utilisation enabled b
+y 
+queuing and plant workflow.
+�
+ Int
+egrated access control simplifies loading authorisation.
+�
+ Increased saf
+ety and lower personnel error probability.
+�
+ Aut
+omatic queuing and automatic printing modules 
+reduce personnel workload.
+�
+ Syst
+ematic quantity tracking and stock reporting enabling 
+early discrepancy detection.
+�
+ Easier maint
+enance, configuration, and server 
+management with simplified implementation of potential 
+future system expansions.� Increased control, better visibility of centralised 
+information on all terminal operations, including real-time and historical data.
+�
+ Impro
+ved asset utilisation, transparent planning, 
+independent loading operations, as well as reduction of errors due to manual operations.
+�
+ Digitalisation modules with k
+ey performance indicator 
+(KPI) dashboards data analysis, truck driver guidance, and TMS operator mobile applications.
+Additional capabilities
+Many other advanced capabilities and benefits are possible by implementing a TMS at a brownfield or greenfield LNG terminal. One significant advantage that translates directly into increased safety and lower costs is lower manpower requirements as a result of features like integrated access control in pre-loading and post-loading workflows, along with self-service check-in, automatic queuing, and automatic printing. Site security is also enhanced by integrating access control into the plant workflow and matching loading authorisations with order, shipment, vehicle, and driver data. Other key advantages are outlined next.
+Order route optimisation 
+The TMS translates sales order schedules into operational orders. Chronological functionalities for order pre-registration, preparation, and completion allow operators to optimise execution routes. The ‘order execution’ model for SITERMINAL TMS 3.1, for example, features slot, contract handling, exact billing, and regulatory compliance functions. The program automatically synchronises the order status and transaction with the business system. 
+Flexible stock management 
+The ‘stock management’ module reconciles ordered stock with physical stock, in addition to handling various accounting functions. It allows for both tank-based and/or product owner-based stock management (for local stock and stock in transition), and factors in commitment rules for commingled stock.
+Streamlined equipment management 
+Operations equipment modules (for reception, storage, handling, and delivery) support smooth automatic loading and unloading processes via truck, railcar, ship, or pipeline, 
+and for internal processes, such as on-site product transfers, tank circulation and, if required, pre-blending. As a result, waiting times are greatly minimised and manual operation errors avoided. 
+Improved operations control 
+and visibility
+The rule-based truck logistics help to 
+improve product flow control, avoid bottlenecks, and contribute to improved safety. Dynamic and flexible locators enable operations tracking for better terminal visibility and historical order tracing. With SITERMINAL, even remotely operated terminals can be managed, allowing for efficient control of several 
+Figure 2.  Digital twin TMS.
+Figure 3.  TMS dashboard – queuing.
+Figure 1.  FSRU at Etki Liman Aliaga LNG terminal in 
+Turkey.
+Reprinted from December 2020    stations from a single control room through centralised data 
+management (both real-time and historical). 
+Online terminal monitoring and 
+reporting 
+The TMS reduces operations complexity by providing online 
+functions for terminal monitoring and flexible time-based 
+reporting per customer, product owner, product, and/or tank. 
+It also offers loading result overviews, turnaround time 
+analyses, efficiency, and performance KPIs. In addition to 
+improving overall material handling, the automatic archiving 
+and process reporting functions also provide a high level of 
+operations transparency.
+Building a digital twin
+The implementation of a TMS also has implications when 
+it comes to leveraging digitalisation to optimise terminal 
+performance. By collecting data and information related 
+to all product transfer activities and integrating it in a 
+single-source-of-truth environment, operators can build a digital twin of their terminal. 
+The digital twin mirrors the performance and condition 
+of the terminal in near real-time and supports optimisation 
+by enabling predictive maintenance and complex simulations in a virtual (risk-free) environment. Within the digital twin, 
+third-party software applications and technologies, such as artificial intelligence (AI), can be used for making decisions 
+aimed at continuously enhancing facility performance. 
+With the digital twin, terminal operators can transform 
+data into actionable insight that can be used to drive 
+efficiency improvements – for example, by exploring 
+potential scenarios for improving bay utilisation and reducing waiting times. The latter is especially useful since penalty payments to customers may be required if vessels 
+are kept waiting for longer than expected. 
+Additionally, the digital twin can be used to predict 
+potential problems before they impact terminal performance. 
+Indeed, it enables the servicing of equipment, such as 
+pumps, to be conducted based on its predicted future 
+condition rather than a predefined schedule. This ultimately 
+allows for maintenance activities to be more effectively 
+planned – ideally during periods of low terminal activity so 
+that there is minimal disruption to service and associated 
+revenue. These predictive models can also be applied to 
+track incoming vessels and/or trucks so that activities like 
+mooring and casting off can be optimised. 
+All the above-described capabilities are relevant for 
+terminals in operation, however, the digital twin concept can 
+also be used to aid in the design of greenfield facilities by 
+validating the expected efficiency and/or throughput of a 
+design before the plant is physically built. 
+Gaining a competitive advantage
+For LNG terminal operators, safety, availability, and efficiency of product transfer are critical drivers of profitability. The 
+implementation of an open and flexible TMS can help to 
+achieve these goals by providing better visibility into the entire product storage and transfer value chain through centralised collection and management of both real-time and historical data. 
+The result is improved asset utilisation; increased safety 
+by reducing personnel and increasing automation; better planning; and simplified implementation of potential future infrastructure expansions. All these capabilities can 
+contribute to lower terminal lifecycle costs, which in the 
+current environment is of utmost importance. 
+The described technologies in this article now belong to the Siemens Energy portfolio.  

@@ -1,0 +1,185 @@
+© 2021 Siemens Energy Page 1
+Grid State Detection
+Driving the future of electric power transmission by 
+deploying artificial intelligence
+siemens-energy.com/transmission
+
+© 2021 Siemens Energy Page 201Introduction
+Page 3
+02Grid strength assessment
+Page 3
+03Rotational inertia estimation
+Page 3
+04Harmonic impedance measurement
+Page 3 - 4
+05Conclusions
+Page 4
+06References
+Page 5
+© 2021 Siemens Energy Page 3Siemens Energy is driving the
+future of electric power
+transmission by deploying
+artificial intelligence
+The electric power system is rapidly transforming into a
+constellation in which the use of power electronics-inter-
+faced devices (PEID) is the norm. The trend is being driven
+by the ongoing transition to a low carbon energy system,
+with conventional synchronous generators being retired
+and replaced by renewable energy sources that are inter-
+connected by power electronics.
+These developments are transforming electrical grid sys-
+tems from networks in which synchronous generators pro-
+vide the services needed to maintain stability, such as rota-
+tional inertia, frequency and voltage control, into a future
+power system dominated by PEID with a different dynamic
+behavior and different possibilities for delivering such ser-
+vices [1].
+System operators need to be prepared to cope with this
+new landscape. And with investments and approval pro-
+cesses for additional transmission capacity being hard to
+resolve, optimum utilization of existing capacities becomes
+all the more important. One prerequisite for enabling such
+services, however, is the ability to reliably estimate the
+state of power grids at any given time.
+Stepping up to meet this need, Siemens Energy has devel-
+oped an online state-of-the-art solution for AI-enabled grid
+state estimation. We anticipate that this solution will ena-
+ble our customers to increase their system flexibility and
+control capabilities, and efficiently use the technology
+available to enhance the robustness and reliability of the
+power system.
+Our state-of-the-art, AI-enabled grid state estimation solu-
+tions provide valuable information to system operators, fa-
+cilitating their daily planning and decision-making in con-
+trol rooms around the world.
+To bring these development efforts closer to our end-cus-
+tomers, next steps are implementation into specific project
+applications. We are seeking partners to collaborate with us
+on customizing, validating and further developing such so-
+lution.
+Grid strength assessment
+Fault level calculations have been carried out for years to
+determine the short-circuit currents at various substations
+in the power transmission and distribution industry. These
+calculations are normally performed by steady-state simu-
+lation programs to calculate node fault level Sk’’ [in MVA].
+A number of different established procedures describe how
+these calculations should be performed [2][3][4],[5].With more and more fast-functioning voltage controlling
+equipment being installed (including static VAR compensa-
+tors, static synchronous compensators, synchronous con-
+densers, voltage-source converters and line-commutated
+converters for HVDC) and their growing impact on trans-
+mission system dynamics, it becomes increasingly im-
+portant to consider nearby voltage controlling devices in
+fault level measurement.
+To avoid the errors in fault level measurement introduced
+by the presence of nearby converters, Siemens Energy uses
+machine learning (ML) to increase accuracy and extract
+new valuable insights on the presence of nearby convert-
+ers. Siemens Energy has introduced a more comprehensive
+concept, referred to below as “network strength”, which
+captures both the fault level of the AC system as well as the
+impact of nearby voltage controllers. These measurements
+can be triggered at any point in time or on a periodic basis
+using Siemens Energy power electronic converters. Our re-
+search shows that the information provided by this ap-
+proach based on artificial neural networks (ANN) can im-
+prove grid dynamic performance and maintain stability [6].
+Rotational inertia estimation
+Large-scale deployment of renewable energy installations,
+notably inverter-connected wind turbines and photovoltaic
+systems which do not provide rotational inertia, are dis-
+placing conventional synchronous generation installations
+and their rotating machinery. This accelerating trend will
+considerably reduce the power system’s rotational inertia,
+which in turn has negative implications for frequency dy-
+namics and power system stability.
+Siemens Energy is introducing a system for rotational iner-
+tia measurement using power electronic converters which
+can be periodically activated to deliver this vital infor-
+mation to system operators.
+The developed method uses a known perturbation injected
+by the converter, then the network’s frequency reaction to
+the perturbation is analyzed to obtain the network state es-
+timation.
+This state-of-the-art estimation method uses machine
+learning to deliver an accurate estimation of the power sys-
+tem’s rotational inertia that considers real power system
+features such as generator controller actions, load-fre-
+quency dependence and power system oscillation modes.
+Harmonic impedance measurement
+The expanding installation of high voltage cables as well as
+PEID at the generation, transmission and load levels is rap-
+idly changing the harmonic behavior of the power system.
+Hence, the task of measuring the harmonic impedance
+from different nodes in a power system is becoming an in-
+creasingly important one.
+© 2021 Siemens Energy Page 4Even with adequate documentation and knowledge of the
+harmonic characteristics of the equipment connected to
+the AC network, the complexity and dynamic nature of the
+power system makes it extremely difficult to accurately
+calculate the harmonic impedance of the network at any
+given moment. Online measurement is an elegant solution
+as it requires no prior knowledge of the network and no in-
+formation concerning loads. By performing several meas-
+urements over time, the impedance changes can be
+tracked.
+The gathered information can be used in harmonic pene-
+tration studies and passive filter design, and to improve the
+operation of active filters. Furthermore, with the increasing
+amount of PEID in the power system, online grid imped-
+ance measurement increasingly facilitates the analysis of
+controller interactions and system stability in real time.
+Siemens Energy is introducing a system for harmonic im-
+pedance measurement using power electronic converterswhich can be used to deliver this vital information to sys-
+tem operators.
+Conclusions
+Accurate, on-demand measurement of network strength,
+rotational inertia and harmonic impedance is an important
+tool for improving planning in the transmission system op-
+eration business. Periodical input of this information based
+on measurements carried out in the transmission network
+will allow system operators to utilize the full potential of
+the existing transmission network.
+The power transmission industry worldwide faces techno-
+logical challenges today on an unprecedented scale. Sie-
+mens Energy’s state-of-the-art solutions for grid state esti-
+mation can help customers meet and master these chal-
+lenges by providing valuable on-demand information to
+support their daily activities.Grid state estimation: providing key performance indicators for managing transmission grids
+
+© 2021 Siemens Energy Page 5References
+[1] CIGRE C2/B4.38 JWG Capabilities and requirements definition for power electronics-based technology for secure and
+efficient system operation and control. November 2020.
+[2] International Standard IEC 60909, Short-circuit current in three-phase a.c. systems, July 2001.
+[3] ANSI/IEEE Std. C37.5-1979, IEEE Guide for Calculation of Fault Currents for Application of AC High-Voltage Circuit Break-
+ers Rated on a Total Current Basis.
+[4] J. R. Dunki-Jacobs, B. P. Lam, and R. P. Stratford, “A comparison of ANSI-based and dynamically rigorous short-circuit
+current calculation procedures,” IEEE Trans. Ind. Applicat., vol. 24, pp. 1180–1194, Nov./Dec. 1988.
+[5] G. Knight and H. Sieling, “Comparison of ANSI and IEC 909 short-circuit current calculation procedures,” IEEE Trans. Ind.
+Applicat., vol. 29, pp. 625–630, May/June 1993.
+[6] A. J. Hernandez M, J. Lottes, D. Abhay and M. Steger, "Artificial Neural Network-Based Online Network Strength Estima-
+tion," 2018 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), Sarajevo, 2018, pp. 1-6.
+© 2021 Siemens Energy Page 6
+Published by
+Siemens Energy Global GmbH & Co. KG
+Transmission
+Freyeslebenstr. 1
+91058 Erlangen
+Germany
+Article No. PTXX-T10001-00-7600
+Contacts: Pratik Jena, Alvaro Hernandez Manchola
+For more information, please visit our website:
+siemens-energy.com
+© Siemens Energy, 2021
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general descriptions and/or performance features which may
+not always specifically reflect those described, or which may undergo modification in the course of further development of the products. The requested
+performance features are binding only when they are expressly agreed upon in the concluded contract. All product designations may be
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could
+violate the rights of the owners.Published by for the U.S.
+Siemens Energy, Inc
+Transmission
+4601 Six Forks Road
+Raleigh, NC 27609
+USA

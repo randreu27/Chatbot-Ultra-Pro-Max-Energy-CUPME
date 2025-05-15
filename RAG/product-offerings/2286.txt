@@ -1,0 +1,73 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.  Gas Field Policy, GFP 17 
+Februar y, 2021 
+ 
+Gas Field Policy 17:  Low Temperature Service 
+ 
+GENERAL: 
+ 
+High Speed Reciprocating Compressors wi th standard construction may be applied to temperatures -20°F and 
+above.   
+Applications below -20°F must be reviewed by Siem ens Energy Marketing Group pr ior to quoting. (In most 
+cases, aluminum pistons must have a slightly oversi ze O.D.; the allowable cylinder working pressure and 
+differential pressure limits must be redu ced; an ethylene-glycol static cylinde r jacket cooling must be used with 
+all water cooled cylinders.  
+ 
+INLET GAS PREHEAT:  
+A:  Cylinders with Gas Cooling: 
+ 
+The following method for estimating inlet preheat app lies to all Siemens Energy gas field compressors 
+using cylinders with gas cooling. 
+  
+                             
+  
+ 
+ 
+Where: 
+ 
+K   =  C
+p/Cv 
+ T
+i      =  Given Inlet Temperature (°F) 
+ 
+Ta     = Ambient Temperature (°F) 
+ R
+c     =  Ratio Of Compression 
+ 
+T’i     =  Preheated Inlet Temperature (°F) 
+(Use T’i As Inlet Temperature For Performance Calculations) 
+ [                    ]  (Ti  +  459.59) 
+        20 (Ta -  T i) 
+    20 T’i = T i +  (R    - 1 )                               +  K - 1 
+  K 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.  Gas Field Policy, GFP 17 
+Februar y, 2021 
+ 
+ 
+B:  Cylinders with forced Cooling: 
+ 
+The following method for estimating inlet preheat app lies to all Siemens Energy gas field compressors 
+using cylinders with forced cooling. 
+ 
+                               
+ 
+ 
+ 
+Where: 
+ K      =  C
+p/Cv  
+ 
+Ti      =  Given Inlet Temperature (°F) 
+ 
+Tw        =  Incoming Jacket Water Temperature (°F) 
+ 
+Rc     =  Ratio Of Compression 
+ T’
+i     =  Preheated Inlet Temperature (°F) 
+(Use T’i As Inlet Temperature For Performance Calculations) 
+  
+ (Tw -  T i) 
+    20 T’i = T i +  (R    - 1 )                               +  K - 1 
+  K (Ti  +  459.59) 
+        20 [                    ]  

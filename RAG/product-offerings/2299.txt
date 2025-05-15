@@ -1,0 +1,154 @@
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+Packager Guidelines 
+Section 3: Drive System 
+ 
+3-1.  General 
+The compressor drive system includes the dr iver and coupling, and flywheel if required. 
+Reciprocating compressors are most often driv en by gas engines or electric motors, but 
+occasionally may be driven by gas or steam turbines through a gearbox. The design of 
+the drive system requires consideration of the maximum horsepower available to drive 
+the frame, and the torsional characteristic of both the driver and the compressor frame. 
+Gas engines equipped with viscous damped vibration dampers normally present very few 
+torsional problems, while electric motors often require compromises with the motor 
+supplier to achieve a torsionally acceptable solution. A torsional analysis should be 
+performed when utilizing:   
+• A new engine / frame combination. 
+•  Electric motor drivers, particu larly those with horsepower ratings 
+approaching those of the frame and / or  those with variable speed drives. 
+• Any drive with a gearbox. 
+ 3-2.  Coupling Selection 
+The selection of the coupling will depend on the torsional characteristics and/or 
+horsepower requirements of the driver/frame co mbination. Most direct driven units use a 
+torsionally rigid, flexible disc type coupling. When sizing a flexible disc type coupling, a 
+service factor of 3.0 is often used, t hough it is prudent to consult the coupling 
+manufacturer for their recommendation. In those cases requiring a torsionally soft 
+coupling, care must be taken to insure the supplier is fully aware of the torsional 
+requirements of the coupling, as many are not familiar with reciprocating compressor 
+applications. 
+ 
+All current Siemens Energy HS RC units use keyless shafts and rely upon an interference 
+fit between the coupling hub and the shaft to transmit driver torque. The degree of 
+interference is dependent upon shaft diameter and hub material and design.  
+ 3-3.  Coupling Counterbalance Weight 
+Some couplings supplied on 2 and 4 throw old style HOS compressors where there is 
+only one internal weight connected to the crankshaft at the pump end, need to be equipped with a weight that is fastened to  the coupling hub unless the flywheel has a 
+bolted on weight or a machined flat to counter the internal weight. Together, these two 
+weights convert a large portion of the horizont al moments into vertical moments. This 
+reduces the potential for high mechanical vi bration seen in most reciprocating type 
+compressors. The MOS and new style HOS and HOSS have both these counterweights 
+mounted internal to the frame. 
+ 
+ 
+3-4. Alignment 
+Angular misalignment should be as close to ZERO as possible, and should ideally be 
+within 0.002 inch (0.05 mm) Total Indicator Reading (T.I.R.) for an average 12-inch (305 
+mm) indicated diameter coupling. If it is not pos sible to get this close, we will accept up to 
+0.005 inch (0.13mm) T.I.R. as an outside limit. These figures are not as liberal as those 
+supplied by the coupling manufacturer, but t hose limits refer to what the coupling can 
+tolerate and ignore coupled equipment limitations. The above figures are recommended 
+for Siemens Energy equipment.  
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+When doing coupling alignment, it is important to insure the thrust on the compressor is 
+centered. You want to insure when the compressor is running there is no push or pull on 
+either thrust shoe.  
+After the alignment is done, rotate the engine/motor and compressor through a few 
+revolutions to insure the thrust of the compressor is centered. 
+ 
+ 
+ 
+ 
+ Figure 4. Correcting for Angular Misalignment  
+ 
+  
+ 
+PROCEDURE  
+ 
+1. DIAL INDICATOR READINGS IN THE 
+VERTICAL DIRECTION INDICATE THAT THE 
+DISTANCE BETWEEN COUPLING FACES 
+AT THE 12:00 POSITION IS "a" DIMENSION GREATER THAN AT THE 6:00 POSITION. 
+ 
+2. BY REPOSITIONING THE EQUIPMENT TO 
+NARROW THE DISTANCES AT 12:00 BY a/2 
+THE DISTANCE AT 6:00 IS INCREASED 
+PROPORTIONATELY. THIS ALIGNS THE 
+COUPLED SHAFTS.  
+ 
+3. CORRECTIONS IN THE HORIZONTAL  
+DIRECTION (3:00 AND 9:00 POSITIONS) ARE MADE IN THE SAME MANNER.
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+ 
+3-5.  Flywheel Installation (When required) 
+ The flywheel, when needed, can be installed either with a shrink fit to the compressor 
+shaft, or by use of a tapered bushing. 
+ The following instructions apply to in stallation using the shrink fit bushing. 
+ 
+1.  Clean the bore in the flywheel and the outside of the bushing.  Also clean the bore 
+of the bushing and the corresponding sect ion of the crankshaft. Do not use any 
+type lubricant during assembly. 
+2. Measure the crankshaft OD and the bushing ID. Insure there will be a 0.00050" 
+(0.01 mm) - 0.00075" inch  (0.02 mm) per in ch of shaft diameter interference fit 
+between the two before proceeding. 
+3. Heat the bushing until it has reached an  average temperature of 500° F (260°C). 
+This can be accomplished by using an oven or an acetylene torch in conjunction 
+with a tempstick to monitor the temperature. 
+4. When the bushing comes up to temperatur e, it is vital that it be slipped on in a 
+timely manner and pushed far enough down t he shaft so that it becomes flush 
+with the end of the crankshaft and no further 
+5. At this point, let the bushing cool before assembling the flywheel onto the 
+bushing. 
+6.  Using proper lifting techniques and a hoist having sufficient capacity, install the 
+flywheel onto the bushing. Snug each of the attachment bolts, but do not tighten. 
+7.  With the flywheel firmly in place,  tighten the attachment bolts evenly to the 
+required torque setting. Once tight, there should still be some clearance between the bushing flange and the flywheel. You may also check to ensure the bushing 
+is tight by attempting to insert a 0.001 (0.03 mm) or 0.0015 inch (0.04 mm) feeler 
+gauge between the wheel and the shaft (at two points diametrically opposed). Any clearance indicates improper installation. 
+8.  The T.I.R. as measured on the face of the flywheel where the coupling adapter 
+attaches should not exceed .005 inch (0.01 mm). 
+ 
+The following instructions apply to installation using the tapered bushing.  
+1.  Clean the bore in the flywheel and the outside of the bushing.  Also clean the bore 
+of the bushing and the corre sponding section of  the crankshaft. Do not use or 
+any other type lubricant during assembly. 
+2.  Install the bushing into the flywheel. Snug each of the attachment bolts, but do 
+not tighten. 
+3.  Using proper lifting techniques, and a hoist having sufficient capacity, install the 
+flywheel onto the crankshaft. 
+4.  With the flywheel firmly in place,  tighten the attachment bolts evenly to the 
+required torque setting. Once tight, there should still be some clearance between 
+the bushing flange and the flywheel. You may also check to ensure the bushing 
+is tight by attempting to insert a 0.001 (0.03 mm) or 0.0015 inch (0.04 mm) feeler 
+gauge between the flywheel and the shaft (at two points diametrically opposed). 
+Any clearance indicates improper installation. 
+5.  The T.I.R. as measured on the face of the flywheel where the coupling adapter 
+attaches should not exceed .005 inch (0.01 mm). 
+ 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+NOTE 
+When installing any hub on the compressor 
+crankshaft, there must be no less than 1" clearance 
+from the back of the hub to  the front cover of the 
+frame. This is to facilitat e removal of the crankshaft 
+oil seal if service is required. 
+ 
+3-6.  Compressor Cylinders 
+Compressor cylinders are normally installed on the frame at the factory and shipped 
+complete. Under certain circumstances the cylinders may be shipped loose and then 
+installed at the packagers. If this is the ca se refer to the MAINTENANCE section of the 
+particular compressor Instruction Manual you are working on. 
+ 

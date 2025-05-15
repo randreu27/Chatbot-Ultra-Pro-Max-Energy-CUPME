@@ -1,0 +1,184 @@
+According to the US Geological Survey (USGS), 
+approximately 30% of the world’s undiscovered 
+natural gas is in the Arctic region.1 While extracting 
+gas from these reserves is no small task, neither is 
+developing the infrastructure to safely and cost-effectively 
+deliver it to destination markets. Developing LNG plants in 
+such harsh and remote operating environments presents 
+unique challenges in an already complicated undertaking. 
+Siemens has extensive experience helping operators 
+overcome the adversities of Arctic LNG development, with 
+a focus on design and power solutions. One example where 
+the benefits of these solutions have been on display is the 
+Yamal LNG project in Russia (Figure 1).
+About Yamal
+The Yamal LNG project is one of the world’s largest 
+LNG facilities and features an integrated natural gas liquefaction complex with a capacity of 16.5 million tpy. 
+It is currently being developed from gas reserves within 
+the South Tambey Field near Sabetta, northeast of the 
+Yamal Peninsula in Siberia. The production complex will 
+consist of three process liquefaction trains with a capacity 
+of 5.5 million tpy each. Plans outlined for the Yamal 
+LNG project include the construction of an LNG plant, a 
+processing facility for gas and condensate treatment, gas 
+transmission pipelines and well sites. A power plant with a 
+designed capacity of 376 MW is also being constructed to 
+support the LNG plant’s operations with electricity and heat.
+The Yamal Peninsula is estimated to hold some of the 
+largest gas reserves on the planet. However, it is also known 
+for its inhospitable conditions, which makes developing the 
+infrastructure to capitalise on these resources a daunting 
+challenge. For example, the region is primarily made up of 
+marshes, which presents many difficulties for drilling and Margarita Panina, Siemens, Russia, and 
+Navneet Jindal, Siemens, Singapore,  explain how an 
+LNG facility in remote Siberia is overcoming harsh 
+conditions with cost-effective design and development. 
+   Reprinted from November 2018construction operations. Adding to this is the fact that, for a 
+significant portion of the year, daylight is limited. The 
+Yamal Peninsula is also highly remote, with virtually no local 
+workforce. This is especially the case when it comes to the 
+type of specialised personnel that is required to execute 
+large scale oil and gas projects. Owing to the harsh 
+environmental conditions and limited infrastructure in the 
+region, the construction of the Yamal LNG facility is being 
+carried out in offsite locations using modularisation.  
+Selecting equipment for harsh 
+climates
+Siemens has played a crucial role in the development of the 
+Yamal LNG project, supplying critical components for the 
+376 MW power station, including eight SGT-800 industrial 
+gas turbines, as well as nine step-up transformers. Four of 
+the turbines are equipped with waste heat recovery units. 
+The SGT-800 industrial gas turbine (Figure 2) is especially 
+qualified for harsh climatic conditions, such as those in areas 
+north of the Arctic Circle with temperatures below -50 °C.
+Short installation and commissioning time was required 
+onsite due to the extremely remote location and the cold 
+climate. To facilitate this, all eight SGT-800 gas turbines 
+went through factory testing at a Siemens test facility in 
+Finspång, Sweden (Figure 3). For the first unit, a string test 
+was performed in order to verify operation of the turbine 
+package, including the generator. For the other seven units, 
+the core engines were tested in the factory’s mechanical 
+running test (MRT) facility. All eight turbines were 
+manufactured and dispatched to the site on time. Seven of 
+the turbines are currently in operation, with the eighth set to 
+come online later this year.  
+Siemens and Yamal also signed an equipment 
+maintenance contract for the facility’s power plant. The 
+contract allows for stepwise expansion of gas turbine 
+maintenance localisation in Russia, customer personnel 
+training and training simulators and programs. As part of the contract, the gas turbines will be linked with a 
+Moscow-based remote centre for equipment monitoring. The 
+contract is one of the only agreements in which the field 
+developers decided on maintenance of an LNG plant’s 
+equipment for the entire project base period of 22 years.
+Modular e-houses
+In addition to the turbines and maintenance contract, 
+Siemens supplied 29 modular e-houses (Figure 4) for Yamal, 
+including the world’s longest and heaviest building with 
+dimensions of 90 m x 40 m and weighing 2500 t. Siemens 
+facilities all over the globe procured the major electrical and 
+automation equipment for the e-houses. The engineering 
+was carried out by the team in Singapore, while the Siemens 
+fabrication yard in Batam, Indonesia, was used for the 
+construction of the modules. The e-houses were delivered in 
+five separate batches, the last of which arrived safely and on 
+time in May 2017.
+As pre-fabricated electrical substations, fully equipped 
+with medium-voltage switchgear, low-voltage switchboards, 
+busbar trunking systems and auxiliary equipment, e-houses 
+are the optimal approach to install electrical power and 
+control equipment for a fast and reliable power supply in 
+harsh environments. The e-houses for Yamal were 
+developed, manufactured, assembled and pre-tested at the 
+construction yard, then connected and put into operation 
+onsite. 
+Various types of e-houses are available to suit any 
+application requirement. A standard e-house, for instance, 
+consists of one module on a pre-cast foundation, whereas a 
+mobile substation is an e-house module on wheels or 
+support that can be relocated with its foundation. 
+Multi-modular e-houses are also available. They consist of 
+several modules that are placed on a foundation, either on 
+top of or next to each other. This enables transportation of 
+large houses and ensures optimal use of available space. 
+E-houses can be installed on raised platforms to protect 
+Figure 1.  Yamal LNG facility, with the power plant in the centre (courtesy of Yamal LNG).
+Reprinted from November 2018    them from flooding, and to allow for installation of cable 
+tray and bus duct systems underneath the structure, thereby 
+minimising the need for excavation.
+Modularised ‘plug and play’ e-houses can provide many 
+benefits to LNG projects, particularly those located in harsh 
+environments. Some of these include the following.
+Cost savings
+E-houses are standardised solutions that can offer 
+cost-saving potential of up to 20%. Much of these savings 
+are attributable to lower planning costs and reduced civil 
+work onsite. Savings are also realised by pre-fabricating 
+modules offsite in a controlled environment, which reduces 
+dependency on expensive skilled labour in remote areas and 
+ensures the quality of the equipment being built.   Shorter schedules and reduced 
+construction risk
+Because e-houses arrive fully equipped and pre-tested, 
+there is no risk of construction or commissioning delays 
+due to uncontrollable factors, such as inclement weather. 
+As ‘plug and play’ solutions, e-houses can often be rapidly 
+installed and brought into operation, reducing lead times 
+by as much as 25%. Minimising the need for onsite work 
+also reduces the likelihood of interference or overlapping 
+between onsite activities, which can be problematic with 
+large scale projects such as LNG facilities. 
+Improved EHS performance
+Another added benefit of using ‘plug and play’ e-houses for 
+LNG projects in harsh climates is improved environmental, 
+health and safety (EHS) performance. At the Yamal LNG 
+project, for instance, all 29 modules (which were some 
+of the largest and heaviest ever built for an LNG project) 
+were delivered with lower than 0.1 total recordable injury 
+rate (TRIR – the number of reportable cases suffered by 
+the workforce for every 200 000 hours worked), which is 
+significantly lower than industry averages. Overall, the Yamal 
+project achieved more than 15 million safe working hours.
+Looking ahead
+In the coming years, as operators increasingly venture into 
+remote regions of the world to capitalise on abundant oil 
+and gas resources, the demand for innovative equipment 
+solutions and associated infrastructure that can improve 
+safety, reduce costs and mitigate risk will increase 
+immensely. 
+While modular e-houses have been employed in the oil 
+and gas industry for many years, they are becoming an 
+increasingly popular option in remote areas, such as the 
+Arctic, where harsh conditions and limited access to skilled 
+labour can increase project cost and complexity. In these 
+cases, conventional site-built power substations are often 
+too expensive or time-consuming. In other cases, the 
+project schedule or the actual space does not allow for 
+site-built construction, and building permits for 
+conventional buildings are not available. E-houses are the 
+ideal solution in all these cases. They can be installed 
+rapidly, thus reducing interferences with other activities, 
+and can easily be adapted to virtually any situation and 
+application. 
+The Yamal LNG project in Siberia is a prime example of 
+the many benefits that can be achieved when world class 
+best practices and global integration of knowledge and 
+expertise are combined with innovative equipment solutions, 
+such as ‘plug and play’ modular e-houses. The strategies 
+employed by Siemens and other key stakeholders to 
+successfully deliver this mega-project on time and with 
+record EHS performance can be used as a basis for the 
+development of future LNG projects, particularly those that 
+are being proposed in highly remote and inhospitable 
+regions. 
+Reference
+1. Source: MAP: Undiscovered Artic Oil and gas and Potential 
+Trade Routes. https://www.brookings.edu/blog/brookings-
+now/2014/03/26/map-undiscovered-arctic-oil-and-gas-and-
+potential-trade-routes/.
+Figure 2.  Siemens SGT-800 industrial gas turbine.
+Figure 3.  String test at Siemens’ test facility in Finspång, 
+Sweden.
+Figure 4.  E-House module at Yamal site.
+The described technologies in this article now belong to the Siemens Energy portfolio.  

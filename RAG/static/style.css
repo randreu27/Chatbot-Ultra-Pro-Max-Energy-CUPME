@@ -1,0 +1,254 @@
+/* Siemens Energy theme and general styles */
+body {
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f7f9fc;
+}
+
+/* Scroll customization */
+#chatbox::-webkit-scrollbar {
+    width: 8px;
+}
+
+#chatbox::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px;
+}
+
+#chatbox::-webkit-scrollbar-thumb {
+    background: #009999;
+    border-radius: 10px;
+}
+
+#chatbox::-webkit-scrollbar-thumb:hover {
+    background: #007777;
+}
+
+/* Animation for typing indicator */
+.typing-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 20px;
+}
+
+.typing-indicator span {
+    height: 8px;
+    width: 8px;
+    margin: 0 2px;
+    background-color: #009999;
+    display: block;
+    border-radius: 50%;
+    opacity: 0.4;
+    animation: typing 1s infinite alternate;
+}
+
+.typing-indicator span:nth-of-type(1) {
+    animation-delay: 0.2s;
+}
+
+.typing-indicator span:nth-of-type(2) {
+    animation-delay: 0.3s;
+}
+
+.typing-indicator span:nth-of-type(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes typing {
+    0% {
+        transform: translateY(0px);
+        opacity: 0.4;
+    }
+    100% {
+        transform: translateY(-5px);
+        opacity: 1;
+    }
+}
+
+/* Smooth transitions */
+button {
+    transition: all 0.3s ease;
+}
+
+/* Link styling in chat responses */
+#chatbox a {
+    color: #005577;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+#chatbox a:hover {
+    color: #00cccc;
+    transform: translateY(-2px);
+}
+
+/* Link cards */
+.link-card {
+    transition: all 0.3s ease;
+}
+
+.link-card:hover {
+    transform: translateY(-2px);
+}
+
+/* Highlight for sources */
+.sources-card {
+    transition: all 0.3s ease;
+}
+
+.sources-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 153, 153, 0.1);
+}
+
+/* Message entry animations */
+.animate-fadeIn {
+    animation: fadeIn 0.4s ease-out forwards;
+}
+
+.animate-slideIn {
+    animation: slideIn 0.4s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Message container spacing */
+.message-container {
+    margin-bottom: 1.5rem;
+}
+
+/* Message text style */
+.message-text {
+    line-height: 1.6;
+}
+
+/* Input field animations */
+.input-container {
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.input-active {
+    border-color: #009999;
+    box-shadow: 0 0 0 4px rgba(0, 153, 153, 0.1);
+}
+
+/* Header styling */
+.header-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.header-pattern {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle at 25px 25px, rgba(255, 255, 255, 0.1) 2px, transparent 0);
+    background-size: 50px 50px;
+}
+
+/* Value Badges */
+.value-badge {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    margin-right: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    white-space: nowrap;
+    transition: all 0.3s ease;
+}
+
+.value-badge:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+    transform: translateY(-2px);
+}
+
+/* Accessibility panel */
+.accessibility-panel {
+    transition: all 0.3s ease;
+}
+
+.toggle-switch {
+    position: relative;
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+}
+
+.toggle-switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.toggle-slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+}
+
+.toggle-slider:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 3px;
+    bottom: 3px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .toggle-slider {
+    background-color: #009999;
+}
+
+input:checked + .toggle-slider:before {
+    transform: translateX(20px);
+}
+
+/* Mobile styles */
+@media (max-width: 640px) {
+    .header-title {
+        font-size: 1.25rem;
+    }
+    
+    .value-badges {
+        display: none;
+    }
+    
+    #sendButton span {
+        display: none;
+    }
+    
+    .message-text {
+        font-size: 0.9rem;
+    }
+}

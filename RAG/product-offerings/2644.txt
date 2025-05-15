@@ -1,0 +1,501 @@
+HVDC PLUS® –    
+the decisive 
+step ahead
+Stabilized power flows improve transmission       
+grid performance
+siemens-energy.com/hvdc
+An ever-increasing demand for energy, a steadily growing 
+share of intermittent renewable  resources  and a decrease in 
+conventional  power generation are the challenges facing 
+today’s  power markets. An unparalleled challenge:
+keeping your grid performing predictably in times of                        
+unpredictable generationHVDC PLUS | Brochure
+2
+Better grid performance
+Grid operators are faced with ever-in -
+creasing requirements when it comes to 
+grid stability, power quality, and reliability. 
+In times of booming renewable power 
+generation and decreasing conventional 
+power generation, they need efficient, 
+innovative solutions to keep the transmis -
+sion system stable and reliable, and to 
+maintain the safety and security of the 
+supply at all times.
+Managed grid complexity
+With a multitude of intermittent power 
+generators replacing a small number of 
+highly predictable conventional power 
+sources, grid operation has become very 
+complex. It not only involves dealing with 
+thousands of individual players while stabi -
+lizing the AC grid, it also means providing 
+transmission capacity – wherever and 
+whenever it is needed.                                 
+    
+Improved grid access
+Another challenge is providing grid access, 
+either for remote renewable power genera -
+tors such as offshore wind farms or for 
+remote load centers like oil rigs. In all cases, 
+transmission capacity is crucial for success, 
+which means providing maximum avail-
+ability, reliability, and flexibility.
+Lowest CAPEX and OPEX
+At the same time, customers need competi -
+tive solutions over the entire lifecycle. An 
+optimal balance between functionality and 
+performance on the one hand and invest -
+ment as well as operational costs on the 
+other hand is imperative. 
+     Flexibility and power quality
+In today’s power grids, flexibility and power 
+quality are in high demand. HVDC PLUS® can 
+provide optimum solutions for your specific 
+transmission tasks. This requires: 
+• Efficient use of HVDC PLUS® technology 
+with project-specific adaptions, based on 
+the Siemens Energy HVDC PLUS Reference 
+Designs.
+• An HVDC PLUS® point-to-point trans -
+mission system, which can optionally 
+expand into a multi-terminal system with 
+three or more converter stations.
+Maintaining the highest          
+standards
+An HVDC PLUS® solution that improves your        
+existing grid infrastructure needs to address 
+the following aspects:  
+• Maximum availability
+• Stabilization of the AC network
+• Future-oriented, flexible solutions  
+as a response to varying power market 
+requirements
+• Ability to provide grid access of renewable 
+energy sources
+• Power exchange between interconnected 
+systems and between asynchronous grids
+• Economic, adaptable, and compact 
+solutions
+• Maintenance-friendly, safe, and reliable 
+design with  comprehensive lifetime 
+services
+HVDC PLUS | Brochure
+ 3
+Versatility at your service
+As an innovation leader, Siemens Energy 
+has developed an advanced, universally 
+applicable solution for power transmission 
+with its voltage-sourced converter (VSC) 
+technology HVDC PLUS®. The innovative 
+solution offers a controlled power supply 
+in either direction and is ideal as a “firewall” 
+against disturbances developing in highly 
+loaded AC grids. HVDC PLUS® technology is 
+based on the trendsetting modular multi -
+level converters (MMC) and offers 
+numerous technical and economical     
+benefits.Economical and environmental 
+benefits
+Environmental constraints play an 
+important role in the development of power 
+systems. HVDC PLUS® technology gives top 
+priority to both, energy and resource effi -
+ciency. For example, the MMCs operate 
+with low switching frequencies, which 
+reduces losses. Due to generation of nearly 
+ideal sinusoidal waveforms on the AC side 
+ typically the need for harmonic filtering 
+is eliminated resulting also in less time and 
+costs for planning, engineering, construc -
+tion, and commissioning. And their compact 
+design means lower space requirements 
+and thus reduced property costs.
+HVDC PLUS®: 
+the best technology for  sustainable success
+HVDC PLUS | Brochure
+4
+Siemens Energy has been a pioneer of HVDC PLUS®        
+technology right from start and continuously driving  
+technology further. HVDC PLUS® is our trend-setting        
+development for ensuring economical power transmission 
+and providing controlled power supply to the connected       
+networks.
+Operational 
+ advantages
+• A very high level of system 
+reliability, and redundancy 
+for all key components of the 
+converter control.
+• Standard control and 
+protection system; hardware 
+and software in hot standby.
+• Minimized maintenance and 
+service requirements.
+• Compact station design with 
+typically no harmonic filters.
+• Black-start capability to 
+improve speed of recovery 
+of interconnected grids.Prize-winning health and  
+safety compliance
+We have a clearly defined goal for all our 
+HVDC PLUS® transmission projects: apply the 
+highest possible safety standard in order 
+to reduce the number of incidents to zero. 
+Our HVDC PLUS® systems are designed using 
+a risk-based engineering approach to assure 
+a risk-free and safe design, a “safety-first” 
+construction process, and the safe opera -
+tion of the systems. All projects are 
+executed with the highest health and safety 
+awareness on the part of our management, 
+ employees, and partners. Our team on the 
+NEMO Link project awarded the „Sword of 
+Honor“ of the British Safety Council and the 
+ElecLink project team achieved five stars in 
+the British Safety Council’s Five Star Occupa -
+tional Health and Safety Audit.The compact footprint can be further 
+ reduced, e.g. using gas-insulated DC 
+compact switchgear, available up to           
++/- 500 kV. Compared with air insulation, 
+the gas-insulated solution  reduces space 
+requirements for the DC switchyard by       
+up to 90 percent.
+Stabilization of AC network
+HVDC PLUS® is completely appropriate for 
+steady state and dynamic AC voltage 
+control, independently on each station. Its 
+typical advantages are apparent when 
+weak AC networks are  being  connected: 
+• Low dependency on short-circuit  
+power, voltage, and frequency  
+of the AC networks.
+• Reactive power can be generated or 
+consumed independent of active power 
+transmission.
+• During AC transmission network resto -
+ration (for example, after a blackout), 
+HVDC PLUS® can provide system recovery 
+ancillary service (SRAS).HVDC PLUS | Brochure
+ 5
+HVDC PLUS®: 
+the solution for flexible DC power transmission systems 
+several 100 km
+HVDC PLUS® is a technological breakthrough for 
+highly  efficient power transmission. Available appli -
+cations thus  include long-distance transmission via 
+overhead lines and  cables as well as network inter -
+connectors and grid  access solutions.
+AC ACLong-distance
+System A System B DC Line DC CircuitAC ACBack-to-back
+System A System BHVDC PLUS® long-distance   
+transmission
+For covering long distances, HVDC PLUS® 
+power transmission is often the most effi -
+cient and economic solution. In such cases 
+HVDC PLUS® is the preferred solution where 
+its superior features are benefical for the 
+overall project. A variety of media can be 
+used for power transmission: cables, or 
+even existing overhead lines. There are 
+numerous technical solutions that are best 
+discussed with our experts to find the most 
+appropriate configuration for your indi -
+vidual needs.HVDC PLUS® interconnectors
+HVDC PLUS® interconnectors connect 
+independent national and/or regional  
+grids regardless of their frequency. By 
+converting the AC power into DC and from 
+DC back to AC, the superior features of our 
+HVDC PLUS® converters facilitate stabili- 
+zation and improvement of grid operation. 
+Grid code requirements are met. One 
+example is a  back-to-back interconnector 
+where both converters are at the same 
+location.HVDC PLUS | Brochure
+6
+123
+4
+5
+671Converter transformers
+2Cooling
+3AC switchyard
+4Control and protection
+5DC compact switchgear
+6DC yard
+7Converter hall
+Grid Access
+Siemens Energy offers perfect solutions for 
+HVDC PLUS® offshore applications. HVDC 
+PLUS® is the ideal space-saving solution to 
+provide grid access to remote offshore wind 
+farms with its dynamic fast control. This 
+makes regenerative energy sources fit for 
+the grid, and to connect them according to 
+the conditions of each particular grid code 
+by providing the required voltage quality at 
+the grid coupling point.
+Our DC Compact Switchgear offers 
+ additional space-savings on the platform.
+HVDC PLUS® provides also power for 
+ connecting remote loads:
+• from shore to offshore oil and gas  
+platforms and
+• for minesMulti-terminal connections  
+and future DC grids
+In addition to the most commonly applied 
+point-to-point connections, HVDC PLUS® 
+facilitate expansion to multi-terminal 
+systems and further develop to DC grids in 
+the future to back up existing AC grids.
+Due to its operation principle to keep the 
+DC Voltage constant in one polarity and 
+to change direction of power transfer by 
+reversing the current, HVDC PLUS® is ideally 
+suitable for multi-terminal applications.
+This enables to develop HVDC PLUS® trans -
+misison solutions stagewise and provides 
+high flexibility to expand existing schemes 
+in case of future changes in power grids or 
+load flow scenarios.HVDC PLUS | Brochure
+ 7
+The highly efficient HVDC PLUS® half-bridge 
+topology is used for most HVDC PLUS® 
+applications today. It has proven its excel -
+lent reliability in practice and is particularly 
+suited for offshore applications.
+This technology also features our latest 
+innovation, the new half-bridge module 
+based on cutting-edge IGBT tech nology 
+with a DC current capability of more than 
+2 kA, which fits to the new development 
+in XLPE cable technology. Its high power 
+density results from its 6.5 kV voltage class 
+and leads to reduced converter hall sizes.  
+By a smaller number of submodule levels, 
+losses are lowered even more.Half-bridge type MMC:
+The power capacitor can be 
+connected in one polarity 
+to the terminalsUdc
+UacUac
+Udc
+0
+“on” “off”Half-bridge converter topology  
+for utmost reliability
+The next generation of power 
+modules for more than 2 kAHVDC PLUS | Brochure
+8
+For HVDC PLUS® overhead line configura -
+tions, MMC in full-bridge topology is 
+the right choice, as this allows for selective 
+clearing of DC line faults. The graph shows 
+a typical HVDC PLUS® full-bridge topology 
+design.
+The power capacitors can be connected to 
+the terminals at either polarity. This means 
+that the DC voltage is independent of the 
+AC voltage and can be controlled to zero 
+or even be entirely reversed to maintain 
+current control on the AC and DC sides and 
+also under short-circuit conditions. The DC 
+voltage can also be controlled over a wide 
+range, including both polarities. Siemens 
+Energy HVDC PLUS® technology is based on 
+strategies proven in a wide range of indus -
+trial applications of VSC technology, and 
+offers the following advantages:• Immediate initiation of DC fault clearing 
+by reversing the DC line voltage polarity 
+for a short period of time in order to 
+extinguish and de-ionize the electric arc 
+followed by the possibility of multiple 
+restart attempts
+• Flexibly controllable DC voltage provides 
+a voltage ramp-up characteristic, which 
+takes into consideration project-specific 
+AC conditions
+• Flexible operation at a reduced voltage 
+as a precautionary measure in adverse 
+weather conditions and increased air 
+pollution
+• Minimized fault clearance time for 
+ multi-terminal systems, when combined 
+with selective fault detectionFull-bridge type MMC:
+The power capacitor can be 
+connected in either polarity  
+to the terminalsUdcUacUac
+Udc
+–Udc0Full-bridge technology  
+for optimized power transmissionHVDC PLUS | Brochure
+ 9
+Siemens Energy is not only the inventor 
+of HVDC PLUS®, we are also the most    
+experienced partner on the market       
+today. And it shows – not just in our 
+leading technology but also in compre -
+hensive lifecycle support and individual 
+services tailored to your needs.
+Turnkey solutions –  
+the key to successful projects 
+If you are planning an HVDC PLUS® connec -
+tion, you can rely on our unique expertise. 
+This includes our continuous work to 
+further advance the technology. As a result, 
+we were the first to offer HVDC PLUS® 
+in MMC technology, the first supplier of 
+2 x 1,000 MW with VSC tech nology, and the 
+first to upgrade an existing HVDC PLUS® 
+with black-start capa bility. This means that 
+we can assume responsibility for the entire 
+lifecycle of your project, from the first 
+analysis through creation of an optimized 
+solution to commissioning – including 
+after-sales services from operation to the 
+reliable supply of spares and more.                              
+     
+     Our services span the entire     
+lifecycle
+As your partner, Siemens Energy offers the 
+whole spectrum of HVDC PLUS® after-sales 
+services to enable you to get the most out 
+of your HVDC PLUS® assets. Our services 
+range from  standard preventive mainte -
+nance  services to cyber security and asset 
+ management consulting. Retrofit and 
+refurbishment services services assist you in 
+extending the lifetime of your HVDC PLUS® 
+assets.HVDC PLUS | Brochure
+10
+Technical clarifications
+Overall project management
+Engineering and design
+Site facilities  
+and civil works
+Production
+Procurement
+Factory testingTransportOn-site installation  
+and commissioningTrainingAfter-sales servicesFinancing support 
+and consultingOptimized support from  
+your experienced partner
+HVDC PLUS® after-sales services
+Siemens Energy is an established service 
+provider enabling you to obtain top per- 
+formance and availability from your HVDC 
+PLUS® system. This includes minimizing 
+unplanned downtime through preventive 
+and predictive maintenance. We provide a 
+full range of valuable and reliable services.
+To increase transparency of your assets:
+• On-site condition  assessments  
+(“health checks”)
+• Condition monitoring and diagnostics
+• Remote services
+• Asset management and advisory services
+To ensure high asset availability:
+• Preventive maintenance
+• Field service and repair
+• Spare parts
+• 24/7 expert hotline and technical support
+• Obsolescence managementTo optimize asset performance:
+• Refurbishment
+• Upgrade and uprate
+To support you in operation                   
+management:
+• Asset operation
+• Spare parts management
+• Customer qualification and training
+• Cyber security servicesHVDC PLUS | Brochure
+ 11
+First HVDC PLUS® with modular 
+multilevel  converter (MMC)  
+technology –
+Trans Bay Cable
+World’s first HVDC PLUS® with  
+full-bridge converter – 
+ULTRANET –            
+A-NordBorWin3 is the most recent project out of already 5 installed DC 
+offshore grid connections. Operating since August 2019 and 
+designed with float-over platform installation concept – 
+BorWin3
+Germany
+Czech 
+Republic
+FranceBelgiumNetherlands
+Meerbusch
+PhilippsburgPetkumHVDC PLUS | Brochure
+12
+Customer: TenneT
+Location: Emden, Germany
+Type of plant: HVDC PLUS® half-bridge topology, 
+On-/Offshore cable, 160 km
+Power rating: 900 MW
+Voltage levels: ± 320 kV DC,  
+380/155 kV AC, 50 HzOperational highlights:
+Compact DC solution for low-loss offshore-onshore power 
+transmission and grid connection according to grid code. 
+While grid fluctuations must always be taken into account 
+in wind-based power generation, grid stability and reli -
+ability are significantly enhanced thanks to the Siemens 
+Energy HVDC PLUS® technology.
+Customer: Amprion GmbH and  
+TransnetBW GmbH
+Location: Philippsburg – Meerbusch –         
+Petkum, Germany
+Type of plant: HVDC PLUS® converters in fullbridge 
+topology connected via 340 km 
+overhead line and 300 km DC cable
+Power rating: 2,000 MW, bipolar
+Voltage levels: ± 380 kV DC,  
+400 kV AC, 50 HzOperational highlights:
+With its stabilizing functions, high availability for overhead 
+line transmission, black-start capability, and full-bridge 
+topology to clear faults in the DC sections quickly and 
+flexibly, the bipolar ULTRANET HVDC PLUS® system will 
+attain high reliability. ULTRANET will be the first link with 
+DC lines placed on existing AC pylons, which will be 
+provided by Amprion GmbH and TransnetBW GmbH.
+With the DC cable extension A-Nord the system will be 
+Germany’s first HVDC Multi-Terminal system.Customer: Trans Bay Cable, LLC
+Location: Pittsburg (California) –  
+San Francisco (California), USA
+Type of plant: HVDC PLUS® in half-bridge topology 
+connected via an 86 km submarine 
+cable
+Power rating: 400 MW, symmetrical monopole
+Voltage levels: ± 200 kV DC,  
+230 kV/115 kV AC, 60 HzOperational highlights:
+HVDC PLUS® enhances the performance of the transmission 
+grid, improves reliability, and reduces maintenance costs. 
+HVDC PLUS® is the preferred solution in space-constrained 
+urban environments like San Francisco. After successful 
+commissioning in November 2010, the Trans Bay Cable 
+Project met the California Inde pendent System Operator’s 
+(ISO) planning and reliability standards. The system was 
+upgraded to black-start capa bility in 2016. HVDC PLUS | Brochure
+ 13
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Transmission  
+Freyeslebenstraße 1  
+91058 Erlangen       
+Germany
+For the U.S. published by      
+Siemens Energy, Inc       
+Transmission       
+4601 Six Forks Road       
+Raleigh, NC 27609       
+USA
+For more information, please visit our website:    
+siemens-energy.com/hvdc      
+or contact us: hvdc@siemens-energy.comA
+rticle No. PTSO-T10004-00-76DE 
+© Siemens Energy, 2022
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract. All product 
+designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties 
+for their own purposes could violate the rights of the owners.

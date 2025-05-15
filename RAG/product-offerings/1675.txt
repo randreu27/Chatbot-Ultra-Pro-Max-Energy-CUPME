@@ -1,0 +1,225 @@
+Micro substation
+Electricity accessibility through tailor made solution to 
+overcome different applications such as electrifying remote 
+areas by a direct connection from the existing transmission 
+grid. One step from high voltage to low voltage.
+04  Benefits & flexibility  
+06  Single phase  
+08  Three phase  
+ 
+10  Micro substation
+Providing electricity accessibility for remote areasTable of contents
+Benefits & flexibility 04
+Three phase 08
+Single phase 06
+2 3
+Electricity accessibility
+Economical solution for remote areas
+Minimum civil works required
+Transportable solution
+One-step from high voltage to low voltage
+Applicable solution with blue portfolio
+Pre-assembled concept
+Quick installation on siteBenefits• Single phase and three phase solutions are available as per  
+power demand
+• Solutions with latest technology (SF6 free)
+• Substation arrangements are tailored to each location  
+and customer’s needs, utilizing options, examples include:  
+skids platform, steel structures or foundationsFlexibilityBenefits & flexibility
+E.g.: 145 kV micro 
+substation using  
+AIS technology,  
+with circuit breaker 
+integrated and 
+station service 
+voltage transformer 
+(SSVT) with 167 kVA
+4 5
+Single phase
+Single phase
+Electricity accessibility is crucial for 
+many reasons. It enhances the quality 
+of life by providing access to lighting, 
+communication, and refrigeration. It 
+also supports education, healt  hcare 
+and economic development. Electrifi­
+cation infrastructure has been a 
+fundamental factor for society among 
+the years. We should also seek a 
+development to reduce the reliance 
+on traditional fuels, which will lead to 
+improved environmental conditions.
+According to the International Energy 
+Agency (IEA) around 770 million 
+people worldwide do not have access 
+to electricity. Many of these people 
+are in remote areas. Our solution can 
+assist in bringing reliable and clean 
+energy ready to use.
+ 
+There are already many high voltage 
+transmission lines crossing areas 
+where the energy is needed.
+However, for known electrical rea­
+sons, we need to convert the high 
+voltage to low voltage before we can 
+connect to the final application  
+(e.g.: homes, 5G antenna and auxili­
+ary services). There is a solution that can be used  
+to convert the high voltage directly  
+to low voltage, ready to be used  
+for customers.
+Through our micro substation with a 
+station service voltage transformer 
+(SSVT) in a range of 72.5 kV to 550 kV 
+this voltage can be transformed 
+directly to voltage ranges between 
+100 V up to 900 V.  
+To ensure the safety on the operation 
+of the micro substation, switching 
+equipment is used, such as circuit 
+breakers and disconnector switches.  
+A current transformer is used to 
+measure the current flowing on the 
+micro substation and surge arresters 
+may also be installed to protect from 
+high voltage impulses.
+Single phase solution can deliver 
+power up 333 kVA on the secondary 
+side. 
+7 6
+Three phase
+When a larger power phase is needed, 
+we can use the three phase solution 
+and supply a higher value of power.
+ 
+For example, in remote areas near to
+highways, where we have a high
+voltage transmission line we can
+install a micro substation with three 
+phase and supply energy to different 
+applications such as EV charging 
+station. 
+ 
+With three station service voltage 
+transformers (SSVT) we can supply up 
+to 1 MVA to our customers. The solu­
+tion is designed to easily scalable to 
+aggregate additional station service 
+voltage transformers (SSVT) when­
+ever the demand requires it.
+ 
+The Micro Substation is supplied with 
+the protection system customized 
+according to customers standards. The connection of the micro substa­
+tion to an overhead line does not 
+disturb the current performance of 
+the energy transmission. If the fault 
+occurs inside the micro substation, 
+the protection system is able to dis­
+criminate the source of the fault since 
+there are current transformers in­
+stalled on the high voltage side.
+Three phase
+E.g.: 145 kV micro substation 
+using AIS technology, with 
+circuit breaker integrated and 
+station service voltage  
+transformers (SSVT) supplying  
+power of 500 kVA
+9 8
+Micro substation
+The micro substation can be com­
+pletely assembled with SF6 free  
+solutions. Siemens Energy offers the 
+blue portfolio including vacuum 
+switching tech no logy and clean air 
+insulation to produce zero harmful 
+emissions without having to compro­
+mise on performance or economic 
+feasibility.  
+With over 10 years of experience in 
+high­voltage vacuum switching, we 
+have been able to maintain outstand­
+ing levels of technical performance 
+and low life cycle costs while reducing 
+our ecolo gical footprint and increase 
+long term sustainability. Making the 
+blue portfolio the perfect choice for substation applications. With the help 
+of our strong partnerships, we will 
+develop and implement it even fur ­
+ther and faster. It provides the same 
+electrical and insulation features as 
+traditional insulation technologies 
+while at the same time giving all the 
+benefits of a SF6 free solution. The 
+application is suitable for low tem­
+perature applications at ­50 °C and 
+below. 
+The final main features regarding the 
+quality of service include, “virtually 
+unlimited” power availability and 
+sustainability. Concerning the quality 
+of service (continuity of supply), this 
+solution provides the quality of supply of a transmission grid to the final 
+customer. Usually, the average inter ­
+ruption time of a transmission grid is 
+significantly lower than the interrup­
+tion time of a distribution grid, since 
+distribution grids are more affected by 
+external factors such as extreme 
+events like storms, high winds, heavy 
+snow or forest fires.
+Finally, this micro substation presents 
+a sustainable solution since it results 
+as a new use for the existing transmis­
+sion grids that are already available 
+across the countries, without the 
+need for grid reinforcements due to 
+new power requirements. This is 
+useful as a complementary approach Micro substation
+The solution is focused on:
+•  Consumers do not have access  
+to MV/LV energy 
+•  Quick installations with 
+minimum civil works are  
+available on site
+•  Overhead lines (OHL) are  
+available for usage
+mainly outside the urban centers, 
+where the rural distribution grids can
+have difficulties to supply the power 
+demand for different applications.
+10 11
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Grid Technologies Service  
+Humboldtstraße 64  
+90459 Nuremberg  
+Germany 
+For the U.S. published by  
+Siemens Energy, Inc  
+Grid Technologies  
+8841 Wadford Drive  
+Raleigh, NC 27616  
+USA
+Customer Support Center  
+Tel.: +49 911 6505 6505
+E­Mail: support@siemens­energy.com
+For more information, please visit our website:  
+www.siemens­energy.com/gt­service
+© Siemens Energy, 2024  
+ 
+Subject to changes and errors. The information given in this  
+document only contains general descriptions and/or performance  
+features which may not always specifically reflect those described,  
+or which may undergo modification in the course of further  
+development of the products. The requested performance features  
+are binding only when they are expressly agreed upon in the  
+concluded contract. All product designations may be trademarks  
+or product names of Siemens Energy Global GmbH & Co. KG or  
+other companies whose use by third parties for their own purposes  
+could violate the rights of the owners.  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.
+Learn more

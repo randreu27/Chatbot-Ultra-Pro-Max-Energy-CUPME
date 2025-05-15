@@ -1,0 +1,127 @@
+siemens-energy.com/diagnostic-monitoring-protection
+Vibration 
+monitoring
+in synchronous 
+condensers
+Prevent unexpected failures and 
+optimize maintenance activities
+The challenge
+The decreasing fossil power generation and increasing 
+renewables pose challenges to grid stability, including 
+reduced shortcircuit power capacity, limited grid capacity, 
+and difficult control of the power factor. In the worst case, it 
+can even lead to a blackout. Our synchronous condenser 
+solution uses a generator to supply the necessary inertia
+with its rotating mass while also providing or absorbing 
+reactive power as well as short circuit. For providing more 
+inertia a flywheel can directly couple to the generator rotor. 
+Due to the changes in the entire grid landscape with long 
+transmission lines and the integration of converter-based 
+solutions such HVDC, subsynchronous torsional shaft vibra-
+tions can be excited by fast acting controls of HVDC convert-
+er stations, by capacitive line compensation or by active 
+control systems.
+The associated phenomena are referred to as:
+• Subsynchronous torsional interactions (SSTI),
+caused by long series compensated transmission lines, 
+that may cause electrical instability at asubsynchronous 
+frequency. Excessive shaft vibrations may occur in case 
+the excitation frequencies correspond to a natural tor-
+sional frequency of theshaft assembly.
+• Subsynchronous resonance (SSR),
+caused by the control system of high-voltage direct
+current (HVDC) system, such that the converter has an 
+impact on the electrical damping of the connected 
+synchronous generator system.• Subsynchronous control interaction (SSCI),   
+caused by grid power converter control systems or other 
+control elements, such as power system stabilizers.  
+The overall system damping can also become negative.T
+he solution
+You can mitigate the potential for damaging vibration 
+problems with the help of the Omnivise CM500  solution
+as a part of SSR-Monitoring System , a dedicated condition 
+monitoring system focused on torsional vibration analysis. 
+Vibration monitoring is a proven strategy for early identifi-
+cation of potential emerging problems. Maintenance 
+measures can be planned in time, unplanned shutdowns
+can be avoided, repair shutdowns can be shortened, so that 
+asset availability can be increased.
+The Omnivise CM500  solution is designed to perform 
+continuous monitoring, archiving of data and analysis of 
+plant machinery, while monitoring for excessive vibration 
+that is trending towards plant pre-set limits. It also allows 
+interactive and simultaneous data displays to help assess 
+machine health.
+The system consists of touchless torque sensors applied 
+along the shaft line and a data acquisition system. In this 
+setup, monitoring features are available only.
+© 202 5, Siemens Energy Page 2Vibration monitoring in synchronous condensers
+Published by
+Siemens Energy Global GmbH & Co. KG
+Siemenspromenade 9
+91058 Erlangen, Germany
+For more information, please visit our website: 
+siemens-energy.com/diagnostic-monitoring-protection
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described,
+or which may undergo modification in the course of further development of the products.
+The requested performance features are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could 
+violate the rights of the owners.In the data acquisition system, the measuring signals are 
+filtered for defined frequency bands corresponding to the 
+torsional natural frequencies using band pass filters. For 
+each frequency band, the determined amplitude trend value 
+is transferred to the distributed control system (DCS) to be 
+available on the HMI. Optionally, protection via the control 
+system can be realized.
+Among others, the vibration analysis system has the 
+following analysis features:
+• Trends
+• Time wave form
+• FFT (Fast Fourier Transformation)
+• Spectrum cascade
+• Transient recorder (high resolution vibration data)
+If vibrations are elevated a high-resolution data logging is 
+initiated. The vibration monitoring system allows an offline 
+analysis of the shaft torsional vibrations in case elevated 
+vibrations have been detected.  This allows a more de -
+tailed analysis of the shaft vibration evaluating SSR, 
+SSTI or any other torsional event.
+In the control system actual data values are shown and 
+trends can be also shown. The data are monitored for the 
+transgression of warning and alarm values and in such a 
+case, comments on annunciation are shown.
+Optionally, units can be tripped automatically in case alarm /  
+trip values are exceeded. Within the VIB3000 system, the 
+VIB330 analysis module, forms the interface between 
+machinery protection and diagnostic monitoring. The 
+analysis of the data obtained from the monitored machin -
+ery is based on previously configured algorithms.Your benefits
+Condition monitoring of synchronous condensers  can: 
+• Detect previously unidentified external
+excitations
+• Enable data-driven component inspections
+based on vibration history (i.e. torsional)
+• Evaluate rotor lifetime impact  in cooperation 
+with component suppliers through vibration data
+analysis
+• Provide insights  into grid-induced shaft excitations 
+• Support informed maintenance planning and
+decision-making  for transmission system operators 
+through detailed event analysisTransformer Flywheel Synchronous condenserBe
+aring vibrationP
+hase reference 
+signal (Keyphasor)Shaft 
+vibrationHigh frequency analog 
+signals: AC-Signals
+Analog-to-digital signal conversion
+using  VIB321 Processing ModuleCalcu
+lation of characteristic values
+using VIB330 analysis module ArchiveOmnivise VIB3000 
+machinery analysisT
+ools for vibration analysis
+Data archiving and visualization throughOmnivise CM500 condition 
+monitoring software
+Condition   monitoring  in synchronous  condensers –  vibrations  measurement

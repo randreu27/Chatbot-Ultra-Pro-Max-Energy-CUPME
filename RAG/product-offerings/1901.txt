@@ -1,0 +1,95 @@
+Schluchseewerk AG
+Erhöhte Sicherheit und Verfügbarkeit 
+dank Condition Monitoring System
+siemens -energy.com/cm500
+▪Erhöhte Verfügbarkeit durch 
+die Installation eines 
+Systems, das zuverlässig ist 
+und moderne Technologien 
+einsetzt 
+▪Erhöhte Flexibilität durch 
+eine Plattform für die 
+Steuerung und Bedienung 
+mehrerer Komponenten 
+▪Modularer Aufbau, 
+kundenfreundliches HandlingIhre Vorteile
+Siemens Energy is a trademark licensed by Siemens AG @ Siemens Energy, 2021Das Kraftwerk
+Die Schluchseewerk AG ist einer der größten Betreiber von Pumpspeicherkraftwerken. Mit Sitz im Südschwarzwald in Baden -
+Württemberg, Deutschland, erbringt sie seit 1928 wichtige Netzdienstleistungen zur Stabilisierung des Stromnetzes und Sicheru ng 
+einer zuverlässigen Energieversorgung.
+DieAufgabe
+Die Schluchseewerk AG baut und betreibt 
+seit ihrer Gründung Pumpspeicher -und 
+Wasserkraftwerke im Südschwarzwald. Sie 
+vereint Kompetenzen, um Strom in 
+Sekundenschnelle dorthin zu liefern, wo er 
+gebraucht wird, überschüssigen Strom zu 
+speichern und kollabierte Stromnetze wieder 
+aufzubauen. Um einen hohen Qualitäts -
+standard zu halten, entschied sich die 
+Schluchseewerk AG zur Anpassung ihrer 
+Hardware mit dem modernen 
+Schwingungsüberwachungs -System 
+VIB3000. 
+Die Lösung
+Die Schluchseewerk AG hat insgesamt fünf 
+Standorte. An jedem Standort werden vier 
+Maschinensätze (Turbine, Generator und 
+Speicherpumpe) betrieben, die durch ein 
+VIB3000 -System geschützt sind. Um den täglichen Betrieb weiterhin auf 
+Basis modernster Technologie zu 
+gewährleisten, entschied sie sich, das 
+bisherige Hardwaresystem zu ersetzen. 
+Das Hauptziel des VIB3000 -Diagnosesystems 
+ist es, Sicherheits -und Verfügbarkeitsziele 
+ohne Kompromisse zu erfüllen, indem es die 
+Maschinen und die Umwelt vor den Folgen 
+eines Maschinenausfalls schützt. Die 
+Hardware -Komponenten eines VIB3000 -
+Schwingungsdiagnose -Systems sind 
+modular aufgebaut. 
+Bei der „diagnostischen Überwachung“ 
+führen erkannte Grenzwertverletzungen zu 
+einer ereignisgesteuerten Datenspeicherung 
+sowie zu einer entsprechenden Statusproto -
+kollierung . Diese Daten bilden die Grundlage 
+der schwingungsdiagnostischen Überwach -
+ung und der sich daran anschließenden 
+Analyse mit der  Diagnosesoftware CM500. 
+Diese erkennt ein abnormales Maschinen -
+verhalten zum frühestmöglichen Zeitpunkt 
+und ermöglicht eine optimierte 
+Wartungsplanung. 
+Kraftwerk Wehr , Generator (4 x 300 MVA)
+Seit vielen Jahren ist die VIB3000 bei der Schluchseewerk AG als zuverlässiges 
+Schwingungsdiagnose -System im Einsatz. Die Software CM500 erlaubt uns eine 
+effektive, anwenderfreundliche Schwingungsdiagnose unserer Maschinensätze. 
+Die Schwingungskennwerte können flexibel in beliebigen Zeitspannen betrachtet und 
+mit den charakteristischen Betriebsarten der  Pumpspeichersätze in Abhängigkeit zu 
+verschiedensten Prozessgrößen korreliert werden. 
+Roland Sinsig, Maschinenbauingenieur, Asset Management, Schluchseewerk AG
+Kraftwerk Säckingen , Generator (4 x 118 MVA)Sie liefert Informationen über mögliche mechanische Ursachen 
+für Probleme bezüglich des Anlagenzustands. Der Wunsch 
+unseres Kunden war es, die integrierte Hardware zu moder -
+nisieren und veraltete Bauteile durch neue zu ersetzen.Die Schwingungsdiagnose von allen Maschinensätzen wurde 
+durch zentrale Visualisierungs -PCs realisiert.
+““
+Herausgeber
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn -Ring 6
+81739 München
+Fürweitere Informationen kontaktieren Sie bitte
+Email: diagnostic -services.energy@siemens -energy.com
+© Siemens Energy, 2021
+Siemens Energy is a trademark licensed by Siemens AG.
+Änderungen und Irrtümer vorbehalten. Die Informationen in diesem 
+Dokument enthalten lediglich allgemeine Beschreibungen bzw. 
+Leistungsmerkmale, welche im konkreten Anwendungsfall nicht 
+immer in der beschriebenen Form zutreffen bzw. welche sich durch 
+Weiterentwicklung der Produkte ändern können. Die gewünschten 
+Leistungsmerkmale sind nur dann verbindlich, wenn sie bei 
+Vertragsschluss ausdrücklich vereinbart werden.
+Alle Erzeugnisbezeichnungen können Marken oder Erzeugnisnamen
+der Siemens Energy Global GmbH & Co. KG oder anderer 
+Unternehmen sein, deren Benutzung durch Dritte für deren Zwecke 
+die Rechte der Inhaber verletzen kann.

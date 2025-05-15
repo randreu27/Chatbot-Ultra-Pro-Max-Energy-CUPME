@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siemens Energy Assistant</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Google Fonts - Open Sans -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="static/style.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'siemens-primary': '#009999',
+                        'siemens-secondary': '#004040',
+                        'siemens-light': '#e6ffff',
+                        'siemens-dark': '#003333',
+                        'siemens-accent': '#00aaaa'
+                    },
+                    fontFamily: {
+                        'sans': ['Open Sans', 'Segoe UI', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gradient-to-br from-gray-50 to-gray-200 flex justify-center items-center min-h-screen p-4">
+
+    <div class="bg-white rounded-xl shadow-2xl w-full max-w-5xl flex flex-col h-[90vh] overflow-hidden">
+        <!-- Header -->
+        <div class="header-container bg-gradient-to-r from-siemens-primary to-siemens-secondary p-5 rounded-t-xl flex items-center justify-between relative">
+            <div class="header-pattern"></div>
+            <div class="flex items-center z-10">
+                <!-- Siemens Energy Logo -->
+                <svg class="w-10 h-10 mr-3" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="45" fill="white"/>
+                    <path d="M30 35H70V40H30V35Z" fill="#009999"/>
+                    <path d="M30 45H70V50H30V45Z" fill="#009999"/>
+                    <path d="M30 55H70V60H30V55Z" fill="#009999"/>
+                    <path d="M30 65H50V70H30V65Z" fill="#009999"/>
+                </svg>
+                <div>
+                    <h1 class="text-2xl font-bold text-white header-title">Siemens Energy Assistant</h1>
+                    <div class="value-badges flex mt-1 overflow-x-auto">
+                        <span class="value-badge"><i class="fas fa-leaf mr-1"></i>Sustainability</span>
+                        <span class="value-badge"><i class="fas fa-lightbulb mr-1"></i>Innovation</span>
+                        <span class="value-badge"><i class="fas fa-globe-americas mr-1"></i>Global Impact</span>
+                        <span class="value-badge"><i class="fas fa-handshake mr-1"></i>Partnership</span>
+                    </div>
+                </div>
+            </div>
+            <div class="flex items-center z-10">
+                <button id="accessibilityButton" class="text-white mr-3 bg-white bg-opacity-20 p-2 rounded-full hover:bg-opacity-30 transition-all">
+                    <i class="fas fa-universal-access"></i>
+                </button>
+                <div class="text-white text-sm flex items-center">
+                    <i class="fas fa-circle text-green-400 mr-1"></i> Online
+                </div>
+            </div>
+        </div>
+
+        <!-- Accessibility Panel (initially hidden) -->
+        <div id="accessibilityPanel" class="accessibility-panel hidden bg-gray-50 p-3 border-b border-gray-200">
+            <div class="flex justify-between items-center">
+                <h3 class="font-medium text-gray-700">Accessibility Options</h3>
+                <button id="closeAccessibilityPanel" class="text-gray-500 hover:text-gray-700">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="mt-2 flex items-center justify-start">
+                <div class="mr-4 flex items-center">
+                    <label class="toggle-switch mr-2">
+                        <input type="checkbox" id="ttsToggle">
+                        <span class="toggle-slider"></span>
+                    </label>
+                    <span class="text-sm text-gray-700">Text-to-Speech</span>
+                </div>
+                <div class="mr-4 flex items-center">
+                    <label class="toggle-switch mr-2">
+                        <input type="checkbox" id="highContrastToggle">
+                        <span class="toggle-slider"></span>
+                    </label>
+                    <span class="text-sm text-gray-700">High Contrast</span>
+                </div>
+                <div class="text-sm ml-auto">
+                    <button id="increaseFontBtn" class="bg-gray-200 hover:bg-gray-300 px-2 py-1 rounded-l-md">
+                        <i class="fas fa-text-height"></i>+
+                    </button>
+                    <button id="decreaseFontBtn" class="bg-gray-200 hover:bg-gray-300 px-2 py-1 rounded-r-md">
+                        <i class="fas fa-text-height"></i>-
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Container -->
+        <div id="chatbox" class="flex-grow overflow-y-auto p-6 space-y-6">
+            <!-- Welcome message -->
+            <div class="flex flex-col items-start message-container">
+                <div class="flex items-start">
+                    <div class="rounded-full bg-siemens-light p-2 mr-3 shadow-md">
+                        <i class="fas fa-robot text-siemens-primary"></i>
+                    </div>
+                    <div class="bg-siemens-light p-4 rounded-2xl rounded-tl-none max-w-[75%] shadow-md">
+                        <p class="text-gray-800 message-text">Hello, I'm the Siemens Energy Assistant. I'm here to help you with information about our sustainable energy solutions, services, and innovations. You can type or use voice input to ask me questions. How can I assist you today?</p>
+                    </div>
+                </div>
+                <!-- <p class="text-xs text-gray-500 ml-14 mt-1">09:00 AM</p> -->
+            </div>
+            <!-- Chat messages will appear here -->
+        </div>
+
+        <!-- Input Container -->
+        <div class="border-t border-gray-200 p-4 bg-white">
+            <div class="flex justify-between">
+                <div class="flex-grow input-container flex items-center bg-gray-100 rounded-xl shadow-inner">
+                    <button id="attachmentButton" class="text-gray-500 hover:text-siemens-primary p-3 transition-colors">
+                        <i class="fas fa-paperclip"></i>
+                    </button>
+                    <input type="text" id="inputMessage" class="p-3 bg-transparent flex-grow focus:outline-none" placeholder="Type your message here...">
+                    <button id="voiceInputButton" class="text-gray-500 hover:text-siemens-primary p-3 transition-colors relative">
+                        <i class="fas fa-microphone"></i>
+                        <span id="voiceStatus" class="absolute -top-1 -right-1 h-3 w-3 rounded-full hidden"></span>
+                    </button>
+                    <button id="sendButton" class="bg-siemens-primary hover:bg-siemens-secondary text-white px-6 py-2 m-1 rounded-lg transition-colors flex items-center shadow-md">
+                        <span class="mr-2">Send</span>
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+                <button id="clearButton" class="ml-3 bg-gray-200 hover:bg-gray-300 p-3 rounded-xl transition-colors" title="Clear conversation">
+                    <i class="fas fa-trash-alt text-gray-600"></i>
+                </button>
+            </div>
+            <div class="flex justify-between mt-2 text-xs text-gray-500">
+                <!-- <div>
+                    <i class="fas fa-shield-alt mr-1"></i> Your conversation is confidential
+                </div> -->
+                <div>
+                    <i class="fas fa-info-circle mr-1"></i> Ask me about Siemens Energy products
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Voice input modal (initially hidden) -->
+    <div id="voiceModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white rounded-xl shadow-2xl w-full max-w-sm p-6 text-center">
+            <div class="mb-4">
+                <div id="voiceAnimation" class="voice-animation mx-auto">
+                    <div class="voice-wave"></div>
+                    <div class="voice-wave"></div>
+                    <div class="voice-wave"></div>
+                    <div class="voice-wave"></div>
+                    <div class="voice-wave"></div>
+                </div>
+            </div>
+            <h3 class="text-xl font-semibold text-siemens-secondary mb-3">Voice Input</h3>
+            <p id="voicePrompt" class="text-gray-600 mb-4">Press Start to begin speaking</p>
+            <div class="flex justify-center gap-3">
+                <button id="startVoiceBtn" class="bg-siemens-primary text-white px-6 py-2 rounded-lg transition-colors shadow-md hover:bg-siemens-secondary">
+                    <i class="fas fa-microphone mr-2"></i>Start
+                </button>
+                <button id="stopVoiceBtn" class="bg-gray-200 text-gray-700 px-6 py-2 rounded-lg transition-colors shadow-md hover:bg-gray-300 hidden">
+                    <i class="fas fa-stop mr-2"></i>Stop
+                </button>
+                <button id="cancelVoiceBtn" class="bg-gray-200 text-gray-700 px-6 py-2 rounded-lg transition-colors shadow-md hover:bg-gray-300">
+                    <i class="fas fa-times mr-2"></i>Cancel
+                </button>
+            </div>
+            <p id="voiceResult" class="mt-4 text-gray-700 italic hidden"></p>
+        </div>
+    </div>
+
+    <script src="static/app.js"></script>
+    <script>
+        // Handle accessibility panel toggle
+        document.getElementById('accessibilityButton').addEventListener('click', function() {
+            document.getElementById('accessibilityPanel').classList.toggle('hidden');
+        });
+        
+        document.getElementById('closeAccessibilityPanel').addEventListener('click', function() {
+            document.getElementById('accessibilityPanel').classList.add('hidden');
+        });
+        
+        // Font size adjustment
+        let currentFontSize = 1; // rem
+        document.getElementById('increaseFontBtn').addEventListener('click', function() {
+            if (currentFontSize < 1.5) {
+                currentFontSize += 0.1;
+                document.querySelectorAll('.message-text').forEach(el => {
+                    el.style.fontSize = currentFontSize + 'rem';
+                });
+            }
+        });
+        
+        document.getElementById('decreaseFontBtn').addEventListener('click', function() {
+            if (currentFontSize > 0.8) {
+                currentFontSize -= 0.1;
+                document.querySelectorAll('.message-text').forEach(el => {
+                    el.style.fontSize = currentFontSize + 'rem';
+                });
+            }
+        });
+        
+        // High contrast toggle
+        document.getElementById('highContrastToggle').addEventListener('change', function() {
+            if (this.checked) {
+                document.body.classList.add('high-contrast');
+                document.querySelectorAll('.bg-siemens-light').forEach(el => {
+                    el.style.backgroundColor = '#FFFFFF';
+                });
+                document.querySelectorAll('.text-gray-800').forEach(el => {
+                    el.style.color = '#000000';
+                });
+            } else {
+                document.body.classList.remove('high-contrast');
+                document.querySelectorAll('.bg-siemens-light').forEach(el => {
+                    el.style.backgroundColor = '';
+                });
+                document.querySelectorAll('.text-gray-800').forEach(el => {
+                    el.style.color = '';
+                });
+            }
+        });
+    </script>
+</body>
+</html>

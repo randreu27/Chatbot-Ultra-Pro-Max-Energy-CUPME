@@ -1,0 +1,397 @@
+Unrestricted © Siemens Energy, 2022 Siemens Energy is a trademark licensed by Siemens AG.
+SE GS C CD
+Electrical Services
+Controls & Digitalization
+Service Portfolio Overview
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20222
+Service Controls and Digitalization -Electrical
+Interlinked services combined to one big benefit
+Performance 
+Enhancement
+& Lifecycle ServicesCorrective Services
+Preventive ServicesTraining & 
+Consulting
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20223
+Service Controls and Digitalization -Electrical
+Overview 
+Corrective Services Preventive Services Performance Enhancement 
+& Lifecycle ServicesTraining & Consulting
+•REC Hotline -Electrical 
+•Remote Support for Engineering 
+and Maintenance
+•On-Site Troubleshooting•Remote inspection
+•On-Site inspection•SW/FW Updates
+•SW Patching
+•Spare part advisor
+•PSS analyses and tests
+•Remote connectivity setup•Classroom Trainings
+•Virtual Classroom Trainings
+•Video & VR/AR Trainings
+Customer Energy Portal and Call Desk
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20224Customer Energy Portal
+Our Solution
+•The web -based Customer Energy Portal offers views* to:
+•plant -specific services (e.g., Ticket Tracking, Malware Prevention Pattern)
+•reports and downloads regarding their DCS and electrical system (depending on 
+contracted service packages)
+•I&C Monitors and Advisors
+•Configurable e -mail alert function
+Your Benefits
+•One stop shop solution
+•Always up -to-date
+•Accessible anytime, anywhere
+https://cep.siemens -energy.com/cep
+* some Services only available if booked
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20225
+Service Controls and Digitalization
+Overview 
+Corrective Services Preventive Services Performance Enhancement 
+& Lifecycle ServicesTraining & Consulting
+•REC Hotline -Electrical 
+•Remote Support for Engineering 
+and Maintenance
+•On-Site Troubleshooting•Remote inspection
+•On-Site inspection•SW/FW Updates
+•SW Patching
+•Spare part advisor
+•PSS analyses and tests
+•Remote connectivity setup•Classroom Trainings
+•Virtual Classroom Trainings
+•Video & VR/AR Trainings
+Customer Energy Portal and Call Desk
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20226REC Hotline -Electrical
+Our Solution
+•Call Desk & access to Customer Energy Portal 
+•Electrical Experts are available in a defined reaction & commencement time (2h / 
+next business day)
+Your Benefits
+•Fast support by system experts 
+•Minimize unplanned outage times 
+•Contributes to improved power plant availability 
+Service available for:
+•SEMIPOL®D3 / D4
+•THYRIPOL®6RV80 /S
+•RG3 S7 /S
+•SIPROTEC®
+•DIGUREG
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20227Remote Support for Engineering and 
+Maintenance (Helpline)
+Our Solution
+•Provide a fixed number of hours to be used on demand
+•Dedicated expert know -how for services in area of specific system or component 
+failures
+Your Benefits
+•Minimize effort to manage “micro” orders for small tasks
+•Unique expert know -how only when needed
+•Access to specific expert
+Service available for:
+•SEMIPOL®D3 / D4
+•THYRIPOL®6RV80 /S
+•RG3-S
+•SIPROTEC®
+•DIGUREG
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20228On-Site Troubleshooting
+Our Solution
+•Weprovide a rapid corrective maintenance response to support orconduct
+troubleshooting activities onsite . 
+•Dedicated expert know -how for services in area of specific system or component 
+failures
+Your Benefits
+•Shorten unplanned downtime due to fast onsite support.
+•Restore plant availability and reliability after unplanned outage.
+Service available for*:
+•SEMIPOL®D3 / D4
+•THYRIPOL®SIMADYN /T400 & S7 / 6RV80 /S
+•RG3 T4 / DF /S7 /S
+•SIPROTEC®
+•DIGUREG
+*for obsolete systems depending on availability of experts
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 20229
+Service Controls and Digitalization
+Overview 
+Corrective Services Preventive Services Performance Enhancement 
+& Lifecycle ServicesTraining & Consulting
+•REC Hotline -Electrical 
+•Remote Support for Engineering 
+and Maintenance
+•On-Site Troubleshooting•Remote inspection
+•On-Site inspection•SW/FW Updates
+•SW Patching
+•Spare part advisor
+•PSS analyses and tests
+•Remote connectivity setup•Classroom Trainings
+•Virtual Classroom Trainings
+•Video & VR/AR Trainings
+Customer Energy Portal and Call Desk
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202210Our Solution:
+•on-site or remote -guided electrical inspection of the static 
+excitation equipment (SEE) and the static frequency 
+converter (SFC) based on OEM‘s maintenance manual
+•visual inspection, fact finding and remote guided 
+troubleshooting if necessary
+•exchange of consumables and wear parts
+•checklist and Service Report document the performed 
+maintenance including open items and recommendations
+Your Benefit:
+•avoid unplanned shutdowns due to SEE/SFC problems
+•increase reliability and availability of the plant
+Service available for:
+•SEMIPOL®D3 / D4
+•THYRIPOL®6RV80 /S
+•RG3Electrical Inspection: SEE/SFC
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202211Our Solution:
+•on-site or remote -guided electrical inspection of generator 
+protection system ( Gprot➔Siprotec ) and synchronization 
+device (Sync) based on OEM‘s maintenance manual
+•visual inspection, fact finding and remote guided 
+troubleshooting if necessary
+•exchange of consumables and wear parts
+•checklist and Service Report document the performed 
+maintenance including open items and recommendations
+Your Benefit:
+•avoid unplanned shutdowns due to Gprot / Sync problems
+•increase reliability and availability of the plant
+Service available for:
+•SIPROTEC®3 / 4 / 5
+•DIGSIElectrical Inspection: Protection 
+systems
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202212
+Remote Services –
+Remote Inspections
+Remote Inspections of SEE/SFC 
+and Protection Systems
+•Fast fault analysis from remote by 
+downloading of fault Records and Trip 
+logs
+•Parameter adjustments by the expert 
+out from the office if necessary
+•Monitoring of Generator Values from 
+Remote (e.g. Rotor Winding Resistance 
+to Earth with REF protection, Stator 
+Resistance to Earth with 100% SEF)
+•Remote commissioning support
+Available for
+•Thyripol 6RV80, S
+•Semipol D4
+•Siprotec 4 and 5Router Internet Router
+Common
+Remote 
+Service 
+PlatformAccess 
+Services
+DMZ
+Terminal
+Server for 
+I&C
+Siemens Energy 
+Electrical 
+Service
+SEMIPOL D4
+SIPROTEC 4, 5 
+DIGSI 
+DCS System
+THYRIPOL
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202213
+Service Controls and Digitalization
+Overview 
+Corrective Services Preventive Services Performance Enhancement 
+& Lifecycle ServicesTraining & Consulting
+•REC Hotline -Electrical 
+•Remote Support for Engineering 
+and Maintenance
+•On-Site Troubleshooting•Remote inspection
+•On-Site inspection•SW/FW Updates
+•SW Patching
+•Spare part advisor
+•PSS analyses and tests
+•Remote connectivity setup•Classroom Trainings
+•Virtual Classroom Trainings
+•Video & VR/AR Trainings
+Customer Energy Portal and Call Desk
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202214SW Patching / FW Upgrades
+Our Solution
+•Update of the firmware of SEE/ SFC control to the latest possible 
+version
+•After the update testing / recommissioning is mandatory
+Your Benefits
+•The firmware updates provide more efficiency and security to the 
+existing firmware software
+•It eliminates bugs and adds more functionality (sometimes)
+•Ensure ongoing reliability of electric generation and distribution 
+systems
+Service available for SPPA -E3000 units equipped 
+with:
+•THYRIPOL 6RV80
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202215Spare parts advisor
+Our Solution
+Your Benefits
+•Inventory of the customer ´s spare parts stock based on 
+the recommended spare parts list of the OEM
+•Advice for refilling the stock and/ or obsolete spare parts
+•Bundle spare parts packages
+•Keep spare parts stock complete and up -to-date
+•Quick replacement of hardware in case of unplanned 
+shutdowns
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202216PSS Analyses and Tests
+Our Solution
+Clearing, consulting, project management and executing PSS 
+service requests
+Assessment phase : 
+•Clarification of PSS scope ( eg.test, study and/ or tuning)
+•Evaluation of installed equipment and existing data
+•Definition of boundary conditions for modeling   
+Execution phase : 
+•Coordination and execution of electrical tests on site ( e.g.PSS,
+•AVR, Quad Axis …)
+•Model validation incl. reporting
+•Elaboration of PSS studies
+•PSS tuning
+Your Benefits
+•Optimized Frequency stabilization according to net requirements
+•Data Input for customer simulator
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202217Remote connectivity set -upOur Solution
+Siemens Energy Remote Services use the Common Remote 
+Service Platform ( cRSP ), that is compatible with general industrial 
+security concepts and certified to ISO27001 . 
+cRSP provides efficient and secure separation of the customer's 
+network from external networks, state -of-the-art monitored 
+communications, and monitoring and regular patching of all 
+software and firmware components.
+Your Benefits
+•Increased reliability and availability of your equipment
+•Quick and cost -efficient Preventive & Corrective Maintenance 
+( Remote Inspections, Remote Troubleshooting by the 
+appropriate expert)
+Service available for SPPA -E3000 units equipped 
+with:
+•THYRIPOL 6RV80, S
+•RG3-S
+•Semipol D4
+•Siprotec
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202218
+Service Controls and Digitalization
+Overview 
+Corrective Services Preventive Services Performance Enhancement 
+& Lifecycle ServicesTraining & Consulting
+•REC Hotline -Electrical 
+•Remote Support for Engineering 
+and Maintenance
+•On-Site Troubleshooting•Remote inspection
+•On-Site inspection•SW/FW Updates
+•SW Patching
+•Spare part advisor
+•PSS analyses and tests
+•Remote connectivity setup
+Customer Energy Portal and Call Desk•Classroom Trainings
+•Virtual Classroom Trainings
+•Video & VR/AR Trainings
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202219Power Academy
+Our Solution
+Real electrical training systems with simulations of typical SPPA 
+E3000 plant behavior for Operation & Maintenance.
+•Excitation systems
+•Unit protection systems
+•Electrical switchgear systems
+Your Benefits
+•Increase of training efficiency, flexibility and intensity
+•Safe, low -risk and cost -saving training environment
+•Adaptation to specific plant and customer training requirements
+•Can be combined with a service contract offerElectrical Classroom Training
+•Standard open -enrolment and special exclusive training courses 
+are available at our training center Erlangen. A fully equipped 
+electrical laboratory with various excitations systems, protection 
+equipment and electrical switch gears is suitable to host up to 8 
+students for hands -on practical training.
+•https://power -academy.siemens -energy.com/
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202220Power Academy
+Our Solution
+Real electrical training systems on remote equipment platforms 
+with simulations of typical SPPA E3000 plant behavior for 
+Operation & Maintenance.
+•Excitation systems
+•Unit protection systems
+•Electrical switchgear systems 
+Your Benefits
+•Increase of training efficiency, flexibility and intensity
+•Safe, low -risk and cost -saving training environment
+•Adaptation to specific plant and customer training requirements
+•Can be combined with a service contract offerElectrical Virtual Classroom Training
+•Standard open -enrolment and special exclusive training courses 
+are available in Virtual Classrooms. Electrical systems like various 
+excitations systems, protection equipment and electrical 
+switchgears are accessible remotely for practical hands -on training 
+for up to 8 students simultaneously.
+•https://power -academy.siemens -energy.com/
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202221Power Academy
+Our Solution
+•Electrical training system created in Virtual Reality with 
+deterministical simulations of real SPPA E3000 plant behavior.
+•Typical SEE and SFC operation & maintenance exercises and 
+specific and hard to replicate maintenance scenarios
+•Training of daily corrective and predictive maintenance on a 
+virtual system (in game -based or guided mode)
+Your Benefits
+•Increase of training efficiency, flexibility and intensity
+•Safe, low -risk and cost -saving training environment
+•Adaptation to specific plant and customer training requirements
+•Can be combined with a service contract offerVideo & VR/AR Training
+•Stand -alone VR / AR Training setup loaded with SPPA -E3000 
+training scenarios and exercises for self learning of operations 
+and maintenance personas of a plant. Easy to time -management 
+and available all time and on -site.
+•https://power -academy.siemens -energy.com/
+
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202222Disclaimer
+© Siemens Energy, 2022
+Subject to changes and errors. The information given in this document only 
+contains general descriptions and/or performance features which may not always 
+specifically reflect those described, or which may undergo modification in the 
+course of further development of the products. The requested performance 
+features are binding only when they are expressly agreed upon in the concluded 
+contract. 
+All product designations may be trademarks or product names of Siemens 
+Energy Global GmbH & Co. KG or other companies whose use by third parties 
+for their own purposes could violate the rights of the owners.
+Controls & Digitalization Services
+Unrestricted © Siemens Energy, 202223
+Siemens Energy is a trademark licensed by Siemens AG.
+Contact
+Electrical Service
+Published by Siemens Energy
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn -Ring 6
+81739 Munich, Germany
+Siemens Energy, Inc.
+15375 Memorial Drive, Suite 700
+Houston, Texas 77079, USA
+For more information, please contact
+Email: sppa -e3000.energy@siemens -energy.com
+siemens -energy.com

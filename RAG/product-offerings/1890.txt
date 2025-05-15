@@ -1,0 +1,456 @@
+siemens-energy.com/vib3000
+VIB3000 Machinery
+Protection
+Whitepaper
+Whitepaper | VIB3000 Machinery Protection Meeting safety and availability targets without  
+compromise. Combining these conflicting  
+objectives into an advanced VIB3000 Machinery 
+Protection solution.
+A vibration-based VIB3000 Machinery Protection system is expected not only to protect 
+the operating personnel and the plant from the machine, but also to protect the machine  
+itself from damage. The avoidance of adverse effects on availability due to spurious trip -
+ping is a further requirement.  
+Up to now, it has only been possible to combine these two requirements to a limited extent. 
+When safety is paramount, a machine is always shut down prophylactically when infor -
+mation about the machine condition is incomplete, e.g. due to a fault in the monitoring 
+system. For this reason, it has been necessary to accept certain compromises in availability 
+in order to achieve greater safety for the personnel, the plant and the machine. 
+VIB3000 Machinery Protection solution has managed to meet all three requirements  
+simultaneously.
+© 2021 Siemens Energy Page 2
+Whitepaper | VIB3000 Machinery Protection Contents  
+ 
+01 System characteristics 4
+01.1 State-of-the-art  
+ instrumentation 4
+01.2 Fail-safety due to  
+ maximum fault tolerance 6
+01.3 Field device with  
+ integrated bus interface 9
+02 Summary 10
+© 2021 Siemens Energy Page 3
+Whitepaper | VIB3000 Machinery Protection VIB3000 Machinery Protection is a fully redundant and scalable 
+solution for the  monitoring of vibration, expansion, position 
+and various other operating parameters and is thus designed 
+to provide extremely high fault tolerance. The integration into 
+the I&C system is implemented via the PROFIBUS  
+DP or the MODBUS interface, thus ensuring complete opera-
+bility straight from the I&C. The data collected from field 
+devices, such as sensors, supplied to the I&C constitute the 
+basis for further decisions relating to operation of the moni -
+tored machine. Fig. 1 shows the structure, design and features 
+of the rack. These features are described in detail below. The analog values supplied by the sensors are digitized im-
+mediately during measured value acquisition, offering real-time 
+edge analytics. Both the dynamic (AC) and the static (DC) 
+components of the original signal are available in digital form 
+for further processing. Fig. 2 shows an example of the signal 
+flow. Both signal components are further processed in a dig-
+ital signal processor (DSP). In addition to signal adaptation 
+and digital filtering, characteristic values are produced which 
+can then be checked for compliance with specified limit values. 
+Fully digital data processing means that the regular alignment 
+procedures required in analog systems due to aging are no 
+longer necessary.
+Fig. 1 Design and features of the VIB3000 Machinery Protection systemReliable transmission  
+of results
+• Redundant PROFIBUS
+• Safety relay
+• Analog signals
+Reliable processing  
+of signal data
+• Derivation of overall  
+readings
+• Limit comparison
+• Logic gating
+• Self-monitoringReliable sensing  
+of signal data
+• Vibration
+• Pressure fluctuations
+• Expansion and positions
+• Speed/direction  
+of rotation
+• Differential pressure
+• Analog signalsMachinery monitoring
+Fig. 2 Design and features of the VIB3000 Machinery Protection system VIB30004 … 20 mA
+High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)Sensor
+Relay 1AmpliﬁerMeasuring
+chain OK?Monitoring
+(2 limits)High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)
+2oo3 Limit 1
+(Logic)
+Relay 22oo3 Limit 2
+(Logic)
+Any Vibration-
+and Pressure
+sensors
+Any process
+valuesVoltage
+adaptionIntegratorAnalogue /
+Digital
+conversion
+24 Bit
+102 kHz
+per channelVibration:
+RMS, Peak,
+Peak – Peak
+Smax, MaxXY
+GAP, Speed,
+Dir. of rotation,
+Harmonics,
+EccentricityMathematics
+e.g.
+MAX
+  x2 + y2Limit comparison
+4 limits
+exceed or go 
+below limitsLogic operation
+.AND.
+.OR.
+2 out of 3
+(2003)PROFIBUS
+MODBUS
+Relays
+0/4 … 20 mAAny Usage
+Filter: High-Pass, Low-Pass, KerbSystem boundary 
+Analogue signal processing Analogue signal output Digital signal processing (DSP)PROFIBUS / MODBUSAD converterDA converter
+  x2 + y2
+(Mathm.)
+4 … 20 mA
+High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)Sensor
+AmpliﬁerMeasuring
+chain OK?Monitoring
+(2 limits)High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)
+AD converterDA converter
+  x2 + y2
+(Mathm.)
+4 … 20 mA
+High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)Sensor
+AmpliﬁerMeasuring
+chain OK?Monitoring
+(2 limits)High-Pass
+(Filter)Low-Pass
+(Filter)RMS
+(Char. Value)∫
+(Integr.)
+AD converterDA converter
+  x2 + y2
+(Mathm.)1.1 State-of-the-art instrumentation
+Module 
+redundancy
+SPPA-T3000 visualizationMODBUSPROFUBUS /
+redundancy
+1. Standard Characterization
+© 2021 Siemens Energy Page 4
+Less har dware
+Less cabling
+Lower cos t
+Fewer faults+
+=
+Machiner y Prot ection combines
+the I/O level and t he mac hiner y
+protection sy stem
+Classical mac hiner y
+protection sy stemDecentr alized I /O level
+(signal con version t o
+PROFIBUS / MODBUS)
+Whitepaper | VIB3000 Machinery Protection The rack comprises the VIB310 monitoring module and the 
+VIB320/321 processing module. The processing modules  
+supply voltage and current to the connected instrumentation 
+chains and handle the acquisition and processing of the  
+measured signals. These signals are forwarded to the VIB310 
+monitoring module, which includes a central voting function 
+in addition to limit value monitoring.
+Communication with the higher-level automation system via 
+PROFIBUS DP/MODBUS also takes place from here (VIB310 
+module). The module can also provide analog and relay  
+outputs in addition to binary inputs. 
+A single processing module, VIB320/321, basically performs 
+all the measurement tasks thanks to loadable applications. 
+Even customer-specific applications can be developed on 
+request. The small number of module options also minimizes 
+the costs of spare parts management. 
+With the 24-bit resolution of the VIB320/321 processing  
+module instrumentation chains can be monitored faster and 
+more accurately for proper operation based on an evaluation 
+of the total signal comprising AC and DC components. In 
+addition to short circuit and cable break, overloading of the 
+instrumentation chain can be reliably detected. The excellent 
+resolution of the AD converter also means that measuring 
+range switchovers are not necessary. The system is capable 
+of immediately tracking widely fluctuating measured values 
+and overloading of the measuring electronics is excluded. 
+A sampling rate of 102.4 kHz per measuring channel permits 
+the acquisition of signals in the range 0 Hz to 50 kHz. This 
+makes it possible to monitor anything from simple parametersin accordance with DIN/ISO through to diagnostic characteristic 
+values which are a mandatory requirement for the effective 
+monitoring of gearboxes and rolling-contact bearings, for 
+example. The monitoring range is thus extended to include 
+all the machines in the power plant. 
+If monitoring is to be moved from the I&C to the field level or 
+if VIB3000 Machinery Protection is to be used as a standalone 
+solution, the existing programmable logic offers further  
+advantages.  
+All the limit value violations detected in the system can be 
+routed to voters, where they can be combined with other 
+events in VIB310. Logic operations, such as 2-out-of-3 opera-
+tions, can be created in Boolean algebra using these voters. 
+The result of the logic operation can be used to trigger other 
+actions, such as switching off the machine by means of safety 
+relays (onboard voting). 
+The automation layer of the I&C receives the characteristic 
+values calculated in the protection system and their statuses 
+directly in the form of PROFIBUS DP/MODBUS messages. No 
+additional modules are required for the integration of 
+VIB3000 Machinery Protection in the I&C. Less hardware is 
+required, not to mention fewer cables and subracks. This ulti-
+mately reduces the amount of effort required for installation 
+and commissioning, as well as the number of possible sources 
+of error (Fig. 3). 
+The amount of cabinet space required is also reduced due to 
+the high channel density (10 channels per processing module) 
+and the ability to install 6 processing modules in each 19 inch 
+rack.
+Fig. 3 Hardware structure
+© 2021 Siemens Energy Page 5
+Whitepaper | VIB3000 Machinery Protection VIB3000 Machinery Protection systems are frequently only 
+used for displaying measured values and for reporting abnormal 
+values when these occur. If the idea of safety is the prime 
+concern, however, machines are automatically shut down by 
+protection systems of this kind. 
+Even with redundantly configured conventional systems, 
+certainty about the machine condition is already compromised 
+when only one measuring channel fails, as there is no second 
+signal for evaluation which can confirm the correctness of 
+the measured values. And because no diagnostics are possible 
+from the I&C in classical protection systems, the fault in the 
+measuring circuit can only be found by means of local trouble-  
+shooting procedures (at the machine, in the control cabinet 
+or directly at the cabling). This is time-consuming and not 
+cost-effective. Now if the second measuring circuit is also 
+interrupted – due to a cable fault or failure of the acquisition 
+electronics – the I&C prophylactically shuts the machine down, 
+even if it is still fully operational. 
+These problems are largely avoided by the high fault-tolerance 
+capabilities of the new solution. This is achieved by insuring complete redundancy throughout the entire signal chain. The 
+effect of the redundant structure is explained below with 
+reference to Figs. 4-8. 
+Fig. 4 shows the four theoretically possible faults which can 
+affect machine availability in conventional systems (see left 
+side of Fig. 4): 
+• Failure of measuring channel 
+• Cable fault between classical protection system and 
+distributed I/O level  
+Note: Distributed I/O level: Module for converting analog 
+signals to PROFIBUS DP/MODBUS messages used in 
+classical VIB3000 Machinery Protection systems 
+• Failure of channel in distributed I/O level 
+• Failure of cable to I&C 
+The right side of Fig. 4 illustrates the principle of fault pre-
+vention in VIB3000 Machinery Protection. Figs. 5-8 describe 
+this principle of fault prevention in detail for each of the 
+possible failures.
+Fig. 4 The redundancy concept: Improving the system properties at the four potential weak points
+Failure of measuring channel
+If a fault occurs in a measuring channel of the protection 
+system, the entire measuring circuit fails. A safe and unam-
+biguous assessment of the machine condition is no longer 
+possible for this reason. A sensor signal can be connected to 
+two processing modules, i.e. in a redundant configuration. If 
+a fault occurs in one measuring channel, the sensor can be supplied via the second unfaulted processing module and the 
+sensor signal is forwarded to this processing module. Both 
+sensor signals are still available for processing, thus permitting 
+a correct and reliable assessment of the machine condition. 
+System diagnostic functions available from the I&C also permit 
+fast fault analysis detection.The VIB3000 approach: Improvement of system properties for the four weak points
+Classical System
+Faults that can occur
+in conventional systemsCable faultRedundant
+PROFIBUS / MODBUSPROFIBUS /
+MODBUS2x blue
+signals +
+2x green
+signals
+per line
+Operational
+DefectiveClassical
+conversion
+Classical
+protection
+Measurement
+signal4 … 20 mAEach signal via 2 converters
+= module redundancyDetect and evaluate
+Failure
+Cable fault
+FailureSiemens Energy Machinery Protection
+Measures for avoiding errors
+in Siemens Energy Machinery ProtectionDetect and evaluate
+2 signal paths per sensorPCB instead of wiring
+Signal ﬂow blue signal
+Signal ﬂow green signal1.2 Fail-safety due to maximum fault tolerance 
+© 2021 Siemens Energy Page 6
+Whitepaper | VIB3000 Machinery Protection Utmost safety plus highest availability with less wiring
+Classical System
+Faults causes the entire instrument loop to fail
+= only one signal left = “blind in one eye“2x blue signals +
+2x green signals
+per linePROFIBUS /
+MODBUS
+Operational
+DefectiveClassical
+conversion
+Classical
+protection
+Measurement
+signal4 … 20 mADetect and evaluateSiemens Energy Machinery Protection
+Both signals arrive at the
+evaluation unit despite the faultDetect and evaluate
+PCB instead of wiring Cable fault
+Signal ﬂow blue signal
+Signal ﬂow green signalUtmost safety plus highest availability with redundant measurement channels
+Classical System
+Faults causes the entire instrument loop to fail
+= only one signal left = “blind in one eye“2x blue signals +
+2x green signals
+per linePROFIBUS /
+MODBUS
+Operational
+DefectiveClassical
+conversion
+Classical
+protection
+Measurement
+signal4 … 20 mADetect and evaluate
+Failure of one
+signal channelSiemens Energy Machinery Protection
+Both signals arrive at the
+evaluation unit despite the faultDetect and evaluate
+2 signal paths per sensor
+Signal ﬂow blue signal
+Signal ﬂow green signal
+Fig. 5 Extra safety thanks to redundancy of measuring channels
+With classical systems, the entire measuring circuit also fails 
+when this fault occurs (left side of Fig. 6). With this new 
+solution, signals are routed via redundant printed conductors on the backplane. The fault described above is therefore  
+excluded from the new system. Cable fault between measuring channel and distributed I/O level 
+Fig. 6 Extra safety due to less wiring
+© 2021 Siemens Energy Page 7
+Whitepaper | VIB3000 Machinery Protection Utmost safety plus highest availability with redundant converter modules
+Classical System
+Faults causes the entire instrument loop to fail
+= only one signal left = “blind in one eye“2x blue signals +
+2x green signals
+per linePROFIBUS /
+MODBUS
+Operational
+DefectiveClassical
+conversion
+Classical
+protection
+Measurement
+signalDetect and evaluateSiemens Energy Machinery Protection
+Both signals arrive at the
+evaluation unit despite the faultDetect and evaluate
+Each signal via 2 converters
+= module redundancyFailure
+4 … 20 mA
+Signal ﬂow blue signal
+Signal ﬂow green signal
+Utmost safety plus highest availability with redundant PROFIBUS/MODBUS connection
+Classical System
+Faults causes the entire instrument loop to fail
+= only one signal left = “blind in one eye“PROFIBUS /
+MODBUS
+Operational
+DefectiveClassical
+conversion
+Classical
+protection
+Measurement
+signalDetect and evaluateSiemens Energy Machinery Protection
+Both signals arrive at the
+evaluation unit despite the faultDetect and evaluate
+Cable faultRedundant
+PROFIBUS / MODBUS
+4 … 20 mA
+Signal ﬂow blue signal
+Signal ﬂow green signalThe new solution also offers module redundancy for the 
+converter, which means that both signals can be processed 
+If a cable between the converter and the automation system 
+fails, the entire measuring circuit fails in classical systems. in both converters and remain available for evaluation in the 
+I&C even in the event of failure of a converter. 
+Therefore only one signal is available for evaluation (Fig. 8 
+on the left). Fault or failure of converter (distributed I/O level) or fault between converter and I&C due to failure of cable 
+Fig. 7 Extra safety thanks to redundant converter modules
+Fig. 8 Extra safety through redundant PROFIBUS DP/MODBUS connection
+© 2021 Siemens Energy Page 8
+Integration Conﬁguration DiagnosisOperator control
+and monitoring
+Process interfaceSPPA-T3000
+application serverSPPA-T3000
+automation server
+Machinery ProtectionEthernet
+PROFIBUS DP
+Whitepaper | VIB3000 Machinery Protection Thanks to its redundant PROFIBUS DP/MODBUS connections, 
+the new system also forwards both signals to the I&C’s auto-
+mation server (Fig. 8 on the left) in the event of failure of one bus. Its high fault-tolerance capabilities avoid prophylactic shut-
+downs of the machine due to deficient information, thus 
+contributing to an increase in availability. 
+Fig. 9 illustrates the architecture of the integration of VIB3000 
+Machinery Protection in Siemens Energy I&C systems SPPA-  
+T3000 and SIMATIC PCS 7 via PROFIBUS DP/MODBUS. This 
+integration means that all information and messages are 
+available in the I&C and are automatically archived. Parame-
+terization (configuration) and control of the protection system 
+is also possible directly from the I&C.System faults can be located and diagnosed from here as well. 
+This bus concept also permits the creation of distributed 
+systems by distributing main and auxiliary equipment units 
+to different vibration monitoring racks.1.3 Field device with integrated bus interface Advantages: Operation and fault analysis from the I&C Remote support
+Fig. 9  Integration into the I&C permits direct operation (example: SPPA-T3000 with PROFIBUS DP)
+© 2021 Siemens Energy Page 9
+Whitepaper | VIB3000 Machinery Protection So far, compromises in availability were always involved when 
+looking at vibration-based VIB3000 Machinery Protection  
+systems. In favor of achieving greater safety for the personnel, 
+plant and machine, prophylactic shutdowns had to be accept-
+ed. The fully redundant solution VIB3000 Machinery Protection 
+combines safety and availability for the first time. State-of-
+the-art measuring technology and a high level of fail-safety 
+due to maximum fault tolerance achieve not only safety for personnel and machine. It also reaches the higher level of 
+safety from spurious tripping and therefore increases avail-
+ability.
+VIB3000 Machinery Protection is a solution for every applica -
+tion: it is capable of complete integration into Siemens  
+Energy I&C, it can be easily connected to I&C systems from 
+other suppliers and it can also be used as a stand-alone system.2. Summary
+© 2021 Siemens Energy Page 10
+Published by and copyright © 2021
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6
+81739 Munich, Germany  
+siemens-energy.com/vib3000
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon in the concluded contract.
+All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. 
+KG or other companies whose use by third parties for their own purposes could violate the rights of 
+the owners.

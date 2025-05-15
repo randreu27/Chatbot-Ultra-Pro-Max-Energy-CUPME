@@ -1,0 +1,1545 @@
+ 
+Unrestricted  SALINAN TERKAWAL  Lorem ipsum l Veribus 
+dolorpro  
+ 
+ 
+ 
+ 
+ 
+DigiTRON f 
+Manual Pemasangan, Operasi dan 
+Penyelenggaraan  
+IOM-009 Rev 4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f Penyambung Tunggal  
+Arahan Perlindungan, Penyimpanan, Penghantaran, 
+Pembungkusan, Pengerahan dan Penyelenggaraan  
+siemens -energy.com  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  2 daripada 46 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f Penyambung Tunggal  
+Arahan Perlindungan, Penyimpanan, Penghantaran, 
+Pembungkusan, Pengerahan dan Penyelenggaraan  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  3 daripada 46 
+ 
+Unrestricted   
+  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  4 daripada 46 
+ 
+Unrestricted   
+Pendahuluan  
+Terima kasih kerana membeli produk Siemens Energy Subsea. Maklumat yang terkandung dalam 
+dokumen ini adalah gambaran keseluruhan termasuk perlindungan, penyimpanan, penghantaran, 
+pembungkusan, penggunaan dan penyelenggaraan untuk rangkaian produk penyambung 
+DigiTRONf.  
+PENTING  
+SILA BACA DENGAN TELITI SEBELUM PENGGUNAAN  
+SIMPAN SEBAGAI RUJUKAN MASA DEPAN  
+ 
+ 
+Ringkasan Semakan  
+Halaman ini merekodkan status semakan keseluruhan dokumen dan kebenaran dokumen untuk 
+dikeluarkan.  
+ 
+Sem
+akan  Disusun 
+oleh Tarikh  Diluluskan 
+oleh Tarikh 
+Keluaran  Halaman Terjejas/Catatan  
+      
+1 R Wyatt  06/11/2020  M. Tucker  06/11/2020  Keluaran pertama.  
+[Menggantikan IOM 10071599, yang kini 
+sudah tidak digunakan]  
+02 J.Pridmore  25/08/2021  M.Tucker  25/08/2021  Spesifikasi Penyambung dikemas kini 
+dengan jenis Sentuhan Fizikal dan Bilangan 
+cara.  
+Singkatan Tambahan ditambahkan pada 
+bahagian 4  
+Imej dikemas kini untuk menunjukkan reka 
+bentuk pemegang pengayuh terbaru.  
+Julat suhu penyimpanan alat Mate/De -mate 
+ditambah.  
+03 R Wyatt  27/06/2022  R Wyatt  27/07/2022  Bahagian yang terlibat  2.4   3.3.6   5.1   6.3.1   
+6.3.2.  Halaman muka depan dan belakang 
+Siemens Energy ditambah.  
+04 R Wyatt  17/03/2023  JP Smith  17/03/2023  Bahagian yang terlibat: 2.2, 6.1, 6.3, 7.5, 9.6, 9.8.1. 
+Maklumat ditambah atau diubah: had suhu untuk 
+penyimpanan 50°C suhu udara. Penyimpanan luar 
+peti kayu. Tolok jejari lentur dan perlindungan dari 
+tepi peti. Pemeriksaan terhadap kakisan, 
+kerosakan pada pengedap hadapan ditambah. 
+Pembersihan dengan IPA ditambah. 
+Kebolehlihatan pen unjuk bibir dari pandangan sisi.  
+ 
+  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  5 daripada 46 
+ 
+Unrestricted   
+Kandungan  
+ 
+1 PRODUK YANG DIRANGKUMI OLEH MANUAL INI  ................................ ...... 8 
+2 MAKLUMAT ASAS & RUJUKAN PANTAS  ................................ .....................  9 
+2.1 Gambaran keseluruhan produk  ................................ ..............................  9 
+2.2 Spesifikasi dan pensijilan produk  ................................ ........................  10 
+2.3 Maklumat perhubungan da n maklum balas  ................................ ........  11 
+2.4 Label peringatan produk  ................................ ................................ ....... 12 
+2.5 Penandaan produk  ................................ ................................ .................  13 
+2.6 Contoh produk  ................................ ................................ .......................  13 
+3 KESELAMATAN PRODUK  ................................ ................................ .............  16 
+3.1 Amaran berkaitan tindakan  ................................ ................................ ... 16 
+3.2 Penggunaan yang dimaksudkan  ................................ ..........................  16 
+3.3 Maklumat keselamatan am  ................................ ................................ ... 17 
+3.4 Dokumen berkaitan  ................................ ................................ ................  20 
+3.5 Kawalan bahan berbahaya kepada kesihatan (COSHH)  ....................  21 
+4 SINGKATAN  ................................ ................................ ................................ ... 22 
+5 SPESIFIKASI  ................................ ................................ ................................ .. 23 
+5.1 Spesifikasi Penyambung  ................................ ................................ ...... 23 
+6 MENYEDIAKAN PRODUK UNTUK KEGUNAAN A TAU PENYIMPANAN  ... 24 
+6.1 Perlindungan dan pembungkusan produk  ................................ ..........  24 
+6.2 Nyahpembungkusan  ................................ ................................ ..............  25 
+6.3 Penyimpanan, perlindungan dan akhir hayat  ................................ ..... 25 
+7 PEMASANGAN DAN PENGUMPULAN  ................................ .........................  28 
+7.1 Perlindungan Katodik  ................................ ................................ ............  28 
+7.2 Penyambung reseptacle ROV (kedap bebibir) bulkhead  ...................  28 
+7.3 Penyambung receptacle ROV dipasang bebibir patuh  ......................  29 
+7.4 Receptacle Parkir  ................................ ................................ ...................  30 
+7.5 Ujian penyambung  ................................ ................................ .................  31 
+8 MAKLUMAT PENGGUNA SEMASA OPERASI BIASA DAN KEADAAN 
+ROSAK  ................................ ................................ ................................ ....................  32 
+8.1 Isyarat yang boleh dilihat  ................................ ................................ ...... 32 
+8.2 Operasi normal dan rosak/berbahaya  ................................ .................  32 
+8.3 Penyelesaian masalah  ................................ ................................ ...........  32 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  6 daripada 46 
+ 
+Unrestricted   
+9 OPERASI DAN PENYELENGGARAAN PRODUK  ................................ ........  33 
+9.1 Amaran keselamatan  ................................ ................................ .............  33 
+9.2 Penyelenggaraan dan servis produk  ................................ ...................  33 
+9.3 Perlindungan produk; penutup dan penyambung gelung balik  ....... 33 
+9.4 ‘Live’ Mate / Demate  ................................ ................................ ...............  34 
+9.5 Penyingkiran pertumbuhan laut dan deposit berkapur  .....................  34 
+9.6 Pemeriksaan dan pembersihan produk penyambung  .......................  36 
+9.7 Periksa seb elum melakukan mate terhadap produk  ..........................  36 
+9.8 Penyambung ROV mating dan de -mating  ................................ ...........  36 
+9.9 Mating dan demating penyambung secara manual (tangan)  ............  39 
+10 KOMEN/MAKLUM BALAS PELANGGAN  ................................ .....................  45 
+ 
+Jadual  
+Table 1  Senarai manual Pemasangan, Operasi dan Penyelenggaraan lain yang 
+berkaitan dengan rangkaian produk DigiTRON  ................................ ................................ . 8 
+Table 2  Pengenalpastian rangkaian produk DigiTRONf  ................................ ..........  9 
+Table 3  Spesifikasi dan pensijilan produk DigiTRONf  ................................ ...........  10 
+Table 4  Maklumat perhubungan produk DigiTRON  ................................ ...............  11 
+Table 5  Penyelesaian masalah maklumat perhubungan produk  ..........................  32 
+ 
+Ilustrasi  
+Figure 1  Label peringatan produk  ................................ ................................ ............  12 
+Figure 2  Penandaan produk pada produk DigiTRONf  ................................ .............  13 
+Figure 3  Penyambung (kedap bebibir) dipasang bulk -head tipikal, dengan pilihan 
+penyambung mate - kering  ................................ ................................ ................................  13 
+Figure 4  Penyambung tipikal untuk penamatan hos  ................................ ...............  14 
+Figure 5  Penutup perlindungan dasar laut tipikal  ................................ ...................  14 
+Figure 6  Tempat simpan untuk palam flying PN: DFRV -FIX-00-Y-CD-00 ...............  15 
+Figure 7  Harness ujian tipikal  ................................ ................................ ...................  15 
+Figure 8  Pembungkusan yang boleh diterima untuk penghantaran  ......................  24 
+Figure 9  Pembungkusan dan penyimpanan yang tidak boleh diterima  .................  25 
+Figure 10  Penyambung receptacle bulkhead kedap  ................................ .................  29 
+Figure 11  Receptacle dipasang patuh ROV  ................................ ...............................  29 
+Figure 12  Pandangan keratan pemasangan patuh ROV untuk mengenal pasti 
+pemasangan dan bahagian  ................................ ................................ ...............................  30 
+Figure 13  Receptacle parkir tipikal  ................................ ................................ .............  30 
+Figure 14  Penutup Pengangkutan (kiri) dan Penutup Pelindung (kanan)  ................  33 
+Figure 15  Jet Air Dibenarkan  ................................ ................................ ......................  35 
+Figure 16  Tanda penjajaran dan petunjuk mating kedap bibir  ................................ . 38 
+Figur e 17  Alat Mate/De -Mate Manual, Nombor bahagian S1U10509147  ...................  41 
+Figure 18  Kedudukan pin pivot lenga n tuil Mate/demate  ................................ ..........  41 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  7 daripada 46 
+ 
+Unrestricted   
+Figure 19  Pasang palam ke alat Mate/Demate  ................................ ...........................  42 
+Figure 20  Pemasangan receptacle ke alat Mate/Demate  ................................ ...........  43 
+Figure 21  Operasi Mate  ................................ ................................ ...............................  43 
+Figure 22  Operasi Demate  ................................ ................................ ...........................  44 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  8 daripada 46 
+ 
+Unrestricted   
+1  PRODUK YANG DIRANGKUMI OLEH MANUAL INI  
+ Manual ini merangkumi maklumat tentang DigiTRON f (Gentian Optik) Penyambung Tunggal, 
+termasuk spesifikasi optik dan mekanikalnya. Ia juga memberikan perincian pemasangan rangkaian 
+penyambung DigiTRON f apabila dibekal kan sebagai penyambung longgar.  
+ 
+Manual Pemasangan, Operasi dan Penyelenggaraan untuk produk DigiTRON lain yang tidak 
+dirangkumi oleh dokumen ini boleh didapati di laman web Siemens Energy Subsea www.siemens -
+energy.com /cari Subsea, seperti berikut  
+No. 
+DOKUMEN.  PRODUK  
+IOM-001 Flying leads elektrik DigiTRON, Jumper dan Sensor Harness  
+IOM-002 Penyambung tunggal  elektrik DigiTRON  
+IOM-003 Usang, digantikan oleh IOM -002. 
+IOM-004 Tidak digunakan  
+IOM-005 Retrievable Electrical Distribution unit (REDU), generasi 2 
+IOM-006 Unit Agihan Elektrik Boleh Cabut (REDU), generasi pertama  
+IOM-007 Kotak si mpang nyahsambung jenis TC3A -107 dan Unit Pengagihan Elektrik 
+(EDU) yang serupa.  
+IOM-008 Gentian optik flying leads, Jumper dan Sensor Harnesses DigiTRON f 
+00003075  PT Dasar laut/Sensor TT  
+00007464  Sensor tekanan pembezaan SDP -6 / SDP -8 
+Table 1  Senarai manual Pemasangan, Operasi dan Penyelenggaraan lain yang berkaitan dengan 
+rangkaian produk DigiTRON  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  9 daripada 46 
+ 
+Unrestricted   
+2 MAKLUMAT ASAS & RUJUKAN PANTAS  
+2.1 Gambaran keseluruhan produk  
+Penyambung DigiTRONf yang dimaksudkan adalah untuk menyediakan hubungan komunikasi 
+gentian optik antara peralatan yang terendam di dalam air, cth. dasar laut.  
+Rangkaian penyambung DigiTRONf telah dibangunkan untuk komunikasi jangka panjang yang 
+boleh dipercayai dan aplikasi sistem kawalan kuasa voltan rendah yang berkaitan dengan 
+pemasangan di luar pe sisir. Kapasiti mating bawah air penyambung ini dicapai dengan 
+menggunakan sisipan elektrik yang dikompensasi tekanan menggunakan prinsip CE.  
+Contoh penyambung ditunjukkan dalam bahagian 2.6. 
+ 
+Produk DigiTRON f boleh dikenal pasti dengan maklumat yang terukir pada produk (rujuk Figure 2 ). 
+Punaran akan menyatakan rangkaian produk DigiTRON f, dan juga akan mempunyai nombor 
+bahagian produk.  
+Table 2  mengenal pasti bahagian nombor penyambung dalam rangkaian DigiTRONf.  
+ 
+Rangkaian 
+produk  Penerangan  Nombor bahagian tipikal  
+(terukir pada penyambung)  
+DigiTRON f Penyambung mate -
+basah gentian opt ik 
+12 hala  DFRV -….….  
+DFST -.…….  
+DFDV - ........  
+Table 2  Pengenalpastian rangkaian produk DigiTRONf  
+ 
+  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  10 daripada 
+46 
+ 
+Unrestricted   
+2.2 Spesifikasi dan pensijilan produk  
+Spesifikasi asas yang berkaitan dengan semua produk yang dirangkumi oleh manual ini adalah di 
+bawah di Table 3 . Spesifikasi tambahan boleh didapati d i bahagian 5. 
+Reka Bentuk Hayat:  30 tahun dalam persekitaran dasar laut  
+Prestasi Optik  
+1550nm dan 1625nm  Kehilangan sisipan         biasanya ≤0.2dB   [maks 0.5dB, 75% ≤0.4dB]  
+Kehilangan pulangan            biasanya ≥70dB    [min 45dB, 75% ≥55dB]  
+Tutur silang              ≤ -60dB  
+Nombor dinilai operasi  1000 (750 kering/250 basah) kitaran mate / de -mate  
+Kedalaman air  4,000 m (13,123 kaki)  
+Suhu Penyimpanan  -40°C +70°C ( -40°F +158°F) (had atas adalah suhu permukaan produk 
+dan termasuk penambahan solar daripada cahaya matahari terang)  
+Suhu udara ambien maksimum yang disyorkan +50°C (122°F).  
+Suhu operasi  Dasar Laut: -5°C +50°C (+23°F +122°F)  
+Di udara: -20°C +50°C ( -4°F +122°F)  
+  
+Pensijilan Produk:  
+Standard  Penerangan  
+API-17F  Standard untuk Sistem Kawalan Pengeluaran Subsea  
+Nota: Disahkan sendiri melalui ujian dalaman.  
+Table 3  Spesifikasi dan pensijilan produk DigiTRONf  
+  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  11 daripada 
+46 
+ 
+Unrestricted   
+2.3 Maklumat perhubungan dan maklum balas  
+Untuk maklumat lanjut atau pertanyaan tentang produk, sila layari laman web Siemens Energy 
+Subsea https://www.siemens -energy.com /cari Subsea atau  hubungi yang berikut:  
+Jabatan  Alamat e -mel 
+Pegawai Keselamatan Produk  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Sokongan Teknikal  connectortechnicalsupport.gb@siemens -energy.com  
+Perkhidmatan (Pasukan Tapak)  susultlcmsupport.gb@siemens -energy.com  
+Jualan  connectorsales.gb@siemens -energy.com  
+Table 4  Maklumat perhubungan produk DigiTRON  
+Sebarang maklumat, rekod atau maklum balas Kesihatan dan Keselamatan yang perlu diperincik an 
+boleh direkodkan dalam bahagian 10 dalam dokumen ini dan dihantar kepada jabatan yang 
+berkaitan dalam Table 4  
+ 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  12 daripada 
+46 
+ 
+Unrestricted   
+2.4 Label peringatan produk  
+Label peringatan produk berikut dibekalkan dengan semua produk dasar laut Siemens Energy.  
+ 
+ 
+Figure 1  Label peringatan produk  
+  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  13 daripada 
+46 
+ 
+Unrestricted   
+2.5 Penandaan produk  
+ 
+Figure 2  Penandaan produk pada produk DigiTRONf  
+ 
+Produk Siemens Energy Subsea DigiTRONf ditandakan dengan nombor bahagian Siemens Energy 
+dan nombor siri unik. Juga, penarafan suhu dan kedalaman air ditunjukkan. Lokasi penandaan 
+biasanya pada badan logam penyambung. Rujuk kepada Figure 2 . 
+2.6 Contoh produk  
+Figure 3  hingga Figure 7  menunjukkan konfigurasi produk biasa.  
+ 
+ 
+ 
+Figure 3  Penyambung (kedap bebibir) dipasang bulk -head tipikal, dengan pilihan penyambung 
+mate - kering  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  14 daripada 
+46 
+ 
+Unrestricted   
+ 
+Figure 3  menunjukkan bulkhead (kedap bebibir) receptacle. Contoh khusus ini ditunjukkan dengan 
+penyambung mate kering ditamatkan unit sambungan. Varian  produk lain tersedia dengan dan 
+tanpa unit splice, bergantung pada antara muka ke arah peralatan pelanggan, mis. tocang gentian 
+terdedah, tocang di dalam hos, atau hos dan tocang ditamatkan dengan penyambung mate kering 
+atau penembus.  
+ 
+ 
+ 
+Figure 4  Penyambung tipikal untuk penamatan hos  
+ 
+Figure 4  menunjukkan palam flying ROV (kiri) dan receptacle dipasang bebibir mematuhi ROV 
+(kanan). Kedua -dua produk ini adalah untuk penamatan kepada hos berisi minyak.  
+  
+Figure 5  Penutup perlindungan dasar laut tipikal  
+ 
+Figure 5  menunjukkan dari kiri ke kanan, Pe nutup Perlindungan Dasar Laut, Penutup Persekitaran 
+Dasar Laut, dan Palam Gelung Balik.  
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  15 daripada 
+46 
+ 
+Unrestricted   
+Figure 6  Tempat simpan untuk palam flying PN: DFRV -FIX-00-Y-CD-00 
+ 
+                  
+              Ujian Receptacle                                                                                 Ujian Palam                          
+ 
+Figure 7  Harness ujian tipikal  
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  16 daripada 
+46 
+ 
+Unrestricted   
+3 KESELAMATAN PRODUK  
+Siemens Energy Subsea mengesyorkan penamatan semua peralatan hanya boleh dilakukan oleh 
+kakitangan yang terlatih, berkelayakan sesuai dan berpengalaman (SQEP), iaitu orang yang 
+kompeten.  
+Jika anda mempunyai sebarang maklum balas selepas pemasangan, pentau liahan atau pengaturan 
+produk, sila lengkapkan dan kembalikan borang Komen/Maklum Balas Pelanggan (Bahagian 10). 
+Sila e -melkan borang yang lengkap ke pada Pegawai Keselamatan Produk di 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+3.1 Amaran berkaitan tindakan  
+Klasifikasi amaran berkaitan tindakan  
+Amaran berkaitan tindakan diklasifikasikan mengikut keterukan bahaya yang mungkin 
+menggunakan tanda amaran dan kata isyarat berikut:  
+Simbol amaran dan kata isyarat  
+ Bahaya!  
+Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang teruk  
+ Amaran.  
+Risiko kecederaan diri yang ringan  
+ Awas.  
+Risiko kerosakan bahan atau alam sekitar  
+ 
+3.2 Penggunaan yang dimaksudkan  
+Produk ini adalah bertujuan sebagai sistem perhubungan optik gentian untuk penggunaan dasar laut  
+Terdapat risiko kecederaan atau kematian pada pengguna atau orang lain, atau kerosakan pada 
+produk dan harta benda lain sekiranya berlaku penggunaan yang tidak sesuai atau penggunaan 
+yang tidak dimaksudkan.  
+Penggunaan yang dimaksudkan termasuk yang beriku t: 
+- pematuhan arahan pemasangan dan operasi termasuk untuk produk dan mana -mana 
+komponen sistem lain.  
+- pematuhan kepada semua syarat pemeriksaan dan penyelenggaraan yang disenaraikan dalam 
+arahan.  
+- penggunaan semua alat yang disyorkan sesuai untuk tugas terte ntu. 
+- semua aktiviti hendaklah dilakukan oleh orang yang kompeten (lihat 3.3.1  untuk definisi).  
+Sebarang penggunaan lain yang tidak dinyatakan dalam dokumen ini atau dirangkumi dalam arahan 
+pemasangan dan operasi, atau selain daripada yang dinyatakan dalam dokumen ini adalah 
+dianggap sebagai penggunaan yang tidak wajar.  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  17 daripada 
+46 
+ 
+Unrestricted   
+ Bahaya!  Bahaya yang akan me njejaskan nyawa atau risiko kecederaan diri yang 
+teruk.  
+Lepaskan tekanan yang disimpan secara tiba -tiba. 
+Produk DigiTRONf tidak bertujuan untuk digunakan sebagai penembusan bagi kapal 
+tekanan tetap atas atau berasaskan darat. Ia tidak direka untuk mematuhi  keperluan 
+Arahan Peralatan Tekanan (2014/68/EU). Ia bertujuan untuk integrasi ke dalam 
+peralatan dasar laut sahaja.  
+Semua ujian tekanan produk DigiTRONf hendaklah dilakukan oleh orang yang kompeten.  
+ Awas.  Risiko kerosakan bahan atau alam sekitar, pengg unaan yang tidak wajar dalam 
+apa jua bentuk adalah dilarang.  
+ 
+3.3 Maklumat keselamatan am  
+ Pemasangan oleh orang yang kompeten sahaja  
+Pemasangan, pemeriksaan, penyelenggaraan dan pembaikan produk hendaklah dilakukan oleh 
+kakitangan yang terlatih, berkelayakan sesuai dan berpengalaman (SQEP), iaitu orang yang 
+kompeten, untuk menjalankan aktiviti yang ditentukan. Pemasangan, pemeriksaan, 
+penyelenggaraan dan pembaikan produk oleh orang yang tidak terlatih dan dianggap tidak 
+kompeten boleh membatalkan waranti produk.  
+Untuk maklumat lanjut sila hubungi Pengurusan Kitaran Hayat Siemens Energy 
+susultlcmsupport.gb@siemens -energy.com  (Pasukan Tapak).  
+ Peralatan pe rlindungan peribadi (PPE)  
+Peralatan Perlindungan Peribadi (PPE) ditakrifkan secara sah sebagai 'semua peralatan (termasuk 
+pakaian yang mampu memberikan perlindungan terhadap cuaca) yang bertujuan untuk dipakai atau 
+dipegang oleh seseorang di tempat kerja d an yang melindungi pengguna daripada satu atau lebih 
+risiko terhadap kesihatan atau keselamatan mereka'.  
+Dalam hierarki kawalan risiko, PPE dianggap berada di peringkat terendah dan merupakan pilihan 
+terakhir. PPE hanya sesuai apabila bahaya yang dimaksudk an tidak dapat dihilangkan sepenuhnya 
+atau dikendalikan sedemikian rupa sehingga bahaya tidak mungkin terjadi (misalnya dengan 
+mengasingkan bahaya atau mengurangkan risiko pada sumber sehingga ke tahap yang boleh 
+diterima).  
+Semua kakitangan dan pengendali syarikat hendaklah memakai Peralatan Perlindungan Peribadi 
+(PPE) yang sesuai yang ditakrifkan sebagai hasil daripada penilaian risiko yang berkaitan selaras 
+dengan Peraturan Peralatan Perlindungan Peribadi (PPE).  
+Pakai PPE yang sesuai mengikut peringatan k eselamatan produk yang diberikan dalam 
+dokumen ini  
+ 
+  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  18 daripada 
+46 
+ 
+Unrestricted   
+ Bahaya yang disebabkan oleh operasi yang tidak wajar dan 
+penyalahgunaan yang boleh dijangka  
+Operasi yang tidak wajar dan penyalahgunaan yang boleh dijangka boleh mendatangkan bahaya 
+kepada anda dan oran g lain dan menyebabkan kerosakan bahan. Baca dengan teliti arahan yang 
+disertakan dan semua dokumen lain yang berkenaan, terutamanya bahagian "Keselamatan" dan 
+amaran.  
+ Bahaya! Risiko yang akan membahayakan nyawa atau risiko kecederaan diri yang teruk 
+disebabkan oleh peluncur pin ulang -alik kerana kerosakan yang disebabkan pada pin 
+ulang -alik, contohnya dengan pemutar skru (penyalahgunaan yang boleh dijangka).  
+- Aktiviti penyelenggaraan dan ujian hanya boleh dilakukan oleh orang yang kompeten.  
+- Alat yang bet ul hendaklah sentiasa digunakan.  
+ 
+ Bahaya yang disebabkan oleh salah pengendalian gentian optik semasa 
+penamatan kabel  
+ Bahaya!  
+Risiko kecederaan diri yang teruk disebabkan oleh salah pengendalian gentian optik, 
+kerana gentian kecil tertanam di kulit, mata atau penyedutan.  
+ 
+Gentian kaca yang tertanam di kulit atau mata, atau terhidu, berpotensi memasuki aliran darah boleh 
+menyebabkan masalah perubatan yang serius. Oleh itu, operator hendaklah dilatih dalam 
+pengendalian gentian optik. Semasa memb elah, semua bahagian yang tajam hendaklah dibuang 
+ke dalam tong tajam sebaik sahaja memutuskan hujung gentian. Jangan tinggalkan sebarang 
+serpihan gentian tajam di atas bangku atau pada alat pemotong.  
+Jika boleh, lakukan kerja di atas permukaan yang hitam untuk membolehkan benda tajam menjadi 
+lebih mudah dilihat. Jangan cuba memvakum benda tajam. Berhati -hati semasa mengendalikan 
+gentian yang dilucutkan (iaitu tiada lapisan) dan jangan menyentuh hujung gentian yang dipotong, 
+dilucutkan atau tidak. Basuh tan gan sebelum makan atau merokok. Pakai cermin mata keselamatan 
+semasa membelah. Pasangkan penutup tong tajam apabila tidak digunakan.  
+ 
+  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  19 daripada 
+46 
+ 
+Unrestricted   
+ Risiko kecederaan dan kerosakan bahan akibat ujian, penyelenggaraan 
+dan pembaikan yang dilakukan dengan cara yang tidak betul atau tidak 
+dilakukan sama sekali  
+Hos dan penyambung berisi minyak tidak boleh diservis oleh pengguna. Sekiranya terdapat 
+kerosakan produk yang disyaki (rujuk bahagian 8.2), jangan gunakan produk dan sila hubungi 
+Sokongan Teknikal Siemens Energy atau Keselamatan Produk Siemens Energy untuk 
+mendapatkan nasihat. Jangan cuba untuk menjalankan kerja -kerja penyelenggaraan atau 
+pembaikan pada produk itu  sendiri.  
+ Bahaya! Risiko bahaya yang menjejaskan nyawa, risiko kecederaan peribadi yang teruk 
+disebabkan oleh tekanan yang dikeluarkan dan atau peluncuran yang disebabkan oleh 
+tekanan yang salah dipasang mengekalkan produk, (contohnya penembus) semasa ujian 
+tekanan sistem, atau tekanan pembezaan berdasarkan produk melebihi had  
+- Memastikan semua aktiviti pemasangan dan ujian produk diselesaikan oleh orang 
+yang kompeten.  
+- Jangan melebihi nilai tekanan pembezaan maksimum produk yang dipasang.  
+- Setiap produk mempunyai penarafan te kanan pembezaan yang berbeza, sila rujuk 
+kepada helaian data produk tertentu atau hubungi Sokongan Teknikal Siemens Energy   
+ Bahaya! Risiko kecederaan mata yang teruk disebabkan minyak bertekanan terpancut 
+keluar daripada hos yang rosak atau ketiadaan skru pengisi/lubang.  
+- Memastikan semua ujian produk baik di kilang mahupun di lapangan telah 
+dilengkapkan oleh orang yang kompeten.  
+ Amaran. Risiko kecederaan mata/anggota badan disebabkan oleh tekanan yang 
+dilepaskan semasa nyahpasang produk, sekiranya pengambilan produk dari dasar laut 
+yang mengalami kerosakan lalu menyebabkan tekanan kedalaman terperangkap di dalam 
+produk.  
+- Memastikan semua aktiviti nyahpasang produk dilakukan oleh orang yang kompeten 
+mengikut prosedur yang berkaitan dan menggunakan peralatan perlindungan peribadi 
+yang berkaitan (PPE).  
+ Amaran. Risiko kecederaan anggota badan disebabkan oleh bahagian penaha n tekanan 
+menjadi peluncur disebabkan pengguna mengenakan tekanan yang berlebihan terhadap 
+sistem, contohnya semasa Ujian Pemasangan Tapak (SIT).  
+- Memastikan semua aktiviti SIT produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+ Risiko kecederaan dan kerosakan bahan disebabkan pengendalian secara 
+manual  
+Mengendali, mengangkat dan membawa secara manual diketahui sebagai salah satu penyumbang 
+terbesar terhadap kesihatan pekerja. Memastikan alat bantu pengendalian mekanikal digunakan 
+sebaik mungkin untuk mengelakkan pengendalian secara manual. Sekiranya pengendalian secara 
+manual dianggap sesuai untuk sesuatu tugas, panduan mengangkat yang selamat hendaklah diikuti, 
+cthnya menggunakan postur badan yang betul, pertimbangkan untuk mengang kat secara 
+berpasukan, menggunakan teknik mengangkat yang selamat, dll. Hanya orang yang kompeten 
+dibenarkan melakukan tugas tanpa pengawasan, sila tanya jika ada keraguan.  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  20 daripada 
+46 
+ 
+Unrestricted   
+ Amaran. Risiko kecederaan muskuloskeletal daripada penyambung mating atau de -
+mating dengan tangan.  
+- Merujuk kepada kekuatan mate / demate yang dinyatakan di sini, sila pastikan 
+langkah -langkah pengendalian manual yang sesuai diambil. Adalah disyorkan untuk 
+menggunakan alat mate/demate yang direka untuk tujuan ini (rujuk bahagian 9.8). 
+- Memastikan semua aktiviti ujian produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+ Amaran. Risiko kecederaan rangka otot akibat pengendalian produk berat secara manual. 
+Sila rujuk maklumat penghantaran atau helaian data produk untuk mengetahui berat 
+produk.  
+- Memastikan alat bantu pengendalian mekanikal digunakan sebaik mungkin untuk 
+mengelakkan pengendalian secara manual . 
+- Sekiranya pengendalian secara manual dianggap sesuai untuk sesuatu tugas, garis 
+panduan mengangkat yang selamat hendaklah diikuti, contohnya menggunakan 
+postur badan yang betul, mempertimbangkan untuk mengangkat secara berpasukan, 
+menggunakan teknik meng angkat yang selamat, dll.  
+- Hanya orang yang kompeten dibenarkan untuk melaksanakan tugas -tugas tanpa 
+pengawasan, jika terdapat keraguan, sila tanya.  
+ Amaran. Risiko kecederaan anggota badan akibat produk berat yang jatuh semasa 
+mengangkat dengan jentera.  
+- Peraturan tempatan untuk operasi mengangkat bantuan mekanikal dan peralatan 
+mengangkat mesti dipatuhi, mis. ‘LOLER’ di UK.  
+ Amaran. Risiko kecederaan ringan kepada orang yang mempunyai alahan terhadap 
+minyak berasaskan silikon atau mineral.  
+- Terdapat risiko kecil bahawa minyak boleh bocor dari produk jika berlaku kerosakan. 
+Pakai perlindungan tangan yang sesuai semasa mengendalikan pro duk atau minyak 
+berasaskan mineral atau sintetik sekiranya berlaku kebocoran minyak bocor dari 
+penyambung disebabkan kerosakan.  
+ Amaran. Risiko kecederaan diri yang ringan dan kerosakan bahan akibat tergelincir, 
+tersadung dan terjatuh.  
+- Pengemasan yang b aik mengelakkan daripada tergelincir, tersadung dan terjatuh, 
+memastikan semua kawasan kerja sentiasa bersih dan kemas.  
+ 
+3.4 Dokumen berkaitan  
+Pemasang hendaklah melakukan penilaian risiko tapak sepenuhnya dan melaksanakan semua 
+langkah dan prosedur yang dipe rlukan untuk mematuhi undang -undang kesihatan dan keselamatan 
+kawasan, wilayah, nasional atau antarabangsa yang berkaitan, contoh The Health and Safety at 
+Work Act (HASAWA) di United Kingdom (UK) dan memastikan keselamatan diri dan orang lain 
+terhadap kepe rluan pengendalian secara manual dan bekerja pada ketinggian.  
+Semasa pemasangan produk (dan apa -apa kerja berikutnya), kerja hendaklah dilakukan dengan 
+penuh berhati -hati. Semua pemasang dan pengusaha yang terlibat, daripada memunggah produk 
+sehingga produ k diatur di lokasi pemasangan terakhir, mesti melaksanakan tugas sepenuhnya 
+untuk menjaga keselamatan diri dan orang lain. Apabila mengangkat dan mengendalikan produk ini, 
+pengusaha perlu mendapatkan bantuan jika diperlukan. Dalam situasi tertentu, penggun aan alat 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  21 daripada 
+46 
+ 
+Unrestricted   
+bantu pengendalian mekanikal mungkin diperlukan. Hendaklah berhati -hati untuk mengelakkan 
+bahaya tersadung, tergelincir atau permukaan yang basah.  
+Majikan dan pemasang perlu merujuk kepada laman web Eksekutif Kesihatan dan Keselamatan 
+(HSE) di UK untuk mendapatkan nasihat penuh dan alat carta penilaian pengendalian manual 
+(MAC).  
+Di samping itu, jika tiada arahan khusus diberikan, maka rujukan hendaklah dibuat, tetapi tidak 
+terhad kepada, jika berkenaan, Standard British dan kod amalan seperti be rikut:  
+- Akta Kesihatan dan Keselamatan di Tempat Kerja.  
+- COSHH Kawalan bahan berbahaya kepada kesihatan.  
+Adalah menjadi anggungjawab operator dan pemasang untuk mematuhi undang -undang kesihatan 
+dan keselamatan Syarikat, kawasan, wilayah, nasional atau antara bangsa semasa.  
+ 
+3.5 Kawalan bahan berbahaya kepada kesihatan (COSHH)  
+Bahan berbahaya, Penilaian Kawalan bahan berbahaya kepada kesihatan (COSHH) berkaitan 
+bahan seperti elastomer dan minyak, dsb. yang digunakan dalam produk DigiTRONf boleh didapati 
+atas permintaan daripada Pegawai Keselamatan Produk di 
+subsea.connectors.productsafety.gb@siemens -energy.com . 
+ 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  22 daripada 
+46 
+ 
+Unrestricted   
+4 SINGKATAN  
+Assy  Pemasangan  
+API Institut Petroleum Amerika  
+BOM  Bil Bahan  
+°C Darjah Celsius  
+°F  Darjah Fahrenheit  
+CE Komu niti Eropah  
+Comms  Isyarat Komunikasi  
+COSHH  Kawalan bahan berbahaya kepada kesihatan  
+CP Perlindungan Katod  
+DWG  Lukisan  
+FAT Ujian Penerimaan Kilang  
+HASAWA  Akta Kesihatan dan Keselamatan di Tempat Kerja  
+HSE Eksekutif Kesihatan dan Keselamatan  
+IL Kehilangan Si sipan  
+In Inci 
+ISO Pertubuhan Pemiawaian Antarabangsa  
+ITP Pelan Ujian Pemeriksaan  
+LB Paun  
+LBF Kekuatan Paun  
+LTC Penutup/Pelindung Jangka Panjang  
+m Meter  
+Max.  Maksimum  
+Min. Minimum  
+No. Nombor  
+OFL Optical Flying Leads  
+PPE Peralatan Perlindungan Peribadi  
+RL Kehilangan Pembalik  
+ROV  Kenderaan Dikendalikan Dari Jauh  
+SI Standard Antarabangsa  
+SIT Ujian Pemasangan Tapak  
+SQEP  Orang Berkelayakan dan Berpengalaman Sesuai  
+SRT Ujian Penerimaan Tapak  
+SST Keluli Tahan Karat  
+TBD Untuk Ditakrifkan  
+TSP Pasangan S krin Berpusing  
+UNS  Sistem Penomboran Bersepadu untuk Logam dan Aloi  
+ 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  23 daripada 
+46 
+ 
+Unrestricted   
+5 SPESIFIKASI  
+Berikut ialah spesifikasi asas untuk penyambung DigiTRONf. Produk sebenar mungkin berbeza -
+beza. Sila rujuk kepada laman web helaian data spesifik  https://www.siemens -energy.com  /cari 
+Subsea, atau hubungi Sokongan Teknikal Siemens Energy 
+connectortechnicalsupport.gb@siemens -energy.com  untuk maklumat yang lebih terperinci.  
+Spesifikasi umum produk disenaraikan dalam bahagian 2.2. Spesifikasi tambahan adalah seperti 
+berikut.  
+5.1 Spesifikasi Penyambung  
+ ROV dikendalikan  
+Salah jajaran(Receptacle 
+dipasang patuh):   
+Putaran (0º)  ±12º 
+Radial  ±20mm (0.787”)  
+Sudut  ±5º 
+  
+Salah penjajaran  
+(Receptacle dipasang bulkhead):   
+Putaran (0º)  ±9 º 
+Radial  ±8mm (0.315”)  
+Sudut  ±6º 
+  
+Daya Mate  <800N (179 lbs)  
+Daya Demate  <800N (179 lbs)  
+Tahan beban berlebihan:   
+Beban paksi  <5000N (1124 lb)  
+Beban lenturan  <1250N (281 lbs)  
+Kelajuan mate maksimum  
+Kelajuan demate maksimum  0.5m/s (1.6 kaki/s)  
+1m/s (3.3 kaki/s)  
+Kadar kerahan maksimum  350m/min (1149kaki/min)  
+Jenis Sentuhan Fizikal  APC 
+Bilangan maksimum talian  12 
+ 
+ 
+ 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  24 daripada 
+46 
+ 
+Unrestricted   
+6 MENYEDIAKAN PRODUK UNTUK KEGUNAAN ATAU PENYIMPANAN  
+6.1 Perlindungan dan pembungkusan produk  
+Produk DigiTRON f dihasilkan terutamanya daripada keluli tahan karat Super Duplex, dan oleh itu 
+direka untuk menahan persekitaran yang sukar dan mencabar. Walau bagaimanapun, sisipan 
+penyambung dan bahagian yang terdedah mudah mengalami kerosakan mekanikal jika tidak 
+dilindungi. Penutup pelindung bahagian atas hendaklah dipasang pada semua penyambung 
+Siemens Energy Subsea sebelum pengangkutan.  
+ Awas.  Risiko kerosakan bahan. Penutup pe ngangkutan atau penutup perlindungan 
+hendaklah sentiasa dipasang pada penyambung unmated semasa pengangkutan dan 
+hendaklah kekal terpasang di bahagian atas sebelum pengerahan  
+ 
+Produk boleh disimpan dalam peti pembungkusan asal atau kotak untuk selama -lamanya.  
+Peti pembungkusan kayu yang dibekalkan dengan produk Siemens Energy tidak tahan cuaca.  
+Sebagai panduan, penyimpanan luar hendaklah dihadkan kepada sekitar 3 bulan dengan 
+perlindungan daripada matahari dan hujan secara langsung. Tempoh sebenar bergant ung pada 
+keadaan persekitaran, cth. dalam keadaan kering sederhana lebih daripada 3 bulan mungkin boleh 
+diterima, dalam keadaan buruk atau menggunakan luar pesisir ia mungkin kurang daripada 3 bulan. 
+Memeriksa peti secara berkala semasa penyimpanan luar ad alah disyorkan untuk menilai 
+kesesuaiannya bagi melindungi produk daripada persekitaran luaran dan untuk tahan pengendalian.  
+ 
+Berhati -hati jika memasang skru, paku atau staple tambahan pada peti, supaya ia tidak terkeluar di 
+bahagian dalam peti. Ini boleh merosakkan hos yang berada di dalamnya dengan mudah.  
+Penyambung boleh dihantar secara tunggal atau secara berbilang. Penjagaan perlu diambil untuk 
+melindungi penyambung dengan 'Instapack', balutan gelembung atau bahan pembungkusan yang 
+serupa untuk mengela kkan kerosakan permukaan semasa transit. Sekiranya jumlah yang besar 
+dihantar dalam satu kiriman, kotak pengangkutan yang bertetulang sesuai diperlukan untuk 
+menampung berat. Lihat Figure 8  dan Figure 9 . 
+ 
+Figure 8  Pembungkusan yang boleh diterima untuk penghantaran  
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  25 daripada 
+46 
+ 
+Unrestricted   
+  
+Figure 9  Pembungkusan dan penyimpanan yang tidak boleh diterima  
+ 
+Penyambung jenis bulkhead dengan wayar berekor terdedah perlu dibungkus dan dihantar dalam 
+kotak bersaiz sesuai untuk membolehkan ruang yang mencukupi dan perlindungan wayar berekor 
+tanpa pembengkokan atau keriting.  
+Penyambung direka untuk menahan getaran yang berlaku semasa pengangkutan dan untuk 
+bertahan kejatuhan dari ketinggian 1 meter (3.3 kaki) semasa dalam pembungkusan.  
+Sekiranya penyambung dipasang ke hos, alat ini mesti digulung dengan betul dan dilekatkan dengan 
+pita untuk mengelakkan gulungan terbuka semasa transit. Radius bengkok minimum hos hendaklah 
+dipatuhi (125mm (4.9”) untuk AquaTRON 50.  
+ 
+6.2 Nyahpembungkusan  
+Tanggalkan bahan pembungkus dengan berhati -hati dan periksa jika terdapat sebarang kerosakan 
+permukaan atau item yang mungkin tertanggal dari penyambung, seperti kedap 'O'. Jangan gunakan 
+pisau untuk memotong bahan pembalut kerana ia boleh menyebabkan kerosakan pada mana -mana 
+bahagian elastomer penyambung. Jangan tanggalkan penutup pelindung sehingga penyambung 
+siap untuk dipasang. Penyambung yang dibekalkan dalam kotak hendaklah disimpan di dalam 
+kotak. 
+6.3 Penyimpanan, perlindungan dan akhir hayat  
+Penyambung adalah sensitif terhadap persekitaran di mana terdapat kersik dan kotoran. Semua 
+penyambung dibekalkan dengan penutup pelindung bahagian atas. Adalah disyorkan untuk 
+membiarkan penutup terpasang sebol eh mungkin. Penutup hendaklah dibuka sebelum diatur di 
+dasar laut.  
+Rujuk bahagian 9.3 untuk mendapatkan butiran tentang jenis penutup dan penyambung tiruan yang 
+tersedia untuk perlindungan semasa penyimpanan.  
+ 
+Penyambung hendaklah disimpan di kawasan kering yang bersih dan dilindungi dengan pembalut 
+gelembung atau yang serupa.  
+ Awas.  Risiko kerosakan bahan. Sekiranya penyimpanan dilakukan dalam keadaan masin, 
+contoh di geladak kapal atau penahan, maka peny ambungan Penutup Persekitaran 
+Subsea atau penyambung Palam Tiruan hendaklah digunakan untuk melindungi pin 
+receptacle dari kakisan.  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  26 daripada 
+46 
+ 
+Unrestricted   
+Adalah disyorkan untuk menyimpan produk dalam pembungkusan asalnya (cth. peti kayu atau 
+kotak, dengan mencatat penyimpanan luar peti setiap bahagian 6.1). 
+Keluli karbon tidak boleh berada dalam simpanan produk, untuk mengelakkan pencemaran produk 
+keluli tahan karat.  
+ 
+Sekiranya produk telah diambil dari penggunaan dasar laut, ia hendaklah dibersihkan sebelum 
+disimpan. Bersihkan hanya menggunaka n air tawar atau larutan asid sitrik 50%. Sekiranya 
+pencucian asid sitrik 50% tidak dilakukan, secara minimum, sila basuh menggunakan air bersih 
+untuk membuang sebarang air garam pada produk.  
+ Penyimpanan jangka pendek  
+Penyimpanan di mana suhu dan kelembapa n tidak dikawal hendaklah dihadkan kepada 4 minggu  
+Julat suhu penyimpanan: -40°C hingga +50°C suhu udara ( -40 hingga 122°F). Kelembapan 
+penyimpanan di bawah 75%. Suhu permukaan maksimum produk tidak boleh melebihi 70°C 
+(158°F), termasuk tambahan solar akib at pendedahan kepada sinaran cahaya matahari.  
+ Penyimpanan penyambung jangka panjang  
+Pengesyoran ini terpakai pada produk sebelum dan selepas pemasangan pada peralatan lain (cth. 
+XT, manifold, SCM).  
+Suhu udara ambien hendaklah antara -40°C dan +50°C ( -40 hi ngga 122°F). Kelembapan 
+penyimpanan di bawah 75%. Keadaan yang sangat lembap atau sangat kering hendaklah dielakkan. 
+Peralatan hendaklah dilindungi daripada cahaya matahari yang kuat dan cahaya tiruan yang kuat 
+dengan kandungan ultraviolet yang tinggi.  
+Suhu permukaan maksimum produk tidak boleh melebihi 70°C (158°F), termasuk tambahan solar 
+akibat pendedahan kepada sinaran cahaya matahari.  
+Selepas penyimpanan selama 5 tahun adalah disyorkan untuk melakukan pemeriksaan visual dan 
+ujian elektrik untuk mengesahkan produk masih sesuai untuk tujuan dan dalam spesifikasi. Periksa 
+sebarang kebocoran minyak atau tanda -tanda kerosakan yang jelas pada  penyambung (rujuk 
+bahagian 8). Rujuk kepada dokumen 'Ujian Penerimaan Tapak' SRT -004, (tersedia di laman web 
+Siemens -Energy/subsea) untuk keperlua n ujian optik.  
+Untuk produk yang telah dipasang pada peralatan lain, rejim ujian bagi peralatan tersebut hendaklah 
+diutamakan daripada dokumen SRT, cth. Ujian IR mungkin tidak dibenarkan; ujian fungsi mungkin 
+terpakai.  
+Melebihi penyimpanan selama 5 tahun, pemeriksaan semula dan ujian disyorkan setiap 2 tahun dan 
+sebelum produk digunakan.  
+Untuk produk yang disimpan pada suhu udara secara berterusan melebihi 25°C adalah disyorkan 
+untuk melakukan pemeriksaan semula dan ujian setiap 12 bulan.  
+ 
+ Awas.  Risiko ke rosakan bahan. Suhu penyimpanan maksimum disumbang oleh kenaikan 
+solar. Suhu permukaan tidak boleh melebihi 70°C (158°F). Perlindungan yang sesuai 
+hendaklah digunakan bagi memastikan suhu penyimpanan tidak melebihi nilai maksimum.  
+ Awas.  Risiko kerosakan bahan. Penyambung tidak boleh bersentuh dengan pelarut, 
+minyak, gris atau bahan separa pepejal yang lain.  
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  27 daripada 
+46 
+ 
+Unrestricted   
+ Penyimpanan elastomer jangka panjang  
+Untuk penyimpanan komponen elastomerik yang disyorkan contohnya sarung penamatan dan but 
+kabe l, sila rujuk Dokumen Siemens Energy Subsea MH006 – Prosedur Penyimpanan dan 
+Pengendalian Bahan Elastomerik, yang boleh didapati daripada Sokongan Teknikal Siemens 
+Energy.  
+ Pembungkusan semula untuk mengelakkan kerosakan semasa 
+pengangkutan  
+Sekiranya terda pat keperluan untuk mengembalikan semula mana -mana produk kepada pengilang 
+(Siemens Energy Subsea Connectors), adalah disarankan agar penutup pelindung bahagian atas 
+dipasang pada penyambung dan langkah berjaga -jaga hendaklah dilakukan bagi melindungi 
+peny ambung dengan pembalut gelembung atau bahan pembungkus yang serupa bagi mengelakkan 
+kerosakan permukaan  
+Sekiranya terdapat beberapa penyambung yang perlu dikembalikan, adalah disyorkan supaya kotak 
+diperkukuhkan yang sesuai digunakan untuk menampung berat dan membolehkan penghantaran 
+dalam satu konsainan. Hubungi Sokongan Teknikal Siemens Energy 
+connectortechnicalsupport.gb@siemens -energy.com  untuk membincangkan perincian kotak tipikal.  
+Keluli karbon tidak boleh berada dalam simpanan produk, untuk mengelakkan pencemaran produk 
+keluli tahan karat.  
+ 
+ Pelupusan dan kitar semula  
+Pelupusan selamat atau kitar semula pembungkusan sisa dan/atau akhir hayat produk adalah 
+disyorkan dengan memerhati dan mematuhi undang -undang kawasan, wilayah, alam sekitar 
+kebangsaan atau antarabangsa yang mana berkenaan.  
+Untuk mengembalikan pembungkusan sisa dan/atau produk akhir hayat kepada pengeluar, sila 
+hubungi Peg awai Keselamatan Produk di subsea.connectors.productsafety.gb@siemens -
+energy.com . 
+ 
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  28 daripada 
+46 
+ 
+Unrestricted   
+7 PEMASANGAN DAN PENGUMPULAN  
+Jika ragu -ragu sila hubungi Sokongan Teknikal Siemens Energy 
+connectortechnicalsupport.gb@siemens -energy.com  untuk mendapatkan maklumat yang lebih 
+terperinci.  
+ 
+ Awas.  Risiko kerosakan bahan. Gentian optik mudah rosak apabila terdedah dan tidak 
+disimpan dalam bungkusan asal yang dibekalkan dengan penyambung.  
+Perhatikan radius minimum bengkok gentian. Dalam apa jua keadaan, gentian tidak boleh 
+digunakan u ntuk mengangkat produk.  
+ 
+7.1 Perlindungan Katodik  
+Penyambung DigiTRON f dihasilkan dalam keluli tahan karat super dupleks dan direka untuk 
+beroperasi secara berasingan daripada sistem CP (Perlindungan Katodik). Penyambung seperti itu 
+dibekalkan dengan semua perkakasan yang diperlukan untuk mengasingkan penyambung daripada 
+struktur yang akan dipasang.  
+Penyambung DigiTRON f yang disambungkan ke sistem CP tidak akan rosak dengan serta -merta, 
+tetapi terdapat peningkatan risiko rapuhan hidrogen logam (mungkin retak di bawah tekanan 
+mekanikal yang tinggi), dan peningkatan kadar depos it berkapur pada produk (yang boleh 
+menyebabkan masalah de -mating penyambung).  
+Jangan pasangkan anod 'gelang' di sekitar hos atau kabel sebagai sebahagian daripada 
+perlindungan CP. Ini dengan mudah boleh merosakkan hos atau kabel kerana anod boleh 
+menghaki s. 
+7.2 Penyambung reseptacle ROV (kedap bebibir) bulkhead  
+Sila ambil perhatian bahawa Penyambung Bulkhead DigiTRONf hanya untuk sistem pampasan 
+tekanan (iaitu tekanan yang sama pada kedua -dua sisi kedap bebibir).  
+Penyambung tidak boleh digunakan sebagai pengha lang tekanan dalam kapal tekanan yang 
+berpangkalan di darat (rujuk bahagian 3.2)  
+Rujuk pada Figure 10  dan bahagian 2.6 untuk mendapatkan bantuan tentang pemasangan.  
+Alat yang diperlukan  
+• Spaner tork pemacu ¼ inci 0 -25 Nm (18.4 lbf.ft) - dengan  
+• 12-lubang corak 3/16 kekunci Allen (¼ -20 UNC Allen Bolt)  
+• 8-lubang corak 4mm kekunci Allen (M6 Allen Bolt)  
+• Loctite 243  
+ 
+Jika belum dipasang, periksa alur cincin 'O' untuk kerosakan dan s erpihan sebelum pemasangan 
+cincin 'O'.  
+Sapukan sedikit gris DC4 ke cincin antara muka 'O' dan pasang pada penyambung, muat 
+penyambung untuk antara muka memastikan orientasi yang betul (melainkan dinyatakan sebaliknya 
+memastikan kunci utama berada pada ked udukan jam 12).  
+Sapukan tempat Loctite 243 pada utas kepala penutup melekapkan skru dan ketatkan sentuhan 
+bebibir dengan tork10 -12Nm.  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  29 daripada 
+46 
+ 
+Unrestricted   
+ 
+ 
+Figure 10  Penyambung receptacle bulkhead kedap  
+ 
+Penyambung bulkhead dengan pigtails serat hendaklah dikendalikan dengan berhati -hati, 
+terutamanya di sekitar titik keluar serat. Dalam apa juga keadaan, penyambung tidak boleh diangkat 
+melalui gentian. Gentian mudah rosak dan hendaklah disimpan dalam dulang yang disediakan 
+sehingga masa ia akan ditamatkan. Jangan letakkan sebarang ob jek pada gentian yang terdedah. 
+Sila ambil perhatian bahawa kerosakangentian mungkin tidak dapat dilihat - kerosakan pada teras 
+boleh berlaku tanpa kerosakan luaran. Pastikan gentian tidak dibawa di bawah radius bengkok 
+minimum (30mm (1.2")). Pastikan sete lah dipasang, gentian reben tidak terhalang atau terkoyak.  
+ 
+7.3 Penyambung receptacle ROV dipasang bebibir patuh  
+ 
+  
+ 
+Figure 11  Receptacle dipasang patuh ROV  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  30 daripada 
+46 
+ 
+Unrestricted   
+ 
+Figure 12  Pandangan keratan pemasangan patuh ROV untuk mengenal pasti pemasangan dan 
+bahagian  
+ 
+Merujuk kepada Figure 11  dan Figure 12  
+Pastikan penunjuk penjajaran pada cakera penjajaran berwarna kuning dan skru penjajaran di 
+kon hadapan adalah selaras.  
+Sapukan Loctite 243 pada utas kepala penutup melekapkan skru M6 dan ketatkan sentuhan 
+bebibir dengan tork10 -12Nm (7.38 – 8.85 lbf.ft).  
+7.4 Receptacle Parkir  
+  
+Figure 13  Receptacle parkir tipikal  
+ 
+Merujuk kepada Figure 13  
+Pastikan skru penjajaran hitam paling atas  
+Skru penjajaran  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  31 daripada 
+46 
+ 
+Unrestricted   
+Sapukan Loctite 243 pada utas kepala penutup melekapkan skru M8 dan ketatkan sen tuhan bebibir 
+dengan tork 7Nm.  
+7.5 Ujian penyambung  
+Ujian harness DigiTRON f terdiri daripada penyambung dasar laut standard, saluran hos yang 
+mengandungi gentian (tiada minyak), dan kotak penamat, seperti yang ditunjukkan dalam Figure 7 . 
+Kotak penamatan menerima kabel pembaikan untuk dihubungkan dengannya melalui penyambung 
+jenis E2000  
+Harnes unian boleh digunakan di tempat yang kering atau untuk ujian air  cetek. Kotak penamatan 
+tidak kedap air jadi ia tidak boleh tenggelam dalam air, iaitu ujian air cetek mempunyai penyambung 
+yang terendam dan kotak penamatan dalam keadaan kering.  
+Semua penyambung ujian hendaklah diperiksa dan dibersihkan secara berkala (rujuk bahagian 
+Error! Reference source not found. ). Integriti optik hendaklah diperiksa dengan melakukan p
+engukuran kehilangan Sisipan dan kehilangan Pembalik  
+Periksa supaya tiada serpihan atau kotoran pada penyambung ujian; ini boleh dipindahkan ke 
+penyambung di bawah ujian, Adalah amalan yang baik untuk memeriksa penyamb ung ujian sebelum 
+setiap penggunaan.  
+ 
+Bahaya!  Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang 
+teruk.  
+Lepaskan tekanan yang disimpan secara tiba -tiba. 
+Produk DigiTRONf tidak bertujuan untuk digunakan sebagai penembusan bagi kapal 
+tekana n tetap atas atau berasaskan darat. Ia tidak direka untuk mematuhi keperluan 
+Arahan Peralatan Tekanan (2014/68/EU). Ia bertujuan untuk integrasi ke dalam 
+peralatan dasar laut sahaja.  
+Semua ujian tekanan produk DigiTRONf hendaklah dilakukan oleh orang yang kompeten.  
+ Amaran. Risiko kecederaan muskuloskeletal daripada penyambung hand -mating atau de -
+mating secara manual.  
+- Merujuk kepada kekuatan mate / demate yang dinyatakan di sini, sila pastikan langkah -
+langkah pengendalian manual yang sesuai diambil. Adal ah disyorkan untuk 
+menggunakan Alat Mate Manual untuk melakukan mate dan demate penyambung.  
+- Memastikan semua aktiviti ujian produk dilakukan oleh orang yang kompeten mengikut 
+prosedur yang berkaitan.  
+ Awas.  Risiko kerosakan bahan. Harness ujian yang sesuai hendaklah selalu digunakan 
+untuk membuat hubungan optik semasa ujian.  
+ Awas.  Risiko kerosakan bahan. Kotak penamatan harness ujian tidak boleh digunakan di 
+dalam air. Terdapat kemungkinan besar kerosaka n pada harness ujian.  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  32 daripada 
+46 
+ 
+Unrestricted   
+8 MAKLUMAT PENGGUNA SEMASA OPERASI BIASA DAN KEADAAN 
+ROSAK  
+8.1 Isyarat yang boleh dilihat  
+Tiada isyarat yang boleh dilihat daripada produk semasa penggunaan.  
+Produk hendaklah senyap semasa operasi dan penampilannya tidak boleh berubah.  
+8.2 Operasi normal dan rosak/berbahaya  
+Jangan kendalikan produk jika terdapat kerosakan. Sekiranya terdapat keraguan, sila hubungi 
+Sokongan Teknikal Siemens Energy. Berikut adalah beberapa petunjuk kerosakan produk.  
+• Apa-apa item yang longgar seperti badan logam, pengikat, penetapan lain  
+• Sebarang kebocoran minyak berlaku, sama ada dari penyambung atau dari hos yang 
+dipenuhi minyak atau dari unit penyambungan gentian atau marshalling.  
+• Sebarang kerosakan pada kedap getah di bahagian depan penyamb ung palam, seperti 
+koyak atau terpotong  
+• Sebarang kerosakan pada getah pada kedap pin depan receptacle, seperti koyak atau 
+terpotong  
+• Kedap getah menjadi berwarna hitam atau gelap di bahagian depan penyambung palam  
+• Sebarang bunyi bising yang terhasil dari pr oduk.  
+8.3 Penyelesaian masalah  
+Jika terdapat sebarang masalah dengan produk yang gagal beroperasi dengan betul, sila hubungi 
+Siemens Energy untuk mendapatkan nasihat. Jangan membuka produk dalam apa jua cara:  
+Jabatan  Alamat e -mel 
+Pegawai Keselamatan Produk  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Sokongan Teknikal  connectortechnicalsupport.gb@siemens -energy.com  
+Perkhidmatan (Pasukan Tapak)  susultlcmsupport.gb@siemens -energy.com  
+Table 5  Penyelesaian masalah maklumat perhubungan produk  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  33 daripada 
+46 
+ 
+Unrestricted   
+9 OPERASI DAN PENYELENGGARAAN PRODUK  
+9.1 Amaran keselamatan  
+Sebelum digunakan, baca bahagian 3 tentang peringatan keselamatan produk.  
+9.2 Penyelenggaraan dan servis produk  
+Produk DigiTRONf tidak memerlukan sebarang penyelenggaraan untuk jangka hayat dasar laut 
+selama 30 tahun dan  sehingga 250 kitaran mate dan demate dasar laut. Produk ini dinilai untuk 
+1000 kitaran mate dalam kering (iaitu digunakan sebagai penyambung ujian).  
+Tidak ada bahagian yang boleh diservis oleh pengguna dalam penyambung. Nyahpasang produk 
+adalah dilarang. Sekiranya terdapat masalah yang timbul dengan produk tersebut maka pengguna 
+hendaklah menghubungi pihak Sokongan Teknikal Siemens Energy untuk mendapatkan nasihat  
+9.3 Perlindungan produk; penutup dan penyambung gelung balik  
+Terdapat lima jenis penutup dan peny ambung tiruan yang tersedia untuk melindungi produk yang 
+sedang digunakan. Berikut memberikan kes penggunaan untuk setiap jenis.  
+ Penutup bahagian atas  
+Merujuk kepada Figure 14 : 
+• Penutup pengangkutan:  Dibekalkan dengan penyambung untuk melindunginya daripada 
+kerosakan semasa pengangkutan  
+• Penutup pelindung:  Memberikan tahap perlindungan mekanikal yang lebih tinggi kep ada 
+penyambung berbanding penutup pengangkutan. Disarankan apabila penyambung terdedah 
+kepada risiko kerosakan yang lebih tinggi di luar pengangkutan  
+Penutup bahagian atas boleh dipasang dan dikeluarkan menggunakan tangan  
+Penutup bahagian atas tidak boleh digunakan di dasar laut.  
+ 
+ Awas.  Risiko kerosakan bahan. Sekiranya penyimpanan dilakukan dalam keadaan masin, 
+contoh di geladak kapal atau penahan, maka penyambungan Penutup Persekitaran 
+Subsea atau penyambung Palam Tiruan hendaklah digunakan untuk melindungi pin 
+receptacle dari kakisan.  
+ 
+  
+Figure 14   Penutup Pengangkutan (kiri) dan Penutup Pelindung (kanan)  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  34 daripada 
+46 
+ 
+Unrestricted   
+ 
+ Penutup dasar laut  
+Merujuk kepada Figure 5 : 
+• Penutup Perlindungan Dasar Laut:  Melindungi receptacle daripada kerosakan mekanikal 
+yang teruk semasa digunakan di dasar laut. Biasanya digunakan untuk perlindungan jangka 
+pendek, cthnya dipasang untuk pengerahan receptacle dan kemudian dikeluarkan setela h 
+beberapa minggu untuk menghubungkan flying lead. Penutup ini boleh digunakan untuk 
+perlindungan jangka panjang dalam persekitaran dasar laut yang tidak teruk (contoh tapak 
+kurang pencemaran laut). Penutup ini tidak melindungi kedap depan penyambung.  
+• Penu tup Persekitaran Dasar Laut:  Melindungi receptacle daripada kerosakan mekanikal 
+yang teruk dan perlindungan persekitaran pada kedap depan receptacle. Biasanya 
+digunakan untuk penyimpanan dasar laut jangka panjang, terutamanya di kawasan 
+pertumbuhan marin y ang tinggi. Penutup ini tidak mempunyai sebarang fungsi optik.  
+• Palam Gelung Balik:  Memberi perlindungan yang sama dengan palam flying dasar laut 
+standard, serta kemudahan ujian gelung balik.  
+9.4 ‘Live’ Mate / Demate  
+Penyambung boleh dalam keadaan mated atau demated semasa membawa isyarat optik.  
+9.5 Penyingkiran pertumbuhan laut dan deposit berkapur  
+Untuk menghilangkan pertumbuhan kalsit daripada penyambung Siemens Energy Subsea, 
+disyorkan untuk menggunakan larutan 50% Asid Sitrik. Semua bahan elastomer yang terdedah pada 
+air laut di penyambung Siemens Energy Subsea telah diuji sepenuhnya terhadap 50% Asid Sitrik 
+dan sesuai untuk tempoh selama 1 jam. Di samping itu, bahan termoplastik mempunyai ketahanan 
+yang baik terhadap asid sitrik.  
+Pembersih asid lain, sep erti 50% Asid Asetik, tidak boleh  digunakan kerana ia boleh 
+menyebabkan kemerosotan pada bahan elastomer. Kaedah memahat dan melelas adalah tidak 
+digalakkan. Penggunaan jet air boleh diterima, tetapi jet tidak boleh diarahkan ke pin shuttle di 
+bahagian had apan palam, atau muka depan receptacle, kerana ia boleh mengakibatkan risiko air 
+dipaksa masuk melalui kedap primer.  
+ 
+Jet air dibenarkan dasar laut (bukan di udara) menyediakan jet air tidak ditujukan kepada 
+permukaan akhir penyambung (lihat di bawah). Sel epas melakukan jet air, adalah disyorkan untuk 
+memeriksa secara visual penyambung jika terdapat tanda -tanda kerosakan.  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  35 daripada 
+46 
+ 
+Unrestricted   
+ 
+ 
+ 
+Figure 15  Jet Air Dibenarkan  
+ 
+ Amaran.  Risiko kecederaan diri kecil bagi orang yang mempunyai alahan terhadap larutan 
+Asid Sitrik 50%, hendaklah memakai pelindung tangan dan mata yang sesuai semasa 
+mengendalikannya.  
+ Awas.  Risiko kerosakan bahan. Pembersih asid lain, seperti 50% Asid Asetik,  tidak boleh 
+digunakan kerana ia boleh menyebabkan kemerosotan pada bahan elastomer.  
+ Awas.  Risiko kerosakan bahan. Kaedah memahat dan melelas adalah tidak digalakkan. 
+Penggunaan pancutan air boleh diterima, tetapi pancutan tidak boleh diarahkan ke pin 
+ulang-alik di bahagian hadapan palam, kerana ia boleh mengakibatkan risiko air dipaksa 
+masuk melalui kedap utama.  
+ 
+  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  36 daripada 
+46 
+ 
+Unrestricted   
+9.6 Pemeriksaan dan pembersihan produk penyambung  
+Semua produk penyambung hendaklah diperiksa dengan teliti sebelum digunakan, rujuk bahagian 
+8.2 untuk mengetahui tentang kerosakan.  
+Penyambung boleh dibersihkan dengan selamat menggunakan Isopropil Alkohol (IPA) dan kain 
+bebas lin, tetapi jan gan rendam produk dalam IPA. Berikan masa untuk IPA menyejat sebelum 
+mating penyambung secara bersama. Berhati -hati supaya tidak meninggalkan sebarang gentian 
+kain pada bahagian hadapan palam atau pada pin receptacle. Cecair pembersih lain tidak boleh 
+digunakan kerana ia mungkin tidak serasi dengan getah atau plastik yang digunakan dalam produk.  
+Dalam apa jua keadaan, objek asing tidak boleh digunakan untuk menekan pin ulang -alik 
+penyambung palam.  
+ 
+9.7 Periksa sebelum melakukan mate terhadap produk  
+Penutup per lindungan pengangkutan dan bahagian atas hendaklah dibuka sebelum pengerahan di 
+dasar laut  
+Sebelum melakukan mate, penyambung receptacle perlu diperiksa bagi memastikan tiada serpihan 
+dan kerosakan. Penyambung telah direka untuk menampung pencemaran pasir dan kelodak; walau 
+bagaimanapun kepingan serpihan yang besar hendaklah dikeluarkan. Gunakan jet air jika dasar 
+laut, lihat butiran jet air dalam seksyen 9.5  
+Sekiranya terdapat bukti kerosakan tersebut, jangan gunakan penyambung. Sila hubungi Sokongan 
+Teknikal Siemens Energy untuk mendapatkan nasihat.  
+9.8 Penyambung ROV mating dan de -mating  
+ Amaran. Risiko kecederaan muskuloskeletal daripada penyambung hand -mating atau de -
+mating secara manual.  
+- Merujuk kepada kekuatan mate / demate yang di nyatakan di sini, sila pastikan 
+langkah -langkah pengendalian manual yang sesuai diambil. Adalah disyorkan untuk 
+menggunakan Alat Mate Manual untuk melakukan mate dan demate penyambung.  
+- Memastikan semua aktiviti ujian produk dilakukan oleh orang yang kompet en mengikut 
+prosedur yang berkaitan.  
+ Penjajaran dan mating penyambung ROV  
+Arahan ini terpakai kepada Palam Flying (pada OFL) dan Palam Gelung Balik.  
+Rujuk Figure 16  untuk mendapatkan imej tanda penjajaran dan mating  
+• Penyambung DigiTRONf telah direka untuk menyelaraskan diri semasa mating.  
+• Penyambung hendaklah diselaraskan secara kasar dengan menggunakan tanda 
+penjajaran pada badan palam, cakera penjaj aran dan kon receptacle.  
+• Pemasangan pemegang ROV mempunyai kepatuhan yang mencukupi untuk 
+menampungpelarasan kecil semasa pendekatan terakhir sebelum penyambungan 
+penyambung.  
+• Pastikan orientasi cakera penjajaran yang betul  
+• Apabila penyambung mated sepenuhnya, pengedap bibir tidak akan kelihatan dari 
+pandangan orang pertama kamera ROV, iaitu pandangan dari belakang penyambung. 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  37 daripada 
+46 
+ 
+Unrestricted   
+ Garisan nipis berwarna oren lebih kurang 2mm mungkin boleh dilihat dari pandangan sisi.  
+• Jika pengeda p bibir masih boleh dilihat dari pandangan orang pertama, keluarkan dan cuba 
+semula membuat sambungan dengan mengikuti prosedur sekali lagi.  
+• Sekiranya kedap bebibir masih dapat dilihat, keluarkan dan cuba buat sambungan dengan 
+mengikuti prosedur sekali lag i. 
+• Jika penyambung tidak boleh mated, kedua -dua palam dan receptacle perlu diperiksa jika 
+terdapat sebarang kerosakan penjajaran yang salah atau serpihan yang menghalang 
+sambungan.  
+• Sekiranya berlaku sebarang kerosakan, sila hubungi Sokongan Teknikal Siemen s Energy 
+untuk mendapatkan nasihat.  
+ 
+ 
+Pandangan Atas  
+ 
+ 
+ 
+ 
+ 
+Pandangan Sisi  
+ 
+ 
+ 
+Mated Sepenuhnya – Keterlihatan pengedap bibir  
+ 
+Tanda Penjajaran  
+Penunjuk Kedap Bibir  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  38 daripada 
+46 
+ 
+Unrestricted   
+  
+Figure 16   Tanda penjajaran dan petunjuk mating kedap bibir  
+ 
+ 
+  
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  39 daripada 
+46 
+ 
+Unrestricted   
+ Nilai salah penjajaran dan daya mating maksimum penyambung ROV  
+Rujuk bahagian 5.1 
+ Kelajuan mate / demate penyambung ROV  
+Penyambung telah direka untuk beroperasi merentasi pelbagai kelajuan mate / demate. Tidak ada 
+batasan praktikal untuk kelajuan penyambung yang boleh mated  atau demated, walau 
+bagaimanapun sebagai panduan kelajuan mating/demating tidak boleh melebihi seperti yang 
+dinyatakan dalam bahagian 5.1. 
+ Pemeriksa an pasca mating penyambung ROV  
+Semasa mating, penunjuk oren kedap bibir yang terletak di penyambung palam akan melipat ke 
+belakang dan hilang ke kon penjajaran pada penyambung receptacle. Selepas mating penyambung 
+berjaya dilakukan, tidak ada bahagian dari  kedap bibir penunjuk yang harus menjulur melalui 
+sambungan antara palam dan penyambung receptacle.  
+ Demating penyambung ROV  
+Demating dicapai dengan tarikan lurus pada pemegang ROV, cukup untuk melepaskan Snap Ring. 
+Daya yang diperlukan diperincikan di bawa h daya mekanikal di bahagian 5.1 
+9.9 Mating dan demating penyambung secara manual (tangan)  
+Untuk melakukan mating dan demating secara manual (menggunakan tangan), Alat Mate -Demate 
+Manual hendaklah digunakan ( Figure 17 ). Ini terpakai untuk melakukan mating dalam keadaan 
+kering, dan juga unt uk penyelam yang mengendalikan produk di dasar laut.  
+Alat ini perlu diselaraskan untuk sama ada operasi mating penyambung atau operasi demating, 
+dengan menggerakkan pin pivot lengan tuil ke dalam kedudukan yang berbeza, lihat Figure  18. 
+Lakukan ini sebelum menggunakan alat.  
+Alat ini tidak boleh disimpan di dasar laut tetapi hendaklah dibawa ke permukaan setelah kerja 
+intervensi selesai dan dibasuh denga n air tawar. Julat Suhu Penyimpanan alat ialah -40°C hingga 
++70°C  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  40 daripada 
+46 
+ 
+Unrestricted   
+ Amaran. Risiko tangan atau jari terperangkap yang boleh mengakibatkan kecederaan 
+atau kehilangan jari.  
+Jangan keluarkan penghadang plastik lutsinar daripada alat. Jangan gunakan alat ini j ika 
+penghadang telah rosak atau tiada.  
+ Amaran. Risiko kecederaan diri akibat daripada melepaskan tenaga mekanikal yang 
+disimpan apabila penyambung mated atau mated sebahagiannya.  
+Jangan ubah suai alat dalam apa jua cara kerana kekuatan mekanikalnya boleh 
+dikompromi.  
+ Amaran. Risiko kecederaan diri akibat daripada melepaskan tenaga mekanikal yang 
+disimpan semasa demating penyambung  
+Semasa proses demate, disebabkan beban yang tinggi daripada susunan spring dalam 
+penyambung, mungkin berla ku sedikit 'tendangan' yang boleh dirasai melalui alat apabila 
+palam dipisahkan daripada ciri selak dengan receptacle. Ini adalah fungsi yang normal 
+dan operator hendaklah bersiap sedia sebelum alat ini digunakan, supaya tidak ada 
+kejutan semasa operasi ya ng boleh menyebabkan risiko lain seperti kejadian terjatuh atau 
+tersungkur.  
+ Amaran. Risiko kecederaan diri akibat daripada melepaskan tenaga mekanikal yang 
+disimpan apabila penyambung mated atau mated sebahagiannya.  
+Jangan sekali -kali cuba untuk menguba h kedudukan pin pivot semasa penyambungnya 
+sedang mated sebahagiannya.  
+ Amaran. Risiko kecederaan diri akibat daripada melepaskan tenaga mekanikal yang 
+disimpan apabila penyambung mated atau mated sebahagiannya.  
+Pastikan alat ini terletak dengan betul da n kemas pada palam dan receptacle supaya alat 
+ini tidak boleh melepaskan salah satu penyambung yang sedang digunakan. Ini akan 
+menyebabkan berlaku tendangan yang besar pada penyambung palam dan / atau alat ke 
+arah operator disebabkan kerana tenaga mating y ang tinggi antara penyambung.  
+Pastikan penyambung adalah bebas daripada serpihan dan pertumbuhan marin sebelum 
+alat tersebut digunakan, terutama di sekitar kon pada receptacle di mana alat dipasang 
+(Figure 20 ). 
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  41 daripada 
+46 
+ 
+Unrestricted   
+ 
+ 
+Figure 17  Alat Mate/De -Mate Manual, Nombor bahagian S1U10509147  
+ 
+ 
+Figure 18  Kedudukan pin pivot lengan tuil Mate/demate  
+ 
+ 
+ 
+ 
+ 
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  42 daripada 
+46 
+ 
+Unrestricted   
+ Memasang palam ke alat mate/demate  
+• Alat ini direka untuk menerima palam melalui pemegang ROV dan dikunci ke dalam 
+kedudukan dengan memutarkan tuil pengaktifan pencetus, seperti di bawah ( Figure 19 ). 
+ 
+Figure 19  Pasang palam ke alat Mate/Demate  
+ Sambung alat ke receptacle  
+Dengan palam terkunci pada kedudukannya, alat ini boleh ditawarkan sesuai dengan petunjuk 
+penjajaran receptacle ( Figure 16 ). Terdapat kepatuhan yang mencukupi untuk menampung 
+alat yang dimiringkan untuk membolehkan alat ladam disambungkan di belakang kon 
+tangkapan receptacle seperti yan g digambarkan di bawah ( Figure 20 ). 
+ 
+ 
+ 
+ 
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  43 daripada 
+46 
+ 
+Unrestricted   
+Figure 20  Pemasangan receptacle ke alat Mate/Demate  
+ Operasi Mate  
+Mate dengan menggerakkan lengan tuil seperti yang ditunjukkan di bawah ( Figure 21 ) 
+ 
+ 
+Figure 21  Operasi Mate  
+ Operasi Demate  
+• Periksa pin pivot lengan tuil berada dalam kedudukan demate ( Figure 18 ), atau letak semula. 
+Lakukan ini sebelum cuba untuk demate penyambung  
+• Pasangkan alat seperti sebelumnya ke penyambung mated dan kemudian demate 
+penyambung den gan menggerakkan lengan tuil seperti yang ditunjukkan dalam Figure 22 . 
+ 
+
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  44 daripada 
+46 
+ 
+Unrestricted   
+Figure 22  Operasi Demate  
+  No. Dokumen:  IOM-009 
+ Tarikh 
+Keluaran:  27/06/2022  
+ Semakan:  04 
+ Halaman:  45 daripada 
+46 
+ 
+Unrestricted   
+10 KOMEN/MAKLUM BALAS PELANGGAN  
+Sila lengkapkan bahagian Tandatangan di bahagian bawah borang untuk mengesahkan bahawa 
+setiap halaman dokumen ini telah dibaca dan dipatuhi sepenuhnya.  
+Nama dan Parap Pemula (HURUF BESAR)  Tarikh  
+  
+ Maklumat Perhubungan   Maklumat Perhubungan  
+  
+Rujukan Projek  Pelanggan  Wilayah  
+   
+Jenis Produk  Nombor Bahagian (P/N)  Nombor Siri (S/N)  
+   
+Sila masukkan butiran di bawah cth. komen; aduan; bukti amalan yang baik; laporan insiden; 
+pemerhatian dan cadangan, termasuk yang berkaitan dengan kesihatan, keselamatan atau 
+persekitaran, dll., juga merangkumi sebarang nama/maklumat perhubungan kakitangan lain 
+yang berkaitan.  
+  
+ 
+Bahagian Tandatangan  
+Nama (HURUF BESAR)  Tandatangan  Tarikh  
+   
+Sila e -melkan borang yang lengkap kepada Pegawai Keselamatan Produk di alamat berikut: 
+subsea.connectors.productsafety.gb@siemens -energy.com
+ 
+Unrestricted  SALINAN TERKAWAL  
+ 
+Diterbitkan oleh:  
+Siemens Energy Global GmbH & Co. KG  
+Aplikasi Perindustrian  
+Freyeslebenstraße 1  
+91058 Erlangen  
+Jerman  
+E-mel: subsea@siemens -energy.com  
+Untuk mendapatkan maklumat lanjut, sila layari laman web kami:  
+www.siemens -energy.com/subsea  
+ 
+Tertakluk pada perubahan dan ralat. Mak lumat yang diberikan dalam dokumen ini hanya 
+mengandungi perihalan umum dan/atau ciri prestasi yang mungkin tidak selalu menggambarkan 
+secara khusus yang diterangkan, atau yang mungkin mengalami pengubahsuaian semasa 
+pembangunan produk pada masa hadapan. C iri-ciri prestasi yang diminta hanya mengikat apabila 
+ia dipersetujui secara nyata dalam kontrak yang dimuktamadkan.  
+ 
+ 
+ 
+Siemens Energy ialah tanda dagangan berdaftar yang dilesenkan oleh Siemens AG  Untuk AS Diterbitkan oleh  
+Siemens Energy, Inc.  
+Aplikasi Perindustrian  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+USA  

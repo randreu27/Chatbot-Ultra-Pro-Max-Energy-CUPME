@@ -1,0 +1,234 @@
+ 
+ 
+The management system requirements in DIN EN ISO/IE C 17025 are written in language relevant to operations o f testing 
+laboratories and operate generally in accordance wi th the principles of DIN EN ISO 9001. 
+ 
+The certificate together with its annex reflects th e status at the time of the date of issue. The curr ent status of the scope of 
+accreditation can be found in the database of accre dited bodies of Deutsche Akkreditierungsstelle GmbH .  
+https://www.dakks.de/en/content/accredited-bodies-d akks 
+ 
+ 
+Abbreviations used: see last page  Page 1 of 4 
+ 
+This document is a translation. The definitive vers ion is the original German annex to the accreditati on certificate. 
+ 
+ 
+Deutsche Akkreditierungsstelle GmbH 
+ 
+ 
+Annex to the Accreditation Certificate D-PL-21472-0 1-00 
+according to DIN EN ISO/IEC 17025:2018 
+ 
+ 
+Valid from: 14.01.2021 
+Date of issue: 14.01.2021 
+ 
+Holder of certificate: 
+Siemens Energy Global GmbH & Co. KG 
+Materialprüflabor Siemens Trafowerk Nürnberg 
+Katzwanger Straße 150, 90461 Nürnberg  
+ 
+ 
+Tests in the fields: 
+Determination of material properties of insulating liquids especially transformer oil and magnetic 
+properties of electrical sheet for use in transform ers  
+ 
+Within the given fields the laboratory is permitted , without being required to inform and obtain 
+prior approval from DAkkS, to use standard test met hods listed here with different issue dates or 
+revision status updates.  
+The laboratory maintains a current list of all test  methods in a flexible scope of accreditation. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Annex to the accreditation certificate D-PL-21472-0 1-00 
+ 
+Valid from: 14.01.2021 
+Date of issue: 14.01.2021  Page 2 of 4 
+- Translation - 
+ 
+ 
+ 
+Test Method  Title  Process -Matrix -
+Number +) 
+ISO 2049  
+1996 Petroleum products  - Determination of colour 
+(ASTM scale)  
+   
+ISO 12185  
+1996 Crude petroleum and petroleum products - 
+Determination of density - Oscillating U-tube metho d  
+   
+DIN EN 12766 -1 
+2000-11 Petroleum products and used oils - Determination of 
+PCBs and related products - Part 1: Separation and 
+determination of selected PCB congeners by gas 
+chromatography (GC) using an electron capture detec tor 
+(ECD)  
+   
+DIN EN 12766 -2 
+2001-12 Petroleum products and used oils - Determination of 
+PCBs and related products - Part 2: Calculation of 
+polychlorinated biphenyl (PCB) content 
+  
+DIN EN 14210  
+2004-03 Surface active agents - Determination of interfacial 
+tension of solutions of surface active agents by th e 
+stirrup or ring method  
+   
+IEC 62961  
+2018-09 Insulating liquids  - Test methods for the determination of 
+interfacial tension of insulating liquids - Determi nation 
+with the ring method  
+   
+IEC 60156  
+2018 Insulating liquids - Determination of the breakdown 
+voltage at power frequency - Test method 
+  
+IEC 60247  
+2004 Insulating liquids - Measurement of relative permittivity, 
+dielectric dissipation factor (tan δ) and d.c. resi stivity  
+   
+IEC 60404 -3 
+2010 Magnetic materials - Part 3: Methods of measurement of 
+the magnetic properties of magnetic sheet and strip  by 
+means of a single sheet tester 
+(IEC 60404-3:1992 + amendment1:2002 + 
+amendment2:2009 + corrigendum:2009)  
+   
+IEC 60404 -11  
+2012 Magnetic materials - Part 11: Method of test for the 
+determination of surface insulation resistance of 
+magnetic sheet and strip  
+(IEC 60404-11:1991 + amendment 1:1998 + amendment 
+2:2012)  
+ 
+ 
+ 
+ 
+Annex to the accreditation certificate D-PL-21472-0 1-00 
+ 
+Valid from: 14.01.2021 
+Date of issue: 14.01.2021  Page 3 of 4 
+- Translation - 
+ 
+ 
+ 
+Test Method  Title  Process -Matrix -
+Number +) 
+   
+IEC 60422  
+2013 Mineral insulating oils in electrical equipment  - 
+Supervision and maintenance guidance  
+(only: Chapter 5.2 Colour and appearance )  
+   
+IEC 60450  
+2004  
+Änderung 1 
+2007 Measurement of the average viscometric  degree of 
+polymerization of new and aged cellulosic electrica lly 
+insulating materials  
+   
+IEC 60567  
+2011 Oil -filled electrical equipment - Sampling of gases and 
+analysis of free and dissolved gases - Guidance  
+   
+IEC 60666  
+2010 
+Anhang 3.2 
+ Detection and determination of specified additives in 
+mineral insulating oils - Annex 3.2: Determination of 2,6-
+di-tert-butyl-para-cresol by infrared spectrometry - 
+procedure B   
+   
+IEC 60666  
+2010 
+Anhang B Detection and determination of specified additives in 
+mineral insulating oils - Annex B: Analysis method for 
+determination of passivators in petroleum products by 
+High Performance Liquid Chromatography  
+   
+IEC 60814  
+1997 Insulating liquids - Oil -impregnated paper and pressboard 
+- Determination of water by automatic coulometric K arl 
+Fischer titration 
+  
+PA3 -042 -2019_4_11  
+2019-04 In -house Method: Gaschromatographical  water content 
+determination of liquid Ester by HID (Helium Ionisa tion 
+Detector)   
+   
+IEC 61198  
+1993 Mineral insulating oils - Methods for the determination of 
+2-furfural and related compounds  
+   
+IEC 61619  
+1997 
+ Insulating liquids  - Contamination by polychlorinated 
+biphenyls (PCBs) - Method of determination by capil lary 
+column gas chromatography 
+  
+IEC 62021 -1 
+2003 Insulating liquids - Determination of acidity - Part 1: 
+Automatic potentiometric titration  
+   
+ 
+ 
+ 
+ 
+Annex to the accreditation certificate D-PL-21472-0 1-00 
+ 
+Valid from: 14.01.2021 
+Date of issue: 14.01.2021  Page 4 of 4 
+- Translation - 
+ 
+ 
+ 
+Test Method  Title  Process -Matrix -
+Number +) 
+IEC 62021 -2 
+2007 Insulating liquids - Determination of acidity - Part 2: 
+Colourimetric titration  
+   
+IEC 62535  
+2008 Insulating liquids - Test method for detection of 
+potentially corrosive sulphur in used and unused 
+insulating oil  
+   
+IEC 62697 -1 
+2012 Test methods for quantitative determination of corr osive 
+sulfur compounds in unused and used insulating liqu ids - 
+Part 1: Test method for quantitative determination of 
+dibenzyldisulfide (DBDS)  
+   
+ASTM D 7042  
+2016e3 Standard Test Method for Dynamic Viscosity and Dens ity 
+of Liquids by Stabinger Viscometer (and the Calcula tion of 
+Kinematic Viscosity)  
+ 
+ 
+ 
+ 
+ 
+Abbreviations used: 
+ 
+ASTM  American Society for Testing and Materials  
+EN  European Standard  
+IEC  International Electrotechnical Commission  
+ISO  International Organization for Standardization  
+PA  In -house Method “Materialprüflabor Trafowerk Nürnberg”  
+Process -Matrix -
+Number +)  Number of the characteristics within the Process -Matrix  
+for Mineral Oel (72 FB 005.26 Version 1.2, August 2 017) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

@@ -1,0 +1,670 @@
+Unrestricted © Siemens Energy, 2023 Siemens Energy is a trademark licensed by Siemens AG.
+Serious ramp -up challenges
+in the wind business overshadow 
+excellent performance in 
+conventional energy business
+Christian Bruch, President and CEO Siemens Energy
+Jochen Eickholt, CEO Siemens Gamesa
+Maria Ferraro, CFO Siemens Energy
+Analyst presentation Q3 FY23 
+Berlin, August 7, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20232
+2023 -08-07
+ Siemens Energy is a trademark licensed by Siemens AG.Disclaimer
+INFORMATION AND FORWARD -LOOKING STATEMENTS This document contains statements related to our future business and financial perfor mance, and future events or 
+developments involving Siemens Energy that may constitute forward -looking statements. These statements may be identified by word s such as “expect,” “look forward to,” 
+“anticipate” “intend,” “plan,” “believe,” “seek,” “estimate,” “will,” “project,” or words of similar meaning. We may also mak e forward -looking statements in other reports, prospectuses, 
+in presentations, in material delivered to shareholders, and in press releases. In addition, our representatives may from tim e to time make oral forward -looking statements. Such 
+statements are based on the current expectations and certain assumptions of Siemens Energy ´s management, of which many are beyond Siemens Energy ´s control. These are 
+subject to a number of risks, uncertainties, and other factors, including, but not limited to, those described in disclosures , in particular in the chapter “Report on expected 
+developments and associated material opportunities and risks” in the Annual Report. Should one or more of these risks or unce rtainties materialize, should acts of force majeure, 
+such as pandemics, occur, or should underlying expectations including future events occur at a later date or not at all, or s hould assumptions prove incorrect, Siemens Energy ´s 
+actual results, performance, or achievements may (negatively or positively) vary materially from those described explicitly o r implicitly in the relevant forward -looking statement. 
+Siemens Energy neither intends, nor assumes any obligation, to update or revise these forward -looking statements in light of dev elopments which differ from those anticipated. This 
+document includes supplemental financial measures – that are not clearly defined in the applicable financial reporting framework  – and that are or may be alternative performance 
+measures (non -GAAP -measures). These supplemental financial measures should not be viewed in isolation or as alternatives to meas ures of Siemens Energy ´s net assets and 
+financial position or results of operations as presented in accordance with the applicable financial reporting framework in i ts consolidated financial statements. Other companies 
+that report or describe similarly titled alternative performance measures may calculate them differently. Due to rounding, nu mbers presented throughout this and other documents 
+may not add up precisely to the totals provided and percentages may not precisely reflect the absolute figures.
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20233
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2023 -08-07CEO section
+Christian Bruch, CEO
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20234
+2023 -08-07Key Messages
+Q3 FY23 Financial Performance1
+•Orders: +54.2% comp.2 at €14.9bn
+•Order backlog at new record high of €109bn
+•Revenue: + 8.0% comp.2 at €7.5bn; book -to-bill of 1.98 
+•Profit before SI: neg. € 2.0bn  (Q3 FY22: neg . €222m)
+•Profit  margin before SI: neg. 27.3% (Q3 FY22: neg. 3.0 %)
+•FCF pre tax: €27m  (Q3 FY22: neg. €25m) Market Environment•Excellent performance of former Gas and Power businesses
+•Setback at Siemens Gamesa due to product quality problems, 
+increased product costs, and offshore ramp -up challenges; 
+remediation actions initiatedHighlights / Lowlights
+Siemens Energy FY23 Guidance adjusted
+Unrestricted © Siemens Energy, 20234 Analyst Call | Q3 FY23•Financial projections for Gas Services, Grid Technologies and 
+Transformation of Industry unchanged
+•Revenue : 9% to 11% comparable2; prev. 10% to 12% 
+•Profit  margin  before  SI: (10)% to (8)%; prev. low end of 1% to 3%
+•Net loss: around  €4.5bn; prev. exceeding  prior fiscal  year’s  level of €712m 
+by up to a low-triple -digit million  € amount
+•Free cash  flow pre tax: up to a negative  low triple -digit million  € amount ; 
+prev. positive  up to a low triple -digit million  €•Strong market dynamics in former Gas and Power businesses continue
+•Still strong demand in wind; rising awareness at customers regarding 
+challenging economics
+1 Prior year figures are presented on a comparable basis | 2 Comparable: excluding currency 
+translation and portfolio effects
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20235
+2023 -08-07Siemens Energy without Siemens Gamesa: Successful turnaround 
+Continuous improvement across all KPIs, delivering on its targets 
+19.320.826.7
+18.927.3
+FY20 9M FY23 FY22 FY21 9M FY2218.0 18.3 19.2
+13.416.1
+FY22 FY20 9M FY22 9M FY23 FY21
+0.20.8 0.80.71.4
+FY20 9M FY23 FY21 FY22 9M FY224.4% 8.7% 1.3% 4.3%Orders 
+in €bnRevenue 
+in €bn
+Profit before SI1 
+in €bn
+0.91.12.3
+1.41.6
+9M FY22 FY22 FY20 FY21 9M FY23Free Cash Flow pre -tax 
+in €bn
+4.9%•The outlook and business 
+momentum remain strong
+•Excellent performance of the 
+former GP business (representing 
+2/3 of our revenue) 
+•Growing order volume and order 
+quality leads to a healthy order 
+backlog with better margin profile
+•Strong revenue growth and 
+margin uptick across the board 
+•Excellent cash flow performance
+•On strong trajectory to reach FY23 
+financial projections for GS, GT 
+and TI
+X.X% Profit margin before Special Items
+1 Prior year figures are presented on a comparable basis
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20236Version 18
+2023 -08-07
+Q3 FY23 Awards and Milestones
+Reducing the CO2 footprint Transport and storage of energy Power generation with low or zero emissions
+New OCGT  project  to help facilitate  
+Ireland’s  energy  transition
+•Improves  Ireland’s  energy  supply  
+security  during  periods  of peak  
+energy  demand  
+•Castlelost  Open  Cycle  Gas Turbine  
+(OCGT)  with five SGT-800 turbines  
+with a total capacity  of 275 MW 
+•10- year service  contract
+•Capable  of being  fired by hydrogen  
+with zero carbon  emissionGreen electricity for more than one 
+million Danish households
+•More than 1 GW offshore wind park 
+in Denmark
+•72 x 14 MW wind turbines 
+•40 out of 72 wind turbines equipped 
+with recyclable blade
+•Operational no later than end of 
+2027Grid stabilization systems for more 
+renewable energy in the UK
+•Three grid stabilization plants 
+("Synchronous Condenser") 
+•Support Conrad Energy in solving 
+cost-efficiently stability problems in 
+the electricity system caused by the 
+decline of conventional power 
+plants in the grid  Advisory Services for largest net -
+zero LNG export facility
+•Engineering services for the design 
+of compression and electrical 
+equipment at LNG project Ksi Lisims  
+•Hydroelectric power supplied by BC1 
+grid
+•Electric motor -driven compression, 
+combined with a renewable power 
+supply and several other 
+technologies reduce emissions by 
+>90%Gas Services Siemens Gamesa Grid Technologies Transformation of Industry
+1British Columbia
+Unrestricted © Siemens Energy, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20237
+2023 -08-07Siemens Gamesa onshore business
+Background on current challenges
+Technical issues with 4.X and 5.X platforms
+Lower availability levels triggered root-cause analysis
+•Some 4.X and 5.X wind turbines showed abnormal vibrations 
+during the regular remote monitoring
+•Mainly blades and main bearings cause of vibrations
+•Disqualification of certain third -party suppliers
+Only limited part of the onshore fleet is affected
+•4.X and 5.X wind turbines are affected
+•Due to multi -sourcing, not all onshore wind turbines comprise the 
+same components
+Approach defined to address affected components
+•Analysis was conducted pro -actively – customers did not report 
+any operational failure
+•All turbines are being monitored 24/7 via remote centers; 
+additional inspection strategies have been implemented
+•Replacement or repair of components depending on site -specific 
+conditions
+•Exchange of components is optimized to minimize downtimeWind turbine fleet1 
+(~59k onshore wind turbines)
+96%
+Others3%4.X
+1%5.X
+BladeMain 
+Bearing
+Unrestricted © Siemens Energy, 2023Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202371  Units installed (excl. units under construction)
+Siemens Gamesa onshore business
+Mitigation measures and financial impact
+€1.6bn charge in Q3 as well as lower profit contribution from 
+the future execution of Siemens Gamesa’s order backlog
+4.X and 5.X corrective measures to be implemented progressively as part of 
+maintenance programs avoiding / minimizing clients’ loss of energy production 
+Wind turbine 
+repairs
+Knock -on 
+impacts2Service1Dedicated taskforce established
+•Composed of senior experts from Siemens Gamesa, Siemens Energy and 
+AlixPartners
+•Focus on implementation of mitigation measures, development of 
+alternative solutions and close collaboration with suppliers and customers
+•Reporting directly to Board of Directors of Siemens Gamesa
+Remediation actions 
+have been defined for all related areas
+Supply 
+chain•Strengthened new supplier qualification process
+•Disqualification of certain third -party suppliers
+•Claims process initiated
+Manu -
+facturing•Strict quality management in factories with new 
+organization since January 2023
+•Optimization of Siemens Gamesa assemblies 
+and blade manufacturing 
+Product 
+design and 
+development•Focus on fewer variants accommodating fewer markets
+•Leverage experience between offshore and onshore
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20238
+2023 -08-071 Impact of higher maintenance costs in Long Term Plans (LTP) including cum catch effect from 
+Percentage -of-Completion (POC) accounting | 2 Knock -on impacts including meeting client 
+contractual obligations
+Siemens Gamesa offshore business
+Background of current challenges
+Challenging ramp -up 
+in different offshore locations
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20239
+2023 -08-07Ramp -up progress and targets
+Location Current challenge
+Aalborg
+since 2002•Introduction of SG 11 -200
+•Simultaneous production of prototypes for SG 14 -222 and SG 14 -236
+•Ramp -up of prototype production parallel to construction to support 
+volume growth
+Cuxhaven  
+since 2017•Preparation of start of production (SOP) for SG 14, following 
+introduction of SG 11 
+•Complete rearrangement of factory layout and infrastructure to facilitate 
+massive increase in size and weight of new product and higher volumes
+Hull  
+since 2016 •Rearrangement of site, more than doubling the size of the 
+manufacturing facilities, adding 200 jobs
+•SOP of next generation product SG 14 -222 (108 m blade length)
+Le Havre
+since 2022•Ramp -up of complete new factory, opening in 2022, creating 750 jobs
+•Parallel production of blades and nacelles under one roof
+•Simultaneous production of two blade types during ramp -up 
+adding complexity
+Hull (     )
+Le Havre (     |       ) Cuxhaven (       )   Aalborg (      )Blades
+Nacelles
+
+Siemens Gamesa offshore business
+Mitigation measures and financial impact
+Remediation actions
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202310€0.6bn charge in Q3 as well as lower profit contribution from the 
+future execution of Siemens Gamesa’s order backlog
+•Challenging ramp -up of new capacity and products, leading to lower 
+manufacturing loads and extra -costs
+•Lower manufacturing volume limiting productivity and fixed cost 
+absorption
+•Direct material cost evolution impacted by
+•Permanent magnets and higher labor cost inflation
+•Re-routing of supplies due to bottlenecks impacting material price
+•Geographic rebalancing of supply chain to increase resilience impacting 
+sourcing costs
+•Impact extending to profitability of legacy backlog and binding  preferred 
+supplier agreementsPricing and 
+terms and 
+conditions  •New pricing and terms and conditions introduced in 
+commercial contracts and preferred supplier negotiations 
+since Q2 2022
+•Discussions with clients on legacy orders and preferred 
+supplier agreements ongoing
+Offshore 
+masterplan Additional productivity and cost -out measures being defined             
+Future growth •CAPEX decisions linked to return on investment /
+required improvement in offshore industry economics
+•Working with government and clients to implement 
+new boundary conditionsRamp -up challenges Direct material costs
+Lower manufacturing 
+volumeLegacy backlogImpacting 
+factors
+2023 -08-07
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202311
+2023 -08-07
+Task force in place
+Sound offshore quality with high availability levels
+External validation and support by renowned companies 
+Clear accountabilities through new organization
+Strengthening of processesClear priority 
+on stability, 
+profitability 
+and then 
+growth
+Siemens Gamesa: Measures have been defined and   
+are under implementation
+Slower growth and longer path to target profitability
+2023 -08-07
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202312
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2023 -08-07CFO section
+Maria Ferraro, CFO
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202313
+2023 -08-07Siemens Energy Group: Strong growth in orders and revenue but 
+profitability impacted by charges at Siemens Gamesa
+Q3 FY231
+(222) (2,048)
+Q3 FY22 Q3 FY23n/a 9.814.9
+Q3 FY22 Q3 FY23+54% / +51%2
+4.7 4.82.5 2.7
+Q3 FY22 Q3 FY237.3 7.5+8% / +3%2Service
+New Units
++8%
++1%
+1 Prior year figures are presented on a comparable basis | 2 xx%/xx% = comparable (excluding currency translation and portfolio 
+effects) / nominal | 3 As of June 30, 2023 | 4 Free Cash Flow pre taxOrders 
+in €bnRevenue 
+in €bnProfit before SI 
+in €m
+Order backlog3 €109bn
+Q2 FY23: €102bn Book -to-bill Ratio  1.98
+Q3 FY22: 1.35Free Cash Flow4 €27m 
+Q3 FY22: €(25)m (3.0)% (27.3)%
+X.X% Profit margin before Special Items
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202314
+2023 -08-07Increasing order backlog as a source of strength and resilience
+SE order backlog development (€bn)
+14Book -to-Bill Q3 FY23
+•High order backlog is a source 
+of strength and resilience
+•Increase across all businesses 
+•Stronger growth in New Units 
+supporting rejuvenation of our 
+serviced fleet
+•Resilience from long -term service 
+business particular in Gas Services
+•Backlog covering > 3x annual 
+revenue0.80
+1.211.19
+2.43
+1.23
+1.72GS
+GT
+TI2.35
+Siemens 
+Gamesa3.58
+12-month rolling31 34425347505556
+FY20 FY21 FY2278
+Q3 FY238497109+39%
+Service New units
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202315
+2023 -08-07Continuous strong liquidity position
+Net cash/(Net debt) as of June 30, 2023 (in €m )
+4,374
+1,487
+Cash and cash 
+equivalents5373,222
+46
+Short Term Debt Net cash/ 
+(Net debt)Long Term Debt Pension provisions Credit guarantees Adjusted Net 
+cash/(Net debt)(336)
+(919)
+Siemens Energy: €9.4bn liquidity available (€4.4bn cash, € 5.0bn undrawn facilities)S&P Rating update asofJuly 10, 2023: 
+BBB-/ outlook stable
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202316
+2023 -08-07Gas Services : Profit before SI almost doubled year -over -year
+Q3 FY231
+2.6 2.63.84.5
+2.2
+Q2 Q3 FY22 Q4 Q1 FY23 Q3(17%) / (17%)2
+2.42.82.62.8 2.7
+Q3 FY22 Q3 Q4 Q2 Q1 FY23+21% / +14%2
+153117318299 296
+Q3 Q3 FY22 Q2 Q4 Q1 FY23+93%
+•Significant decrease driven by lower volume 
+from large orders•Substantial growth in the new unit and the 
+service business•Sharp increase due to higher volume, 
+continued operational improvements as well 
+as a more favorable business mix12.4% 10.5% 6.4% 4.2% 10.9%Orders 
+in €bnRevenue 
+in €bnProfit before SI 
+in €m
+16
+2023 -08-07X.X% Profit margin before Special Items
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 20231 Prior year figures are presented on a comparable basis | 2 xx%/xx% = comparable (excluding currency translation and portfolio 
+effects) / nominal
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202317
+2023 -08-07Grid Technologies : Strong improvement across all KPIs
+Q3 FY231
+2.73.86.3
+2.94.3
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+64% / + 61%2
+1.62.0
+1.61.7 1.8
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+19% / +15%2
+2677110 115159
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+510%
+•Continuous strong order momentum 
+supported by large orders in the solution 
+business, including an order for offshore grid 
+connections in the North Sea
+•All regions showed growth led by Europe•Significant growth supported by all 
+businesses on the back of the strong order 
+intake in prior fiscal year•Sharp increase driven by margin -accretive 
+volume growth and operational 
+improvements
+•Prior year quarter was burdened by strong 
+headwinds from supply chain constraints6.9% 6.6% 1.6% 3.9% 8.7%Orders 
+in €bnRevenue 
+in €bnProfit before SI 
+in €m
+17
+2023 -08-07X.X% Profit margin before Special Items 1 Prior year figures are presented on a comparable basis | 2 xx%/xx% = comparable (excluding currency translation and portfolio 
+effects) / nominal Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202318
+2023 -08-07Transformation of Industry : Continuous margin progression
+Q3 FY231
+1.21.6
+1.21.41.3
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+14% / +7%2 
+1.01.3
+1.01.21.1
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+10% / +6%2
+17475773 70
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+319%
+•Significant increase supported by growth in 
+the Electrification, Automation, Digitalization 
+and the Industrial Steam Turbines 
+Generators businesses•Clear revenue growth supported by all four 
+independent businesses, mainly driven by 
+the service business•Sharp improvement driven by higher service 
+share and a better cost position resulting 
+from structural capacity adjustments
+•Biggest improvements in the Electrification, 
+Automation, Digitalization and the 
+Compression businesses5.7% 6.3% 1.6% 3.8% 6.5%Orders 
+in €bnRevenue 
+in €bnProfit before SI 
+in €m
+18
+2023 -08-07X.X% Profit margin before Special Items 1 Prior year figures are presented on a comparable basis | 2 xx%/xx% = comparable (excluding currency translation and portfolio 
+effects) / nominal Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202319
+2023 -08-07Siemens Gamesa : Strong order growth, profitability burdened by 
+€2.2bn charge
+Q3 FY231
+3.54.4
+1.63.67.4
+Q3 FY22 Q4 Q1 FY23 Q2 Q3+113% / + 109%2
+2.43.4
+2.02.42.1
+Q3 FY22 Q4 Q1 FY23 Q2 Q3(12%) / (16%)2
+(382)374
+(759)(374)
+(2,550)
+Q3 FY22 Q4 Q1 FY23 Q2 Q3(568)%
+•Orders more than doubled due to a higher 
+volume from large orders, including a single 
+offshore order worth €2.3bn•Revenue down in WTG equipment and 
+Service•Profit before SI burdened by charges 
+totaling €2.2bn which included €1.6bn 
+related to quality issues of certain onshore 
+platforms
+•The other charges mainly relate to increased 
+product costs in the offshore business(37.8)% (15.4)% (15.7)% 11.1% (124.1)%Orders 
+in €bnRevenue 
+in €bnProfit before SI 
+in €m
+19X.X% Profit margin before Special Items 1 Prior year figures are presented on a comparable basis | 2 xx%/xx% = comparable (excluding currency translation and portfolio  
+effects) / nominal
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202320
+2023 -08-07Siemens Gamesa: Q3 Charge of €2.2bn 
+mainly related to Quality Issues and 
+increased Product Cost
+Q3 Siemens Gamesa charges  (in €bn)
+Quality(0.4)
+Product Cost(0.2)
+Ramp -up /
+Others(2.2)
+∑ Profit before SI 
+Q3 Impact(1.6)▪Quality SG 5.X / SG 4.X (€1.6bn): Product quality issues 
+relating to onshore platforms 4.X and 5.X (mainly increase in 
+onerous loss provision)
+▪Product cost (€0.4bn): Increased product cost led to onerous 
+loss provisions and/or termination fees for certain offshore 
+contracts / binding offers
+▪Ramp -Up Challenges causing project delays and higher 
+underutilization
+▪Others, incl. revaluation of Service inventory
+▪Negative tax effects (€0.7bn) results from valuation allowances 
+on deferred tax assets in Germany, US, Spain and Mexico
+▪Cash flow impact from the charge will be spread over the next 
+several years
+Unrestricted © Siemens Energy, 2023Analyst Call | Q3 FY23 20
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202321
+2023 -08-07Siemens EnergyRevenue Growth2Profit3Margin before SI
+1 The outlook for Siemens Energy assumes no major negative financial impacts from COVID -19 or other pandemic -related events, no fu rther deterioration in the supply chain 
+and raw material cost environment, and excludes charges related to legal and regulatory matters | 2 Excluding currency translation and portfolio effects | 3 Profit: Earnings 
+before financial result, income taxes, amortization expenses related to intangible assets acquired in business combinations, and goodwill impairments 9 –11% (prev. 10 –12%)
+Gas Services 10 –12% 9 –11%
+Grid Technologies 12 –14% 6 –8%
+Transformation of Industry 8 –10% 3 –5%Business Area AssumptionsOutlook FY231
+We expect a net loss of around €4.5bn (prev. exceeding prior fiscal year’s level by up to a low triple -digit million € amount)
+We expect a free cash flow  pre-tax up to a negative low triple -digit million € amount (prev. positive up to a low triple -digit million € amount)
+21Siemens Gamesa (3) –0% (prev. pos. 6 – 10%) around neg. €4.3bn (prev. towards neg. 11%)neg. 10 –8% (prev. around thelowend of1 – 3% )
+Revenue Growth2 Profit3Margin before SIFinancial outlook adjusted
+Fiscal Year 2023
+Unrestricted © Siemens Energy, 202322
+2023 -08-07Analyst Call | Q3 FY23Turnaround Siemens Gamesa by
+a) fixing onshore quality and reducing costs 
+b) managing the ramp up in offshore and cost structure
+c) strengthening processes
+d) focusing on reduced number of regions and product variants1
+2Key Priorities
+Continue to leverage new operating model for Siemens 
+Energy to capitalize on market opportunities and to drive 
+performance at former Gas & Power businesses
+Unrestricted © Siemens Energy, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202323
+2023 -08-07
+We energize society
+Oktober 202223
+Unrestricted © Siemens Energy, 2023
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202324
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2023 -08-07Questions & 
+Answers
+Christian Bruch and Maria Ferraro
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202325
+2023 -08-07Financial Calendar
+2023
+Siemens Energy is a trademark licensed by Siemens AG.
+Q3 FY23
+Contact Investor Relations
+Aug 7
+ Nov 15
+ Nov 21 -22
+Q4 FY23 
+ Capital Market Day
+Feb 7
+Q1 FY24
+Michael Hagmann
+Head of Investor Relations
+michael.hagmann@siemens -energy.com
++49 173 2669650Harald Albrecht
+albrecht.harald@siemens -energy.com
++49 174 1766254
+Cristina Perea Saenz De Buruaga
+Cristina.perea@siemensgamesa.com
++34 600 92 27 80Siemens Energy AG
+Otto-Hahn -Ring 6
+81739 Munich, Germany
+investorrelations@siemens -energy.com
+www.siemens -energy.com/investorrelations
+Tobias Hang
+tobias.hang@siemens -energy.com
++49 172 5744423
+Aug / Sep
+Conferences and 
+roadshows
+Lisa Class
+Team Assistant
+lisa.class@siemens -energy.com
++49 89 6362 5358
+2024
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202326
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2023 -08-07Appendix
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202327
+2023 -08-07Q3 FY22 Q4 FY22 Q1 FY23 Q2 FY23 Q3 FY23WTGProfit Margin before SI (20.1)% 7.2% (28.7)% (22.6)% (131.8)%OnshoreRevenue (€m) 1,096 1,875 751 1,042 651
+Volume (MWe) 1,529 1,794 1,080 1,487 1,300
+Order intake (€m) 1,068 1,743 909 710 573
+Order intake (MW)2 1,204 1,360 961 794 717
+Order backlog (€m) 6,094 5,939 5,879 5,483 5,318
+ASP (€m/MW)20.89 0.83 0.95 0.90 0.80OffshoreRevenue (€m) 808 777 829 827 964
+Volume (MWe) 775 606 698 719 871
+Order intake (€m) 2,094 1,566 212 1,791 5,279
+Order intake (MW) 1,753 1,036 0 1,496 4,884
+Order backlog (€m) 10,556 11,360 10,462 11,379 15,771Additional financial disclosure for Siemens Gamesa1ServiceRevenue (€m)532 721 428 569 438
+Order intake (€m)361 1,097 488 1,142 1,507
+Order backlog (€m)17,330 17,752 17,357 17,770 18,808
+Installed Fleet (MW)124,461 127,476 129,664 131,574 133,684
+Fleet under maintenance (MW)84,203 82,276 83,463 83,574 83,297
+Profit Margin before SI 0.3% 25.3% (71.3)% 8.3% (105.1)%
+1 Prior year figures are presented on a comparable basis | 2 Onshore order intake (MW) and average selling price of onshore order intake includes only wind orders 
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202328
+2023 -08-07Net Income Transition
+Siemens Energy
+In €m Q3 FY22 Q3 FY23 Q1-Q3 FY22 Q1-Q3 FY23
+Gas Service 42 291 417 939
+Grid Technologies (21) 154 90 365
+Transformation of Industry (39) 65 (98) 198
+Siemens Gamesa (405) (2,561) (1,048) (3,770)
+Reconciliation to Siemens Energy (58) (38) (9) (141)
+Profit (481) (2,089) (647) (2,409)
+Profit margin (6.6)% (27.8)% (3.3)% (10.7)%
+Amortization of intangible assets acquired in business combinations and 
+goodwill impairments(96) (66) (288) (233)
+Financial result 5 (32) (13) (99)
+Income before income taxes (572) (2,187) (948) (2,740)
+Income tax (expenses/gains) 8 (744) (118) (978)
+Net income (564) (2,931) (1,066) (3,718)
+Attributable to
+Non-controlling interests (144) 24 (354) (86)
+Shareholders of Siemens Energy AG (420) (2,955) (711) (3,632)
+Note: Prior year figures are presented on a comparable basis 
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202329
+2023 -08-07Cash Flow Statement
+Siemens Energy
+In €m Q3 FY22 Q3 FY23 Q1-Q3 FY22 Q1-Q3 FY23
+Net income (564) (2,931) (1,066) (3,718)
+Amortization, depreciation and impairments      516 406 1,250 1,125
+Change in operating net working capital
+Contract assets (272) 209 116 (58)
+Inventories (352) (486) (1,634) (1,582)
+Trade and other receivables 37 (568) (120) (1,219)
+Trade and other payables 367 278 247 166
+Contract liabilities 332 539 1,754 2,535
+Others 70 2,764 (610) 2,922
+Cash flow from operating activities        135 212 (63) 170
+Additions to intangible assets and property, plant and equipment (252) (267) (686) (761)
+Free cash flow (117) (55) (749) (590)
+Income taxes paid (92) (82) (303) (266)
+Free Cash Flow pre tax (25) 27 (445) (324)
+therein Gas Services 471 312 1,248 776
+therein Grid Technologies (83) (114) (85) 803
+therein Transformation of Industry 22 95 127 29
+therein Siemens Gamesa (514) (393) (1,870) (1,890)
+Note: Prior year figures are presented on a comparable basis
+Analyst Call | Q3 FY23
+Unrestricted © Siemens Energy, 202330
+2023 -08-07Profit before Special Items (in €m)Q1 
+FY22Q1 
+FY22
+adj.1Q2 
+FY22Q2 
+FY22
+adj.1Q3 
+FY22Q3 
+FY22
+adj.1Q4 
+FY22Q4 
+FY22
+adj.1FY22
+  FY22
+adj.1
+Gas Services 173 173 176 176 153 153 117 117 619 619
+Grid Technologies 50 50 69 69 26 26 77 77 221 221
+Transformation of Industry (23) (23) 5 5 17 17 47 47 45 45
+therein
+Sustainable Energy Systems (11) (11) (12) (12) (13) (13) (22) (22) (59) (59)
+Electrification, Automation, 
+Digitalization1 1 6 6 (1) (1) 26 26 32 32
+Industrial Steam Turbines & 
+Generators1 1 12 12 28 28 22 22 63 63
+Compression (15) (15) (1) (1) 4 4 22 22 11 11
+Siemens Gamesa (309) (308) (299) (301) (343) (382) 375 374 (576) (617)
+Reconciliation to Consolidated 
+Financial Statements40 40 2 2 (35) (35) (51) (51) (44) (44)
+Siemens Energy (69) (69) (47) (49) (183) (222) 564 564 265 225Historical comparable keyfigures
+FY22 retrospective adjustments –Profit before Special Items 
+1 Prior year figures are presented on a comparable basis. Due to the further integration of Siemens Gamesa and the objective of  a consistent presentation within 
+Siemens Energy Group, only personnel -related measures for restructuring will be included for Siemens Gamesa from fiscal 2023, in  contrast to the past

@@ -1,0 +1,198 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+Gas Field Policy 21:  Torsional Vibration Analysis 
+ 
+TORSIONAL VIBRATION ANALYSIS OF SIEMENS ENERGY HSRC 
+COMPRESSORS AND DRIVING MACHINERY  
+ 
+Siemens Energy, upon request, will act as a consultant and perform a torsional vibration analysis of the 
+separable drive system. Please refer to the appropri ate price page for the cost of this service. 
+ 
+Siemens Energy’s responsibility is limited to providing a proper engineering torsional analysis. The responsibility 
+for engineering of the system components (other than t he compressor), and the supply of these components 
+must remain with others. 
+ 
+The analysis will either confirm satisfactory torsional operat ion of the system as submi tted, or it will recommend 
+the changes that need to be made to the shafting system fo r satisfactory operation over the conditions specified 
+by the customer. 
+ The torsional vibration analysis is not intended to chec k or give approval to the transmission shafting in such 
+areas as sensitivity to misalignment or any other engi neering aspect connected with the selection, mounting, 
+and operation of a separable compressor and its drivi ng machinery. The responsibility for satisfactory 
+engineering in these areas is outside Si emens Energy’s scope of responsibility. 
+ 
+The following guidelines are to better define when a torsional analysis is required:  
+I. Torsional Analysis  Study Requirement 
+ 
+A. A torsional study is required when a separabl e compressor is driven; by a turbine or 
+engine through a gear; or by any motor. 
+ 
+B. A Siemens Energy HSRC compressor directly coupled to an engine driver does not 
+require a torsional analysis if the coupling is selected based on the maximum BHP capability of the compressor or engine frame, whichever is less (rather than the 
+maximum BHP of the specific compressor app lication). In this case the mass elastic 
+properties of the system will be suffi cient to provide torsional stability. 
+ 
+C. If the coupling is selected for less than the maximum BHP capability of both the 
+compressor and engine frame and the compressor is directly coupled to an engine, then a torsional study will be required if the operating conditions of the unit fit into one 
+or more of the following criteria: 
+ 
+1. Discharge pressure is higher than 1400 psig 
+2. Compression ratio is less than 1.8 
+3. Single acting cylinder is used for any condition 4. Two-in-one cylinder configuration is used 
+5. The ratio of tension and compression frame loads is more than 2.5 or less than 0.4 
+6. Large rod load and small BHP applications, where RLR (Rod Load Ratio) - HPR  
+ (Horsepower Ratio) is greater than or equal to 35. 
+ 
+ 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+If no torsional analysis is required, the coupling select ion can be based on the maximum BHP of the specific 
+compression application. In this case, WR 2 is provided by the engine manufacturer's standard flywheel. 
+ 
+If a torsional analysis is required, the coupling selection and required flywheel WR 2, if any, will be determined 
+by Siemens Energy at the time of the analysis.  
+The coupling used in any engine-compressor drive system must be torsionally stiff but be able to 
+accommodate some axial misalignment. A suitable coupling is Thomas or equivalent.  
+II. Data Required By Siemens Energy For The Torsional Analysis 
+ 
+A. The complete operating performance envelope of the compressor including speed ranges and 
+unloaded conditions. 
+ 
+B. The complete description of the drive train,  including name of manufacturer(s), model numbers 
+and diameters for the gear reducer and engine sha fts, plus the tentative coupling selections. 
+ 
+C. The WR
+2 of the motor rotor, and shaft drawings of the driver and gear reducer rotating parts. 
+The driver shaft drawing must include the keyway dimensions, including radius, and shaft 
+material including ultimate tensile strength. 
+ 
+D. The method of unloading the compressor for st art-up. (If bypass, pipe sizes are required.) 
+ 
+E. All information of the driver and shaft syst em must be supplied by the customer to Siemens 
+Energy. A completed "Torsional Analysis Informat ion" form (see GFP-1) must be a part of the 
+order. 
+ 
+III. SCOPE OF TORSIONAL ANALYSIS  
+A. The scope of Siemens Energy’s analysis  is to select the proper flywheel WR
+2 (if required) and 
+coupling stiffness, to ensure safe unit operation. Turbine or engine driven unit operation will be 
+investigated, over the customer's specified sp eed range, for the presence of any critical speed 
+at which the unit operation would be unsafe. 
+ 
+B. The torsional analysis studies the effects of th e compressor torque on the mass-elastic system 
+of the entire drive system. It is not intended to stud y vibrations (lateral or torsional), within the 
+gears or between the gear reducer and turbine, generated by gear irregul arities, since these 
+types of vibration must be investigated by the gear manufacturer, during the design stage. 
+ 
+C. Shutdown of the unit under no-load and vented conditions is permissible in any system, and is 
+therefore not a part of this study. 
+ 
+D. For direct drive motor units, the vibratory stress in the moto r shaft will be evaluated to check 
+that it is in a safe range according to Siemens Energy standards. 
+ IV. MOTOR DRIVER RECOMMENDATIONS: 
+ 
+A. Motor shaft diameter should be as large as possible with the minimum acceptable diameter 
+(anywhere on the shaft) determined by the following formula: 
+ 
+B. The ultimate tensile strength of the motor shaft material should be 75,000 PSI minimum. 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+C. If the above motor shaft recommendations are not followed, and the analysis determines that 
+the submitted shaft is not suitable, additional charges for further study will be applicable. 
+ 
+D. The motor manufacturer must be advised that  the motor will be driving a reciprocating 
+compressor which is a severe duty and must be designed suitable for the following vibratory 
+torques: 
+ 
+2 throw compressor   +/- 200% Motor nameplate torque 
+4 throw compressor   +/- 175% Motor nameplate torque 
+6 throw compressor   +/- 150% Motor nameplate torque 
+ 
+This means that for a motor driving a 2 thro w compressor the motor must be suitable for a 
+torque variation within each revolution of a mean torque equal to nameplate torque,maximum 
+torque equal to positive 300% of nameplate torque and minimum torque equal to negative 100% nameplate torque. 
+ 
+E.  The motor shaft should be designed without a keyw ay. If the shaft is designed with a keyway full 
+details of the design must be included with the shaft information supplied to Siemens Energy. 
+ 
+F. The prime mover HP must include allowance fo r the tolerance on compressor BHP (See GFP2). 
+Failure to adhere to this practice may prohibit unit operation at full load. It is further 
+recommended that prime movers be selected in accordance with ISO-13631: 2002 Section 8. 
+ 
+G. Adherence to these guidelines may reduce the need for a flywheel under certain conditions of 
+service, or possible rejection of the motor. 
+ 
+H. For reference, motor suppliers should use the following inertia values when determining 
+breakaway torque requirements. This data r epresents the highest inertia that could be 
+encountered for the given frame. 
+ 
+Compressor Size & Type Inertia (lb-ft2)   Compressor Size & Type Inertia (lb-ft2)  
+5 - MOS 2 60  7 - HOS 2 165 
+5 - MOS 4 95  7 - HOS 4 290 
+5 - MOS 6 135  7 - HOS 6 370 
+6 - MOS 2 85  5 - HOSS 2 210 
+6 - MOS 4 135  5 - HOSS 4 315 
+6 - MOS 6 185  5 - HOSS 6 400 
+7 - MOS 2 115  6 - HOSS 2 270 
+7 - MOS 4 185  6 - HOSS 4 400 
+7 - MOS 6 250  6 - HOSS 6 505 
+5 - HOS 2 115  7 - HOSS 2 345 
+5 - HOS 4 175  7 - HOSS 4 505 
+5 - HOS 6 230  7 - HOSS 6 635 
+6 - HOS 2 135    
+6 - HOS 4 215    
+6 - HOS 6 285    
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   Gas Field Policy, GFP 21 
+Februar y, 2021 
+ 
+V.  TORSIONAL ANALYSIS REPORT 
+ When Siemens Energy performs a Torsional Vibrat ion Analysis, the standard report will contain the 
+following information: 
+ 
+A.  Compressor crank effort 
+ 
+B.  First and second mode critical speeds 
+ 
+C. Resonant speeds for first and second node mode of vibration 
+ 
+D. Mass elastic information 
+ 
+E. Mass elastic curve for first and second node mode of vibration 
+ 
+F. Vibratory stress vs. speed curve 
+ 
+G.  Forced vibration analysis 
+ 
+H. Current pulsation analysis (electric motor drive only) 
+ 
+I. Selection of coupling and flywheel (lb-ft
+2, if flywheel is required) 
+ 
+J.  The following disclaimer: 
+ 
+The recommendations and predictions contained herein represent Siemens Energy’s best 
+Engineering judgement, based on the information ava ilable to Siemens Energy. In offering these 
+recommendations, no warranties or guarantees of any nature are expressed or implied. Any 
+decisions made and/or work performed as a result of said recommendations shall be at the entire 
+risk of the user. 
+ 
+Siemens Energy shall in no event be liable to the Purchaser, any successors in interest or any 
+beneficiary of an order or contract for any conseque ntial, incidental, indirect, special or punitive 
+damages arising out of the contract  or any breach thereof, whether or not such loss or damage is 
+based on contract, warranty, negligence, i ndemnity, strict liability or otherwise. 
+ 
+The liability of Siemens Energy with respect to an order or contract shall not exceed an amount 
+equal to the contract pric e paid by the Purchaser. 
+ 
+ 
+ 

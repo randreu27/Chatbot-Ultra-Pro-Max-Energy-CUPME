@@ -1,0 +1,1394 @@
+ 
+Unrestricted  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON  
+Manual de instalação, operação e 
+manutenção  
+IOM-007 Rev 4  
+ 
+ 
+ 
+ 
+ 
+Conjuntos DigiTRON EDU  
+Instruções de proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção  
+Siemens -energy.com  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  2 de 41 
+ 
+Unrestricted   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conjuntos DigiTRON EDU  
+Instruções de proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção  
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  3 de 41 
+ 
+Unrestricted   
+ 
+ 
+Prefácio  
+Obrigado por adquirir um produto da Siemens Energy Subsea. As informações contidas neste 
+documento são uma visão geral, incluindo proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção para as unidades de distribuição elétrica.  
+ 
+IMPORTANTE  
+LEIA COM ATENÇÃO ANTES DE USAR  
+GUARDE PARA REFERÊNCIA FUTURA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resumo de revisões  
+Esta página registra o statu s de revisão de todo o documento e sua autorização para emissão.  
+ 
+Copyright © 2022  Siemens Energy Subsea Connectors (divisão da Siemens Energy plc), Subsea 
+Excellence Centre, Ulverston, Cumbria, LA12 9EE, Inglaterra.  
+Rev. Compilado 
+por Data  Aprovado 
+por Data de 
+emissão  Páginas afetadas/Observações  
+      
+      
+      
+      
+4 J. Bostock  
+26/09/2022  R Wyatt  
+26/09/2022  Atualizado para incluir referências ao design mais 
+recente da EDU ROV. Todas as referências a 
+"Caixas de junção" foram substituídas por "EDU". 
+Folha de rosto e folha final atualizadas para o 
+formato mais recente.  
+3 R Wyatt  16/11/2020  Eric Chaize  16/11/2020  Atualizado para o novo modelo de IOM com 
+conselhos de segurança de produto claramente 
+identificados. Informações substituídas relativas a 
+EFLs associados com referência a IOM -001.  
+2 P. Westwell     Atualizado para uso com EDUs similares.  
+1     Primeira edição  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  4 de 41 
+ 
+Unrestricted   
+ 
+ 
+Índice  
+ 
+1 PRODUTOS ABRANGIDOS POR ESTE MANUAL  ................................ .........  7 
+2 INFORMAÇÕES BÁSICAS E REFERÊNCIA RÁPIDA  ................................ .... 8 
+2.1 Visão geral do produto  ................................ ................................ ............  8 
+2.2 Especificação e certificação do produto  ................................ ...............  9 
+2.3 Informações de contato e feedback  ................................ .....................  10 
+2.4 Rótulo de recomendações do produto  ................................ ................  11 
+2.5 Marcação do produto  ................................ ................................ ............  12 
+2.6 Etiqueta/Marcação CE  ................................ ................................ ...........  12 
+2.7 Exemplos de produtos  ................................ ................................ ..........  13 
+3 SEGURANÇA DO PRODUTO  ................................ ................................ ........  14 
+3.1 Advertências relacionadas à ação  ................................ .......................  14 
+3.2 Uso previsto  ................................ ................................ ...........................  14 
+3.3 Informações gerais de segurança  ................................ ........................  15 
+3.4 Documentos relacionados  ................................ ................................ .... 18 
+3.5 Controle de substâncias perigosas à saúde (COSHH)  ......................  19 
+4 ABREVIAÇÕES  ................................ ................................ ..............................  20 
+5 ESPECIFICAÇÕES  ................................ ................................ .........................  21 
+5.1 Especificações do conector - encaixe pelo mergulhador e tipo ROV
+ 21 
+6 PREPARAÇÃO DO PRODUTO PARA USO OU ARMAZENAMENTO  .........  23 
+6.1 Proteção e embalagem do produto  ................................ ......................  23 
+6.2 Elevação  ................................ ................................ ................................ . 23 
+6.3 Desembalagem  ................................ ................................ .......................  23 
+6.4 Armazenamento, proteção e fim da vida útil  ................................ ...... 23 
+7 INSTALAÇÃO E MONTAGEM  ................................ ................................ ....... 26 
+7.1 Proteção catódica  ................................ ................................ ..................  26 
+7.2 Instalação da EDU  ................................ ................................ ..................  26 
+7.3 Instalação da EDU com conectores de encaixe pelo mergulhador  .. 28 
+7.4 Instalação da EDU com conectores ROV  ................................ ............  31 
+7.5 Instalação de EFLs naEDU  ................................ ................................ ... 32 
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  5 de 41 
+ 
+Unrestricted   
+8 INFORMAÇÕES AO USUÁRIO DURANTE A OPERAÇÃO NORMAL E 
+CONDIÇÕES DE FALHA  ................................ ................................ ........................  33 
+8.1 Sinais visíveis/audíveis  ................................ ................................ .........  33 
+8.2 Operação normal e defeituosa/perigosa  ................................ .............  33 
+8.3 Resolução de problemas  ................................ ................................ ...... 33 
+9 OPERAÇÃO E MANUTENÇÃO DO PRODUTO  ................................ ............  34 
+9.1 Precauções de segurança  ................................ ................................ .... 34 
+9.2 Manutenção e assistência técnica do produto  ................................ ... 34 
+9.3 Proteção submarina dos pinos de contato da tomada  ......................  34 
+9.4 Proteção do produto; tampas e conectores cegos  ............................  34 
+9.5 Encaixe/Desencaixe energizado  ................................ ..........................  37 
+9.6 Remoção do crescimento marinho e depósitos calcários  ................  39 
+10 COMENTÁRIOS/FEEDBACK DO CLIENTE  ................................ ..................  40 
+ 
+Tabelas  
+Table 1  Lista de outros manuais de instalação, operação e manutenção 
+relacionados à linha de produtos DigiTRON+  ................................ ................................ ... 7 
+Table 2  Especificações e certificação do produto EDU DigiTRON+  .......................  9 
+Table 3  Informações de contato do produto DigiTRON  ................................ .........  10 
+Table 4  Especificações do conector DigiTRO N tipo ROV e encaixe pelo 
+mergulhador  21 
+Table 5  Informações de contato para resolução de problemas do produto  ........  33 
+ 
+Ilustrações  
+Figure 1  Rótulo de recomendações do produto  ................................ ......................  11 
+Figure 2  Marcação no produto DigiTRON+  ................................ ..............................  12 
+Figure 3  Exemplos de EDU apresentando conectores ROV e de encaixe pelo 
+mergulhador  13 
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  6 de 41 
+ 
+Unrestricted   
+ ................................ ... 13 
+Figure 4  Exemplo de uma configuração diferente de EDU  ................................ ..... 13 
+Figure 5  EDU ROV - 3 orifícios roscados M10 (pontos de aterramento e pontos de 
+fixação da estrutura de montagem).  ................................ ................................ .................  26 
+Figure 6  Conectores de teste para conectores ROV (esquerda) e tipo mergulhador 
+(direita)  28 
+Figure 7  Destaque do comprimento das tiras de aterramento para conexão de CP 
+à estrutura  29 
+Figure 8  Tiras de aterramento presas sob os parafusos de fixação do suporte  ... 30 
+Figure 9  Conjunto de montagem do suporte  ................................ ...........................  30 
+Figure 10  Vista ISO da EDU indicando as posições dos parafusos de montagem  . 31 
+Figure 11  Tiras de aterramento a serem fixadas na estrutura de encaixe  ...............  31 
+Figure 12  EDU instalada na estrutura  ................................ ................................ ........  31 
+Figure 13  Tampas de transporte típicas (esquerda) e tampas protetoras para borda 
+de navio  35 
+Figure 15  Tampas submarinas operadas por mergulhador e ROV  ..........................  36 
+Figure  16 Tampas para ambiente submarino e conectores cegos operados por 
+mergulhador e ROV, dos tipos com interconexão e com flange.  ................................ ... 37 
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  7 de 41 
+ 
+Unrestricted   
+1  PRODUTOS ABRANGIDOS POR ESTE  MANUAL  
+Este documento é uma visão geral das instruções de proteção, armazenamento, envio, 
+desembalagem, implantação e manutenção para as unidades de distribuição elétrica (EDUs).  
+ 
+Os produtos abrangidos por este IOM podem ser identificados visualmente com rapidez, pois todos 
+têm aparência muito semelhante aos exemplos mostrados na seção 2.7. 
+ 
+Todos os números de peça desses produtos EDU começam com:  
+ 
+TC3A -xxx - onde xxx são números de peça para variantes específicas de EDU, sendo as diferenças 
+principalmente a quantidade e tipos de conectores.  
+ 
+ 
+Os manuais de instalação, operaçã o e manutenção de outros produtos DigiTRON+ não abrangidos 
+por este documento podem ser encontrados no site da Siemens Subsea  www.sieme ns-energy.com  
+/pesquisar Subsea, da seguinte forma:  
+ 
+DOC. N.º  PRODUTO  
+IOM-001 Cabos de interconexão elétrica, jumpers e chicotes de sensor DigiTRON+  
+IOM-002 Conectores individuais DigiTRON+  
+IOM-003 Obsoleto, substituído pelo IOM -002. 
+IOM-004 Não utilizado  
+IOM-005 Unidade de distribuição elétrica recuperável (REDU), 2ª geração  
+IOM-006 Unidade de distribuição elétrica recuperável (REDU), 1a geração  
+IOM-008 Cabos de interconexão de fibra óptica e conjuntos de chicotes DigiTRON f 
+IOM-009 Conectores individuais de fibra óptica DigiTRON f 
+00003075  Sensores PT/TT submarinos  
+00007464  Sensores de pressão diferencial SDP -6 / SDP -8 
+Table 1  Lista de outros manuais de instalação, operação e manutenção relacionados à linha de 
+produtos DigiTRON+  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  8 de 41 
+ 
+Unrestricted   
+2 INFORMAÇÕES BÁSICAS E REFERÊNCIA RÁPIDA  
+2.1 Visão geral do produto  
+O uso pretendido das EDUs DigiTRON+ é a comunicação e distribuição de baixa tensão entre 
+equipamentos elétricos submersos em água, por exemplo, em ambiente submarino.  
+O produto utiliza a linha de conectores DigiTRON+. Os conectores DigiTRON+ foram desenvolvidos 
+para comunicações confiáveis de longo prazo e aplicações do sistema de controle de energia de 
+baixa tensão associadas a instalações offshore. A capacidade de encaixe subaquático desses 
+conectores é obtida usando insertos elétricos compensados por pressão que empregam o princípio 
+CE. 
+Exemplos de unidades de distribuição elétrica são mostrados na seção 2.7. 
+ 
+  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  9 de 41 
+ 
+Unrestricted   
+2.2 Especificação e certificação do produto  
+As especificações básicas relativas a todos os produtos abrangidos por este manual estão na Table 
+2 abaixo. Especificações adicionais podem ser encontradas na seção 5. 
+Vida útil projetada:  30 anos em a mbiente submarino  
+Tensão nominal  1.000 V CA pino -terra, 2.000 V CA pino -pino 
+Corrente nominal  Na água: 35 -40A de 4 vias  22 -32A de 7 vias  20 -28A de 12 vias  
+No ar:  18A de 4 vias   14A de 7 vias   11A de 12 vias  
+Sobrecorrente  100A por 5 segundos, não mais do que 2 por hora  
+Número nominal de 
+operações  1.000 (750 secos/250 úmidos) ciclos de encaixe/desencaixe (desligado)  
+Profundidade da 
+água  3.000 m (9.843 pés)  
+Taxa de implantação 
+e recuperação  Máx. 350 m/min (1.150 pés/min)  
+Temperatura de 
+armazenamento  -40 °C +70 °C ( -40 °F +158 °F) (o limite superior é a temperatura da 
+superfície do produto e inclui o ganho de calor com luz solar intensa)  
+Temperatura 
+operacional  Submarina: -5 °C +60 °C (+23 °F +140 °F)  
+No ar: -20 °C +50 °C (-4 °F +122 °F)  
+Peso  Consulte o desenho do produto para obter os pesos de unidades 
+específicas.  
+Certificação do produto:  
+Padrão  Descrição  
+Diretiva da UE 
+2001/95/CE  Segurança geral do produto  
+Diretiva da UE 
+2014/35/UE  Diretiva de baixa tensão  
+IEC 61984  Conectores - Requisitos de segurança e testes  
+API-17F  Padrão para Sistemas de Controle de Produção Submarinos  
+Observação: Autocertificado por meio de testes internos.  
+Table 2  Especificações e certificação do produto EDU DigiTRON+  
+ 
+ 
+  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  10 de 41 
+ 
+Unrestricted   
+2.3 Informações de contato e feedback  
+Para obter mais informações ou em caso de dúvidas sobre os produtos, visite o site da Siemens em 
+www.siemens -energy.com  /pesquisar Subsea, ou entre em contato com:  
+Departamento  E-mail 
+Diretor de Segurança de Produtos  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Suporte Técnico  connectortechnicalsupport.gb@siemens -energy.com  
+Manutenção (equipe do local)  susultlcmsupport.gb@siemens -energy.com  
+Vendas  connectorsales.gb@siemens -energy.com  
+Table 3  Informações de contato do produto DigiTRON  
+Qualquer informação, registro ou feedback sobre Saúde e Segurança que precise ser detalhado 
+pode ser registr ado na seção 10 deste documento e enviado para o departamento indicado na Table 
+3. 
+ 
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  11 de 41 
+ 
+Unrestricted   
+2.4 Rótulo de recomendações do produto  
+O rótulo de recomendações do produto a seguir é fornecido com todos os produtos da Siemens 
+Energy Subsea.  
+ 
+ 
+Figure 1  Rótulo de recomendações do produto  
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  12 de 41 
+ 
+Unrestricted   
+2.5 Marcação do produto  
+Os produtos de EDU da Siemens Energy são marcados com o número de peça da Siemens Energy 
+e o número de série exclusivo. Além disso, são indicadas as classificações de tensão, temperatura 
+e profundidade da água.  
+Normalmente, elas são gravadas em uma etiqueta de cor amarela fixada permanentemente n o 
+produto; consulte 0. 
+Além disso, informações semelhantes relacionadas a cada conector são gravadas no corpo de 
+metal do conector; consulte a Figure  2. 
+ 
+ 
+Figure 2  Marcação no produto DigiTRON+  
+ 
+2.6 Etiqueta/Marcação CE  
+A etiqueta/marcação CE, quando aplicável, mostra que os produtos estão em conformidade com os 
+requisitos das diretivas apli cáveis da seguinte maneira:  
+• 2014/35/UE - Diretiva de baixa tensão  
+A Declaração de Conformidade será fornecida com os produtos.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  13 de 41 
+ 
+Unrestricted   
+2.7 Exemplos de produtos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3  Exemplos de EDU apresentando conectores ROV e de encaixe pelo mergulhador  
+ 
+ 
+ 
+ 
+Figure 4  Exemplo de uma configuração diferente de EDU  
+Etiqueta de identificação do 
+produto  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  14 de 41 
+ 
+Unrestricted   
+3 SEGURANÇA DO PRODUTO  
+A Siemens Energy Subsea recomenda que a terminação de todos os equipamentos seja realizada 
+somente por pessoal treinado, devidamente qualificado e experiente (SQEP), ou seja, pessoa 
+competente.  
+ 
+Após a instalação, o comissionamento ou a implantação do produto, se houver algum feedback, 
+preencha e devolva o formulário de Comentários/Feedback do Cliente (Seção 10). Envie por e -mail 
+o formulário preenchido ao Diretor de Segurança de Produto em 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+3.1 Advertências relacionadas à ação  
+Classificação de advertências relacionadas à ação  
+As advertências relacionadas à ação são classificadas de acordo com a gravidade do possível 
+perigo, utilizando os seguintes avisos e palavras de sinalização:  
+Símbol os de advertência e termos de sinalização  
+ Perigo!  
+Perigo iminente à vida ou risco de ferimentos pessoais graves  
+ Perigo!  
+Risco de morte por choque elétrico  
+ Advertência.  
+Risco de lesões pessoais leves  
+ Cuidado.  
+Risco de danos materiais ou ambientais  
+ 
+3.2 Uso previsto  
+O produto é destinado a ser um sistema de conexão elétrica de baixa tensão para uso submarino.  
+Há risco de lesão ou morte do usuário ou terceiros, ou de danos ao produto e a outras propriedades 
+no caso de uso inadequado ou para o qual não se destina.  
+O uso pretendido inclui o seguinte:  
+- observância das instruções de instalação e operação incluídas para o produto e todos os outros 
+componentes do sistema.  
+- conformidade com todas as condições de inspeção e manutenção listadas nas instruções.  
+- uso de todas as ferramentas recomendadas e apropriadas para tarefas específicas.  
+- todas as atividades devem ser realizadas por uma pessoa competente (consulte 3.3.1  para ver 
+a definição).  
+Qualquer outro uso não especificado neste documento nem indicado nas instruções de instalação 
+e operação, ou além do especificado neste documento, deve ser considerado uso inadequado.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  15 de 41 
+ 
+Unrestricted   
+ Cuidado.  É proibido qualquer tipo de uso indevido, pelo risco de danos materiais ou 
+ambientais.  
+ 
+3.3 Informações gerais de segurança  
+ Instalação realizada apenas por pessoas competentes  
+A instalação, inspeção, manutenção e reparo do produto devem ser realizados por p essoal treinado, 
+devidamente qualificado e experiente (SQEP), ou seja, pessoa competente, para realizar uma 
+atividade específica. A instalação, inspeção, manutenção e reparo de produtos por pessoas não 
+treinadas e consideradas não competentes podem invalid ar a garantia do produto. Para obter mais 
+informações, entre em contato com a Siemens Energy Lifecycle Management pelo e -mail 
+susultlcmsupport.gb@siemens -energy.com mailto:susultlcmsupport.gb@sie mens -energy.com  
+(Equipe do local) . 
+ Equipamento de proteção individual (EPI)  
+O Equipamento de Proteção Individual (EPI) é definido legalmente como "todos os equipamentos 
+(incluindo roupas que oferecem proteção contra o clima) que se destinam ao uso por uma pessoa 
+no trabalho e protegem o usuário contra um ou mais riscos à sua saúde ou segurança".  
+Na hierarquia de controle de risco, o EPI é considerado o item de classificação mais baixa e 
+representa a opção de último recurso. O EPI é apropriado apenas quando o perigo em questão não 
+puder ser totalmente removido ou controlado de tal forma que seja improvável a ocorrência de danos 
+(por exemplo, isolar o perigo ou reduzir o risco na origem a um nível aceitável).  
+Todos os funcionários e operadores da empresa devem  usar Equipamento de Proteção Individual 
+(EPI) apropriado, definido como resultado de avaliações de risco relevantes de acordo com os 
+Regulamentos de Equipamento de Proteção Individual (EPI).  
+Use o EPI apropriado de acordo com as recomendações de segurança do produto fornecidas 
+neste documento  
+ Perigo causado por operação inadequada e mau uso previsível  
+A operação inadequada e o mau uso previsível podem representar perigo para você e para 
+terceiros, além de causar danos materiais. Leia atentamente a s instruções anexas e todos os outros 
+documentos aplicáveis, especialmente a seção "Segurança" e as advertências.  
+ Perigo!  Risco de morte por choque elétrico se os pinos de catraca forem pressionados, 
+por exemplo, com uma chave de fenda quando o plugue estiver energizado (mau uso 
+previsível).  
+- As atividades de teste só devem ser realizadas por uma pessoa competente.  
+- O conector  de teste correto sempre deve ser equipado para teste elétrico.  
+ Perigo! Risco de perigo iminente à vida e de lesões graves causadas por um projétil de 
+pino catraca devido a danos causados aos pinos; por exemplo, por uma chave de fenda 
+(mau uso previsíve l). 
+- As atividades de manutenção e teste só podem ser realizadas por uma pessoa 
+competente.  
+- Sempre devem ser usadas as ferramentas corretas.  
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  16 de 41 
+ 
+Unrestricted   
+ Risco de morte devido a eletrocussão  
+ Perigo!  Risco de morte por choque elétrico devido a pinos energizados expos tos, por 
+exemplo: teste de fábrica ou de sistema em navio e a tomada não encaixada é energizada.  
+- Nunca energize um conector de tomada quando não estiver encaixado em um plugue.  
+- Assegure que todos os procedimentos de teste sejam seguidos.  
+- Os canais e protocolos de comunicação são observados.  
+ Perigo!  Risco de morte por choque elétrico devido a cabos não blindados.  
+- Não toque nos fios elétricos enquanto estiverem energizados. Assegure que todos os 
+procedimentos de teste sejam seguidos.  
+ Perigo!  Risco  de morte por choque elétrico originado de qualquer condutor exposto 
+devido a energia elétrica armazenada, por exemplo, capacitância do cabo ou em outro 
+lugar no sistema.  
+- Aterre todos os condutores elétricos após o teste e não toque neles até que o sistema  
+elétrico esteja totalmente descarregado. Assegure que todos os procedimentos sejam 
+seguidos.  
+ Perigo! Risco de morte por choque elétrico se o produto tiver terminação incorreta, como 
+condutor solto tocando um corpo de metal ou terminação no corpo de met al de maneira 
+errada.  
+- As atividades de instalação/terminação devem ser realizadas por uma pessoa 
+competente.  
+- Sempre aterre eletricamente os corpos metálicos antes de energizar eletricamente 
+um conector.  
+- Nunca segure o produto enquanto ele estiver energizado.  
+ Perigo! Risco de morte por choque elétrico ou lesões pessoais graves por queimadura 
+de condutores energizados desencaixados manualmente.  
+- Não desencaixe o produto enquanto ele estiver energizado  
+- Nunca segure o produto enquanto ele estiver en ergizado  
+- Certifique -se de que todos os procedimentos sejam seguidos para 
+encaixe/desencaixe de conectores.  
+ 
+ Risco de lesões e danos materiais devido a testes, manutenção e reparos 
+realizados incorretamente ou não realizados  
+Os produtos não são passíveis d e manutenção pelo usuário. Em caso de suspeita de falhas no 
+produto (consulte a seção 8.2), não o use, e entre em contato com o Suporte Técnico da Siemens 
+ou com a Se gurança do Produto da Siemens para obter orientação. Nunca tente realizar trabalhos 
+de manutenção ou reparos no produto por conta própria.  
+ Perigo!  Risco de morte por choque elétrico se o usuário desmontar/remontar 
+incorretamente/fizer incorretamente a terminação do produto (mau uso previsível).  
+- Não há peças do produto que exijam manutenção ou inspeção. O produto não deve 
+ser desmontado.  
+- A terminação  de fios elétricos no produto só deve ser realizada por uma pessoa 
+competente.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  17 de 41 
+ 
+Unrestricted   
+ Perigo!  Risco de morte por choque elétrico devido ao uso inadequado do conector de 
+teste (mau uso previsível). Em particular, a remoção das luvas de terminação de borracha 
+colocadas sobre a junta entre o cabo e o conector de teste é proibida, pois isso irá expor 
+as partes energizadas ao usuário.  
+- Nunca desmonte um conector de teste  
+ Advertência. Risco de lesões pessoais leves pela alta temperatura do produto devida ao 
+aquecimento ôhmico em condições de curto -circuito ou sobrecorrentes altas.  
+- Em caso de sobrecorrente alta, deixe os conectores esfriarem antes de tocar.  
+- Assegure que todos os testes de produtos em fábrica e em campo tenham sido 
+concluídos por pessoas competentes.  
+ Perigo! Risco de lesões graves nos olhos devido a esguicho de óleo pressuriz ado da 
+mangueira danificada ou remoção do parafuso de abastecimento/ventilação.  
+- Assegure que todos os testes de produtos em fábrica e em campo tenham sido 
+concluídos por pessoas competentes.  
+ Advertência. Risco de lesões corporais/nos olhos causadas pela  pressão liberada 
+durante a desmontagem do produto em caso de recuperação submarina com uma falha 
+que deixe a pressão de profundidade presa dentro do produto.  
+- Assegure que todas as atividades de desmontagem do produto sejam realizadas por 
+pessoas competentes, de acordo com os procedimentos adequados e usando o 
+equipamento de proteção individual (EPI) apropriado.  
+ Advertência. Risco de lesão corporal causada pela retenção de pressão de peças que 
+se tornam projéteis devido à sobrepressurização do sistema pelo usuário, por exemplo, 
+durante o Teste de Instalação do Local (SIT).  
+- Assegure que todas as atividades de SIT do produto sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.  
+ Risco de lesões e  danos materiais devido ao manuseio  
+Sabe -se que o manuseio, levantamento e transporte manual são os fatores que mais contribuem 
+para a má saúde ocupacional. Sempre que possível, garanta o uso de auxílios mecânicos de manejo 
+para evitar a movimentação manua l. As normas de elevação segura devem ser seguidas quando o 
+manuseio for considerado apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a 
+elevação em equipe, empregar técnica de elevação segura etc. Somente pessoas competentes têm 
+permi ssão para realizar tarefas sem supervisão; em caso de dúvida, pergunte.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  18 de 41 
+ 
+Unrestricted   
+ Advertência. Risco de lesões musculoesqueléticas devido ao encaixe ou desencaixe dos 
+conectores à mão.  
+- Com referência às forças de encaixe/desencaixe aqui especificadas, assegure que  
+sejam tomadas as precauções de manuseio adequadas.  
+- Assegure que todas as atividades de teste de produtos sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.  
+ Advertência. Risco de lesões musculoesqueléticas causadas pelo manuseio de produtos 
+pesados. Consulte as informações de envio ou a folha de dados do produto para obter os 
+pesos.  
+- Sempre que possível, garanta o uso de auxílios mecânicos de manejo para evitar a 
+movimentação manual.  
+- As di retrizes de elevação precisam ser seguidas quando o manuseio for considerado 
+apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a elevação em 
+equipe, empregar técnica de elevação segura etc.  
+- Somente pessoas competentes têm permissão par a realizar tarefas sem supervisão; 
+se tiver dúvidas, pergunte.  
+ Advertência. Risco de lesões corporais devido à queda de produtos pesados durante a 
+elevação com maquinário.  
+- As normas locais para operações de elevação assistidas mecanicamente e 
+equipament os de elevação precisam ser respeitadas, por exemplo: "LOLER" no Reino 
+Unido.  
+ Advertência. Risco de lesões leves em pessoas com sensibilidade a silicone ou óleos 
+minerais.  
+- Há um pequeno risco de que o óleo possa vazar do produto se estiver com defeito. 
+Use proteção adequada para as mãos ao manusear produtos e óleos minerais ou 
+sintéticos no caso de vazamento de óleo do conector devido a uma falha.  
+ Advertência. Risco de lesões leves e danos materiais devido a escorregões, tropeços e 
+quedas.  
+- Uma boa organização evita tropeços, quedas e escorregões; mantenha todas as áreas 
+de trabalho limpas e arrumadas.  
+ 
+3.4 Documentos relacionados  
+Os instaladores devem realizar uma avaliação de risco completa do local e colocar em prática todas 
+as etapas e procedi mentos necessários para cumprir a legislação de segurança e saúde aplicável 
+na área, regional, nacional ou internacional, como a Lei de Saúde e Segurança no Trabalho 
+(HASAWA) do Reino Unido, e garantir a própria segurança e a de terceiros quanto aos requis itos 
+de manuseio e trabalho em altura.  
+Durante a instalação do produto (e qualquer trabalho subsequente) será necessário ter cuidado. 
+Todos os instaladores e operadores envolvidos desde o descarregamento do produto até sua 
+instalação final precisam exercer  o dever de cuidar da própria segurança e da de terceiros. Ao elevar 
+e manusear este produto, os operadores devem utilizar assistência, se necessário. Em 
+determinadas situações, pode ser necessário usar auxílios mecânicos de manuseio. Tome cuidado 
+para evi tar riscos de tropeços, superfícies escorregadias ou molhadas.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  19 de 41 
+ 
+Unrestricted   
+Os empregadores e instaladores devem consultar o site do Health and Safety Executive (HSE) do 
+Reino Unido para obter orientações completas e a ferramenta de gráficos de avaliação de manuseio 
+(MAC). 
+Além disso, quando não houver instruções específicas, devem ser consultadas, entre outras, 
+quando aplicável, as normas e códigos de prática britânicos, tais como:  
+- A Lei de Saúde e Segurança no Trabalho.  
+- Controle de substâncias perigosas à saúde - COSH H. 
+- Requisitos da BS 7671 para instalações elétricas. Regulamentações de fiação da IEE.  
+- Regulamentos de eletricidade no trabalho.  
+É responsabilidade do operador e dos instaladores cumprir a legislação atual de saúde e segurança 
+da Empresa, área, regional, nacional ou internacional.  
+ 
+3.5 Controle de substâncias perigosas à saúde (COSHH)  
+Substâncias perigosas, Controle de substâncias peri gosas à saúde (COSHH) e Avaliações 
+relacionadas a materiais como elastômeros e óleos etc. usados nos produtos DigiTRON estão 
+disponíveis mediante solicitação ao Diretor de Segurança do Produto em 
+subsea.connectors.productsafety.gb@siemens -energy.com . 
+ 
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  20 de 41 
+ 
+Unrestricted   
+4 ABREVIAÇÕES  
+°C Grau Celsius  
+A Ampere  
+CA Corrente alternada  
+API American Petroleum Institute  
+CE Comunidade Europeia  
+COSHH  Controle de substâncias perigosas à saúde  
+CP Proteção catódica  
+CC Corrente contínua  
+DWG  Desenho  
+EDU  Unidade de distribuição elétrica  
+EFL Cabos de interconexão elétrica  
+EMF  Campo eletromagnético  
+M Metros  
+Máx.  Máximo  
+Mín. Mínimo  
+Nº Número  
+EPI Equipamento de proteção individual  
+REDU  Unidade de distribuição elétr ica recuperável  
+ROV  Veículo remotamente operado  
+SIT Teste no local de instalação  
+UNS  Sistema Unificado de Numeração para Metais e Ligas  
+V Volt 
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  21 de 41 
+ 
+Unrestricted   
+5 ESPECIFICAÇÕES  
+A seguir, apresentamos uma especificação básica de conectores DigiTRON operados pelo 
+mergulhador e por ROV utilizados nos produtos. O produto real pode variar. Consulte a(s) folha(s) 
+de dados específicos do produto, no site www.siemens -energy.com   /pesquisar Subsea, ou entre 
+em contato com o Suporte Técnico Siemens Energy connectortechnicalsupport.gb@siemens -
+energy.com  para obter informações mais detalhadas.  
+ 
+As especificações gerais do produto estão indicadas na seção 2.2, com a seguinte especificação 
+adicional para conectores ROV e de encaixe pelo mergulhador:  
+5.1 Especificações do conector - encaixe pelo mergulhador e tipo ROV  
+Encaixe pelo mergulhador  
+Força de e ncaixe  N/A:  Anel de fixação integral, torque máx. 20 Nm (11 lbf.pés)  
+Máx. de 
+desalinhamentos  N/A:  alinhamento manual feito pelo mergulhador  
+Velocidades máximas 
+de encaixe e 
+desencaixe  1 m/s  
+Encaixe ROV  
+Força de encaixe  <30 Kgf/24 -36 Kgf (4 e 7 vias)  
+<50 Kgf/48 -80 Kgf (12 vias)  
+Máx. de 
+desalinhamentos  Radial: ±20 mm  
+Angular: ±20°  
+Rotacional: ±15°  
+Velocidades máximas 
+de encaixe e 
+desencaixe  1 m/s  
+ 
+Limite de exposição de pinos machos à água do mar  28 dias cumulativos ao longo da 
+vida útil  
+Table 4  Especificações do conector DigiTRON tipo ROV e encaixe pelo mergulhador  
+ 
+ Cuidado.  Risco de danos materiais. A exposição cumulativa máxima dos pinos machos 
+à água do mar é de 28 dias para evitar a corrosão dos pinos. Se os conectores forem 
+deixados sem encaixe na água do mar, por qualquer período de tempo, a tampa do 
+ambiente submarino ou o plugue cego precisa ser encaixado para proteger os contatos 
+dos pinos nos conectores de tomada. A superexposição aumentará o risco de danos por 
+corrosão ou de crescim ento marinho nas superfícies de contato dos pinos de contato da 
+tomada. Isso pode levar a danos às vedações e ao isolamento dentro dos contatos da 
+tomada. Os conectores de plugue não exigem conectores cegos completos para 
+proteção. A Siemens Subsea recomen da o encaixe de tampas de acetal para proteger 
+os plugues contra o crescimento marinho. É uma boa prática sempre instalar a tampa 
+de proteção quando um conector é desmembrado na parte superior antes da 
+implantação para fornecer proteção mecânica.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  22 de 41 
+ 
+Unrestricted   
+ Cuidado.  Risco de danos materiais. As tomadas não acopladas (pinos machos 
+expostos) nunca devem ser eletricamente energizadas no ambiente submarino (nem 
+mesmo uma pequena tensão residual, como 1 Volt). Isso pode corroer muito 
+rapidamente os pinos, causar r eações químicas prejudiciais localmente na água do mar 
+e até mesmo causar falha elétrica completa do produto.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  23 de 41 
+ 
+Unrestricted   
+6 PREPARAÇÃO DO PRODUTO PARA USO OU ARMAZENAMENTO  
+6.1 Proteção e embalagem do produto  
+A EDU será fornecida com uma caixa de transporte exclusiva.  
+ Cuidado.  Risco de danos materiais. A EDU precisa ser mantida em uma caixa de 
+transporte exclusiva e sempre permanecer na posição horizontal para evitar o risco de 
+danos aos diafragmas.  
+ 
+As EDU s são projetadas para suportar vibrações que ocorrem durante o transporte.  
+O corpo da EDU é fabricado em plástico resistente a ambientes submarinos, com conectores de 
+aço inoxidável 316L ou, no caso da EDU ROV, o corpo é fabricado em aço inoxidável 316L com 
+conectores ROV Super Duplex e, como tal, é projetado para suportar ambien tes agressivos. No 
+entanto, os insertos do conector e as peças expostas são suscetíveis a danos mecânicos se não 
+estiverem devidamente protegidos. As tampas de transporte são instaladas em todos os conectores 
+DigiTRON+ antes do transporte, mas as tampas pr otetoras para borda de navio serão instaladas se 
+especificado pelo cliente. Deve -se tomar cuidado em proteger os conectores com plástico -bolha ou 
+material de embalagem similar para evitar danos à superfície durante o transporte.  
+ Cuidado.  Risco de danos m ateriais. As tampas de transporte ou de proteção precisam 
+sempre ser colocadas em conectores desencaixados durante o transporte, permanecendo 
+no lugar enquanto estiverem na borda do navio antes da implantação  
+ 
+Para obter informações relacionadas ao transp orte de conectores DigiTRON+ e ELFs associados à 
+EDU, consulte os documentos da Siemens IOM -001 e IOM -002, disponíveis no site da Siemens 
+Energy.  
+6.2 Elevação  
+A EDU é pesada demais para elevação por uma só pessoa.  Considere o uso de uma grua ou outro 
+disposi tivo de elevação adequado. Eslinga ao redor do corpo de plástico.  Não use os conectores 
+como ponto de eslinga. Se o conjunto incluir sensores, eles precisam ser elevados separadamente. 
+A EDU precisa ser mantida na posição horizontal.  
+No caso da EDU ROV, i sso pode ser feito usando -se os orifícios roscados M10 de 3 saídas ao longo 
+de cada lado. (Consulte a figura 5).  
+ 
+6.3 Desembalagem  
+Remova o material de embalagem tomando cuidado para inspecionar se há algum dano na 
+superfície ou itens que possam ter se separad o da unidade.  
+Para peças fornecidas individualmente e embaladas em materiais, não use uma faca para cortar o 
+material de embrulho, pois isso pode causar danos a alguma peça elastomérica ou à pintura do 
+produto.  
+Não remova as tampas de proteção de transport e ou para borda de navio até que a EDU esteja 
+pronta para instalação. Os conectores/equipamentos fornecidos em caixas precisam ser 
+armazenados nelas.  
+6.4 Armazenamento, proteção e fim da vida útil  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  24 de 41 
+ 
+Unrestricted   
+Todos os conectores são fornecidos com uma tampa de transporte.  Sempre que possível, as 
+tampas devem ser mantidas. As tampas precisam ser removidas antes da implantação submarina.  
+O conector pode ser equipado com uma tampa de proteção plástica traseira para borda de navio 
+(Figure 13 ), que está disponível para compra separadamente (preferência do cliente). Essas tampas 
+oferecem um grau mais alto de proteção mecânica ao conector do que as tampas de transporte.  
+Consulte a seção 9.4 para obter detalhes sobre os tipos de tampas e conectores cegos disponíveis 
+para proteção durante o armazenamento.  
+ 
+Se o produto tiver sido recupe rado de uso submarino, deve ser limpo antes do armazenamento. 
+Limpe apenas com água doce ou solução de ácido cítrico a 50%. Se a lavagem com ácido cítrico a 
+50% não for realizada, lave, no mínimo, com água limpa para remover toda a água salgada dos 
+produto s. 
+ Armazenamento de curto prazo  
+Antes da instalação, os conectores e compensadores (localizados em cada extremidade da EDU) 
+são sensíveis a ambientes com a presença de sujeira e cascalho. Para evitar a entrada do citado 
+acima, eles devem ser armazenados em  uma área seca e limpa, protegidos por plástico -bolha ou 
+material de embalagem similar.  
+Devem ser instaladas tampas de transporte ou tampas de proteção para borda de navio. Os 
+conectores fornecidos em caixas devem ser armazenados nelas.  
+Não deve haver aço carbono presente no armazenamento dos produtos.  
+O armazenamento onde não houver controle de temperatura e umidade deve ser limitado a 4 
+semanas  
+Faixa de temperatura de armazenamento: -40 °C a 70 °C ( -40 a 158 °F) Umidade de 
+armazenamento abaixo de 75%.  
+ Cuidado.  Risco de danos materiais. A temperatura máxima de armazenamento leva em 
+conta o ganho solar. A temperatura da pele não deve exceder 70 °C. Deve -se usar 
+proteção adequada para garantir que a temperatura máxima de armazenamento não seja 
+excedida.  
+ 
+ Armazenamento de longo prazo  
+A EDU precisa ser armazenada em área seca e limpa e protegida por plástico -bolha ou similar. 
+Devem ser instaladas tampas de proteção adequadas e a temperatura de armazenamento deve 
+estar entre -40 °C e 70 °C. A umidade da sal a de armazenamento deve estar abaixo de 75%. Devem 
+ser evitadas condições muito úmidas ou muito secas.  
+O equipamento  deve ser protegido de luz solar forte e luz artificial forte com alto conteúdo 
+ultravioleta.  
+Após 5 anos de armazenamento, recomenda -se rea lizar um exame visual e testes elétricos para 
+confirmar se o produto ainda está adequado para a finalidade e dentro das especificações.  Verifique 
+se há vazamentos de óleo ou sinais óbvios de danos nos conectores e no corpo da EDU.  Consulte 
+ Cuidado.  Risco de danos mat eriais. Se o armazenamento for realizado em condições 
+salinas, como no convés ou no porão do navio, deve ser usada uma tampa de ambiente 
+submarino ou conector de plugue cego para proteger os pinos da tomada contra corrosão.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  25 de 41 
+ 
+Unrestricted   
+o documento "T este de recebimento no local" SRT -002, disponível no site da Siemens -
+Energy/subsea, para obter os requisitos de teste elétrico.  
+Após 5 anos de armazenamento, reinspeção e teste são recomendados a cada 2 anos e antes que 
+o produto seja colocado em serviço.  
+ Cuidado.  Risco de danos materiais. A temperatura máxima de armazenamento leva em 
+conta o ganho solar. A temperatura da superfície não deve exceder 70 °C (158 °F). Deve 
+ser usada proteção adequada para não se exceder a temperatura máxima de 
+armazenamento.  
+ Cuidado.  Risco de danos materiais. Os conectores não devem ter contato com solventes, 
+óleo, graxa ou outros materiais semissólidos.  
+ 
+ Reembalagem para evitar danos no transporte  
+Em caso de necessidade de devolver a EDU à Siemens Energy, ela deve ser transportada em sua 
+caixa de transporte exclusiva. A tampa protetora de transporte ou para borda de navio deve ser 
+encaixada no(s) conector(es) e deve -se tomar cuidado para proteger o( s) conector(es) com plástico -
+bolha ou material de embalagem similar para evitar qualquer dano à superfície. Entre em contato 
+com o Suporte Técnico da Siemens Energy connectortechnicalsu pport.gb@siemens -energy.com  
+para discutir detalhes de caixas típicas.  
+ Descarte e reciclagem  
+O descarte ou reciclagem segura de resíduos de embalagens e/ou produtos fora da vida útil é 
+recomendado com a observação e cumprimento corretos da legislação ambien tal regional, nacional 
+ou internacional, quando aplicável.  
+ 
+Para devolver a embalagem descartada e/ou o produto no fim da vida útil ao fabricante, entre em 
+contato com o Diretor de Segurança de Produto em subsea.connectors.productsafety.gb@siemens -
+energy.com . 
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  26 de 41 
+ 
+Unrestricted   
+7 INSTALAÇÃO E MONTAGEM  
+Em caso de dúvidas, entre em contato com o Suporte Técnico da 
+Siemens connectortechnicalsupport.gb@siemens.com para obter informações mais detalhadas.  
+7.1 Proteção catódica  
+O corpo da EDU é feito de material termoplástico; portanto, não é suscetível à corrosão submarin a. 
+No entanto, os conectores e a fixação são de aço inoxidável 316L e precisam ser sempre protegidos 
+pelas estruturas principais do sistema de CP.  
+A EDU é equipada com tiras de aterramento externas para fornecer proteção CP para cada conector 
+instalado. Du as tiras de aterramento também são fornecidas para serem instaladas no suporte de 
+montagem e na estrutura principal, que fornece uma conexão CP.  
+No caso da EDU ROV, o corpo da EDU é fabricado em aço inoxidável 316L e precisa ser protegido 
+por uma tira de a terramento ligada à estrutura principal. Os orifícios roscados M10 de 3 saídas ao 
+longo de cada lado do corpo permitem a fixação da tira de aterramento. Os conectores no corpo 
+são fabricados em aço inoxidável Super Duplex e projetados para isolamento do si stema de CP.  
+ 
+ 
+Figure 5  EDU ROV - 3 orifícios roscados M10 (pontos de aterramento e pontos de fixação da 
+estrutura de montagem).  
+ 
+7.2 Instalação da EDU  
+As tampas protetoras de transporte ou para borda de navio devem ser removidas antes da 
+implantação.  Se os conectores  forem deixados desencaixados na água do mar por qualquer 
+período de tempo, devem ser usados conectores cegos ou tampas de ambiente submarino para 
+proteger os contatos dos pinos nos conectores de tomada (consulte a seção 9.4). 
+ 
+ 
+ Cuidado.  Risco de danos materiais. A exposição cumulativa máxima dos pinos machos 
+à água do mar é de 28 dias para evitar a corrosão dos pinos. Se os conectores forem 
+deixados desencaixados na água do mar por qualquer período de tempo no ambiente 
+submarino, devem s er usadas tampas submarinas ou conectores cegos para proteger os 
+contatos dos pinos nos conectores de tomada. A superexposição aumentará o risco de 
+danos por corrosão ou de crescimento marinho nas superfícies de contato dos pinos de 
+contato da tomada. Isso  pode levar a danos às vedações e ao isolamento dentro dos 
+contatos da tomada. Os conectores de plugue requerem apenas uma tampa protetora 
+submarina, não um conector cego para proteção.  É uma boa prática sempre encaixar a 
+tampa de transporte ou a tampa de  proteção para borda de navio quando um conector for 
+desacoplado na borda antes da implantação, para fornecer proteção mecânica.  
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  27 de 41 
+ 
+Unrestricted   
+ Teste daEDU  
+Para o teste de produtos em um ambiente seco (borda de navio), o conector de teste adequado 
+precisa ser sempre us ado para fazer contato elétrico durante o teste.  
+Para testes em um ambiente úmido, um conector submarino padrão precisa ser usado.  Os 
+conectores Siemens não devem ser usados como barreira de pressão em um vaso de 
+pressão, pois não se destinam a esse uso . 
+Se presentes, os pinos -guia nunca devem ser removidos dos conectores de teste, pois isso pode 
+causar danos e invalidar a garantia do conector.  
+ 
+ Perigo!  Risco de perigo iminente à vida ou de lesões pessoais graves.  
+Liberação repentina da pressão armazenad a. 
+Os produtos DigiTRON não se destinam ao uso como penetração em vasos fixos de 
+pressão de borda ou terrestres. Eles não foram projetados para cumprir os requisitos 
+da Diretiva de Equipamentos de Pressão (2014/68/UE). São destinados apenas para 
+integração  em equipamentos submarinos.  
+Todos os testes de pressão do produto DigiTRON precisam ser realizados por uma 
+pessoa competente.  
+ Perigo!  Risco de morte por choque elétrico devido a um conector de teste danificado  
+- Nunca segure um conector de teste enquanto ele estiver eletricamente energizado.  
+- Não use um conector de teste se ele parecer danificado de algum modo.  
+ Perigo!  Risco de morte po r choque elétrico devido ao uso inadequado do conector de 
+teste. Nunca desmonte os conectores de teste. É especialmente proibida a remoção das 
+luvas de terminação de borracha colocadas sobre a junta entre o cabo e o conector de 
+teste, pois isso pode expor partes energizadas ao usuário.  
+- Nunca desmonte um conector de teste.  
+ Cuidado.  Risco de danos materiais. O conector de teste apropriado deve sempre ser 
+usado para fazer contato elétrico durante o teste. Em nenhuma circunstância um objeto 
+estranho (como uma chave de fenda, sonda de teste ou clipe de mola) deve ser usado 
+como conexão de teste, pois isso pode danificar as vedações e o isolamento. Essas ações 
+invalidarão a garantia do produto.  
+ Cuidado . Risco de danos materiais. Os conectores de teste nunca devem ser usados na 
+água. Há uma grande chance de danos ao conector de teste e também ao conector em 
+teste.  
+ 
+Abaixo estão algumas imagens dos conectores de teste padrão da Siemens Energy Subsea.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  28 de 41 
+ 
+Unrestricted   
+ 
+Figure 6  Conectores de teste para conectores ROV (esquerda) e tipo mergulhador (direita)  
+ 
+• Chaves Allen de 5 mm e 6 mm  
+• Chave de torque com impulsor de ¼ de polegada de 0 -25 Nm - com acionador de chave 
+Allen de 5 mm e 6 mm  
+ 
+ 
+ 
+ 
+7.3 Instalação da EDU com conectores de encaixe pelo mergulhador  
+Ferramentas necessárias:  
+• Chaves Allen de 5 mm e 6 mm  
+• Chave de torque com impulsor de ¼ de polegada de 0 -25 N m - com acionador de chave 
+Allen de 5 mm e 6 mm  
+ 
+A EDU foi projetada para ser montada e implantada somente na posição horizontal.  
+É fundamental que os suportes da EDU sejam instalados conforme identificado no DRG T31014. 
+Para outras variantes do produto, c onsulte o desenho específico, disponível no Suporte Técnico 
+da Siemens Energy connectortechnicalsupport.gb@siemens.com.  
+O tamanho e as posições dos parafusos de montagem são definidos no desenho.  
+Os parafusos de montagem são fornecidos com o produto.  Se a estrutura principal tiver sido 
+preparada com furos de passagem para os parafusos, o instalador deverá fornecer porca e arruela 
+adequadas.  
+As tiras de ligação para CP de 2 saídas fornecid as com a EDU devem ser fixadas à estrutura 
+principal (terminais anelares de tamanho M8), no máximo a 1 m da EDU. Consulte 7.  
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  29 de 41 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+Figure 7  Destaque do comprimento das tiras de aterramento para conexão de CP à estrutura  
+ 
+Os suportes de montagem e a EDU precisam ser instalados juntos devido à disposição das tiras 
+de aterramento presas sob os parafusos de fixação dos suportes de montagem. Consulte 8.  
+Prenda os suportes de montagem na estrutura principal por intermédio dos furos de interface. Instale 
+com os 4 parafusos M8*40 e as 4 arruelas M8 fornecidas.  
+Aplique um ponto de Loctite 243  nas roscas dos parafusos de cabeça sextavada. Fixe a EDU à  
+estrutura com 4 parafusos M8, com torqu e de 10 -12 Nm (7,38 - 8,85 lbf.pés)  
+ 
+ 
+Tiras de aterramento 
+comprimento máx. 1 
+m. Conexão CP da 
+estrutura.  
+Tiras de aterramento 
+fixadas sob o parafuso de 
+montagem  
+Tiras de aterramento 
+fixadas sob o parafuso de 
+montagem  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  30 de 41 
+ 
+Unrestricted   
+Figure 8  Tiras de aterramento presas sob os parafusos de fixação do suporte  
+ 
+Caso os suportes não estejam instalados no corpo da EDU, eles precisarão ser montados e 
+instalados. Se aplicável: Monte os suportes no corpo levando em consideração que o pino 
+antirrotação deve ficar localizado na parte inferior da unidade, dentro de uma reentrância do 
+corpo. Aperte os parafusos M6 a 3,5 Nm (2,58 lbf.pés)para concluir a instalação do suporte. 
+Consulte Figure 9 . 
+ 
+Figure 9  Conjunto de montagem do suporte  
+ 
+ 
+Observação: Encaixe as tiras de aterramento sob os parafusos de montagem necessários e 
+aperte a 10 Nm (7,38 lbf.pé). Consulte Figure 10 .  
+ 
+Parafusos M8 para 
+fixação à estrutura  Parafusos M6 para 
+fixação do suporte 
+ao corp o. (LIGA 625, 
+portanto, não há 
+necessidade de CP 
+para esses)  
+Pino antirrotação.  
+Instale 4 parafusos de 
+montagem M8.  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  31 de 41 
+ 
+Unrestricted   
+Figure 10  Vista ISO da EDU indicando as posições dos parafusos de montagem  
+ 
+Passe e encaixe a tira de ligação de CP à estrutura principal e prenda com 2 parafusos de cabeça 
+sextavada item SC -M8*20, equipados com as arruelas M8 f ornecidas, com torque de 10 Nm (7,38 
+lbf.pé). Consulte Figure 11 .  
+ 
+ 
+ 
+ 
+Figure 11  Tiras de aterram ento a serem fixadas na estrutura de encaixe  
+ 
+ 
+ 
+Assegure que os suportes de montagem estejam firmes e que a EDU esteja orientada 
+corretamente, com as tampas de proteção para borda de navio ainda instaladas. A EDU foi 
+projetada para operar somente em posiçã o horizontal fixa. Isso conclui a instalação da EDU.  
+ 
+ 
+ 
+ 
+Figure 12  EDU instalada na estrutura  
+ 
+7.4 Instalação da EDU com conectores ROV  
+Prenda as tiras de 
+aterramento na 
+estrutura de 
+encaixe.  
+Certifique -se de que a unidade 
+esteja fixa, sem movimentos laterais 
+ou rotacionais.  
+Estrutura de montagem  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  32 de 41 
+ 
+Unrestricted   
+A EDU ROV será fornecida sem suportes de montagem ou meios de fixação da EDU. A disposição 
+de montagem será desenvolvida pelo cliente (isso não está incluso no escopo de fornecimento da 
+SE), e o projeto utilizará os orifícios M10 ao longo de cada lado do corpo da EDU com o meio de 
+fixação do arranjo de montagem. Consulte a Figura 5. O corpo da EDU ROV precisa ser conectado 
+ao sistema CP por meio de uma tira de aterramento.  
+ 
+7.5 Instalação de EFLs naEDU  
+Consulte o documento IOM -001 da Siemens, disponível no site da Siemens Ener gy, para obter 
+todas as informações relacionadas aos EFLs e ao encaixe de conectores pelo mergulhador ou 
+operados por ROV.  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  33 de 41 
+ 
+Unrestricted   
+8 INFORMAÇÕES AO USUÁRIO DURANTE A OPERAÇÃO NORMAL E 
+CONDIÇÕES DE FALHA  
+8.1 Sinais visíveis/audíveis  
+Não há sinais visíveis ou audíveis do  produto durante o uso que identifiquem operações específicas 
+para o usuário.  
+O produto deve estar silencioso durante a operação, e sua aparência não deve mudar.  
+8.2 Operação normal e defeituosa/perigosa  
+Não opere o produto se parecer haver um defeito. Em caso de dúvida, entre em contato com o 
+Suporte Técnico da Siemens. Abaixo estão algumas indicações de defeito no produto.  
+• Quaisquer itens soltos, como corpos de metal, parafusos e outras fixações  
+• Há presença de vazamento de óleo, seja do conector, das mangueiras preenchidas com 
+óleo ou das EDUs.  
+• Pinos tortos  
+• Enegrecimento ou escurecimento das vedações de borracha na face frontal do plugue.  
+• Qualquer sinal de atividade elétrica na parte externa dos produtos, como queima na face 
+frontal do plugue ou queima  dos pinos machos.  
+• Corrosão de coloração verde nos pinos machos.  
+• Isolamento danificado em qualquer cabo.  
+• Junta elétrica solta ou defeituosa entre os cabos e o conector.  
+• Qualquer ruído proveniente do produto.  
+8.3 Resolução de problemas  
+Se houver algum problema com o produto não operando corretamente, entre em contato com a 
+Siemens para obter orientação. Não desmonte o produto de nenhuma forma.:  
+Departamento  E-mail 
+Diretor de Segurança de Produtos  subsea.connectors.productsafety.gb@siemens.com  
+Suporte Técnico  connectortechnicalsupport.gb@siemens.com  
+Manutenção (equipe do local)  susultlcmsupport.gb@siemens.com  
+Table 5  Informações de contato para resolução de problemas do 
+produto  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  34 de 41 
+ 
+Unrestricted   
+9 OPERAÇÃO E MANUTENÇÃO DO PRODUTO  
+9.1 Precauções de segurança  
+Antes do uso, leia a seção 3 sobre recomendações de segurança do produto.  
+9.2 Manutenção e assistência técnica do produto  
+Os produtos DigiTRON+ requerem manutenção zero durante toda a sua vida útil submarina de 30 
+anos e realizam até 250 ciclos de encaixe e desencaixe submarinos.  
+Não há peças passíveis de manutenção por parte do usuário na EDU. Não se deve tentar desmontar 
+o produto. Se algum problema se desenvolver com o  produto, o usuário deverá entrar em contato 
+com o Suporte Técnico da Siemens para obter orientação  
+9.3 Proteção submarina dos pinos de contato da tomada  
+ Cuidado.  Risco de danos materiais, corrosão do pino macho exposto no conector da 
+tomada.  
+28 dias são a e xposição máxima permitida cumulativa de pinos de tomada 
+desprotegidos à água do mar durante a vida útil do conector   
+Sempre instale imediatamente uma tampa de ambiente submarino ou plugue cego 
+na tomada para proteger os pinos contra corrosão.  
+ Cuidado.  Risco de danos materiais. Em nenhuma circunstância os pinos de contato no 
+conector da tomada devem ser expostos à água do mar com a energia ligada.  
+Se essa situação ocorrer, o conector elétrico pode ser destruído (dependendo da energia 
+elétrica di sponível). No mínimo, as superfícies de contato dos pinos se degradarão muito 
+rapidamente por ação eletrolítica. Se esses pinos danificados forem posteriormente 
+encaixados em um inserto de soquete, há um risco muito alto de danos ao isolamento e 
+às vedaçõe s dentro do conector do plugue.  
+ Cuidado . Risco de danos materiais. É importante isolar e aterrar antes de desconectar 
+para remover qualquer carga ainda existente no sistema. Se deixada no sistema, ela pode 
+induzir a corrosão nos pinos expostos assim que o plugue for removido.  
+ 
+9.4 Proteção do produto; tampas e conectores cegos  
+Há cinco tipos de tampas e conectores falsos disponíveis para proteger o produto em uso. A seguir, 
+o caso para uso de cada tipo.  
+ Tampas para borda de navio  
+As tampas para bor da de navio podem ser simplesmente encaixadas ou removidas manualmente. 
+Elas não devem ser implantadas em ambientes submarinos.  
+• Tampa de transporte : Fornecida com o conector para protegê -lo contra danos durante o 
+transporte ( Figure 13 ) 
+• Tampa protetora : Fornece maior grau de proteção mecânica ao conector do que a tampa de 
+transporte. Recomendada para quando os conectores são expostos a um risco maior de 
+danos fora do transporte ( Figure 13 ) 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  35 de 41 
+ 
+Unrestricted   
+   
+Figure 13  Tampas de transporte típicas (esquerda) e tampas protetoras para borda de navio  
+ 
+ Tampas subma rinas  
+• Tampas de proteção submarinas : Fornecem proteção mecânica ao conector do plugue ou 
+da tomada ( Figure 15 ). Essa é uma tampa não elétrica . A tampa do conector do plugue 
+(tomadas fêmeas, preenchidas com óleo) pode ser usada para proteção mecânica de 
+longo prazo. A tampa da tomada (pinos machos expostos) não protege esses pinos da 
+tomada contra corrosão. Ela deve ser usada apenas para uso submarino de curtíssimo 
+prazo; por exemplo, a tampa é removida alguns dias após a implantação, e o cabo de 
+interconexão é conectado à tomada (observando -se o máximo de 28 dias na seção 9.3) 
+ 
+Observe que, para conectores operados pelo mergulhador, as tampas protetoras 
+submarinas e de borda de navio são o mesmo item, ou seja, a tampa de borda de navio é 
+usada também como tampa submarina.  
+• Tampa de ambiente submarino (somente conectores ROV) : Fornec e proteção mecânica ao 
+conector da tomada (pinos machos), incluindo  proteção contra corrosão dos pinos 
+expostos. Essa é uma tampa não elétrica.  (Figure 16 ). A ser us ada quando o conector de 
+tomada for deixado sem encaixe por qualquer período de tempo.  
+• Conectores cegos . Fornece proteção mecânica e elétrica ao plugue ou tomada, incluindo  
+proteção contra corrosão dos pinos expostos na tomada ( Figure 16 ). Esses conectores têm 
+classificação elétrica total. Ela pode ser configurada no momento do pedido para circuito 
+aberto ou em loop com fio ou resistores (Figura 14). Esses conectores devem ser usados 
+em todos os lugares em que o sistema vá ser energizado eletricamente ou para testes 
+elétricos.  
+ Cuidado.  Risco de danos materiais. Se o armazenamento for realizado em condições 
+salinas, como no convés ou no porão do navio, deve ser usada uma tampa de ambiente 
+submarino ou conector de plugue cego para proteger os pinos da tomada contra corrosão.  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  36 de 41 
+ 
+Unrestricted   
+ 
+Figure 14  Exemplos de etiqueta nos conectores (“LOOPED” (Em l oop), “RESISTORS” (Resistores) 
+ou “ZERO VOLTS”)  
+ 
+ 
+ 
+Figure 15  Tampas submarinas operadas por mergulhador e ROV  
+ 
+   
+Tampa de tomada  Tampa de 
+plugue  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  37 de 41 
+ 
+Unrestricted   
+                      
+Figure 16  Tampas para ambiente submarino e conectores cegos operados por mergulhador e ROV, 
+dos tipos com interconexão e com flange.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.5 Encaixe/Desencaixe energizado  
+Os conectores não foram projetados para serem encaixados ou desencaixados enquanto 
+energizados eletricamente. Dependendo do tipo de carga elétrica, as seguintes recomendações 
+devem ser seguidas.  
+ Perigo!  Risco de morte por choque elétrico devido a pinos energizados expostos, por 
+exemplo: teste de fábrica ou de sistema em navio e a tomada não encaixada é energizada.  
+- Assegure que todos os procedimentos de teste se jam seguidos.  
+- Os canais e protocolos de comunicação são observados.  
+ Cuidado . Risco de danos materiais. O número máximo de operações de 
+encaixe/desencaixe energizado em qualquer uma dessas condições é de apenas UM. 
+Há alto risco de danos tanto ao conector de plugue quanto ao conector de tomada, o 
+que o tornaria inutilizável.  
+ 
+Cargas resistivas  
+O encaixe dos conectores não deve levar a danos aos mecanismos de vedação dentro dos plugues. 
+Após este procedimento de desencaixe, deve -se realizar um test e no conector para determinar se 
+ocorreu algum dano. Os conectores não devem ser parcialmente encaixados com a energia ligada 
+em hipótese alguma.  
+Cargas capacitivas  
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  38 de 41 
+ 
+Unrestricted   
+O encaixe com a energia ligada causará uma corrente de influxo. A magnitude dessa corrente de 
+influxo dependerá da capacitância do circuito. É muito importante que a corrente de entrada não 
+seja superior a 100 A por 5 segundos.  
+Cargas indutivas  
+O encaixe dos conectores não deve levar a danos aos mecanismos de vedação dentro dos insertos. 
+O desen caixe não deve ser tentado, pois existe o risco de EMFs retrógrados altos, que causarão 
+danos às vedações e ao isolamento dentro dos insertos.  
+  
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  39 de 41 
+ 
+Unrestricted   
+9.6 Remoção do crescimento marinho e depósitos calcários  
+Para remover o acúmulo de calcita dos conectores Siemens Subsea, recomenda -se uma solução 
+de ácido cítrico a 50%. Todos os materiais elastoméricos expostos à água do mar nos conectores 
+Siemens Subsea foram totalmente testados com ácido cítrico a 50% e são compatíveis por uma 
+duração de 1 hora. Além disso , os materiais termoplásticos oferecem boa resistência ao ácido 
+cítrico.  
+ 
+ Advertência.  Risco de lesões pessoais leves. Use proteção adequada para as mãos e 
+para os olhos ao manusear a solução de ácido cítrico a 50%.  
+ Cuidado.  Risco de danos materiais. Outros produtos de limpeza ácidos, como ácido 
+acético a 50%, não devem ser usados, pois  podem causar deterioração dos materiais 
+elastoméricos.  
+ Cuidado.  Risco de danos materiais. Não são recomendados cinzelamento e métodos 
+abrasivos. O uso de jato de água é aceitável, mas o jato não deve ser direcionado aos 
+pinos catraca na frente do plugu e, pois isso pode resultar em risco de forçar a água através 
+das vedações principais.  
+ 
+ 
+
+  Nº do documento:  IOM-007 
+ Data de emissão:  20/06/2022  
+ Revisão:  04 
+ Página:  40 de 41 
+ 
+Unrestricted   
+10 COMENTÁRIOS/FEEDBACK DO CLIENTE  
+Preencha a seção de Aprovação na parte inferior do formulário para confirmar que cada página 
+deste documento foi lida e cumprida integr almente.  
+Nome e iniciais do originador (LETRA DE FORMA)  Data  
+  
+ Informações de contato   Informações de contato  
+  
+Referência do projeto  Cliente  Região  
+   
+Tipo de produto  Número da peça (P/N)  Número de série (S/N)  
+   
+Insira os detalhes abaixo; por exemplo, comentários, reclamações, evidências de boas práticas, 
+relatórios de incidentes, observações e recomendações, incluindo as associadas a saúde, 
+segurança ou meio ambiente etc. Inclua também nomes/informações de contato de outros 
+funcion ários relevantes.  
+  
+ 
+Seção de aprovação  
+Nome (LETRA DE FORMA)  Assinatura  Data  
+   
+Envie o formulário preenchido por e -mail para o Diretor de Segurança de Produto no seguinte 
+endereço: subsea.connectors.productsafety.gb@siemens.com  
+ 
+Unrestricted  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Publicado por:  
+Siemens Energy Global GmbH & Co. KG  
+Aplicações industriais  
+Freyeslebenstraße 1  
+91058 Erlangen  
+Alemanha  
+E-mail: subsea@siemens -energy.com  
+Para obter mais informações, acesse nosso site:  
+www.siemens -energy.com/subsea  
+ 
+Sujeito a alterações e erros. As informações fornecidas neste documento contêm apenas descrições 
+gerais e/ou características de desempenho que podem nem sempre refletir especificamente as 
+descritas ou que podem sofrer modificações no decorrer do desenvolvimento futuro dos produt os. 
+As características de desempenho solicitadas são vinculantes apenas quando expressamente 
+acordadas no contrato celebrado.  
+ 
+ 
+ 
+Siemens Energy é uma marca registrada licenciada pela Siemens AG  Para os EUA Publicado por  
+Siemens Energy, Inc.  
+Aplicações industriais  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+EUA  

@@ -1,0 +1,892 @@
+1
+Operating Manual for 
+Siemens Energy Cast-resin Dry 
+Type Distribution Transformer
+www.siemens-energy.cn
+ 
+2
+01 Applicability 1
+02 Reference Standards 1
+03 Safety Guideline 2
+04 Product Structure 4
+05 Handling 7
+06 Installation 12
+07 Commissioning 18
+08 Operation 21
+09 Maintenance 23
+10 Appendix 25
+11 Warranty 27
+12 Customer Satisfaction Survey 28
+1This manual is applicable to all Siemens cast-resin dry 
+type transformers with three-phase, single phase as well 
+as special transformers like rectifier transformers and 
+earthing transformers.
+• IEC 60076-11 – Power transformers – Part 11 Dry-type transformers
+• IEC 60076-1 – Power transformers – Part 1 General
+• IEC 60076-2 – Power transformers – Part 2 Temperature rise
+• IEC 60076-3 – Power transformers – Part 3 Insulation class, insulation test and external insulation air clearance
+• IEC 60076-4 – Transformer and electric reactor lighting impulse test and guideline
+• IEC 60076-5 – Power transformers – Part 5 Short Circuit Capacity
+• IEC 60076-10 – Power transformers – Part 10 Sound level Test
+• IEC 60529 – Enclosure IP Class (IP Code)
+• GB/T 1094.11 – 电力变压器 第11部分 ：干式变压器
+• GB/T 1094.1 – 电力变压器 第1部分 ：总则
+• GB/T 1094.2 – 电力变压器 第2部分 ：温升
+• GB/T 1094.3 – 电力变压器 第3部分 ：绝缘水平、绝缘试验和外绝缘空气间隙
+• GB/T-1094.4 – 电力变压器 第4部分 ：电力变压器和电抗器的雷电冲击和操作冲击试验导则
+• GB/T 1094.5 – 电力变压器 第5部分 ：承受短路的能力
+• GB/T 1094.10 – 电力变压器 第10部分 ：声级测定
+• GB/T 4208 – 外壳防护等级（IP代码）Cast-resin dry-type transformers are mainly usedindoor, 
+especially in the fire hazardous areas and un-derground 
+water built-up areas. Cast-resin transformers can be 
+widely used in shopping malls, subway stations, sports 
+grounds, town halls, pumping stations and water built-
+up areas. It can be easily transferred and also eco-
+nomic since traditional oil leakage collection device and 
+fire prevention are needless. More and more dry-type 
+transformers are used in industrial fields, such as load 
+center substations and feeding stations.
+Specific reference standards shall be subject to the contract requirements. 
+1. Applicability
+2. Reference Standards
+23.1 Transformer Safety Matters
+Do the unloading. positioning, transfer, installation and storage of the transformer on site in
+accordance with this manual to personnel injury and damage to the transformer body.
+Check the earthing condition of the transformer before energizing to ensure that the earthing
+points of enclosure and the lower core frames are reliably earthed.
+Make sure there is no any foreign objects (such as washers, bolts, nuts, etc. which could be left
+during installation) are left on the transformer core, low-voltage winding and busbar before
+energizing and remove the drying agent in the enclosure.
+The transformer tappings shall be connected and tightened according to the tapping indication
+on the nameplate, and the three-phase tappings must be in line.
+Keep enough insulation clearance among secondary control communication line and transformer
+busbar as well as high voltage cable to avoid interference to the control communication signal
+(e.g. RS 485 signal line).
+It is not allowed to adjust the tapping when the power is on, and the tapping can only be
+adjusted when the transformer is power off (power off-padlock-power test-discharge-
+grounding).
+When the maintenance is done, it is not allowed to energize the transformer until the earthing
+cable is removed, working staff are evacuated and warning cards are removed.
+Please contact the manufacturer (Siemens) If there is any damage or unknown faults to the
+transformer.
+3.2 Operator safety matterss 
+When lifting the transformer vertically, it is not allowed to stand below and enter the lifting radius of crane
+and vehicle without permission.
+Before energizing the transformer, the staff should have a clear picture for safety and measures to deal with
+emergencies.3. Safety Guideline
+33.3 Operator qualiﬁcation
+Electrical operation personnel must undergo professional training and pass examinations, and electrical
+operation shall be carried out by personnel who are qualiﬁed with related certiﬁcate.
+During the handing over test for transformer, the testing engineer shall have the qualiﬁcation certiﬁcate for
+performing the electrical work and the test equipment used must have the calibration certiﬁcate.
+Electrical operation personnel should have enough knowledge of ﬁreﬁghting, ﬁrst aid and shall be able to use 
+the ﬁre-ﬁghting facilities correctly and know ﬁrst-aid application for electric shock case.
+Operators working at height shall have the qualiﬁcation certiﬁcate. Safety belt should be fastened in a
+designated position during operation.
+  Note:
+The Safety Guideline could not be able to cover the site all safety issues and all potential risks, which aims to help operators to avoid 
+safety accidents as much as possible during operation.
+Make sure that no operators are conducting commissioning before energizing.
+The operator shall keep a safe distance from the transformer during energizing.
+When the transformer trips or is power off, it is not allowed to do maintenance to the transformer body
+immediately. The maintenance shall be done by professional staff after transformer earthing and discharging.
+It is not allowed to open the enclosure door (if any) during power-on condition to prevent electric shock.
+Operators shall wear helmets, safety shoes and reﬂective vests. The site shall be equipped with safety and
+protection equipment, ﬁre-ﬁghting facility and insulation gloves which are to be checked periodically.
+It is not allowed to smoke surrounding the transformer.
+4Remarks：
+This picture is a standard legend and does not cover all types of transformers 4.1 Transformer Body
+1 Low-voltage terminal
+2 Insulator 
+3 Siemens logo 
+4 Nameplate 
+5 Lifting lugs
+6 Upper clamp
+7 Insulating cylinder 
+8 Sensformer
+9 High-voltage tappings
+10 High-voltage winding 
+11 Grounding screw
+12 Lower clamp
+13 Wheels
+14 Pulling lugs
+15 Delta connection
+16 High-voltage terminals4. Product Structure
+6
+7
+16 9
+14
+1311
+121085
+3
+4
+1
+2
+15
+54.2 Transformer Enclosure 
+1 Siemens Logo
+2 Nameplate
+3 Location number plate
+4 Safety signs
+5 Air inlet
+6 Door panel 
+7 Door lock 
+8 Viewing window
+9 Forklift signs
+10 Temperature controller 
+11 Electromagnetic lock
+12 Air outlet
+13 Foundation
+1
+2
+3
+56
+78
+910
+1112
+134
+6Remarks
+• The IP class is in the form of IPXX, where XX is two Arabic numerals, the ﬁrst number indicates the level of contact protection and foreign object protection, 
+and the second number indicates the level of waterprooﬁng protection (the greater the number, the higher the class). 
+• Environment
+ Class E0 : There is condensation on the transformer, the contamination is ignored. Suitable for clean and dry indoor installation. 
+ Class E1: There is condensation on the transformer occasionally and the contamination is limited. 
+ Class E2: Frequent condensation and severe contamination, or both. 
+• Climatic
+ Class C1: Suitable for transformers operating at temperatures not less than-5 ºC, but exposed to temperatures above-25 ºC during transportation and storage. 
+ Class C2: Suitable for transformers operating, transporting and storing in environment above-25 ºC. 
+• Fair behavior
+Class F0: Combustion performance is not speciﬁed except for the inherent characteristics of the transformer. No special ﬁre protection measures have been 
+taken. However, the escape of toxic substances and opaque fumes should be minimized. 
+Class F1: Transformers are suitable for ﬁre hazards and require limited combustion. The escape of toxic substances and opaque fumes should be minimized. Remarks: 
+The technical parameters in this picture are standard parameters and do not cover all types of transformers.Introduction to technical 
+parameters: 
+1 Mounting hole 
+2 Siemens brand
+3 Standard:
+ International Standard IEC60076-
+ 11:2004
+4 Transformer name 
+5 Type : 
+ Take SCLB11-2500/10 as an example. 
+ S -- Three-phase 
+ C -- Cast-resin 
+ L -- Aluminum product 
+ B -- Foil winding 
+ 11 -- Performance level code 
+ 2500 -- Rated capacity 
+ 10 -- Voltage level 
+6 Serial No.: Product No.
+7 Rated voltage at high voltage side 
+(2x±2.5%）
+8 Rated voltage of low voltage side 
+9 Drawing No.: Product drawing No. 
+10 Number of phases 
+11 Connection group symbol:
+ D -- Delta connections
+ Y -- Star connections
+ N -- Neutral
+12 Thermal class: Thermal class of 
+insulation material:
+ Y, A, E, B, F, H, C 
+13 Type of cooling: 
+ AN -- Natural air cooling 
+ AF -- forced air cooling 
+14 Protection class (IP class) 
+15 Rated current: 
+ Rated current for long-term passage 16 Insulation level: 
+ LI75 -- Rated lightning impulse  
+  withstand voltage 
+ AC28/AC -- Rated withstand voltage 
+17 Impedance voltage: Impedance voltage, 
+also known as short circuit voltage, 
+represents the voltage loss (percentage) 
+on the transformer's impedance when 
+the rated current passes 18 Weight: Design weight of transformer 
+body kg 
+19 Manufacture date: Year of manufacture 
+20 Environmental /Climatic /Fire behavior 
+classes
+21 Manufacturer: Siemens Transformer 
+(Guangzhou) Co., Ltd.4. Product Structure
+标准/Standard:
+Three-phase Dry-type Transformer三相干式变压器
+型号
+Type出厂序号
+Serial No.
+广州西门子变压器有限公司 Sieme ns Transformer (Guangzho u) Co.,Ltd.图号
+Drawing No.
+联结组标号
+Connection SymbolDyn112500A00000
+相数
+Number of PhasesSCLB11-2500/10
+耐热等级
+Thermal ClassF/F
+冷却方式
+Type of CoolingAN/AF
+防护等级
+Protection Class
+阻抗电压
+Impedance Voltage
+总重量(含外壳)
+Total Weight (incl. enclosure)6500kg制造日期
+Manufacture Date额定容量
+Rated Power2500kVA
+额定电压
+Rated Voltage690V
+2092A5-6
+4-6
+4-7
+3-7
+3-810500V10250V
+10000V
+9750V
+9500V
+144.3A
+绝缘水平
+Insulation LevelsAC28-LI75 / AC3
+环境/气候/燃烧性能等级
+Environmental / Climatic / Fire Behaviour ClassesE2/C2/F1额定电流
+Rated Current3
+二维码占位符
+QRCode
+Placeholder
+NP_PH_Ver1_QRCode频率
+Frequency50Hz
+变压器重量
+Tr.-Weight6000kg
+西门子能源商标由西门子股份公司授权使用。
+Siemens Energy is a trademark licensed by Siemens AG.IEC 60076-11:2018
+E0000000
+2018.000.00%IPXX1
+23
+4
+5
+7
+15
+16
+19
+20
+2189
+10
+11
+12
+13
+14
+17
+186
+75.1 Transportation 
+According to the packaging requirements of the destination and customers (such as moisture-proof or waterproof), the 
+appropriate transport and packaging scheme shall be selected. During the transportation process, the products are ﬁrmly 
+placed, and shaking, collision and movement are prohibited. If there are multiple accessory wooden boxes, it is not allowed 
+to stack more than two wooden boxes to avoid damage to the wooden boxes. The transformer shall be well protected against 
+rain during transportation to prevent rainwater from wetting the transformer. 
+Wooden case packing and fork-lift transportation Wooden case packing and transportation
+  Warnings: 
+• Stacking and Extrusion of Transformer Body Wooden Box.
+• Transformers are forbidden to be placed horizontally on transport vehicles. The direction of the transformers should be the same as 
+that of the vehicles..
+• Transport vehicles should avoid sudden braking in the course of moving and should slow down on rough and pitted roads. 
+5.2 Transfer 
+When the product arrives at the destination, select the appropriate transfer method according to the loading and 
+unloading requirements: 
+5.2.1 If the transformer is packed in wooden cases, the lifting shall be carried out according to the lifting marks on the 
+wooden cases. Or it shall be transferred according to fork-lift signs, as shown below. 5. Transportation, Transfer, Lifting, 
+Handover and Storage
+8  Warnings: 
+• The lifting shall be uniform and smooth to avoid sudden elevation or landingand 
+protect the transformer from external impact.
+• The lifting angle shall not exceed 45º when lifting the transformer body.
+• Raise the height carefully during forklift transportation to avoid instability of the center 
+of gravity which leads to tipping or falling.5.2.2 If the transformer is packed with wooden pallet support, it shall be lifted from the lifting hole of the transformer 
+body or transferred according to forklift signs as shown below.
+5.2.3 If there is only the transformer body (without packing), it shall be lifted from the lifting hole of the transformer 
+body as shown below.
+Wooden pallet support packing and forklift transportation
+ Wooden pallet support packing and lifting
+5. Transportation, Transfer, Lifting, 
+Handover and Storage
+9 Warnings: 
+• It is not allowed to lift the lifting rings on the top of 
+thetransformer enclosure.
+•`Makesure the slings are completely fixedbeforeliftingand note 
+that the lifting angle shall not exceed 45º.
+• The lifting shall be uniform and smooth to avoid sudden 
+elevation or landing and prevent the transformer from quick 
+landing.• Be careful when lifting to avoid tipping or falling.5.3 Lifting 
+5.3.1 Vertical lifting
+ The unloading and transfer methods of transformers after unpacking shall be as follows: 
+1.Transformer without protective enclosure can only be lifted by slings through the lifting holes of the upper clamping. The 
+lifting angle must comply with the requirements on the labels beside the lifting holes. Below can be referred.
+2. Transformers with protective enclosure can be lifted in two ways:
+a. If there is a specially designed lifting hole at the top cover of the enclosure, the transformer can be liftedthrough 
+the lifting hole after conﬁrming the lifting mark as shown below.
+b. If there is no lifting holes at the top cover of the enclosure, the top cover panel of the enclosure needs to be 
+removed ﬁrst. Then the transformer can be lifted according to the lifting position marked on the transformerbody 
+as shown below.
+
+105.3.2 Horizontal transfer 
+ 1. If the transformer is with no protective enclosure and needs to be transferred:
+a. When the transformer is equipped with rollers (unconventional conﬁguration), the external traction equipment 
+can be ﬁxed through the traction hole of the lower clamping of the transformer and the transformer can be pulled 
+horizontally as shown below.
+b. When the transformer is not equipped with rollers, put the forklifting U-bar at the bottom of the transformer as 
+shown below.
+ 2. If the transformer is with protective enclosure and needs to be transferred:
+The forklift shall be used according to the forklift sign on the enclosure foundation. Before the transfer, the forklift
+arm shall be fully extended into the base as shown below.
+  Warnings: 
+• Raise the height carefully during forklift transportation to avoid instability of the 
+center of gravity which leads to tipping or falling.
+• Avoid deformation of the enclosure caused by external force during transferNote: 
+• Do not push or pull the high-voltage winding or the high-voltage connection tube.
+• Avoid the collision against core and other components, such as fan and earthing terminals.
+• When moving the transformer by prying the auxiliary lever, the auxiliary lever needs to be inserted into the traction hole of the 
+transformer.
+  Warnings: 
+• Raise the height carefully during forklift transportation to avoid instability of the 
+center of gravity which leads to tipping or falling.
+• The lifting shall be uniform and smooth and prevent the transformer from quick 
+landing.
+5. Transportation, Transfer, Lifting, 
+Handover and Storage
+11Requirements for Storage:
+a. Storage temperature shall be -25 ºC ~ 50 ºC and humidity be ≤ 90%.
+it's forbidden to install or store transformers at temperature below 
+-25 ºC (unless it's speciﬁed in the other agreement).
+b. Use opaque casing to prevent moisture, water, dust and sunlight 
+from damaging the transformer.
+c. The warehouse shall be clean, dried and ventilated. Transformers 
+shall not be stored together with active chemicals and corrosive sub-
+stances.
+d. All products shall not be stacked for storage.5.4 Handover 
+Unpack the transformer and check if there is any damage during transport. In case of damage, please claim compensation 
+against the carrier and report the damage to the representative of Siemens for coordination if necessary.
+Please refer to the following steps to check the transformers delivered on site with the carrier and make relevant 
+records.
+a. Check the outer packing of the transformer, such as wooden box and the plastic casing, which shall be in good condition. 
+b. Check the type, quantity and documents of transformer with delivery note, which shall be correct and well matched.
+c. Check the appearance of transformer enclosure, such components as door panel, base and others, which shall be free of 
+damage.
+d. Check the appearance of transformer body, such as winding, copper bar and other parts, which shall be intact.
+5.5 Storage 
+If not installed immediately for use upon arrival at site, the transformer needs to be stored in a dry room to avoid direct sun-
+light. The indoor temperature shall not be less than minus 25 º C (unless stipulated in other agreement) and the humidity shall 
+not exceed 90%. The transformer shall be covered properly to prevent moisture and dust pollution.
+
+126.1 Positioning 
+Before the transformer is positioned, refer to the outline drawing and foundation drawing and check whether the actual size 
+of foundation well matches the transformer base. Ensure that the installation foundation is ﬂat and able to withstand the 
+weight of the transformer. The transformer shall also be placed in the same direction as the incoming and outgoing busbar of 
+the high and low voltage side.
+6.2 Cable Connection on HV side
+Cable connection holes shall be made at both ends of the connecting rod on the high voltage side of the transformer. Take the 
+delta connection as an example. When connecting HV cable, ensure that the phase sequence at the upper end is U-V-W and 
+the lower end is V-W-U. Fasteners shall be used and preventive measures shall be taken for potential loosening. Fix the cable at 
+the terminal of the high-voltage connecting rod and ensure that the cable is reliably supported to avoid obvious ex-ternal force 
+on the wiring. Please refer to the illustration below.
+High voltage Cable Proper Connection of Phase Sequence
+Upper End U-V-W
+Lower End V-W-U  Warnings: 
+• In the areas with frequent vibration, additional damping pads shall be added prevent the transformer from resonating with the ground, 
+witch may generate loud noise.
+• Do not block or plug the louver in the transformer for heat dissipation. 
+• The transformer shall be firmly fixed on the foundation. 6. Installation
+136.3 Busbar or Cable Connection on LV Side
+Cable connection holes shall also be made at low-voltage terminal of the transformer, with fasteners ﬁxed on cable or busbar 
+to prevent loosening. If copper-aluminium composite foil (CUPAL) is required in the contract,it shall be installed between LV 
+terminal and cable, or between LV terminal and busbar. Below is for reference.
+  Warnings: 
+• Ensure that cables and busbars are reliably connected and avoid obvious external force on the connection.
+• In the installation of copper-aluminium composite foil, the copper surface should be in contact with the copper busbar and so is the 
+aluminium surface and aluminium busbar.Al Cu Cupal
+146.4 Cable Installation Layout
+6.4.1 Wiring with enclosure:
+For the transformer with protective enclosure, cables on HV and LV side can be imported through the top or bottom of 
+the enclosure and respectively connected to the transformer. Below is the cable wiring inside the enclosure.
+LV-SIDE HV-SIDELV-SIDE HV-SIDE
+  Note: 
+• The cable shall be ﬂexibly bent as above in connection to prevent force concentrated on the cable end.
+• If drilling holes in the gland plates is needed, the gland plates need to be removed from the roof of enclosure before drilling and cutting.
+• The transformer body needs to be covered by plastic ﬁlms or cloths before dismount or mount any parts on the top of enclosure, to 
+prevent any hazardous elements. 
+• Thoroughly cleaning is required after construction, including to remove the coverings.6. Installation
+156.4.2 Wiring without enclosure
+On HV side the cable can be connected to the transformer with wiring either at the bottom cable trench or at the 
+topcable tray. For the LV side, both cable and busbar can be used for connection. If the busbar is used, soft connection 
+is recommended to avoid mechanical impact on the low-voltage winding and to reduce noise due to transformer struc-
+ture. Below is wiring for reference.
+6.5 Bolts Fastening 
+6.5.1 Preparation of contact surface
+surfaceClean up the invisible but weakly conductive oxide layer on the contact surface before bolting or terminal 
+connection.Polish the contact surface with ﬁle brushes or grindstone if it's rough and apply moderate industrial grease. 
+Such preparations shall be made again before bolting when any contact surfaces is disassembled.
+If the transformer is installed in a room that is prone to condensation or with much corrosive gas, the aluminium-copper 
+contact area shall be coated with protective paint, especially marginal areas. Or install aluminum-copper composite foil 
+(CUPAL) between the contact surfaces, so that the aluminum surface and copper surface are individually connected with 
+aluminum bar and copper bar. 
+6.5.2 Requirements for bolts 
+Corrosion-resistant parts must be used for bolt connections, and 
+strengthgrade of galvanized bolts shall not be less than 8.8 and stainless-
+steel bolts not less than that of A2-70 hexagonal bolts. To distribute bolt 
+fastening force to the contact surface as much as possible, use high-
+strength lock washer on the surface so that the of bolts. Conical cushion 
+(DIN6796) is recommended. Warnings: 
+• Cables and busbars shall be reliably supported to avoid obvious external force on the connection.
+• High-voltage cables are not allowed to be connected through the HV connecting rod of the transformer (delta connection).
+1 Flat washer ISO 7093 
+2 Hexagon bolt, ISO 4014 or ISO 4017 
+3 Hexagon nut, ISO 4032 
+4 Conical cushion, DIN 6796 
+LV LV HV HV
+166.5.3 Connection torque 
+Bolts shall be secured with a torque wrench to ensure uniform clamping force. To eliminate any restoration after 
+fastening at the contact areas, it is recommended that the fastening bolts be re-checked after several weeks. However, 
+the torque shall not be higher than the torque used in the ﬁrst installation. It is recommended that the bolts be 
+tightened according to the torque values listed in the table below. 
+Torque values for busbar connections and tap connections 
+Bolt Torque (Nm) 
+(Ungreased) 
+M6 10
+M8 20
+M10 45
+M12 75
+M16 140
+6.6 Electrical safety clearance 
+Sufﬁcient space must be ensured around the transformer to ensure a smooth connection of the cable and the necessary 
+electrical distance. Minimum clearance value for ﬂashover protection is as bellow. 
+Figure 4 The high voltage side is the minimum 
+clearance around the cast resin  
+transformer connected to the junction 
+box (1) Figure 5 The high voltage side is the minimum 
+clearance around the cast resin  
+transformer connected to the copper 
+tube (2) 
+6. Installation
+176.7 Grounding 
+After the transformer is installed, ensure that the transformer body and enclosure are reliably grounded. Maximum voltage Um ① 
+of the equipment 
+(Effective value) Rated lightning impulse withstand voltage LI ①Minimum clearance value 
+List 1 List 2 a b c d
+kV kV kV mm mm mm mm
+12 - 75 120 * 55 **
+24 95 - 160 * 85 **
+24 - 125 220 * 105 **
+36 145 - 270 * 125 **
+36 - 170 320 * 170 **
+52 - 250 480 * 300 **
+72.5 - 325 630 * 450 **
+① See IEC 60071 
+ * If there is a high-voltage tap on this side, parameters of column 'a' shall apply to column 'b'; Otherwise, column 'c' applies. 
+**  The distanced between the delta connections is deﬁned constructively by the manufacturer.
+187.1 Adjustment of transformer accessories 
+7.1.1 Commissioning of temperature control system 
+The transformer could be equipped with a temperature control system to monitor the the winding temperature 
+toprevent abnormal temperature rise, thereby protecting the transformer.
+The temperature control system includes a temperature controller and a temperature sensor (PT100). The temperature 
+sensor (PT100) is placed in the three-phase winding of the transformer. When the temperature reaches the set value, the 
+temperature sensor (PT100) feeds back the corresponding temperature change to the temperature controller. After the 
+temperature controller receives the corresponding feedback signal, it corresponds to different functional responses (as shown 
+below). The over-temperature alarm and over-temperature trip functions need to be connected with the relay protection 
+system of the front-end equipment so that the higher-level equipment can be linked when the temperature controller acts. 
+Temperature controller function description Parameter settings 
+Over-temperature trip 150˚C
+Over-temperature alarm 130˚C
+Fan on 100˚C
+Fan off 80˚C
+The commissioning steps of the temperature control system are as follows: 
+a. Check the appearance of the temperature controller and temperature sensor. 
+b. Refer to the temperature controller manual for relevant parameters and setting methods. 
+c. To verify the function of the temperature controller at room temperature, the relevant functional parameters need to 
+be changed. 
+d. After commissioning, the temperature controller settings need to be restored to the default parameters. 
+ Warnings: 
+• Unless the wiring is equipped with the protection switch, it is forbidden to supply power to the temperature controller directly 
+from the low-voltage bus bar of the transformer in order to prevent damage to the temperature controller caused by inrush 
+current impulse.
+• During the commissioning of the temperature control system, it is necessary to conﬁrm that the upper and lower equipment of 
+the transformer have been disconnected, to prevent the occurrence of malfunction. 
+7.1.2 Travel switch commissioning 
+Before commissioning of the travel switch, please consult the secondary wire diagram of the transformer to understand 
+the corresponding operation logics. 
+The commissioning steps of the travel switch are as follows: 
+a. Mechanical function commissioning: Open the door on one side of the travel switch by approx. 20 ° and you can 
+hear the switch sound "ON/OFF". 
+b. Electrical function commissioning: According to the "Door Switching Node" section of the secondary wire diagram, 
+terminals 1-2 and 3-4 correspond to "normally open" and "normally closed" functions, respectively. When all doors 
+of transformer protective enclosure are closed, use multi-meter to measure terminals 1-2, without beeping sound 
+("normally open" state); Measure terminal 3-4 with beeping sound ("normally closed" state). 
+Auxiliary wire diagram 
+7. Commissioning
+197.2 Inspection before operation 
+Before the transformer is put into operation, it is recommended that the following steps shall be followed to ensure 
+that the transformer is under good operating conditions: 
+7.2.1 Remove transport aids such as plastic sheeting, wood cubes, tightening belts, etc. from the transformer prior to 
+operation. 
+7.2.2 Check the appearance of transformer high-voltage winding, low-voltage winding, iron core, etc. 
+7.2.3 Check the appearance and function of transformer accessories such as temperature controller, fan and 
+electromagnetic lock (refer to 7.1). 
+7.2.4 Check torque of electrical connection point such as transformer outlet terminal and tapping (refer to 6.5.3). 
+7.2.5  Check the distance between the live part of the transformer and its surroundings to meet the minimum electrical 
+safety clearance requirement (refer to 6.6). 
+7.2.6  Clean the transformer to ensure that no foreign matter remains in the transformer (see 9.1).7.1.3 Electromagnetic lock 
+The electromagnetic lock (as shown below) is installed on the protective enclosure of the transformer (if electromagnetic 
+lock is required in the contract) to realize the joint defense requirements of the equipment. Electromagnetic locks with 
+different functions can be selected according to user requirements. Refer to the following commissioning steps: 
+a.  Check the mechanical structure, terminal of electromagnetic lock. 
+b. Understand the functional characteristics of the electromagnetic lock, according to the operation manual of the 
+electromagnetic lock.
+c. In the power-on and power-off states, verify whether the unlocking and locking functions of the electromagnetic 
+lock meet.
+Schematic diagram of electromagnetic lock 1. Lock body 
+2. Indicator lamp 
+3. Handle 
+4. Lock bolt 
+5. Panel 
+6. Mounting nut
+7. Power cord 
+8. Power cord 
+connector 
+9. Unlock keyhole 
+Unlock key 
+207.3 Pre-commissioning test 
+7.3.1 Voltage ratio test: Measure the voltage ratio of the winding under all taps and the connection group. The 
+allowable deviation of rated tap voltage ratio shall not exceed ± 0.5%, except for special transformers. 
+7.3.2 Wingding resistance test: Measure the DC resistance of the winding at all taps and records the winding 
+temperature. 
+7.3.3 Insulation resistance test: Measure the insulation resistance values of the windings and cores (as shown in the 
+table below) and record ambient temperature and humidity. 
+ Typically, the insulation resistance is measured at ambient temperature of-25 º C ~ 50 º C, humidity ≤ 90%, and 
+the insulation resistance of the transformer would decrease in humid environment. If the transformer suffers from 
+dampness, the transformer can be dried. If the insulation resistance is not less than 2 M Ω, a voltage can be applied to 
+the low-voltage side of the transformer and the transformer can be dried by no-load heating. If the insulation resistance 
+value is less than 2 M Ω, it can be dried by air drying or baking with heat lamp. 
+7.3.4  Applied withstand voltage test: To test withstand voltage ability of the transformer. On-site test value is 80% of 
+the full test voltage value. The full withstand voltage test value could be checked in factory test report and on 
+nameplate.
+  Note:
+• Before start to do the power frequency withstand voltage test, pull the temperature sensor (PT100) out of the temperature
+measuring tubes which were fixed  into the LV winding. After finish ing the test, insert the tem perature sensor back to the temper-
+ature measuring tube with a depth of about 15cm.Test position Test equipment Test value requirements 
+High voltage terminal - 
+low voltage terminal + ground 2500 V Megohmmeter ≥100 MΩ
+Low voltage terminal - 
+High voltage terminal + ground2500 V Megohmmeter ≥100 MΩ
+High voltage terminal + low voltage terminal 
+- ground 2500 V Megohmmeter ≥100 MΩ
+Iron core - ground 2500 V Megohmmeter ≥10 MΩ
+  Note: 
+• After testing the insulation resistance of the iron core-ground, it is necessary to restore the connection of the grounding strap. 7. Commissioning
+218.1 Voltage regulation. If the actual grid voltage deviates from the rated voltage of the transformer, the 
+tapping gear of the transformer can be adjusted appropriately to control the output voltage value. 
+a. For no-load voltage regulation, the transformer gear tap shall be adjusted to the appropriate gear to keep in line 
+with the grid voltage. 
+ For example: The rated voltage on the high-voltage side of the transformer is 10000 ± 2 x 2.5% V, and the rated voltage on 
+the low-voltage side is 400V. The nameplate identiﬁcation gear voltage of the transformer is: 
+Rated voltage 5-6 10500V
+400V4-6 10250V
+4-7 10000V
+3-7 9750V
+3-8 9500V
+ If the grid voltage is 10000V, the three-phase tap shall be adjusted to gear 4-7, as shown in Figure 1. If the input voltage is 
+up to 10250V, adjust the three-phase tap to gear 4-6 so that the output voltage on the low-voltage side reaches 400V, as 
+shown in Figure 2. If the input voltage is as low as 9750V, adjust the three-phase tap to gear 3-7 so that the output voltage 
+on the low-voltage side reaches 400V, as shown in Figure 3. 
+b. For on-load voltage regulation, please refer to the operation manual of on-load tap changer. 
+8.2 When large capacity no-load transformers are put into operation, visible sparks may be generated at 
+the joints of external components (especially at the core and clamps), but this phenomenon will soon 
+disappear. This is due to physical reasons, and will not affect the safe operation of the transformer, so 
+it is not a product defect.
+8.3 There is inrush current when the transformer is switched on, and the peak value can reach 6-8 times of 
+rated current. The setting value of current quick protection for the transformer shall be larger than the 
+peak value of inrush current, and the time limit shall be ≤ 0. 5 s. Therefore, no-load inrush impulse test shall 
+be carried out before operation to check whether the relevant protection of the transformer is malfunction 
+or not. If the protection value is set improperly, it will cause the tripping phenomenon in the later closing. 
+ Remarks: 
+It depends on the needs of users and the standard requirements of different countries and regions to decide whether the no-load 
+inrush impact test is to be carried out at site or not. 
+8.4 For long-term storage (storage time more than 3 months) or overhauled transformers or transformers 
+to be used at ambient temperature below 0 ℃, it is recommended to operate without load for 12 
+hours before putting the transformers into load, and the load shall be gradually increased. 
+Figure 1
+ Figure 2
+ Figure 3
+ Warnings: 
+• The gear of transformer is set at rated gear (4-7) by default when it leaves factory. Make sure that the transformer is powered off 
+before adjusting the gear. 
+• The three-phase tap must be adjusted at the same time. The rear gear bolt must be tightened after adjustment and the torque value 
+must be restored. 8. Operation
+22Overload curve of SIEMENS GEAFOL® CRT (without cooling fans) 8.5 Transformer overload operation shall be in accordance with IEC 905 Load Guidelines for Dry-type 
+Power Transformers, allowing short-term overload. The following table shows the permissible overload 
+time curves at ambient temperatures of 40 ºC, 30 ºC, 20 ºC, 10 ºC. 
+8.6 The three-phase voltage, current and temperature values shall be recorded periodically during the 
+operation of the transformer so that the historical data of the transformer can be consulted in case of 
+overhaul or fault. 
+  Note: 
+Above are the overload curves of the transformer under natural-cooling condition. The design of overload capacity of the transformer is not 
+the same because of the different needs of users. 8. Operation
+23Cast-resin transformers are maintenance-free. Routinely inspect and clean the windings, bolt connections, alarm 
+devices and all fan functions once a year. If the transformer is in dusty environment or close to the pollution source, it is 
+recommended to clean the equipment every six months. It is recommended to fully inspect and clean the transformer 
+every 5 years. Before maintenance, the transformer must be powered off and all terminals must be short-circuited and 
+grounded. 
+9.1 Transformer cleaning 
+Blow off the transformer with dry compressed air or wipe with dry cloth and alcohol (concentrations above 85%) to prevent 
+the formation of creepage paths and blockage of cooling air passages. Select the appropriate cleaning method from Table 1 
+according to the type of contamination. 
+Cleaning method 1 
+Use compressed air to blow the transformer. The compressed 
+air must be oil-free and water-free, and the air pressure ≤ 6 
+bar. Vacuum cleaners can also be used instead of compressed 
+air for dust collection. 
+Cleaning method 2 
+Wipe with a dry rag and alcohol (concentrations above 85%). 
+9.2 Maintenance matters 
+S/N Maintenance items Maintenance cycle 
+(recommended) Use Tools Methods:
+1Clean the surface stains of windings, 
+pads and cores and stains at the heat 
+dissipation holes of the enclosureEach year or more. Every 6 months 
+for dusty and other polluted environ-
+mentDry compressed air, pressure ≤ 3 
+bar, dry rags and alcoholSelect cleaning method according to Form 
+1
+2 Check winding surface conditionEach year or more. Every 6 months 
+for dusty and other polluted environ-
+mentVisual inspectionNo blackening or cracks on the surface 
+of the winding (if any, please contact the 
+manufacturer)
+3Check bolt and nut tightening status 
+at cable connectionsEach year or after repair Torque wrench According to the torque table
+4Check correct tapping connections 
+and bolt tighteningEach year or after repair Torque wrench According to item 8.1 and torque table
+5Check grounding condition of 
+transformer body and enclosureEach year or after repairTorque wrench and visual 
+inspectionAccording to the torque table
+6Check whether temperature 
+controller settings, temperature 
+probe and PT100 are normal.Each year or after repair Heat gun, power supplyThe temperature of the temperature 
+controller can be displayed normally by 
+blowing the temperature probe with a 
+heat gun. The setting of alarm trip value 
+is consistent with Item 7.1. 1. Refer to the 
+operation manual of temperature controller 
+for setting method
+7Check accessories such as 
+electromagnetic lock, travel switch, 
+etc.Each year or after repair Multimeter, power supplyThe function is normal when the 
+electromagnetic lock is energized. When 
+the door panel of the enclosure is closed 
+and opened at normal state, the normally 
+open and closed terminal of travel switch 
+are in the correct state.
+8 Check the cooling fan Each year or after repair Power supplyTurn on the power supply, start the operation 
+according to the manual of the temperature 
+controller, and observe whether it rotates
+9 Insulation resistance testEach year or after repair or every 5 
+yearsInsulation resistance tester Refer to Item 7.3.3 for test values
+10 Transformation ratio test Every 5 years or after repair Transformation ratio tester Refer to Item 7.3 for test
+11 DC resistance test Every 5 years or after repair DC resistance tester Refer to Item 7.3 for test
+12Power frequency withstand voltage 
+testEvery 5 years or after repairPower frequency withstand 
+voltage testerRefer to Item 7.3 for testSediment Cleaning method 
+Oily 2
+Carbonaceous 1+2
+Metal-containing 1+2
+Saline 1+2
+Dry dust 1+2
+Wet dust 29. Maintenance
+249.3 Frequently asked questions guidelines (chart)
+S/N Question Possible cause Corrective measure 
+1Temperature controller 
+does not displayTemperature controller power cord is not connected Measure whether the temperature controller power 
+interface is energized and required to reconnect the 
+power supply (85 ~ 250 V) 
+It is internal failure of temperature controller, power interface of 
+temperature controller is energized, but panel indicator lamp is not onContact Siemens After Sales Service Center to replace 
+with a new temperature controller 
+2Temperature 
+controller three phase 
+temperature display 
+FOC or FCC Wrong or poor connection or loose connection of temperature sensor Check and press the temperature sensor wiring and 
+tighten it according to the auxiliary wire diagram on 
+the transformer certiﬁcate of conformity 
+Temperature sensor probe is damaged Contact Siemens After Sales Service Center to replace 
+the temperature sensor 
+Three-phase 
+temperature display of 
+temperature controller 
+differs greatly Temperature sensor probe is not fully inserted into thermometer tube 
+(three-phase probe is inserted at different depths) Check the position of the temperature probe and 
+place it correctly 
+ Cooling fan is damaged Contact Siemens After Sales Service Center to replace 
+with a new cooling fan 
+Temperature sensor probe is damaged Contact Siemens After Sales Service Center to replace 
+with a new temperature sensor 
+Three-phase load  of transformer is not balanced Check three-phase load and voltage, current 
+3The temperature 
+controller cannot 
+communicate properly 
+with the monitoring 
+device Wrong address setting for temperature controller Please refer to the use manual for the temperature 
+controller 
+The communication cable of the temperature controller and the strong 
+electric cable are arranged together, which causes the interference of the 
+communication signal Properly lay out the cables 
+4 Noise is abnormal Primary side voltage exceeds tapping rated voltage Disconnect the power of transformer and adjust tap 
+gear, refer to Item 8.1 
+The bus bar is not ﬁxed well and there is resonance. The transformer is not 
+well ﬁxed with the ground, and the resonance enclosure  plate is not ﬁxed 
+tightly, and there is resonance Bus bar, enclosure board and transformer base are 
+well ﬁxed 
+There are unclamped free ends in the iron core or clamping parts, and 
+there are high frequency vibrations during the excitation of the iron core, 
+resulting in abnormal noise Check the fastening core and clamping piece and 
+press the free end tight with insulating material
+Within the same power distribution room, multiple devices are placed 
+close together, causing wall reﬂections and noise overlappingReasonably lay out equipment position in power 
+distribution room 
+In the transformer load, equipment such as frequency converter produces 
+large harmonics in the system, which makes the core excitation uneven 
+and causes noise Filter device is designed in low voltage system 
+Transformer is under overload operation state Check the load and distribute the load reasonably 
+5Cooling fan is not 
+running Temperature does not reach fan start temperature value Refer to Item 7.1. 1 for factory temperature setting 
+value and setting method 
+Cooling fan is damaged Contact Siemens After Sales Service Center to replace 
+with a new cooling fan 
+6Low side output 
+voltage is high or low Grid input voltage is high or low Adjust the tap gear of transformer, refer to Item 8.1 
+7Transformer over-
+temperature alarm, trip Transformer overload (overvoltage, over current) operation Check transformer load 
+Cooling of transformer fails Check whether the cooling fan is working properly 
+and check whether the cooling air duct is blocked 
+8Winding surface 
+discharge Severe stains (dust, etc.) on the surface of the winding Clean stains on windings, pads, etc.
+Short circuit on high and low voltage lines Check high-voltage lines 
+High and low voltage transmission lines suffer from  overvoltage impulse Optimize system protection functions 
+There is insufﬁcient distance between metal structure and winding Refer to 6.6 minimum insulation clearance 
+requirements 
+9Winding ablation and 
+blackening Upon the service life of the transformer and natural damage; poor heat 
+dissipation; long-term overload; short circuit of external wiring; system 
+overload; wrong cable connection; metal foreign body falling into the 
+cooling air duct of the winding; unscrewed torque of tap gear bolt; short 
+circuit fault inside the winding, etc.On-site inspection is required. Please contact Siemens 
+after-sales service center for such inspection.9. Maintenance
+25Exploded diagram of cast resin transformer
+1246
+891011
+7
+5
+31 Wheels 
+2 Foundation
+3 Lower clamp
+4 High-voltage connecting rod
+5 Insulating cylinder
+6 Upper iron yoke
+7 Neutral bar
+8 Low-voltage winding
+9 High-voltage winding
+10 Upper clamp
+11 Fixed screwDisassembling diagram of cast resin transformer body
+Remarks: 
+The picture is a standard legend and does not cover all types of transformers. 10. Appendix 
+26Disassembling diagram of cast resin transformer enclosure
+Remarks: 
+This image is a standard legend and does not cover all types of enclosures. 10. Appendix 
+Lifting assembly
+Low voltage outlet cover
+Top cover(LV side)assembly
+Seal panel (left) assembly
+Seal panel (LV side) 
+assembly
+Door panel assemblyBottom seal panel 
+assemblySeal panel (right) 
+assemblyDoor panel assemblySeal panel (HV side) assemblyTop cover(HV side)assembly
+foundation assembly
+27Dear customer, 
+Thank you for purchasing our products. Please carefully read the manual and warranty instructions after receiving the 
+products in order to better serve you.
+I. Warranty Commitments 
+1. The warranty period of this product is 12 months from the date of commissioning and acceptance or 18 months from 
+the date of delivery, whichever comes ﬁrst. The speciﬁc warranty period shall be subject to the sales contract signed by 
+both parties. 
+2. During the warranty period, under the operation conditions as stipulated in the contract, the faults caused by the quality 
+problems of the products shall be repaired free of charge. The warranty period for the products repaired by Siemens 
+shall follow the provisions of original contract. 
+3. For the products repaired for a fee, one-year warranty services shall be provided for the repaired part, and the warranty 
+period shall be started from the date of shipment. 
+II. The following circumstances are not covered under the warranty policies 
+1. Warranty period expiry. 
+2. Damage caused by failure to use in accordance with the provisions of the contract and the requirements of the manual, 
+dismantling or modifying the settings without the consent of Siemens. 
+3. Damage caused by sprinkling, collision, deformation, etc. during self-transportation, transfer and installation after 
+purchase. 
+4. Failure caused by human factors (e.g. loss of components, etc.) during installation and storage. 
+5. Damage caused by improper manual operation or circuit system factors during commissioning and operation. 
+6. Damage caused by force majeure such as lightning strike, ﬂood/ﬁre, earthquake and other natural disaster. Notes: Our 
+company can provide paid maintenance services for products not covered under the warranty policy. 
+III. Maintenance Mode 
+• When you ﬁnd the fault, please call after-sales service center of Siemens Transformer (Guangzhou) Co., Ltd. and provide 
+complete fault information to help us conﬁrm the fault status and cause. 
+• If repair is needed, we will assess the severity of the failure and arrange engineers to go to the site for repair or you may 
+send the products to our factory for repair. 
+• When our technical personnel arrive at the site or the products are returned to the factory, we have the right to claim 
+the relevant fees (including travel fees, materials cost and other fees) after the removal of the faults not caused by the 
+quality issue of the products. 
+IV. Others 
+The aforesaid service commitment applies to the products sold by our company. In case the after-sales service terms are 
+separately agreed upon when the products are sold, the contract conﬁrmed by our company shall prevail. The right to 
+interpret and amend this warranty certiﬁcate shall be vested in Siemens Transformer (Guangzhou) Co., Ltd. 
+Siemens Transformer (Guangzhou) Co., Ltd. 
+DT After Service Hotline: +86 20 62663366 
+Address: No.26, Yongsheng Road, Huangpu District, Guangzhou, China.
+Postal code: 51135611. Warranty Instructions
+28Dear customer, 
+Thank you for using our products. Please ﬁll in the following form after installation to help us complete the customer 
+satisfaction survey, so that we can continuously improve our work and better serve our customers. Please mark " √" in the 
+corresponding column according to your impression of the product. Thank you for your cooperation, and sincerely hope that 
+you will give us valuable comments or suggestions on all aspects of our work. 
+How do you rate our performance in the following areas? (If you do not address any of the following questions, you 
+may not answer them.) 
+Very satisﬁed Satisﬁed General Not quite satisﬁed Not satisﬁed 
+Product integrity on arrival □ □ □ □ □
+Handling of problems (quality problem 
+solving/response to complaints) □ □ □ □ □
+Appearance quality of product body □ □ □ □ □
+Appearance quality of product enclosure □ □ □ □ □
+Service initiative □ □ □ □ □
+On-site safety consciousness of service 
+personnel □ □ □ □ □
+Communication skills of service personnel □ □ □ □ □
+Professional level of service personnel □ □ □ □ □
+Your rating on overall performance of our products and services: 
+10 points 9 points 8 points 7 points 6 points 5 points 4 points 3 points 2 points 1 points
+□ □ □ □ □ □ □ □ □ □
+Will you recommend our products to other customers? 
+□ Yes □ Possibly Yes □ No 
+We sincerely hope and thank you for that you could give us your comments or suggestions on our company:
+Customer Signature/Date:
+Please ﬁll in this page and send it to us by means of scanning or photographing via Email: 
+DTService.STGZ.cn@siemens-energy.com12. Customer Satisfaction Questionnaire
+29
+30If you have any questions about the distribution transformer, 
+please contact us. 
+Siemens Transformer (Guangzhou) Co., Ltd. 
+Contact information of the after-sale service: 
+E-mail: DTService.STGZ.cn@siemens-energy.com 
+Tel.: +86 20 62663366
+2021.12 V8Siemens Energy is a trademark licensed by Siemens AG.
+Disclaimer
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract. Welcome to 
+scan QR cord 
+to know more 
+about Siemens 
+Energy dry type 
+transformer

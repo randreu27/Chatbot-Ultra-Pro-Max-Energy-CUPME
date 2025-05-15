@@ -1,0 +1,1255 @@
+ 
+Unrestricted  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON  
+Installation,  Operations  and 
+Maintenance Manual  
+IOM-007 Rev 4  
+ 
+ 
+ 
+ 
+ 
+DigiTRON  EDU Assemblies  
+Protection,  Storage,  Shipment,  Unpacking,  Deployment  and 
+Maintenance  Instructions  
+Siemens -energy.com  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  2 of 36 
+ 
+Unrestricted   
+   
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON EDU Assemblies  
+Protection,  Storage,  Shipment,  Unpacking,  Deployment  and 
+Maintenance  Instructions  
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  3 of 36 
+ 
+Unrestricted   
+ 
+ 
+Foreword  
+Thank you for purchasing a Siemens Energy Subsea product. The information contained in this 
+document is an overview including the protection, storage, shipment, unpacking, deployment and 
+maintenance Electrical Distribution Units. 
+ 
+IMPORTANT  
+READ CAREFULLY BEFORE USE  
+KEEP FOR FUTURE REFERENCE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Revision Summary  
+This page records the revision status of the entire document and its authorisation for issue.  
+ 
+Copyright © 2022 Siemens Energy Subsea Connectors, (a division of Siemens  Energy  plc), 
+Subsea Excellence Centre, Ulverston, Cumbria, LA12 9EE, England.  
+Rev Compiled 
+by Date  Approved 
+by Issue Date  Page (s) Affected /Remarks  
+      
+      
+      
+      
+4 J. Bostock  
+26/09/2022  R Wyatt  
+26/09/2022  Updated to include references to the latest ROV 
+EDU design. All ‘Junction Box’ references 
+replaced by ‘EDU’. Cover Sheet and End Sheet 
+updated to the latest format.  
+3 R Wyatt  16/11/2020  Eric Chaize  16/11/2020  Updated onto new IOM template with product 
+safety advice clearly identified. Replaced 
+information regarding associated EFLs with 
+reference to IOM -001.  
+2 P. Westwell     Updated for use with similar EDUs.  
+1     First issue  
+ 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  4 of 36 
+ 
+Unrestricted   
+ 
+Contents  
+ 
+1 PRODUCTS COVERED BY THIS MANUAL  ................................ ................................ .........  6 
+2 BASIC INFORMATION & QUICK REFERENCE  ................................ ................................ ... 7 
+2.1 Product overview  ................................ ................................ ................................ ........  7 
+2.2 Product specification and certification  ................................ ................................ ..... 8 
+2.3 Contact details and feedback  ................................ ................................ ....................  9 
+2.4 Product advice label  ................................ ................................ ................................ . 10 
+2.5 Product marking  ................................ ................................ ................................ ....... 11 
+2.6 CE label/m arking  ................................ ................................ ................................ ....... 11 
+2.7 Product examples  ................................ ................................ ................................ ..... 12 
+3 PRODUCT SAFETY  ................................ ................................ ................................ ............  13 
+3.1 Action -related warnings  ................................ ................................ ...........................  13 
+3.2 Intended use  ................................ ................................ ................................ .............  13 
+3.3 General safety information ................................ ................................ .......................  14 
+3.4 Related documents  ................................ ................................ ................................ ... 17 
+3.5 Control of substances hazardous to health (COSHH)  ................................ ............  17 
+4 ABBREVIATIONS  ................................ ................................ ................................ ...............  18 
+5 SPECIFICATIONS  ................................ ................................ ................................ ...............  19 
+5.1 Connector Specification – Diver Mate type  ................................ .............................  19 
+6 PREPARING PRODUCT FOR USE OR STORAGE  ................................ ............................  20 
+6.1 Product protection and packaging  ................................ ................................ ..........  20 
+6.2 Lifting  ................................ ................................ ................................ ........................  20 
+6.3 Unpacking  ................................ ................................ ................................ .................  20 
+6.4 Storage, protection and end of life  ................................ ................................ ..........  20 
+7 INSTALLATION AND ASSEMBLY  ................................ ................................ .....................  23 
+7.1 Cathodic protection  ................................ ................................ ................................ .. 23 
+7.2 EDU installation  ................................ ................................ ................................ ........  23 
+7.3 Installation of Junction B and mounting brackets  ................................ .................  25 
+7.4 Installation of EFLs onto the EDU  ................................ ................................ ...........  28 
+8 USER INFORMATION DURING NORMAL OPERATION AND FAULT CONDITIONS  ....... 29 
+8.1 Visible/audible signals  ................................ ................................ .............................  29 
+8.2 Normal and faulty/dangerous operation  ................................ ................................ . 29 
+8.3 Troubleshooting  ................................ ................................ ................................ ....... 29 
+9 PRODUCT OPERATION AND MAINTENANCE  ................................ ................................ . 30 
+9.1 Safety precautions  ................................ ................................ ................................ .... 30 
+9.2 Product maintenance and servicing  ................................ ................................ ........  30 
+9.3 Subsea protection of receptacle contact pins  ................................ ........................  30 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  5 of 36 
+ 
+Unrestricted   
+9.4 Product protection; caps and dummy connectors  ................................ .................  30 
+9.5 Live Mate / De -mate  ................................ ................................ ................................ .. 33 
+9.6 Removal of marine growth and calcareous deposits  ................................ .............  34 
+10 CUSTOMER COMMENTS/FEEDBACK  ................................ ................................ ..............  35 
+ 
+Tables  
+Table 1  List of other Installation, Operation and Maintenance manuals related to 
+DigiTRON+ product range  ................................ ................................ ............  6 
+Table 2  DigiTRON+ EDU product specification and certification  ............................  8 
+Table 3  DigiTRON product contact details  ................................ ...............................  9 
+Table 4  DigiTRON Diver M ate and ROV connector specification  ..........................  19 
+Table 5  Troubleshooting product contact details  ................................ ..................  29 
+ 
+Illustrations  
+Figure 1  Product advice label  ................................ ................................ ...................  10 
+Figure 2  Product marking on DigiTRON+ product  ................................ ..................  11 
+Figure 2  EDU Examples featuring Di ver Mateable & ROV Connectors  ..................  12 
+Figure 3  Example of a different EDU configuration  ................................ .................  12 
+Figure 4  ROV EDU – 3 off M10 Tapped Holes (Earthing Points & Mounting Frame 
+attachment points).  ................................ ................................ .....................  23 
+Figure 5  Test connectors for ROV (left) & Diver type (Right) connectors ..............  24 
+Figure 6  Highlighting length of earth straps for CP connection  to structure  ........  25 
+Figure 7  Earth straps secured under bracket mounting screws  ............................  26 
+Figure 8  Mounting bracket assembly  ................................ ................................ ....... 26 
+Figure 9  ISO view of EDU indicating mounting screw positions  ............................  27 
+Figure 10  Earth straps to be secured to mating structure  ................................ ........  27 
+Figure 11  EDU installed on structure  ................................ ................................ .........  28 
+Figure 12  Typical Transport Caps (left) and Topside protective caps  .....................  31 
+Figure 14  Diver & ROV operated Subsea Caps  ................................ ..........................  32 
+Figure 15  Diver & ROV operated Subsea Environmental Caps and Dummy 
+Connectors, flying and flanged types.  ................................ .......................  32 
+ 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  6 of 36 
+ 
+Unrestricted   
+1  PRODUCTS  COVERED BY THIS MANUAL  
+This document is an overview of the protection, storage, shipment, unpacking, deployment, and 
+maintenance instructions for  Electrical Distribution Units ( EDU ’s). 
+ 
+Products covered by this IOM can be readily identified visually, all looking very similar to the 
+example s given section 2.7. 
+ 
+Part numbers for these EDU  products all begin with:  
+ 
+TC3A -xxx  -  where xxx are part numbers  for specific variants of EDU , differences mainly being 
+quantity  of connectors, and connector types . 
+ 
+ 
+Installation, Operation and Maintenance manuals for other DigiTRON + products not covered by this 
+document can be found on Siemens Subsea website  www.siemens -energy.com  /search Subsea, as 
+follows:  
+ 
+DOC. No. PRODUCT  
+IOM-001 DigiTRON + electrical flying leads, Jumper and Sensor Harnesses  
+IOM-002 DigiTRON + single connectors  
+IOM-003 Obsoleted, replaced by IOM -002. 
+IOM-004 Not used  
+IOM-005 Retrievable Electrical Distribution unit (REDU), 2nd generation  
+IOM-006 Retrievable Electrical Distribution unit (REDU), 1st generation  
+IOM-008 DigiTRON f fiber optic  flying leads  and harness assemblies  
+IOM-009 DigiTRON f fiber optic single connectors  
+00003075  Subsea PT/TT sensors  
+00007464  Differential pressure sensors SDP -6 / SDP -8 
+Table 1  List of other Installation, Operation and Maintenance manuals related to DigiTRON + 
+product range  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  7 of 36 
+ 
+Unrestricted   
+2 BASIC INFORMATION  & QUICK REFERENCE  
+2.1 Product overview  
+DigiTRON + EDU ’s intended use  is communication and distribution of low voltage between pieces of 
+electrical equipment that are submerged in water, e.g. subsea.  
+The product utilizes t he DigiTRON + range of connectors . The DigiTRON + connectors  have been 
+developed for long term reliable commu nications and low voltage power control system applications 
+associated with offshore installations. The underwater mating  capacity of these connectors is 
+achieved using pressure compensated electrical inserts employing the CE principle.   
+Examples of Electrical Distribution Units  are shown in section 2.7.  
+ 
+  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  8 of 36 
+ 
+Unrestricted   
+2.2 Product specification and certification  
+Basic specification s relating to all products  covered by this man ual are below in Table 2 . Additional 
+specifications can be found in  section 5. 
+Design Life:  30 years  in subsea environment  
+Rated voltage  1,000V ac pin-ground,  2,000V ac pin-pin 
+Rated current  In water:  4-way 35 -40A  7-way 22 -32A  12-way 20 -28A 
+In air:   4-way 18A    7-way 14A    12-way 11A  
+Over -current  100A for 5 seconds, no more than 2 per hour  
+Rated number of 
+operations  1000 (750dry/250wet) mate / de -mate cycles (Power off)  
+Water depth  3,000 m  (9,843 ft)  
+Deployment and 
+retrieval rate  Max. 350m/min  (1,150ft/min)  
+Storage temperature  -40°C +70°C  (-40°F +158°F) (upper limit is surface temperature of the 
+product and includes solar gain from bright sunlight)   
+Operational temp  Subsea: -5°C  +60°C (+23°F  +140°F)  
+In air: -20°C  +50°C ( -4°F  +122°F)  
+Weight  Refer to product drawing for weights of specific units . 
+Product Certification:  
+Standard  Description  
+EU Directive 
+2001/95/EC  General Product Safety  
+EU Directive 
+2014/35/EU  Low Voltage Directive  
+IEC 61984  Connectors - Safety requirements and tests  
+API-17F  Standard for Subsea Production Control Systems  
+Note: Self-certified via in -house testing.  
+Table 2  DigiTRO N+ EDU product specification  and certification  
+ 
+ 
+  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  9 of 36 
+ 
+Unrestricted   
+2.3 Contact details and feedback  
+For additional information or questions regarding the products visit the Siemens website 
+www.siemens -energy.com  /search Subsea, or cont act the following:  
+Department  E-mail address  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Technical Support  connectortechnicalsupport.gb@siemens -energy.com  
+Service (Site Team)  susultlcmsupport.gb@siemens -energy.com  
+Sales  connectorsales.gb@siemens -energy.com  
+Table 3  DigiTRON product contact details  
+Any information, records, or Health and Safety feedback that needs to be detailed can be recorded 
+in section 10 of this document and sent to the relevant department in Table 3 . 
+ 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  10 of 36 
+ 
+Unrestricted   
+2.4 Product advice label  
+The following product advice label is supplied with all Siemens Energy subsea products.  
+ 
+ 
+Figure 1  Product advice label  
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  11 of 36 
+ 
+Unrestricted   
+2.5 Product marking  
+Siemens Energy EDU  products are marked with the Siemens Energy part number and unique serial 
+number. Also, the voltage, temperature and water depth ratings are indicated.  
+Typically,  these are etched on a yellow -coloured label permanently attached to the product , refer to  
+0. 
+Also, similar information relating to each connector is etched onto the connector metal body, r efer 
+to Figure 2 . 
+ 
+ 
+Figure 2  Product marking on DigiTRON + product  
+ 
+2.6 CE label/m arking  
+The CE label/marking where applicable shows that the products comply with the requirements of the 
+applicable directives as follows:  
+• 2014/35/EU – Low Voltage Directive  
+Declaration of Conformity will be  supplied with the goods.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  12 of 36 
+ 
+Unrestricted   
+2.7 Product examples  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3  EDU Examples featuring Diver Mateable & ROV Connectors  
+ 
+ 
+ 
+ 
+Figure 4  Example of a different EDU  configuration  
+Product identification label  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  13 of 36 
+ 
+Unrestricted   
+3 PRODUCT SAFETY  
+Siemens Energy Subsea recommends that the termination of all equipment shall only be undertaken 
+by trained, suitably qualified and experienced personnel (SQEP) i.e. competent person.  
+ 
+Following installation, commissioning or deployment of product, if you have any feedback please 
+complete and return the Customer Comments/Feedback form (Section 10). Please e -mail completed 
+form to the Product Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+3.1 Action -related warnings  
+Classification of action -related warnings  
+The action related warnings are classified in accordance with the severity of the possible danger 
+using the following warning signs and signal words:  
+Warning symbols and signal words  
+ Danger!  
+Imminent danger to life or risk of severe personal injury  
+ Danger!  
+Risk of death from electric shock  
+ Warning.  
+Risk of minor personal injury  
+ Caution.  
+Risk of material or environmental damage  
+ 
+3.2 Intended use  
+The product is intended as a Low Voltage electrical connection system for subsea use . 
+There is a risk of injury or death to the user or others, or of damage to the pr oduct and other property 
+in the event of improper use or use for which it is not intended.  
+Intended use includes the following:  
+- observance of the installation and operating instructions included for the product and any other 
+system components . 
+- compliance with all inspection and maintenance conditions listed in the instructions . 
+- use of all recommended tooling appropriate for specific tasks.  
+- all activities to be undertaken by a competent person  (see 3.3.1  for definition) .  
+Any other use that is not specified in this document or covered in installation and operating 
+instructions, or beyond that specified in this document shall be considered improper use.   
+ Caution.  Risk of material or environmental damage, improper use of any kind is prohibited.  
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  14 of 36 
+ 
+Unrestricted   
+3.3 General safety information  
+ Installation by competent persons only  
+The installation, inspection, maintenance, and repair of the product shall be undertaken by trai ned, 
+suitably qualified and experienced personnel (SQEP) i.e. competent person, to carry out a specified 
+activity. Installation, inspection, maintenance, and repair of products by untrained and deemed non -
+competent persons could invalidate the product warr anty. For further information contact Siemens 
+Energy Lifecycle Management at susultlcmsupport.gb@siemens -energy.com  (Site Team) .  
+ Personal protective equipment (PPE)  
+Personal Protective Equipmen t (PPE) is legally defined as ‘all equipment (including clothing affording 
+protection against the weather) which is intended to be worn or held by a person at work and which 
+protects the user against one or more risks to their health or safety’.  
+In the hie rarchy of risk control, PPE is considered to rank lowest and represent the option of last 
+resort. PPE is only appropriate where the hazard in question cannot be totally removed or controlled 
+in such a way that harm is unlikely (for example by isolating the  hazard or reducing the risk at source 
+to an acceptable level).  
+All company personnel and operators should wear appropriate Personal Protective Equipment (PPE) 
+defined as a result of relevant risk assessments in accordance with the Personal Protective 
+Equipment (PPE) Regulations.  
+Wear appropriate PPE according to the product safety advice given in this document  
+ Danger caused by improper operation and foreseeable misuse  
+Improper operation and foreseeable misuse may present a danger to you and others and cause 
+material damage. Carefully read the enclosed instructions and all other applicable documents, 
+particularly the “Safety” section and the warnings.  
+ Danger!  Risk of death from electric shock if shuttle pins (on the plug connector) are 
+depressed e.g. w ith a screwdriver when plug is live (foreseeable misuse).  
+- Testing activities must only be carried out by a competent person.  
+- Correct test connector shall always be fitted for electrical testing.  
+ Danger! Risk of imminent danger to life, risk of severe p ersonal injury caused by a shuttle 
+pin projectile due to damage caused to shuttle pins e.g. with a screwdriver (foreseeable 
+misuse).   
+- Maintenance and testing activities must only be carried out by a competent person.  
+- Correct tools must always be used.  
+ 
+ Risk of death due to electrocutio n 
+ Danger!  Risk of death from electric shock due to exposed live pins, e.g. factory or top -side 
+system test and unmated receptacle is energised .  
+- Never energise a receptacle connector when not mated to a plug.  
+- Ensure all test procedures are followed.  
+- Communication channels and protocols are observed.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  15 of 36 
+ 
+Unrestricted   
+ Danger!  Risk of death from electric shock due to unscreened cables.  
+- Do not touch electrical wires while energised.  Ensure all test procedures are followed.  
+ Danger!  Risk of death from electric shock from any exposed conductors due to stored 
+electrical energy, e.g. capacitance of cable or elsewhere in the system.  
+- Ground all electrical conductors after testing and d o not touch conductors until 
+electrical system is full y discharged . Ensure all procedures are followed.  
+ Danger! Risk of death from electric shock , if product is terminated incorrectly e.g. loose 
+conductor touching metal body or  terminated to metal body in error.  
+- Installation/termination activities must be carried out by a competent person . 
+- Always electrically ground metal bodies prior to electrically energising  a connector . 
+- Never hold the product when live. 
+ Danger! Risk of death from electric shock or severe pe rsonal injury through burning from 
+de-mating live conductors by hand.  
+- Do not de-mate the product while live  
+- Never  hold the product while live  
+- Ensure all procedures are followed for mating/de -mating connectors.  
+ 
+ Risk of injury and material damage due to testing, maintenance and 
+repairs carried out incorrectly or not at all  
+The products  are non -serviceable by the user.  In case of suspected faults with the product  (refer to 
+section  8.2), do not use the product and contact Siemens Technical Support or Siemens Product 
+Safety for advice.  Never attempt to carry out maintenance work or repairs on the product yourself.  
+ Danger!  Risk of death from electric shock if user dismantles / incorrectly re -assembles / 
+incorrectly terminates product (foreseeable misuse).  
+- There are no parts of the product that require maintenance or inspection.  The product 
+should not be disassembled . 
+- Termination of electrical wires to the product must only be carried out by a competent 
+person.  
+ Danger!  Risk of death from electric shock from improper use of test connector 
+(foreseeable misuse).  In particular, removal of the rubber termination sleeves  placed over 
+the joint between the cable and the test connector is prohibited, as this will expose live 
+parts to the user.  
+- Never disassemble a test connector  
+ Warning . Risk of minor personal injury from high temperature of the product due to ohmic 
+heatin g in short -circuit condition or high over -currents.  
+- In the event of a high over -current, allow the connectors to cool before touching.  
+- Ensure all testing of products both factory and deployed in -field have been completed 
+by competent persons.  
+ Danger! Risk of severe personal eye injury due to pressurised oil squirting out of damaged 
+hose or removal of fill/vent screw.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  16 of 36 
+ 
+Unrestricted   
+- Ensure all testing of products both factory and deployed in -field have been completed 
+by competent persons.  
+ Warning. Risk of eye/bodily injury caused by released pressure during product 
+disassembly, in the event of retrieval from subsea with a fault that causes depth pressure 
+to be trapped inside the product.  
+- Ensure all product disassembly activities are completed by competent persons in 
+accordance with relevant procedures and using relevant personal protective 
+equipment (PPE).  
+ Warning. Risk of bodily injury caused by pressure retaining parts becoming projectile due 
+to user over -pressurising the system, e.g. during Site Installation Test (SIT).  
+- Ensure all product SIT activities are completed by competent persons in accordance 
+with releva nt procedures.  
+ Risk of injury and material damage due to manual handling  
+Manual handling, lifting and carrying are known to be one of the largest contributors to occupational 
+ill-health. Ensure mechanical handling aids are used wherever possible to avoid manual handling. 
+Where manual handling is considered appropriate for the task, safe lifting guidelines must be 
+followed, e.g. adopt correct posture, consider team lifting, employ safe lifting technique, etc. Only 
+competent persons are permitted to perform tasks without supervision, if in doubt ask.  
+ Warning. Risk of musculoskeletal injury from mating  or de -mating  connectors  by hand .  
+- Referring to the mate / de -mate forces specified herein, ensure suitable manual 
+handling precautions are taken.  
+- Ensure all p roduct testing activities are completed by competent persons in 
+accordance with relevant procedures.  
+ Warning. Risk of musculoskeletal injury from manual handling of heavy products . Refer to 
+shipping information or product datasheet  for weights of the product.  
+- Ensure mechanical handling aids are used wherever possible to avoid manual 
+handling.  
+- Where manual handling is considered appropriate for the task, safe lifting guidelines 
+must be followed, e.g. adopt correct posture, consider t eam lifting, employ safe lifting 
+technique, etc.  
+- Only competent persons are permitted to perform tasks without supervision, if in doubt 
+ask. 
+ Warning.  Risk of bodily injury from heavy product falling during lift with machinery.  
+- Local regulations for mec hanically -aided lifting operations and lifting equipment must 
+be adhered to, e.g. ‘LOLER’ in the UK.  
+ Warning. Risk of minor personal injury to persons with sensitivities to silicone or mineral 
+based oils.  
+- There is a small risk that oil could leak from the product if faulty. Wear appropriate hand 
+protection when handling products or mineral or synthetic based oils  in case oils leak 
+from the connector due to a fault.  
+ Warning. Risk of minor personal injury and material damage due to slips, trips and falls.  
+- Good housekeeping avoids slips, trips and falls, keep all work areas clean and tidy.  
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  17 of 36 
+ 
+Unrestricted   
+3.4 Related documents  
+Installers shall carry  out a full site risk assessment and put into place all necessary steps and 
+procedures to comply with applicable area, regional, national or international health and safety 
+legislation, e.g. The Health and Safety at Work Act (HASAWA) in the United Kingdom (UK) and 
+ensure safety of themselves and others regarding manual handling and working at height 
+requirements.  
+During the product installation (and any subsequent work) it will be necessary to employ caution. All 
+installers and operatives  involved from unloading the product until it is deployed in its final installed 
+location must exercise a full duty of care for themselves and others regarding safety. When lifting 
+and handling this product, operatives should employ assistance if required.  In certain situations, it 
+may be necessary to use mechanical handling aids. Take care to avoid trip hazards, slippery or wet 
+surfaces.  
+Employers and installers should refer to the Health and Safety Executive (HSE) web site in the UK 
+for full advice and ma nual handling assessment charts (MAC) tool.  
+In addition, where no specific instructions are given then reference shall be made, but not restricted 
+to, where applicable, British Standards and codes of practice such as the following:  
+- The Health and Safety at  Work Act.  
+- COSHH Control of substances hazardous to health.  
+- BS 7671 Requirements for electrical installations. IEE Wiring Regulations.  
+- The Electricity at Work Regulations.  
+It is the operator’s and installers responsibility to comply with current Company, area, regional, 
+national or international health and safety legislation.  
+ 
+3.5 Control of substances hazardous to health (COSHH)  
+Hazardous substances, Control of substances hazardous to health (COSHH) Assessments regards 
+to materials such as elastomers and oils, etc. used in DigiTRON products are available on request 
+from the Product Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com . 
+ 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  18 of 36 
+ 
+Unrestricted   
+4 ABBREVIATIONS  
+°C Degree Celsius  
+A Ampere  
+ac Alternating Current  
+API American Petroleum Institute  
+CE Community European  
+COSHH  Control of substances hazardo us to health  
+CP Cathodic Protection  
+dc Direct Current  
+DWG  Drawing  
+EDU  Electrical Distribution Unit  
+EFL Electrical Flying Leads  
+EMF  Electrical Magnetic Field  
+M Metres  
+Max.  Maximum  
+Min. Minimum  
+No. Number  
+PPE Personal Protective Equipment  
+REDU  Retrievable El ectrical Distribution Unit  
+ROV  Remotely Operated Vehicle  
+SIT Site Installation Test  
+UNS  Unified Numbering System for Metals and Alloys  
+V Volt 
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  19 of 36 
+ 
+Unrestricted   
+5 SPECIFICATION S 
+The following is a basic specification for DigiTRON diver -operated  and ROV -operated  connectors  
+utilized in the products . Actual product may vary. Please refer to product specific data sheet(s), 
+website  www.siemens -energy.com   /search Subsea, or contact S iemens Energy Technical Support  
+at connectortechnicalsupport.gb @siemens -energy.com  for more detailed information.  
+ 
+General specification of the product is listed in section 2.2, with the following additional  specification 
+for Diver Mate  & ROV  connectors : 
+5.1 Connector Specification  – Diver Mate and ROV type  
+Diver Mate  
+Mate force  N/A:  Integral clamp ring , max torque 20Nm  (11lbf.ft) 
+Max misalignments  N/A:  diver alignment by hand  
+Maximum mat e and 
+de-mate  speeds  1 m/s  
+ROV  Mate  
+Mate force  <30Kgf / 24 -36Kgf (4 & 7 -Way)  
+<50Kgf / 48 -80 Kgf (12 -Way)  
+Max misalignments  Radial: ±20mm  
+Angular: ±20° 
+Rotational: ±15° 
+Maximum mat e and 
+de-mate  speeds  1 m/s  
+ 
+Limit of exposure of male pins to seawater  28 days cumulative over lifetime  
+Table 4  DigiTRON Diver Mate  and ROV  connector specification  
+ 
+ Caution.  Risk of material damage.  Maximum cumulative exposure of the male pins to 
+seawater is 28 days to prevent corrosion of the pins.  If the connectors are to be left 
+unmated, in seawater, for any length of time Subsea Environment Cap or Dummy Plug 
+must be fitted to protect the pin contacts in the receptacle connectors. Over exposure will 
+increase the risk of corrosion damage or marine g rowth on the contact surfaces of the 
+receptacle contact pins. This could lead to damage to the seals and insulation within the 
+plug socket contacts. Plug connectors do not require full dummy connectors for 
+protection. Siemens Subsea advise the fitting of a cetal caps to protect plugs against 
+marine growth. It is good practice to always fit the protective cap when a connector is 
+unmated topside prior to deployment to provide mechanical protection.  
+ Caution.  Risk of material damage. Unmated receptacles (exposed male pins) should 
+never be electrically energised subsea (even a small residual voltage e.g. 1 Volt).  This 
+can very quickly corrode the pins, cause detrimental chemical reactions locally in the 
+seawat er, and even cause complete electrical failure of the product.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  20 of 36 
+ 
+Unrestricted   
+6 PREPARING PRODUCT FOR USE  OR STORAGE  
+6.1 Product protection and packaging  
+The EDU  will be supplied with a dedicated transit box.  
+ Caution.  Risk of material damage. The EDU  must be secured in a dedicated transit box 
+and always remain in a horizontal position to prevent risk of damage to the diaphragms.   
+ 
+The EDU’s  are designed to withstand vibration that occurs during transportation . 
+The EDU  body is manufactured from subsea resistant plastic, with 316L stainless steel connectors  
+or in the case of the ROV EDU the body is manufactured from 316L stainless steel, with Super 
+Duplex ROV connectors  and as such is designed to withstand harsh environm ents. However, the 
+connector inserts and exposed parts are susceptible to mechanical damage if not adequately 
+protected. Transport  caps are fitted to all DigiTRON + connectors before transport, but topside 
+protective caps will be fitted if specified by the customer.  Care should be taken to protect the 
+connectors with bubble wrap or similar wrapping materials to avoid surface damage during transit  
+ Caution.  Risk of material damage. Transport caps or protecti on caps must always be fitted 
+to an unmated connect or during transport , and  should  remain in place while topside before 
+deployment   
+ 
+For information related to transportation of DigiTRON + connectors and EFL’s associated with the 
+EDU , please refer to Siemens documents IOM-001 and IOM -002, available on Siemens Energy 
+website.  
+6.2 Lifting  
+The EDU  is too heavy for a one -person lift .  Consider using a crane or other suitably rated lifting 
+device.  Sling around the plastic body.  Do not use the connectors as a sling point.  If the assembly 
+includes s ensors , then they must be lifted separately.  The EDU  must be kept in a horizontal position.  
+In the case of the ROV EDU this can be achieved using the 3 -off M10 tapped holes along either side. 
+(Refer to figure 5). 
+ 
+6.3 Unpacking  
+Remove wrapping material taking care to inspect for any surface damage or items that may have 
+become separated from the unit.  
+For parts supplied individually and wrapped in materials, do not use a knife to cut the wrapping 
+material, as this may cause damage to any elastomeric parts or pa inting of the product.  
+Do not remove transport or topside protection caps until the EDU  is ready for installation . 
+Connectors/Equipment supplied in boxes must be stored in the box.  
+6.4 Storage, protection and end of life  
+All connectors come supplied with a tra nsport cap.  It is recommended to leave the caps on whenever 
+possible.  The caps must be removed before subsea deployment.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  21 of 36 
+ 
+Unrestricted   
+Connector may be fitted with a back plastic Topside Protective Cap ( Figure 13 ), which is available 
+to purchase separately (customer preference).  These caps provide a higher degree of mechanical 
+protection to the connector than the transport caps.  
+Refer to section 9.4 for details on the types of caps and dummy connectors available for protection 
+during storage.  
+ 
+If product has been recovered from subsea use, it should be cleaned  before storage. Clean only with 
+fresh water or 50% citric acid solution. If 50% citric acid wash is not performed, as a  minimum , wash 
+with clean water to remove an y saltwater  on the products.  
+ Short term storage  
+Prior to installation the connectors and compensators (located each end of the EDU ) are sensitive 
+to environments where grit and dirt are present. To prevent ingress of the above, they should be 
+stored in a clean dry area and be protected by bubble wrap or similar wrapping material.  
+Transport  caps or  topside protective caps  must be fitted. Connectors supplied in boxes should be 
+stored in the box . 
+No carbon steel must be present in the storage of the products.  
+Storage where temperature and humidity are not controlled should be limited to 4 week s 
+Storage temperature range: -40°C to 70°C  ( -40 to 158°F)  Storage humidity  below 75 %. 
+ Caution.  Risk of material damage. Maximum storage temperature accounts for solar gain. 
+Skin temperature must not exceed 70 °C. Suitable protection must be used to ensu re 
+maximum storage temperature is not exceeded.  
+ 
+ Long term storage   
+The EDU must be stored in a clean dry area and be protected by bubble wrap or similar. Suitable 
+protection caps must be fitted and the storage temperature should be between -40°C and 70°C  (-
+40°F +158°F) . Humidity of the storage room should be below 75%. Very moist or very dry conditions 
+should be avoided.  
+The equipment  should be protected from strong sunlight and strong artificial light with a high 
+ultraviolet content.  
+After 5 years storage it is recommended to perform a visual examination and electrical tests to 
+confirm the product is still fit for purpose and within specification.  Check for any oil -leaks or obvious 
+signs of damage to the connectors  and EDU  body .  Refer to ‘Si te Receiving Test’ document SRT -
+002, available on the Siemens -Energy/subsea website for electrical test requirements.  
+After 5 years storage, re -inspection and test is recommended every 2 years and before the product 
+is put into service.  
+ Caution.  Risk of material damage. Maximum storage temperature accounts for solar gain. 
+Skin temperature must not exceed 70 °C (158°F) . Suitable protection must be used to 
+ensure maximum storage temperature is not exceeded.  
+ Caution.  Risk of material damage. If storage is  carried out in saline conditions, e.g. on a 
+ship’s deck or hold, then a Subsea Environment Cap or Dummy Plug connector should be 
+used to protect the receptacle pins from corrosion.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  22 of 36 
+ 
+Unrestricted   
+ Caution.  Risk of material damage. Connectors sh ould not be allowed to encounter 
+solvents, oil, grease or other semi -solid materials.  
+ 
+ Repackaging to prevent damage in transport  
+In the event of a requirement to return the EDU  back to Siemens Energy , it should be transported in 
+its dedicated transit box. Transport or topside protective cap should be  fitted to the connector(s) and 
+care should be taken to protect the connector(s) with bubble wrap or similar wrapping materials to 
+avoid any surface damage.  Contact Siemens Energy Technical Support 
+connectortechnicalsupport.gb @siemens -energy.com  to discuss details of typical boxes.   
+ Disposal and recycling  
+Safe disposal or recycling of waste packaging and/or end of life product is recommended by correctly 
+observing and complying with area , regional, national or international environmental legislation 
+where applicable.  
+  
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety 
+Officer at subsea.connectors.productsafety.gb @siemens -energy.com . 
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  23 of 36 
+ 
+Unrestricted   
+7 INSTALLATION AND ASSEMBLY  
+If in doubt contact Siemens Technical Support connectortechnicalsupport.gb@siemens.com  for 
+more detailed information.  
+7.1 Cathodic protection  
+The EDU  body is made from thermoplastic material, hence is not susceptible to subsea corrosion.  
+However, the connectors and fixing are 316L stainless steel, and must be protected by the host 
+structures CP syste m at all times . 
+The EDU  is equipped with external earth straps to provide CP protection to each connector installed. 
+2 off earth straps are also provided to be fitted to the mounting bracket and the host structure that is 
+providing a CP connection.  
+In the case of the ROV EDU, the EDU  body is manufactured from 316L Stainless Steel and must be 
+protected by means of an earth strap to the host structure.  The 3 -off M10 tapped holes along either 
+side of the body allow for attachment of an earth strap. The connectors on the body are manufact ured 
+from Super Duplex Stainless Steel and are designed to be isolated from the CP system.  
+ 
+ 
+Figure 5  ROV EDU – 3 off M10 Tapped Holes (Earthing Points  & Mounting Frame attachment 
+points ). 
+ 
+7.2 EDU  Installation  
+Transport or  topside protective caps  should be removed pr ior to deployment.  If any connectors are 
+to be left unmated in seawater for any length of time , dummy connectors or subsea environment 
+caps  must be used to protect the pin contacts in the receptacle connectors  (see section  9.4). 
+ 
+ 
+ Caution.  Risk of material damage. Maximum cumulative exposure of the male pins to 
+seawater is 28 days to prevent corrosion of the pins. If the connectors are to be left 
+unmated, in seawater, for any length of time subsea environment caps or dummy 
+connectors must b e used to protect the pin contacts in the receptacle connectors. Over 
+exposure will increase the risk of corrosion damage or marine growth on the contact 
+surfaces of the receptacle contact pins. This could lead to damage to the seals and 
+insulation within the socket contacts. Plug connectors require only subsea protective cap, 
+not a dummy connector for protection.   It is good practice to always fit transport cap or top -
+side protective cap when a connector is unmated topside prior to deployment to provide 
+mechanical protection.  
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  24 of 36 
+ 
+Unrestricted   
+ Testing of EDU  
+For testing of products in a dry environment (topside) t he appropriate test connector must always be 
+used to make electrical contact during testing.  
+For testing in a wet environment, a standard subsea connector must be  used.  Siemens connectors 
+should not be used as pressure barrier in a pressure vessel, they are not intended for this 
+use. 
+If present, guide pins must never be removed from test connectors as this can lead to damage and 
+will invalidate the connector warra nty. 
+ 
+ Danger!  Risk of imminent danger to life or risk of severe personal injury.  
+Sudden release of stored pressure.  
+DigiTRON products are not intended for use as a penetration for fixed top -side or land -
+based pressure vessels.  They are not designed to comply with the requirements of the 
+Pressure Equipment Directive (2014/68/EU).  They are intended for integration into 
+subsea equipment only.  
+All pressure testing of DigiTRON product must be undertaken by a competent person.  
+ Danger!  Risk of death from electric shock from a damaged test connector  
+- Never hold a test connector while electrically energised  
+- Do not use a test connector i f it appears damaged in any way.  
+ Danger!  Risk of death from electric shock from improper use of test c onnector.  Never 
+disassemble test connectors.  In particular, removal of the rubber termination sleeves 
+placed over the joint between the cable and the test connector is prohibited, as this may 
+expose live parts to the user.  
+- Never disassemble a test connecto r 
+ Caution.  Risk of material damage. The appropriate test connector must always be used 
+to make electrical contact during testing. Under no circumstances should a foreign object 
+(such as a screwdriver, test probe or crocodile clip) be used as a test connection as thi s 
+could damage the seals and insulation. Such actions will invalidate the product warranty.  
+ Caution . Risk of material damage.  Test connectors should never be used in water.  There 
+is a high change of damage to the test connector and also to the connector  under test.  
+ 
+Below are  some images of standard Siemens Energy Subsea  test connectors . 
+ 
+Figure 6  Test connector s for ROV (left) & Diver type (Right)  connector s  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  25 of 36 
+ 
+Unrestricted   
+ 
+• Allan keys 5mm and 6mm  
+• ¼ inch drive torque wrench 0 -25 Nm – with 5mm and 6mm Allan key drive  
+ 
+ 
+ 
+ 
+7.3 Installation of EDU  with Diver -Mate Connectors  
+Tools required:  
+• Allan keys 5mm and 6mm  
+• ¼ inch drive torque wrench 0 -25 Nm – with 5mm and 6mm Allan key drive  
+ 
+The EDU  is designed to be mounted and deployed in a horizontal position only.  
+It is critical the brackets for the EDU  are installed as identified on D RG T31014 .  For other  product 
+variants , please refer to specific drawing , available from  Siemens Energy Technical Support  
+connectortechnicalsupport.gb@siemens.com .    
+Mounting screws size and positions are defined on the drawing.  
+Mounting screws are supplied with the product.  If the host structure has been prepared with 
+clearance holes for the screws,  then the installer shall provide suitable nut and washer . 
+The 2 -off CP bonding straps supplied with EDU  shall be fixed to the host structure (M8 size ring 
+terminals), no more than 1m from the EDU . See 7.  
+ 
+ 
+ 
+ 
+ 
+Figure 7  Highlighting length of earth straps for CP connection to structure  
+ 
+The mounting brackets and EDU  are required to be installed together due to the earth strap 
+arrangement securing under the fixing bolts for the mounting brackets.  See 8.  
+Secure the mounting brackets to the host structure via the interface holes. Install wi th the 4 x M8*40 
+screws and 4 x M8 washers provided.  
+Earth straps max 1m 
+length. CP connection 
+from structure.  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  26 of 36 
+ 
+Unrestricted   
+Apply a spot of Loctite 243  to the threads of the cap head screws. Fix the EDU  to the  structure with 
+4x M8 screws, torque to 10 -12Nm  (7.38 – 8.85 lbf.ft)  
+ 
+ 
+Figure 8  Earth straps secured under bracket mounting screws  
+ 
+In the event that the brackets are not installed to the EDU  body these will need to be assembled 
+and installed. If applicable: Assemble brackets to  the body taking into account the anti -rotation peg 
+is to be situated on the underside of the unit and locates into a recess in the body.  Tighten the M6 
+fasteners to 3.5 Nm  (2.58 lbf.ft)  to complete the bracket installation. See Figure 9 . 
+ 
+Figure 9  Mounting bracket assembly  
+Earth straps secured under 
+mounting screw  
+Earth straps secured under 
+mounting screw  
+M8 screws for fixing to 
+structure  M6 Screws for fixing 
+bracket to body. 
+(ALLOY 625 so no CP 
+required for these)  
+Anti-rotation peg.  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  27 of 36 
+ 
+Unrestricted   
+ 
+ 
+Note: Fit the earth straps under the required mounting screws and torque to 10Nm  (7.38 lbf.ft) . See 
+Figure  10.  
+ 
+Figure 10  ISO view of EDU  indicating mounting screw position s 
+ 
+Route and fit CP connecting bonding  strap to host structure and secure with 2 off item SC -M8*20 
+cap head screws fitted with the supplied M8 washers torque to 10Nm  (7.38 lbf.ft) . See Figure 11 .  
+ 
+ 
+ 
+ 
+Figure 11  Earth straps to be secured to mating structure  
+ 
+ 
+ 
+Secure earth straps 
+to mating structure.  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  28 of 36 
+ 
+Unrestricted   
+Ensure mounting brackets are secure and the EDU  is orientated correctly with any required topside 
+protective caps  still installed. The EDU  is designed to operate in a fixed horizontal position  only.  
+This completes the installation of the EDU . 
+ 
+ 
+ 
+ 
+Figure 12  EDU  installed on structure  
+ 
+7.4 Installation of EDU with ROV Connectors  
+The ROV EDU will be supplied without any Mounting Brackets or means of securing the EDU. The 
+Mounting arrangement will be devised by the customer  (this isn’t SE Scope of Supply) , the design 
+will utilise the M10 holes along either side of the EDU  Body as a means of securing the mounting 
+arrangement.  Refer to figure 5. The Body of the ROV EDU is required to be connected to CP system 
+by means of an ea rth strap.  
+ 
+7.5 Installation of EFLs onto the EDU  
+Refer  to Siemens document IOM-001, available on Siemens Energy website , for all information 
+relating to EFLs and how to mate diver  and ROV  operated connectors.   
+Ensure unit is secure with no 
+lateral or rotational move ment.  
+Mounting Structure  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  29 of 36 
+ 
+Unrestricted   
+8 USER INFORMATION  DURING NORMAL OPERATION  AND FAULT  
+CONDITIONS  
+8.1 Visible/audible signals  
+There are no visible or audible signals from the product during use that identify  particular operations  
+to the user.  
+The product should be silent during operation  and its appearance should not change . 
+8.2 Normal and faulty/dangerous operation  
+Do not operate the product if there appears to be a fault.  If in doubt contact Siemens Technical 
+Support.  Below are some indications of a product fault . 
+• Any loose items such as metal bodi es, fasteners, other fixings  
+• Any oil leak is present, either from the connector or from the oil -filled hoses  or EDU’s . 
+• Bent pins  
+• Blackening or darkening of the rubber seals on the front face of the plug.  
+• Any signs of electrical activity on the exterior of the products, such as burning on the front 
+face of the plug or burning of the male pins . 
+• Green -coloured corrosion on the male pins . 
+• Damaged insulation on any cables.  
+• Loose or faulty electrical joint between cables and connector.  
+• Any noise coming from the product . 
+8.3 Troubleshooting  
+If there is any problem with the product failing to operate correctly, please contact Siemens for 
+advice.  Do not dismantle the product in any way. : 
+Department  E-mail address  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens.com  
+Technical Support  connectortechnicalsupport.gb@siemens.com  
+Service (Site Te am) susultlcmsupport.gb@siemens.com  
+Table 5  Troubleshooting product contact details  
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  30 of 36 
+ 
+Unrestricted   
+9 PRODUCT OPERATION AND MAINTENANCE  
+9.1 Safety precautions  
+Before use, read section 3 on product safety advice.  
+9.2 Product maintenance  and servicing  
+DigiTRON + products require zero maintenance for their 30-year subsea lifetime  and up to 250 
+subsea mate and de -mate  cycles.  
+There are no user serviceable parts in the EDU . Disassembly of the product should not be attempted.  
+If there are any problems developed with the product then the user should contact Siemens 
+Technical Support f or advice  
+9.3 Subsea p rotection of receptacle contact pins  
+ Caution.  Risk of material damage , corrosion of the exposed male pin in the receptacle 
+connector.  
+28 days is the maximum cumulative allowable exposure of unprotected receptacle pins to 
+seawater over t he lifetime of the connector  
+Always immediately fit a Subsea Environment Cap or Dummy Plug to the 
+receptacle in order to protect the pins from corrosion.  
+ Caution.  Risk of material damage. Under no circumstances must the contact pins in the 
+receptacle connector be exposed to seawater with power on . 
+If this situation does occur the electrical connector could be destroyed (depending on 
+electrical energy available).  At a minimum, the contact surfaces of the pins will very rapidly 
+degrade by electrolytic action. If these damaged pins are subsequently mated into a socket 
+insert there is a very high risk  of damage to the insulation and seals within the plug 
+connector.  
+ Caution . Risk of material damage.  It is important to isolate and earth prior to disconnect 
+in order to remove any stray charges in the system. If left, this can induce corrosion on the 
+exposed pins once the plug is removed.  
+ 
+9.4 Product protection; c aps and dummy connectors  
+There are five types of caps and dumm y connectors available to protect the product in use.  The 
+following gives the use case for each type.  
+ Topside caps  
+Topside caps can simply be pushed on or removed by hand . They should not be deployed subsea.  
+• Transport cap : Supplied with the connector to protect it against damage during transport 
+(Figure 13 ) 
+• Protective cap : Provides greater degree of mechanical protection to the connector than the 
+transport cap.  Recommended for when connectors are exposed to higher risk of damage  
+outside of trans portation  (Figure 13 ) 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  31 of 36 
+ 
+Unrestricted   
+   
+Figure 13  Typical  Transport Caps (left) and Topside protective caps  
+ 
+ Subsea caps  
+• Subsea protective caps : Provides mechanical protection to the plug or receptacle connector  
+(Figure 15 ). It is a non-electrical  cap. The cap for the plug connector (female sockets, oil -
+filled) can be used for long -term mechanical protection.  The cap for the receptacle 
+(exposed male pins) does not  protect the exposed male pins in the receptacle from 
+corrosion.  It should only be used for very short -term subsea use, e.g. the cap is removed 
+within a few days  after deployment and the flying lead connected to receptacle  (noting that  
+the 28 days maximum in section 9.3) 
+Note that for diver -operated connectors, the subsea caps and topside protective cap are 
+the same item, i.e. the topside protective cap is also used as a subsea protective cap.  
+• Subsea Environment Cap  (ROV Connectors on ly): Provides mechanical protection to the 
+receptacle connector (male pins)  including  corrosion protection of the exposed pins.  This is 
+a non-electrica l cap.  (Figure 16 ). To be used where the receptacle connector will be left un -
+mated for any length of time.  
+• Dummy Connectors . Provides mechanical and electrical protection to the plug or receptacl e, 
+including  corrosion protection of the exposed pins in the receptacle  (Figure 16 ). These 
+connectors have  full electrical rating . They can be configured at time of orde r to be open -
+circuit or looped  with wire or resistors  (Figure 1 4). These connectors should be used 
+everywhere the system will be electrically energised or for electrical testing.  
+ 
+Figure 14  Example label on connectors (‘LOOPED’ or ‘RESISTORS’ or ‘ZERO VOLTS’)  
+ Caution.  Risk of material damage. If storage is carried out in saline conditions, e.g. on a 
+ship’s deck or hold, then a Subsea Environment Cap or Dummy Plug connector should be 
+used to protect the receptacle pins from corrosion.  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  32 of 36 
+ 
+Unrestricted   
+ 
+ 
+ 
+Figure 15  Diver  & ROV  operated Subsea Caps  
+ 
+   
+                      
+Figure 16  Diver  & ROV  operated Subsea Environmental Cap s and Dummy Connectors , flying and 
+flanged types.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  33 of 36 
+ 
+Unrestricted   
+9.5 Live Mate / De -mate  
+The connectors are not designed to be mated or de -mated while electrically energised.  Depending 
+on the type of electrical load , the following advice should be followed.  
+ Danger!  Risk of death from electric shock due to exposed live pins, e.g. factory or top -side 
+system test and unmated receptacle is energised.  
+- Ensu re all test procedures are followed.  
+- Communication channels and protocols are observed.  
+ Caution . Risk of material damage.  The maximum number of live mate / de -mate 
+operations under any of these conditions is ONE only.  There is a high risk of damage 
+to both plug and receptacle connector that would render it unusable.  
+ 
+Resistive loads  
+Mating the connectors should not lead to any damage to the sealing mechanisms within the plugs.  
+Following this de -mating procedure, testing should be carried out on the connector to establish if any 
+damage has occurred. Under no circumstances shall connectors be partially mated with power on.  
+Capacitive loads  
+Mating with power on will lead to an in -rush current.  The magnitude of this in -rush current will depend 
+on the capacitance of the circuit. It is very important that the in -rush current is no more than 100A 
+for 5 seconds.  
+Inductive loads  
+Mating the connectors should not lead to any damage to the sealing mechanisms within the inserts. 
+De-mating must not be attempted as there is a risk of high back EMF’s which will cause damage 
+to the seals and insulation within the inserts.  
+  
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  34 of 36 
+ 
+Unrestricted   
+9.6 Removal of marine growth and calcareous deposits  
+To remove calcite growth from Siemens Subsea connectors, a solution of 50% Citric Acid is 
+recom mended. All seawater exposed elastomeric materials in Siemens Subsea connectors have 
+been fully tested against 50% Citric Acid and are compatible for a duration of 1 hour. In addition, the 
+thermoplastic materials have a good resistance to citric acid.  
+ 
+ Warning.  Risk of minor personal injury. Wear appropriate hand and eye protection when 
+handling the 50% citric acid solution.  
+ Caution.  Risk of material damage. Other acid cleaners, such as 50% Acetic Acid, should 
+not be used as they may cause deterioration of the elastomeric materials.  
+ Caution.  Risk of material damage. Chiselling and abrasive methods are not 
+recommended. Use of a wate r jet is acceptable, but the jet should not be directed into the 
+shuttle pins at the front of the plug as this could result in a risk of water being forced through 
+the primary seals.  
+ 
+ 
+
+  Document  No: IOM-007 
+ Issue  Date:  20/06/2022  
+ Revision:  04 
+ Page:  35 of 36 
+ 
+Unrestricted   
+10 CUSTOMER COMMENTS/FEEDBACK  
+Please complete the Sign Off section at the  bottom of form to confirm each page of this document 
+has been read and complied with in full.  
+Originator Name and Initials (BLOCK CAPITALS)  Date  
+  
+ Contact Details   Contact Details  
+  
+Project Reference  Customer  Region  
+   
+Product Type  Part Number (P/N)  Serial Number (S/N)  
+   
+Please enter details below e.g. comments; complaints; evidence of good practice; incident 
+reports; observations and recommendations, including any associated with health, safety or the 
+environment, etc., also include any names/contact details of other relevant personnel.  
+  
+ 
+Sign Off Section  
+Name (BLOCK CAPITALS)  Signature  Date  
+   
+Please e -mail completed form to the Product Safety Officer at the following address: 
+subsea.connectors.productsafety.gb@siemens.com  
+ 
+Unrestricted  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Published by:  
+Siemens  Energy  Global  GmbH  & Co. KG 
+Industrial Applications  
+Freyeslebenstraße  1 
+91058 Erlangen  
+Germany  
+E-mail: subsea@siemens -energy.com  
+For more information, please visit our website:  
+www.siemens -energy.com/subsea  
+ 
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those 
+described, or which may undergo modification in the course of future development of the products. 
+The requeste d performance features are binding only when they are expressly agreed upon   in the 
+concluded contract . 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG  For the US Published by  
+Siemens Energy, Inc.  
+Industrial Applications  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+USA  

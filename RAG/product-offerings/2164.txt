@@ -1,0 +1,541 @@
+  
+ 
+General Delivery Conditions of Siemens Energy for Customer -specific Systems (Version 04.2021)  
+ 
+© Siemens Energy  2021 Page 1 of 4 
+ 
+1. Entry into Agreement, Deliverable  
+1.1 These General Delivery Conditions shall govern the contract 
+relations between Customer and Siemens Energy  Ltd 
+(hereinafter “Siemens Energy”) , for the delivery of systems 
+(products, together with further services), which Siemens 
+Energy  performs at the premises of Customer or by remotely 
+accessing Customer’s IT systems. They shall also apply in the 
+event that Customer indirectly accesses its own  systems via 
+the Siemens Energy  systems.  
+1.2 Offers that do not include a deadline for acceptance (binding 
+period) are not binding.  
+1.3 The Agreement has been formed upon dispatch of the order 
+confirmation and the annexes to the same by Siemens Energy . 
+If a separ ate specifications document is not attached to the 
+Agreement, the goods and services (collectively called the 
+“deliverable”) shall be provided as stated in the technical 
+specifications of Siemens Energy  and the rules and regulations 
+in force in Switzerland  on the effective date of the Agreement.  
+1.4 Unless otherwise agreed in writing, Customer acknowledges 
+upon entry into the Agreement that the present Conditions of 
+Delivery are binding. Any conditions of Customer are not 
+applicable.  
+1.5 Agreements, amendments to the Agreement, and other 
+declarations of the Parties having legal significance must be 
+made in writing in order to be valid. This writing requirement 
+may only be waived by means of a written document. Offers 
+and confirmations of orders by Siemens Energy  may also be 
+electronically signed with a Siemens Energy  Certificate.  
+1.6 Siemens Energy  has the right to engage subcontractors for the 
+purpose of performing certain work and/or manufacturing 
+particular parts of the deliverable.  
+2. Software  
+2.1 Siemens Energy  software i s licensed, and not sold, under the 
+end-user licence agreement (EULA) individually made or 
+issued in conjunction with the software. The software is issued 
+in object code without source codes. The licence only grants 
+the right to use the software in connect ion with the deliverable. 
+It may only be transferred together with the deliverable. 
+Customer does not have the right to modify or reverse 
+engineer the software.  
+2.2 Any commercially available, standard software to be supplied 
+by Siemens Energy  is exclusively s ubject to the applicable 
+delivery or licence conditions, as the case may be, of the 
+respective manufacturer.  
+2.3 Insofar as the software contains Open Source Software 
+(“OSS”), the OSS is listed in the menu under the heading 
+“Licence Information” or in written documentation pertaining to 
+the software. If the OSS licence conditions so require, Siemens 
+Energy  shall issue the OSS source codes upon payment of 
+shipping and handling costs.  
+3. Prices  
+3.1 All prices are stated in Swiss francs and are based on the 
+Delivery Con ditions described herein and on Customer’s 
+circumstances notified to Siemens Energy  at the time of 
+pricing. All ancillary costs not expressly included in the price, 
+such as assembly, transport, customs duties, insurance, and 
+export, transit, import, and ot her permits, as well as 
+authentications shall be borne by Customer. Furthermore, any 
+and all support services, as well as travel and accommodation 
+expenses for personnel, are not included in the price.  These 
+costs shall be billed at the standard rates of Siemens Energy . 
+3.2 In the event of a change in the circumstances on which the 
+pricing is based, including but not limited to parities between 
+currencies or public/official taxes, charges, fees and customs 
+duties, etc. occurring between the time of the offer an d the 
+agreed delivery date, Siemens Energy  has the right to adjust 
+prices and conditions to the altered circumstances. In the event 
+of changes in wage rates or prices of materials, the prices shall 
+be adjusted in accordance with the sliding price formula o f 
+SWISSMEM.  
+3.3 If circumstances attributable to Customer result in additional 
+expenses, Siemens Energy  shall promptly notify Customer. 
+The Parties shall mutually arrange a reasonable adjustment to 
+the agreed price prior to implementation.  
+ 
+ 
+ 
+ 
+ 4. Payment Terms  
+4.1 Unless otherwise agreed, invoices from Siemens Energy  are 
+due immediately and must be paid no later than on the 30th day 
+after the invoice date, without discounts or other deductions. 
+Payment is deemed to have been made if the total amount due 
+has been credited, free of charge, to an account identified on 
+the invoice in Swiss francs and is fully available to Siemens 
+Energy . Customer is not permitted to offset any counterclaims 
+against the payment.  
+4.2 Payment periods must be observed even if transport, delivery, 
+assembly, commissioning, or acceptance of the goods  or 
+services are delayed or precluded for reasons not attributable 
+to Siemens Energy  or if non -significant parts are missing or 
+subsequent work that does not preclude use of the deliverable 
+proves necessary.  
+4.3 If Customer is in arrears on a payment for any r eason 
+whatsoever or if, because of circumstances arising after the 
+Parties entered into the Agreement, Siemens Energy  seriously 
+doubts that it will receive the payments in full or on time, 
+Siemens Energy  has the right, without waiving any of its other 
+rights, to discontinue delivery until such time as it receives 
+securities or prepayments.  
+4.4 If Customer fails to comply with the agreed payment periods, it 
+shall be in default, no reminder being required, and it must pay 
+default interest of 8% per annum  as of t he 31st day after the 
+invoice date.  
+5. Reservation of Title  
+5.1 Siemens Energy  shall retain title to all of its deliverables until 
+such time as it has received the agreed payments in full. Upon 
+acceptance of the deliverable, Customer authorises Siemens 
+Energy  to register its reservation of title. For the period of 
+reservation of title, Customer shall maintain the delivered items 
+at its own expense and insure them on behalf of Siemens 
+Energy  against theft, breakage, fire, water damage, and other 
+risks.  
+6. Performance of contract by remote access  
+6.1 To the extent the deliverable in question is susceptible to 
+remote delivery, Siemens Energy  may also perform the 
+delivery by remotely accessing Customer’s systems and 
+databases. Customer hereby grants Siemens Energy  the 
+author isations required for this purpose and shall, at its own 
+cost and expense, inform Siemens Energy  and its staff 
+regarding its IT processes.  
+6.2 It is the assumption of Siemens Energy  that Customer 
+maintains an IT security scheme comporting with the state of 
+the art, and shall ensure that the appropriate security 
+measures (e.g. system security updates and anti -virus 
+programs) are taken and always kept up -to-date.  
+6.3 In the event that licences are needed on the side of Customer 
+for Siemens Energy ’s remote access, Cus tomer shall procure 
+such licences at its own cost and expense and shall maintain 
+them in force throughout the entire period of the delivery.  
+6.4 In order to undertake the remote access, Siemens Energy  shall 
+be entitled to access Customer systems and databases 
+relevant to its work.  
+6.5 Siemens Energy  may copy data from Customer’s systems to 
+its own systems if this is indispensible in order to perform 
+troubleshooting analysis or rectify faults.  
+7. Delivery Period  
+7.1 The delivery period begins after issuance of the order 
+confirmation and when all contractual,  technical, and official 
+formalities, such as import, export, transit, and payment 
+permits have been obtained or fulfilled, as the case may be, 
+and the deliverable has been determined. The delivery period 
+shall be deemed to have been observed if the delive rable has 
+been delivered or assembled or installed, as the case may be, 
+at the agreed place by the expiry of this period and if the 
+acceptance can be conducted immediately. Partial deliveries 
+are permitted.  
+  
+  
+ 
+General Delivery Conditions of Siemens Energy for Customer -specific Systems (Version 04.2021)  
+ 
+© Siemens Energy  2021 Page 2 of 4 
+ 
+7.2 The delivery period shall be extended for a rea sonable time:  
+- if Siemens Energy  does not receive in a timely manner the 
+information and materials it requires in order to fulfil the 
+Agreement, or if Customer subsequently requests changes 
+or additions;  
+- if impediments arise that Siemens Energy  is unable to avert 
+despite exercising due c are, regardless of whether these 
+impediments occur at the facility of Siemens Energy , 
+Customer, or a third party. Such impediments include, for 
+example: export and import restrictions, boycott orders of 
+national or supranational organisations, or official acts or 
+omissions; labour conflicts and other disruptions of 
+operations not attributable to Siemens Energy , epidemics, 
+natural phenomena, hacker attacks, and terrorist activities. 
+Should such impediments occur, Siemens Energy  shall 
+inform Customer promptly  and keep it apprised of the extent 
+and background of the impediments;  
+- if Customer or third parties engaged by it default on 
+performing work or on fulfilling their contractual duties, or if 
+Customer fails to comply with the payment terms;  
+- If Customer has not put the necessary preconditions in place 
+for Siemens Energy ’s remote access or if they fail 
+temporarily or entirely;  
+- If the remote access is misused or if risks to the system in 
+question are present.  
+7.3 In case of delays demonstrably caused by Siemens Ene rgy, 
+Customer has the right to claim compensation for losses 
+resulting from default, provided Customer can prove that it has 
+incurred a loss as a result. If Customer receives a substitute 
+delivery in a timely manner, the aforementioned claim shall not 
+apply. 
+7.4 As of the end of the second week, the compensation for losses 
+resulting from default shall be no more than 0.5% for every full 
+week of delay, but in total no more than 5%, calculated on the 
+contractual price of the delayed portion of the deliverable.  
+7.5 Once the compensation for losses resulting from default has 
+reached the maximum, Customer may grant Siemens Energy  a 
+reasonable final grace period in writing. If Siemens Energy  fails 
+to comply with this period for reasons attributable to Siemens 
+Energy , Cus tomer has the right to decline acceptance of the 
+late portion of the deliverable. If partial acceptance is 
+financially unreasonable for Customer, Customer has the right 
+to withdraw from the Agreement and to reclaim any prior 
+payments made in exchange for r eturn of the corresponding 
+deliverables.  
+7.6 As regards late delivery, Customer has no rights or claims 
+other than those expressly specified in this para. 7.  
+8. Cooperation between the Parties  
+8.1 Siemens Energy  and Customer shall jointly strive to fulfil the 
+Agreement and take in a timely manner all precautions 
+necessary for purposes of fulfilling the same.  
+8.2 Customer shall make in a timely manner and free of charge 
+properly equipped workstations and materials (in cluding the 
+necessary power supply) available to employees of Siemens 
+Energy  working at Customer’s facility.  
+8.3 Customer shall lend to Siemens Energy  free of charge any 
+additional required materials, software, and/or test data on 
+suitable data media.  
+8.4 Either p arty may suspend the remote access with immediate 
+effect if such access is misused or if risks to the system in 
+question are otherwise present.  
+9. Amendments to the Agreement  
+Where unforeseen events materially affect the content of the 
+deliverable or the wor k performed by Siemens Energy , as well 
+as in the event that implementation becomes impossible, the 
+Agreement shall be amended accordingly. If this is 
+unreasonable for financial reasons, Siemens Energy  has the 
+right to cancel the Agreement or the affected p arts of the 
+same. If Siemens Energy  wishes to cancel the Agreement, 
+Siemens Energy  shall inform Customer after having realised 
+the implications of the event, even if the Parties initially agreed 
+to extend the delivery period. In the event of cancellation o f the 
+Agreement, Siemens Energy  has the right to payment of the 
+deliverable already provided in accordance with the agreed 
+price. Customer has no right to damages arising from such 
+cancellation of the Agreement.  
+ 
+ 
+ 10. Transfer of Benefit and Risk  
+The benefit and risk shall pass to Customer upon report of its 
+readiness to accept delivery failing this, at the beginning of the 
+transport to the storage site. If delivery, assembly, or 
+installation is delayed at Customer’s request or for other 
+reasons not attributab le to Siemens Energy , the risk shall pass 
+to Customer at the date and time originally scheduled.  
+11. Acceptance (Approval)  
+11.1 Siemens Energy  shall notify Customer that the deliverable is 
+ready for acceptance at least five business days in advance.  
+11.2 Within one month, beginning upon notification that the 
+deliverable is ready for acceptance, Customer and Siemens 
+Energy  shall jointly conduct an acceptance inspection in 
+accordance with the relevant contractual agreements.  
+11.3 Siemens Energy  shall draw up an a cceptance record which 
+shall be signed by both Siemens Energy  and Customer. The 
+acceptance record must state whether the acceptance has 
+taken place or been declined. Any notified defects must be 
+individually included in the acceptance record.  
+11.4 Siemens Energ y shall correct the recorded defects as soon as 
+possible either through repair or substitute delivery, at its 
+option. Customer shall grant Siemens Energy  the requisite 
+time and opportunity to correct the defects. Replaced parts 
+must be returned to Siemens Energy . 
+11.5 If the acceptance inspection reveals only non -significant 
+defects that do not materially impair the agreed use, Customer 
+must accept the deliverable.  
+11.6 If the acceptance inspection reveals defects that preclude the 
+agreed use, Siemens Energy  shall on ce again notify Customer 
+that the deliverable is ready for acceptance after correcting the 
+same, for purposes of which Customer shall grant Siemens 
+Energy  a reasonable grace period.  
+11.7 If defects identified during the subsequent acceptance 
+inspection or duri ng the warranty period cannot be corrected 
+within a reasonable period and are so serious that the agreed 
+use of the deliverable remains impossible, Customer has the 
+right either to request a reasonable reduction of the agreed 
+price, or to decline acceptanc e of the defective part or, if partial 
+acceptance is unreasonable for Customer, to withdraw from 
+the Agreement. In this case, Siemens Energy  may only be 
+required to refund the amounts paid for the parts of the 
+deliverable not accepted by Customer.  
+11.8 If Custo mer does not accept the deliverable even though there 
+are no defects that preclude the agreed use, or if Customer 
+declines to sign the acceptance record together with Siemens 
+Energy , the deliverable shall be deemed accepted upon expiry 
+of the respective ac ceptance periods.  
+12. Warranty  
+12.1 Unless otherwise agreed, the warranty period for the 
+deliverable is 24 months. This period shall begin to run upon 
+acceptance of the deliverable.  If shipment is delayed for 
+reasons not attributable to Siemens Energy , the warranty 
+period shall end no later than 30 months from the date of 
+notification that the deliverable is ready for acceptance.  
+12.2 For substituted or repaired parts of the deliverable, the 
+warranty period is 6 months from the date of substitution, 
+completion of repair, or acceptance of the substituted or 
+repaired parts, if the warranty period for the deliverable expires 
+earlier in accordance with the foregoing paragraph. In any 
+case, the  warranty period shall end no later than 30 months 
+from the date of notification that the deliverable is ready for 
+acceptance.  
+12.3 The warranty shall expire prematurely if Customer or a third 
+party makes alterations or repairs without the prior written 
+consent  of Siemens Energy  or if Customer, having identified a 
+defect, fails to take immediately all proper measures to mitigate 
+losses, notify Siemens Energy  of the defect and grant Siemens 
+Energy  the opportunity to correct the same.  
+12.4 Defects identified during the  warranty period must be notified 
+to Siemens Energy  in writing immediately but within no more 
+than five business days. Siemens Energy  shall correct the 
+notified defects as soon as feasible either through repair or 
+substitute delivery, at its option. Where defective parts are 
+replaced in the process, the defective parts shall become the 
+property of Siemens Energy . 
+12.5 The costs of defect corrections performed at the factory shall 
+be borne by Siemens Energy . If a defect cannot be corrected 
+at the factory of Sieme ns Energy , the associated costs shall be 
+borne by Customer insofar as they exceed the standard 
+transport, personnel, travel and accommodation expenses, as 
+well as the costs of installing & uninstalling the defective parts.  
+  
+ 
+General Delivery Conditions of Siemens Energy for Customer -specific Systems (Version 04.2021)  
+ 
+© Siemens Energy  2021 Page 3 of 4 
+ 
+12.6 The only warranted qualities are those expressly designated as 
+such in the order confirmation. The warranty is deemed to 
+have been fulfilled if proof of the relevant quality has been 
+provided at the time of the acceptance inspection; otherwise, 
+the warranty applies until the expiry of the  warranty period, and 
+no longer. Unless the warranted qualities are satisfied in full, 
+Customer shall initially have the right to correction by Siemens 
+Energy . Unless this correction is fully successful, Customer 
+has the right to a reasonable reduction of the price. If the 
+defect is so serious that it cannot be corrected within a 
+reasonable period, and if the deliverable cannot be utilised for 
+the agreed use, Customer has the right to decline acceptance 
+of the defective part or, if it is unreasonable for Cu stomer to 
+accept a partial delivery, Customer may withdraw from the 
+Agreement. Siemens Energy  may only be required to refund 
+the amounts it has been paid for the parts of the deliverable 
+affected by this withdrawal.  
+12.7 The warranty and liability of Siemens En ergy do not cover 
+losses that have not demonstrably arisen from poor material, 
+defective construction or faulty execution, e.g., as a result of 
+normal wear and tear, faulty maintenance, non -compliance 
+with operating rules, undue strain, inappropriate equip ment, 
+chemical or electrolytic effects or disturbances resulting from 
+equipment not supplied by Siemens Energy , construction or 
+assembly work not performed by Siemens Energy , or for other 
+reasons not attributable to Siemens Energy . 
+12.8 In the event of defectiv e software, a prerequisite for correction 
+of defects is that the defect must be documented in detail, 
+where possible, and reproducible in the unaltered original 
+version on the contractually specified reference or target 
+hardware. Defects in the software sh all be corrected initially via 
+upgrade or update where this is possible at reasonable costs. 
+If the defect prevents Customer from completing important, 
+time-sensitive tasks, Siemens Energy  shall find a workaround 
+where this is possible within a reasonable time and effort. In 
+the event of loss of or damage to data and/or data media, the 
+warranty only covers the installation of backed -up data.  
+12.9 For deliverables provided by subcontractors, as well as for 
+standard devices originating from sub -suppliers, such as 
+computers, printers etc., Siemens Energy  shall assign to 
+Customer the rights vis -à-vis the subcontractors.  
+12.10  The term “defect” refers to deviations in deliverables, software 
+and/or documentation vis -à-vis the requirements expressly 
+agreed upon in the Agreeme nt and the annexes to the same.  
+12.11  Customer has no rights and claims other than those expressly 
+indicated in this para. 12 in respect of defects in materials, 
+construction or execution, as well as in respect of the absence 
+of warranted qualities.  
+12.12  Siemens Ener gy has the right to bill to Customer the costs 
+associated with troubleshooting if the defects notified by 
+Customer cannot be identified or reproduced in the course of 
+troubleshooting. If defects in any deliverable or software are 
+attributable to fault on t he part of Customer, Siemens Energy  
+shall correct these defects at Customer’s request for a 
+reasonable fee and on terms to be agreed upon in each case.  
+13. Other Liability  
+13.1 Siemens Energy  shall only be liable for the correctness of the 
+data provided by Siemens Energy  at the WAN exit point of the 
+computer used by Siemens Energy . 
+13.2 In the event of loss or damage to data and/or data media 
+material, Siemens Energy ’s liability to Customer shall be 
+limited to the reinstallation of backup data.  
+13.3 Customer shall bear sole responsibility for the data access it 
+has requested and for compliance with the provisions of law 
+applicable in connection therewith.  
+13.4 Where Customer uses the remote access to make changes to 
+its own system, Customer shall bear sole responsibility 
+therefor .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13.5 Any claims of Customer other than those expressly specified in 
+the Agreement and these General Delivery Conditions, 
+regardless of the legal basis  on which they are made, in 
+particular compensation for damages that have not occurred 
+on the deliverable itself, such as loss of production, loss of use, 
+all claims for compensation that are not expressly specified , 
+reduction in price, cancellation of the  contract or withdrawal 
+from the contract are excluded . Customer’s rights to 
+compensation for losses not incurred by the deliverable itself, 
+such as loss of production, loss of use, loss of orders, lost 
+profits, or other direct or indirect losses shall onl y apply if this 
+has been expressly agreed in writing and is limited, at any rate, 
+to a maximum of one million Swiss francs. This limitation of 
+liability does not apply in case of gross negligence or wrongful 
+intent or where precluded by mandatory law.  
+14. Comp liance with Export Control Regulations  
+14.1 Siemens Energy shall not be obligated to fulfill this agreement 
+if such fulfillment is prevented by any impediments arising out 
+of national or international foreign trade or customs 
+requirements or any embargoes or ot her sanctions . 
+14.2 If Custom er transfers goods (hardware and/ or software and/ or 
+technology as well as corresponding documentation, 
+regardless of the mode of provision) delivered by Siemens 
+Energy or works and services (including all kinds of technical 
+suppor t) performed by Siemens Energy to a third party 
+worldwide, Customer  shall comply with all applicable national 
+and international (re -) export control regulations. In any event 
+Custome r shall comply with the (re -) export control regulations 
+of Switzerland , Germany,  of the European Union and of the 
+United States of America.  
+14.3 If required to conduct export control checks, Custome r, upon 
+request by Siemens Energy, shall promptly provide Siemens 
+Energy with all information pertaining to particular end 
+customer, des tination and intended use of goods, works and 
+services provided by Siemens Energy, as well as any export 
+control restrictions existing.  
+14.4 Custom er shall indemnify and hold harmless Siemens Energy 
+from and against any claim, proceeding, action, fine, loss, co st 
+and damages arising out of or relating to any noncompliance 
+with export control regulations by Custom er, and Custom er 
+shall compensate Siemens Energy for all losses and expenses 
+resulting thereof, unless such noncompliance was not caused 
+by fault of the  Customer . This provision does not imply a 
+change in burden of proof.  
+15. Confidentiality and Data Protection  
+15.1 Siemens Energy  and Customer shall undertake to treat 
+confidentially all documents, information, tools and software 
+received in connection with this Ag reement and not publicly 
+available, as their own trade secrets, even after the termination 
+of the Agreement, and to refrain from distributing them 
+unnecessarily within their respective companies and from 
+making them available either in whole or in part to third parties, 
+except subcontractors.  
+If, in the course of its work on the deliverable and 
+documentation, Siemens Energy  processes personal data, 
+Siemens Energy  shall comply with Customer’s instructions and 
+the relevant data protection laws. Siemens Energ y shall take 
+appropriate measures to safeguard such data against 
+unauthorised access by third parties.  
+15.2 Customer acknowledges that the data, information and 
+documents concerning Customer may be stored inside or 
+outside Switzerland. They may be disclosed to Siemens 
+Energy  and to its affiliates for purposes of fulfilling the 
+Agreement.  
+15.3 Where Siemens Energy ’s performance of the services requires 
+remote access to personal data, Customer shall be informed 
+and requested to approve such access. Siemens Energy ’s 
+access to personal data shall only be undertaken after 
+Customer has granted its approval. Until such t ime as the 
+approval is given, Siemens Energy ’s obligation to perform the 
+contract shall be suspended, without this entailing any claim to 
+compensation on the part of Customer.  
+15.4 Siemens Energy  may only use information to which it becomes 
+privy in the course  of performing the contract purposes of 
+performing the contract, and, only in anonymised form, in order 
+to undertake further development of its products.  
+ 
+ 
+ 
+ 
+  
+ 
+General Delivery Conditions of Siemens Energy for Customer -specific Systems (Version 04.2021)  
+ 
+© Siemens Energy  2021 Page 4 of 4 
+ 
+ 
+16. Rights to the Deliverable and Documentation  
+16.1 All hardware pertaining to the deliverable and the design 
+thereof, as well as all associated software and documentation, 
+are the intellectual property of Siemens Energy  or the relevant 
+subcontractors or sub -suppliers, as the case may be, 
+regardless of thei r protectability.  
+16.2 Customer receives the right to utilise the deliverable, including 
+the software created for Customer under this Agreement, as 
+well as the associated documentation, in accordance with the 
+provisions of this Agreement.  
+17. Third -party Proprietar y Rights and Claims  
+17.1 Siemens Energy  shall take the steps it deems feasible and 
+reasonable to ensure that the deliverable, insofar as it is 
+identifiable to Siemens Energy , does not infringe on any 
+proprietary rights of third parties.  
+17.2 If a third party asserts  legitimate claims based on proprietary 
+rights (patents, etc.) in respect of the deliverable, Siemens 
+Energy  shall, at its own option and expense,  
+- obtain a right of use from the party authorised to make 
+dispositions as regards the affected proprietary righ t, or 
+- alter the infringing parts, or  
+- exchange the infringing parts for parts that are free of 
+proprietary rights, or  
+- take back the deliverable in exchange for a refund of the 
+purchase price,  
+all other claims being hereby excluded.  
+Claims shall only be dee med legitimate if they have been 
+acknowledged by Siemens Energy  or awarded by a final court 
+decision.  
+17.3 Customer is required to inform Siemens Energy  immediately if 
+a third party asserts claims against Siemens Energy  on any 
+legal basis whatsoever. Customer m ay not acknowledge such 
+claims of its own accord.  
+17.4 Customer shall support Siemens Energy  in defending against 
+such claims and handling the dispute with the third party, in 
+particular, in a lawsuit. In this respect, Customer shall only take 
+action based on w ritten instructions of Siemens Energy . 
+Siemens Energy  shall reimburse to Customer documented 
+expenses incurred through the provision of such support.  
+18. Consequences of Termination of the Agreement  
+After the termination of the Agreement, the rights and duties 
+specified in para. 14 and para. 15 shall continue to apply 
+consistently to all results obtained in connection with the 
+Agreement during the term of the same.  
+19. Governing Law  
+The contractual relationship shall be governed by the 
+substantive laws of Switzerland. The UN Convention on 
+Contracts for the International Sale of Goods (UN CISG) of 11 
+April 1980 shall not apply to this contractual relationship.  
+20. Venue  
+The venue for both Customer and Siemens Energy  is Zurich.  
+However, Siemens Energy  also has t he right to take legal 
+action against Customer at the domicile of the latter.  

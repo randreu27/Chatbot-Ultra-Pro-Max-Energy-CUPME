@@ -1,0 +1,111 @@
+Unrestricted © 2021 Siemens Energy Page 1
+1 Economic success through reducing
+losses and protecting existing equip-
+ment with PST technology
+The challenge
+Connecting grids across countries always poses challenges for
+the utilities on both sides. The power flow needs to be control-
+led so that the energy produced in one country can be consu-
+med there. However, in the event of overproduction, the utility
+needs to provide the option for sending the excess power to the
+neighboring country. To transmit the power produced in Califor-
+nia (U.S.A.) to its own customers instead of the neighbors in
+Mexico, the local utility needed a viable solution – which is ei-
+ther a B2B DC backbone or phase-shifting transformers (PST).
+The solution
+The local utility opted for two PSTs as the go-to solution for op-
+timizing the grid. They control the power flow in the transmis-
+sion network on a 230kV transmission in an optimal way thatallows them to push more power onto their 500kV transmission
+lines instead of having uncontrolled power transmission. This is
+especially crucial for the customer when one of the 500 kV
+transmission lines is out of service. Due to local grid require-
+ments, the phase shifters needed to provide an extremely large
+and asymmetrical phase angle. However, the physical size still
+needed to be as compact as possible for ease of transportation.
+The customer also specified tank-mounted ONAF cooling and no
+sound-damping measures.
+2 Technical features
+1. Phase angle
+Due to local grid requirements in both countries, the phase shif-
+ters needed to provide an extremely large asymmetrical phase
+angle from -80.1° to 31.3°. This phase angle range implied that
+the units would be extremely large. However, for ease of trans-
+portation and reduced footprint, the customer asked for the
+most compact dimensions possible.
+Ultimately, the series and exciter transformer shipping dimen-
+sions were 468.5 x 149.6 x 181.1 inches (11,9 x 3,8 x 4,6 m) and
+the shipped weight was 582,000 lbs. (264 tons) and 623,900 lbs.
+(283 tons) respectively.Providing grid stability
+Use case: Phase-shifting
+Transformers for California,
+U.S.A.
+siemens-energy.com/transformers
+
+Unrestricted © 2021 Siemens Energy Page 2
+2. Two-tank design
+Due to the large phase-angle requirement, it was not possible
+to design the phase shifter as a singletank unit. Therefore, the
+PSTs were designed as a classical two-core/two-tank unit.
+3. Regulation
+The regulation of the PSTs in the existing grid was a very impor-
+tant issue for this project. Therefore, three off-single-phase on-
+load tap changers and one off-ARS-type switch were incorpo-
+rated in the PSTs. A special winding concept was developed that
+enabled the use of a standard R-type tap changer . This resulted
+in the PSTs being equipped with seven offthroat connections
+instead of the usual four offthroat connections:
+4. Cooling
+The PSTs are equipped with ONAF (oil natural-air forced) tank-
+mounted radiator cooling with fans but with no pumps. The
+cooling fans were selected to meet the required low noise level.
+5. Seismic withstand
+Because California is in a region that has a high incidence of
+earthquakes, it was important to design and manufacture the
+PSTs to be qualified according to the requirements of IEEE
+693-2005 and meet the requirements of the high qualification
+level. In order to meet this requirement, a third party was em-
+ployed to:
+1) develop a finiteelement mathematical model that
+could be used to perform the seismic analysis of the PSTs and
+ 2) prepare a seismic analysis qualification report.Do you experience grid instability or bottlenecks in your trans-
+mission system, or do you want to avoid public grid fees on your
+lines?
+Think about a PST and contact us!
+Published by
+Siemens Energy Global GmbH & Co. KG
+Transmission
+Freyeslebenstr. 1
+91058 Erlangen
+Germany
+Article No.  PTNP-T10008-00-7600
+For more information, please visit our website:
+siemens-energy.com/transformers
+© Siemens Energy, 2021
+Siemens Energy is a registered trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general descriptions and/or performance features which may
+not always specifically reflect those described, or which may undergo modification in the course of further development of the products. The re-
+quested performance features are binding only when they are expressly agreed upon in the concluded contract. All product designations may be
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or other companies whose use by third parties for their own purposes could
+violate the rights of the owners.
+Other applications for PSTs
+PSTs are crucial components in the ongoing effort to im-
+prove grid reliability and stability. They offer many ad-
+vantages in various applications:
+•Increased transmission capacity and optimized utilization of
+transmission equipment by balancing line-loading of parallel
+lines/network segments
+•Improved grid stability by preventing unwanted loading and
+loop flows
+•Direct power sourcing of cheap electricity from nearby
+power plants by enforcing power flow through the utility’s
+separate line and avoiding public grid fees
+•Improved commercial crossnetworking trading
+•Fast (re-)connection of networks with large differ-
+ences in phase angle by temporarily reducing the
+phase shift
+For the U.S. published by
+Siemens Energy, Inc
+Transmission
+4601 Six Forks Road
+Raleigh, NC 27609
+USA

@@ -1,0 +1,82 @@
+1.Subsea Switchgear
+The subsea switchgear is the unit responsible for 
+power distribution and protection of other units 
+in a subsea power grid. It will receive medium 
+voltage from a transmission line or subsea 
+transformer, distributing both medium voltage 
+and low voltage
+ to different consumers like 
+subsea variable speed drives or fixed-frequency 
+loads.
+The subsea switchgear is equipped with vacuum 
+circuit breakers and SIPROTEC protection relays, 
+providing reliabl e and field-proven protection to 
+its medium voltage consumers. It uses the IEC 
+61850 standard protocol, making it easy to 
+integrate to topside protetion and power 
+management systems
+ Each low voltage 
+distribution circuit is also monitored and 
+protected by both semiconductors and 
+traditional contactors, combining
+ fast response 
+time and galvanic insulation.
+Parts of the subsea switchgear are fluid-filled 
+and pressure compensated, while others are gas-
+filled. This design allows excellent reliability by 
+providing adequate environmental conditions to 
+the different comp
+onents in the system.
+Siemens Energy subsea switchgear design can 
+be typically equipped with 2 or 4 medium 
+voltage circuit
+ breakers, but it can be scaled up 
+to fulfill project-specific needs.The subsea switchgear has also an integrated 
+condition and monitoring system that is 
+seamlessly integrated in the Siemens Energy 
+subsea power control system and can easily be 
+integrated with thi rd party systems. This 
+provides the operator with excellent 
+transparency into the equipment and the status 
+of its integrity, enabling optimization operation 
+for enhanced performance and safety.
+Key features Subsea Switchgear
+•Rated voltage range up to 38 kVac
+•Rated current rating up to 1000 A (500 A per
+feeder)
+•Modular design with vacuum circuit breakers
+•Pressure-compensated design
+•Robust enclosure design with optimized
+natural cooling properties
+•Biodegradable and environmentally friendly
+MIDEL 7131® fluid filling
+•Advanced condition monitoring system
+•Qualified for 3,000 meters water depthsiemens-energy.com/subsea
+Subsea Switchgear
+Supporting the factory on the seabed:  Power 
+distribution
+© 2021 Siemens Energy Page 1
+Figure  1 Subsea SwitchgearPublishe
+d by
+Siemens Energy Global GmbH & Co. KG
+Trans formation o f Industry
+Siemenspromenade 9
+91058 Erlangen
+Germany
+For more information, please visit our website: 
+siemens-energy.com/ subsea
+Subject to changes and errors. The information given in this 
+document   only contains general descriptions  and/or performance 
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract.
+Siemens Energy  is a trademark licensed by Siemens AG.
+© 2021 Siemens Energy Page 2
+for the US published by
+Siemens Energy, Inc.
+Trans formation o f Industry
+4400 N Alafaya Trail
+Orlando, F L 32826
+USA

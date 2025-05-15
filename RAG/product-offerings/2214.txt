@@ -1,0 +1,79 @@
+Siemens Energy Sustainability Report 2023 – SASB IndexPage 1Topic Accounting Metric Code Reference Explanation
+Energy Management Total energy consumed RT-EE-130a.1  Sustainability Report 2023:   
+Decarbonization, p. 30-38
+Percentage grid electricity
+Percentage renewable
+Hazardous Waste Management Amount of hazardous waste  
+generated, percentage recycledRT-EE-150a.1  Sustainability Report 2023:   
+Conservation of Resources, p. 51-56
+Number and aggregate quantity of 
+reportable spills, quantity recoveredRT-EE-150a.2  Sustainability Report 2023:   
+Conservation of Resources, p. 51-56During fiscal year 2023, we had one significant environmental incident related to Siemens Energy (fiscal year 2022: 2). This incident 
+is related to the release of SF6 from a product after an operational handling incident. As a company, we will investigate, assess, and 
+derive measures that will prevent such incidents from happening again.
+Product Safety Number of recalls issued, total units 
+recalledRT-EE-250a.1  Sustainability Report 2023:   
+Product Stewardship, p. 57-60Product safety encompasses the safety of all products, solutions, and services manufactured, provided, and/or sold by Siemens 
+Energy. These products, solutions, and services are developed according to the latest technical knowledge and comply with applica-
+ble legal requirements to ensure that they do not pose an unacceptable risk to life, health, property, or the environment. Product 
+stewardship at Siemens Energy follows the key standards of the ISO 14000 series, with individual approaches for each Business Area. 
+The approaches are centrally supported by the respective Global Environmental, Health and Safety (EHS) departments. In fiscal year 
+2023, improvement measures included a specific training course for product safety officers and their line managers and the launch of 
+an all-employee training video. Numerous workshops have been held to analyze our strengths and weaknesses and collaborate to 
+better serve our customers, both internal and external. During fiscal year 2023, no significant product safety incidents were reported.
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with product safetyRT-EE-250a.2  Annual Report 2023:   
+Note 14, Provisions, p. 113;  
+Note 18, Legal proceedings, p. 116Siemens Energy – Sustainability Report 2023:
+SASB Index
+Siemens Energy Sustainability Report 2023 – SASB IndexPage 2Topic Accounting Metric Code Reference Explanation
+Product Lifecycle Management Percentage of products by revenue 
+that contain IEC 62474 declarable 
+substancesRT-EE-410a.1  Sustainability Report 2023:   
+Product Stewardship, p. 57-60We are currently not reporting products by revenue that contain IEC 62474 declarable substances. However, Siemens Energy uses 
+globally standardized materials and substances registers for restricted and declarable substances and products. The lists identify any 
+substances that need to be declared for each product and are updated every six months according to current directives from the 
+European Chemicals Agency. As part of the Siemens Energy supplier assessment and qualification process, suppliers are required to 
+identify whether any of their products or components contain substances that need to be declared according to the specific legisla-
+tion. Suppliers then need to provide a detailed declaration should any such substances be used within their design and manufactur -
+ing activities. We encourage our suppliers to use the industry substance management platform BOMCheck to share declarations for 
+substances of very high concern (SVHC) and link this information to our IT systems. In this way, we can proactively manage risks relat-
+ed to substance restrictions. The implementation of the Substances of Concern in Products (SCIP) reporting requirement, a database 
+established under the EUʼs Waste Framework Directive that registers products containing SVHCs, is still ongoing.
+“Percentage of eligible products, by 
+revenue,certified to an energy 
+efficiency certification”RT-EE-410a.2 Not applicable
+“Revenue from renewable energy-  
+related and energy efficiency-related 
+products”RT-EE-410a.3  Sustainability Report 2023:   
+p. 31, Decarbonization, p. 30-38;  
+ Annual Report 2023:   
+2.10.2.5 EU Taxonomy, p. 58-79We are disclosing revenue, capital expenditure and operating expenses in line with EU Taxonomy criteria.
+Materials Sourcing Description of the management of 
+risks associated with the use of 
+critical materialsRT-EE-440a.1  Sustainability Report 2023:   
+Product Stewardship, p. 57-60;  
+Sustainable supply chain management,  
+p. 61-65
+Business Ethics Description of policies and practices 
+for prevention of:  
+(1) corruption and bribery and  
+(2) anti-competitive behaviorRT-EE-510a.1  Sustainability Report 2023:   
+Compliance and integrity, p. 68-71
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with bribery or corruptionRT-EE-510a.2  Annual Report 2023:   
+Note 14, Provisions, pp. 113;  
+Note 18, Legal proceedings, pp. 116
+Total amount of monetary losses as a 
+result of legal proceedings associated 
+with anticompetitive behavior 
+regulationsRT-EE-510a.3  Annual Report 2023:   
+Note 14, Provisions, p. 113;  
+Note 18, Legal proceedings, p. 116
+Activity Metric Number of units produced by product 
+categoryRT-EE-000.A Not applicable To get an understanding of our company structure, please refer to  Sustainability Report 2023:  Siemens Energy at a glance,  
+p. 10-11
+Number of employees RT-EE-000.B  Sustainability Report 2023:   
+Working at Siemens Energy, p. 72-82

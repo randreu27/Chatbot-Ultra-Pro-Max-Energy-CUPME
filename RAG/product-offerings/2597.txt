@@ -1,0 +1,101 @@
+UnrestrictedSiemens Energy 2025. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AG
+Tidak terkawal jika di luar Sistem Pengurusan Dokumen
+Halaman idaripada iNama Dokumen: GARIS PANDUAN OPERASI  UNTUK PENYESUAI UJIAN TC6A -
+1190
+Nombor Dokumen: E1A4405430
+Semakan Pengarang Penyemak Pelulus Tarikh
+Keluaran
+A D. MCDOUGLE J. Pridmore K. Turner 20/01/2025
+TERBITAN PERTAMA
+KAWALAN SEMAKAN: Sejarah Kawalan Semakan Diurus oleh Sistem Pengurusan Dokumen.
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORNombor
+Dokumen:E1A4405430
+Semakan: A
+Halaman: 1daripada 3
+UnrestrictedSiemens Energy 2025. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AG1TUJUAN & SKOP
+Tujuan prosedur ini adalah untuk memperincikan proses penggunaan penyesuai ujian tekanan Dry Mate
+Receptacle, TC6A -1190.
+Penyesuai ujian TC6A -1190 digunakan semasa pemasangan penyambung Dry Mate Receptacle Connector siri
+TC6A -512 & TC6A -716 di tapak.
+Penyesuai ini boleh dipasang pada Penyangkut Tiub klien menggunakan sama ada 2 atau 4 daripada skru kepala
+penutup yang dibekalkan. Apabila digunakan dalam konfigurasi 2 bolt, tekanan ujian maksimum yang mungkin
+dikenakan ialah 10,000 psi (689 bar).
+Tekanan Kerja Maksimum Yang Dibenarkan (MAWP) Penyesuai Ujian ialah 15,750 psi (1,086 bar). INI TIDAK
+BOLEH DILAMPAUI.
+Penyesuai Ujian sesuai untuk ujian ulangan. Selagi semakan prasyarat yang ditunjukkan dalam Bahagian 5
+dipenuhi.
+2DOKUMEN DAN LUKISAN BERKAITAN
+Nombor Nama Lokasi
+10032136 TC6A -512 Product Data Sheet Teamcenter
+10204852 ElecTRON Installation, Operations and
+Maintenance ManualSiemens -energy.com/subsea
+SD00021200 TC6A -1190 Product Data Sheet Teamcenter
+SD00021241 TC6A -716 Product Data Sheet Teamcenter
+T31549 TC6A -1190 Drawing and Associated BOM Teamcenter
+3PERALATAN
+Peralatan berikut diperlukan untuk melengkapkan pemasangan ini:
+Pemutar Tork Pemacu 1/2” yang dinilai untuk 40 lbf ∙ft (54 Nm) –contohnya NOR -13019.
+Tork Sepana heksagon 3/8” A/F pemasangan pemacu 1/2".
+Kunci Allen 5/16” pemasangan pemacu 1/2”.
+4MAKLUMAT KESELAMATAN DAN RISIKO AM
+Untuk mendapatkan maklumat Keselamatan dan Bahaya penuh, sila rujuk ElectTRON IOM atau
+Lembaran Data Keselamatan untuk media ujian yang digunakan.
+Amaran. Risiko kecederaan diri yang ringan kepada orang yang mempunyai alahan terhadap minyak
+berasaskan mineral.
+Memakai perlindungan tangan yang sesuai semasa mengendalikan produk atau minyak berasaskan
+mineral atau sintetik.
+Amaran. Risiko kecederaan diri yang ringan dan/atau kerosakan bahan atau persekitaran semasa
+pemasangan.
+Anda hendaklah sentiasa berhati -hati dan berwaspada semasa pemasangan bagi memastikan
+bahawa kelengkapan dan peralatan hidraulik/pneumatik dipasang dengan betul.
+
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORNombor
+Dokumen:E1A4405430
+Semakan: A
+Halaman: 2daripada 3
+UnrestrictedSiemens Energy 2025. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AGAmaran. Risiko kecederaan anggota badan disebabkan oleh bahagian penahan tekanan menjadi
+peluncur disebabkan oleh pengguna mengenakan tekanan yang berlebihan terhadap sistem.
+Amaran. Risiko suntikan hidraulik. Hanya boleh digunakan di bawah MAWP dengan minyak dan
+pam yang sesuai selaras dengan Peraturan Peralatan Tekanan (Keselamatan) (2016) atau alternatif
+tempatan yang relevan apabila digunakan di luar negara.
+
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORNombor
+Dokumen:E1A4405430
+Semakan: A
+Halaman: 3daripada 3
+UnrestrictedSiemens Energy 2025. Hak Cipta Terpelihara
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AG5PERSEDIAAN
+Periksa pemasangan secara visual, pastikan tiada kerosakan pada kon pengedap, pengedap elastomer,
+benang atau badan Penyesuai Ujian. Jika terdapat apa -apa keraguan berkaitan dengan integriti
+Penyesuai Ujian atau mana -mana komponen pemasangan tersebut, hentikan kerja dengan segera,
+kuarantin peralatan tersebut dan hubungi J abatan Teknikal Siemens Energy.
+Bersihkan Penyesuai Ujian dengan kain lap yang direndam dalam alkohol isopropil atau kain bebas lin
+yang sesuai dan alkohol isopropil, dan beri perhatian khusus pada permukaan kon penutup.
+6PROSES
+1.Rujuk kepada lukisan T31549 dan BOM yang berkaitan.
+2.Pastikan 2 O -Ring (20) dipasang pada Penyesuai Ujian (10), dan O -Ring (60) dipasang pada Penyesuai
+Berbibir (50).
+3.Jika menguji TC6A -512, pasangkan Palam Seal Energiser (70) pada Penyesuai Ujian (10).
+4.Pasangkan pemasangan penyesuai ujian pada penyambung untuk diuji. Pastikan bahawa badan
+Penyesuai Berbibir berada di atas dasar penyangkut tiub.
+5.Pasangkan Skru Kepala Penutup (30) dan Sesendal (40) seperti yang diperlukan, ketatkan dengan
+tangan sebelum mengenakan tork kepada nilai 54 Nm (40 lbf ft).
+6.Pasangkan hos daripada peralatan ujian pada Penyesuai Ujian (10), ketatkan kepada 20 Nm (14.75 lbf
+ft).
+7.Laksanakan ujian seperti yang dinyatakan dalam prosedur pemasangan berkaitan, dengan mematuhi
+MAWP Penyesuai Ujian sebanyak 15,750 psi, yang tidak boleh dilebihi.
+8.Setelah selesai ujian, kurangkan tekanan pada ambien dan tanggalkan hos minyak.
+9.Longgarkan skru kepala penutup dan keluarkan pemasangan Penyesuai Ujian dari Penyangkut Tiub.
+10.Lap sisa minyak daripada Penyesuai Ujian dan penyambung di bawah ujian.
+11.Ulangi pemeriksaan visual seperti yang ditetapkan dalam Bahagian 5.
+TAMAT PROSEDUR1.Nota: Jika menguji TC6A -716, pastikan Palam Seal Energiser (Item 70 pada T31549) dialih
+keluar, kegagalan untuk mengalih keluar boleh mengakibatkan Dry Mate Contact Pin
+TC6A -716 rosak.2.
+3.Nota Penting! Apabila menggunakan penyesuai ini dalam konfigurasi 2 bolt,
+tekanan ujian TIDAK BOLEH MELEBIHI 10,000 psi.
+4.Nota :Prosedur pemasangan yang digunakan bergantung pada projek dan berbeza untuk
+TC6A -512 dan TC6A -716. Hal tersebut disenaraikan pada Helaian Data Produk yang
+bersesuaian.

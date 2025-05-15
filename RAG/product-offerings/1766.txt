@@ -1,0 +1,19 @@
+siemens-energy.com/gasturbines 
+TH 566-170589-10 PGDG-Y10013-01-7600  |  Siemens Energy is a registered trademark licensed by Siemens AG.with casing steam injection
+Power generation 4.0 / 5.4 / 5.8 MW(e)
+SGT-A05 KB5S SGT-A05 KB7S SGT-A05 KB7HE
+Power output 4.0 MW(e) 5.4 MW(e) 5.8 MW(e)
+Gross efficiency 29.7% 32.3% 33.1%
+Heat rate12,137 kJ / kWh /   
+11,504 btu / kWh11,146 kJ / kWh /   
+10,570 (btu / kWh)10,889 kJ / kWh /   
+10,282 btu / kWh
+Turbine speed 14,200 rpm 14,600 rpm 14,600 rpm
+Pressure ratio 10.3:1 14.2:1 14.4:1
+Exhaust mass flow 15.4 kg / s (34.0 lb / s) 21.3 kg / s (47.0 lb / s) 21.4 kg / s (47.1 lb / s)
+Exhaust temperature 560 °C (1,040 °F) 495 °C (921 °F) 522 °C (972 °F)15%*
+Hydrogen  
+capable  
+gas turbine
+* with WLE burnerAeroderivative  
+gas turbine SGT-A05

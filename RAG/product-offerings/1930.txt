@@ -1,0 +1,34 @@
+SEEpowered by SCCoTy2.0
+How to get started
+Important to know
+*light box= SE activities
+Purple box = supplier activities
+For further
+information 
+please visit the Siemens 
+Energy homepage under 
+Supply Chain Management or
+use the SEE platform directly.
+What is SEE powered by 
+SCCoTy 2.0?
+SEE powered by SCCoTy 2.0 
+is an expediting solution that 
+delivers true customer value 
+by automating major 
+expediting activities for all 
+open purchase orders 
+(POs):
+SEE powered by 
+SCCoTy 2.0
+Monitors open POs.
+Identifies POs that 
+require action.
+Sends email alerts to 
+take action.
+Processes suppliers' 
+responses in SAP.
+Provides transparency.Instructions on getting started with SEE 
+powered by SCCoTy 2.0
+! Please don’t change the xls file other than the 
+marked fields
+! Please do not delete words from the name

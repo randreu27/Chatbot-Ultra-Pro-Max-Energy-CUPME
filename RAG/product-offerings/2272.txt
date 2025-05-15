@@ -1,0 +1,144 @@
+Dresser-Rand HOS compressor
+siemens-energy.com/reciprocating-compressorsRatings
+Maximum Allowable Rod Load
+Model Stroke in. (mm)Number of  
+CylindersNominal Rated HP 
+(kW)Combined lbs. (kN) Gas Load lbs. (kN) Rated RPM
+5HOS2 5 (127.0) 2 2,400 (1790) 60,000 lb. (267) 69,000 lb. (307) 1,500
+5HOS4 5 (127.0) 4 4,800 (3580) 60,000 lb. (267) 69,000 lb. (307) 1,500
+5HOS6 5 (127.0) 6 7,200 (5370) 60,000 lb. (267) 69,000 lb. (307) 1,500
+6HOS2 6 (152.4) 2 2,000 (1492) 60,000 lb. (267) 69,000 lb. (307) 1,200
+6HOS4 6 (152.4) 4 4,000 (2983) 60,000 lb. (267) 69,000 lb. (307) 1,200
+6HOS6 6 (152.4) 6 6,000 (4475) 60,000 lb. (267) 69,000 lb. (307) 1,200
+7HOS2 7 (177.8) 2 2,200 (1641) 60,000 lb. (267) 69,000 lb. (307) 1,000
+7HOS4 7 (177.8) 4 4,400 (3281) 60,000 lb. (267) 69,000 lb. (307) 1,000
+7HOS6 7 (177.8) 6 6,000 (4475) 60,000 lb. (267) 69,000 lb. (307) 1,000
+Compressor Frame Components
+• Rigid cast gray iron frame, heavily ribbed and reinforced 
+with integrally cast crosshead extensions; open frame top 
+construction with steel tie rods, cast iron spacers and an 
+individual cover over each section.
+• Forged alloy steel crankshaft with passages for pressure 
+lubrication, counterweighted to reduce horizontal moments.
+• Forged alloy steel connecting rods, rifle-drilled for pressure 
+lubrication.
+• Nodular Iron crossheads, pressure lubricated, with babbitted 
+running surfaces.
+• Horizontally-split, precision-type aluminum main bearings.
+• Solid bronze connecting rod bearings.
+• Bronze thrust bearings.
+• Crankcase filter-breather.
+• Metallic oil wiper rings.
+• Main lube oil pump direct driven from crankshaft with relief 
+valve.
+• Twenty five micron full-flow oil filter with cartridge-type 
+cleanable elements and differential pressure gauge.
+• Shell-and-tube oil cooler.
+• Bulls-eye oil level gauge.
+• Direct driven forced fed cylinder lubrication system. 
+• Set of special tools consisting of crosshead nut wrench and 
+piston rod entering sleeve. One set provided per frame.Compressor Cylinder Components
+• Cylinders are available in jacketed or non-jacketed 
+configurations  
+- cylinder bores larger than 15.00” in. (381.0 mm) are all 
+jacketed.
+• Cast nodular iron bore cylinder barrel with integral crank-end 
+head.  
+• Forged steel linered cylinders.
+• Iron, aluminum or steel pistons.
+• Supernut piston nut.
+• Magnum HammerHead valves with non-metallic PEEK 
+elements  
+and 17-7 PH stainless steel springs or PF-style valves complete 
+with  
+Hi-Temp, non-metallic PEEK plates  and chrome silicon springs.
+• Roll threaded AISI 4142 steel piston rods w/supernut.
+• Filled Teflon® combination piston rings.
+• Filled Teflon® piston rod packing rings.
+• .50” NPT plugged connections for indicator ports on outer end  
+and frame end of all cylinders.
+• .75” NPT plugged connections for RTD’s on each inlet and  
+discharge cylinder connection.
+• Variable Volume Clearance Pockets.
+• One reproducible print of certified outline drawings or 
+electronic  
+DWG format.Standard Equipment
+Specifications
+Frame One-piece, cast gray iron, high-strength
+Crankshaft Forged steel
+Connecting rods Forged steel
+Connecting rod bolts Alloy steel, rolled threads
+Crosshead bolt-on shoes Nodular iron, aluminum shoes
+Crosshead integral shoes Nodular iron babbitt running shoes 
+Crosshead pins Hardened steel
+Bearings - main Aluminum with micro-babbitt overlay
+Bushings - crankpin Tri-metal bronze
+Bushings - connecting rod  
+& crossheadTri-metal bronze
+Oil pump Positive displacement gear-type
+Oil filter Full-flow, 25 micron
+Oil cooler Shell-and-tube
+Cylinders Nodular iron and gray iron
+Pistons One or two piece; iron, aluminum or steel
+Piston rods Alloy steel, rolled threads
+Piston rod packing rings Filled Teflon®
+MAWP PSIG (bar)Clearance to  
+Remove Piston Rod
+Cylinder Size  
+in. (mm)LP HPA  
+in. (mm)B  
+in. (mm)C  
+in. (mm)D  
+in. (mm)
+4.75 (120.7) 1925 (133.7) 58 (1473) 18 (457) 76 (1930) 48 (1219)
+6.00 (152.4) 1,925 (133.7) 2,750 (189.6) 59.62 (1,515) 21 (533) 80 (2,032) 52 (1,321)
+7.00 (177.8) 1,650 (113.8) 2,750 (189.6) 58 (1,473) 18 (457) 76 (1,930) 40 (1,016)
+8.00 (203.2) 1,575 (108.6) 2,200 (151.7) 59 (1,499) 20 (508) 79 (2,007) 41 (1,041)
+9.00 (228.6) 1,265 (87.2) 2,400 (165.5) 57.5 (1,461) 19 (486) 76 (1930) 38 (965)
+9.50 (241.3) 1,265 (87.2) 1,925 (133.7) 57.5 (1,461) 19 (486) 76 (1,930) 38 (965)
+10.00 (254.0) 1,025 (70.7) 1,650 (113.8) 57.5 (1,461) 19 (486) 76 (1,930) 42 (1,067)
+10.50 (266.7) 1,025 (70.7) 1,650 (113.8) 57.5 (1,461) 19 (486) 76 (1,930) 42 (1,067)
+11.50 (292.1) 885 (61.0) 1,265 (87.2) 57 (1,448) 18 (457) 75 (1,905) 37 (940)
+12.25 (311.1) 1,050 (72.4) 57.75 (1,467) 19 (486) 77 (1,956) 42 (1,067)
+13.00 (330.2) 644 (44.4) 970 (66.9) 57.75 (1,467) 19 (486) 77 (1,956) 42 (1,067)
+14.00 (355.6) 750 (51.7) 58.5 (1,486) 20 (508) 79 (2,007) 39 (991)
+15.00 (381.0) 495 (34.1) 745 (51.4) 58.5 (1,486) 20 (508) 79 (2,007) 39 (991)
+*16.25 (412.7) 600 (41.4) 58.75 (1,492) 20 (508) 79 (2,007) 40 (1,016)
+*17.50 (444.5) 545 (37.6) 58.75 (1,492) 20 (508) 79 (2,007) 40 (1,016)
+*19.00 (482.6) 470 (32.4) 59.5 (1,511) 21 (533) 80 (2,032) 41 (1,041)
+*20.50 (520.7) 470 (32.4) 59.5 (1,511) 21 (533) 80 (2,032) 41 (1,041)
+22.00 (558.8) 350 (24.1) 62.5 (1,588) 23 (584) 86 (2,184) 48 (1,219)
+*23.00 (584.2) 350 (24.1) 62.5 (1,588) 23 (584) 86 (2,184) 48 (1,219)
+*24.50 (622.3) 280 (19.3) 62.5 (1,588) 24 (610) 86 (2,184) 48 (1,219)
+26.00 (660.4) 280 (19.3) 61.75 (1,570) 22 (559) 84 (2,134) 32 (813)
+26.50 (673.1) 280 (19.3) 61.75 (1,570) 22 (559) 84 (2,134) 32 (813)
+28.00 (711.2) 185 (12.8) 61.75 (1,570) 22 (559) 84 (2,134) 32 (813)
+3.75 (95.3)
+To
+7.00 (177.8)6,600 (455.1) or 4,000 (275.8)
+10,000 (689.5)** Varies depending on piping needs.
+* Flanges are offset from piston rod centerline.  
+** Contact HSRC team for more information.
+Subject to changes and errors. The information given in this document only contains general descriptions and/or performance features which may not always specifically reflect those described, or which may undergo modification 
+in the course of further development of the products. The requested performance features are binding only when they are expressly agreed upon in the concluded contract.
+Published by  
+Siemens Energy, Inc.
+Transformation of Industry
+4400 N Alafaya Trail
+Orlando, FL 32826
+USA
+© Siemens Energy, 2021
+Siemens Energy is a trademark licensed by Siemens AG. Published by  
+Siemens Energy Global GmbH & Co. KG
+Transformation of Industry
+Siemenspromenade 9
+91058 Erlangen
+GermanySubject to changes and errors. The information given in this document only 
+contains general descriptions and/or performance features which may not 
+always specifically reflect those described, or which may undergo 
+modification in the course of further development of the products. The 
+requested performance features are binding only when they are expressly 
+agreed upon in the concluded contract. All product designations may be 
+trademarks or product names of Siemens Energy Global GmbH & Co. KG or 
+other companies whose use by third parties for their own purposes could 
+violate the rights of the owners.

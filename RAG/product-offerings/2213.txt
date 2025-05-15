@@ -1,0 +1,251 @@
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 1GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+GRI 1: Foundation 2021
+GRI 2: General disclosures 2021
+The organization and its reporting practices
+GRI 2-1: Organizational details 88, 10; AR 9
+GRI 2-2: Entities included in the organization’s sustainability reporting 10/11, 88/89; AR 134-141
+GRI 2-3: Reporting period, frequency and contact point 88, 104
+GRI 2-4: Restatements of information 101
+GRI 2-5: External assurance 102/103 In case of any restatements, they are disclosed in footnotes.
+Activities and workers
+GRI 2-6: Activities, value chain and other business relationships 10/11, 61; AR 9-11, 17, 34/35, 41
+GRI 2-7: Employees 79/80 2-7 a. - c. Information unavailable/ 
+incomplete
+Not applicable (2-7 b. iii)We report on employee disclosures but not to the full level of detail,  
+however we aim to increase data transparency.
+Total number of non-guaranteed hours employees make up less than 5% of 
+our workforce and the number is thus not material for Siemens Energy. (2-7 
+b. iii)
+GRI 2-8: Workers who are not employees 79/80 2-8 a. - c. Information unavailable/ 
+incompleteWe report on accidents of non-employee workers (see GRI 403) but not their 
+total number or any further detail. We aim to increase data transparency.
+Governance
+GRI 2-9: Governance structure and composition 17,19/20, 90; AR 158-165
+GRI 2-10: Nomination and selection of the highest governance body AR 154, 163, 164
+GRI 2-11: Chair of the highest governance body AR 152-157Siemens Energy Sustainability Report 2023
+GRI Content Index
+The page numbers included in the GRI Content Index refer to the respective pages of the 
+ Siemens Energy Sustainability Report 2023 . If a reference is introduced with “AR” it refers 
+to the  Siemens Energy Annual Report 2023 .
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 2GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+GRI 2-12: Role of the highest governance body in overseeing the management of impacts AR 152-157
+GRI 2-13: Delegation of responsibility for managing impacts 17, 19/20
+GRI 2-14: Role of the highest governance body in sustainability reporting 17; AR 152-155 Our CEO who is also our CSO, Christian Bruch, approved and signed the 
+disclosure of the Sustainability Report.
+GRI 2-15: Conflicts of interest AR 57, 154/155, 169-172
+GRI 2-16: Communication of critical concerns 18, 68, 94; AR 39/40 2-16 a. and b. Confidentiality  
+constraintsCritical concerns are reported regularly to the supervisory board (audit 
+committee) in line with the internal control and enterprise risk management 
+approach described in the Annual Report. However, disclosure of a total 
+number and nature of critical concerns are confidential under corporate law 
+and privileged.
+GRI 2-17: Collective knowledge of the highest governance body 17, 67; AR 161
+GRI 2-18: Evaluation of the performance of the highest governance body AR 12/13
+GRI 2-19: Remuneration policies 18, 31; AR 172-176
+GRI 2-20: Process to determine remuneration AR 177-190
+GRI 2-21: Annual total compensation ratio 78; AR 176/177, 186
+Strategy, policies and practices
+GRI 2-22: Statement on sustainable development strategy 2
+GRI 2-23: Policy commitments 44, 51, 62, 66/67, 93 Link to human rights policy statement:  Compliance (siemens-energy.com)
+GRI 2-24 Embedding policy commitments 62-64, 67, 69/70, 93
+GRI 2-25: Processes to remediate negative impacts 67, 69/70, 74, 71 Stakeholders can use our grievance mechanism channels to give feedback to 
+improve these. Feedback can be also provided via the global employee 
+engagement survey. (page 74) (2-25 b.)
+Our internal reviews in the course of our compliance risk management, 
+including knowledge gained during compliance investigations and audits 
+performed by our internal audit function together with the evaluation of case 
+statistics, indicate that our compliance system is well-designed and effective-
+ly implemented. Based on the nature of our businesses, the environments in 
+which we operate, and the wide range of different geographical regions, we 
+do not regard the number of incidents as unusual. (page 71) (2-25 c.)
+GRI 2-26: Mechanisms for seeking advice and raising concerns 70
+GRI 2-27: Compliance with laws and regulations 71; AR 36, 115, 116/117 
+GRI 2-28: Membership associations 18/19
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 3GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+Stakeholder engagement
+GRI 2-29: Approach to stakeholder engagement 16, 18-20, 58, 61
+GRI 2-30: Collective bargaining agreements 79 Working conditions and terms of employment of employees not covered by 
+collective bargaining agreements are not based on collective bargaining 
+agreements from other organizations. (2-30 b.)
+GRI 3: Material topics 2021
+GRI 3-1: Process to determine material topics 16/17
+GRI 3-2: List of material topics 17
+Material topic: Business conduct
+GRI 3-3: Management of material topics 2021 68-71
+GRI 205: Anti-corruption 2016
+GRI 205-1: Operations assessed for risks related to corruption 70 205-1 a. and b. Confidentiality  
+constraintsWe do not report the number and percentage of operations assessed for 
+risks related to corruption, but we do report the number of compliance-relat-
+ed incidents. Specific risks identified are not being reported externally but as 
+an integral part of the quarterly company wide Enterprise Risk Management 
+(ERM).
+GRI 205-2: Communication and training about anti-corruption policies and procedures 69/70 205-2 a. – e. Information unavailable/ 
+incompleteWe do not further breakdown our numbers by region and employee category 
+as we specifically target all managers and employees in positions with a 
+specific risk profile.
+GRI 205-3: Confirmed incidents of corruption and actions taken 71
+GRI 206: Anti-competitive behavior 2016
+GRI 206-1: Legal actions for anti-competitive behavior, anti-trust, and monopoly practices 71
+Material topic: Business resilience
+GRI 3-3: Management of material topics 2021 19/20, 94; AR 36/37
+GRI 201: Economic Performance 2016
+GRI 201-1: Direct economic value generated and distributed 3, 10, 43, 86; AR 16
+GRI 203: Indirect Economic Impacts 2016
+GRI 203-1: Infrastructure investments and services supported 83-86
+GRI 203-2: Significant indirect economic impacts 12/13, 23-25, 32-35, 83/84
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 4GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+Material topic: Innovative partnerships and collaborations
+GRI 3-3: Management of material topics 2021 18/19, 24, 28/29
+Material topic: Energy use and efficiency
+GRI 3-3: Management of material topics 2021 16/17, 23/24, 30-32, 36, 44/45, 51/52, 
+58
+GRI 302: Energy 2016
+GRI 302-1: Energy consumption within the organization 3, 36/37 302-1 c. iii) and iv) and d. Information unavailable/ 
+incompleteSiemens Energy does not report energy consumption from sold electricity, 
+heating, cooling, and steam, due to the fact that we don’t sell any energy. 
+(302-1 d.)
+We do not report the breakdown of energy consumption from cooling and 
+steam, however we are working towards increasing data transparency. 
+(302-1 c. iii) and iv))
+GRI 302-2: Energy consumption outside of the organization 34 302-2 Information unavailable/ 
+incompleteWe report the consumption from use of sold products as they are a key input 
+parameter for scope 3 downstream emissions reporting. Any other consump-
+tion outside of the organization is not material for Siemens Energy.
+GRI 302-3: Energy intensity 36
+GRI 302-4: Reduction of energy consumption 35/36 Reported energy consumption reduction is based on prior year and is a result 
+of conservation and efficiency initiatives, closure of Siemens Energy’s sites 
+and reduced execution of tests done in products.
+GRI 302-5: Reductions in energy requirements of products and services 32/33 302-5 a. – c. Information unavailable/ 
+incompleteWe do not report the overall reduction in energy requirements of our sold 
+products and services. We report on specific examples and our overall 
+targets and strategy. We aim to increase our data transparency around 
+reductions in energy requirements.
+Material topic: Greenhouse gas emissions
+GRI 3-3: Management of material topics 2021 12-18, 30-36, 38, 58, 89-91, 93, 95/96
+GRI 305: Emissions 2016
+GRI 305-1: Direct (Scope 1) GHG emissions 3, 37, 99 Siemens Energy Scope 1 calculation includes CO2, CH4, HFCs and SF6. Emis-
+sion factors used are sourced from the Greenhouse Gas (GHG) Protocol, the 
+Global Warming Potential (GWP) from Intergovernmental Panel on Climate 
+Change (IPCC) AR2 and AR5 and uses the operational control as consolidation 
+approach.
+GRI 305-2: Energy indirect (Scope 2) GHG emissions 3, 37, 99 Siemens Energy is reporting market-based emissions. Siemens Energy 
+(excluding Siemens Gamesa) Scope 2 emissions derived from location-based 
+methodology sum up to 219,510 t CO2e.
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 5GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+GRI 305-3 Other indirect (Scope 3) GHG emissions 3, 34, 38, 99 305-3 e. ii) Information unavailable/ 
+incompleteSiemens Energy is reporting emissions reduction from base year but not the 
+emissions on the base year. We aim to increase data transparency.
+GRI 305-4 GHG emissions intensity 3, 34, 37/38, 99 
+GRI 305-5: Reduction of GHG emissions 22, 30, 32, 35, 37/38, 98/99 305-5 c. Information unavailable/ 
+incompleteReported GHG emission reduction is based on prior year and not on base 
+year and is a result of conservation and efficiency initiatives, closure of 
+Siemens Energy’s sites and reduced execution of tests done in products. We 
+aim to increase data transparency.
+GRI 305-6: Emissions of ozone-depleting substances (ODS) 37 GWP source is IPCC AR2 and AR5.
+GRI 305-7: Nitrogen oxides (NOX), sulphur oxides (SOX), and other significant air emissions 37 305-7 a. and b. Information unavailable/ 
+incompleteThe regulation (ec) no 595/2009 of the european parliament and of the 
+councils of 18 June 2009 is the source of the calculation parameters for the 
+air emissions. SOX, POP, HAP, PM are not reported as they are not material for 
+Siemens Energy, however we aim to increase data transparency.
+Material topic: Responsible sourcing
+GRI 3-3: Management of material topics 2021 35, 59, 61-65, 70
+GRI 308: Supplier environmental assessment 2016
+GRI 308-1: New suppliers that were screened using environmental criteria 63/64 308-1 a. Not applicable We do not report on the number of new suppliers being screened; however, 
+we do report on the total number of suppliers screened during the fiscal year.
+GRI 308-2: Negative environmental impacts in the supply chain and actions taken 35, 43, 59/60, 62-65 308-2 b. and d. Confidentiality  
+constraintsWe do not report the percentage of suppliers identified as having significant 
+actual and potential negative environmental impacts with which improve-
+ments were agreed upon as a result of assessment. However, we are working 
+towards increasing transparency.
+GRI 414: Supplier social assessment 2016
+GRI 414-1: New suppliers that were screened using social criteria 63-65 414-1 a. Not applicable We do not report on the number of new suppliers being screened; however, 
+we do report on the total number of suppliers screened during the fiscal year.
+GRI 414-2: Negative social impacts in the supply chain and actions taken 62-65 414-2 b. and d. Confidentiality  
+constraintsWe do not report the percentage of suppliers identified as having significant 
+actual and potential negative social impacts with which improvements were 
+agreed upon as a result of assessment. However, we are working towards 
+increasing transparency.
+Material topic: Talent attraction and retention
+GRI 3-3: Management of material topics 2021 43, 72, 74-79
+GRI 401: Employment 2016
+GRI 401-1: New employee hires and employee turnover 79/80 401-1 b. Information unavailable/ 
+incompleteWe report on employee turnover but not to the full level of detail, however 
+we aim to increase data transparency.
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 6GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+GRI 401-2: Benefits provided to full-time employees that are not provided to temporary or part-time 
+employees48, 78 401-2 a. i) - iii) Information unavailable/ 
+incompleteWe report on benefits we provide to full-time employees and aim to increase 
+data transparency.
+GRI 401-3: Parental leave 80 401-3 a. – e. Information unavailable/ 
+incompleteWe report the total number of employees that took parental leave by gender 
+for Germany (401-3 b.) and adhere to local laws of the more than 90 
+countries worldwide with Siemens Energy presence (401-3 a.). We are 
+working towards increasing greater data transparency. 
+GRI 404: Training and education 2016
+GRI 404-1: Average hours of training per year per employee 3, 43, 77 404-1 a.i. Information unavailable/ 
+incompleteWe aim to report average hours of training per employee by gender as soon 
+as possible.
+GRI 404-2: Programs for upgrading employee skills and transition assistance programs 76-78
+GRI 404-3: Percentage of employees receiving regular performance and career development reviews 76/77 404-3 a. Information unavailable/ 
+incompleteWe aim to report the percentage of employees receiving regular perfor -
+mance and career development reviews as soon as possible and are currently 
+preparing the technical requirements.
+Material topic: Equity, inclusion & diversity
+GRI 3-3: Management of material topics 2021 72-74, 79
+GRI 405: Diversity and Equal Opportunity
+GRI 405-1: Diversity of governance bodies and employees 3, 73, 79; AR 162/163 405-1 Information unavailable/ 
+incompleteWe report on diversity of governance bodies but not in a full detail (i.e. 
+percentage of men not reported, but we report percentage of women in 
+leadership positions).
+GRI 405-2: Ratio of basic salary and remuneration of women to men 73/74 405-2 a. and b. Information unavailable/
+incompleteWe report the gender pay gap, however, not by employee category. We are 
+working towards increasing transparency.
+Material topic: Human Rights
+GRI 3-3: Management of material topics 2021 61/62, 66/67, 70, 78
+GRI 407: Freedom of Association and Collective Bargaining
+GRI 407-1: Operations and suppliers in which the right to freedom of association and collective bargain-
+ing may be at risk66, 79 407-1 a. i) and ii) Confidentiality  
+constraintsWe do not report the number of operations, location, suppliers considered to 
+have significant risks for right of freedom of association; however, suppliers 
+and third-party intermediaries must sign the Binding Code of Conduct (CoC) 
+which is based on our Business Conduct Guideline (BCG), and which covers 
+right to freedom of association and collective bargaining.
+Siemens Energy Sustainability Report 2023 – GRI Content IndexPage 7GRI Standards Page(s) Requirement(s) omitted Reason Explanation/Comments
+GRI 408: Child labor
+GRI 408-1: Operations and suppliers at significant risk for incidents of child labor 62, 66/67 408-1 a. and b. Confidentiality  
+constraintsWe do not report the number of operations and suppliers considered to have 
+significant risks for incidents of child labor; however, suppliers and third-par -
+ty intermediaries must sign the Binding Code of Conduct (CoC) which is 
+based on our Business Conduct Guideline (BCG), and which prohibits Child 
+labor in any form. 
+GRI 409: Forced or compulsory labor
+GRI 409-1: Operations and suppliers at significant risk for incidents of forced or compulsory labor 62, 66/67 409-1 a. Confidentiality  
+constraintsWe do not report the number of operations and suppliers at significant risk 
+for incidents of forced or compulsory labor; however, suppliers and 
+third-party intermediaries must sign the Binding Code of Conduct (CoC) 
+which is based on our Business Conduct Guideline (BCG), and which prohib-
+its forced labor in any form.
+Material topic: Occupational health and safety
+GRI 3-3: Management of material topics 2021 42, 44-48
+GRI 403-1: Occupational health and safety management system 44-46, 48
+GRI 403-2: Hazard identification, risk assessment, and incident investigation 44, 47/48
+GRI 403-3: Occupational health services 47/48
+GRI 403-4: Worker participation, consultation, and communication on occupational health and safety 44-46
+GRI 403-5: Worker training on occupational health and safety 44, 46, 48
+GRI 403-6: Promotion of worker health 48
+GRI 403-7: Prevention and mitigation of occupational health and safety impacts directly linked by 
+business relationships 44, 57, 59/60
+GRI 403-8: Workers covered by an occupational health and safety management system 44 403-8 Information unavailable/ 
+incompleteWe do not report the number and percentage of workers covered by an 
+occupational health and safety management system, however all employees 
+are covered by an occupational health and safety management system under 
+our Environment, Health and Safety (EHS) Policy. We aim to increase data 
+transparency.
+GRI 403-9: Work-related injuries 3, 42, 46/47 403-9 a. and b. Information unavailable/ 
+incompleteWe report on fatalities and work-related injuries but not the rate of fatalities, 
+number of work-related injuries and number of hours worked, however we 
+aim to increase data transparency.
+GRI 403-10: Work-related ill health 47 403-10 b. Confidentiality  
+constraintsWe report on work-related ill health for employees incl. temporary workers 
+but not including contractors, due to legal constraints concerning data 
+privacy. However, we aim to increase data transparency.

@@ -1,0 +1,95 @@
+UnrestrictedSiemens Energy 2025. Todos os direitos reservados
+Siemens Energy é uma marca registrada licenciada pela Siemens AG
+Não controlado se estiver fora do Sistema de Gerenciamento
+de Documentos
+Página ideiNome do documento: ORIENTAÇÕES DE OPERAÇÃO DO ADAPTADOR DE TESTE
+TC6A -1190
+Número do documento: E1A4405430
+Revisão Autor Verificador Aprovador Data de
+emissão
+A D. MCDOUGLE J. Pridmore K. Turner 20/01/2025
+EMISSÃO INICIAL
+CONTROLE DE REVISÕES: O Histórico de Controle de Revisões é gerenciado pelo Sistema de
+Gerenciamento de Documentos.
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORN.º
+Doc.:E1A4405430
+Rev.: A
+Página: 1de2
+UnrestrictedSiemens Energy 2025. Todos os direitos reservados
+Siemens Energy é uma marca registrada licenciada pela Siemens AG1OBJETIVO E ESCOPO
+O objetivo deste procedimento é detalhar o processo de uso do adaptador de teste de pressão do Acoplamento
+Seco TC6A -1190.
+O adaptador de teste TC6A -1190 é usado durante a instalação no local do Conector de Acoplamento Seco das
+séries de conectores TC6A -512 e TC6A -716.
+Esse adaptador pode ser instalado no suporte de tubos do cliente usando 2 ou 4 dos parafusos de cabeça
+cilíndrica fornecidos. Quando usado na configuração de 2 parafusos, a pressão de teste máxima que pode ser
+aplicada é de 10.000 psi (689 bar).
+A pressão de trabalho máxima permitida (MAWP) do adaptador de teste é de 15.750 psi (1.086 bar). ESSE
+VALOR NÃO DEVE SER EXCEDIDO.
+O adaptador de teste é adequado para testes repetidos. Desde que as verificações de pré -requisitos mostradas
+na Seção 5sejam atendidas.
+2DOCUMENTOS E DESENHOS ASSOCIADOS
+Número Nome Localização
+10032136 TC6A -512 Product Data Sheet Teamcenter
+10204852 ElecTRON Installation, Operations and
+Maintenance ManualSiemens -energy.com/subsea
+SD00021200 TC6A -1190 Product Data Sheet Teamcenter
+SD00021241 TC6A -716 Product Data Sheet Teamcenter
+T31549 TC6A -1190 Drawing and Associated BOM Teamcenter
+3EQUIPAMENTOS
+Os seguintes equipamentos serão necessários para realizar essa instalação:
+Chave de torque de acionamento de 1/2" classificada para 40 lbf ∙ft (54 Nm) –por exemplo, NOR -13019.
+Chave de torque de acionamento 3/8" A/F sextavada 1/2".
+Chave de acionamento 5/16" sextavada 1/2".
+4INFORMAÇÕES GERAIS DE SEGURANÇA E RISCOS
+Para obter informações completas sobre Segurança e Perigos, consulte o IOM do ElecTRON ou a Folha
+de Dados de Segurança dos meios de teste em uso.
+Advertência. Risco de lesões pessoais leves a pessoas com sensibilidade a óleos minerais.
+Use proteção adequada para as mãos ao manusear produtos ou óleos minerais ou sintéticos.
+Advertência. Risco de lesões leves e/ou danos materiais ou ambientais durante a montagem.
+Deve -se tomar cuidado durante a montagem para garantir que as conexões e os equipamentos
+hidráulicos/pneumáticos sejam corretamente instalados.
+Advertência. Risco de lesão corporal causada pela retenção da pressão em peças que se tornam
+projéteis devido à pressurização excessiva do sistema por parte do usuário.
+Advertência. Risco de injeção hidráulica. Só deve ser usado abaixo da MAWP (pressão máxima de
+trabalho admissível) com óleo e bomba adequada em linha com os Regulamentos (de Segurança)
+de Equipamentos de Pressão (2016) ou alternativa local relevante quando usado no ext erior.
+
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORN.º
+Doc.:E1A4405430
+Rev.: A
+Página: 2de2
+UnrestrictedSiemens Energy 2025. Todos os direitos reservados
+Siemens Energy é uma marca registrada licenciada pela Siemens AG5PREPARAÇÃO
+Inspecione visualmente o conjunto e garanta que não haja danos nos cones de vedação, na vedação
+elastomérica, nas roscas ou no corpo do adaptador de teste. Se houver alguma dúvida sobre a
+integridade do adaptador de teste ou de qualquer de seus componentes, interrompa o trabalho
+imediatamente, coloque o equipamento em quarentena e entre em contato com o Departamento
+Técnico da Siemens Ener gy.
+Limpe o adaptador de teste com lenços umedecidos com álcool isopropílico ou um pano adequado
+sem fiapos e álcool isopropílico, prestando atenção especial à face do cone de vedação.
+6PROCESSO
+1.Consulte o desenho T31549 e a lista BOM associada.
+2.Assegure que 2 dos O -Rings (20) estejam encaixados no Adaptador de Teste (10) e que o O -Ring (60)
+esteja encaixado no Adaptador com Flange (50).
+3.Se estiver testando um TC6A -512, instale o Plugue Energizador de Vedação (70) no Adaptador de Teste
+(10).
+4.Encaixe o conjunto do adaptador de teste no conector a ser testado. Garanta que o corpo do Adaptador
+com Flange fique alinhado com a base do suporte de tubos.
+5.Encaixe os Parafusos de Cabeça Cilíndrica (30) e as Arruelas (40) conforme necessário, e aperte
+manualmente antes de aplicar torque com valor de 54 Nm (40 lbf ft).
+6.Instale a mangueira do equipamento de teste no Adaptador de Teste (10) e aperte a 20 Nm (14,75 lbf
+ft).
+7.Realize o teste conforme indicado no procedimento de instalação associado, observando a MAWP de
+15.750 psi do adaptador de teste, que não deve ser excedida.
+8.Ao concluir o teste, reduza a pressão para a ambiente e remova a mangueira de óleo.
+9.Solte os parafusos de cabeça cilíndrica e remova o conjunto do adaptador de teste do suporte de tubos.
+10.Limpe o óleo residual do adaptador de teste e do conector sob teste.
+11.Repita a inspeção visual conforme indicado na Seção 5.
+FIM DO PROCEDIMENTO1.Observação: Se testar um TC6A -716, assegure que o Plugue Energizador de Vedação
+(Item 70 em T31549) seja removido. Não removê -lo pode resultar em danos ao Pino de
+Contato do Acoplamento Seco do TC6A -716.2.
+3.Nota Importante! Ao usar este adaptador na configuração de 2 parafusos, a pressão
+de teste NÃO DEVE EXCEDER 10.000 psi.
+4.Observação: O procedimento de instalação usado dependerá do projeto e será diferente para
+TC6A -512 e TC6A -716. Estes estão listados na Folha de Dados do Produto apropriada.

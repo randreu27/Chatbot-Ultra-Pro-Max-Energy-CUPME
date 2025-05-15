@@ -1,0 +1,348 @@
+26 APRIL -JUNE 2022     DIESEL & GAS TURBINE WORLDWIDE      
+SIMILAR OR LOWER  NOX EMISSIONS
+Recently, Göteborg Energi and Siemens 
+Energy have demonstrated how to use 
+biofuels effectively together with combined 
+cycle gas turbine technology at the Rya 
+CHP district heat and electricity plant in 
+Sweden. As part of a program supported by 
+the Swedish Energy Agency, the plant was 
+operated for two days in November 2021 
+on HVO, proving both start-up and stable 
+operations. 
+“The tests successfully demonstrated 
+both start-up and stable operations. The 
+operations also showed that the emissions 
+of nitrogen oxides (NOx) were similar or 
+lower than when operating on conventional 
+diesel, ” says Dr. Daniel Moëll, Project 
+Manager for Green Fuel Combustion at 
+Siemens Energy.
+Additionally, a new backup plant planned 
+by Stockholm Exergi will be operating solely 
+on liquid biofuel, securing electricity for the 
+entire city of Stockholm at all times. These 
+projects demonstrate that green biofuels 
+are a viable replacement for natural gas or 
+diesel in backup and peaking plants and can 
+support energy transition.  
+UNDERSTANDING THE POTENTIAL OF 
+BIOFUELS  
+But first, let’s look at the bioenergy market 
+in general before approaching these 
+applications. Bioenergy is electricity and 
+heat generated from organic matter, such World energy consumption is 
+expected to grow by nearly 50% 
+over the next thirty years. While 
+rapid expansion in renewable electricity 
+generation, such as solar and wind, is 
+expected to absorb much of this new 
+demand, this alone won’t be enough. 
+New green fuels and technologies will be 
+needed to maintain the supply and balance 
+the volatile nature of solar and wind 
+while ensuring a sufficiently rapid power 
+generation transition away from fossil fuels.  
+Replacing natural gas with green biofuels 
+in gas turbines is one key solution that’s 
+often overlooked. Made from renewable 
+sources, biofuels, such as Hydrotreated 
+Vegetable Oil (HVO), can be deployed 
+in existing infrastructures to provide 
+backup and peaking power, thereby 
+complementing renewables at a low carbon 
+footprint. Green biofuels:  
+A proven fuel for  
+gas turbinesAs we move away from fossil 
+fuels, green fuel alternatives 
+are needed to balance 
+the volatile nature of solar 
+and wind. A key option is 
+to replace conventional 
+natural gas and diesel fuels 
+with green biofuels in gas 
+turbines. By  Heidi Vella , 
+energy and technology 
+journalistBIOFUELS
+as plants and timber, agricultural and food 
+waste, and even sewage. The energy stored 
+in biomass can be utilized in different ways; 
+combustible feedstocks can be burned to 
+produce heat and steam (e.g., to generate 
+electricity through a steam turbine), turned 
+into a gaseous fuel via anaerobic digestion 
+or gasification, or converted into liquid 
+biofuels (such as HVO, other biodiesels, 
+biomethanol, etc.). The latter two have the 
+potential of being used in gas turbines. 
+BIOFUELS
+93% compared to fossil fuels. They can be 
+produced utilizing a closed-loop circular 
+process and are thus considered renewable. 
+Moreover, as the International Energy 
+Agency (IEA) states in its 2021 World 
+Energy Outlook, a further advantage of 
+biofuels is that they can be adopted with 
+minimal retrofit costs by end-users. As 
+recently proven in Gothenburg, biofuels 
+can utilize already existing gas turbines and 
+infrastructures.
+GROWING MOMENTUM FOR GREEN 
+BIOFUELS
+So, it´s no surprise that opportunities 
+offered by green biofuels for both simple 
+cycle and combined cycle power plants 
+are piquing operators’ interest. Swedish 
+operators, such as Göteborg Energi and 
+Stockholm Exergi, are at the frontline and 
+supported by Siemens Energy.
+Göteborg Energi produces both district heating and electricity at the Rya KVV 
+power plant and plays an important role in 
+the city’s electricity supply.  The validation 
+of biodiesel (HVO-100) at the plant has 
+proven its suitability with Siemens Energy 
+medium-sized gas turbines using third 
+generation DLE (Dry Low Emission) 
+burners. While the utility facility plans to 
+switch to green fuels in its SGT-800 gas 
+turbines, it continues to collaborate with 
+Siemens Energy to achieve this. 
+BECOMING A FOSSIL-FREE CITY
+The successful tests in Gothenburg were 
+of course good news for Stockholm 
+Exergi, who provide heating, cooling, 
+and electricity to the Stockholm area, 
+and recently invested in an SGT-800 gas 
+turbine as a backup application that will 
+run on liquid biodiesel starting in 2025. 
+This move will help the company reach its 
+target of becoming climate-positive in its 
+operations as well as be able to contribute 
+to Stockholm’s goal of 
+becoming a 
+The validation of 
+biodiesel (HVO-100) 
+at the Rya CHP plant in Sweden 
+has proven its suitability with Siemens 
+Energy medium-sized gas turbines using 
+third generation DLE (Dry Low Emission) 
+burners. The facility plans to switch to green 
+fuels in its SGT-800 gas turbines, and will work 
+with Siemens Energy to achieve this. Biofuels are showing that they have 
+real potential in addressing the energy 
+challenges that Europe and the world are 
+facing today. The European energy market 
+has proven sensitive to geopolitical events 
+and unexpected cold snaps. Both can 
+result in skyrocketing electricity prices and 
+increased coal-fired power used to plug the 
+supply gap, thereby causing more pollution 
+and adverse environmental impact. 
+FLEXIBLE BACKUP AND PEAKING 
+POWER WILL BE VITAL
+Currently, Europe has ambitious renewable 
+energy targets for addressing these 
+challenges, but most are set for the end of 
+the decade and require rapidly scaling up 
+projects and grid upgrades, which have long 
+lead-in times. Therefore, as these projects 
+come online, flexible backup and peaking 
+power will be vital for grid balancing to 
+avoid blackouts and ensure electricity 
+supply. Green biofuels can provide this 
+while transitioning away from 
+natural gas, diesel, and coal-
+powered generation.
+Biofuels, such as 
+HVO, can cut 
+greenhouse gas 
+emissions 
+by up to 
+27 DIESEL & GAS TURBINE WORLDWIDE      APRIL-JUNE 2022
+28 APRIL -JUNE 2022     DIESEL & GAS TURBINE WORLDWIDE      BIOFUELS
+fossil-free city.
+To ensure electricity for the entire city, 
+the plant requires fast-starting dispatchable 
+power with black-start capability. The new 
+SGT-800 simple cycle gas turbine plant on 
+biodiesel can provide this with a low carbon 
+footprint. Stockholm Exergi’s investment 
+gives credence to biofuels having real 
+potential for supporting the ongoing energy 
+transition for power generation. 
+THIRD GENERATION DLE BURNER 
+DEVELOPMENT
+“Green Biofuels are an important part 
+of our gas turbine R&D roadmap. We 
+are continuously developing our third 
+generation DLE burners for wider fuel 
+flexibility, and our gas turbines can already 
+operate today on renewable fuels, such 
+as biogas and up to 75% hydrogen. We 
+have now shown the possibilities of also 
+using liquid biofuels, providing increasing 
+flexibility for our customers” , says Hans 
+Holmström, Vice President of the Industrial 
+Gas Turbine business at Siemens Energy.
+Siemens Energy is deploying 
+innovative technologies, such as Additive 
+Manufacturing (3D printing), to develop 
+this next generation of flexible burners with 
+greater speed and optimization.  Additive 
+manufacturing enables advanced burner 
+designs with optimized functionality to 
+handle different green fuels.
+BIOFUELS CAN BRIDGE THE GAP
+Siemens Energy is planning further fuel 
+flexibility testing of both existing and newly developed burners going forward. The 
+aim is to offer several alternatives soon for 
+operating their turbines on 100% renewable 
+fuels, including hydrogen and green 
+biofuels. 
+At the same time, given Europe’s 
+ambitious targets for the scale-up of 
+hydrogen, one might ask why not focus 
+only on hydrogen as an alternative to 
+natural gas? Why do we also need green 
+biofuels? Without a doubt, building 
+the necessary infrastructure as well as 
+expanding renewables significantly needed 
+for hydrogen production will take time. 
+Biofuels, on the other hand, can add to the 
+diversity of fuel supply much sooner and 
+require less storage capacity than hydrogen 
+due to their lower volumes. While hydrogen 
+is undoubtedly set to be a dominant fuel 
+of the future, biofuels can bridge the gap 
+in the medium to short term as well as be 
+a complementary fuel to hydrogen in the 
+longer term. SOLUTIONS TO BIOFUEL CHALLENGES
+Biofuels are already available today and the 
+IEA forecasts demand to grow by nearly 
+1.5 million barrels of oil equivalent per day. 
+Fortunately, with emerging technologies, 
+the fuel has robust scale-up potential. 
+For example, biomass gasification can be 
+used to produce both gaseous and liquid 
+biofuels from forest and agriculture waste. 
+Though much of this waste isn’t suitable for 
+conventional biomass-fired power plants, 
+it still can be efficiently used to produce 
+advanced biofuels at scale and is ultimately 
+more sustainable and significantly cost-
+efficient. 
+SUSTAINABLE FORESTRY SUPPORTS 
+CO2 REDUCTION
+While biofuels still produce emissions 
+when generating electricity and heat, they 
+can come from a closed-loop renewable 
+feedstock cycle. This requires growing as 
+much biomass as is being harvested. But 
+how they’re derived is also important. 
+EU taxonomy states that fuels produced 
+from sustainable production, which 
+are not obtained from land having high 
+biodiversity or carbon stock and can 
+provide more than 80% GHG saving, are 
+considered sustainable. 
+The most optimal solution is using 
+waste from agriculture and forestry for 
+fuel production. Sustainable forestry, 
+such as using timber as construction 
+wood and forestry waste as an energy 
+feedstock, can create negative CO2 release 
+as well as displace other CO2-emitting 
+materials, such as steel and concrete. This 
+sustainability edge under current and 
+upcoming EU taxonomy can help secure 
+      BIOFUEL GROWTH
+According to the International Energy Agency (IEA) predictions, annual global demand for biofuels is 
+set to grow by 28% by 2026, reaching 186 billion liters. The United States leads in volume increases, 
+but much of this growth is a rebound from the drop caused by the pandemic. Asia accounts for 
+almost 30% of new production over the forecast period, overtaking European biofuel production 
+by 2026. This is thanks to strong domestic policies, growing liquid fuel demand and export-driven 
+production. Recent Indian ethanol policies and blending targets for biodiesel in Indonesia and 
+Malaysia are responsible for most of the growth in Asia. India is set to become the third largest 
+market for ethanol demand worldwide by 2026.
+Between 2010 and 2019, global biofuel consumption expanded 5% on average per year, according 
+to the IEA Although achieving the Net Zero Scenario’s 14% average annual growth between 2021 
+and 2030 will require considerably stronger policies, similar expansion has been achieved in some 
+countries and regions in the past. In fact, Europe, North America and several countries in Asia are 
+considering or implementing policies that could accelerate biofuel demand.
+BIOFUELS
+financing for projects utilizing it. 
+As with hydrogen, biofuels face 
+competition for supply, largely from the 
+transport sector, and to a lesser extent, 
+for product manufacturing. Therefore, 
+it’s important to develop gas turbine 
+capabilities, so that many different fuels 
+can be used. The operational profile of a 
+gas turbine is already evolving along with 
+increasing amounts of solar and wind 
+entering the energy system. Gas turbine 
+power plants are typically located closer 
+to larger cities and can provide these 
+cities with backup power using biofuels 
+when renewable electricity supply is low 
+or during times of peak demand. Electric 
+power generation can even be varied in 
+tandem with fluctuating power prices 
+due to variable solar and wind power 
+production patterns.  
+BIOFUELS ARE DEMONSTRATING 
+THEIR VALUE
+The future lies with the flexible. CHPs, 
+which have efficiencies above 90%, can 
+utilize biogas or liquid biofuel to provide important flexibility in the electricity 
+market while also producing heat. This 
+might mean operating for slightly fewer 
+hours a year than today, at which time, 
+current biofuel availability is likely to be 
+sufficient.  
+Furthermore, by adding a thermal 
+energy storage solution to the CHP plant, 
+electricity production and heat supply 
+can be uncoupled, enabling a more agile 
+operational profile. This means that the 
+generation of electricity can be varied to 
+follow fluctuating power prices resulting 
+from variable solar and wind power 
+production patterns. 
+For district heating and cooling 
+applications, thermal storage may consist 
+of relatively simple water tanks, which 
+can provide storage system benefits to 
+the energy system at a fraction of battery 
+system costs. As it allows the CHP plant 
+to participate in supplying ancillary grid 
+services, it can deliver additional value to 
+the plant operator as well as contribute 
+to a reliable and well-functioning energy 
+system.  SETTING AN EXAMPLE FOR GREEN AND 
+FLEXIBLE POWER GENERATION
+Gas turbines can also complement  
+batteries. They can start up quickly,  
+though not as fast as batteries. However, 
+whenever the need arises, they have the 
+advantage of continuing operations for 
+far longer. In wind-dominated energy 
+systems, gas turbines are very competitive 
+in balancing renewables, since fluctuations 
+are relatively few, irregular, and longer in 
+duration.
+There is a myriad of opportunities 
+presented by biofuels for existing and 
+new power plant operators. Given the 
+expected growth in energy demand, and 
+gas supply challenges made acute by recent 
+geopolitical events, the low carbon energy 
+system of the future needs access to a wide 
+range of solutions – biofuels can be one of 
+them. Siemens Energy, along with Göteborg 
+Energi and Stockholm Exergi, will certainly 
+continue to be at the forefront of driving 
+energy transition efforts forward and 
+setting an example for green and flexible 
+power generation. ■
+ 

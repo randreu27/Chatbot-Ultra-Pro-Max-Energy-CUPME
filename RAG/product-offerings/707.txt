@@ -1,0 +1,215 @@
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 1 
+ 
+  
+  
+Signature   Manual 
+del proveedor  – 
+Firma digital  
+ 
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 2 TAB LA DE CONTEN IDO 
+ 
+1. DESCRIPCIÓN GENERAL DE LA FIRMA DIGITAL  ................................ ................................ ................................ .............  3 
+1.1. Introducción  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2. Notificación de correo electrónico  ................................ ................................ ................................ ..........................  3 
+2. FIRMA DIGITAL EN ADOBE SIGN  ................................ ................................ ................................ ................................ ........  4 
+2.1. Autenticación de doble factor  ................................ ................................ ................................ ................................ .. 4 
+2.2. Acceder al documento  ................................ ................................ ................................ ................................ ................  5 
+2.3. Revisar el documento  ................................ ................................ ................................ ................................ .................  5 
+2.4. Firmar el documento  ................................ ................................ ................................ ................................ ...................  6 
+2.4.1  Firmar usando el teclado  ................................ ................................ ................................ ................................ ....... 7 
+2.4.2  Firmar usando el ratón  ................................ ................................ ................................ ................................ ...........  7 
+2.4.3  Firmar usando una imagen  ................................ ................................ ................................ ................................ .... 8 
+2.4.4  Firmar usando un dispositivo móvil  ................................ ................................ ................................ ....................  8 
+2.5. Confirmar la firma  ................................ ................................ ................................ ................................ ........................  9 
+3. FLUJO DE TRABAJO ADICIONAL  ................................ ................................ ................................ ................................ ..... 10 
+3.1 Próximos firmantes  ................................ ................................ ................................ ................................ ...................  10 
+3.2 Acceder al contrato firmado  ................................ ................................ ................................ ................................ ... 10 
+4. MÁS INFORMACIÓN EN EL SITIO WEB COCKPIT DEL PROVEEDOR.  ................................ ................................ ...... 11 
+ 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 3 1. DESCRIPCIÓN GENERAL DE LA FIRMA DIGITAL  
+1.1. Introducción  
+En este manual aprenderá cómo firmar un contrato digitalmente con Siemens Energy a través de Adobe 
+Sign.  
+ 
+ 
+1.2. Notificación de correo electrónico  
+Tras acordar un contrato con Siemens Energy, se pondrán en contacto con usted para leer, revisar y firmar 
+el contrato . Para ello, recibirá un correo electrónico similar al que se muestra, que indicará Solicitud de 
+firma (1) en el título y que se le envía desde «Adobe Sign echosign@echosign.com»   o «Adobe Sign ado-
+besign@adobesign.com » (2) .  
+Para iniciar el proceso de firma, haga clic en el botón «Revisar y firmar»  (“Review and sign” ) (3) que se incluye 
+en el correo electrónico.  
+  
+3 1 
+2 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 4 2. FIRMA DIGITAL EN ADOBE SIGN  
+2.1. Autenticación de doble factor   
+Se abre una ventana en su navegador y se le dirige a la página específica  de Adobe Sign de Siemens Energy.  
+Puesto que los documentos están asegurados con una autenticación de doble factor, se requiere una verifi-
+cación por medio del teléfono antes de firmar el contrato . 
+Para ello, puede elegir recibir un código de verificación a  través de una llamada o de un mensaje de texto (1) y 
+confirmar haciendo clic en «Enviar código»  (“Send Code” ) (2). Recibirá el código de la manera seleccionada y 
+podrá introducirlo en el campo «Código»  (“Code”)  de la página web (3).  
+Nota: Póngase en conta cto con el comprador en caso de que el número de teléfono que se muestra no sea 
+correcto o si otro firmante debe firmar el documento para su compañía.  
+ 
+ 
+ 
+ 
+1 
+2 
+3 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 5 2.2. Acceder al documento  
+Para continuar con el proceso, acepte las Condiciones de uso y Privacidad de Adobe haciendo clic en «Con-
+tinuar»  (“Continue” ) (1), en la parte inferior de la página.  
+Ahora podrá acceder al contrato que ha de firmarse.  
+ 
+ 
+2.3. Revisar el documento  
+Pueden aparecer mensajes del autor en la esquina superior derecha (1).  Tras un corto periodo de tiempo, estos 
+desaparecerán. Sin embargo, siempre puede volver a abrirlos haciendo clic en el bocadillo que se encuentra en 
+la esquina superior derecha (2).  
+Desplácese por el d ocumento para revisarlo o realizar la firma.  
+ 
+ 
+1 
+1 2 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 6 2.4. Firmar el documento  
+Para ser dirigido al primer bloque de firma, puede hacer clic en la flecha de «Iniciar»  (“Start” ) (1), que se 
+encuentra a la derecha,  o hacer clic en «Siguiente  campo requerido»  (“Next required field” ) (2), en la esquina 
+superior derecha, y, después, hacer clic en el campo de firma marcado en amarillo  (3). 
+Como alternativa, puede desplazarse por el documento y hacer clic en los campos amarillos  (3) para abrir la 
+máscara de firma.  Estos campos se pueden firmar de cuatro maneras diferentes:  Puede escribir su nombre 
+con el teclado, firmar con el ratón, subir una imagen de su firma o usar la pantalla táctil de un dispositivo móvil.  
+ 
+ 
+  
+1 2 
+3 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 7 2.4.1  Firmar usando el teclado  
+Puede firmar el contrato simplemente escribiendo su nombre con el teclado y Adobe creará una firma para 
+usted.  Al hacer clic en  «Aplicar»  (“Apply” ) (1) aparece una vista previa que puede confirmar haciendo clic en  
+«OK».  
+ 
+ 
+2.4.2  Firmar usando el ratón  
+Firmar usando el ratón significa que hará el trazo de su firma usando su ratón.  Para firmar con el ratón, 
+mantenga presionado el botón izquierdo de su ratón y firme sobre la línea.  
+Si usa la opción de firmar con el ratón, también se le pedirá que escriba su nombre manualmente usando el 
+campo requerido (1).  
+Al hacer clic en «Aplicar»  (“Apply” ) (2) aparece una vista previa que puede confirmar haciendo clic en «OK».  
+ 
+1 
+2 1 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 8 2.4.3  Firmar usando una imagen  
+Para firmar el contrato usando una imagen, haga clic en «Seleccionar imagen»  (“Select image” ) (1). Esto le 
+llevará al explorador de archivos, donde podrá seleccionar la imagen de su firma.  
+Nota  Asegúrese de seleccionar una imagen de su firma que sea de alta cal idad y que tenga un fondo blanco o 
+transparente.  
+Si usa la opción de firmar subiendo una imagen, también se le pedirá que escriba su nombre manualmente 
+usando el campo requerido (2).  
+Al hacer clic en «Aplicar»  (“Apply” ) (3) aparece una vista previa que pue de confirmar haciendo clic en «OK».   
+ 
+ 
+2.4.4  Firmar usando un dispositivo móvil  
+Para firmar usando un dispositivo móvil es necesario contar con un smartphone y un número de teléfono.  Para 
+iniciar el proceso de firma con el móvil, escriba su número de teléfono en el campo correspondiente  (1) y 
+seleccione el prefijo del país en el menú desplegable (2).  Haga clic en «Enviar»  (“Send” ) (3) para continuar.  Siga 
+las instrucciones adicionales para el proceso de firma.  
+3 1 
+2 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 9  
+2.5. Confirmar la firma  
+Una vez que haya rellenado y firmado los campos requeridos, aparecerá el mensaje «Campos requeridos 
+completados»   (“Required fields completed” ) en la esquina superior derecha (1) y el botón «Hacer clic para 
+firmar»  (“Click to Sign” ) (2) en la parte inferior.  Podrá realizar cambios en las firmas en cualquier momento antes 
+de enviar el contrato firmado haciendo clic en el botón «Hacer clic para firmar»  (“Click to Sign” ). 
+Confirme su firma  y, por consiguiente, acepte el Acuerdo de información al consumidor de Siemens Energy 
+haciendo clic en el botón «Hacer clic para firmar»  (“Click to Sign” ). 
+Entonces, habrá firmado el contrato de manera correcta.  
+ 
+ 
+ 
+1 
+2 1 2 3 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 10 3. FLUJO DE TRABAJO ADICIONAL  
+3.1 Próximos firmantes  
+En el resumen  se indican los pasos que se deben completar si otra parte tiene que firmar el contrato.  
+También tiene la opción de descargar el contrato firmado directamente desde la página de resumen. Para ello, 
+haga clic en «descargar una copia»  (“download a copy” ) (1). La descarga del documento PDF se iniciará automát-
+icamente. Tenga en cuenta que la firma del comprador puede que todavía no esté visible durante esta etapa.  
+ 
+ 
+3.2 Acceder al contrato firmado  
+Una vez que todas las partes hayan firmado el contrato, recibirá otra notificación de correo electrónico por 
+parte de Adobe Sign  con el contrato final firmado por todas las partes.  
+ 
+  
+1 
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 11 4. MÁS INFORMACIÓN EN EL SITIO WEB COCKPIT DEL PROVEEDOR  
+En caso de que tenga más preguntas, vaya al sitio web Co ckpit del proveedor de Siemens Energy , donde 
+también obtendrá información sobre las posibilidades de soporte. Puede acceder a la página haciendo clic en 
+este Enlace .  
+ 
+  
+  
+
+Manual del proveedor – Firma digital  
+ 
+siemens -energy.com  © 202 3 Siemens Energy  Page 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 M unich   
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+February 2023   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in t he event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 202 3 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

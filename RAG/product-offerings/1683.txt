@@ -1,0 +1,132 @@
+ © 202 3 Siemens Energy  Page  1 
+Introduction  
+Cyber threats are increasing with serious consequences for 
+companies and communities worldwide. Critical infrastruc-
+ture like power transmission systems become increasingly 
+the focus.  
+Information technology (IT) systems are the foundation of 
+all of today’s critical processes in most companies. This 
+leads to significantly increased risks of being attacked by 
+hackers or viruses. There can be serious consequences if 
+these attacks result in  data loss, the theft of confidential 
+data, or even a complete system failure.  
+At the time of installation, the system has by design a high 
+level of security. Yet cyber security is not a onetime task.  
+It is an ongoing endeavor during the complete systems 
+lifetime  to constantly fight new cyber threats and 
+continuously keep the system security on a high level.  
+Features  
+Siemens Energy has developed a comprehensive cyber 
+security service portfolio for HVDC and FACTS to support 
+customers.  
+1. Identify cyber vulnerabilities  
+• Software Inventory Assessment: The basis for any effective 
+cyber security activities is to know the installed software  
+• Following a threat and risk analysis the penetration test 
+(‘friendly hacking’) helps to reveal security weaknesses 
+from a simulated hacker perspective  2. Protect your systems  
+• The “technical requirement check” comprises many tech-
+nical security aspects including system hardening, de-
+fense -in-depth, malicious code prevention (anti -virus 
+software), secure event monitoring & central logging, 
+system access control & account management , remote 
+access, backup & recovery, and further topics  
+• Security Patch Management: Identifying, tracking, test-
+ing, and implementing a security patch management 
+program  
+• System upgrade: When software reaches end of lifetime  
+3. Respond to cyber incidents  
+• Cybercrime hotline with support from cyber experts 
+when cyber incidents happen  
+4. Consulting and training  
+• Consulting for implementation of international cyber se-
+curity standards  
+• Cyber security awareness trainings  
+Benefits  
+The cyber security services for HVDC & FACTS support 
+system operators in their effort of professionally managing 
+security vulnerabilities and keeping their systems 
+continuously on a high security level.   
+  
+siemens -energy.com /cyber -securit y-service  Cyber Security for   
+HVDC & FACTS  
+Cyber Security Services  
+
+ © 202 3 Siemens Energy  Page  2 Security Patch Management  
+A security patch is a piece of software designed to resolve 
+security vulnerabilities in systems. Security patches may be 
+released during the complete lifecycle of the software.  
+It is important for system operators to know about existing 
+security vulnerabilities and patches in order to evaluate and 
+mitigate the associated security risks. Testing and installing 
+security patches is an important element in closing existing 
+security v ulnerabilities. Security patch management is es-
+sential for effective cyber security.  
+Scope of delivery  
+The Security Patch Management service is built up in three 
+levels and helps the customer to keep the software secure:  
+• Bronze   
+Monthly newsletter on available security patches rele-
+vant for customers’ systems; information only, no testing  
+• Silver  
+Testing of security patches - on the Siemens Energy 
+generic testbed and/ or on a customer specific replica  
+• Gold  
+Installation of tested security patches on site of the 
+operational system during scheduled outages  
+The three levels build up on each other. The silver level in-
+cludes the bronze level service. Gold includes both silver 
+and bronze levels.  Technical details of testing  
+According to international standards and best practices, 
+security patches should be evaluated and tested in a test 
+environment before installation on the operational system.  
+Siemens Energy has developed a generic HVDC and FACTS 
+baseline testbed which is used for testing of security 
+patches. The testbed provides an efficient way of testing 
+the software compatibility. Customers will be regularly in-
+formed about the testing result s. 
+While the generic testbed comprises typical baseline sys-
+tem configurations, the generic testbed setup does not in-
+clude all customer specific system configurations. Custom-
+ers interested in having tests performed on an exact system 
+environment need a custome r specific replica. A replica is a 
+copy of the operational HVDC/FACTS system components. 
+Siemens Energy then performs the tests on the customer 
+specific replica. If the replica is located at the customer’s 
+premises it can also be used by the customer for a dditional 
+purposes like trainings and system operation simulations.   Security Patch Management  
+Keep your system updated and protected  
+Cyber Security Service Portfolio for HVDC and FACTS  
+
+ © 202 3 Siemens Energy  Page  3 
+ 
+End of lifetime of software  
+After the end of lifetime  of the software typically no secu-
+rity patches are issued by the software vendor. In that case 
+a system modification or upgrade to a current software ver-
+sion should be considered to be able to continuously en-
+sure the security of the system.  
+ISO27001 Certification  
+ISO27001 is a leading international standard for infor-
+mation security management systems. Siemens Energy 
+Transmission Lifecycle Services in Erlangen, Germany has 
+received the ISO27001 certification since 2017.  
+ 
+Published by © 202 3 Siemens Energy  
+Grid Technologies Service  
+Humboldtstr. 64  
+90459 Nuremberg, Germany  
+Customer Support Center  
+Phone: +49 911 6505 6505  
+E-Mail: support@siemens -energy.com  
+For more information, please visit our website:  
+siemens -energy.com/ gt-services  
+“Subject to changes and errors. The information given in this docu-
+ment only contains general descriptions and/or performance features 
+which may not always specifically reflect those described, or which 
+may undergo modification in the course of further deve lopment of the 
+pro-ducts. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract.”  
+   
+Siemens Energy is a trademark licensed by Siemens AG.    
+   

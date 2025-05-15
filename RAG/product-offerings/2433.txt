@@ -1,0 +1,75 @@
+
+EMISSIONS 
+RETROFIT OPTIONS 
+EPA's 1Good Neighbor' ruling 
+stoichiometric conditions. This excess of air 
+creates a lean mixture which can improve 
+fuel efficiency and reduce carbon dioxide  
+(CO2) emissions. However, the lean­burn 
+combustion process is associated with 
+challenges related to NOx emissions  
+reduction. 
+Lean-burn engines tend to operate 
+at lower combustion temperatures. The 
+excess air makes it difficult to ignite the 
+mixture, which can lead to combustion  
+instability. Technologies, such as 
+precombustion chambers or advanced  ignition systems are often needed to 
+ensure stable combustion in lean-burn 
+engines. Depending on the engine. these 
+can contribute to NOx emission levels.  
+Rich-burn gas engines operate with a 
+lower air-fuel ratio and are typically used 
+in applications where power output and 
+combustion stability are critical. Rich­
+burn engines generally operate at higher 
+combustion temperatures compared  
+to lean-burn engines. This can result in 
+increased thermal NOx formation.       Rich-burn engines may experience 
+incomplete combustion, leading to the 
+emission of unburned hydrocarbons and 
+carbon monoxide (CO). . 
+To address NOx emissions in rich-burn 
+gas engines, combustion optimization and 
+exhaust aftertreatment technologies. such 
+as three-way catalysts are often utilized. 
+LEC options for lean-burn engines 
+Siemens Energy offers two basic hardware 
+packages for its legacy 2-stroke and 
+4-stroke lean-burn engines. They are:
+1.2-stroke lean Bum (target NOx target 
+level:3.0
+grams)-A pplicable engines
+include Clark (TCV, TLC, HBA, HRA, HBAT) and
+Worthington (UTC. sure. ML, MLV)
+2. 4-Stroke Lean Bum (target NOx target 
+level: 1.5 gr
+ams) -Applicable engines
+include Ing ersoll-Rand (KVS, KVR. KVT. KVSE,
+SVS) 
+and Worthington (SLC)
+Incorporating LEC conversion hardware 
+essentially results in an engine that closely 
+duplicates a Dresser-Rand (D-R) production 
+low NOx integral gas engine. 
+At the heart of each LEC conversion is 
+a water-cooled screw-in precombustion 
+(SIP) chamber. The SIP is installed in 
+existing 
+power cylinder heads and prevents 
+combustion issues and cylinder peak firing 
+pressure balancing complications. 
+The major difference between 3-gram 
+and 1.5-gram conversion packages relates 
+to the different turbocharger combustion 
+air systems and fuel injection modifications 
+necessary for incremental increases in 
+engine air-fuel ratio. 
+Port-4 fuel injection technology may be 
+required for the 4-Stroke 1.5-gram solution 
+to enable enhanced air-fuel mixing. The 
+Port-4 injection system is electronically 
+controlled and eliminates many of the 
+characteristic problems of direct-injected, 
+MAY 20241 COMPIIESSOR TECH2 I 25»
+

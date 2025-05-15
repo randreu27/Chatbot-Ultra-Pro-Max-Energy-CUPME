@@ -1,0 +1,299 @@
+DUP Instruction
+Supplier Manual
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+1 General 3
+1.1 Objective 3  
+1.2 Scope ofApplication 3
+1.3 Abbreviations 3
+1.4 Major changes compared tolast revision 3
+1.5 Process Roles & Responsibilities 3
+2 Supplier Document Requirements 4
+2.1 Concerned documents 4
+2.1.1 Allowed filetypes 4
+2.2 Quality ofsubmitted documents 5
+2.2.1 Front size 5
+2.2.2 Paper size 6
+2.2.3 Language 6 
+3 Process forhandling Supplier Documents with Siemens 7
+3.1 Document status 8
+3.2 Turn around time 8
+4 DUP -Submittal Method 9
+4.1 First time registration at Siemens DUP 9 
+4.2 Login totheDUP 9
+4.3 DUP User Interface 11
+4.4 Statusses in theDUP 13
+4.5 Upload documents totheDUP 14
+4.6 Multi registration 15
+4.7 Wild card 16
+4.8 Download documents from theDUP 17
+5 Notifications toSupplier from theDUP 18
+6 Help 19
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+1 General
+1.1 Objecitve
+This guideline provides documentation requirements for Siemens suppliers. If these requirements are not followed, the documen ts will be rejected 
+and need to be corrected and re -submitted.
+1.2 Scope ofApplication
+This guideline applies to all documents for equipment delivered by suppliers to Siemens -Energy using the Document Upload Portal (DUP).
+1.3 Abbreviations
+1.4 Major changes compared to last revision (valid from 21 May 21)
+-Multi registration ofdocuments (page 15)
+-Wild card document category (page 16)
+-Notification document category specific (page 18)
+1.5 Process Roles & Responsibilities
+Siemens -Energy –Grant access to DUP for supplier
+Siemens -Energy –Makes documents available in DUP for upload
+Supplier –Creates and sends documents to Siemens -Energy using the DUP
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+2 Supplier Document Requirements
+Supplier documents shall be submitted to Siemens -Energy in accordance with the requirements described below. 
+2.1Concerned documents
+All SDRL (supplier document requirement list ) documents.
+All quality documents according to the  IP (inspection plan).
+2.1.1 Allowed file types
+File formats that allowed to be uploaded in the DUP:
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+2.2 Quality of submitted documents
+Documents shall be of sufficient quality to allow immediate and accurate use, without any need for interpretation due to poss ible illegibility. Any illegible 
+or indecipherable drawing or document will be systematically returned to Suppliers who shall in no case allege documents bein g returned as a reason 
+for any delay affecting delivery.
+It is mandatory for copies to be of the highest quality, so as to avoid prints/copies of poor quality.
+• The content of the document must be searchable
+• Document has to contain bookmarks for chapters, sub -chapters and where appropriate bookmarks for further themes. For the reader it has to be 
+easy to navigate through the document.
+• All pages shall be rotated in the proper orientation for reading
+• Scanned documents have to be scanned with OCR -software to make sure machine -readable. Full -text search has to be possible also i ndexing 
+within a pdf -document. Signed original documents have to be scanned colored. Document must not be protected
+• On request Siemens -Energy reserves the right to request native files
+• Documents with multiple sheets/pages must be submitted as one file
+• Revised documents shall be submitted as a whole, not just the revised section.
+2.2.1 Font size
+Supplier Documents shall be clear and the reduction of drawings shall be legible.
+Minimum Font Size used in the Documents, Drawings and Calculations shall be 8 (eight) pt.
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+2.2.2 Paper size
+Supplier Documents shall be clear and the reduction of drawings shall be legible.
+Minimum Font Size used in the Documents, Drawings and Calculations shall be 8 (eight) pt.
+Allowed ISO -A-sizes: Allowed ANDI sizes:
+2.2.3 Language ofdocumentation
+The specification in the purchase order is leading. If there is no separate requirement, the documentation shall be prepared in English. The 
+documentation required for legal approvals shall be prepared in the language required by the authorities as well as in Englis h.A second language may 
+be requested.
+Designation  Dimensions (inch)  Dimensions (mm)  
+ANSI A  8.5 x 11  216 x 279  
+ANSI B  11 x 17  279 x 432  
+ANSI D  22 x 34  559 x 864  
+ 
+Designation  Dimensions (mm)  Dimensions of Outline (mm)  
+A4 210 x 297  190 x 277  
+A3 297 x 420  277 x 375  
+A2 420 x 594  390 x 554  
+A1 594 x 841  554 x 781  
+A0 841 x 1189  791 x 1119  
+ 
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+3 Process for handling Supplier Documents with Siemens Energy
+Supplier shall send and receive all the documentation through the Document Upload Portal. 
+Step Action Responsible
+S1 Prepare document supplier
+S2 Upload document supplier
+S3 Receive document. Siemens Energy
+S4 If document is for information, Siemens will retain Siemens Energy 
+document for information. No follow -up action is required.
+If document is for approval, Siemens will review the document 
+and send back to supplier. 
+S5 Send document back to supplier Siemens Energy 
+S6 Receive document supplier
+S7 If document is commented or rejected by Siemens, supplier 
+shall update the document and send back to Siemens. supplier
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+3.1 Document status
+Every document has a status and a category. By assigning a status to a document it will determine the follow up action for Si emens Energy or supplier.
+The following document statuses are being used for documents to Siemens:
+For Information:
+Document with category “engineering document for information” shall be send for information only. Siemens Energy will retain this document for 
+information only and it shall not be send back with comments.
+For Approval:
+Document with category “engineering document for approval” shall be send for approval. Siemens Energy shall review the docume ntand, if necessary, 
+give comments on the content of the document. If not approved the supplier shall make a new revision of this document incorpora ting the comments and 
+submit the new revision for review.
+Response from siemens after receiving documents for approval :
+3.2 Turn around time
+Documents with category “engineering document for approval” that are received for approval have a standard turn around time o f 10 businees days. 
+After receiving a document that is submitted for approval, Siemens must return the document with the status that it is “appro ved”, “commeted ” or is 
+“rejectred ”. If the document has comments or is rejected, the supplier has a total of 10 business days to incorporate the comments and resubmit the 
+updated document.
+Siemens response  Supplier action  
+Approved  Production may proceed.  No further action needed.  
+Approved with Comments  Production may proceed according to comments. Resubmit revised document.  
+Rejected  Production shall not proceed. Resubmit revised document.  
+ 
+© Siemens Energy, 2021 Siemens Energy is a registered trademark licensed by Siemens AG.
+4 DUP -Submittal Method
+4.1 First time registration at Siemens DUP
+If you are requested to use the Siemens DUP for document exchange, please send us the following information:
+• your e -mail addresses that will be used for registration (company e -mail addresses only!) 
+• at minimum one Siemens PO number
+Please send this information to your purchasing contact 
+The Siemens administration team will verify your request. After successful assignment of e -mail addresses to the supplier ID, y ou will receive a 
+confirmation e -mail.
+.
+4.2 Login to the DUP
+First time registration at Siemens DUP:
+After you received the first confirmation from Siemens Energy
+access the DUP login page by using the following URL: 
+https://dup.apps.prd.cf.siemens -energy.cloud/
+You can change the 
+language of the 
+application by clicking 
+on the earth icon in the 
+upper right corner.
+ It is mandatory to use Google Chrome or Firefix for the DUP  
+Any other browser is not supported.  
+ 
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Click on “Log In”
+Go to the “Sign Up” tab.
+Please keep in mind that there is no password 
+assigned to you yet.
+• Enter your email address.
+• Type in a password. The password must have the following conditions:
+oAt least 8 characters in length. 
+oContain at least 3 of the following 4 tyes of characters
+oLower case letters (a -z)
+oUpper case letters (A -Z)
+oNumbers (0 -9)
+oSpecial characters (e.g. !@#$%^&*)
+• Add your name
+agree to the terms & conditions and click on “sign up”.
+You will directly receive a notification followed by a verification email. 
+In the verification email you have to confirm your account by clicking the button 
+“Confirm my account”
+.
+In your browser you will receive the final confirmation of your email & account
+You can now continue to login
+Now you have to change to the Log In tab in your browser
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.3 DUP User Interface
+On the start page (landing page) of the DUP you can see all the requested documents by Siemens Energy for all the purchase 
+orders that are assigned to your account. 
+In the header of the page you can filter documents based on Vendor ID, Purchase Order or Purchase order Item.
+Below the header you will find all the documents that are assigned to your account and need to be send to siemens. 
+By entering a specific PO, you can see all the requested or provided documents and not only the urgent documents. Here you ha ve the 
+possibility to upload additional documents that have not been listed on the main page. By adding a PO item the list can be re duced to the 
+documents linked to one item.
+Column  Description  
+Purchase Order  Siemens Purchase order number  
+PO Item  Item within the purchase order  
+ 
+ The order of sho wing the documents is based on the urgency. Overdue documents are listed first and than 
+the documents that are due within  the next 2 weeks.  
+ 
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+Column Description
+Upload Document Column where the requested document can be uploaded
+➔ click here for more info
+Supplier document 
+number
+SE document 
+numberSupplier document number can be added. Must be added if the same 
+document should be used for several document requests 8multi 
+registration)
+Siemens Energy document number
+Document Name Siemens Energy document name
+Purchase Order Siemens Energy Purchase Order number
+PO Item Purchase Order Item number
+Category Type of document (Quality or Engineerng doument)
+Due Date Document Agreed due date for sending document to Siemens Energy
+Version Version letter or number of the document
+Additional Info Comments to Siemens or to supplier. 
+Last Upload Date when document is sent back from Siemens Energy to Supplier
+Changed By Siemens Energy user that sent the document back to supplier
+Status Status of the document
+➔ click here for more info
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.4 Statuses in the DUP
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.5 Upload documents totheDUP
+You can upload documents directly in the list of urgent documents. Type in the PO number for showing non urgent documents if needed.
+Based on thebackbone system youmight be limited to upload only one file per document line. Several files can only be uploaded by compiling them in 
+a unique .zip file. In this case, please compile all documents from the PO Item to ONE pdf file (Index + content)!
+If the backbone system allows multiple files, make sure you select all documents at the same time.
+Click ion the upload icon then select the file(s) from your hard drive to upload.
+You can also drag & drop the file(s) on 
+the upload button.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+During upload a progress bar is shown in the upload icon.
+Max. file size: 800 MB
+When the upload is finished a success message is shown.
+You can enter a comment that will be linked to the document and displayed after upload. 
+This message will also be forwarded to the document responsible within Siemens.
+An error message is displayed in case there is a virus or malware detected in the file or 
+the upload portal has a technical problem.
+4.6 Multi registration (not possible fordocuments with category „Engineering document “)
+Ifa document isvalid formore then onedocument request youcanperform a multi
+registration and link thesame document todifferent purchase orders oritems . Todo so type 
+in your supplier document number before uploading thedocument thefirsttime. Instead of
+uploading thedocument tothenext purchase order , just type in thesupplier document
+number and press EnterYou can upload a new version of a document as long as its status is not 
+“Approved”.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+The DUP will check whether this document number is known to the system and a pop up 
+window will appear. You can confirm this action by pressing “OK” or by Enter. If you want to 
+upload a new document, but the number is already assigned to another document you need to 
+change the number! 
+Youwill receive a popupforthesuccessfull registration
+4.7 Wild card function
+Ifyouselect a single purchase order item, youcanupload new
+unrequested documents . Youneed toselect a document category
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+4.8 Download documents from theDUP
+Documents that are send back to the supplier can be downloaded by clicking on the 
+red link under the document name.
+
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+5 Notifications toSupplier from theDUP
+The DUP portal will send emails to inform the supplier contact(s) about document due dates and change of the status. If sever al contact emails exist there is a 
+possibility to send notifications document category specific. Which means e.g. one contact gets the notifications for quality documents another contact the 
+notifications for ECC documents. Please contact your Siemens -Energy contact and specify the document category –email combinatio n(s).
+The email from the portal contains:
+• name of the requested documents, 
+• PO number & item, 
+• document due date
+• link to the portal.
+5.1 Upcoming & overdue Documents (weekly mail)
+An email is sent weekly to the supplier with a list of documents that are overdue and due within the next 2 weeks. 
+5.2 Overdue Documents (daily mail)
+For overdue documents, an email is sent to the supplier each working day.
+5.3 Commented and Rejected Documents
+For documents where the status is changed to commented or rejected, an email is sent to the supplier once the status change o ccurs. 
+5.4 Approved Documents
+For engineering documents where the status is changed from “Waiting for Siemens response” to approved, an email is sent to th e supplier once the change 
+occurs.
+© Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+6 Help
+• No access to DUP “This page can’t be displayed”: 
+o Please use the Chrome Browser or Firefox. 
+o In case your local IT has prohibited page access you need to contact your local IT to get access trough your firewall
+• I forgot my password: 
+At the "Log in" tab you will find the "Forgot password?" button. Follow the instructions.
+• Login not possible:
+You need to login with the same email that was transmitted to Siemens for login
+• Uploading error:
+o If you are logged in for a while without action press F5 for a refresh. You might be asked to login again. After logging in a gain the upload should 
+be possible.
+o If you try to upload from a different file share and get problems, first try to upload from your local desktop. Your IT might not support drag & drop 
+from external file shares
+Further information
+If you need further assistance, please contact your local purchaser

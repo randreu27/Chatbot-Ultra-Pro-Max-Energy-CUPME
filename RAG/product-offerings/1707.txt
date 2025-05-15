@@ -1,0 +1,283 @@
+Siemens Energy is a trademark licensed by Siemens AG.
+First EU Innovation 
+Conference
+Workshop -Latest innovations in Grid Technologies
+March 26, 2025, Innovation Center Berlin
+Simona Rossetti, alexander Rentschler 
+2025 -03-26
+Agenda
+1 2
+GT innovation challenges​ 
+~30 min
+•Main challenges (TSO/DSO level) ​
+•Boundary conditions of our customers 
+for innovation
+•SE GT innovation areas​DC grids 
+~30 min
+•​Market challenges​
+•Innovation partnership across 
+continents​
+•Innovation: key parameters DC 
+breakers​
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-262
+Resilience & reliability are essential for future transmission 
+grids in a changing environment, with a focus on… 
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26Renewable Integration
+Ramp -up Off -shore Grid Access
+Next: “Floating solutions”  
+Connection & Transport infrastructure 
+Large scale storageWind -on x 7 
+-off x 2,5 “2035” Solar x 4,5 “2035 ”Sustainability 
+F-Gas substitution in switchgears 
+Lower carbon footprint 
+Increased efficiencyDemand Growth 
+CO2
+Distribution 5 x Transmission
+Giga -Scale Data Centre 
+Add-on industry E -consumers
+E-Car / -Truck Infrastructure 
+Digitalization Sensors →Data Platforms →Data Analytics & AI →for 
+Decisions / Control / Protection / Sustainability / Stability 
+3
+At vero eos
+lorem accusam“Grids! The bedrock of the energy transition”
+Digital Substations
+Sensors, bus systems & 
+new instrument transformers Alternative Energy Systems 
+Grid connection for renewables 
+Sector coupled energy systems (HV+H2) 
+DC →enabling green micro grids
+Disruptive Technologies 
+new technologies & materials High Energy Density Infrastructure 
+Serve the high demands of                                
+E-Mobility, Data Centers, PV…Data -management  
+Connect and exchange the information between 
+low-,medium -, high -voltage level 
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025
+4
+Agenda
+2 1
+GT innovation challenges​ 
+~30 min
+•Main challenges (TSO/DSO level) ​
+•Boundary conditions of our customers 
+for innovation
+•SE GT innovation areas​DC grids 
+~30 min
+•​Market challenges​
+•Innovation partnership across 
+continents​
+•Innovation: key parameters DC 
+breakers​
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-265
+Future HVDC girds
+•Redundancy and Reliability
+•Reducing conversion losses
+•Reducing the land use
+6
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+DC Grid acc. Grid Development Plan 
+NEP 2037/2045
+DCSSDCSS
+DCSSNüttermoor / 
+DörpenSahmsAlfstedt
+TrennfeldStreumenKlostermannsfeld
+Obrigheim
+BöblingenHannover•Today mainly P2P Systems are built
+•New proposal of German GDP (Grid Development 
+Plan / NEP -Netzentwicklungsplan ) includes 
+possibility for  wide -spread DC grid across 
+Germany
+•A total of  up to 13 Converter Stations and 4 DCSS 
+should be built and interconnectedDCSS
+Salzgitter
+2025 -03-267
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025
+Siemens Energy & Mitsubishi Electric to collaborate in a joint
+development of DC Switching Stations
+Separate 
+go to market
+DCCB DCCB Common DCSS 
+conceptJoint 
+development 
+scopeIndependent 
+development
+SE & MELCO to drive multi -
+vendor -ready MTDC :
+•SE and MELCO to independently 
+develop complementary DCCB 
+solutions to flexibly react to market 
+requirements
+•Scope for joint development is DCCB 
+integration in a common DCSS 
+concept to be available for operation 
+in early 2030s
+•Both companies will continue to 
+manufacture, sell, and service HVDC 
+and DCSS solutions independently•Future grids to be more 
+interconnected to integrate 
+vast amounts of RES
+•MTDC readiness, flexibility & 
+reliability are key
+1)Joint Development Agreement signed on January 27th, 2024
+2) Supply Agreement signed on April 17th, 2024Future grids require new 
+grid architecture:SE & MELCO conclude 
+JDA1)and SA2)for DCSS:
+RES = renewable energy sources, MTDC = multi -terminal HVDC, DCSS = DC Switching station, 
+MT = multi -terminal, MV = multi -vendor, DCCB = DC circuit breakerMT / MV grids
+SolarWind power DC
+AC
+Converter
+StorageVARC PE
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 20258
+DCSS Timeline
+Both DCCB solutions to be type tested by 2027
+•Development Timelines are driven by 
+joint industry efforts like the German 
+4TSO Innovation Partnership
+•Detailed Requirements for Type Test of 
+Multi -Terminal and Multi -Vendor ready 
+solutions incl. DCSS and DCCB are 
+expected by 2026/2027
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 20259
+20142017202020232026
+MELCO and Scibreak
+joins Horizon 2020 
+PROMOTION project
+Tests 80 kV (3 module) 
+VARC DC -CB at KEMA 
+labs. (PROMOTioN WP10)
+VARC 1st
+commercial 
+operation project 
+Mitsubishi Electric 
+acquires Scibreak AB
+[Feb 16th, 2023]
+Mitsubishi Electric & Siemens Energy sign 
+framework supply agreement for DCSS
+[April 17th, 2024]
+ Towards a brighter 
+future…
+[R] 160/200 kV DC -CB testing at KEAM 
+lab.
+(PROMOTioN WP10)
+[L] DC relay testing (PROMOTioN WP4)
+Verification of DC current 
+interruption principle with
+72 kV with first prototype DC -CB
+80 kV DC -CB testing at KEAM 
+lab.
+(PROMOTioN WP5)Realising Multi -terminal HVDC
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 202510
+VSC Assisted Resonant Current (VARC) Circuit Breaker
+Combination of mechanical and power electronics 
+•High -speed
+•Low-loss
+•Small footprint
+TIV = Transient Interruption Voltage  VARC DCCB
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Key Parameters (tentative)
+TIV ~ 1.5 p.u.
+Rated continuous current ( Ird) 2.5 kA
+Rated short -circuit breaking current ( Iscd) ~ 12.5 kA
+Breaker Operation Time ~1.5 ms
+11
+Current Suppression Device –target values (preliminary)
+TIV = Transient Interruption Voltage  
+1 can be adjusted  based  on individual system  requirements(Potential) additional features of PE principle:
+1.Fast auto -reclosing with CSD itself
+2.Current limitation (Peak & Fault) 
+3.Enhanced arrester cooling
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Key Parameters
+Rated  TIV level 1,3 … 1,5p.u.1
+Rated continuous current ( Ird) 3,15kA
+Rated short -circuit breaking current ( Iscd) 10kA
+Breaker operation  time ≤ 0,1ms
+12
+Our response to the challenges →
+We’re making power grids ready through a leading portfolio
+Our grid technology portfolio
+•Offshore grid connections​
+•F-gas-free Blue switchgear portfolio​
+•Low loss & eco -design transformers 
+with alternative materials (e.g., 
+green steel, ester fluids)​​
+•SF6reduction through 
+modernization services​
+•Grid consulting (e.g., on 
+sustainability practices)​
+•Solutions for wind industryGrid decarbonization
+•High-voltage direct current (HVDC) –
+onshore & offshore
+•High-voltage substations –onshore & 
+offshore
+•Power transformers​
+•Renewables & traction
+•Switchgears
+•Product bundles and systems
+•Product services​, long -term service 
+concepts and grid integration
+•Industry (incl. hydrogen & mining) & 
+data centers
+•High Energy Density Infrastructure
+•HVDC Grids / DCCS
+•WTG for Grid s Grid connectivity
+•Flexible AC transmission systems​ 
+(FACTS)
+•Turnkey battery energy storage 
+solutions (grid connected and off -grid)​
+•Grid monitoring, automation & 
+protection solutions​
+•Shunt reactors & phase shifters
+•Modernization and upgrades
+•Data Collector 
+•Grid Transparency Grid resilience
+•Grid consulting
+•IoT and Edge
+•Grid automation
+•Grid Transparency
+•AI in Grids Grid digitalization
+*New Technology under development 
+2025 -03-26 Restricted © Siemens Energy, 2025 | 1stEU Innovation Conference 202513
+Challenges in HV Products and DC Grids
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26➢What are the areas of most interest to you with respect to:
+HV products
+Grid connections & stabilization
+Grid services
+Digitalization
+Innovation
+➢What are your main challenges regarding DC grids?
+➢How can we work together to address current capacity issues?
+14
+Siemens Energy is a trademark licensed by Siemens AG.Workshop Summary
+Latest innovations in Grid Technologies
+Simona Rossetti/ Alexander Rentschler 
+Overview
+The workshop, held over the course of one hour, featured insightful presentations and engaging discussions on latest innovati onsin Grid technologies. 
+Participants from various backgrounds came together to share their perspectives and expertise, creating a dynamic and collabo rative learning environment.
+Presentations
+• Simona Rossetti delivered a compelling presentation on High Voltage Products. Key points included requirements for future transmission grids in a 
+changing environment, digitalization as a mandatory element to manage the grid of the future and people as the heart of this transformation.
+• Alexander Rentschler presented on latest developments in DC Grids, MVDC applications, and aspects of decreasing rotating mass in AC grids.
+Discussions
+The presentations were followed by a discussion session where attendees engaged with the speakers through questions and comme nts. Key discussion points 
+included:
+• Effects of high switching frequency of wide -bandgap power electronics on the isolation capability of existing equipment and harm onics
+• Clear need of increasing grid capacity
+• The high quality of grid stability and availability focus social discussions on generation instead on the key importance of a high performing and reliable grid
+• Increasing need of young talents and enthuse young people to engage in electrical grid studies and career
+• Choosing of the right technology to avoid a (too) early technological lock -in scenario
+Thank you
+Latest innovations in Grid Technologies
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26Christian Schacherer
+Discipline Expert Disruptive Grid Elements
+Siemens Energy –ICB
+Phone +49 173 3930661
+E-mail christian.schacherer@siemens -energy.comSimona Rossetti
+VP Grid Technologies Sales Europe
+Siemens Energy –SE GT S EU
+Phone +49 172 5248732
+E-mail rossetti.simona@siemens -energy.comAlexander Rentschler
+FoAlead Resilient Grids & Reliability
+Siemens Energy –SE GT PRM
+Phone +49 173 3674267
+E-mail alexander.rentschler@siemens -energy.com

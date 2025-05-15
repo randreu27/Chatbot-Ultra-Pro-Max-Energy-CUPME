@@ -1,0 +1,156 @@
+                                                                                                                                            © 202 5 Siemens Energy  
+Introduction  
+Understanding the impact of DC bias on transformers  
+DC bias significantly increases noise and loss levels in trans-
+formers. This DC can originate from power electronics in the 
+grid, HVDC interconnections, renewable power generation, 
+or small direct currents caused by geomagnetic effects. Due 
+to the magnetic properties of transformer cores, even a 
+small DC bias can  lead to substantial consequences, includ-
+ing increased reactive power current requirements and 
+greater losses.  
+ 
+For example, a mere few hundred milliamperes of DC can 
+result in a notable increase in noise and no -load losses. A DC 
+level of 500 mA may cause an increase of 13 dB(A) com-
+pared to reference noise levels in a test field without DC. The 
+human ear perceives a  10 dB increase as a doubling of the 
+noise level. Additionally, DC loading can lead to an increase 
+of up to 50 percent in no -load losses.  
+ 
+Therefore, it is essential for transformer owners, operators, 
+and service personnel to detect DC bias in their transform-
+ers. The Direct Current Detector (DCD) app provides an ini-
+tial indication of whether a transformer is affected by DC 
+bias.  
+ 
+In case  a transformer consistently shows DC bias, we 
+strongly recommend contacting our Siemens Energy Trans-
+mission Service experts for a comprehensive diagnosis and 
+tailored service recommendations.  (Link to contact form .)  
+ 
+Features   
+ 
+The Direct Current Detector (DCC) is designed to empower 
+transformer owners and operators with essential tools for early detection of DC bias. By providing a quick and easy in-
+itial assessment, the DCC enables users to identify poten-
+tial issues before they escalate, ensuring the reliability and 
+efficiency of transformer operations.  
+• Easy to use for any person at side  
+• Giving a first actual indication of DC in  the asset  
+• Freely available for Android and IOS smartphones  
+ 
+How to perform a DCD  
+measurement  
+The easy -to-use app transforms any smartphone into a DC 
+detection device and can be used by any person at the site, 
+either with or without internet connection.  Below are the 
+steps for performing a DCD measurement, presented with 
+accompanying screenshots for clarity.  
+ 
+1. Install  the DCD app  
+To begin the DCD measurement,  access  the Direct Current 
+Detector (DCD) app by opening the  link.(see also QR-code ) 
+in your smartphone browser . Once the app is open in your 
+browser, tap  or  button and the “ Add to Home 
+Screen ” button   (the exact word-
+ing may  vary depending on your browser).  This will save the 
+DCD app to your home screen for easy access,  
+allowing you to launch it directly from   
+your mobile device.     
+ 
+ 
+ 
+Direct Current  
+Detector  
+Detecting DC bias in transformer  
+ 
+ 
+siemens -energy.com/gt -service  
+
+                                                                                                                                            © 202 5 Siemens Energy  2. Read and confirm the license agreement  
+Before proceeding, please review the “End User License 
+Agreement for Free of Charge Mobile Applications” and the 
+“Additional Conditions for Free of Charge Apps.” These doc-
+uments outline the terms and conditions associated with the 
+use of the DCD app. Kindly confirm that you have read and 
+understood the agreement before continuing.  
+3. Read the safety manual before DCD measurement  
+To ensure safe operation during the DCD measurement, 
+please click on the Hamburger menu ( ☰) and select “Safety. ” 
+Please read the Safety Disclaimer carefully before approach-
+ing a transformer for DC measurement. Understanding 
+these safety guidelines is crucial for conducting the meas-
+urement safely and effectively.  
+4. Start DCD measurement  
+To begin your DCD measurement, click on “Start Your First 
+Measurement.” You will be prompted to select or enter the 
+following details: substation name, serial number, and 
+transformer name/label.  
+Next, select the microphone option, and initiate the sound 
+measurement by tapping on the microphone icon.  
+Hint:  For a high -quality initial assessment of DC effects, we 
+recommend conducting three measurements of 60 seconds 
+each. During the 60 -second recording phase, walk around 
+the transformer while keeping your smartphone at a 
+distance of 30 to 100 cm from the tran sformer.  
+To ensure accurate results, avoid ambient noise during the 
+recording, as it can negatively impact the DC assessment. 
+The app will indicate recording quality using a traffic light 
+system, and if necessary, it will provide further 
+recommendations for improving sound quality.  
+5. Review measurement results  
+While the recording is in progress, the app will display the 
+following information:  
+• Hz: This indicates the sound frequency detected 
+during the recording, representing the Hertz of the 
+transmission grid.  
+• Audio Signal:  This provides an indication of sound 
+quality , categorized as “Poor,” “Fair,” or “Good.”  
+• DC Detected/Not Detected:  This shows the result 
+of the DC assessment, indicating whether Direct 
+Current has been detected.  
+ 
+Once the recording is complete, the app will process the au-
+dio file. A clear color signal will indicate the status of DC bias 
+detection:  
+• Green :  Everything is okay; no DC bias detected.  
+• Yellow : An uncertain signal; further investigation 
+may be needed.  
+• Red:     DC bias is detected; immediate attention is 
+required.  
+ 6. Follow up if necessary  
+If the app indicates the presence of DC bias, we recommend 
+contacting Siemens Energy Transmission Service experts for 
+a thorough diagnosis and actionable service 
+recommendations.  (Link to contact form .) 
+ 
+                          
+ 
+ 
+                
+  
+ 
+                      
+1 3 
+4 
+4 5  
+ 4 
+ © 202 4 Siemens Energy  Page  3 
+ 
+Published by © 2025 Siemens Energy  
+Grid Technologies Service  
+Humboldtstr. 64  
+90459 Nuremberg, Germany  
+Customer Support Center  
+Phone: +49 911 6505 6505  
+E-Mail: support@siemens -energy.com  
+For more information, please visit our website:  
+siemens -energy.com/gt -service  
+“Subject to changes and errors. The information given in this document only contains general descrip-
+tions and/or performance features which may not always specifically reflect those described, or which 
+may undergo modification in the course of further deve lopment of the products. The requested perfor-
+mance features are binding only when they are expressly agreed upon in the concluded contract.”  
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+ 

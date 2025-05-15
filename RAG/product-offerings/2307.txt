@@ -1,0 +1,1440 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  MOS Standard Cylinder Index  
+ 
+4.75" Cylinder (HH36) 
+5.75" Cylinder (HH36) 
+6.00" Cylinder (HH48) 6.50" Cylinder (HH48) 
+7.00" Cylinder (HH48) 
+7.50" Cylinder (HH48) 8.00" Cylinder (HH60) 
+8.50" Cylinder (HH60) 
+9.00" Cylinder (HH60) 9.50" Cylinder (HH60) 
+10.50" Cylinder (HH60) 
+11.50" Cylinder (HH60) 12.25" Cylinder (HH67) 
+13.00" Cylinder (HH67) 
+14.00" Cylinder (HH67) 15.00" Cylinder (HH67) 
+16.25” Cylinder (HH67) 
+17.50" Cylinder (HH67) 19.00" Cylinder (HH75) 
+20.50" Cylinder (HH75) 
+ 
+  TO PRINT FROM THIS DOCUMENT, PLEASE PRINT BY PAGE NUMBERS 
+ONLY AS OTHERWISE, THE ENTIRE 
+DOCUMENT WILL PRINT. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  4.75 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0475 
+   Bore Size (in)  4.75  4.75  4.75    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  2500  2500  2500 
+   Maximum Allowable Working Pressure (psig)  2750  2750  2750 
+   Hydrostatic Test Pressure (psig)  4125  4125  4125    Maximum Differential Pressure (psig)  2304  2304  2292 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 30.0  47.2 24.7  39.0 21.0  33.1 
+   Swept Volume (cu. in.) 88.6  68.7 106.3  82.5 124.0  96.2 
+   Piston Displacement (cfm) at Ra ted RPM 76.9  59.7 73.8  57.3 71.8  55.7 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH36 HH36 HH36    Rated Differential Pressure (psig) 2500 2500 2500 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2721 2721 2721    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 32.4 29.1 25.7 
+   Total Reciprocating (lbs) 72.7 68.9 65.1  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)  
+      - Length (in)  
+      - Volume (cu. in.)        - Clearance % Adder OE (Closed)  
+ 
+   VVCP  
+      - Piston Diameter (in) 4.81 4.81 4.81 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 54.6 54.6 54.6  
+      - Clearance % Adder OE 4.64 3.57 3.32        - Clearance % Adder OE (Open) 61.59 51.33 43.00 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 1500 6.0 / 1500 6.0 / 1500 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  5.75 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0575 
+   Bore Size (in)  5.75  5.75  5.75    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  2341  2341  2341 
+   Maximum Allowable Working Pressure (psig)  2575  2575  2575 
+   Hydrostatic Test Pressure (psig)  3863  3863  3863    Maximum Differential Pressure (psig)  1990  1990  1990 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 20.7  29.6 17.0  24.4 14.4  20.7 
+   Swept Volume (cu. in.) 129.8  110.0 155.8  131.9 181.8  153.9 
+   Piston Displacement (cfm) at Ra ted RPM 112.7  95.4 108. 2  91.6 105.2  89.1 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH36 HH36 HH36    Rated Differential Pressure (psig) 2500 2500 2500 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2727 2727 2727    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 54.3 48.9 43.5 
+   Total Reciprocating (lbs) 94.6 88.8 82.9  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 5.81 5.81 5.81 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 79.6 79.6 79.6 
+      - Clearance % Adder OE (Closed) 4.38 3.65 3.13       - Clearance % Adder OE (Open) 61.31 51.09 43.79 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 1500 6.0 / 1500 6.0 / 1500 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  6.00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0600 
+   Bore Size (in)  6.00  6.00  6.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1750  1750  1750 
+   Maximum Allowable Working Pressure (psig)  1925  1925  1925 
+   Hydrostatic Test Pressure (psig)  2888  2890  2890    Maximum Differential Pressure (psig)  1616  1616  1616 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 29.0  39.2 24.0  32.4 20.4  27.6 
+   Swept Volume (cu. in.) 141.4  121.5 169.6  145.8 197.9  170.1 
+   Piston Displacement (cfm) at Ra ted RPM 122.7  105.5 117. 8  101.2 114.5  98.4 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH48 HH48 HH48    Rated Differential Pressure (psig) 2000 2000 2000 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2747 2747 2747    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 60.6 54.7 48.7 
+   Total Reciprocating (lbs) 100.9 94.5 88.1  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 6.06 6.06 6.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 86.6 86.6 86.6 
+      - Clearance % Adder OE (Closed) 4.54 3.79 3.25       - Clearance % Adder OE (Open) 61.26 51.05 43.75 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 1500 6.0 / 1500 6.0 / 1500 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  6.50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0650 
+   Bore Size (in)  6.50  6.50  6.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1 500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1750  1750  1750 
+   Maximum Allowable Working Pressure (psig)  1925  1925  1925 
+   Hydrostatic Test Pressure (psig)  2888  2890  2890    Maximum Differential Pressure (psig)  1587  1587  1587 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 25.2  33.2 20.8  27.4 17.6  23.3 
+   Swept Volume (cu. in.) 165.9  146.0 199.1  175.2 232.3  204.4 
+   Piston Displacement (cfm) at Ra ted RPM 144.0  126.8 138. 3  121.7 134.4  118.3 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH48 HH48 HH48    Rated Differential Pressure (psig) 2000 2000 2000 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2746 2746 2746    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 75.3 68.1 59.5 
+   Total Reciprocating (lbs) 115.6 107.9 98.9  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 6.56 6.56 6.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 101.5 101.5 101.5 
+      - Clearance % Adder OE (Closed) 4.38 3.65 3.13       - Clearance % Adder OE (Open) 61.16 50.97 43.69 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 1500 6.0 / 1500 6.0 / 1500 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  7.00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0700 
+   Bore Size (in)  7.00  7.00  7.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1714  1714  1714 
+   Maximum Allowable Working Pressure (psig)  1885  1885  1885 
+   Hydrostatic Test Pressure (psig)  2828  2828  2828    Maximum Differential Pressure (psig)  1348  1348  1348 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 22.1  28.9 18.2  23.9 15.5  20.3 
+   Swept Volume (cu. in.) 192.4  172.5 230.9  207.1 269.4  241.6 
+   Piston Displacement (cfm) at Ra ted RPM 167.0  149.8 160. 4  143.8 155.9  139.8 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH48 HH48 HH48    Rated Differential Pressure (psig) 2000 2000 2000 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2670 2670 2670    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 87.5 79.0 70.5 
+   Total Reciprocating (lbs) 127.8 118.8 109.9  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 7.06 7.06 7.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 117.52 117.52 117.52 
+      - Clearance % Adder OE (Closed) 4.23 3.52 3.02       - Clearance % Adder OE (Open) 61.08 50.90 43.63 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 900 6.0 / 900 6.0 / 900 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  7.50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0750 
+   Bore Size (in)  7.50  7.50  7.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1500  1500  1500 
+   Maximum Allowable Working Pressure (psig)  1650  1650  1650 
+   Hydrostatic Test Pressure (psig)  2475  2475  2475    Maximum Differential Pressure (psig)  1180  1180  1180 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 19.5  25.4 16.1  20.9 13.6  17.8 
+   Swept Volume (cu. in.) 220.9  201.0 265.1  241.2 309.3  281.4 
+   Piston Displacement (cfm) at Ra ted RPM 191.7  174.5 184. 1  167.5 179.0  162.9 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH48 HH48 HH8    Rated Differential Pressure (psig) 1200 1200 1200 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2677 2677 2677    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 103.4 93.5 83.6 
+   Total Reciprocating (lbs) 143.7 133.3 123.0  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 7.56 7.56 7.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 134.75 134.75 134.75 
+      - Clearance % Adder OE (Closed) 4.08 3.40 2.91        - Clearance % Adder OE (Open) 61.00 50.84 43.57 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 900 6.0 / 900 6.0 / 900 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  8.00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0800 
+   Bore Size (in)  8.00  8.00  8.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1300  1300  1300 
+   Maximum Allowable Working Pressure (psig)  1430  1430  1430 
+   Hydrostatic Test Pressure (psig)  2145  2145  2145    Maximum Differential Pressure (psig)  1044  1044  1044 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 23.7  29.4 19.6  24.3 16.6  20.7 
+   Swept Volume (cu. in.) 251.3  231.4 301.6  277.7 351.9  324.0 
+   Piston Displacement (cfm) at Ra ted RPM 218.2  200.9 209. 4  192.9 203.6  187.5 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 1300 1300 1300 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2623 2623 2623    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 120.3 109.0 97.6 
+   Total Reciprocating (lbs) 160.6 148.8 137.0  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in)8 8.06 8.06 8.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 153.16 153.16 153.16 
+      - Clearance % Adder OE (Closed) 3.97 3.31 2.84       - Clearance % Adder OE (Open) 60.94 50.78 43.53 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 900 6.0 / 900 6.0 / 900 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  8.50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0850 
+   Bore Size (in)  8.50  8.50  8.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1453  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  1045  1045  1045 
+   Maximum Allowable Working Pressure (psig)  1150  1150  1150 
+   Hydrostatic Test Pressure (psig)  1725  1725  1725    Maximum Differential Pressure (psig)  937  937  937 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 21.2  26.2 17.5  21.6 14.9  18.4 
+   Swept Volume (cu. in.) 283.7  263.8 340.5  316.6 397.2  369.4 
+   Piston Displacement (cfm) at Ra ted RPM 246.3  229.0 236. 4  219.9 229.9  213.8 
+ 
+   Piston  
+ 
+   Type 1 Piece, Solid 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 3 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 1300 1300 1300 
+   No. / Corner 1 1 1 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 2587 2587 2587    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 138.4 125.4 112.4 
+   Total Reciprocating (lbs) 178.7 165.2 151.8  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 8.56 8.56 8.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 172.75 172.75 172.75 
+      - Clearance % Adder OE (Closed) 4.22 3.52 3.01       - Clearance % Adder OE (Open) 60.89 50.74 43.49 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 6.0 / 900 6.0 / 900 6.0 / 900 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  9.00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0900 
+   Bore Size (in)  9.00  9.00  9.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  995  995  995 
+   Maximum Allowable Working Pressure (psig)  1095  1095  1095 
+   Hydrostatic Test Pressure (psig)  1643  1643  1643    Maximum Differential Pressure (psig)  832  832  832 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 33.3  40.0 27.6  33.1 23.5  28.3 
+   Swept Volume (cu. in.) 318.1  298.2 381.7  357.8 445.3  417.5 
+   Piston Displacement (cfm) at Ra ted RPM 276.1  258.9 265. 1  248.5 257.7  241.6 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+    Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 1300 1300 1300 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3235 3235 3235    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 102.0 93.4 84.9 
+   Total Reciprocating (lbs) 142.3 133.3 124.2  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 9.06 9.06 9.06 
+      - Length (Stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 193.51 193.51 193.51 
+      - Clearance % Adder OE (Closed) 0.00 0.00 0.00       - Clearance % Adder OE (Open) 60.84 50.70 43.45 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 600 8.0 / 600 8.0 / 600 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  9.50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M0950 
+   Bore Size (in)  9.50  9.50  9.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1500  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  891  891  891 
+   Maximum Allowable Working Pressure (psig)  980  980  980 
+   Hydrostatic Test Pressure (psig)  1470  1470  1470    Maximum Differential Pressure (psig)  749  749  749 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 30.2  36.6 25.0  30.3 21.3  25.8 
+   Swept Volume (cu. in.) 354.4  334.5 425.3  401.4 496.2  468.3 
+   Piston Displacement (cfm) at Ra ted RPM 307.6  290.4 295. 3  278.8 287.1  271.0 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Multi-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 1300 1300 1300 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3222 3222 3222    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 108.3 99.4 90.5 
+   Total Reciprocating (lbs) 148.6 139.2 129.8  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 9.56 9.56 9.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 215.45 215.45 215.45 
+      - Clearance % Adder OE (Closed) 0.21 0.17 0.15       - Clearance % Adder OE (Open) 60.79 50.66 43.42 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 600 8.0 / 600 8.0 / 600 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  10. 50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1050 
+   Bore Size (in)  10.50  10.50  10.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1494  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  786  786  786 
+   Maximum Allowable Working Pressure (psig)  885  885  885 
+   Hydrostatic Test Pressure (psig)  1298  1298  1298    Maximum Differential Pressure (psig)  612  612  612 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 25.2  30.4 20.8  25.2 17.7  21.5 
+   Swept Volume (cu. in.) 433.0  413.1 519.5  495.7 606.1  578.3 
+   Piston Displacement (cfm) at Ra ted RPM 374.3  357.1 360. 8  344.2 350.8  334.7 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 600 600 600 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3213 3213 3213    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 124.4 114.6 104.8 
+   Total Reciprocating (lbs) 164.7 154.4 144.2  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)     
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 10.56 10.56 10.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 262.87 262.87 262.87 
+      - Clearance % Adder OE (Closed) 0.89 0.74 0.64       - Clearance % Adder OE (Open) 60.72 50.60 43.37 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 600 8.0 / 600 8.0 / 600 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  11. 50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1150 
+   Bore Size (in)  11.50  11.50  11.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1459  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  682  682  682 
+   Maximum Allowable Working Pressure (psig)  750  750  750 
+   Hydrostatic Test Pressure (psig)  1125  1125  1125    Maximum Differential Pressure (psig)  511  511  511 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 21.6  26.0 17.9  21.5 15.2  18.3 
+   Swept Volume (cu. in.) 519.3  499.5 623.2  599.4 727.1  699.2 
+   Piston Displacement (cfm) at Ra ted RPM 450.8  433.6 432. 8  416.2 420.8  404.7 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH60 HH60 HH60    Rated Differential Pressure (psig) 600 600 600 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3156 3156 3156    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 136.3 125.6 114.9 
+   Total Reciprocating (lbs) 176.6 165.4 154.2  
+ 
+  Miscellaneous  
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 4.56 4.56 4,56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 315.00 315.00 315.00 
+      - Clearance % Adder OE (Closed) 1.36 1.13 0.97       - Clearance % Adder OE (Open) 60.65 50.54 43.42 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 600 8.0 / 600 8.0 / 600 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  12. 25 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1225 
+   Bore Size (in)  12.25  12.25  12.25    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1482  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  659  659  659 
+   Maximum Allowable Working Pressure (psig)  725  725  725 
+   Hydrostatic Test Pressure (psig)  1088  1088  1088    Maximum Differential Pressure (psig)  449  449  449 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 22.7  27.5 18.8  22.8 16.0  19.4 
+   Swept Volume (cu. in.) 589.3  569.4 707.2  683.3 825.0  797.2 
+   Piston Displacement (cfm) at Ra ted RPM 511.5  494.3 491. 1  474.5 477.4  461.3 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 1000 1000 1000 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.060 0.060 0.060  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3763 3763 3763    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 128.3 116.2 104.1 
+   Total Reciprocating (lbs) 168.6 156.0 143.5  
+ 
+  Misce  
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 12.31 12.31 12.31 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 357.19 357.19 357.19 
+      - Clearance % Adder OE (Closed) 0.91 0.76 0.65       - Clearance % Adder OE (Open) 60.61 50.51 43.30
+    
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 400 8.0 / 400 8.0 / 400 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  13. 00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1300 
+   Bore Size (in)  13.00  13.00  13.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1457  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  636  636  636 
+   Maximum Allowable Working Pressure (psig)  700  700  700 
+   Hydrostatic Test Pressure (psig)  1050  1050  1050    Maximum Differential Pressure (psig)  398  398  398 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 20.5  24.8 17.0  20.5 14.4  17.5 
+   Swept Volume (cu. in.) 663.7  643.8 796.4  772.5 929.1  901.3 
+   Piston Displacement (cfm) at Ra ted RPM 576.1  558.8 553. 1  536.5 537.7  521.6 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 400 400 400 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3739 3739 3739    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 136.8 124.0 111.2 
+   Total Reciprocating (lbs) 177.1 163.8 150.6  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Diameter (in) 13.06 13.06 13.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 402.03 402.03 402.03 
+      - Clearance % Adder OE (Closed) 1.05 0.88 0.75       - Clearance % Adder OE (Open) 60.58 50.48 43.27 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 400 8.0 / 400 8.0 / 400 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  14. 00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1400 
+   Bore Size (in)  14.00  14.00  14.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1425  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  614  614  614 
+   Maximum Allowable Working Pressure (psig)  675  675  675 
+   Hydrostatic Test Pressure (psig)  1013  1013  1013    Maximum Differential Pressure (psig)  342  342  342 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 18.1  21.7 14.9  18.0 12.7  15.3 
+   Swept Volume (cu. in.)  769.7  749.8 923.6  899.8 1077.6 1049.7 
+   Piston Displacement (cfm) at Ra ted RPM 668.1  650.9 641. 4  624.8 623.6  607.5 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 400 400 400 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3794 3794 3794    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 148.3 134.6 120.8 
+   Total Reciprocating (lbs) 188.6 174.4 160.1  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Diameter (in) 14.06 14.06 14.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 465.95 465.95 465.95 
+      - Clearance % Adder OE (Closed) 1.17 0.97 0.83       - Clearance % Adder OE (Open) 60.54 50.45 43.24 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 400 8.0 / 400 8.0 / 400 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  15. 00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1500 
+   Bore Size (in)  15.00  15.00  15.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1395  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  591  591  591 
+   Maximum Allowable Working Pressure (psig)  650  650  650 
+   Hydrostatic Test Pressure (psig)  975  975  975    Maximum Differential Pressure (psig)  298  298  298 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 16.0  19.3 13.2  16.0 11.2  13.6 
+   Swept Volume (cu. in.)  883.6  863.7 1060.3 1036.4 1237.0 1209.2 
+   Piston Displacement (cfm) at Ra ted RPM 767.0  749.7 736. 3  719.7 715.9  699.8 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 400 400 400 
+   No. / Corner 2 2 2 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 3755 3755 3755    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 159.9 145.1 130.1 
+   Total Reciprocating (lbs) 200.2 184.9 169.5  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 16.06 16.06 16.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 534.57 534.57 534.57 
+      - Clearance % Adder OE (Closed) 1.26 1.05 0.90       - Clearance % Adder OE (Open) 60.50 50.42 43.22 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 400 8.0 / 400 8.0 / 400 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  16. 25 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1625 
+   Bore Size (in)  16.25  16.25  16.25    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1444  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  505  505  505 
+   Maximum Allowable Working Pressure (psig)  555  555  555 
+   Hydrostatic Test Pressure (psig)  833  833  833    Maximum Differential Pressure (psig)  255  255  255 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 24.7  21.5 20.5  17.8 17.4  15.1 
+   Swept Volume (cu. in .) 1037.0 1017.1 1244.4 1220.5 1451.8 1423.9 
+   Piston Displacement (cfm) at Ra ted RPM 900.1  882.9 864. 1  847.6 840.1  824.0 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing 
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 400 400 400 
+   No. / Corner 3 3 3 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 4779 4779 4779    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 141.4 130.8 120.2 
+   Total Reciprocating (lbs) 181.7 170.7 159.6  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 16.31 16.31 16.31 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 626.98 626.98 626.98 
+      - Clearance % Adder OE (Closed) 0.00 0.00 0.00       - Clearance % Adder OE (Open) 60.46 50.39 43.19 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 300 8.0 / 300 8.0 / 300 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  17. 50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1750 
+   Bore Size (in)  17.50  17.50  17.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1414  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  418  418  418 
+   Maximum Allowable Working Pressure (psig)  460  460  460 
+   Hydrostatic Test Pressure (psig)  690  690  690    Maximum Differential Pressure (psig)  221  221  221 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 21.8  18.9 18.1  15.7 15.4  13.3 
+   Swept Volume (cu. in .) 1202.6 1182.8 1443.2 1419.3 1683.7 1655.9 
+   Piston Displacement (cfm) at Ra ted RPM 1044.0 1026.7 1002. 2  985.6 974.4  958.3 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing 
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH67 HH67 HH67    Rated Differential Pressure (psig) 400 400 400 
+   No. / Corner 3 3 3 
+   Standard Lift (in) 0.085 0.085 0.085  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 4685 4685 4685    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 152.5 140.7 128.9 
+   Total Reciprocating (lbs) 192.8 180.5 168.2  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 16.31 16.31 16.31 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 726.75 726.75 726.75 
+      - Clearance % Adder OE (Closed) 0.00 0.00 0.00       - Clearance % Adder OE (Open) 60.43 50.36 43.16 
+ 
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 400 8.0 / 400 8.0 / 400 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  19. 00 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M1900 
+   Bore Size (in)  19.00  19.00  19.00    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1422  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  327  327  327 
+   Maximum Allowable Working Pressure (psig)  360  360  360 
+   Hydrostatic Test Pressure (psig)  540  540  540    Maximum Differential Pressure (psig)  188  188  188 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 24.3  21.3 20.1  17.6 17.2  15.0 
+   Swept Volume (cu. in .) 1417.6 1397.8 1701.2 1677.3 1984.7 1956.9 
+   Piston Displacement (cfm) at Rated RPM 1230.6 1213.3 1181.4 1164.8 1148.6 1132.4 
+ 
+   Piston  
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing  
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH75 HH75 HH75    Rated Differential Pressure (psig) 375 375 375 
+   No. / Corner 3 3 3 
+   Standard Lift (in) 0.105 0.105 0.105  
+ 
+  Weights of Major Components  
+ 
+   Cylinder (lbs) 5256 5256 5256    Piston Rod & Crosshead Nut (lbs) 40.3 39.8 39.4 
+   Piston Assembly (lbs) 149.5 138.6 127.5 
+   Total Reciprocating (lbs) 189.8 178.4 166.9  
+ 
+  Miscellaneous  
+ 
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 19.06 19.06 19.06 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 856.19 856.19 856.19 
+      - Clearance % Adder OE (Closed) 0.00 0.00 0.00       - Clearance % Adder OE (Open) 60.40 50.33 43.14
+    
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 300 8.0 / 300 8.0 / 300 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+Cylinder Specifications:  20. 50 MOS Standard Cylinder  
+ 
+  General  5MOS  6MOS  7MOS  
+ 
+   Cylinder Pattern    HB2M2050 
+   Bore Size (in)  20.50  20.50  20.50    Rod Size (in)  2.25  2.25  2.25 
+   Stroke (in)  5.00  6.00  7.00 
+   Rated Speed (RPM)  1500  1200  1000 
+   Maximum Unloaded Speed (RPM)  1396  1200  1000 
+  
+  Cylinder  
+    Rated Discharge Pressure (psig)  240  240  240 
+   Maximum Allowable Working Pressure (psig)  265  265  265 
+   Hydrostatic Test Pressure (psig)  400  400  400    Maximum Differential Pressure (psig)  162  162  162 
+ 
+     OE  FE OE  FE OE  FE 
+   Clearance (%) 21.7  18.6 17.9  15.4 15.3  13.1 
+   Swept Volume (cu. in .) 1650.3 1630.4 1980.4 1956.5 2310.4 2282.6 
+   Piston Displacement (cfm) at Rated RPM 1432.6 1415.3 1375.3 1358.7 1337.1 1321.0 
+ 
+   Piston 
+ 
+   Type 2 Piece, Hollow 
+ 
+   Piston Rings  
+ 
+   Type Single-Piece, Combo Type    Number 2 
+ 
+   Rod Packing 
+ 
+   Design Pressure (psi) 2000    No. of Lube Points 1 
+   No. of Vent Ports 1 
+   No. of Ring Sets 6  
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.   
+ 
+  Valving 5MOS 6MOS 7MOS  
+ 
+   Size & Type HH75 HH75 HH75    Rated Differential Pressure (psig) 375 375 375 
+   No. / Corner 3 3 3 
+   Standard Lift (in) 0.105 0.105 0.105  
+ 
+  Weights of Major Components (lbs)  
+ 
+   Cylinder 5174 5174 5174    Rod 40.3 39.8 39.4 
+   Piston 159.6 147.8 135.9 
+   Reciprocating  (Total) 199.9 187.6 175.3 
+ 
+ 
+  Miscellaneous  
+   CBC Plug 
+       - Diameter (in)    
+      - Length (in)    
+      - Volume (cu. in.)          - Clearance % Adder OE    
+ 
+   VVCP  
+      - Piston Diameter (in) 20.56 20.56 20.56 
+      - Length (stroke) (in) 3.00 3.00 3.00 
+      - Volume (cu. in.) 996.24 996.24 996.24 
+      - Clearance % Adder OE (Closed) 0.00 0.00 0.00       - Clearance % Adder OE (Open) 60.37 50.31 43.12
+    
+    CBC Flange Size (in) / Rating (lbs)    
+   Suction / Discharge Flange Size (in) / Rating (lbs) 8.0 / 300 8.0 / 300 8.0 / 300 
+  
+ 
+© 2015 Dresser-Rand.  All Rights Reserved. 

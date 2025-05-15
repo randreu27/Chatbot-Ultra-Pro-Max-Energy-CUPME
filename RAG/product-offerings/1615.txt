@@ -1,0 +1,857 @@
+Maximizing power 
+plant flexibility  
+How more flexible, faster combined cycle power 
+plant cycling can help support producer profit-
+ability during the energy transition.
+White paper
+siemens-energy.com
+As renewables grow in the energy mix used by 
+North American power producers, keeping 
+generating assets best utilized requires 
+operating them with a flexibility that often 
+exceeds the original capabilities of most plants 
+today. Combined cycle power producers need 
+to get into markets fast – when prices are 
+high – and get out fast, when margins may be 
+low or even negative.
+Content
+04 Abstract  
+05 Renewables complicate  profitability for North American power 
+producers
+05 Challenging journey to a  decarbonized energy future
+06 Operational flexibility’s impact on profitability
+07 The impact of renewables on CCPP operating models
+08 The growing role of ancillary services in grid stability and 
+reliability
+10 From base to cycling operation models: fast, flexible  
+operational concepts
+11 Operational flexibility improvement concepts
+12 Plant optimization for hot starts: help reduce start-up  
+times up to 50%
+13 Plant optimization for warm starts: faster start-ups,  
+lower fuel costs
+13 Plant optimization for cold starts: more efficiency, less  
+time to loading conditions
+14 Fast plant shutdown optimization: saving fuel and CO2
+15 Summary: Flexibility with speed and reliability, key to better 
+asset utilization and improved profitability
+Siemens Energy, 2024
+Page 3
+Abstract
+Given the steady growth of renewables in 
+the North American energy mix, volatile fuel 
+prices, and current and proposed govern-
+mental legislation, the operational profiles 
+of combined cycle power plants (CCPPs) are 
+dramatically changing – from base load to 
+cyclical modes. 
+In addition, ancillary services are playing a 
+growing role in helping to ensure grid 
+reliability and accommodate an energy 
+resource mix that will continue evolving 
+with more renewables. 
+These trends affect both regulated and 
+unregulated markets. They require power 
+producers to have more flexibility in their 
+asset utilization in order to meet revenue 
+goals, expand operating margins, and main-
+tain profitability. How fast and reliably they 
+can exercise that flexibility is critical, too.CCPP operators must not only generate 
+power as efficiently as possible but also 
+have their plants ready to ramp whenever 
+power markets are paying premium prices. 
+Increasing plant operational flexibility can 
+help operators both minimize generation 
+costs during times of low power prices and 
+help capture the margins peak prices offer.
+This paper focuses on measures intended to 
+optimize CCPP operational flexibility for 
+North American producers. It explains new 
+operational profiles due to the energy 
+transition, which make enhanced startup 
+and shutdown processes necessary. These 
+include optimized hot, warm, and cold 
+starts, as well as improved ramp-up / ramp-
+down load gradients.
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 4
+Among the 3,000 utilities operating in the 
+U.S. and the 16 major utilities operating in 
+Canada, no two are alike. Each serves cus-
+tomers of all kinds, from household con-
+sumers to heavy industries. They can span 
+different regional geographies with wide 
+variations in seasonal demands, which can 
+change dramatically from year to year. 
+Their energy sources can vary widely, too, 
+as can the age and composition of their 
+generating capacity. Additionally, individual 
+operators must comply with ever-changing 
+federal and state environmental require-
+ments, and regulated producers must abide 
+by strict tariff structures. 
+Finally, there are a myriad of other operating 
+variables that can potentially affect a utility’s 
+margins and, ultimately, its profitability.
+1 Katherine Antonio, Short-Term Energy Outlook (STEO), U.S. Energy Information Administration, January 2024.
+2 IBID.
+3 Pieter Gagnon et al. 2023 Standard Scenarios Report: A U.S. Electricity Sector Outlook. National Renewable 
+Energy Laboratory (NREL). Revised January 2024.Challenging journey to a 
+decarbonized energy future
+All North American utilities and indepen -
+dent power producers face one common 
+challenge: the rapid growth of renewables 
+in the power-generation mix as the power 
+industry continues moving toward a de - 
+carbonized energy future.
+In 2023, renewable energy sources – wind, 
+solar, and hydro, chief among them – 
+accounted for 22% of generation.1 From 
+those sources, new solar projects coming 
+online in the near-term are expected to 
+propel solar’s growth 75% by 2025 while 
+wind will grow 11% in that same time 
+period.2 Looking even further ahead to 
+2050, solar and wind generation is forecast 
+to provide the energy for between 55%  
+and 85% of total U.S. power generation.3 
+Figure 1 illustrates the forecasted U.S. 
+power-generating mix through 2025, 
+showing solar overtaking wind and both 
+eclipsing coal and nuclear combined. Renewables complicate  profitability 
+for North American power producers
+Capacity GW
+2018 2020 2022 2024 2025600
+500
+400
+300
+200
+100
+0History STEO1) Forecast
+Natural gas
+Coal
+NuclearRenewables
+2018 2024050100150200250ForecastBreakout of renewables by source
+Gigawatts at the end of period
+1) Short term energy outlookSolar
+Wind
+Hydro
+Biomass
+GeothermalFigure 1 . Energy source trends in 
+U.S. annual electric generating 
+capacity (2018–2025). 
+Source: U.S. Energy Information 
+Administration
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 5
+Figure 2 illustrates different forecast sce-
+narios by 2050 for hourly U.S. electricity 
+generation and load by fuel for selected 
+cases and representative years, according  
+to the U.S. Energy Information Administra-
+tion. Of course, 2050 holds much uncer -
+tainty in how these scenarios will unfold, but 
+all scenarios clearly show the diminished 
+role of coal compared to the fuel mix behind 
+power generation in today’s grid. Across all 
+long-term scenarios, the gas fleet remains 
+essential for reliable grid operation although 
+the operational profile evolves significantly.
+In fact, coal’s anticipated exit from today’s 
+grid by 2030 is straining the remaining 
+dispatchable resources, particularly the 
+natural gas turbine fleet, which will be ever 
+more challenged to balance increasing 
+electrical demand and increasingly variable 
+supply. 
+Asking more from today’s fleet creates an 
+opportunity for plant owners to position 
+their assets optimally for their future usage 
+profile so they can potentially maximize 
+4 Here’s how the Inflation Reduction Act is impacting green job creation. World Economic Forum. March 2023.
+5 John Hensley. Inflation Reduction Act: It’s a Big Deal for Job Growth and for a Clean Energy Future. American 
+Clean Power. August 2022.both their utilization of those assets and 
+their operating margins. 
+These described trends are manifesting 
+themselves in today’s grid in specific sea-
+sonal patterns. This evolution is expected to 
+grow in frequency and magnitude 
+throughout the country over time.
+Operational flexibility’s impact 
+on profitability
+While rapidly falling prices of solar and wind 
+technologies per kilowatt have spurred the 
+growth of their adoption in recent years, 
+renewables have secured government 
+funding incentives to expand their deploy -
+ments even more.
+The U.S. Inflation Reduction Act (IRA) of 
+2022 offers $370 billion in tax credits to 
+boost the nation’s use of renewable energy.4 
+Some industry observers estimate these 
+credits will triple the amount of utility-scale 
+green power in the U.S. from today’s levels 
+to approximately 750 GW by 2030.5 While 400
+300
+200
+100
+0
+-100
+1 12 24billion kW-hours
+1 12 24 1 12 24 1 12 24Reference case, 2022 Reference case, 2050
+hour of the dayLow oil and gas 
+supply case, 2050Low zero-carbon 
+technology cost case, 2050
+Coal
+Nuclear
+Natural gas and oil peakersNatural gas combined-cycle
+Hydroelectric
+WindStand-alone solar PV
+Hybrid solar PV
+Pumped storageStand-alone storage
+Curtailment
+Load, excluding storage
+Figure 2 . Hourly U.S. electricity 
+generation and load by fuel for 
+selected cases and representative 
+years in billion kilowatt-hours
+Source: U.S. Energy Information 
+Administration, Annual Energy 
+Outlook 2023 (AEO2023)
+Note: Negative generation represents 
+charging of energy storage technologies 
+such as pumped hydro and battery 
+storage. Hourly dispatch estimates are 
+illustrative and are developed to 
+determine curtailment and storage 
+operations; final dispatch estimates are 
+developed separately and may differ from 
+total utilization as this figure illustrates. 
+Standalone solar photovoltaic (PV) 
+includes both utility-scale and end-use PV 
+electricity generation.
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 6
+investment tax credits were primary motiva-
+tors heretofore, the addition of production 
+tax credits may accelerate solar’s develop-
+ment even more.
+This rapid expansion of renewables will 
+likely require upgrades to North America’s 
+grid, including ISO / RTO interconnections. At 
+the same time, the variability caused by the 
+intermittency of renewables means power 
+producers who can become more flexible in 
+how they operate their generating assets 
+from day to day and season to season can 
+improve business outcomes.
+Indeed, utilities are already taking action. 
+Factors such as power price variability, 
+increased emission requirements affecting 
+fossil power, and new market mechanisms 
+are driving a shift in the operating profiles 
+of CCPP assets from base load to flexible 
+cycling modes. To adapt, CCPP assets may 
+need to enhance their operational flexibility 
+through improved start-up and shut-down 
+times, higher load gradients, and other 
+asset optimization concepts.The impact of renewables on 
+CCPP operating models
+These trends are affecting power plants in 
+both regulated and deregulated markets. In 
+the regulated U.S. Southeast market, for 
+example, there is limited wind potential and 
+as solar energy increases in the region’s 
+energy mix, producers must balance supply 
+and demand: overgeneration during the day 
+while the sun is shining, versus rising 
+demand as the sun is setting with solar-gen -
+erated power exiting the grid. 
+Figure 3 illustrates the expected deepening of 
+the daily net demand ramp-rate curve (“Duck 
+Curve”), a trend that while typically associ-
+ated with California is now also projected in 
+parts of the Southeast (shown in the figure 
+for a regulated utility), through the antici-
+pated growth in solar capacity by 2032. 
+What is less commonly understood is how 
+soon CCPPs and others will need to increase 
+their operational flexibility and be capable 
+of high ramp rates. Figure 4 illustrates how 
+soon and how often system resource plan-
+ning teams rely on this level of flexibility to 
+maintain grid stability. 
+Figure 3  (left).
+How solar growth is expected to 
+impact the ramp-rate curve of 
+Southeast U.S. power producers 
+through 2032.
+Source: Siemens Energy models.
+Figure 4  (right).
+ A Southeastern U.S. utility’s fore-
+cast of high gas ramp-up hours 
+as the amount of solar grows in 
+years to come.
+Source: Siemens Energy models.
+X axis: How many additional MW are needed to  
+ maintain system balance. 
+Y axis: How frequently that capability is utilized.High gas ramp up hours per scenarioCount of hoursReference – Current yearAdditional solar through 2024
+Additional solar through 2030
+Additional solar through 2032
+020406080100120140160180750 1000 1250 1500 1750 2000
+X axis: How many additional MW are needed to  
+ maintain system balance. 
+Y axis: How frequently that capability is utilized.High gas ramp up hours per scenarioCount of hoursReference – Current yearAdditional solar through 2024
+Additional solar through 2030
+Additional solar through 2032
+020406080100120140160180750 1000 1250 1500 1750 2000
+X axis: How many additional MW are needed to  
+ maintain system balance. 
+Y axis: How frequently that capability is utilized.High gas ramp up hours per scenarioCount of hoursReference – Current yearAdditional solar through 2024
+Additional solar through 2030
+Additional solar through 2032
+020406080100120140160180750 1000 1250 1500 1750 2000
+-1k01k2k3k4k5k
+Reference – Current year (2022) solar
+Additional solar through 2024
+Additional solar through 2030
+Additional solar through 2032 & no coalnet demand in MW
+hour of the day-1k01k2k3k4k5k
+Reference – Current year (2022) solar
+Additional solar through 2024
+Additional solar through 2030
+Additional solar through 2032 & no coalnet demand in MW
+hour of the day
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 7
+In deregulated power markets, plants are 
+dispatched based on the offers they submit 
+to the market and the demand of the 
+market. Typically, the most profitable periods 
+are now concentrated during the evening 
+although weather temperature extremes can 
+cause spikes in demand, which can offer 
+additional profit opportunities. 
+As a result, CCPP operators may need to stay 
+online during low-priced hours despite 
+having negative margins so they can collect 
+the offsetting and more profitable margins 
+the market’s higher priced periods offer. 
+This operating model may create losses for 
+the plant during hours when renewable 
+overgeneration occurs and available prices 
+for power are negligible.
+One measure CCPP producers can implement 
+to help reduce these potential losses and help 
+increase margins is to lower their minimum 
+capacities during unprofitable hours. 
+For example, as shown in Figure 5, a South-
+central CCPP runs at a 69% load during 
+non-profitable hours and ramps up its 
+power production to 100% during high-
+margin periods including sub-hourly peaks 
+in the real time market. 
+If the plant could increase its CCPP opera-
+tional flexibility, it could potentially reduce 
+its load significantly during non-profitable 
+hours instead of operating at a 69% load. This strategy could help reduce the plant’s 
+costs and losses during low-demand hours 
+while also helping it to capitalize on the 
+higher profit margins available during 
+peak-priced periods, potentially boosting 
+daily earnings. Improved cost structures 
+could increase the likelihood of flexible 
+plants being called on days with marginal 
+demand as well as potentially capturing 
+higher prices during real-time market 
+surges.
+The growing role of ancillary 
+services in grid stability and 
+reliability
+As the proportion of renewables grows in 
+the North American energy resource mix, 
+their inherent intermittency and resulting 
+variability impacts grid stability and reli-
+ability as well as frequency control. In 
+response, ISOs/RTOs are looking to ancillary 
+services to better manage the grid during 
+the transition to lower-carbon and net-zero 
+resources.
+ERCOT (Electric Reliability Council of Texas), 
+for example, announced the ERCOT Contin-
+gency Reserve Service (ECRS) in June 2023. 
+As a daily procured ancillary service sup-
+porting ERCOT’s reliability-first model for 
+grid operations, it is intended to address 
+growing energy demands in Texas, Day 1 Day 2DA / RT margin Percent load
+0 20212223 19181716151413121110987654321 0 20212223 19181716151413121110987654321($1.3k)
+($1.4k)
+($1.5k)
+($1.3k)
+($1.1k)
+ $0.3k
+($0.2k)
+($0.1k)
+ $0.0k
+ $0.0k
+ $0.7k
+ $2.3k
+ $5.1k
+ $8.5k
+ $22.4k
+ $33.2k
+ $30.1k
+ $26.0k
+ $27.4k
+ $15.1k
+ $0.7k
+($0.4k)
+($0.8k)
+($1.2k)
+($1.3k)
+($1.8k)
+($1.5k)
+($1.2k)
+($0.8k)
+($0.7k)
+($0.8k)
+($0.6k)
+($0.3k)
+($0.2k)
+ $0.5k
+ $0.7k
+ $1.9k
+ $3.4k
+ $6.3k
+  $7.7k
+  $5.8k
+ $2.3k
+ $2.7k
+ $1.2k
+($0.1k)
+($0.9k)
+($0.8k)
+($1.2k)40k
+20k
+0k69% 69% 69%72% 73% 71% 71%70%
+66% 66% 66%78%84%93%98%101%101%101% 101%100%
+100%100%99%
+99% 96%93%
+80%
+40%60%80%100%
+Measure names
+Day ahead margin
+Figure 5 . Hourly real-time and 
+day-ahead margins of a large 
+combined cycle Southcentral 
+U.S. power plant plotted against 
+its percent load, showing 
+operating profit/loss durations.
+Source: Siemens Energy models.hour
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 8
+mitigating real-time operational issues to 
+keep supply and demand balanced in order 
+to help improve grid stability.6 
+According to ERCOT, ECRS provides “capacity 
+that can respond within 10 minutes to 
+address forecasting errors or to replace 
+deployed reserves.”7 ECRS will backstop four 
+other procured ancillary services ERCOT 
+buys in the day-ahead market to balance the 
+next day’s forecasted supply and demand of 
+grid electricity. The debut of ECRS could 
+6 ERCOT Adds New Ancillary Service to Support Grid Reliability . June 12, 2023.
+7 Ancillary Services. ERCOT. December 2023.
+8 United States Power Ancillary Service Market. TechSci Research. January 2024.portend initiatives by other ISOs / RTOs to 
+enhance the ancillary services they use to 
+maintain grid stability and reliability. 
+Overall, the energy transition is expected to 
+drive substantial growth in the use of ancil-
+lary services across North America. The U.S. 
+power ancillary service market – led by the 
+Frequency Controlled Ancillary Services 
+segment – is estimated to have been worth 
+$6.1 billion in 2022, with a 6.14% compound 
+annual growth rate through 2028.8
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 9
+Given the continued growth of renewables, 
+today’s need for operational flexibility will 
+likely increase well into the future. Opera-
+tors can help address these challenges by 
+accelerating plant ramp rates to improve 
+plant responsiveness to higher-margin 
+pricing opportunities.
+CCPPs that are either currently transitioning 
+or anticipating a shift from base load to 
+cyclical operation will likely need to adapt 
+their generating assets to meet these 
+evolving operational requirements. A detailed 
+plant and process analysis, such as a Tech -
+nical Plant Assessment, is the first step CCPP 
+producers should consider. This in-depth, 
+end-to-end evaluation of a producer’s CCPP 
+configuration, operations, and steam / water 
+process can help identify, quantify, and 
+prioritize improvement opportunities. 
+As illustrated in Figure 6, these improve-
+ment opportunities include increased power 
+outputs and operating efficiencies, faster 
+starts and shutdowns, improved load ramp 
+gradient, low-load operation, and expanded 
+operating ranges. To help enable CCPP operators to put these 
+capabilities to work, Siemens Energy has 
+developed a portfolio of advanced flexible 
+operational concepts based on our suites of 
+Flex-Power ServicesTM and Omnivise Perfor -
+mance Solutions as shown in Figure 7. 
+Emissions and 
+efﬁciency
+Advanced
+operational
+ﬂexibilityStart and stopperformancem
+anagem
+entEnergy
+responseDemandand cool dow
+n
+Start readinessFigure 7 . Advanced CCPP flexi-
+bility spans five key operating 
+dimensions – all affecting asset 
+utilization, compliance, margins, 
+and profitability.
+TimeBase load
+Improved operation
+Standard operationPowerFigure 6 . Potential for 
+improved plant operational 
+performance compared to 
+standard plant operational 
+performance after enhance-
+ments using Siemens Energy 
+Flex-Power Services™ and 
+Omnivise Performance 
+Solutions.From base to cycling operation models: 
+fast, flexible operational concepts 
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 10
+These advanced flexible operational con-
+cepts could potentially result in faster dis-
+patch times, reduced fuel consumption, and 
+lower CO₂ emissions, while also enhancing 
+the capability of CCPP operators to help 
+maintain emission targets for both NOx and 
+CO. These strategies have been successfully 
+implemented by Siemens Energy in com -
+bined cycle power plants around the world, 
+particularly in Europe. 
+Most of these concepts can be imple -
+ment  ed via logic upgrades to the CCPP’s 
+control software while some may  
+require modifications to plant and auxiliary 
+equipment.
+Operational flexibility 
+improvement concepts
+The transition from a CCPP base load oper -
+ating model to a cycling operating model 
+requires producers to consistently achieve 
+fast, efficient, and reliable start-ups of their 
+generating assets regardless of how long 
+those assets have been offline. For this 
+paper, hot, warm, and cold starts can be 
+defined as follows: Hot start: 
+ Up to 8 hours  
+post-shutdown.
+ Warm start:  
+Between 8- and 48-hours 
+post-shutdown.
+ Cold start:  
+Between 48 hours post-  shutdown 
+and up to 2 weeks post-shutdown.
+One core start-up improvement concept, for 
+example, involves the parallel ramping of 
+both gas and steam turbines. Consider the 
+scenario of an overnight shutdown of a 
+CCPP. The next day, parallel ramping may 
+help reduce start-up times to approximately 
+30 minutes in some cases. 
+A Low Load Turn Down concept can help 
+reduce the minimum part-load capability of 
+the gas turbine. This can assist CCPP opera -
+tors who seek to enhance the operating 
+flexibility of their gas turbines even further, 
+potentially improving response times to 
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 11
+grid demands and enabling combined cycle 
+applications where part-load efficiency is 
+desired. For example, when applied to an 
+SGT6-5000F gas turbine, this concept may 
+optimize and extend the part-load opera -
+tion range by as much as 40%. 
+Plant optimization for hot 
+starts: help reduce start-up 
+times up to 50%
+Plant start optimization for hot starts can 
+help reduce CCPP hot and warm start times. 
+Although most CCPPs were originally built 
+as base load facilities, they now must often 
+operate as peak load plants or cycling 
+plants with frequent start-ups due to 
+changing market conditions and fuel prices. 
+This challenges their operators to achieve 
+fast and predictable start-up times while 
+maintaining high dispatch capability and 
+in- market availability. By implementing this 
+flexibility optimization concept CCPP opera -
+tors can potentially reduce the cost of each 
+hot start and further reduce CO₂ emissions.
+Additionally, with an improved start-up time producers can potentially generate 
+additional revenue in times of high elec -
+tricity prices.
+The limitations affecting load output 
+include pressure and temperature tran -
+sients in the steam turbine, waiting times 
+for establishing required steam chemistry 
+conditions, and warm-up times for the 
+steam turbine, balance of plant, and main 
+piping systems. 
+One key modification is a start-up on the fly 
+process for the CCPP’s steam turbine.  
+During this process, the turbine is rolled off 
+with the very first “cold” steam produced in 
+the heat recovery steam generator (HRSG), 
+using full pressure and temperature tran -
+sients. As a result, a start-up time of less 
+than 50% may be possible for a CCPP after 
+an overnight shutdown. 
+Figure 8 illustrates the potential improve-
+ment a parallel gas and steam turbine 
+start-up process can provide compared to 
+starting them sequentially. This procedure is 
+a highly integrated orchestration of the gas 
+and steam turbine and HRSG operations. 
+Figure 8 . The hot-start concept 
+using parallel gas and steam 
+turbine start-ups can accelerate 
+load ramping times by as much 
+as 50%.
+Improved start-up
+concept
+ImprovementSequential start-up 
+conceptGas turbine &
+parallel steam
+turbine start-up
+Steam turbine & 
+gas turbine loading
+Gas turbine hold time
+Gas turbine start-upPlant
+load
+Time
+Improved hot start-up time
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 12
+Figure 9 . The load ramping 
+speed of using the warm-start 
+concept can be substantial.
+Optimized warm
+start-up concept
+ImprovementSequential 
+start-up 
+concept
+Gas turbine hold timePlant
+load
+TimePlant optimization for warm 
+starts: faster start-ups, lower 
+fuel costs 
+Plant start optimization for warm starts uses 
+many hot-start techniques to help reduce 
+CCPP start-up times by up to 50% when the 
+plant block is still warm. For instance, if the 
+start-up time of a warm start at a SGT6-5000F 
+GT can be reduced by 50 minutes, a CCPP 
+operator can use the warm-start concept to 
+potentially cut start-up fuel consumption by 
+more than 800 MMBtus, saving fuel costs and 
+potentially avoiding associated emissions of 
+up to 44 tons of CO₂ per warm start. 
+The savings depend on the size and tempera-
+ture of the gas turbine and can potentially 
+increase responsiveness to transmission 
+demand signals from ISOs /RTOs.
+Figure 9 illustrates how the plant-start optimi-
+zation concept can substantially improve 
+CCPP start-up efficiency. This can significantly 
+reduce combined cycle warm start-up times, 
+in some cases to less than 60 minutes.The potential for time reductions and effi-
+ciency improvements during start-ups can 
+be fully tapped by implementing a fast 
+start-up load gradient of up to 30MW per 
+minute, although this load gradient can vary 
+across different gas turbine frames.
+Plant optimization for cold 
+starts: more efficiency, less 
+time to loading conditions
+The ability to start-up a CCPP’s turbine block 
+much faster from longer shutdowns can 
+make a difference in dispatch in competi -
+tive markets. During extended offline 
+periods of several days or longer, the steam 
+cycle will cool down, especially its high and 
+intermediate pressure steam turbines. 
+Implementing a steam turbine hot standby 
+method, such as using electrical heating 
+blankets, to either prevent or limit this 
+cooling can shorten start-up times during  
+a shutdown phase of up to two weeks.
+Optimized warm start-up time
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 13
+If the plant was built without a gas-fired 
+auxiliary steam boiler, an electrical auxiliary 
+steam generator can be retrofitted. The 
+electrical auxiliary steam generator’s objec-
+tive is to provide enough steam to seal the 
+steam turbine and create a vacuum in the 
+condenser before the gas turbine starts. 
+This helps allow early steam condenser 
+bypass operation and helps avoid long low 
+load operation times with the HRSG venting 
+valves. 
+Keeping the steam turbine sealed and under 
+vacuum also helps prevent air ingress, 
+improve the feedwater quality, and mini-
+mize water-chemistry related hold times 
+during the start.
+This concept is intended to help:
+• Increase responsiveness to transmission 
+ISO / RTO demand signals.
+• Shorten start-up time, in some cases up 
+to 50%. 
+• Boost efficiency in the start-up process.
+In addition, the degassed conductivity 
+concept may shorten the start-up time of a 
+combined cycle power plant – especially for cold starts as the waiting time for steam 
+purity may be significantly reduced. This 
+method controls the steam purity and distin-
+guishes between the corrosive contami-
+nants and less harmful CO₂ by re-boiling the 
+sample downstream from the cation column 
+to remove CO₂.
+Fast plant shutdown  
+optimi zation: saving fuel  
+and CO2 
+CCPP shutdowns can require considerable 
+time and fuel for conducting the necessary 
+unloading processes. In competitive 
+markets, the ability to shut down a plant 
+faster can help reduce time spent in tran-
+sient conditions with non-optimal efficien-
+cies and enhance responsiveness.
+The fast plant shutdown concept was devel-
+oped to significantly shorten a CCPP’s shut-
+down time, in some cases to less than 30 
+minutes. As shown in Figure 10, the concept 
+leads to less fuel consumption and potential 
+improvements to both operating costs and 
+profitability.
+Figure 10 . The fast plant shut 
+down concept can shorten the 
+time to less than 30 minutes in 
+some cases, saving fuel costs 
+while potentially improving 
+profitability.
+Fast plant
+shutdown concept
+Improvement Sequential
+shutdown
+conceptGas turbine hold time during
+start of steam turbine shutdownPlant
+load
+Time
+Combined cycle shutdown time
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 14
+Summary: Flexibility with speed and 
+reliability, key to better asset 
+utilization and improved 
+profitability
+In the past decade, the operating profiles 
+of CCPPs have significantly shifted due to 
+the growth in renewables in producers’ 
+energy resource mix as well as volatile fuel 
+prices and governmental legislation. The 
+impact of these trends on the current and 
+future operations and profitability of typical 
+CCPPs necessitate a shift from outdated 
+base load to cyclical operation.
+CCPP flexibility and responsiveness to 
+market signals are critical to sustainable 
+margins and profits. To help achieve these 
+capabilities and prepare their CCPPs for 
+current and upcoming market conditions, 
+operators can implement fast start-up 
+concepts across hot, warm, and cold turbine conditions along with fast shut-
+downs and load gradient improvements to 
+potentially improve their competitiveness, 
+asset utilization, and profitability. 
+To that end, Siemens Energy Advanced 
+Operational Flexibility solutions based on 
+Flex-Power ServicesTM and Omnivise Perfor -
+mance have been developed to help CCPP 
+operators address operational flexibility. 
+Implementation of plant-specific recom-
+mendations including the flexible CCPP 
+operating concepts can result in plant 
+capabilities that can successfully meet the 
+challenges of North American power 
+markets today and far into the future.
+White paper | Maximizing power plant flexibility
+Siemens Energy, 2024
+Page 15
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Siemenspromenade 9  
+91058 Erlangen  
+Germany
+For the U.S. published by
+Siemens Energy, Inc  
+4400 N AlafayaTrail  
+Orlando, FL 32826  
+USA
+For more information, please visit our website:
+siemens-energy.com
+This publication is provided for informational pur  - 
+poses only and you should not construe any 
+information presented as legal, tax, investment, 
+financial, or other professional advice. The content  
+is of a general nature and does not address the 
+specific circumstances of any particular market, event, 
+application or installation, nor does it constitute a 
+comprehensive or complete statement of the matters 
+discussed or the laws relating thereto. Any infor  -
+mation about Siemens Energy products and services is 
+subject to change without notice. Expected capa - 
+bilities or benefits may not apply in specific 
+applications or be realized in all cases. Nothing in  
+this document shall be deemed or construed to  
+be a warranty or guarantee of the information, 
+product(s), service(s) or method(s) described herein.
+All product designations may be trademarks or 
+product names of Siemens Energy Global GmbH & Co. 
+KG or other companies whose use by third parties for 
+their own purposes could violate the rights of the 
+owners.Authors: 
+Matthias Nickl, Thorsten Wolf, Robert Hostetler, 
+Nicola Erhard-Winterberg, David Fernandes,  
+Cristina Becle 

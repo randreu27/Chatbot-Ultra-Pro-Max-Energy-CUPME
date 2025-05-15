@@ -1,0 +1,524 @@
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Procedure for Installation, Operation  
+and Maintenance Manual  
+SDP-6 / SDP-8 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+Ternetangen 65  
+N-5420 Rubbestadneset  
+ 
+00007464, rev. K 
+      
+      
+Document  No. : 00007464   Page  : 2 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+ 
+Revision List  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rev Date  Description  Author  Reviewed  Approved  
+X1 11.12.01  REVIEW  ESE   
+0 21.12.05  AFC HKA KH ESE 
+A 17.01.08  New logo and layout, 
+inserted table of content  KAA   
+B 10.12.2009  Revised, to cover digital 
+SDP-6 sensors  SM SM Tkg 
+C 27.01.2010  Revised, to cover Level 
+Monitoring  SM SM TKG 
+D 11.08.2011  Revised, Item 5  SM RM TKG 
+E 06.02.2013  Changed Logo  CS MN RM 
+F 25.06.2015  Changed layout to TC 
+document, updated text.  BH CF AE 
+G 19.11.2015  Improved content  BH CF AE 
+H 24.08.2017  Changed section 8  BH TKG EV 
+I 22.06.2020  Revised to include SDP -8 EOH  TKG BH 
+J 02.09.2021  New logo  EOH  BHV CF 
+K 15.03.2022  Item 8.2 Storage 
+temperature changed to      
+-40 to +70 °C. EOH  EN AE 
+      
+      
+Document  No. : 00007464   Page  : 3 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+TABLE OF CONTENTS  
+1 GENERAL  ................................ ................................ ................................ ................................ ...... 4 
+2 PURPOSE  ................................ ................................ ................................ ................................ ...... 4 
+2.1 GENERAL  ................................ ................................ ................................ ...............................  4 
+2.2 PACKING AND TRANPORTATION  ................................ ................................ .........................  4 
+3 HEALTH AND SAFETY STATEMENTS ................................ ................................ ..........................  5 
+4 TESTING  ................................ ................................ ................................ ................................ ........  6 
+4.1 FUNCTIONAL TESTING ................................ ................................ ................................ ..........  6 
+4.2 EQUIPMENT  ................................ ................................ ................................ ...........................  6 
+4.3 HOOK UP  ................................ ................................ ................................ ................................  7 
+4.4 VERIFICATION OF SE NSOR READINGS  ................................ ................................ ...............  7 
+5 INSTALLATION  ................................ ................................ ................................ ..............................  8 
+5.1 INSTALLATION POSITION AND DIRECTION  ................................ ................................ .........  8 
+5.2 INSTALLATION OF REMOTE SEALS  ................................ ................................ .....................  8 
+5.3 ROUTING OF THE CAPILLARY TUBES  ................................ ................................ .................  8 
+5.4 SDP USED FOR FLOW MONITORING  ................................ ................................ ...................  8 
+5.5 SDP USED FOR LEVEL MONITORING  ................................ ................................ ..................  9 
+5.6 INTRODUCTION  ................................ ................................ ................................ .....................  9 
+5.7 REQUIRED INFORMATION  ................................ ................................ ................................ .... 9 
+5.8 ZERO ADJUSTMENT  ................................ ................................ ................................ ..............  9 
+5.9 CAPILLARY TUBES  ................................ ................................ ................................ ............... 10 
+5.10  MEMBRANE SYSTEM ................................ ................................ ................................ ........ 10 
+5.11  FIXING TOOLS ................................ ................................ ................................ ................... 10 
+5.12  WELDING  ................................ ................................ ................................ ........................... 10 
+5.13  PAINTING ON STRUCTURE  ................................ ................................ .............................. 11 
+6 OPERATION INSTRUCTION  ................................ ................................ ................................ ......... 11 
+7 MAINTENANCE  ................................ ................................ ................................ ............................. 11 
+8 STORAGE  ................................ ................................ ................................ ................................ .....12 
+8.1 GENERAL CONDITIONS  ................................ ................................ ................................ .......12 
+8.2 STORAGE  ................................ ................................ ................................ .............................. 12 
+ 
+ 
+  
+      
+      
+Document  No. : 00007464   Page  : 4 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+1 GENERAL  
+ WARNING: Ensure that this Installation, Operation and 
+Maintenance manual is appropriate for the instrument / 
+sensor(s).  
+ 
+2 PURPOSE  
+2.1 GENERAL  
+The purpose of this Manual  is to ensure that the Installation, Operation and Maintenance 
+are carried out properly in order to ensure the customer of the Subsea sensor’s 
+conformance to the specifications given in The Procurement Specification.  
+This is a generic procedure covering several different types and combinations of S iemens  
+Energy  AS, Subsea differential pressure sensors hereafter called SDP. 
+ 
+ 
+2.2 PACKING AND TRANPORTATION  
+Avoid excessive shock and vibrations during transport and handling, even though the 
+equipment itself is resistant towards shock and vibration, this is only true when the units 
+are properly fixed and secured.  
+ 
+The SDP sensor consist s of 1 sensor body and 2  flanges connected  by a capillary tube . 
+A Special transport case is prepared for packing, storing and tr ansport of the SDP .  Inside 
+the box the sensor 3 parts are bolted onto a metal plate and we strongly advi se that the 
+units are  kept secured in this box /metal plate  until the final installation destination is 
+reached.  
+ 
+The transportation case must always be in its upright position (see marking on the case).  
+ 
+The SDP  considerable high own weight makes a dangerous combination if the 
+transportation case is ha ndled roughly (dropped, turned from upright positions etc).  
+ 
+When the unit is to be lifted from the transportation case, use a lifting crane and the 
+supplied hooks, never attem pt to lift the unit by hand . 
+ 
+Due to the  weight difference between the vulnerable capillary tubes, remote seals and 
+the main body of the sensor, the capillary tubes are at high risk for damage  during 
+installation and handling, special care is therefore required.  
+ 
+      
+      
+Document  No. : 00007464   Page  : 5 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+Be sure that the SDP  is stored in clean environment  and preferably at room temperature.  
+If the sensor  is stored more than six - 6 - months before installation, a test of the sensor 
+signal  at ambient pressure and temperature should be carried out.   
+ 
+If the results from the test ing show any unexpected reado ut from the sensor contact 
+Siemens Energy  for assistance.  
+ 
+ 
+ 
+ 
+2.2.1  SAFETY  
+ WARNING: Only personnel deemed qualified shall operate 
+equipment involving high pressures and temperature. 
+Protection glasses, gloves and shoes are required.  
+ 
+Other PPE to be used as appropriate  for the area and work to 
+be performed, see company safety instructions.  
+ 
+ 
+ 
+ 
+3 HEALTH AND SAFETY STATEMENTS  
+It is recommended that the Client performs a “Risk Assessment” for all aspects of the 
+Sensor Installation from initial delivery to final dispatch, to identify the hazards associated 
+with the work.  
+ 
+Because of the  considerable  high weight of each Sensor Unit, those staff preparing to 
+move a Sensor Unit from the Delivery Box must ensure that they “A ssess the Identified 
+Hazards” for each movement of the Sensor.  
+ 
+The Sensors do not contain any chemicals or compositions that could be hazardous upon 
+exposure. Electrical jumpers can contain silicon oil or similar, although this oil is not 
+hazardous to he alth, any spillage should be removed immediately to avoid slip hazards.  
+ 
+During Soldering Operations,  it is recommended that fumes are removed from the 
+immediate working area to avoid inhalation by the operator.  
+ 
+Care in the selection of the correct tools  for the final “Torque Setting of the Bolts” is 
+important to avoid accidents through damaged/poorly maintained tooling.  
+ 
+ 
+Manual Handling, Lifting and Carrying are known to be the largest contributors to 
+accidents.  Ensure that mechanical handling aids are used whenever possible to avoid 
+manual handling. Where manual handling is considered appropriate for the task safe 
+lifting guidelines must be followed, e.g. adopt correct posture, consider team lifting, 
+      
+      
+Document  No. : 00007464   Page  : 6 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+employ safe  lifting technique, etc . Ensure positions of lifting eyes keeps assembly in 
+balance.  
+ 
+Figure 1 shows the correct slinging method for an SDP -6 with Remote Seal Flanges . 
+ 
+ 
+ 
+Figure 1.  
+ 
+ 
+ 
+ 
+4 TESTING  
+4.1 FUNCT IONAL TESTING  
+During site receive check, perform a Functi onal Test to ensure the SDP is working 
+properly.  
+4.2 EQUIPMENT  
+For analog 4 –20 mA output, a loop calibrator can be used.  
+For HART Protocol, a standard handheld  HART Communicator can be used.  
+ 
+For other digital outputs such as Modbus or CANopen, a control system or a laptop with 
+software package and a converter is necessary to be able to read the sensor.  
+There are numerous commercial software and converter units available on the market.  
+Examples of software tools:  
+• CANopen: CANopenTester.exe  
+• RS485 Modbus: Win -Tech Modscan32.exe, http://www.win -
+tech.com/html/modscan32.htm  
+• RS485 KOS: KosViewer.exe  
+ 
+  
+
+      
+      
+Document  No. : 00007464   Page  : 7 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+Examples of converters:  
+• CANopen: Ixxat  converter for high speed or fault tolerant CAN:  
+http://www.ixxat.com   
+• Rs485: MOXA interface converter RS232 -Rs485 
+http://www.moxa.com/product/tcc -100.htm  
+ 
+A suitable test connector, a test cable and power supply are also needed.  
+Figure 3 shows the different elements needed to hook up a testloop  with SDP -6.  
+SDP-8 hook up is identical.  
+  
+ 
+Figure 3.  
+   
+4.3 HOOK UP  
+Hook up the sensor according to the information given in the GA drawing.  
+ 
+4.4 VERIFICATION OF SENSOR READINGS  
+Verify that the readings from the sensor are in accordance with the criteria given in 
+Specification sheet for the actual project.  
+ 
+Note:  
+The SDP is calibrated and tested at a calibration laboratory in a controlled environment 
+and the reference instruments used are of high accuracy. The SDP could also have been 
+subject to High Static Calibration and therefore calib rated with spe cific pressure and 
+temperature applied.  
+It can be difficult or even impossible to recreate these conditions (e.g. pressure and 
+temperature) during testing at site and therefore this needs to be taken into consideration 
+during evaluation of th e sensor readings.  
+ 
+The acceptance criteria for measurements taken onsite in ambient conditions needs to 
+reflect the expected offset of the SD P in ambient condition.  
+
+      
+      
+Document  No. : 00007464   Page  : 8 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+If more clarification is needed contact Siemens  Energy  for further information.  
+5 INSTALLATI ON 
+5.1 INSTALLATION POSITION AND DI RECTION  
+The main  SDP body can be installed in any direction or any position with respect to the 
+Remote Seals.  
+The SDP pressure  inlets, remote seal, are marked with "L" and "H" for Low pressure side 
+and High-pressure  side respectively.  Be sure to route capillary tubes and install remote 
+seal to their correct pressure side.  
+ 
+5.2 INSTALLATION OF REMOTE SEALS  
+The Remote Seals will either  be bolted or welded to the meter body or the tank, ref GA 
+drawing for the project.  If welded Remote Seals, a welding procedure will be stated for 
+the project and if bolted Remote Seals the assembly must be according to the flange 
+standard defined by the actual project.  
+ 
+5.3 ROUTING OF THE CAPILLARY TUBES  
+For the purpose of handling and transport, the capillary tubes are coiled. During 
+installation this coil must  be strai ghtening out for the remote seals to reach their 
+installation position.  
+Straightening out  the coils must be done with care to avoid a sharp bend.  
+ 
+The capillary tubes must be routed and fixed such that the environmental influences 
+become equal for the entire length of the tubes (both high pressure - and low-pressure  
+side). Failing to do so will degrade the total accuracy of the sensor.  
+ 
+It is advised  that the capillary tube s are supported and fixed every 200mm. Make sure 
+that the supporting bracket does not  introduce temperature to  the capillary tube from ot her 
+parts of the construction. T his may  have a depremental effect to the sensor readout 
+accurac y. 
+ 
+5.4 SDP USED FOR FLOW MONITO RING  
+When the SDP is used for Flow monitoring , the sensor will be assembled to a Flow meter, 
+e.g. a Venturi or a V -Cone.   The H - port of the SDP  will be assembled to the High-
+Pressure  port and the L - port will be assembled to the Low-Pressure  port of the 
+Flow meter.  The GA drawing approved for the actual proj ect will show the details due of  
+the assembly.  
+ 
+ 
+      
+      
+Document  No. : 00007464   Page  : 9 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+5.5 SDP USED FOR LEVEL MONITORING  
+5.6 INTRODUCTION  
+The SDP can be used for Level Monitoring of tanks, et c.  The high-pressure  port must be 
+connected to the low-level position of the tank and the low-pressure  port must be 
+connected to the high-level position of the tank.  The weight of the actual fluid in the tank 
+will generate a differential pressure between  high and low position of the tank.  The SDP 
+will measure this difference pressure which can be used as a measurement for the fluid 
+level in the tank.  
+5.7 REQUIRED INFORMATION  
+The height difference between high - and low-pressure  port must be specified, see 
+illustration 1 below.  This information is to be found in the Procurement specification.  
+ 
+ 
+ 
+ 
+ILLUSTRATION 1  
+ 
+ 
+ 
+5.8 ZERO ADJUSTMENT  
+For projects where the SDP will be used for Level Monitoring , Vertical Flowmeter 
+measuring gas or others where H&L port s are at different height  a Zero  adjustment need s 
+to be consider ed.  
+ 
+For Flowmeter and other  application s where the h eight difference is specified  the 
+adjustment can normally be completed as a part of the FAT.  
+ 
+When the SDP is used for Level Moni toring on e.g. vessels where the high difference is 
+significantly the best result is achi eved by performing the zero adjustment “on site” after 
+the sensor i s installed.  
+ 
+Note:   
+Functional Test of SDP which is Z ero adjusted according to item 5.8, with the high - and 
+low pressure port placed at the same level will have an offset reading representing the 
+specified height difference.  
+ 
+TANK   
+SDP-6 
+L Port  
+H Port  
+Height  Difference   
+      
+      
+Document  No. : 00007464   Page  : 10 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+5.9 CAPILLARY TUBES  
+The Capilla ry tubes must be handled with extreme care, do not:  
+• Lift or carry the Remote Seal or the Housing by the capillary tubes  
+• Bend the capillary tubes more than absolutely necessary / required for facilitating 
+the installation.  
+• Make any bend on the capillary tubes with radius less than 30mm and always use 
+appropriate tool when making the eventual bends  
+• Do not climb on, step on or use the capillary tube as a climbing aid . 
+Failing to do so may permanently damage the complete sensor or  degrade the senso rs 
+accuracy.  
+ 
+5.10 MEMBRANE SYSTEM  
+The Membrane system must be handled with extreme care, do not touch or come near 
+the membrane surface by hand or any object.  
+Note that the membrane is very thin and fragile, even the slightest contact with sharp 
+object may per manently damage the complete sensor.  
+ 
+5.11 FIXING TOOLS  
+Never use air tool when fixing the Remote Seal and Main body bolts. Avoid other types 
+of shock and vibration impacts.  
+ 
+5.12 WELDING  
+At any time during any type of welding operations on or in vicinity of the dP-sensor  the 
+SDP need to be grounded.  
+ 
+Best practice for grounding  the SDP  is: 
+  
+For SDP supplied with no flying leads the sensor is grounded by spring between the pins 
+and the sensor housing.  This spring is supplied and mounted by Siemens  Energy  before 
+shipping.  
+ 
+For SDP with flying leads, twist the end of the cables together and ensure that they are 
+adequately connected to the sensor housing.  
+ 
+For SDP supplied with connector best practice is to use a testconnector with flying leads.  
+Twist all leads of the testconnector and ensure that they are adequately connected to the 
+sensor housing.  
+ 
+ 
+ 
+  
+      
+      
+Document  No. : 00007464   Page  : 11 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+5.13 PAINTING ON STRUCTURE  
+If the sensor is supplied un -painted, the sensor can be prepared and painted along with 
+the host structure.  During surface  preparation, e.g. blasting, Pin Hole Tests or other 
+test methods that utilising an electrical method the SDP needs to be grounded as 
+decribed in section 5.1 2.  
+Special consideration should be taken towards masking of the electrical connector.  
+ 
+ 
+6 OPERATION INSTRUCTION  
+The operating of the unit is straight forward and easy to use. The output from the SDP is 
+an industry standard of 4 - 20 mA signal/HART or digital outputs as MODBUS or 
+CANOpen.  
+ 
+The SDP will work together with the supply/receiver circuitry in th e receiving module. If 
+the receiving module is not available the SDP can communicate via PC software and 
+interface hardware, see section 4.2. For more information contact Siemens  Energy . 
+For 4 -20 mA, a standard loop tester can be used. For HART Communicato r, a standard 
+handheld  communicator can be used.  
+ 
+After installation subsea, the signal from the SDP will form a part of the client’s main 
+system, and all operational instructions should be according to the client’s procedures.  
+ 
+ 
+7 MAINTENANCE  
+Generally,  no maintenance is required on stored assemblies. However, assemblies that 
+have been in storage should be inspected prior to installation.  
+ 
+After installation subsea, it will normally not be possible to carry out any maintenance of 
+the dP -transmitter.  
+ 
+If the SDP for any reason should be retrieved after installation, the sensor  should be 
+controlled and/or considered returned to the manufacturer for a complete 
+check/recalibration.  
+ 
+ 
+  
+      
+      
+Document  No. : 00007464   Page  : 12 of 12 
+Document Title  : Procedure for Installation, Operation and Maintenance 
+Manual SDP-6/SDP -8 Rev. : K 
+ 
+Restricted    
+Siemens Energy is a trademark licensed by Siemens AG  
+8 STORAGE  
+8.1 GENERAL CONDITIONS  
+ 
+Be sure that the SDP is stored in clean and  air-dry environment and preferably at room 
+temperature.  
+ 
+Humidity:   Normal - up to 100%.  
+Chemicals:   Avoid contact with mineral oils,  
+    Corrosive  gas or acid.  
+Mechanical:   Avoid impacts, footsteps or sharp edges.  
+Others:   Avoid storage near electri cal motors, batteries, or welding  
+equipment. Necessary measures should be taken to avoid that 
+dust,  or any other foreign particles , accumulate on the 
+assemblies. Assemblies should also be protected against 
+rodents if necessary.  
+ 
+ 
+ 
+8.2 STORAGE  
+It is recommended during storage that the assemblies be stored in the original packing 
+crate. Connectors, sensors and transmitters must be protected with bubble plastic or 
+equivalent wrapping. If there is sunlight present in the storage area, cover the assemblie s 
+with black plastic or similar protection.  
+ 
+• Recomended temperature : -40 to + 70°C 
+• Light: No direct sunlight, preferably dark  
+ 
+ 
+ 

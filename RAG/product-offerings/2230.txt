@@ -1,0 +1,271 @@
+POWER ENGINEERING INTERNATIONAL
+DECEMBER 2021Flexible fuel gas turbines 
+meet airports’ power 
+needs for today and 
+tomorrow
+Airport Milano Malpensa, Italy. Image credit: SEA Energia
+One of the areas that attention is 
+being focused on is the aviation 
+industry. As hubs of the sector, 
+airports are under increasing 
+pressure to reduce their operations’ carbon 
+footprint. 
+Within Europe, the European Green Deal 
+sets the objective of making Europe the 
+first climate-neutral continent by 2050: 
+a commitment that places a particular 
+responsibility on the aviation sector. In 
+response to the European Green Deal the 
+aviation industry has brought forward this 
+date, ensuring that by 2030 European 
+airports will have a zero-carbon footprint.
+Emissions from airports fall under scope 1, 2 and 3 accounting as defined by the 
+GHG Protocol. Scope 1 is emissions from 
+airport-owned or controlled sources, 
+such as airport-owned power plants 
+that burn fossil fuel and conventional 
+vehicles or ground support equipment 
+that uses fossil fuels. Scope 2 covers 
+indirect emissions from the use of 
+purchased energy for electricity and 
+heat. In contrast, scope 3 covers indirect 
+emissions that the airport does not 
+control but can influence, such as tenant 
+emissions, on-airport aircraft emissions 
+and emissions from passenger vehicles 
+arriving at or departing the airport.
+The EU Commission’s more recent 
+Sustainable and Smart Mobility Strategy reiterates the urgency of transitioning 
+to zero-emission airports, whereby the 
+best practices followed by the most 
+sustainable airports must become the 
+new normal and enable more sustainable 
+forms of connectivity.
+Milan leading the way to reducing 
+emissions
+Between them, Milan’s two biggest 
+airports, Malpensa (MXP) and Linate 
+(LIN), handle 33 million passengers a 
+year during regular times. Malpensa is 
+one of the most important airports in 
+Europe, offering 3,500 direct flights each 
+week and numerous intercontinental 
+and long-haul destinations for a total 
+of 200 destinations. Keeping these 
+Despite the financial and operational challenges brought to bear by 
+the global pandemic, the aviation industry reaffirmed their global 
+commitment to Net Zero at COP26 Transport Day. 
+DECEMBER 2021POWER ENGINEERING INTERNATIONAL
+airports running efficiently requires 
+reliable power. SEA Energia (Società 
+Esercizi Aeroportuali) is responsible for 
+the electricity, heating, and cooling of 
+these two airports. The company needed 
+to revamp its existing power plant at 
+Milano Malpensa Airport to meet stricter 
+environmental legislation and ensure 
+a reliable supply of power, heating, 
+and cooling. The path they took was 
+to replace an existing aero-derivative 
+turbine with a Siemens Energy gas 
+turbine of type SGT-700.
+SEA Energia operates on an exclusive 
+basis for a single major customer, 
+producing electrical, heating, and cooling 
+energy. The company’s strategic vision 
+focuses on the sustainable generation of 
+value across its three main components: 
+economic, environmental, and social. 
+Its operations at the two airports aim 
+to save resources, reduce air, soil, and 
+water pollution, and constantly monitor 
+activities to ensure maximum system 
+efficiency. 
+Part of the concept includes upgrading 
+the existing power plant at Milano 
+Malpensa by replacing one of two 
+existing aero-derivative turbines, an 
+ageing Rolls Royce RB211, with one new 
+SGT-700. This gas turbine is an ideal fit 
+for power generation and mechanical 
+drive applications. With the high exhaust 
+heat, it is also excellent for cogeneration 
+and combined cycle applications. The 
+SGT-700 employs an 11-stage axial-
+flow transonic compressor incorporating 
+the latest aerodynamics, with variable 
+guide vanes for robust operability and 
+optimized performance over a wide 
+range of operating conditions. The 
+two-stage uncooled free power turbine 
+offers a nominal shaft speed of up to 
+6,500 rpm. For mechanical drive, it 
+may run at 50% to 105% of the nominal 
+rate. The power turbine can be matched 
+for optimal performance at different 
+ambient conditions. The installation of 
+the new gas turbine will help SEA Energia 
+enhance their plant performance both 
+from an efficiency and an environmental 
+perspective.
+Siemens Energy preserved much of 
+the existing plant and allowed power 
+generation continuity on the second 
+RB211 turbine that was to remain 
+in place. As the airport continued to 
+operate, it was essential to avoid any 
+disruptions to the power plant’s regular 
+operation. 
+Overcoming a triumvirate of challenges
+To ensure the successful delivery of the project, three significant challenges 
+had to be overcome. The first was to 
+ensure that there was no interruption or 
+disruption to the operation of the power 
+plant. To achieve this required Siemens 
+Energy to install the new turbine into the 
+system without jeopardizing the plant’s 
+regular operation. 
+Then came the actual logistics. This was 
+the first SGT-700 delivered by air freight 
+instead of traditional sea routing. This 
+involved some tricky discussions with 
+the air freight company regarding fitting 
+the turbine inside the Antonov transport 
+plane.
+Finally, there were the challenges presented by COVID-19. The pandemic 
+struck the world early in 2020, and 
+the effects are continuing to disrupt 
+operations. This had a significant impact 
+on the supply chain for manufacturing 
+the turbine. Several suppliers closed 
+their premises or reduced capacity due 
+to pandemic working practices. It took a 
+considerable effort from the purchasing 
+department to ensure that the schedule 
+was kept on track. 
+Further complications arose because of 
+the lack of face-to-face meetings with 
+stakeholders and EHS organizations on 
+the site during the progress of the project. 
+A worldwide footprint limited the possible 
+negative impacts, and delivery of the 
+new SGT-700 package was achieved on 
+schedule.
+A smooth commissioning process
+The project kicked off at Malpensa in 
+June 2020 when the Siemens Energy team 
+arrived on-site to begin site preparation. 
+The old turbine was removed and shipped Martino Bosatra, Board Member and Managing Director at 
+SEA Energi. Image credit: SEA Energia.This was the 
+first SGT-700 
+delivered by air 
+freight instead 
+of traditional sea 
+routing.
+POWER ENGINEERING INTERNATIONAL
+DECEMBER 2021
+back to the RB211 refurbishment site in the 
+UK. The requirement that this be achieved 
+whilst not disrupting the plant’s performance 
+presented some challenges, particularly 
+with the narrow spaces in the area due to 
+the presence of existing equipment. This 
+was particularly problematic when it came 
+to the lifting operations: with the existing 
+package weighing over 150 tonnes and 
+measuring 14 meters in length, this 
+required careful coordination. The current 
+air intake, ventilation intake and local 
+electrical room had to be preserved and 
+adapted for the new turbine. 
+Once the old turbine had been removed, 
+the foundations were checked and 
+repaired, and the gas turbine and 
+associated generator were delivered to the 
+site in November. Once the turbine was in 
+place, installation could begin. 
+Firstly, it was connected to the existing 
+system, both mechanically and electrically, 
+before checking the instrumentation and 
+the interface with the control system. Then 
+came commissioning, which involves 
+confirming that the reinstalled system 
+could communicate with the existing plant. With this checked, the machine could 
+be connected to the power grid with gas 
+fed to the turbine for the first firing. In 
+this process, the machine is fired up and 
+allowed to rotate while connected. If that 
+is successful, the next step is to connect 
+the machine and synchronize it to the 
+grid. Once it has passed these steps, the 
+circuit breakers are closed, and power can 
+be fed to the grid.
+Benefits for today and tomorrow
+“The journey started more than three 
+years ago with a challenging permit 
+process, which is now completed,” said 
+Martino Bosatra, CEO of Sea Energia. 
+“During this journey, a strong relationship 
+has been built between Sea Energia 
+and Siemens Energy. This relationship 
+has created, for both partners, a lot of 
+value, especially in terms of learning 
+and collaboration but also in identifying 
+potential solutions which might help SEA 
+to reach its own target in carbon footprint 
+reduction.”
+Once the plant is up and running in 
+June, SEA Energia will enjoy three 
+significant benefits: lower emissions, 
+higher efficiency, and greater reliability. 
+It will allow SEA Energia to comply with 
+the ever more restrictive regulations on 
+emission limits set by the Italian Region 
+of Lombardy for power plants. The SGT-
+700 will significantly decrease the site’s 
+emissions while meeting all the airport’s 
+requirements for power, heat and cooling. 
+The contract guarantees compliance with 
+the emission limits for environmental pollutants, especially NOx, CO and PM. 
+With the SGT-700 optimizing the output, 
+higher energy efficiency can be achieved. 
+The turbine will also improve reliability to 
+the customer with its proven track record 
+of hundreds of thousands of working 
+hours worldwide.
+For SEA Energia, the prime focus was 
+on improving the airport’s day-to-day 
+operation, but above and beyond that, 
+there are further possibilities down 
+the road. One opportunity could be to 
+partake in the grid capacity markets that 
+allow generators to sell any extra capacity 
+back to the power grid. Although market 
+conditions do not make that a priority at 
+present, it is an option for the future. 
+Secondly, and more relevant over the long 
+term, is the turbine’s flexibility towards fuel. 
+While natural gas is the preferred option, 
+there is a growing movement towards 
+utilizing hydrogen for power generation. 
+With technology now available to generate 
+green hydrogen, hydrogen produced using 
+only renewable energy – a technology 
+that Siemens has developed with its Silyzer 
+electrolysers – the path is open to making 
+the power plant’s environmental footprint 
+even smaller. 
+Siemens Energy is already running the 
+turbines with a mix of gas and hydrogen 
+and guarantees that by 2030 all SE gas 
+turbines will run entirely on hydrogen. This 
+is a significant assertion for operators, 
+reassuring them that their investment will 
+continue to be futureproof whatever the 
+future path of the energy transition.For SEA Energia, 
+the prime 
+focus was on 
+improving the 
+airport’s day-to-
+day operation...
+The Siemens Energy SGT-700 gas turbine. Image credit: Siemens Energy

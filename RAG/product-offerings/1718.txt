@@ -1,0 +1,389 @@
+Power  
+transformers
+Machine and network transformers from  
+30 to over 1,300 MVA
+ siemens-energy.com/transformer
+Quality and performance – for us,  
+a tradition and a matter of principle
+Siemens Energy power transformerA basic requirement for all power transformers is to deliver 
+power to the consumer efficiently and  reliably. Every single 
+transformer is unique, designed according to individual fac-
+tors such as voltage, power rating, climate, network topog-
+raphy, noise level, and many other criteria. At Siemens 
+Energy we translate your individual requirements into the 
+very highest quality, and our power transformers are well 
+known for oper-ating reliably over many years.
+Our quality guarantees reliability
+Our high quality standards are known and acknowledged 
+internationally. All Siemens Energy transformer 
+manufacturing plants worldwide work with consistently 
+certified quality management systems, such as DIN ISO 
+9001:2008, among others. Above all, our high standard of 
+quality is based on more than a century of experience in this 
+field, as well as continual research and development work.You can rely on performance ‒ 
+anytime and anywhere
+For our customers, power transformers are a core component 
+of their power transmission system. For us, they are a 
+passion. For more than 100 years, we’ve partnered with 
+well-known power supply and industrial companies around the world. Our global manufacturing network allows us to optimally combine the advantages of a large global 
+group with a regional presence. Wherever you are, we 
+are close by to assist you with our expertise acquired over 
+many years. We’re ready to partner with you from the first steps of transformer planning, design, and production to transport and commissioning. Naturally, we continue to support you and service your transformer after delivery and commissioning. With our Transformer Lifecycle Management, we can also precisely fulfill special customer wishes and play a major role in increasing the service life of transformers.
+ 2
+The first choice every time
+The chief applications for power transformers are as 
+machine and network transformers. Equipped with on-load or deenergized tap changers or a combination of both, they achieve a constant output voltage. We manufacture power transformers according to their intended application and the customer’s requirements in single-phase as well as three-phase versions as multi-winding transformers or autotransformers – with power ratings of up to 1,300 MVA and for voltages of up to the highest insulation class of 800 kV. They can also be designed to be fully or partially transportable. And of course we manufacture our transformers according to the specifications of IEC 60076 and other international and national standards such as ANSI/IEEE and IEC.
+Delivery of a transformer
+“We find the Siemens Energy service excellent.” 
+Power supply company, United Arab Emirates
+“An expert, reliable, and trustworthy business partner.” 
+Power supply company, Austria
+“Our contacts at Siemens Energy Transformers are very 
+knowledgeable and listen to our needs and requests. They 
+evaluate them swiftly and try to answer our inquiries as 
+quickly as possible.”
+Customer in the metal industry, Brazil
+“I’m happy to recommend Siemens Energy transformers to 
+my business partners.” 
+Power utility specializing in hydropower, Canada
+“Their experts work highly professionally. Siemens  Energy 
+transformers are highly regarded.”   
+Consulting company, China
+Power transformer with ester insulation and heat exchanging 
+device in the testfield
+Technical progress is our maxim 
+Every one of our transformers combines decades of 
+experience and our conviction that no matter how good 
+and well established a product is, there is always room for 
+further improvement. To this end, we not only develop and 
+produce transformers according to customers’ requirements, 
+but we have a policy aimed  specifically at driving innovation 
+forward. Not so long ago, extra-quiet transformers, eco-
+friendly liquid dielectrics, and  DC compensation solutions 
+were still regarded as a vision for the future – but thanks 
+to our intensive research and development work in close 
+cooperation with our customers, they are now part of our 
+standard delivery range.international and national standards 
+such as ANSI/IEEE and IEC.
+What our customers say
+“We know our contacts at Siemens  Energy personally and 
+they are always on hand to help us, even with complex 
+matters. That’s the way a good customer relationship should 
+work.”  
+Power utility, USAPower transformer with sound house
+ 3
+A global engineering network
+This brochure gives you an overview of the internationally 
+standard steps in the manufacturing of our power transform -
+ers.
+The unique organization of our global production network 
+offers our customers clear advantages:
+•Prompt preparation of bids
+•Optimized, consistent end-to-end project management
+•Noticeably shorter production and delivery times
+•Very high delivery reliability
+•Flexibility and reliability thanks to backup factories
+•Fast, standardized documentation
+•Just-in-time deliveryWe manufacture Siemens Energy power transformers in a 
+total of 13 transformer factories on four continents.
+Naturally, each one of these production plants has a different
+focus in terms of  research and development. Our network of 
+factories ensures that our customers worldwide profit from
+the special skills  and solutions of all individual locations. Our 
+production plant concept makes sure that the same extensive 
+know-how and the same technology and quality are available 
+to our custom-ers around the world, regardless of location. 
+Harmonized de-sign, globally  standardized design
+guidelines, and standard  IT programs for all plants ensure
+that our customers always receive the best possible product, 
+no matter which Siemens Energy factory they purchase it 
+from. A modular principle makes it possible to implement
+customers’ specific requirements.
+Power transformer factories
+1.Nuremberg
+2.Weiz
+3.Zagreb
+4.Linz
+5.Trento
+6.Dresden
+7.Jundiaí
+8.Tenjo
+9.Guanajuato
+  1
+24
+35
+7891012
+116
+ 41310.
+ Guangzhou
+11. Wuhan
+12. Jinan
+13. Charlotte *
+*under construction
+The making of a transformer
+The core 
+The iron core forms the central element of every Siemens  
+Energy transformer. High-grade, cold-rolled and laser treated 
+metal sheets with thicknesses of 0.3 mm or less are 
+precision-cut with computer-controlled machines, to ensure 
+compliance with even the smallest tolerances. The individual 
+sheets are then assembled into cores manually using the 
+“step-lap” tech- nique. In this way we achieve an especially 
+good flux distri -bution at the joints, resulting in exceptionally 
+low losses and minimal no-load noise. When the transformer 
+core is ready, a hydraulic platform moves it into the vertical 
+installation position in which the windings are assembled.
+The windings  
+Transformer windings are subject to continuously high 
+electrical and mechanical loads. Disk and cylindrical coils with transposed conductors of copper wire guarantee high mechanical strength here and long operational reliability.
+Disk coils for high voltages consist of continuously wound 
+coils that are divided by radial and axial channels for oil cooling. They are manufactured on vertical and horizontal winding lathes. Thanks to the continuous winding of the disk coils, the number of soldering points is reduced to a minimum. Precise control systems ensure constant contact pressure and winding tension while experienced coil winders monitor every working step. 
+Multi-layer windings for low voltages consist of concentrically 
+superimposed cylindrical coils separated by axial oil ducts.
+After winding, the coils are pressed, dried under constant 
+pressure, impregnated with oil, measured exactly, and geometrically adjusted if required.
+Precision from the very first step: Laying the core
+Windings made of transposed conductors reduce additional 
+losses to a minimum
+Voltage control 
+The grid and generator voltage can vary significantly from 
+the rated value as a result of external influences. Siemens 
+Energy transformers therefore provide facility for adapting 
+the volt-age to the grid conditions. It can either be changed  
+in the deenergized state by means of a deenergized tap 
+changer or adjusted in steps under load using on-load tap 
+changers. On-load tap changers and optionally deenergized 
+tap changers are fitted with a motorized drive and can be 
+controlled either locally or remotely.
+On-load and deenergized tap changers ensure that the out -
+put voltage remains constant
+ 5
+The tank 
+High-grade, quality-assured tanks define the appearance of 
+our transformers. This protective shell accommodates the 
+core-and-winding assembly and the insulating oil. Together 
+these often weigh several hundred tons. The tank should therefore not add too much extra weight, but at the same time it has to be structurally sound and leak-proof, and 
+must withstand mechanical stresses. First-class corrosion 
+protection is therefore a basic requirement for long tank life.
+Transport of a transformer tank
+Cooling 
+The necessity of not exceeding the generally permissible 
+maximum heating and of avoiding “hot spots” in the trans-former require the cooling system to be dimensioned accord-ingly. Various methods of cooling can be used depending on the individual service conditions to guarantee reliable and problem-free operation over many years. The most note-worthy are the ONAN, ONAF, OFAF, and ODAF oil-air cooling and OFWF and ODWF oil-water cooling systems. The radiator banks and oil-air and oil-water coolers can be attached to the transformer or installed separately.
+Cooling equipment ensures efficient heat dissipationFinal assembly 
+The core-and-coil assembly of the transformer is made up 
+of core, windings, tap switches, and connecting cables. 
+Particular emphasis is placed on the mechanical stability of 
+the windings. Axial shear forces are minimized by a joint press ring for all windings on a core limb, since this fixes the geometrical position of the individual windings. The core-
+and-coil assembly is then dried in a vapor-phase system under 
+vacuum at 130°C. After drying, all bolted connections on the 
+core-and-coil assembly, which is still at a temperature of over 100°C are tested and secured, and the assembly is installed in 
+the tank as quickly as possible. For increased life expectancy, 
+the transformer is filled with insulating oil without delay so that the insulating parts absorb no moisture from the ambient air.
+Once the attachments such as motor drive, control cabinets, 
+bushings, and monitoring equipment are installed, the power transformer spends a certain time in the unenergized state, and is then ready for final testing and inspection. 
+Manual work from the first step to final assembly
+ 6
+Final inspection and testing 
+Only after final inspection and testing is successfully complet-
+ed do we dispatch a transformer to the customer. Each of our 
+factories has a high-voltage test bay for this purpose in which 
+a wide range of tests is carried out, from voltage tests – in-cluding lightning impulse voltage with-stand tests – and tem-perature-rise tests, to special tests  for insulation resistance, 
+harmonics, or noise level. Short-circuit tests are performed in 
+internationally recognized and approved institutes.
+These comprehensive tests are a major reason why our power 
+transformers are among the most reliable in the world, and 
+why customers around the world trust our quality – which has been proven in every single case.
+For testing, the transformer is completely set up and 
+connected
+Transformer service  
+Even after the transformer has left the factory, customers 
+can still rely on the support of our experts. We handle the 
+transport and gladly carry out installation and commissioning 
+on request.
+We also offer our customers many different services to ensure 
+reliable, fault-free operation throughout the entire lifecycle 
+of our transformers. Our professionals from the Transformer 
+Academy provide training courses on every aspect of our transformers, while our Transformer Life cycle Management 
+takes care of all problems and questions that arise during 
+operation, from oil analysis and fault diagnosis, online monitoring, maintenance, and repair to fast and reliable procurement of spares, as well as repairs and retrofits.
+Transformer in the extra-high voltage test hall
+Integrated Condition Monitoring System
+ 7
+Always keeping an eye on overall costs
+Transformers are high-value capital goods that have to pay 
+back their cost over decades. That’s why it is advisable not to make the acquisition costs the sole determining factor when 
+purchasing a transformer, but also to always include the 
+operating costs in the equation. Downtimes, fires, and explo-
+sions, but also failure to take perfectly plannable details into account, can quickly make an ostensibly low-cost transformer an expensive investment. So these factors must always be 
+calculated as part of acquisition and operating costs before 
+making a purchase decision.
+Daily savings with efficient trans -
+formers 
+The question of efficiency has top priority in the calculation 
+and design of our transformers. Ultimately, low losses mean real savings for our customers, and they also help protect the environment. That’s why efficiencies of over 99 percent are standard for our transformers today. At  the same time, more efficient transformers are quieter, which also benefits people and the environment. And if they need to be extra quiet in a particular case, you can rely on our engineers’ unique noise-minimizing solutions.    Our “whisper transformers” do not operate with purely passive attenuation, but actively rem-edy the root cause of the characteristic transformer hum.Environmentally friendly solutions 
+Thanks to our innovations and research in all aspects of alter-
+native liquid dielectrics, we can offer transformers for deploy -
+ment in locations with particularly high safety requirements, 
+such as nature reserves, groundwater protection areas, or 
+at sea. We have many years of experience with mineral oil 
+alternatives in power transformers, as well as with silicone 
+oils and also with liquid dielectrics made from synthetic and 
+natural esters.
+Minimized risk of failure 
+An important major requirement in transformer construction 
+is keeping the risk of failure as low as possible. Unscheduled 
+disconnection of a transformer from the grid causes high 
+costs. That’s why we ensure maximum reliability of all our 
+products in everyday operation. There are good reasons why 
+Siemens Energy transformers are known for maximum short-
+circuit strength, overload capability, high-temperature 
+operation, reliable start-up after a power outage, and low 
+maintenance costs.
+700
+600500
+400300
+200
+100
+0
+-100
+-200-300-400
+0.50 1.00 1.50 2.00 2.50 3.00 3.50 4.00 4.50 5.00Cost Amortization process
+TimeReturn of investmentCost savings 
+through lower operational costs
+Additional costs for a loss-optimized transformerA. Low-cost transformer
+PO No load losses 200.01 kW
+PK Load losses 904.70 kW
+Cp Purchase price 2,679,337 $
+TCOTotal cost of owning 
+and operating2,425,211 $/ yearB. Low-optimized transformer
+PO No load losses 217.49 kW
+PK Load losses 763.3 kW
+Cp Purchase price 9,995,698 $
+TCOTotal cost of owning 
+and operating2,256,215 $/ year
+ 8
+Detailed calculation parameter
+Depreciation period n - 30 years
+Interest rate p - 12 %
+Energy charge Ce - 0.25 $/kWh
+Demand charge Cd - 350 $/kWh
+Equivalent annual load factor a - 0.8 -
+Depreciation factor r r = p*q^n/(q^n-1) 12.41 -
+Interest factor q q = p/100+1 1.12 -
+Purchase price Cp $/
+Capital Cost Cc Cc = Cp*r/100 $/year
+Cost of no- load loss CPO CP0 = Ce*8760h/year*P0
+Cost of no- load loss CPK CPK = Ce*8760h/year*PK*α
+Cost resulting from demand charge CD CD = Cd (P0+Pk) 650  mmThe evaluation of a transformer by its costs of ownership and 
+operation depends on the purchase price and the total op-erating costs (TOC=Cc+CP0+CPK +CD). A comparison of two 
+transformer designs is presented here, showing that theenergy saving of the optimized distribution transformer of 
+$168,996 per year pays for the increased purchase price of $276,361 in less than 2 years.
+ 9
+References
+Project  
+Kupfer zell
+Customer 
+Transn etBW
+Destination
+German y
+Year of market entry2019Highlight
+•First transformer with natural ester with a rating of 400
+MVA/420 kV
+•Improved cold start due to lower pour point at -30° C
+Product specification
+•Total weight: 460 tons
+•Insulation liquid: Midel eN 1204 Natural Ester
+•Cooling type: KDAN/KNAN
+Transformer
+420 kV/ 400 MVA Power Transformer
+Project  
+Consolidated Edison 
+New York
+Customer 
+Consolidate d Edison 
+New York
+Destination
+USA
+Year of market entry
+2020
+Project  
+First Sensformer 
+Advanced 
+Customer 
+Allgäu Überlandwerke 
+Destination
+Germany
+Year of market entry
+2021
+Project  
+Highbury
+Customer
+National Grid UK 
+Destination
+UK
+Year of market entry
+2015
+Highlight
+•Plug-in bushings and cable connections
+•Transport oil filled
+•Full overload conditions as per ConEd specification
+e.g., 169%, 1 hour, @30°C ambient
+Product specification
+•LV wit h alternative plug-in cable connections to grid
+OLTC and DETC for voltage regulation and
+switching between operating voltages
+•Noise level 70 dB(A) no-load
+•KDAF – Ester Fluid – Synthetic Ester – MIDEL® 7131
+•Hybrid insulation using NOMEX® and TUP
+Highlight
+•New virtual sensors created by the thermal Digital Twin
+model:
+•Virtual sensor top oil temperature and winding
+temperature HV/LV (hot spot)
+•Additional real sensors and data usually not specified bythe customer i.e.
+Product specification
+•Ambient temperature (2 sensors on both sides of the Tx)
+•Winding current LV
+•Oil temperature cooler inlet/outlet on both sides (HV/LV)
+•Cooling method ONAN/ONAF
+•KDAF – Ester Fluid – Synthetic Ester – MIDEL® 7131
+•Hybrid insulation using NOMEX® and TUP
+Highlight
+•First ever 400 kV Ester filled MIDEL ® 7131 transformer
+Product specification
+•Heat recovery system for school and residential buildings
+•Ultra low noise cooler (30 db(A) @ 10m)
+•240 MVA, three-phase AUT
+•400/132/13 kVTransformer
+100 MV A, single-phase 60 Hz 
+Resilience transformer
+Transformer
+31,5/40  MVA, 112/20 kV 
+Power Transformer
+Transformer
+300 MVA three-phase
+Autotransformer
+ 10
+Published by
+Siemens Energy Global GmbH & Co. KG
+Transmission
+Freyeslebenstr. 1
+91058 Erlangen
+Germany
+siemens-energy.com
+© Siemens Energy, 2024
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which
+may not always specifically reflect those described, or which may undergo
+modification in the course of further development of the products. The
+requested performance features are binding only when they are expressly 
+agreed upon in the concluded contract. All product designations may be 
+trademarks or product names of Siemens Energy Global GmbH & Co. KG
+or other companies whose use by third parties for their own purposes 
+could violate the rights of the owners.For the U.S. Published by  
+Siemens Energy, Inc  
+Transmission  
+4601 Six Forks Road  
+Raleigh, NC 27609  
+USA

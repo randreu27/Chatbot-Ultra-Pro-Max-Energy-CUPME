@@ -1,0 +1,900 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Power -to-X: The 
+crucial  business  on 
+the way  to a 
+carbon -free world  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+siemens -energy.com/electrolyzer  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  2  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents  
+Why  engage  in Power -to-X 
+Page  3 
+1.1 Fast decarbonization  is a must  
+1.2 Sector  coupling  opens  the whole  energy  landscape  for renewable  sources  
+1.3 Power -to-X is the important  pathway  
+1.4 The core  of Power -to-X is green  hydr ogen  
+1.5 Decarbonizing  the world  with  Power -to-X could  begin  today  
+ 
+Technology:  Power -to-X and use cases  
+Page  7 
+2.1 Power -to-Hydrogen  
+2.2 Power -to-Methanol,  Power -to-Hydrocarbons  
+2.3 Power -to-Ammonia  
+ 
+Down  to business:  economic  feasibility  and drivers  
+Page 9  
+3.1 Production  of e-Fuels  under  best local  conditions  
+3.2 Power -to-X can contribute  to grid balancing  
+3.3 E-Fuels  outperform  biomass -based  fuels  
+3.4 Regulatory  inducements  are still needed  
+ 
+Hand  in hand:  solutions  provided  by Siemens  Energy  
+Page 1 2 
+4.1 Siemens  Energy  H2 package  
+4.2 Siemens  Energy  re-electrification  package  
+4.3 Digital  solutions  and Power -to-X system  design  package  
+ 
+The power  of now:  The hydrogen  economy  starts  today  
+Page  21 1 
+2 
+3 
+4 
+5 
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  3  
+  
+ 
+ 
+1. Why  engage  in Power -to-X 
+ 
+ 
+1.1 Fast decarbonization  is a must  
+The climate  crisis  is palpable:  According  to the United  Nations,  storms,  wildfires,  droughts  and other  extreme  weather  
+phenomena  fueled  by climate  change  have  hit 4.5 billion  people  in the past 20 years,  and a study  from  the German  insur - 
+ance  company  Munich  RE showed  that the cost of these  disasters  in 2018  alone  amounted  to US$160  billion.  The contin - 
+ued projections  of damage  caused  by the emission  of greenhouse  gases  are dire and incalculable:  rising  global  tempera - 
+tures,  shrinking  glaciers,  warmer  oceans,  vanishing  coastlines  and increasing  natural  catastrophes.  
+ 
+Curbing  the greenhouse  effect  has become  one,  if not the decisive  factor  for energy  policies  worldwide.  In an effort  to 
+limit  global  warming  to well below  2 °C above  preindustrial  levels,  the Paris  Agreement  negotiated  at the 2015  United  
+Nations  Climate  Change  Conference  requires  zero net emissions  by 2045  to 2060.  One hundred  and seventy -four countries  
+have  signed  the treaty,  but political  pressure  in industrialized  countries  is mounting  to increase  the speed  of transforma - 
+tion.  In October  2018,  the International  Panel  on Climate  Change  (ICPP)  further  reiterated  the need  for decarbonization  
+and recommended  an even  more  challenging  target  of limiting  global  warming  to 1.5 °C by the end of the century,  further  
+increasing  the pressure  for transformation.  
+ 
+Enormous  efforts  and investments  have  been  made  to increase  the share  of electricity  from  renewables  in the power  
+sector  up to 25 percent  globally  in 2017,  but with  little  impact  on global  carbon  emissions.  As the power  sector  contributes  
+to the global  CO2 emissions  by only 40 percent,  little  progress  in decarbonizing  the remaining  60 percent  from  other  
+sectors  such  as transportation,  buildings,  industry  and others  has been  seen.  In fact,  greenhouse  gas emissions  have  
+continued  to peak  year on year with  a record  increase  of 1.7 percent  in 2018.  
+1.2 Sector coupling opens the whole energy landscape for renewable  
+sources  
+In a fossil -dominated  economy,  decarbonization  of sectors  like industry,  power,  heating,  gas or mobility  was largely  driven  
+separately.  To reach  the target  of net zero CO2 emissions  by mid-century,  these  separate  sectors  have  to be integrated  or 
+coupled  in order  to provide  renewable  energy  from  the power  sector  to support  their  decarbonization.  This sector  coupling  
+is a fundamental  element  of the energy  transition.  The blurring  of industry  boundaries  becomes  even  more  important  as 
+the installed  capacity  in renewable  energy  continues  to rise. Already  in some  countries  today,  the power  provided  by wind  
+and solar,  by far the most  important  sources  of renewable  energy,  supersedes  the immediate  consumption.  As a result,  
+many  wind  farms  need  to be curtailed  when  their  power  generation  exceeds  demand.  
+ 
+Using  renewable  electrical  energy  from  the power  sector  to decarbonize  energy  across  all sectors  unlocks  enormous  envi- 
+ronmental  and business  potential:  Under  certain  conditions,  we can demonstrate  that sector  coupling  offers  the potential  
+to reduce  primary  fossil  energy  consumption  by 50 percent.  At the same  time,  power  demand  would  need  to increase  by 
+25 percent,  making  the power  sector  the backbone  of energy  supply.  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  4  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+However,  coupling  mostly  volatile  renewable  energy  resources  with  the different  sectors  leads  to complex  structures  with  
+the need  for optimized  operation  and control  modes.  Digital  solutions  will play an important  role in enabling  such  infra - 
+structures.  
+ 
+1.3 Power -to-X is the important  pathway  
+Power -to-X processes  are the technological  answer  for sector  coupling.  For decades,  combined  heat  and power  generation  
+(CHP)  has been  a success  for maximizing  the efficiency  of fossil  energy  by using  waste  heat  for the heating  sector.  Power - 
+to-Heat  via heat  pumps  or – simple,  but less efficient  – heating  rods will now  open  a new green  concept  for heating  
+buildings  or even  provide  process  heat  for the industry.  Electromobility,  the direct  use of electrical  energy  via batteries,  is 
+currently  promoted  in numerous  countries,  mainly  for cars.  No doubt  – this is a major  disruptive  trend.  However,  electro - 
+mobility  is most  likely  not the answer  for long -haul heavy  transportation,  marine  and aviation.  Here,  energy -dense  syn- 
+thetic  fuels  generated  from  renewable  electrical  energy,  called  e-Fuels,  should  increasingly  replace  fossil  fuels.  These  
+e-Fuels are similar to and can be mixed with conventional fuels in order to reduce the carbon content in the fuel mixture  over 
+time, without the need to change cars or the fuel logistics infrastructure. In this manner, the transition from a fossil  world  to 
+a largely  carbon -neutral  environment  can be done  smoothly  with  immediate  emission  reductions  on the way.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  5  
+  
+ 
+ 
+1.4 The core of Power -to-X is green  hydrogen  
+Currently  around  70-80 million  tons of hydrogen  are produced  worldwide  every  year mostly  from  steam  methane  reform - 
+ing or autothermal  reforming.  Fifty  percent  of this hydrogen  is used  for the synthesis  of ammonia,  which  is the basis  for 
+ammonia  phosphate  or urea  and other  chemicals.  Hydrogen  is also used  in refineries  for hydrocarbon  cracking  and other  
+processes.  In the food  industry,  hydrogen  is used  for fat hardening.  
+ 
+The conventional  method  for producing  hydrogen  is the steam  reforming  process,  in which  steam  reacts  with  natural  gas 
+to produce  synthetic  gas or syngas,  a mixture  of hydrogen  and carbon  monoxide.  CO is shifted  to CO2,  which  is ultimately  
+removed,  but usually  emitted  to the atmosphere.  If the CO2 is sequestered,  which  is increasingly  being  considered  by 
+different  companies,  this fossil -based  hydrogen  can be produced  without  CO2 emissions  to a certain  extent.  
+ 
+In comparison, the generation of green hydrogen via electrolysis of water with electrical energy from renewable sources is  
+completely free of CO2 emissions from the beginning. Hydrogen exclusively generated from electrical, renewable energy is  also 
+known  as green  hydrogen.  
+ 
+The discovery  of electrolysis  goes  back  to the year 1800,  when  the Italian  physicist  Alessandro  Volta  discovered  that water  
+molecules  could  be split into oxygen  and hydrogen  by means  of an electric  current.  This discovery  has become  a key 
+technology  for the energy  transition  because  the chemical  bond  energy  in hydrogen  can be extracted  in many  ways.  
+ 
+It can be easily  stored  and used  either  as a direct  fuel for mobility  or as a feedstock  for various  industries.  Via synthesis  
+with  carbon  dioxide  (from  unavoidable  industrial  emissions  or from  direct  air capture)  it can be converted  into synthetic,  
+sustainable  e-Fuels  such  as e-Methanol,  e-Methane,  e-Diesel,  e-Jet Fuel or other  carbon -based  chemicals.  E-Ammonia  from  
+green  hydrogen  and nitrogen  is another  application.  
+ 
+In a vastly  decarbonized  world,  green  hydrogen  will realize  long -term,  seasonal  power -to-power  storage  on a large  scale.  
+Re-electrification  will be realized  in H2-capable  gas turbines,  engines  or fuel cells to provide  security  of electricity  supply  in 
+periods  of low renewable  energy  supply,  e.g. lack of wind.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  6  
+  
+ 
+ 
+ 
+Power -to-X allows  a smooth  transition  from  the fossil  world  to a carbon -free one with  increasing  emission  reductions  on 
+the way:  E-Fuels  can be mixed  with  fossil  fuels  to reduce  the overall  carbon  footprint.  A steady  increase  of sustainable  
+content  in the fuels  allows  for a gradual  transition  towards  a full replacement  of fossil  fuels  as a primary  source  of energy  
+and raw materials  in transportation,  heating,  industry  and power  generation.  
+1.5 Decarbonizing  the world  with  Power -to-X could  begin  today  
+The transition  to a carbon -free economy  will need  investments  on a massive  scale.  Electric  cars,  for example,  are only 
+carbon  neutral  if the power  fueling  them  comes  from  renewable  sources.  But the main  impediment  to changing  the fleet  
+today  is the investment  required  to create  a network  of charging  stations,  and investors  are hard  to attract  because  the 
+number  of electric  cars is still small.  Moreover,  long -distance  modes  of transportation,  like heavy -load vehicles,  prove  
+more  difficult  to electrify  without  developing  a trolley  system  or overhead  lines,  and ships  or commercial  aircraft  cannot  
+run on electricity  alone.  It’s therefore  unlikely  that electromobility  alone  can achieve  a significant  reduction  of greenhouse  
+gas emissions  in the coming  years.  
+ 
+Power -to-X can produce  fuels  that have  an immediate  decreasing  effect  on greenhouse  gas emissions:  E-Methane,  e-Meth - 
+anol,  e-Diesel,  e-Gasoline  or e-Jet Fuel can be used  within  existing  fuel logistics  infrastructures.  While  some  synthetic  fuels  
+used  today  are produced  from  fossil  sources,  making  them  neither  carbon -neutral  nor carbon -free,  synthetic  e-Fuels  from  
+Power -to-X processes  are different.  These  e-Fuels  could  also be produced  with  excess  electricity  from  wind  and solar  
+farms,  avoiding  the current  temporary  reductions  or shutdowns  of these  sources  when  they generate  too much  power  for 
+the grid.  
+ 
+The same  holds  true for the heating  sector:  Existing  infrastructures  such  as gas pipelines,  gas stations  and storage  facilities  
+could  be continuously  used.  And again,  it holds  true for power  generation  on a massive  scale.  Hydrogen  is already  suitable  
+for re-electrification,  since  modern  gas turbines  can be operated  with  a hydrogen  admixture  in natural  gas up to 100 
+percent.  Hydrogen  can therefore  be stored  in gas grids  and re-electrified  with  gas turbines,  using  special  burners  to mini - 
+mize  NOx emissions.  
+Sector  coupling  and Power -to-X is the way towards  closed  CO2 cycles  and CO2 neutral  infrastructures.  
+ 
+Renewable  energies  can be used  to decarbonize  many  sectors  of the economy.  Together  with  energy -efficient  technolo - 
+gies such  as heat  pumps,  electromobility  or combined  heat  and power  plants,  Power -to-X is critical  to reducing  CO2 emis - 
+sions.  The synthesis  of green  hydrogen  with  CO2 results  in a largely  closed  CO2 cycle:  It is captured  where  the e-Fuels  are 
+produced  and emitted  where  they  are used,  making  these  e-Fuels  largely  carbon -neutral.  
+ 
+Energy  can be stored  in huge  quantities  and for long  periods  of time  within  an already  existing  storage  infrastructure,  
+such  as gas grids  (hydrogen  or e-Methane).  Production  peaks  of volatile  renewables  can thus  be stored  for later  use, 
+increasing  the security  of supply.  With  Power -to-X solutions  in large  dimensions,  renewable  energies  can also be used  in 
+far-off places  where  it’s currently  not viable  because  of nonexistent  grids  or a low requirement  for electrical  energy.  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  7  
+  
+ 
+ 
+2. Technology:  Power -to-X and use cases  
+ 
+ 
+ 
+ 
+2.1 Power -to-Hydrogen  
+The Siemens  Energy  H2 package  comprises  all systems  to produce  green  hydrogen,  including  a PEM electrolyzer,  compres - 
+sion and storage  solutions.  
+ 
+An electrolyzer  uses  electricity  to convert  water  into hydrogen.  There  are three  types  of electrolysis:  
+ 
+• solid  oxide  electrolysis,  which  is under  development  and currently  introduced  on small -scale,  
+ 
+• alkaline  with  high  commercial  maturity  and operational  experience,  and 
+ 
+• proton  exchange  membrane  (PEM)  electrolysis.  
+ 
+With PEM technology, the electrolyzer can be switched on and off without preheating, leading to high flexibility and  
+overall system efficiencies even at part loads. It is therefore perfectly suited for the load profiles of renewable power  
+sources  like wind  and solar,  which  are volatile  by nature.  
+ 
+Depending  on the application,  green  hydrogen  can then  be purified  and compressed  to levels  needed  for direct  use, stor- 
+age or distribution.  
+ 
+As an energy  carrier  and base  chemical,  green  hydrogen  is used  for different  applications:  
+ 
+Electricity:  through  re-electrification:  the high -capacity  storage  of electrical  energy  via green  hydrogen  and re-electrifica - 
+tion in gas turbines  (simple  cycle  and combined  cycle),  engines  or fuel cells.  This use is expected  in the medium  to long  
+term.  
+ 
+Heat:  the generation  of especially  high -temperature  (process)  heat  by the combustion  of green  hydrogen  or in a com- 
+bined  heat  and power  (CHP)  process.  Again,  this use is expected  in the medium  to long  term.  
+ 
+Mobility:  By reducing  the CO2 intensity  of conventional  fuels  and replacing  fossil -fuel-based  hydrogen  in refining  process - 
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  8  
+  
+ 
+ 
+ 
+es, the mobility  sector  can achieve  around  10 percent  decarbonization  in the short  term.  In the long  term,  100 percent  
+decarbonization  would  be possible  with  additional  new infrastructure,  e.g. hydrogen  stations  and fuel cells.  
+ 
+2.2 Power -to-Methanol, Power -to-Hydrocarbons  
+Alternative  pathways,  especially  essential  for the decarbonization  of the mobility  sector,  are e-Fuels  synthesized  from  
+green  hydrogen  with  CO2,  e-Methane  (CH4,  via the Sabatier  process),  e-Methanol  (CH3OH)  or via the Fischer -Tropsch  
+process  electricity -based  jet fuels,  diesel  or waxes  (CXHy). These  synthesis  processes  take place  at elevated  pressure  levels  
+(e.g.  methanol  synthesis  at ~80 bar),  are exothermal  and catalytic.  They  are well established  for syngas,  a mixture  of 
+hydrogen  and carbon  monoxide,  which  is generated  from  fossil  sources  such  as natural  gas or coal.  Applying  carbon  
+dioxide  instead  needs  the conversion  of CO2 to CO in a separate  process  – the reverse  water -gas shift.  For e-Methanol  
+different  companies  and institutes  are developing  commercially  available  processes  for the direct  conversion  of hydrogen  
+and CO2.  In contrast  to conventional  base -load operations  of such  processes  in the chemical  industry  today,  the production  
+of e-Fuels  needs  to be viable  for flexible  load operation.  
+ 
+Together  with  biofuels,  e-Fuels  are highly  relevant  for reducing  CO2 emissions  in the mobility  sector:  While  still using  the 
+existing  infrastructures  (distribution,  filling  stations),  about  50 percent  of decarbonization  is expected  in the medium  term  
+with  these  largely  carbon -neutral  e-Fuels.  Carbon  will be used  as a carrier  to bring  renewable  energy  as e-Fuels  into to- 
+day’s  infrastructure  (state -of-the-art fuel station  systems,  ships,  aviation),  bridging  new and existing  technology.  
+ 
+In that context  e-Methanol  is of special  importance  for the mobility  sector:  For example,  China  today  uses  about  a third  of 
+its still fossil -fuel-based  methanol  production  for transportation  (in different  qualities,  M15  to M100).  In Europe,  already  
+today  about  3 percent  of methanol  could  be admixed  to fossil  gasoline.  Producing  it from  renewable  energy  sources  would  
+directly  avoid  the net CO2 emissions  stemming  from  the conventional  supply  chain.  Via the Methanol -to-Gasoline  (MtG)  
+process,  fully sustainable  e-Gasoline  could  be produced.  Other  subsequent  products  are fuel additives  (MTBE),  formalde - 
+hyde,  formic  acid or olefins  (MTO).  
+ 
+Power -to-Carbon -based  e-Fuels  open  a way for decarbonizing  the transportation  sector  beyond  the gains  reached  through  
+electromobility.  Main  applications  are seen  for trucks,  ships  and in aviation.  
+2.3 Power -to-Ammonia  
+E-Ammonia  (NH3)  is synthesized  from  green  hydrogen  and nitrogen  derived  from  an air separation  unit.  The underlying  
+Haber -Bosch  process  is well established.  E-Ammonia  can be used  as feedstock  for fertilizers  (urea,  ammonia  phosphates),  
+other  chemicals  and potentially  synthetic  e-Fuels  (e.g.  for shipping  industry).  With  about  175 kilograms  of hydrogen  per 
+ton of ammonia,  it is an excellent  carrier  of hydrogen  to transport  it over  far distances  using  the existing  infrastructure.  
+For regaining,  the hydrogen  ammonia  cracking  processes  are under  development.  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  9  
+  
+ 
+ 
+3. Down  to business:  economic  feasibility  and 
+drivers  
+3.1 Production  of e-Fuels  under  best local  conditions  
+With  green  hydrogen  positioned  to become  an important  component  of a decarbonized  world,  the demand  for hydrogen  
+is already  rising  and set to rise even  more  in the future.  Production  costs  for renewable  energy  have  dramatically  de- 
+creased  over  the last decade.  Levelized  cost of electricity  (LCoE)  for onshore  wind  power  has been  shown  to fall below  
+US$20/MWh  in the USA and Mexico.  The same  applies  to solar  power  in different  regions.  
+ 
+ 
+ 
+ 
+In addition  to the electricity  generation  cost,  the capacity  factor  (full-load hours)  of the electrolysis  is the dominant  aspect  
+for the cost of green  hydrogen,  defining  the capital  efficiency  of the electrolyzer  and synthesis  plant.  With  favorably  LCoE  
+of US$20/MWh  and 6,000  full-load hours  availability  for some  locations,  green  hydrogen  generated  from  electrolysis  can 
+already  compete  with  hydrogen  from  steam -methane  reforming  or autothermal  reforming  of natural  gas. 
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  10  
+  
+ 
+ 
+ 
+ 
+ 
+The capacity  factor  of electrolysis  is as important  as the levelized  cost of electricity  because  it defines  the capital  efficiency  
+of the electrolysis  plant.  Considering  today’s  prices  for hydrogen  at fueling  stations,  even  in some  European  countries,  e.g. 
+in Switzerland,  green  hydrogen  would  make  a positive  business  case.  
+The specific  investment  cost of electrolysis  will be reduced  by upscaling,  improving  the manufacturing  process  (automa - 
+tion)  or substituting  high -cost materials  and using  different  technologies.  
+Already  today,  e-Fuels  are competitive  for regions  with  the best conditions  for renewable  energy  sources.  Since  the costs  
+for green  hydrogen  also affect  the production  costs  for e-Fuels,  it’s not surprising  that in those  regions  prices  for e-Fuels,  
+first of all e-Methanol,  are below  the levels  that can be achieved  for other  sustainable  green  fuels  in the transportation  
+sector  today.  Bioethanol  is the benchmark.  
+Another  factor  affecting  the production  of carbon -based  e-Fuels  is the cost for CO2 supplies.  CO2 can be captured  from  
+existing,  unavoidable  point  sources,  e.g. from  cement  production,  biomass  power  plants  or (future)  system -relevant,  
+natural -gas-fired  power  plants.  Using  direct  air capture  (DAC)  to recover  CO2 from  the atmosphere  might  also be an option  
+in the future,  especially  for regions  rich in renewable  energy,  but far away  from  industrial  sites.  
+ 
+3.2 Power -to-X can contribute  to grid balancing  
+Electrolysis  could  act as a fast-negative  energy  balancing  unit in the event  the grid is overloaded  from  renewable  energy  
+sources  (RES).  Large  overcapacities  of RES already  exist  today.  Storing  the surplus  electrical  energy  of those  sources  in 
+chemical  form  may become  more  lucrative  than  curtailing  the capacity  of renewables  in peak  production  times.  Green  
+hydrogen  and its subsequent  fuels  derived  from  RES are expected  to become  the backbone  of future,  largely  decarbonized  
+power  generation,  because  chemically  stored  electrical  energy  is the only way to overcome  lacking  renewable  sources  or 
+times  where  there  is little  or no wind  or sun. 
+ 
+3.3 E-Fuels  outperform  biomass -based  fuels  
+E-Fuels  have  a carbon  footprint  that is about  90 percent  lower  than  that of fossil  fuels.  Against  this background,  e-Fuels  
+like e-Methanol  have  the potential  to outperform  biofuels  in terms  of production  costs  and CO2 avoidance  costs.  Their  
+overall  benefits  in comparison  to biomass -based  fuels  and chemicals  are numerous:  Overall  greenhouse  gas emissions  of 
+e-Fuels  are equal  to or lower  than  those  of biomass -based  fuels,  and the same  applies  for land use and needs  for water.  
+The conflict  between  food  and fuel is nonexistent  in e-Fuels,  and their  global  availability  is potentially  high  in many  re- 
+gions  worldwide.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  11  
+  
+ 
+ 
+ 
+ 
+ 
+3.4 Regulatory  inducements  are still needed  
+Although  investment  costs  for Power -to-X will decrease  during  the next  years  according  to technology  development,  
+regulation  and political  support  are needed  to push  the introduction  of e-Fuels.  
+ 
+According  to the most  recent  regulatory  framework,  the second  European  Renewable  Energy  Directive  (RED  II), which  has 
+to be converted  into national  laws  by June  2021,  the minimal  share  of renewable  energy  sources  in fuels  has to grow  from  
+5 percent  today  to 14 percent  in 2030.  About  a quarter  is expected  to come  from  direct  electrification  (electromobility).  
+Additional  biomass -based  fuels  will only be allowed  from  nonfood  relevant  sources  (2nd  generation)  and must  contribute  
+a minimum  3.5 percent.  To reach  the European  targets  additional  advanced  fuels  based  on renewable  electrical  energy  
+have  to be increasingly  applied  up to three -digit  petajoule  levels.  To achieve  this, e-Fuels  will also have  to be imported  
+from  outside  Europe,  which  has to be considered  by the regulatory  bodies.  The German  BImSchV38  decree  already  imple - 
+mented  advanced  fuels  which  are defined  as fuels  produced  from  captured  CO2 with  the condition  to use renewable  
+energy  for their  production.  Aside  from  taking  CO2 from  the air or biomass  conversion,  CO2 can also be sourced  from  
+unavoidable  emissions  from  industries  and power  plants.  
+ 
+From  the different  use cases,  such  as direct  use of green  hydrogen  for trucks  or as substitute  for natural  gas or e-Fuels  for 
+aviation,  Siemens  Energy  is expecting  a market  potential  in the range  of some  billion  euros  per year.
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  12  
+  
+ 
+ 
+4. Hand  in hand:  solutions  provided  by Siemens  
+Energy  
+Siemens  Energy  is one of the world’s  leading  technology  companies  and one-stop solution  providers.  Working  hand  in 
+hand  with  its clients  to develop  and provide  technologically  mature  solutions  that present  a business  case,  Siemens  Energy  
+can look back  on a long  and successful  experience  in plant  construction  as well as in development,  production,  operation  
+and service  of diverse  products  of power  generation;  the same  goes  for energy  transmission,  electrical  engineering,  auto - 
+mation  technology,  communication  and automotive  technology  ‒ based  on its competence  and experience.  
+ 
+Siemens  Energy  can offer  several  Power -to-X plant  modules  and overall  solutions  for different  use cases.  To cater  to each  
+customer  according  to need,  Siemens  Energy  is following  a modular  structured  approach:  modules  and packages  for 
+Power -to-X applications  as well as the Engineering,  Procurement  and Construction  (EPC)  of an overall  Power -to-X plant  as 
+a turnkey  package.  
+ 
+Models  and packages  offered  by Siemens  Energy  follow  the process  steps:  
+ 
+Power -to-X system  design  package:  this offering  helps  customers  to gain transparency  on options  and opportunities  
+related  to their  Power -to-X solution  at an early  decision  stage.  
+ 
+Renewable  power  package:  offers  a renewable  energy  supply,  including  grid connection  or as a captive  power  supply  for 
+the Power -to-X plant.  Wind  turbines  onshore  and offshore  as well as complete  wind  parks  and renewable  energy  solutions.  
+ 
+H2 package:  offers  electrolyzer,  hydrogen  compression  and intermediate  storage.  
+ 
+Re-electrification  package:  Designed  to the needs  of the client,  this package  offers  long -term  hydrogen  storage,  a hydro - 
+gen gas turbine/combined  cycle  power  plant,  reciprocating  engine,  fuel cell or battery  energy  storage  system.  
+ 
+E-Fuel  synthesis  package:  Developed  and/or  supplied  together  with  partners,  this package  includes  compression  and 
+synthesis.  
+ 
+Power -to-X turnkey package: the full turnkey solution for any of the packages or applications as shown below. 100%  
+hydrogen compatible well before 2030, and therefore, e -Ammonia may also be a useful hydrogen carrier for heating,  
+industrial  use, and combustion  power  systems.  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  13 1 The product name was changed from Silyzer 300 to  Elyzer P -300.  
+It is a trademark of Siemens Energy GmbH & Co. KG or its affiliates 
+registered in one or more countries.   
+1  
+ 
+ 
+ 
+ 
+ 
+4.1 Siemens  Energy  H2 package  
+The Siemens Energy hydrogen generation plant is a facility that integrates key technologies to produce green hydrogen.  This 
+innovative solution will serve, connect, transform and reduce carbon emissions in multiple industries. It is the basic  module  
+of the Siemens  Energy  Power -to-X plant  solutions.  
+ 
+Siemens  Energy  is providing  the full EPC for this package,  comprising  of: 
+ 
+• electrical  equipment  (transformer,  switchgear,  rectifier,  etc.),  
+ 
+• treatment  and deionization  of water  as needed,  
+ 
+• PEM electrolyzer  and its connection  to the power  source  (see following  section),  
+ 
+• cleaning  of green  hydrogen,  e.g. gas conditioning  according  to the needs  of the downstream  application,  
+ 
+• gas storage,  and 
+ 
+• compression  of green  hydrogen  with  reciprocating  or turbocompressors,  depending  on final  pressure  level  and mass  
+flow.  
+ 
+Due to its low molecular  weight  and its chemical  characteristics,  the effective  and safe handling  of hydrogen  needs  specif - 
+ic solutions,  products  and know -how.  Gases  containing  hydrogen  require  a limitation  of yield  strength  and hardness  
+according  to API 617.  Of course,  this is part of the Siemens  Energy  designs.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  14 1 The product name was changed from Silyzer 300 to  Elyzer P -300.  
+It is a trademark of Siemens Energy GmbH & Co. KG or its affiliates 
+registered in one or more countries.   
+  
+ 
+ 
+ 
+ 
+ 
+Electrolysis  
+In order  to produce  green  hydrogen,  Siemens  Energy  has developed  the Elyzer1 portfolio  family:  an innovative  electrolysis  
+system  based  on PEM technology.  PEM takes  its name  from  the proton  exchange  membrane,  which  is permeable  to pro- 
+tons  (H+)  but tight  for gases  and electrons.  In other  words,  this kind of membrane  acts as electrical  isolator  between  
+anode  and cathode  side as well as physical  separator,  preventing  hydrogen  and oxygen  from  remixing.  Compared  to 
+alkaline  electrolysis,  PEM technology  is ideal  for working  with  fluctuating  wind  and solar  power  sources,  as it allows  a 
+highly  dynamic  mode  of operation  and can be rapidly  turned  on and off without  preheating.  This method  allows  optimum  
+efficiency  at high  power  densities  and good  product  gas quality  even  at partial  loads.  The operation  is low-maintenance  
+and reliable  without  the use of chemicals  or foreign  substances.  
+ 
+Advantages  of industry -grade  PEM technology  in brief:  
+ 
+• delivers  pure  hydrogen  and oxygen  of the highest  quality,  free of hazardous  substances,  
+ 
+• provides  flexibility  with  a very fast start -up time  and allowing  rapid  load changes  
+ 
+• reliable  operation  with  low maintenance  requirements  
+ 
+• compact  design  comes  along  with  low space  requirements.  
+ 
+All safety  aspects  in the production  and handling  of hydrogen  are implemented  through  permanent  detection  systems  and 
+hoods.  
+ 
+Service  packages  are offered  according  to the individual  customer’s  requirements:  
+ 
+• basic:  support  and troubleshooting  on demand,'  
+ 
+• advanced:  preventive  maintenance,  remote  service,  condition  monitoring,  24/7  hotline  and more,  
+ 
+• pro: performance -based  maintenance  contracting.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  15 1 The product name was changed from Silyzer 300 to  Elyzer P -300.  
+It is a trademark of Siemens Energy GmbH & Co. KG or its affiliates 
+registered in one or more countries.   
+  
+ 
+ 
+ 
+Since  PEM electrolysis  technology  and its most  prominent  representative,  the Elyzer1, is a relatively  young  technology,  
+additional  improvements  to efficiency  and investment  cost reductions  are expected.  A strong  increase  in production  
+capacities  over  the next  decade  will also see further  advancements  and savings.  After  the successful  introduction  of the 
+Elyzer  P-3001, the next  step will be a PEM model  in the range  above  100 megawatts.  In parallel  the next  generation  of 
+more  economic  cells  are under  development.  
+ 
+Elyzer  P-3001 
+This latest,  most  powerful  product  line in the double -digit  megawatt  range  allows  for the best scaling  to minimize  overall  
+investment  costs  in large -scale  industrial  electrolysis  plants.  Thanks  to high  plant  efficiency  and availability,  the optimized  
+solution  results  match  very low hydrogen  production  costs.  Further  indicators:  17.5  MWel  /335  kg/hour  per full module  
+array  (24 modules),  75 percent  system  efficiency  (HHV).  
+ 
+Compression  and storage  
+Compressors  are a vital component  of most  of the Power -to-X plants:  
+ 
+• Power -to-Hydrogen:  Compressors  compress  hydrogen  for storage  or refueling  to pressures  as high  as 700 bara.  
+ 
+• Power -to-Fuels:  Compressors  compress  hydrogen  or the mixture  of hydrogen  and CO2 to approximately  70 bara  for 
+subsequent  synthesis  of methanol.  
+ 
+• Power -to-Ammonia:  Compressors  compress  hydrogen  or the mixture  of hydrogen  and nitrogen  to approximately  300 
+bara  for subsequent  synthesis  of ammonia.  
+ 
+For all these  cases,  Siemens  Energy  offers  a broad  spectrum  of compressors  designed  to fit customer  specifications.  Com - 
+pression  solutions  can be supplied  in a variety  of configurations  from  single -shaft  barrel  to reciprocating  compressors.  
+Siemens  Energy  has a long  experience  with  compressors  for gases  containing  hydrogen,  such  as synthesis  gases  to pro- 
+duce  ammonia,  hydrocarbons  and methanol  as well as hydrogen -rich gases.  Steam  turbines,  engines  or electrical  motors  
+are used  as drives.  
+ 
+References  in the field  of sustainable  hydrogen  production  
+With  three  Silyzer  200 systems,  the Energiepark  Mainz  was the world’s  largest  PEM electrolysis  plant  in 2015.  It uses  excess  
+energy  from  renewable  sources  (wind)  to split water  into oxygen  and hydrogen.  The regeneratively  produced  hydrogen  is 
+fed into the gas network  on site or delivered  to the surrounding  industry  and hydrogen  filling  stations  via tankers.  The 
+entire  electrolysis  plant,  including  the grid connection  and control  system,  was supplied  by Siemens  Energy.  
+ 
+The EU-funded  lighthouse  project  “H2FUTURE  - hydrogen  meeting  future  needs  of low carbon  manufacturing  value  chains”  
+brings  together  energy  suppliers  (Verbund,  APG),  the steel  industry  (Voestalpine),  technology  providers  (Siemens  Energy)  
+and research  partners  (K1-MET;  TNO)  to jointly  develop  solutions  for the energy  future.  With  an output  of 6 megawatts  and 
+a production  capacity  of 1,200  cubic  meters  of hydrogen  per hour,  H2FUTURE  was the world’s  largest  hydrogen  pilot  plant  
+in 2019  in which  green  hydrogen  is produced  from  renewable  sources  using  PEM electrolysis  technology  with  the Elyzer  P-
+3001. The PEM electrolysis plant started operation in November 2019 at the largest steel production site of the Voestalpine  
+Group in Linz, Austria. The project aims to demonstrate that an industrially integrated PEM electrolysis plant is capable of  
+producing  green  hydrogen  and providing  grid services  at the same  time.  
+ 
+4.2 Siemens  Energy  re-electrification  package  
+Even  though  hydrogen  is considered  one of the most  promising  technologies  in the large -scale  integration  of renewable  
+energy,  only a small  percentage  of hydrogen  is currently  being  used  in the energy  sector.  Yet the more  electricity  is gener - 
+ated  from  fluctuating  renewable  sources  such  as sun and wind,  and the less reliance  there  is on conventional  power  
+utilities,  the more  urgent  becomes  the need  to change  energy  systems.  After  all, power  must  also be available  when  sun 
+and wind  are scarce.  This requires  storing  energy,  including  over  extended  periods  of time.  Green  hydrogen  plays  a key 
+role in this regard,  as an energy  source  as well as a storage  medium.  Infrastructure  suitable  for large -scale  storage  includes  
+gas grids,  which  have  tremendous  storage  potential.  The re-electrification  of stored  green  hydrogen  offers  the advantage  
+of using  decarbonized  renewable  electrical  energy  whenever  required.  
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  16  
+  
+ 
+ 
+ 
+ 
+The primary source is green hydrogen generated in the H2 package from Siemens Energy, including storage. Re -electrifica - tion 
+of the green  hydrogen  is done  either  by combustion,  preferably  in an adapted  gas turbine  in combined  cycle  mode,  in a 
+reciprocating  engine  or in fuel cells to generate  electrical  energy.  This arrangement  can also be combined  and/or  extend - ed 
+with  battery  energy  storage  (BES)  in a hybrid  generation  unit to further  increase  flexibility.  
+ 
+Siemens  Energy  is providing  the full EPC for this re-electrification  package,  comprising:  
+ 
+• fuel system  (incl.  admixing  other  fossil  fuels  or steam,  where  needed),  
+ 
+• combined  heat  and power  (CHP)  plant  for power  and district/process  heat  production  
+ 
+• reciprocating  engine,  
+ 
+• fuel cell (supplied  by partner),  
+ 
+• BES in case of a hybrid  system,  and 
+ 
+• grid connection.  
+ 
+4.2.1  Gas turbines  
+Gas turbines  make  up a core component  of Siemens’  history.  In 1949,  Siemens  started  its first engine,  the VM1.  Based  on 
+these  70 years  of experience  in designing  and manufacturing  gas turbines,  Siemens  Energy  today  provides  a wide  portfolio  
+of products  that can be operated  with  a mix of hydrogen  and natural  gas or with  pure  hydrogen.  
+ 
+Already  natural -gas-fired  gas turbine  power  generation  units  boast  a much  higher  efficiency  level  and lower  CO2 emissions  
+than  coal-fired  plants.  By mixing  green  hydrogen  together  with  natural  gas or even  substituting  natural  gas altogether,  
+these  CO2 emissions  can be further  reduced  until,  ultimately,  they  reach  zero.  Most  Siemens  gas turbines  are already  
+capable  to burn  between  30 and 100%  of H2, depending  on the frame  type.  Continuous  development  and options  for 
+upgrades  will make  them  ready  for 100%  H2 before  2030,  according  to its availability  in a sustainable  form.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  17  
+  
+ 
+ 
+ 
+ 
+ 
+References  for re-electrification  packages  
+In May 2020,  with  the HYFLEXPOWER  project,  a consortium  made  up of Siemens  Energy,  Engie  Solutions,  Centrax,  Arttic,  
+German  Aerospace  Center  (DLR)  and the University  College  London,  University  of Duisburg -Essen,  Lund  University  and 
+National  Technical  University  of Athens  are implementing  a project  funded  by the European  Commission  under  the Hori- 
+zon 2020  Framework  Program  for Research  and Innovation  (Grant  Agreement  884229).  The implementation  of this proj- 
+ect, the world's  very first industrial -scale  Power -to-hydrogen -to-power  demonstrator  with  an advanced  hydrogen  turbine,  
+will be launched  at Smurfit  Kappa  PRF’s  site - a company  specialized  in manufacturing  recycled  paper  - in Saillat -sur-Vi- 
+enne,  France.  The purpose  of this project  is to prove  that hydrogen  can be produced  and stored  from  renewable  electricity  
+and then  mixed  with  the natural  gas currently  used  with  combined  heat  and power  plants.  For this an existing  Siemens  
+SGT-400 industrial  gas turbine  will be upgraded  to convert  stored  hydrogen  into electricity  and thermal  energy,  with  the 
+aim of achieving  100%  hydrogen  combustion  by 2023.  
+ 
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  18  
+  
+ 
+ 
+4.2.2  Reciprocating  engines/fuel  cells  
+Besides  the installation  of a gas turbine  for large -scale  re-electrification,  green  hydrogen  can also be used  for gas engines  
+(on the thermal  side)  or fuel cells (on the chemical  side).  The products  available  are either  from  Siemens  Energy  branches  
+or supplied  by our solution  partners.  Siemens  Energy  offers  these  products  fully engineered  and optimized  for the specific  
+use case.  
+ 
+4.3 Siemens  Energy  e-Fuel package  
+Another  way green  hydrogen  can contribute  to decarbonization  is through  the synthesis  of carbon -based  e-Fuels  from  
+green  hydrogen.  In this way,  even  sectors  with  high  fuel requirements,  such  as the aviation  and shipping  industries,  could  
+be decarbonized  to a large  extent.  A prominent  use case  is e-Methanol  for transportation.  Other  applications  include  
+e-Methane  or e-Ammonia.  
+ 
+The primary  source  is green  hydrogen  generated  in the H2 package  from  Siemens  Energy.  Hydrogen  is then  further  pro- 
+cessed  through,  for instance,  methanol  synthesis  or the Fischer -Tropsch  process.  The CO2 can be gained  from  inevitable  
+emissions,  for instance  from  cement  production,  glass  or steel.  Alternatively,  CO2 could  also prospectively  be extracted  
+from  the atmosphere  (direct  air capture  ‒ DAC).  
+ 
+ 
+ 
+For e-Ammonia  the system  includes  the nitrogen  supply,  for instance  by a cryogenic  air separation  unit.  
+Siemens  Energy  together  with  partners  is providing  the full EPC for this package,  comprising:  
+Compression  and pumping  of involved  media  
+Carbon  capture,  oxyfuel  and direct  air capture  with  partners;  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  19  
+  
+ 
+ 
+ 
+Synthesis  processes  with  partners  – direct  from  CO2 and H2 without  the need  for reverse  water -gas shift.  
+ 
+4.3.1  CO2  capture  
+Carbon capture is expected to play a vital role in Power -to-X to produce green fuels from electrolysis. To reduce the foot - print 
+of e-Fuels compared to fossil fuels, the origin of the CO2 plays a decisive role. In general, three categories of origins  contribute  
+to a reduced  carbon  footprint  of the fuel:  
+ 
+• CO2 from  biogenic  sources,  such  as biomass,  
+ 
+• CO2 from  unavoidable  emissions,  mainly  industrial  emissions  such  as from  cement  plants,  
+ 
+• CO2 from  the atmosphere  through  direct  air capture  (see below).  
+ 
+Alternatively,  carbon  dioxide  can be produced  through  combustion  in oxyfuel  boilers  with  hydrocarbons  from  various  
+sources.  
+ 
+Direct  air capture  (DAC):  The atmosphere  contains  only a very low concentration  of around  400 ppm  CO2,  but the increase  
+of this concentration  is considered  to be the trigger  for global  warming.  There  are currently  a few technological  develop - 
+ments  being  piloted  to extract  CO2 from  the atmosphere  through  adsorption,  though  costs  are still significantly  higher  
+than  with  alternatives  from  other  sources.  
+References  for Methanol  synthesis  
+For commercial  plants  Siemens  Energy  is collaborating  with  companies  well experienced  in CO2/H2 -based  methanol  syn- 
+thesis  using  established  reactor  concepts.  In November  2020,  Siemens  Energy,  alongside  several  international  companies,  
+announced  it is developing  and implementing  Haru  Oni, the world’s  first integrated  and commercial  large -scale  plant  for 
+the production  of climate  neutral  e-Fuel in Chile.  In the pilot  phase,  e-Methanol  production  will initially  reach  around  
+750.000  liters  per year by 2022.  Part of the e-Methanol  will be converted  to e-Gasoline  (130.000  liters  per year).  In two 
+steps,  capacity  is planned  to be increased  to 55 million  liters  e-Gasoline  per year by 2024  and to over  550 million  liters  per 
+year by 2026.  
+
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  20 1 The product name was changed from Silyzer 300 to  Elyzer P -300.  
+It is a trademark of Siemens Energy GmbH & Co. KG or its affiliates 
+registered in one or more countries.   
+  
+References  for Ammonia  synthesis  
+Ammonia  synthesis  from  hydrogen  and nitrogen  applying  the Haber -Bosch  process  has been  well established  for decades.  
+Here,  Siemens  Energy  would  partner  with  an experienced  supplier  in the frame  of EPC delivery.  This also includes  the 
+nitrogen  supply.  
+In the context  of an R&D project  with  British  academia,  Siemens  Energy  gained  experience  in research,  setting  up and 
+operating  a small,  but fully complete  Power -to-Ammonia  plant  working  in dynamic  mode.  This includes  re-electrification  in 
+a reciprocating  spark -ignition  engine.  
+ 
+4.4 Digital  solutions  and Power -to-X system  design  package  
+Digitalization,  currently  one of the most  important  topics  in the energy  industry  in general,  is an important  component  for 
+the realization  of Power -to-X along  the whole  value  chain.  On the one hand,  digital  investments  are triggered  by market  
+requirements,  such  as growing  shares  of renewables  in the electricity  grid which  need  to be integrated  in the current  
+energy  mix and in the same  time  the grid stability  must  be given.  
+ 
+ 
+On the other  hand,  new technical  solutions  for power  plant  equipment  also drive  digitalization.  Here  can it be helpful  to 
+use Energy  System  Design.  It is an integration  method  that connects  all processes  and products  to complete  the end-to- 
+end value  chain  for the customer.  
+Energy  system  design  and solutions  are a core element  of digital  services  that help customers  to gain transparency  on 
+options  and opportunities  at an early  decision  stage.  With  our Power -to-X system  design  package  Siemens  Energy  provides  
+deep  know -how  and consulting  service  based  on for energy  system  design  in development  of decarbonization  roadmaps  & 
+solutions  for customers  across  wide  range  of industries,  mobility  and energy  production.  
+Siemens  Energy  engineering  competences  & dedicated  tools  for energy  system  design,  optimization  and simulations  will 
+be leveraged  to identify  optimal  techno -economic  recommendations  for solutions.  
+Having  our customers’  specific  needs  at the core from  the earliest  project  stage,  is essentially.  Therefore  also the services  
+are continuously  developed  over  the project  life span  to enhance  availability,  operations,  maintenance  cycles,  perfor - 
+mance  and commercial  viability  of the most  different  use cases.  
+Siemens  Energy  is a world  market  leader  for power  plant  automation  as well as for factory  and industrial  automation.  
+Several  systems  are available  to control  processes  in the optimum  way,  amongst  them  the SIMATIC  product  portfolio,  SPPA  
+products  or SICAM.  Since  electrolysis  and,  more  generally,  Power -to-Gas and Power -to-Liquids  are related  to chemical  
+processes,  Siemens  Energy  has already  implemented  a proven  process  control  system.  Experiences  gained  from  pilot  and 
+demonstration  plants  can be optimally  translated  to upscaled  commercial  plants.  This has already  been  done  for the 
+Elyzer1 products  and the 6-megawatt  Power -to-Methane  plant  in Werlte,  Germany,  which  produces  e-Methane  for gas-fu- 
+eled cars.  In addition  to diagnostics,  the remote  access  automation  system  is used  to optimize  the overall  concept.  Future  
+approaches  to digitalization  will support  this in the context  of available  renewable  energy  sources  and different  products.  
+ 
+Siemens  Energy  has already  implemented  predictive  controls  in comparable  applications.  By combining  weather  forecast  
+information  with  optical  information  of upcoming  cloud  coverage,  detailed  forecast  for PV power  generation  has been  
+made  possible.  This combination  of information  is key to optimize  performance  of an overall  Power -to-X process.  Using  
+digital  modeling  in both  the design  and the engineering  phase  (known  as the digital  twin)  allows  (for example  an optimal  
+sizing  of the assets)  an optimization  in the digital  world  before  installing  anything  on site. 
+White  paper  l Power -to-X 
+© 2021  Siemens  Energy  Page  21 1 The product name was changed from Silyzer 300 to  Elyzer P -300.  
+It is a trademark of Siemens Energy GmbH & Co. KG or its affiliates 
+registered in one or more countries.   
+  
+ 
+ 
+5. The power  of now:  The hydrogen  economy  
+starts  today  
+Worldwide  decarbonization  of the overall  energy  systems  is urgently  needed  to mitigate  global  warming.  Power  from  
+renewables  will become  the backbone  of a green  energy  supply  through  sector  coupling.  The different  pathways  of Pow- 
+er-to-X will enable  this development  which  can start  immediately  since  the infrastructure  for transport,  distribution  and 
+final  use of e-Fuels  already  exists  in principle.  
+ 
+The outlook  is even  brighter.  Thanks  to Power -to-X, largely  carbon -neutral  or even  carbon -free mobility  based  on e-Fuels  
+and/or  green  hydrogen  will be the norm,  not the exception.  
+ 
+Obligations  to increasingly  apply  e-Fuels  in the mobility  sector  like those  already  implemented  for biomass -based  fuels,  
+together  with  other  measures  like increasing  penalties  for CO2 emissions,  would  promote  the introduction  of Power -to-X. 
+And compared  to other  sustainable  energy  carriers,  mostly  biomass -based  fuels,  e-Fuels  are already  competitive.  
+ 
+Siemens  Energy  pushes  Power -to-X with  its different  variants.  For Power -to-Heat,  a high -temperature  heat  pump  has been  
+developed.  Siemens  Energy  is deeply  engaged  in promoting  and developing  projects  and technologies  for the production  
+of green  hydrogen  and subsequent  products.  With  its Elyzer1 portfolio,  Siemens  Energy  is leading  PEM-based  water  elec- 
+trolysis,  which  allows  for a highly  flexible  load operation  and is, thus,  predestined  for combination  with  volatile  renewable  
+energy  sources.  Wind  generators,  compressor  solutions,  gas turbines  and combined  cycle  power  plants  for reelectrifcation  
+of green  hydrogen  are all part of the portfolio,  as well as the overall  business  solutions  to realize  small  to large -scale  Power -
+to-X plants.  
+ 
+Hand  in hand  with  our clients  and partners,  Siemens  Energy  is ready  to go! 
+ 
+White  paper  l Power -to-X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published  by 
+ 
+Siemens  Energy  Global  GmbH  & Co. KG 
+Otto -Hahn -Ring  6 
+81739  München6,  Germany  
+ 
+Siemens  Energy,  Inc. 
+15375  Memorial  Drive,  Suite  700 
+Houston, Texas  77079,  USA 
+For more  information,  please  contact:  
+support.energy@siemens -energy.com  
+Editors:  
+Katrin  Mauthner,  Heike  Graf,  Ute Rohr  
+Authors:  
+Armin  Schnettler,  Volkmar  Pflug,  Erik Zindel,  Gerhard  Zimmermann,  Omar  Rubio  Olvera,  Ireneusz  Pyc, Christian  Trulley  
+Supervisory  editing:  
+Primafila  AG, Zurich,  Switzerland  
+Graphics:  
+independent  Medien -Design,  Munich,  Germany  
+Layout:  
+Rainer  Schubert,  Fürth,  Germany  
+Siemens  Energy  is one of the world’s  leading  energy  technology  companies.  The company  works  with  its customers  and partners  on energy  
+systems  for the future,  thus  supporting  the transition  to a more  sustainable  world.  With  its portfolio  of products,  solutions  and services,  Siemens  
+Energy  covers  almost  the entire  energy  value  chain  – from  power  generation  and transmission  to storage.  The portfolio  includes  conventional  and 
+renewable  energy  technology,  such  as gas and steam  turbines,  hybrid  power  plants  operated  with  hydrogen,  and power  generators  and 
+transformers.  More  than  50 percent  of the portfolio  has already  been  decarbonized.  A majority  stake  in the listed  company  Siemens  Gamesa  
+Renewable  Energy  (SGRE)  makes  Siemens  Energy  a global  market  leader  for renewable  energies.  An estimated  one-sixth  of the electricity  
+generated  worldwide  is based  on technologies  from  Siemens  Energy.  Siemens  Energy  employs  more  than  90,000  people  worldwide  in more  than  
+90 countries  and generated  revenue  of around  €27.5  billion  in fiscal  year 2020.  www.siemens -energy.com  
+ 
+ 
+ 
+© 2021  Siemens  Energy  Page  22 
+ 
+White  paper  l Power -to-X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© Siemens  Energy,  2021  
+Siemens  Energy  is a registered  trademark  licensed  by Siemens  AG. 
+Disclaimer  
+Subject  to changes  and errors.  The information  given  in this document  only  contains  general  descriptions  and/or  performance  features  which  may 
+not always  specifically  reflect  those  described,  or which  may  undergo  modification  in the course  of fur-ther development  of the products.  The 
+requested  performance  features  are binding  only  when  they  are expressly  agreed  upon  in the concluded  contract.  All product  designations  may be 
+trademarks  or product  names  of Siemens  Energy  Global  GmbH  & Co. KG or other  companies  whose  use by third  parties  for their  own  purposes  
+could  violate  the rights  of the owners.  
+All product  designations  may be trademarks  or product  names  of Siemens  Energy  Global  GmbH  & Co. KG or other  companies  whose  use by third  
+parties  for their  own  purposes  could  violate  the rights  of the owners.  
+ 
+© 2021  Siemens  Energy  Page  23 

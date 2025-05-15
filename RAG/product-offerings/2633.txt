@@ -1,0 +1,223 @@
+Lorem ipsum l Veribus  
+dolorpro  
+WEPS Sensors
+Procedure for Packing, 
+Preserving,  Handling and 
+Shipping of Jumpers/Harness 
+with or without Sensors 
+10102900 - Rev04  
+siemens -energy.com  
+Siemens Energy is a trademark registered by Siemens AG 
+Document  No : 10102900  Page  : 2 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+Restricted Siemens Ener gy is a trad emark licensed by Siemens AGRevision List  
+Rev Date  Description  Author  Reviewed  Approved  
+01 07.05.18  REVIEW  JV AE TKG 
+02 09.05.18  Updated storage temp.  EV JV TKG 
+03 01.09.2 1 Updated with SE Logos  AE JIF EV 
+04 
+19.09. 22 Chapter 5, added text 
+regarding min be nd 
+radius.  Added chapter 
+11, Examples  of packing  CF AE MH 
+      
+      
+Document  No : 10102900   Page  : 3 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ TABLE OF CONTENT  
+ 
+1 SCOP E ................................ ................................ ................................ ................................ .......................  4 
+2 PURPOSE  ................................ ................................ ................................ ................................ ..................  4 
+3 RESPONSIBILITY  ................................ ................................ ................................ ................................ ...... 4 
+4 HEAL TH AND SAFETY  ................................ ................................ ................................ .............................  4 
+5 PACKING  ................................ ................................ ................................ ................................ ...................  4 
+6 UNPACKING  ................................ ................................ ................................ ................................ ..............  5 
+7 STORAGE  ................................ ................................ ................................ ................................ ..................  5 
+8 CRITERIA FOR PRESERVATION  ................................ ................................ ................................ .............  5 
+9 HANDLING  ................................ ................................ ................................ ................................ .................  6 
+10 SHIPPING AND MARKING  ................................ ................................ ................................ ....................  6 
+11 EXAMPLES OF PACKING  ................................ ................................ ................................ ....................  7 
+11.1  Picture of Sensor Harness inside crate  ................................ ................................ ..........................  7 
+11.2  Picture of Senso r Harness crate with lid  ................................ ................................ .........................  8 
+ 
+ 
+      
+      
+Document  No : 10102900   Page  : 4 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ 1 SCOPE  
+This procedure shall cover the packing, unpacking, preserving, handling and shipping 
+activities for the Jumpers/Harness with or without Sensors.  
+2 PURPOSE  
+The purpose of this procedures is t o ensure proper performance of activities 
+mentioned in item 1 above.  
+3 RESPONSIBILITY  
+Department Manager is responsible that the contents of this procedure is k nown to the 
+personnel engaged in above  mentioned activities and that the necessary 
+documentation i s accompanying the goods.  
+4 HEALTH AND SAFETY  
+ 
+Manual Handling, Lifting and Carrying are known to be the largest contributors to 
+occupational ill -health. Ensure  that mechanical handling aids are use d whenever 
+possible to avoid manual handling. Where manual h andling is considered appropriate 
+for the task safe lifting guidelines must be followed, e.g. adopt correct posture, 
+consider team lifting, employ safe liftin g technique, etc.  
+ 
+5 PACKING  
+• Every item  must be accounted for and discrepancies raised immediately.  
+• For packing, wooden crates of the  appropriate size shall be used.  
+• The packing shall ensure that the equipment is lying stable during transportation.  
+• Special ca re is to be taken to prevent metal to metal contact.  Multiple items are to be 
+laid out at an appr opriate distance apart to avoid metal to metal contact.  
+• Large or heavy components should be fastened securely in place using wooden 
+battens and / or co ated metal straps.  
+• Sensors shall have the rin g groove/probe plastic cover fitted before packing. Sensor 
+probe ends shall not be less than 20mm from the packing box wall. This is to prevent 
+damage from external box impacts and ease install and removal.  
+• If returni ng previously dispatched goods in cust omers own packaging, check for 
+damage and ensure required st andards are met using additional packing if required.  
+• Bubb le wrap may be used to protect exposed  parts.  
+• Larger products (harness etc.) will have  end conn ectors, junction boxes etc. wrapped in 
+bubble wrap. These will then be strapped down to the base of the  crate using a metal 
+strap which has a plastic coating  (to avoid damaging the product).  
+• Wood en battens on top of the products may also be used as a way o f restraining 
+product whilst in transit.  
+• Multiple harnesses may be packed together in one box / crate if practical – where this 
+happens, appropriate packing  and protection will be added.  
+• Make sure that min. bend radi us of the jumper  legs is not exc eeded during packing.  
+• Ensure staples used to attach labels do not protrude through to the inside of any crate.  
+ 
+      
+      
+Document  No : 10102900   Page  : 5 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ 6 UNPACKING  
+ 
+CAUTION:   THE JUMPER/HARNESS SHALL ONLY BE REMOVED  
+   FROM ITS PACKAGING BY PERSONNEL  
+   AUTHORISED BY THE CUSTOMER REFERRED  TO  
+IN THE PACK ING LIST AND CONSIGNME NT NOTE!  
+ 
+ 
+6.1. Ensure that the crates are positioned flat on the floor with the correct  
+ side uppermost.  
+ 
+6.2. Open the hard case lid, remove the insulation/padding holding the sensors.  
+ 
+6.3. Handle the jumper/harnes s and any sensor s with care during ope rations.  
+ 
+7 STORAGE  
+ 
+7.1. Equipment shall be stored in a covered and dry area, humi dity control is not 
+required.  
+ 
+Storage temperature:   -20 to +50 °C. 
+ 
+7.2. The equipment should be stored in the hard case used for transp ortation.  
+ 
+7.3. The equipment is to be  stored away from any vibration sources.  
+ 
+7.4. The equipment is to be stored away  from high voltage sources.  
+ 
+ 
+8 CRITERIA FOR PRESERVATION  
+ 
+8.1 The Crates shall be labelled as follows:  
+ 
+ ELECTRONIC EQUIPMENT  
+HANDLE WITH  CARE  
+MADE IN NO RWAY  
+ 
+8.2 The equipmen t shall not be stored in vibrating areas.  
+ 
+8.3 Fork lift’s shall be used with car e and only when strictly required.   
+ 
+8.4 All shock loads shall be avoided.  
+ 
+ 
+ 
+      
+      
+Document  No : 10102900   Page  : 6 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ 9 HANDLING  
+ 
+9.1 The Sensors are measuring instruments utilis ing very sensiti ve sensor elements.  
+ 
+CAUTION:  HANDLE THE JUMPER/HARNESS AND ANY SENSORS 
+WITH CARE THROUGH ALL ACTIVITIE S, SUCH AS 
+TERMINATION, HYP TEST ETC., UNTIL READY FOR FINAL 
+ASSEMBLY.  
+ Note:  
+All sensors shall have installed, a protective cover for t he ring gasket s urface/probe 
+and the e lectrical connector if applicable.  
+The sensors are also marked with a warning sig n indicating that no mechanical 
+object should be placed into the probe tip.  
+ 
+9.2 DO NOT DROP.  
+ 
+9.3 DO NOT expose the equipment to vibrat ion and shock.  
+ 
+9.4 DO NOT expose the equipment to high voltage sources.  
+ 
+9.5 DO NOT expose the equipment to environmen t conditions  
+beyond the storage specifications. ref. item 7 above,  
+or the operational environment specification, if operational.  
+ 
+9.6 To assist with the lifting of heavier jum pers/harness and sensors, a suitable rated 
+and certified soft fabric strop should  be used in a double hitch (to prevent slippage) 
+attachment just behind the flange. Before any lifting is carried out it is recommended 
+that the probe an d flange sealing areas  are suitably protected.  
+ 
+10  SHIPPING AND MARKING  
+ 
+10.1 The jumper/harness and sens ors shall be shipped in the wooden crates and packed 
+as described in Ch. 5.  
+ 
+10.2 All markings shall be legible, permanent and un -obscure d.  
+ 
+ 
+ 
+      
+      
+Document  No : 10102900   Page  : 7 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ 11 EXAM PLES  OF PACKING  
+ 
+11.1 Picture of Sensor H arness  inside crate  
+ 
+ 
+ 
+ 
+ 
+      
+      
+Document  No : 10102900   Page  : 8 of 8 
+Document Title  : Procedure for  Packing, Preserving, Handling and S hipping 
+of Jumpers/Harness with or without Sensors  Rev. : 04 
+ 
+ 
+Restricted   Siemens Ener gy is a trad emark licensed by Siemens AG  
+ 11.2 Picture of Sensor H arness crate with lid  
+ 

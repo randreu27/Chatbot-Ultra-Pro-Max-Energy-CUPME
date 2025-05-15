@@ -1,0 +1,134 @@
+Omnivise 
+Performance
+for Combined Cycle and Steam Power Plants
+This PDF offers an advanced interactive experience.  
+For the best viewing experience, please use Acrobat Reader X or higher. 
+siemens-energy.com/omnivise
+Omnivise Digital
+Services Portfolio
+By itself, Big Data doesn’t generate insight. Insight 
+requires an expert knowledge and understanding 
+of how best to leverage those analytics.
+Using our powerful new digital toolbox, our 
+Siemens Energy Omnivise Digital Services Portfolio 
+team provides data-driven, tailored services, so 
+your operations and maintenance teams will have 
+the information and confidence they need to make 
+timely, insightful decisions.
+Omnivise Digital Services Portfolio combines new 
+developments in data analytics, connectivity, and 
+cyber security with proven capabilities for remote 
+maintenance and optimization.
+For utilities looking to increase revenue and reduce 
+costs, Omnivise Digital Services Portfolio provide 
+insights based on data to help you operate more 
+flexibly and respond quickly to a rapidly changing 
+market.Why is Siemens Energy the best choice for 
+performance optimization?
+40 +  
+power plants are 
+operated and 
+maintained by 
+Siemens Energy4,500   
+of installed control 
+systems
+1,300 + 
+boilers built with 
+Benson license
+1,000 +  
+steam turbines
+7,000 +  
+gas turbines300 +  
+projects for 
+performance 
+optimization  
+worldwide
+90,000   
+SE employees in  
+90+ countries1012* 
+Customer Asset Data 
+in Siemens Energy 
+platform
+Operation experience  – Siemens Energy maintains and operates plants 
+worldwide using a own-hosted customer database in the cloud
+Original Equipment Manufacturer experience  – With a 150-year legacy 
+you can count on our longstanding experience and domain know-how
+Customer intimacy  – Dedicated Siemens Energy experts around the 
+globe deliver excellent service remotely and at your siteOperates with any type of DCS
+The importance of Performance Optimization
+In the competitive power-generation market, 
+power utilities are focused on optimizing 
+performance while minimizing operational costs 
+to deliver low-cost, high-quality energy to their 
+customers.
+However, there needs to be a balance in the 
+trade-offs between performance, operational 
+costs and risks. When it comes to fossil 
+generation, performance optimization is directly 
+related to operations cost.
+Using the data from the DCS for advanced control 
+concepts without major changes to mechanical 
+equipment is one of the options to increase your 
+plants profitability.
+With Omnivise Performance you can adapt plant 
+operations to your current requirements.Base Load
+TimePower
+Flexible Operation Line  
+Standard Operation LineClick to select your plant type
+Click the buttons and move 
+your mouse over the solution 
+to see more information
+Operational 
+Planning
+Startup & 
+Shutdown
+Peak Load
+Part Load
+COMBINED CYCLE  
+POWER PLANT (CCPP)
+From Part up  
+to Peak Load
+Grid Services
+We choose the best approach to improve 
+plant performance
+Advanced  
+Process Control
+Dynamic digital twins 
+used in model-based 
+and state space 
+controlArtificial Intelligence
+• Machine learning
+• Fuzzy logic
+Digital Thermal Twin
+Digital thermal twin using 
+first principle equations, e.g. 
+conservation of mass and 
+energyOmnivise Performance
+Gain and implement insights for 
+optimal performance using plant 
+data and domain know-how
+Around  370   
+global references  
+in Siemens Energy &  
+non-Siemens Energy  
+SPPs and CCPPs
+Will your 
+project be the 
+next?Click to select your plant type
+Click the buttons and move your mouse over 
+one of the CCPP or SPP reference highlights 
+to see details/ more information
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the 
+products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract.Published by and copyright © 2021:
+Siemens Energy Global GmbH & Co. KG 
+Otto-Hahn-Ring 6  
+81739 Munich, Germany
+For more information, please visit our website:  
+siemens-energy.com/omnivise
+E-mail: sppa-p3000.energy@siemens-energy.com
+ 
+Siemens Energy is a trademark licensed by Siemens AG.

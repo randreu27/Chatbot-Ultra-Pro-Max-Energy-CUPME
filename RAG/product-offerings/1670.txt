@@ -1,0 +1,131 @@
+I&C Monitors and 
+Advisors
+Your plant likes to talk, we can help cut through the 
+noise for more profitable outcomes
+siemens-energy.com/ic-monitors-and-advisors
+I&C Monitors and Advisors
+Copyright 2021 Siemens EnergyPage 2Better visibility for plant improvement and  
+profitability
+I&C Monitors and Advisors offers 
+operators and plant managers 
+better visibility and transparency 
+of the overall plant operations and 
+component statuses, so they can 
+make smarter and quicker deci-
+sions for improved operational 
+efficiency, profitability and  
+business outcomes.Today‘s world is driven by 
+data. Digital solutions in the 
+control room of the power 
+plant can help to leverage 
+this data and increase plant 
+availability, reliability and 
+profitability. Analytics  
+solutions should supplement 
+and extend the skills of your  
+experienced engineers using 
+automation, Siemens Energy’s 
+power plant expertise, and 
+all the benefits digitalization 
+has to offer through the 
+power of cloud analytics.
+ Keeping your system available when needed is one of the 
+keys to profitability. Transparency on critical operational 
+aspects is essential to identify potential issues early, enable 
+prompt intervention, and keep downtimes and compliance 
+failures to an absolute minimum. I&C Monitors and Advi-
+sors, part of the Omnivise Digital Services Suite, combines 
+the full potential of powerful cloud-based analytics with our 
+deep industry experience and know-how to enable you to 
+operate your plant more efficiently and effectively, so that 
+you can focus on the things that matter most.  
+ 
+I&C Monitors and Advisors is comprised of I&C Archive, I&C 
+Condition, I&C Security, I&C Lifecycle and I&C Process Opti-
+mization, all targeting different aspects of your plant opera-
+tion. These services, all accessible through the Customer 
+Portal, provide you with comprehensive KPI-dashboards to 
+offer you a transparent pulse check on the past and current 
+performance of your plant.  
+ 
+I&C Monitors and Advisors benchmark s your plant or fleet 
+against similar plants, and utilizes all available data to 
+pinpoint areas for optimization potential, providing you 
+with individual recommendations for possible implemen-
+tations.  
+ 
+I&C Monitors and Advisors offers operators and plant man-
+agers better visibility and transparency of the overall plant 
+operations and component statuses, so they can make 
+smarter and quicker decisions for improved operational 
+efficiency, profitability and business outcomes.
+Copyright 2021 Siemens Energy Page 4I&C Monitors and Advisors
+Five Modules for optimized plant operation
+• I&C Monitors and Advisors combine the
+potential of cloud-based analysis methods with 
+long-standing power plant expertise 
+• Daily KPI updates on the current DCS status
+indicate plant performance, benchmark posi-
+tion, optimization potential• Individual recommendations, generated from 
+I&C data, create transparency and boost
+operational efficiency, contributing directly to 
+plant availabilityBetter visibility for
+plant improvement
+and profitability
+I&C Monitors and Advisors
+Copyright 2021 Siemens EnergyPage 5Published by and copyright © 2021
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6
+81739 Munich, Germany
+Order No. SVXX-B10009-00-7600
+Siemens Energy is a trademark licensed by Siemens AG.
+The technical data presented in this document is based on an actual case or on as-designed 
+parameters, and therefore should not be relied upon for any specific application and does not 
+constitute a performance guarantee for any projects. Actual results are dependent on variable 
+conditions. Accordingly, Siemens does not make representations, warranties, or assurances as 
+to the accuracy, currency or completeness of the content contained herein. If requested, we 
+will provide specific technical data or specifications with respect to any customer‘s particular 
+applications. Our company is constantly involved in engineering and development. For that 
+reason, we reserve the right to modify, at any time, the technology and product specifications 
+contained herein.
+All product designations may be trademarks or product names of Siemens Energy Global 
+GmbH & Co. KG or other companies whose use by third parties for their own purposes could 
+violate the rights of the owners.Collect Transfer Process Deliver
+1. Collect
+Bringing together sensor 
+meter, DCS and, increasingly, 
+Industrial Internet of Thing 
+(IIoT) data from power plant 
+or other complex production 
+infrastructures.2. Transfer
+As processing takes place 
+within the virtualized 
+datacenter based on the 
+AWS platform Siemens 
+Energy securely transfers 
+data from customer sites 
+to the analytical engine. 3. Process
+The algorithms used to 
+analyze customer data 
+and the customer data 
+lake are housed in the 
+Siemens Energy-specific 
+environment in a defined 
+AWS cloud location. 4. Deliver
+The algorithms used to 
+analyze customer data and 
+the customer data lake are 
+housed in the Siemens 
+Energy-specific environ-
+ment in a defined AWS 
+cloud location. A closer look at the data journey: Data is collected from the 
+individual plant through Data Agents and channeled 
+through a Data & Security Gateway. Data is encrypted 
+there, and then transferred through the common Remote 
+Service Platform (cRSP) enforcing data integrity as well as 
+confidentiality.The entire process is one directional, thus protects against 
+intrusion. The raw data is stored in the data platform and 
+analyzed on a daily basis, and then shared in the Customer 
+Portal. KPI-dashboards and benchmark position, as well as 
+hints on optimization, are visualized in the “I&C Monitors 
+and Advisors” section of the portal.

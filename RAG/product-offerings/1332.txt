@@ -1,0 +1,36 @@
+Transaction:
+Published 04/05/2022
+LEI 5299005CHJZ14D4FDJ62
+Date 04/04/2022 UTC+2
+Type of transaction Other
+Acquisition (in fulﬁlment of an employment contract-based
+investment obligation)
+Description of financial
+instrument:Share
+ISIN DE000ENER6Y0
+Place Xetra
+a) Price and Volume Price Volume
+EUR 20.60000 EUR 3,955.20
+EUR 20.60000 EUR 7,807.40
+EUR 20.60000 EUR 8,013.40
+EUR 20.60000 EUR 824.00
+EUR 20.60000 EUR 62,376.80
+EUR 20.60000 EUR 12,257.00
+EUR 20.60000 EUR 62,974.20
+EUR 20.60000 EUR 2,286.60
+EUR 20.60000 EUR 42,868.60
+EUR 20.60000 EUR 2,636.80
+b) Aggregated information Price Volume
+EUR 20.60000 EUR 206,000.00
+  
+Details of person:
+Name/Company Karim Ahmed Amin Aly Khalil
+Reason Member of the managing body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

@@ -1,0 +1,1906 @@
+ 
+Unrestricted  Lorem ipsum l Veribus 
+dolorpro  
+ 
+ 
+ 
+ 
+ 
+DigiTRON  
+Installation,  Operations  and 
+Maintenance Manual  
+IOM-001 Rev 16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON  EFL’s , Jumpers  and Harness Assemblies  
+Protection,  Storage,  Shipment,  Unpacking,  Deployment  and 
+Maintenance  Instructions  
+ 
+siemens -energy.com  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  2 of 55 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON EFL’s , Jumpers  and Harness Assemblies  
+Protection,  Storage,  Shipment,  Unpacking,  Deployment  and 
+Maintenance  Instructions  
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  3 of 55 
+ 
+Unrestricted   
+Thank you for purchasing a Siemens Energy Subsea product. The information contained in this 
+document is an overview including the protection, storage, shipment, unpacking, deployment and 
+maintenance for DigiTRON connector product range.  
+IMPORTANT  
+READ CAREFULLY BEFORE USE  
+KEEP FOR FUTURE REFERENCE  
+Rev Compiled 
+by Date  Approved 
+by Issue Date  Page (s) Affected /Remarks  
+16 R Wyatt  17/03/2023  JP Smit h 17/03/2023  Sections affected: 2.2, 6.1, 6.2, 6.4, 7.7, 8.2, 9.6 
+9.9, 9.10.  Information added or changed: 
+temperature limits for storage  50°C air temp .  
+Outdoor storage of wooden crates.  Bend radius 
+gauge and protection from crate edges.  Check s 
+for test connectors, incl gauge for bent pins.  
+Inspection for corrosion, damage to fr ont seals 
+added. Cleaning with IPA  added.  Visibility of 
+lipseal indicator from side view.  Figure 21 updated 
+to include cold shrink.  
+15 L.Belcher  04/08/2022  R Wyatt  04/08/2022  Section 7.4 Non -Standard Bracket added.  
+14 R Wyatt  27/06/2022  R Wyatt  27/06/2022  Siemens Energy front and back cover pages added  
+13 R Wyatt  10/06/2022  R Wyatt  10/06/2022  Sections updated: 2.2  2.4  2.5  3.3.6  5.1  5.2 5.3 
+6.3  6.4.1  6.4.2  6.4.3  7.4  7.6  9.4.2   
+12 R Wyatt  09/11/2020  R Wyatt  09/11/2020  Section1, list of IOMs updated  
+11 R Wyatt  24/09/2020  Eric Chaize  24/09/2020  Updated onto new IOM template with product 
+safety advice clearly identified.  
+DigiTRONe and DigiTRON3 added.  
+Subsea cable specification added  
+Section on Caps and Dummies added.  
+Alternative test connector added (from IOM -001-
+CAM, so this IOM can be obsolete d). 
+10 J.Pridmore  11/06/19  R.Mandal  11/06/19  Section 12 updated for vertically mounted 
+junction boxes  
+9 J.Pridmore  19/03/19  R.Mandal  19/03/19  Section added for installation of junction 
+boxes  
+8 J.Pridmore  09/11/18  JP.Smith  09/11/18  “Power off” max. de-mate speed increased to 
+1 m/s  
+7 M.Bell  07.03.16  N.Atkinson  07.03.16  Section 11 Split floating flange assembly 
+added, references to Aquatron amended to 
+Siemens Energy Pressure Balanced Oil Filled 
+Hose  
+6 P.Westwell  28.05.15  B.Leach  28.05.15  Misalignment tolerances updated, Extended 
+storage added, Section 5 updated  
+5 P.Westwell  11.7.14  B.Leach  11.7.14  Various spelling and grammar corrections  
+4 P.Westwell  29.4.14  B.Leach  29.4.14  New cover design and complete document 
+reformat.  
+3 P.Westwell  31.11.13  B.Leach  31.11.13  Section 7 updated, Section 16 added, general 
+updates. Full reformat and new cover  
+2 P.Westwell  31.11.13  B.Leach  31.11.13  Re-format, various text amendments, 
+pictures of packaging added, pg 11 images 
+changed  
+1 P.Westwell   B.Leach   First issue  
+ 
+ 
+  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  4 of 55 
+ 
+Unrestricted   
+Contents  
+1 PRODUCTS COVERED BY THIS MANUAL  ................................ ................................ .........  7 
+2 BASIC INFORMATION & QUICK REFERENCE  ................................ ................................ ... 8 
+2.1 Product overview  ................................ ................................ ................................ ........  8 
+2.2 Product specification and certification  ................................ ................................ ..... 9 
+2.3 Contact details and feedback  ................................ ................................ ..................  10 
+2.4 Product advice label  ................................ ................................ ................................ . 10 
+2.5 Product marking  ................................ ................................ ................................ ....... 11 
+2.6 CE label/marking  ................................ ................................ ................................ ....... 12 
+2.7 Product examples  ................................ ................................ ................................ ..... 13 
+3 PRODUCT SAFETY  ................................ ................................ ................................ ............  16 
+3.1 Action -related warnings  ................................ ................................ ...........................  16 
+3.2 Intended use  ................................ ................................ ................................ .............  16 
+3.3 General safety information ................................ ................................ .......................  17 
+3.4 Related documents  ................................ ................................ ................................ ... 20 
+3.5 Control of substances hazardous to he alth (COSHH)  ................................ ............  21 
+4 ABBREVIATIONS  ................................ ................................ ................................ ...............  22 
+5 SPECIFICATIONS  ................................ ................................ ................................ ...............  23 
+5.1 Connector Specification  ................................ ................................ ...........................  23 
+5.2 Siemens Energy AquaTRON  pressure -balanced oil -filled hose specification  ..... 24 
+5.3 Siemens Energy Subsea Cable Specification  ................................ .........................  25 
+6 PREPARING PRODUCT FOR USE OR STORAGE  ................................ ............................  26 
+6.1 Product protection and packaging  ................................ ................................ ..........  26 
+6.2 Unpacking  ................................ ................................ ................................ .................  27 
+6.3 Lifting of harnesses and EFLs  ................................ ................................ .................  27 
+6.4 Storage, protection and end of life  ................................ ................................ ..........  28 
+7 INSTALLATION AND ASSEMBLY  ................................ ................................ .....................  32 
+7.1 Pre-installation checks for EFL’s ................................ ................................ .............  32 
+7.2 Cathodic protection  ................................ ................................ ................................ .. 32 
+7.3 Installation of harnesses with flanged connectors and / or junction boxes  .........  32 
+7.4 Installation of AquaTRON junction box and mounting brackets  ...........................  38 
+7.5 Sensor assemblies  ................................ ................................ ................................ ... 40 
+7.6 Product mounted within umbilical termination assemblies (UTA)  ........................  40 
+7.7 TESTING OF EFL’S  ................................ ................................ ................................ ... 41 
+8 USER INFORMATION DURING NORMAL OPERATION AND FAULT CONDITIONS  ....... 44 
+8.1 Visible/audible signals  ................................ ................................ .............................  44 
+8.2 Normal and faulty/dangerous operation  ................................ ................................ . 44 
+8.3 Troubleshooting  ................................ ................................ ................................ ....... 44 
+9 PRODUCT OPERATION AND MAINTENANCE  ................................ ................................ . 45 
+9.1 Safety precautions  ................................ ................................ ................................ .... 45 
+9.2 Product maintenance and servicing  ................................ ................................ ........  45 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  5 of 55 
+ 
+Unrestricted   
+9.3 Subsea protection of receptacle contact pins  ................................ ........................  45 
+9.4 Product protection; caps and dummy connectors  ................................ .................  45 
+9.5 Live Mate / De -mate  ................................ ................................ ................................ .. 48 
+9.6 Inspection and cleaning of connector products  ................................ .....................  49 
+9.7 Removal of marine growth and calcareous deposits  ................................ .............  49 
+9.8 Testing of product  ................................ ................................ ................................ .... 49 
+9.9 Checks before mating the product  ................................ ................................ ..........  49 
+9.10  ROV connectors matin g and de -mating  ................................ ................................ .. 50 
+9.11  Stab -plate connectors mating and de -mating  ................................ .........................  52 
+9.12  Diver operated connectors mating and de -mating  ................................ .................  52 
+10 CUSTOMER COMMENTS/FEEDBACK  ................................ ................................ ..............  54 
+ 
+Tables  
+Table 1  List of other Installation, Operation and Maintenance manuals related to 
+DigiTRON product range  ................................ ................................ ................................ ..... 7 
+Table 2  DigiTRON product range identification  ................................ .......................  8 
+Table 3  DigiTRON product specification and certif ication  ................................ ...... 9 
+Table 4  DigiTRON product contact details  ................................ .............................  10 
+Table 5  DigiTRO N connector specification  ................................ ............................  23 
+Table 6  AquaTRON oil -filled hose specification ................................ .....................  24 
+Table 7  DigiTRON subsea cable specification  ................................ .......................  25 
+Table 8  Troubleshooting product contact details  ................................ ..................  44 
+ 
+Illustrations  
+Figure 1 Product advice label  ................................ ................................ ...................  11 
+Figure 2  Product marking on DigiTRON product ................................ .....................  11 
+Figure 3  Typical EFL (Electric Flying Lead)  ................................ .............................  13 
+Figure 4  Typical jumper (harness) assembly  ................................ ...........................  14 
+Figure 5  Examples of DigiTRON oil hose connectors  ................................ .............  15 
+Figure 6  Examples of flying lead and harnesses.  ................................ ....................  15 
+Figure 7  AquaTRON  hose, size 50 (1/2” bore), and size 75 (3/4” bore)  ..................  24 
+Figure 8  Siemens Energy subsea cable  ................................ ................................ ... 25 
+Figure 9  Acceptable packaging for shipment  ................................ ..........................  26 
+Figure 10  Unacceptable packaging and storage  ................................ .......................  27 
+Figure 11  Minimum bend radius g auges  ................................ ................................ .... 27 
+Figure 12  Illustration of strapping points for lifting hose assemblies  .....................  28 
+Figure 13  Typical stab -plate connectors  ................................ ................................ .... 33 
+Figure 14  Flange styles for stab -plate connectors  ................................ ....................  34 
+Figure 15  Installation of compliant flange -mount ROV plug  ................................ ..... 36 
+Figure 16  Sectional view to show installation and parts of compliant flange -mount 
+connector   ................................ ................................ ................................ ......................  37 
+Figure 17  View to show ROV compliant mount flange text  ................................ ....... 37 
+Figure 18  Junction box mounting horizontal (left) and vertica l (right)  ....................  38 
+Figure 19  Junction box mounting bracket assembly  ................................ ................  39 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  6 of 55 
+ 
+Unrestricted   
+Figure 20  Junction box correctly installed on structure  ................................ ...........  39 
+Figure 21  Loose Bracket with Lever Arm  ................................ ................................ ... 40 
+Figure 22  Junction box brackets correctly installed  ................................ .................  40 
+Figure 23  Dry (Topside) Test connectors, ROV, Diver and Stab -plate type  .............  42 
+Figure 24  Example of standard subsea connector (shown untailed)  .......................  42 
+Figure 25  Gauges for checking straightness of receptable pins  ..............................  43 
+Figure 26  ROV -type Transport Caps (left) and Protective Caps  ...............................  46 
+Figure 27  ROV -type Subsea Caps  ................................ ................................ ..............  47 
+Figure 28  ROV -type Subsea Environment Caps (red -coloured disc)  .......................  47 
+Figure 29  ROV -type Dummy Connectors, flying and flanged types  .........................  47 
+Figure 30  Example label on connectors (‘LOOPED’ or ‘RESISTORS’ or ‘ZERO 
+VOLTS’)   ................................ ................................ ................................ ......................  47 
+Figure 31  Alignment marks and lip seal mating indicator  ................................ ........  51 
+Figure 32  ROV de -mate tool, part number BQ -30090 -00 ................................ ...........  52 
+Figure 33  Diver operated connector mating features  ................................ ................  53 
+  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  7 of 55 
+ 
+Unrestricted   
+1  PRODUCTS  COVERED BY THIS MANUAL  
+This manual includes information on DigiTRON product range of electrical flying leads  (EFL) , jumper 
+and sensor harnesses , including connectors that are part thereof, their el ectrical and mechanical 
+specification.  
+Also this manual pr ovides details of installing  the DigiTRON product range  of connectors that are  
+fitted as part of an  oil filled hose or cable assembl y. These may involve the installation of a flange 
+mounted fixed connector or sensor.  
+The DigiTRON product range includes th e following products:  
+DigiTRON + 
+DigiTRON e 
+DigiTRON 3 
+ 
+Installation, Operation and Maintenance manuals for other DigiTRON products not covered by this 
+document can be found on Siemens Energy  Subsea website www.siemens -energy.com   /search 
+Subsea, as listed in Table 1 . 
+Instructions for sensors are not covered by this manual.  The sensor manufacturer should be 
+contacted for their relevant installation, operation and maintenance manual.  
+For Siemens sensor pro ducts use the manuals listed in Table 1 . 
+If a non -Siemens connector is fitted as part of the EFL or harness then the manufacturer of that 
+product shou ld be contacted for the IOM manual . 
+DOC. No.  PRODUCT  
+IOM-002 DigiTRON electrical single connectors  
+IOM-003 Obsoleted, replaced by IOM -002. 
+IOM-004 Not used  
+IOM-005 Retrievable Electrical Distribution unit (REDU), 2nd generation  
+IOM-006 Retrievable Electrical Distribution unit (REDU), 1st generation  
+IOM-007 Disconnectable junction boxes type TC3A -107 and similar Electrical 
+Distribution Units (EDUs).  
+IOM-008 DigiTRON f fiber optic flying leads and harness assemblies  
+IOM-009 DigiTRON f fiber optic single connectors  
+00003075  Subsea PT/TT sensors  
+00007464  Differential Pressure sensors SDP -6 / SDP -8 
+Table 1  List of other Installation, Operation and Maintenance manuals related to DigiTRON 
+product range  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  8 of 55 
+ 
+Unrestricted   
+2 BASIC INFORMATION  & QUICK REFERENCE  
+2.1 Product overview  
+DigiTRON connectors, electric flying leads (EFLs), jumpers and harness assemblies intended use 
+is to provide low voltage and communications links between pieces of electrical equipment that are 
+submerged in water, e.g. s ubsea.  
+The DigiTRON range of connectors have been developed for long term reliable communications and 
+low voltage power control system applications associated with offshore installations. The underwater 
+mateable capacity of these connectors is achieved using pressure compensated electrical inserts 
+employing the CE principle.  
+An EFL is completely independent of other equipment and is fitted with ROV or Diver installable 
+connectors at each end.  All EFL’s are oil filled pressure compensated hose o r suitable subsea cable 
+assemblies and are supplied as complete finished product from the factory.  All EFL’s should be 
+retrievable and when installed should not cross -over each other.  
+Some illustrations are shown in section 2.7 to help identify an EFL and jumper ( harness ). 
+Table 2  below identifies each product type in the DigiTRON product range . 
+The products look very similar, so it is important to note the identifier for each product type.  
+Product 
+range  Description  Visual identifier  Typical part number  
+(etched on the 
+connector)  
+DigiTRON + 4, 7, and 12 pins  
+Voltage rating  
+1kV pin -ground  
+2kV pin -pin White -coloured cone* or disc 
+on ROV connectors.  
+No visual identifier on Stab or 
+Diver type connectors  BROV -….….  
+BRSP - …….  
+BSTA - .........  
+BSSP - …….  
+BDIV - ……..  
+BDSP- ….... 
+DigiTRON e 12 pins only.  
+As DigiTRON+, but 
+with 4 or 8 of the pins 
+wired with ethernet 
+cable**.  White -coloured cone* or disc 
+on ROV connectors.  
+No visual identifier on Stab or 
+Diver type connectors  EROV -.…….  
+ERSP - …….  
+ESTA - .........  
+ESSP - …….  
+EDIV - ……..  
+EDSP- ….... 
+DigiTRON 3 4 pin only.  
+Voltage rating 1.8kV 
+pin-ground / 3.6kV 
+pin-pin Blue-coloured cone* or disc 
+on ROV connectors.  
+Blue-coloured sleeve on Stab 
+and Diver type connectors   
+D3RV - ….…  
+D3ST - …….  
+D3DV - …… 
+* Occasionally different coloured cones may be fitted, as specified by the customer, e.g. red, 
+green, yellow.  In this case also check the part number to identify the product range  
+** Wiring diagram on the drawing will show how the product is wired.  Contact Siemens Technical 
+Support for t his information connectortechnicalsupport.gb@siemens -energy.com . 
+Table 2  DigiTRON product range identification   
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  9 of 55 
+ 
+Unrestricted   
+2.2  Product specification and certification  
+Basic specification s relating to all products  covered by this manual  are below in Table 3 .  Additional 
+specifications can be found in  section 5. 
+Design Life:  30 years  in subsea environment  
+Rated voltage  DigiTRON +    1,000Vac pin -ground,  2,000Vac pin -pin 
+DigiTRON e     Ethernet lines 50Vdc, other lines as DigiTRON + 
+DigiTRON3     1,800V ac pin-ground,  3,600Vac pin -pin 
+Rated current  In water:  4-way 35 -40A     7-way 22 -32A     12 -way 20 -28A 
+In air:        4-way 18A         7-way 14A          12-way 11A  
+(Excludes ethernet lines)  
+Over -current  100A for 5 seconds, no more than 2 per hour  
+Rated number of 
+operations  1000 (750dry/250wet) mate / de -mate cycles (Power off)  
+Water depth  4,000 m  (13,123ft)  
+Storage temperature  -40°C  +70°C  (-40°F +158°F)  (upper limit is surface temperature of the 
+product and includes solar gain from bright sunlight)  
+Recommended m aximum  ambient air temperature +50°C  (122°F) . 
+Operational temp  Subsea: -5°C  +60°C (+23°F  +140°F) . 
+In air: -20°C  +50°C  (-4°F  +1 22°F) 
+  
+Product Certification:  
+Standard  Description  
+EU Directive 
+2001/95/EC  General Product Safety  
+EU Directive 
+2014/35/EU  Low Voltage Directive  
+IEC 61984  Connectors - Safety requirements and tests  
+API-17F  Standard for Subsea Production Control Systems  
+Note: Self-certified via in -house testing.  
+Table 3  DigiTRON  product specification  and certification  
+  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  10 of 55 
+ 
+Unrestricted   
+2.3 Contact details and feedback  
+For additional information or questions regards the products visit the Siemens Energy Subsea 
+website https://www.siemens -energy.com  /search Subsea, or contact the following  
+Department  E-mail address  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Technical Support  connectortechnicalsupport.gb@siemens -energy.com  
+Service (Site Team)  susultlcmsupport.gb@siemens -energy.com  
+Sales  connectorsales.gb@siemens -energy.com  
+Table 4  DigiTRON product contact details  
+Any information, records , or Health and Safety feedback that needs to be detailed can be recorded 
+in section 10 of this document and sent to the relevant departme nt in Table 4  
+ 
+2.4 Product advice label  
+The following product advice label is supplied with all Siemens Energy  Subsea products.  
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  11 of 55 
+ 
+Unrestricted   
+ 
+Figure 1  Product advice label  
+2.5 Product marking  
+Siemens Energy  Subsea DigiTRON products are marked with the Siemens Energy  part number and 
+unique serial number .  Also,  the voltage, temperature and water depth ratings are indicated .  Marking 
+locations are typically on the metal bodies of the connectors. Refer to Figure 2 . 
+ 
+Figure 2  Product marking on DigiTRON product  
+Harnesses are also marked with the Siemens Energy  Subsea unique serial number . 
+Labels are typically black text on a yellow background underneath a clear protective wrap  and are 
+typically located at each end of the harness and centrally.  Often client’s  own information is added 
+to these labels.  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  12 of 55 
+ 
+Unrestricted   
+2.6 CE and UKCA  label/m arking  
+The CE label/ marking where applicable shows that the products comply with the requirements of the 
+applicable directives as follows:  
+• 2014/35/EU – Low Voltage Directive  
+ 
+The UKCA label/marking where applicable shows that the products comply with the requirements of 
+the a pplicable directives as follows:  
+• Electrical Equipment (Safety) Regulations 2016  
+ 
+Declaration of Conformity will be supplied with the goods.  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  13 of 55 
+ 
+Unrestricted   
+2.7 Product examples  
+ 
+Figure 3  Typical EFL (Electric Flying Lead)  
+DigiTRON ROV 
+Receptacle Connector  
+ 
+ 
+ 
+Transport Cap or 
+Protective Cap 
+(protective cap shown)  
+ 
+Transport Cap or 
+Protective Cap  
+(protective cap shown)  
+ 
+ 
+ 
+DigiTRON ROV Plug 
+Connector  
+Siemens Energy Pressure 
+Balanced Oil Filled Hose oil filled 
+hose  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  14 of 55 
+ 
+Unrestricted   
+ 
+ 
+Figure 4  Typical jumper (harness)  assembly  
+ 
+Siemens Energy Pressure 
+Balanced Oil Filled Hose oil filled 
+hose  
+Transport Cap or Protective Cap 
+(protective cap shown)  
+ 
+ 
+DigiTRON Stab -Plate ROV 
+Receptacle Connector  
+DigiTRON Compliant Mounted 
+ROV Receptacle Connector  
+ 
+ 
+Transport Cap or Protective Cap 
+(protective cap shown)  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  15 of 55 
+ 
+Unrestricted   
+Figure 5  Examples of DigiTRON oil hose connectors  
+ 
+    
+ 
+Figure 6  Exampl es of flying lead and harnesses . 
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  16 of 55 
+ 
+Unrestricted   
+3 PRODUCT SAFETY  
+Siemens Energy  Subsea recommends the termination of all equipment shall only be undertaken by 
+trained, suitably qualified and experienced personnel (SQEP) i.e. competent person.   
+Following installation, commissioning or deployment of product, if you have any feedback pl ease 
+complete and return the Customer Comments/Feedback form (Section 10). Please e -mail completed 
+form to the Product Safety Officer at subs ea.connectors.productsafety.gb@siemens -energy.com  
+3.1 Action -related warnings  
+Classification of action -related warnings  
+The action related warnings are classified in accordance with the severity of the possible danger 
+using the following warning signs and signal words:  
+Warning symbols and signal words  
+ Danger!  
+Imminent danger to life or risk of severe personal injury  
+ Danger!  
+Risk of death from electric shock  
+ Warning.  
+Risk of minor personal injury  
+ Caution.  
+Risk of material or environmental damage  
+3.2 Intended use  
+The product is intended as a Low Voltage electrical connection system for subsea use  
+There is a risk of injury or death to the user or others, or of damage to the product and other property 
+in the event of improper use or use for which it is not intended.  
+Intended use includes the following:  
+- observance of the installation and operating in structions included for the product and any other 
+system components . 
+- compliance with all inspection and maintenance conditions listed in the instructions . 
+- use of all recommended tooling appropriate for specific tasks.  
+- all activities to be undertaken by a competent person  (see 3.3.1  for definition) .  
+Any other use that is not specified in this document or covered in installation and operating 
+instructions, or beyond that specified in this document shall be considered improper use.   
+ Danger!  Risk of imminent danger to life or risk of severe personal injury . 
+Sudden release of stored pressure.  
+DigiTRON products are not intended for use as a penetration for fixed top -side or land -
+based pressure vessels.  They are not designed to comply with the requirements of the 
+Pressure Equipment Directive (2 014/68/EU).  They are intended for integration into 
+subsea equipment only.  
+All pressure testing of DigiTRON  product must be undertaken by a competent person.  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  17 of 55 
+ 
+Unrestricted   
+ Caution.  Risk of material or environmental damage, improper use of any kind is prohibited.  
+3.3 General safety information  
+ Installation by competent persons only  
+The installation, inspection, maintenance and repair of the product shall be undertaken by trained, 
+suitably qualified and experienced personnel (SQEP) i.e. competent person, to carry out a sp ecified 
+activity. Installation, inspection, maintenance and repair of products by untrained and deemed non -
+competent persons could invalidate the product warranty.  
+For further information contact Siemens Energy  Lifecycle Management  (Site Team) 
+susultlcmsupport.gb@siemens -energy.com   
+ Personal protective equipment (PPE)  
+Personal Protective Equipment (PPE) is legally defined as ‘all equipment (including clothing affording 
+protection against the weather) which is intended to be worn or held by a person at work and which 
+protects the user against one or more risks to their health or safety’.  
+In the hierarchy of risk control, PPE is cons idered to rank lowest and represent the option of last 
+resort. PPE is only appropriate where the hazard in question cannot be totally removed or controlled 
+in such a way that harm is unlikely (for example by isolating the hazard or reducing the risk at sou rce 
+to an acceptable level).  
+All company personnel and operators should wear appropriate Personal Protective Equipment (PPE) 
+defined as a result of relevant risk assessments in accordance with the Personal Protective 
+Equipment (PPE) Regulations.  
+Wear appro priate PPE according to the product safety advice given in this document  
+ Danger caused by improper operation and foreseeable misuse  
+Improper operation and foreseeable misuse may present a danger to you and others and cause 
+material damage. Carefully read t he enclosed instructions and all other applicable documents, 
+particularly the “Safety” section and the warnings.  
+ Danger!  Risk of death from electric shock if shuttle pins (on the plug connector) are 
+depressed e.g. with a screwdriver when plug is live (fo reseeable misuse).  
+- Testing activities must only be carried out by a competent person.  
+- Correct test connector shall always be fitted for electrical testing.  
+ Danger! Risk of imminent danger to life, risk of severe personal injury caused by a shuttle 
+pin projectile due to damage caused to shuttle pins e.g. with a screwdriver (foreseeable 
+misuse).   
+- Maintenance and testing activities must only be carried out by a competent person.  
+- Correct tools must always be used.  
+ 
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  18 of 55 
+ 
+Unrestricted   
+ Risk of death due to electrocutio n 
+ Danger!  Risk of death from electric shock due to exposed live pins, e.g. factory or top -side 
+system test and unmated receptacle is energised .  
+- Never energise a receptacle connector when not mated to a plug.  
+- Ensure all test procedures are followed.  
+- Communication c hannels and protocols are observed.  
+ Danger!  Risk of death from electric shock due to unscreened cables.  
+- Do not touch electrical wires while energised.  Ensure all test procedures are followed.  
+ Danger!  Risk of death from electric shock from any expos ed conductors due to stored 
+electrical energy, e.g. capacitance of cable or elsewhere in the system.  
+- Ground all electrical conductors after testing and d o not touch conductors until 
+electrical system is fully discharged .  Ensure all procedures are followe d. 
+ 
+ Danger! Risk of death from electric shock , if product is terminated incorrectly e.g. loose 
+conductor touching metal body or  terminated to metal body in error.  
+- Installation/termination activities must be carried out by a competent person . 
+- Always electrically ground metal bodies prior to electrically energising  a connector . 
+- Never hand -hold the product when live. 
+ 
+ Danger! Risk of death from electric shock or severe personal injury through burning from 
+de-mating live conductors by hand.  
+- Do not demate the product while live  
+- Do not hand -hold the product while live  
+- Ensure all procedures are followed for mating/de -mating connec tors. 
+ Risk of injury and material damage due to testing, maintenance and repairs 
+carried out incorrectly or not at all  
+The oil -filled hoses and connectors are non -serviceable by the user.  In case of suspected faults with 
+the product  (refer to section 8.2), do not use the product and contact Siemens Energy  Technical 
+Support or Siemens Energy  Product Safety for advice.  Never attempt to carry out maintenance work 
+or repairs on the product yourself.  
+ Danger!  Risk of death from electric shock if user dismantles / incorrectly re -assembles / 
+incorrectly terminates product (foreseeable misuse).  
+- There are no parts of the product that require maintenance or inspection.  The product 
+should not be disassembled.  
+-  Termination of electrical wires to the product must only be carried out by a competent 
+person.  
+ Danger!  Risk of death from electric shock from improper use of test connector 
+(foreseeable misuse).  In particular, removal of the rubber termination sleeves placed over 
+the joint between the cable and the test connector is prohibited, as this will expose live 
+parts to the user.  
+- Never disassemble a test connector  
+ Danger! Risk of imminent danger to life, risk of severe personal injury caused by released 
+pressure and or projectile due to incorrectly installed pressure retaining product, (e.g.bulk -
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  19 of 55 
+ 
+Unrestricted   
+head connector o r penetrator) during system pressure test, or the rated differential 
+pressure of the product is exceeded  
+- Ensure all product assembly and testing activities are completed by competent 
+persons.  
+- Do not exceed the maximum differential pressure rating of the product installed.  
+- Individual products have different differential pressure ratings, refer to the specific 
+product datasheet or contact Siemens Energy  Technical Support    
+ Warning ! Risk of minor personal injury from high temperature of the product d ue to ohmic 
+heating in short -circuit condition or high over -currents.  
+- In the event of a high over -current, allow the connectors to cool before touching.  
+- Ensure all testing of products both factory and deployed in -field have been completed 
+by competent per sons.  
+ Danger! Risk of severe personal eye injury due to pressurised oil squirting out of damaged 
+hose or removal of fill/vent screw.  
+- Ensure all testing of products both factory and deployed in -field have been completed 
+by competent persons.  
+ Warning. Risk of eye/bodily injury caused by released pressure during product 
+disassembly, in the event of retrieval from subsea with a fault that causes depth pressure 
+to be trapped inside the product.  
+- Ensure all product disassembly activities are completed by competent persons in 
+accordance with relevant procedures and using relevant personal protective 
+equipment (PPE).  
+ Warning. Risk of bodily injury caused by pressure retaining parts becoming projectile due 
+to user over -pressurising the system,  e.g. during Site Installation Test (SIT).  
+- Ensure all product SIT activities are completed by competent persons in accordance 
+with relevant procedures.   
+ Risk of injury and material damage due to manual handling  
+Manual handling, lifting and carrying are k nown to be one of the largest contributors to occupational 
+ill-health. Ensure mechanical handling aids are used wherever possible to avoid manual handling. 
+Where manual handling is considered appropriate for the task, safe lifting guidelines must be 
+follow ed, e.g. adopt correct posture, consider team lifting, employ safe lifting technique, etc. Only 
+competent persons are permitted to perform tasks without supervision, if in doubt ask.  
+Local regulations for mechanically -aided lifting operations and lifting e quipment must be adhered to, 
+e.g. ‘LOLER’ in the UK . 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  20 of 55 
+ 
+Unrestricted   
+ Warning. Risk of musculoskeletal injury from hand -mating  or de -mating  connectors.  
+- Referring to the mate / demate forces specified herein, ensure suitable manual 
+handling precautions are taken.  
+- Ensure all product testing activities are completed by competent persons in 
+accordance with relevant procedures.  
+ Warning. Risk of musculoskeletal injury from manual handling of heavy products , e.g. 
+harnesses or sensor assemblies.   Refer to shipping info rmation or product datasheet  for 
+weights of the product.  
+- Ensure mechanical handling aids are used wherever possible to avoid manual 
+handling.  
+- Where manual handling is considered appropriate for the task, safe lifting guidelines 
+must be followed, e.g. adopt  correct posture, consider team lifting, employ safe lifting 
+technique, etc.  
+- Only competent persons are permitted to perform tasks without supervision, if in doubt 
+ask. 
+ Warning. Risk of bodily injury from heavy product falling during lift with machinery .  
+Local regulations for mechanically -aided lifting operations and lifting equipment must be 
+adhered to, e.g. ‘LOLER’ in the UK.  
+ Warning. Risk of minor personal injury to persons with sensitivities to silicone or mineral 
+based oils.  
+- There is a small risk that oil could leak from the product if faulty. Wear appropriate hand 
+protection when handling products or mineral or synthetic based oils in case oils leak 
+from the connector due to a fault.  
+ Warning. Risk of minor personal injury and material damage due to slips, trips and falls.  
+- Good housekeeping avoids slips, trips and falls, keep all work areas clean and tidy.  
+3.4 Related documents  
+Installers shall carryout a full site risk assessment and put into place all necessary steps and 
+procedures to comply with applicable area, regional, national or international health and safety 
+legislation, e.g. The Health and Safety at Work Act (HASAWA) i n the United Kingdom (UK) and 
+ensure safety of themselves and others regarding manual handling and working at height 
+requirements.  
+During the product installation (and any subsequent work) it will be necessary to employ caution. All 
+installers and operativ es involved from unloading the product until it is deployed in its final installed 
+location must exercise a full duty of care for themselves and others regarding safety. When lifting 
+and handling this product, operatives should employ assistance if require d. In certain situations, it 
+may be necessary to use mechanical handling aids. Take care to avoid trip hazards, slippery or wet 
+surfaces.  
+Employers and installers should refer to the Health and Safety Executive (HSE) web site in the UK 
+for full advice and manual handling assessment charts (MAC) tool.  
+In addition, where no specific instructions are given then reference shall be made, but not restricted 
+to, where applicable, British Standards and codes of practice such as the following:  
+- The Health and Safety at Work Act.  
+- COSHH Control of substances hazardous to health.  
+- BS 7671 Requirements for electrical installations. IEE Wiring Regulations.  
+- The Electricity at Work Regulations.  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  21 of 55 
+ 
+Unrestricted   
+It is the operator’s and installers responsibility to comply with current Company, area, regional, 
+national or international health and safety legislation.  
+3.5 Control of substances hazardous to health (COSHH)  
+Hazardous substances, Control of substances hazar dous to health (COSHH) Assessments regards 
+to materials such as elastomers and oils, etc. used in DigiTRON products are available on request 
+from the Product Safety Officer at subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  22 of 55 
+ 
+Unrestricted   
+4 ABBREVIATIONS  
+A Ampere  
+ac Alternating Current  
+Assy  Assembly  
+API American Petroleum Institute  
+AWG  American Wire Gauge  
+BOM  Bill of Material  
+°C Degree Celsius  
+°F  Degree Fahrenheit  
+CE Community European  
+Comms  Communication Signal  
+COSHH  Control of substances hazardous to health  
+CP Cathodic Protection  
+dc Direct Current  
+DWG  Drawing  
+EFL Electrical Flying Leads  
+EMF  Electrical Magnetic Field  
+EMI  Electromagnetic Interference  
+FAT Factory Acceptance Test  
+IR Insulation Resistance  
+ISO International Organization for Standardization  
+ITP Inspection Test Plan  
+LTC Long Term Cover  
+M Metres  
+Max.  Maximum  
+Min. Minimum  
+No. Number  
+PPE Personal Protective Equipment  
+ROV  Remotely Operated Vehicle  
+SI Standard International  
+SIT Site Installation Test  
+SRT Site Received Test  
+SST Stainless Steel  
+TBD To Be Defined  
+TSP Twisted Screened Pair  
+UNS  Unified Numbering System for Metals and Alloys  
+V Volt 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  23 of 55 
+ 
+Unrestricted   
+5 SPECIFICATION S 
+The following is a basic specification for DigiTRON  products . Actual product may vary. Please refer 
+to product specific data sheet (s), contact Siemens Energy  Technical Support 
+connecto rtechnicalsupport.gb@siemens -energy.com  for more detailed information . 
+General specification of the product is listed in section 2.2.  Additional specifications are as follows.  
+5.1 Connector Specification  
+ ROV operated  Stab-plate  Diver operated  
+Misalignment 
+Type  4 & 7 -way 12-way 4 & 7-way 12-way 4 & 7 -way 12-way 
+Rotational (0 º) ±15º ±15º ±1.6º  ±1.6º  n/a n/a 
+Radial  ±20mm  
+(0.787”)  ±20mm  
+(0.787”)  ±1mm  
+(0.039”)  ±1mm  
+(0.039”)  n/a n/a 
+Angular  ±20º ±20º ±0.7º  ±0.7º  n/a n/a 
+ 
+Mate force  <300N  
+(67 lb)  <500N  
+(112 lb)  <300N  
+(67 lb)  <500N  
+(112 lb)  Integral clamp ring  
+Demate force  240 – 360N  
+(54 – 81 lb)  480-800N  
+(108 - 179lb) 0 0 0 0 
+ 
+Overload 
+withstand        
+Axial load  9800N  
+(2,198 lb)  9800N  
+(2,198 lb)  9800N  
+(2,198 lb)  9800N  
+(2,198 lb)  n/a n/a 
+Bending load  500Nm  
+(369 lbf.ft)  500Nm  
+(369 lbf.ft)  n/a n/a n/a n/a 
+Torsion load  500Nm  
+(369 lbf.ft)  500Nm  
+(369 lbf.ft)  n/a n/a n/a n/a 
+ 
+Maximum mat e 
+/  de-mate  
+speeds  1 m/s  
+(3.3 ft/s) 1 m/s  
+(3.3 ft/s)  1 m/s  
+(3.3 ft/s)  1 m/s  
+(3.3 ft/s)  1 m/s  
+(3.3 ft/s)  1 m/s  
+(3.3 ft/s)  
+Deployment 
+rate 350m/min 
+(1149ft/min)  350m/min 
+(1149ft/min)  350m/min 
+(1149ft/min)  350m/min 
+(1149ft/min)  350m/min 
+(1149ft/min)  350m/min 
+(1149ft/min)  
+ 
+Limit of exposure of male pins to seawater  28 days cumulative over lifetime  
+Table 5  DigiTRON connector specification  
+ 
+ Caution.  Risk of material damage.  Maximum cumulative exposure of the male pins to 
+seawater is 28 days to prevent corrosion of the pins.  If the connectors are to be left 
+unmated, in seawater, for any length of time Subsea Environment Cap or Dummy Plug 
+must be fit ted to protect the pin contacts in the receptacle connectors. Over exposure will 
+increase the risk of corrosion damage or marine growth on the contact surfaces of the 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  24 of 55 
+ 
+Unrestricted   
+receptacle contact pins. This could lead to damage to the seals and insulation within the  
+plug socket contacts. Plug connectors do not require full dummy connectors for protection. 
+Siemens Energy  Subsea advise the fitting of acetal caps to protect plugs against marine 
+growth. It is good practice to always fit the protective cap when a connecto r is unmated 
+topside prior to deployment to provide mechanical protection.  
+ Caution.  Risk of material damage. Unmated receptacles (exposed male pins) should 
+never be electrically energised subsea  (even a small residual voltage  e.g. 1 Volt ).  This 
+can very quickly corrode the pins , cause detrimental  chemical reactions  locally in the 
+seawater , and even caus e complete electrical failure of the product.  
+5.2 Siemens Energy  AquaTRON  pressure -balanced oil -filled hose 
+specification  
+ 
+Figure 7  AquaTRON hose , size 50 (1/2” bore), and size 75 (3/4” bore)  
+ size 50, ½” bore  size 75, ¾” bore  
+Min bend radius  (static and 
+dynamic ) 125mm  (4.9”)  180mm  (7.1”)  
+Maximum tensile load  in service  2,500N  (561 lb)  2,500N (561 lb)  
+Tensile  load to failure  5,000N (1,121 lb)  5,000N (1,121 lb)  
+Maximum twisting  180° per 5m (16.4ft) length  180° per 5m (16.4ft) length  
+Mass (air)  0.66kg/m  (0.44lb/ft)  1.04kg/m  (0.69lb/ft) 
+Mass (water)  0.14kg/m  (0.09lb/ft) 0.24kg/m  (0.16lb/ft) 
+Max water depth  4,000m  (13,123ft)  4,000m  (13,123ft)  
+Oil fill pressure  15 bar  (218 psi) 15 bar  (218 psi)  
+Deployment rate  350 m/min ( 1148  ft/min)  350 m/min ( 1148  ft/min)  
+Table 6  AquaTRON oil -filled hose specification  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  25 of 55 
+ 
+Unrestricted   
+ 
+5.3 Siemens Energy  Subsea Cable Specification  
+ 4-way 7-way 12-way 
+Part Number  75-004-TR 75-007-TR 75-012-TR 
+Voltage rating  600 / 1,000Vac  600/ 1,000Vac  600 / 1,000Vac  
+Min bend radius   
+static / dynamic  182mm / 273mm  
+(7.2” / 10.7”)  200mm / 300mm  
+(7.9” / 11.8”)  300mm / 400mm  
+(11.8” / 15.7”)  
+Maximum axial load  1,000N (224 lb)  1,000N (224 lb)  1,000N (224 lb)  
+Mass (air)  3.71 kg/m  (2.47 lb/ft)  3.99 kg/m  (2.66 lb/ft)  5.65 kg/m  (3.77 lb/ft)  
+Mass (water)  1.05 kg/m  (0.70 lb/ft)  1.32 kg/m  (0.88 lb/ft)  1.64 kg/m  (1.09 lb/ft)  
+Max water 
+depth  3,000m (9,843ft)  3,000m (9,843ft)  3,000m (9,843ft)  
+Resistance  13.3 Ohm/km  
+4.05 Ohm/1,000ft  13.3 Ohm/km  
+4.05 Ohm/1,000ft  13.3 Ohm/km  
+4.05 Ohm/1,000ft  
+Conductor  1.5mm2 (0.0023in2) 1.5mm2 (0.0023in2) 1.5mm2 (0.0023in2) 
+Deployment 
+rate 350 m/min  
+(1148 ft/min)  350 m/min  
+(1148 ft/min)  350 m/min  
+(1148 ft/min)  
+Table 7  DigiTRON subsea cable  specification  
+ 
+Figure 8  Siemens Energy subsea cable  
+ 
+ 
+Axial loads on terminated glanded connectors should be kept to a minimum unless the 
+connector has been specifically designed to take such a load. The maximum applied 
+loads will depend on the cable type and the gland internals (Contact  Siemens Energy  
+Subsea Technical Department for advice).  
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  26 of 55 
+ 
+Unrestricted   
+6 PREPARING PRODUCT FOR USE  OR STORAGE  
+6.1 Product protection and packaging  
+Siemens Energy  Subsea electrical connectors are manufactured primarily from materials such as 
+316L stainless steel and Super Duplex stainless steel, and as such are designed to withstand harsh 
+saliferous environments. However, the connector inserts and exposed parts are  susceptible to 
+mechanical damage if not protected. Transport  caps or Acetal protective caps must be fitted to all 
+Siemens Energy  Subsea connectors before transport.  
+ Caution.  Risk of material damage. Transport caps or protecti on caps must always be fitte d 
+to an unmated connector during transport , and  should  remain in place while topside before 
+deployment   
+ 
+Products may be stored in their original  pack ing crates or boxes  indefinitely . 
+Wooden packaging crates supplied with Siemens Energy products are not weatherproof.  
+As a guide, outdoor storage  should be limited to 3 months with protection from direct sun light and 
+wet weather .  Actual duration will depend on the environmental conditions , e.g. in temperate dry 
+conditions more than 3 months may be acceptable, in inclement conditions or use offshore it may 
+be less than 3 months . It is recommended to inspect the crates  periodically d uring  outdoor storage  
+to assess their suitability  to protect the products from the external environment  and to withstand 
+handling . 
+ 
+Be very careful if fitting additional screw s, nails or staples to the crate , such that they do not protrude 
+on the inside of  the crates.  This can very easily damage the hoses within.  
+Connectors can be shipped singularly or in multiples. Care should be taken to protect the 
+connector(s) with ‘Instapack’, bubble wrap or similar wrapping materials to avoid surface damage 
+during tr ansit. If large numbers are shipped in one consignment suitably reinforced transport box will 
+be necessary to withstand the weight. See  Figure 9  and Figure 10 . 
+ 
+Figure 9  Acceptable packaging for shipment  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  27 of 55 
+ 
+Unrestricted   
+  
+Figure 10  Unacceptable packaging and storage  
+Bulkhead type connectors with exposed tailing wires should be packed and shipped in a suitably 
+sized box to allow adequate space for the tailing wires without bending or kinking.  
+Conne ctors are designed to withstand vibration that occurs during transportation and to withstand 
+being dropped from a height of 1 m (3.3 ft) whilst in packaging.  
+If the connectors are assembled onto hoses  or cables,  these must be suitably coiled and secured 
+with tape to prevent uncoiling during transit. Respect the minimum bend radius (refer to section  5.2 
+and 5.3).  A minimum band radi us gauge can be used when re -packing assembl ies into a crate , 
+Figure 11 , 3d model available from Siemens Energy , which can be  used to  a 3d print the gauge.  
+    
+Figure 11  Minimum  bend radius gauges  
+6.2 Unpacking  
+Remove wrapping material taking care to inspect for any surface damage or items that may have 
+become separated from the connector, such as ‘O' seals. Do not use a knife to cut the wrapping 
+material, as this may cause damage to any elastomeric parts of the connector. Do not remove 
+protective caps until connectors are ready for installation  
+On removal of hose assemblies from packing crates, do not allow the hoses to drag over the edge s 
+of the crate .  If necessary, c over the edge of the crate with something non -abrasive  to protect the 
+hose , and  take care to respect  the minimum bend radius of the hose.  
+6.3 Lifting of harnesses and EFLs  
+Avoid lifting hose and cable assemblies (EFLs, harnesses ) by the connector.  The recommended 
+practice to manoeuvre  assemblies in or out of shipping crates and deployment baskets is to lift the 
+entire assembly equally.  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  28 of 55 
+ 
+Unrestricted   
+It is recommended to  neatly coil  into a circle or figure -of-eight  (respecting bend radius of hose , 
+section s 5.2 and 5.3) 
+Slings should then be used at minimum 3 equidistant places  around the circle  (or more if the hose 
+is coiled in a larg e diameter)  to prevent the hose from kinking , plus additional point at the cross -over 
+for a figure -of-eight  layup .  Ensure the slings are placed beneath the bott om coil and capture all the 
+coils up to the uppermost coil ( Figure 12 ). 
+If there is heavy equipment terminated to the hose (e.g. sensor or other instrument , or large junction 
+boxes ) weighing >5kg  then additional appropriate securing and/or slinging should be employed.  
+ 
+Figure 12  Illustration of strapping point s for lifting  hose assemblies  
+ 
+6.4 Storage, protection and end of life  
+Connectors are sensitive to environments where grit and dirt are present. All connectors come 
+supplied with a transport cap.  It is recommended to leave the caps on whenever possible.  The caps 
+must be removed before subsea deployment.  
+Connector may be fit ted with a b lack-colour  plastic Protective Cap ( Figure 26 ), which is available to 
+purchase separately (customer preference).  These caps provide a higher degree of mechanical 
+protection to the connector than the tran sport caps.  
+Refer to section 9.4 for details on the types of caps and dummy connectors available for protection 
+during storage.  
+ 
+Connectors  and hose / cable assemblies must be stored in a clean dry area and be protected by 
+bubble wrap or similar.  
+It is recommended to store products in their original packaging (e.g. wooded crates or boxes , noting 
+outdoor storage of crates per section 6.1). 
+Carbon steel must not be present in the storage of the products, to avoid contamination of the 
+stainless steel products.  
+ 
+ Caution.  Risk of material damage. If storage is carried out in saline conditions, e.g. on a 
+ship’s deck or hold, then a Subsea Environment Cap or Dummy Plug connector should be 
+used to protect the receptacle pins from corrosion.  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  29 of 55 
+ 
+Unrestricted   
+If product has been recovered from subs ea use, it should be cleaned  before storage.  Clean only 
+with fresh water or 50% citric acid solution.  If 50% citric acid wash is not performed, as a  minimum , 
+wash with clean water to remove an y salt water on the products.  
+ Short term storage  
+Storage where  temperature and humidity are not controlled should be limited to 4 weeks  
+Storage temperature range: -40°C to +50°C air temperature  ( -40 to 1 22°F).  Storage humidity below 
+75%.   Maximum skin temperature of the product should  not exceed 70°C  (158°F), including solar 
+gain due to exposure to sunlight radiation . 
+ Long term storage  
+These recommendations apply to products both prior to  and after assembly to other  equipment (e.g. 
+XT, manifolds, SCM) . 
+Ambient air temperature should be between -40°C and +50°C (-40 to 122°F).  Storage humidity 
+below 75% .  Very moist or very dry conditions should be avoided. The equipment  should be protected 
+from strong sunlight and strong artificial light with a high ultraviolet content.  
+Maximum skin temperature of t he product should not exceed 70°C (158°F), including solar gain due 
+to exposure to sunlight radiation.  
+After 5 years storage it is recommended to perform a visual examination and  electrical tests to 
+confirm the product is still fit for purpose  and within s pecification.   Check for any oil -leaks  or obvious 
+signs of damage to the connectors  (refer to section 8).  Refer to ‘Site Receiv ing Test’ document  SRT-
+002 (available on the Siemens -Energy/subsea website ) for electrical test requirements.  
+For product already assembled onto other  equipment, the t est regime of that piece of equipment 
+shall take precedence  over the SRT document , e.g. IR tests may not be allowable; function test may 
+applicable.  
+Beyond  5 years storage, r e-inspection and test is recommended every 2 years and before the 
+product is put into service.  
+For p roducts stored at air temperatures continually above 25°C it is recommended to perfor m re-
+inspection and test every 12 months.  
+ 
+ Caution.  Skin temperature must not exceed 70 °C (158°F) . Suitable protection must be 
+used to ensure maximum storage temperature is not exceeded.  
+ Caution.  Risk of material damage. Connectors should not be allowed to encounter 
+solvents, oil, grease or other semi -solid materials.  
+ 
+If glanded connectors are t o be stored bolted into their interfaces prior to cable termination, ensure 
+the cable entry point into the gland is covered to prevent dirt and water ingress.  
+ Siemens Energy  pressure balanced oil filled hose storage  
+Recommend hose  and junction box  asse mblies be stored in original packing crates.  If not, 
+protected from direct sunlight  or strong artificial light  with tarpaulin sheet or equivalent . 
+ 
+Maximum initial storage period: 2 years stored in accordance with ISO 2230 (pressurised) , and 
+noting the storage requirements in section  6.4.2  .  After this perform visual  checks and electrical 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  30 of 55 
+ 
+Unrestricted   
+tests .  Refer to ‘Site Receiving Test’ document SRT -001 (available on the Siemens -Energy/subsea 
+website) for electrical test requirements. : 
+Pressurised hose assemblies must be visibly inspected for:  
+• Permanent di stortions, such as creases or flats  
+• Mechanical damage, such as cuts, tears, abraded areas or delaminated plies  
+• Surface cracking  
+• Changes in surface condition, such as hardening, softness or tackiness.  
+ 
+If insulation resistance has fallen below specification, changing the oil in the hose can be 
+performed by Siemens Energy. Contact Siemens Energy for site service or product return for oil 
+change.  
+After the inspection  and test  is completed,  the assembly can be stored for a further 2 years , rolling 
+program .   For products stored at air temperatures continually above 25°C it is recommended to 
+perform re -inspection and test every 12 months.  
+ Cable storage  
+Storage temperature range: -40°C to +50° C ambient air temperature. ( -40 to 1 22°F) 
+Storage humidity: 0% to 85% R.H.  
+Siemens Energy  cable  (ref. section 5.3) is designed for long life in hazardous environments but for 
+extended storage periods we recommend dry storage, under cover and out of direct sunlight.   For 
+non-Siemens Energy cables , please refer to original cable manufacturer instructions.    
+ Long term stor age of elastomers  
+For the recommended storage of elastomeric components e.g. termination sleeves and cable boots, 
+please refer to Siemens Energy  Subsea Document MH006 – Procedure for Storage and Handling 
+of Elastomeric Materials, available from Siemens Ene rgy Technical Support.  
+ Repackaging to prevent damage in transport  
+In the event of a requirement to return any product back to the manufacturer ( Siemens Energy  
+Subsea Connectors), it is recommended that the transport cap, protective cap, or suitable  dust cap 
+is fitted to the connector(s) and care should be taken to protect the connector(s) with bubble wrap or 
+similar non-fibrous wrapping materials to avoid any surface damage .  Do not use cloths , especially 
+any contaminated with oil, grease or other substances.  
+Use the original packaging supplied with the product wherever possible.  
+If there are multiple connectors to be returned, it is recommended that a suitably reinforced box be 
+used to withstand the weight and allow shipping in one consignment. Con tact Siemens Energy  
+Technical Support connectortechnicalsupport.gb@siemens -energy.com  to discuss details of typical 
+boxes.  
+Carbon steel must not be present in the storage of the products, to avoid contamination of the 
+stainless steel products.  
+ Disposal and recycling  
+Safe disposal or recycling of waste packaging and/or end of life product is recommended by correctly 
+observing and complying with area, r egional, national or international environmental legislation 
+where applicable.  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  31 of 55 
+ 
+Unrestricted   
+To return waste packaging and/or end of life product to the manufacturer, contact the Product Safety 
+Officer at subsea.connectors.productsafety.gb@siemens -energy.com . 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  32 of 55 
+ 
+Unrestricted   
+7 INSTALLATION AND ASSEMBLY  
+If in doubt contact Siemens Energy  Technical Support conne ctortechnicalsupport.gb@siemens -
+energy.com  for more detailed information.  
+ Caution.  Risk of material damage.  All sealing surfaces interfacing to DigiTRON 
+connectors shall be inlayed with Inconel 625 or similar corrosion resistant alloy, with no 
+additional protection required. This is to prevent localised pitting corrosion of the interface  
+7.1 Pre-installation check s for EFL’s  
+• Check hose tagging information is correct according to drawing/tag schedule.  
+• Ensure Flying Lead has passed Site Received Test ( refer to Siemens Energy  document 
+SRT-001, available on Siemens Energy  Subsea website ). 
+• Make sure prior to installatio n a final visual inspection of the Flying Lead is completed.  
+• No part of the connectors should be dismantled prior to or during deployment, apart from 
+the removal of protective caps and installation of split flanges, since there are no user 
+serviceable part s inside.  
+• Any defects need to be recorded on the form in section 10 of this document and where 
+possible take photos of any issues that need to be recorded and inform Siemens Energy  
+Technical Department.  
+ 
+7.2 Cathodic pro tection  
+ROV Connectors are manufactured in super duplex stainless steel and are designed to operate 
+isolated from the CP (Cathodic Protection) system. Such connectors are supplied with all hardware 
+needed to isolate the connector from the structure to whic h it will be mounted.  
+ROV connectors that do get connected to the CP system will not be immediately damaged, but 
+there is an increased risk of hydrogen embrittlement  of the metal  (possible cracking under high 
+mechanical stresses) , and increase d rate of  calcareous  deposits  on the product (which  may cause 
+problems demating the connectors ). 
+ 
+Stainless steel 316L (UNS S31603) diver and stab mate connectors must be connected to the CP 
+(Cathodic Protection) system at all times.  
+Do not fit ‘bracelet’ anodes ar ound hose or  cable as part of CP protection.  These can easily damage 
+the hose or  cable as the anodes corrode.  
+7.3 Installation of harnesses with flanged connectors and / or junction 
+boxes  
+Tooling required  
+• ¼ inch drive torque wrench 0 -25 Nm  (18.4 lbf.ft)  – with 3mm and 5mm Allan key drive  
+• Flat blade screwdriver  
+• Loctite 243  
+ 
+If cable ties are used to secure harnesses to structures, leave loose on the hose. Do not 
+compress.  
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  33 of 55 
+ 
+Unrestricted   
+ Stab -plate connectors  
+ 
+Figure 13  Typical stab -plate connector s 
+ 
+For stab plate connectors, there are 4 types  of flange  designs available:  
+• Solid Fixed  
+• Solid  Floating  
+• Split Fixed  
+• Split Floating  
+Refer to  Figure 14  for mounting detail . 
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  34 of 55 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+Figure 14  Flange styles for stab -plate connectors  
+• Solid Fixed flanges  
+The Solid F ixed flange is non -removable and will be supplied pre-assembled as part of  the 
+connector. Fasteners are supplied loose with the connector.  
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  35 of 55 
+ 
+Unrestricted   
+Mounting instructions  
+Apply a spot of Loctite 243  to the threads of the c ap head screws. Fix the connector to the  
+stab plate (metal to metal flange contact) using the cap head screws as shown in Figure 11. 
+Torque to 10 -12Nm  (7.38 – 8.85 lbf.ft)  
+• Solid Floating flanges  
+The Solid Floating flange is non -removable and will be suppli ed pre -assembled as part of the 
+connector. Fasteners and spacers are supplied loose with the connector.  
+Mounting instructions  
+The spacers should be mounted in the orientation shown in Figure 11 “Floating Flange” detail.  
+Place the spacers on the M6 fastener s, apply a spot of Loctite 243  to the threads of the cap 
+head screws and position through the flange into the interface.  Fix the connector to the  stab 
+plate (metal to metal flange contact) as shown in  Figure 14 . Torque to 10 -12Nm  (7.38 – 8.85 
+lbf.ft) . 
+ 
+• Split Fixed flanges  
+The Split Fixed flange is removable and is supplied loose with the connector.  Fasteners, grub 
+screw and dowels are also supplied loose with the connector.  
+Mounting instructions  
+To mount the flange on the connector, first, pass the connector through the interface hole, 
+the two halves of the flange should be brought together around the connector fron t end.  Make 
+sure that the lip around the through hole is facing forwards toward the connector front end 
+and the key is in -line with the keyway in the flange.  
+To secure the two halves together, Insert the 2 -off location dowels into the holes in the flange 
+and press fit until flush with the face of the flange.  
+A M6 grub screw is supplied for tightening the flange to the connector body. Apply Loctite  
+243, screw  into the M6 tapped hole on the bottom face of the flange and tighten to 3.5 Nm  
+(2.58 lbf.ft) . 
+Apply a spot of Loctite 243  to the threads of the cap head screws. Fix the connector to the  
+stab plate (metal to metal flange contact) using the cap head screws as shown in Figure 11. 
+Torque to 10 -12Nm  (7.38 – 8.85 lbf.ft) . 
+ 
+• Split Floating Flanges  
+The Spli t Floating flange is removable and is supplied loose with the connector. Fasteners, 
+grub screw, dowels and spacers are also supplied loose with the connector.  
+Mounting instructions  
+To mount the flange on the connector, first, pass the connector through the  interface hole, 
+the two halves of the flange should be brought together around the connector font end.  Make 
+sure that the lip around the through hole is facing forwards toward the connector front end 
+and the key is in -line with the keyway in the flange.  
+To secure the two halves together, Insert the 2 -off location dowels into the holes in the flange 
+and press fit until flush with the face of the flange.  
+A M6 grub screw is supplied for tightening the flange to the connector body. Apply Loctite  
+243, screw  into the M6 tapped hole on the bottom face of the flange and tighten to 3.5 Nm  
+(2.58 lbf.ft) . 
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  36 of 55 
+ 
+Unrestricted   
+The spacers should be mounted in the orientation shown in Figure 14  “Floating Flange” detail.  
+Place the spacers on the M6 fasteners, apply a spot of Loctite 243  to the threads of the cap 
+head screws and position through the flange into the interface.  Fix the connector to the  stab 
+plate (metal to metal flange contact) as shown in  Figure 14 . Torque to 10 -12Nm  (7.38 – 8.85 
+lbf.ft)  
+ • Note - Floating Flanges  
+Floating Flanges have larger fixing holes in the flange, and a steel top hat washer 
+under the screw head. The larger hole means that if an attempt were made to fit 
+the connector without the top hats, the screw head would pass straight through the 
+hole, indicating t hat something was missing.  
+ 
+ ROV connectors  
+Refer to Figure 15  for a typical flange -mounted ROV connector.  
+Remove M6 mounting screws and orientation disc, pass the front of the connector through the 
+interface, instal l 4 off M6 mounting screws and orientation disc, secure screws with a spot of Loctite  
+243 on the threads and torque to 10 -12 Nm  (7.38 – 8.85 lbf.ft) : 
+ 
+ 
+ 
+Figure 15  Installation of compliant flange -mount ROV plug  
+ 
+For mounting ROV receptacles  (male pins)  an extra ring is required, to keep the connector captive 
+in the event that the rubber mount is lost. This is supplied with the connector and should be fitted 
+along with the alignment disc, in the orientation shown in Figure 16  and Figure 17 . 
+ 
+NOTE:  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  37 of 55 
+ 
+Unrestricted   
+The alignment cone on the receptacle may require removal in order to install the 
+connector, and re -fitting once installed.  Ensure correct orientation to the internal key -
+way. 
+ 
+Figure 16  Sectional view to show installation and parts of compliant flange -mount connector  
+ 
+Figure 17  View to show ROV compliant mount flange text (note orientation of flange is different 
+plug to receptacle)  
+ 
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  38 of 55 
+ 
+Unrestricted   
+ Diver operated connectors  
+Flange mounted diver operated connector have a fixed flange that will be supplied pre -assembled 
+as part of the connector. Fasteners are supplied loose wit h the connector.  
+Mounting instructions  
+Apply a spot of Loctite 243  to the threads of the cap head screws. Fix the connector to the  
+mounting position (metal to metal flange contact) using the cap head screws. Torque to 10 -
+12Nm  (7.38 – 8.85 lbf.ft) . 
+ 
+7.4 Install ation of AquaTRON junction box and mounting brackets  
+Referring to Figure 18 , the junction box is designed to be mounted and deployed in a horizontal 
+position. If the junction box is to be mounted vertically, the hose will need to be supported on either 
+side of the junction box  to maintain the minimum bend radius.  
+   
+Figure 18  Junction box mounting horizontal (left) and vertical  (right)  
+It is critical the brackets for the junction box are installed as identified on Siemens Energy  drawing  
+T33073 , available from Siemens Energy  Technical Support  
+ 
+Drill interface holes as required for installation as per drawing T33073  
+. 
+Apply a spot of Locti te 243  to the threads of the cap head screws. Fix the junction box  to the  structure  
+with 4x M8 screws, t orque to 10 -12Nm (7.38 – 8.85 lbf.ft)  
+ 
+In the event that the brackets are supplied separate  to the junction box body, these will need to be 
+assembled an d installed.  If applicable: assemble brackets to the body taking into account the anti -
+rotation peg, which is to be situated on the underside of the unit and locates into a recess in the 
+body. Fit 1 -off black nitrile strip to each bracket on the opposite side to the anti -rotation peg. Tighten 
+the M6 fasteners to 3.5Nm (2.58 lbf.ft)  to complete the bracket installation. See Figure 19  and Figure 
+20. 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  39 of 55 
+ 
+Unrestricted   
+ 
+ 
+Figure 19  Junction box mounting bracket assembly  
+Ensure mounting brackets are secure and the junction box is orientated correctly. This completes  
+the installation of the junction box.  
+ 
+Figure 20  Junction box correctly installed on structure  
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  40 of 55 
+ 
+Unrestricted   
+Non-Standard Junction Boxes , Splices  & Glanded configurations.  
+Brackets for non -standard assemblies  are supplied loos e. These  should be fitted to the assembly as 
+indicated by the GA or datasheet using the lever arm and securing . See Figure 21  
+ 
+Figure 21  Loose Bracket with Lever Arm  
+2 types of brackets  
+• Size 10 – M6x30 long  
+• Size 20 – M8x30 long  
+ 
+Apply a spot of Loctite 243  to the threads of the cap head screws. Fix the assembly with the 
+brackets  to the  structure wit h the following  torque to 10 -12Nm (7.38 – 8.85 lbf.ft)   
+ 
+ 
+ 
+Figure 22  Junction box brackets correctly installed  
+7.5 Sensor assemblies  
+Sensor installation is specific to each sensor and assembly instructions are to be provided by the 
+sensor manufacturer.   Refer to Table 1  for Siemens sensors.  
+7.6 Product  mounted within  umbilical termination assemblies  (UTA)  
+This section applies to product such as glanded connectors, cable -to-hose cross -over units, and 
+Advanced Cable Termination (ACT) units that are terminated to the umbilical and mounted i nside 
+the U TA. 
+These products should be securely mounted to the UTA  structure using the fastenings supplied with 
+the product , or suitable alternatives .   Umbilical cables should be routed inside the UTA such that no 
+undue strain is applied where the cable enters the product .  
+Size 20  Size 10  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  41 of 55 
+ 
+Unrestricted   
+The cable should be clamped onto a cable tray or similar before entering the product , such that any 
+movement of the cable in the UTA  (planned or otherwise e.g. shock load) does not transmit strain to 
+the pro duct.   It is recommended to position a cable clamp  circa 200mm prior to the cable entry to the 
+produc t and coaxially  to ensure a straight run of cable up to the product.  
+7.7 TESTING OF EFL’S  
+For testing of products in a dry environment (topside) The appropriat e test connector must always 
+be used to make electrical contact during testing.  
+For testing EFL’s in a wet environment , a standard subsea connector must be used.  Siemens 
+connectors should not be used as pressure barrier in a pressure vessel , they are not intended for 
+this use.  
+If present, guide pins must never be removed from test connectors as this can lead to damage and 
+will invalidate the connector warranty.  
+Under no circumstances should a non -Siemens Energy test connector be used.  This is certain to 
+damage the product.  
+ Danger!  Risk of imminent danger to life or risk of severe personal injury.  
+Sudden release of stored pressure.  
+DigiTRON products are not intended for use as a penetration for fixed top -side or land -
+based pressure vessels. They are n ot designed to comply with the requirements of the 
+Pressure Equipment Directive (2014/68/EU). They are intended for integration into 
+subsea equipment only.  
+All pressure testing of DigiTRON product must be undertaken by a competent person.  
+ Danger!  Risk of death from electric shock from a damaged test connector  
+- Never hold a test connector while electrically energised  
+- Do not use a test connector is it appears damaged in any way.  
+ Danger!  Risk of death from electric shock from improper use of test connector.  Never 
+disassemble test connectors.  In particular, removal of the rubber termination sleeves 
+placed over the joint between the cable and the test connector is prohibited, as this will 
+expose live parts to the user.  
+- Never disassemble a test connector  
+ Caution.  Risk of material damage. The appropriate test connector must always be used 
+to make electrical contact during testing. Under no circumstances should a foreign object 
+(such as a screwdriver, test probe or crocodile clip) be used as a test connection as thi s 
+could damage the seals and insulation. Such actions will invalidate the product warranty.  
+ Caution . Risk of material damage.  Test connectors should never be used in water.  There 
+is a high change of damage to the test connector and also to the connect or under test.  
+ 
+ 
+• Below are some images of standard dry (topside) Siemens Energy  test 
+ connectors.  
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  42 of 55 
+ 
+Unrestricted   
+ 
+Figure 23   Dry (Topside ) Test connectors , ROV, Diver and Stab -plate type  
+Alternatively, a standard subsea connector  (e.g. Figure 24 ) tailed with cable  can be used as a test 
+connector . Siemens can provide such  connectors tailed with appropriate cables  (Siemens 
+recommendati on), or untailed.  
+Cable tails  require soldering into the solder cups on the rear of the connector.  Each termination 
+must be protected by a termination sleeve supplied with the connector.  
+Only a Suitably Qualified and Experienced Person (SQEP) should insta ll the cable tails, e.g. 
+person trained by Siemens Energy.  
+Siemens Energy installation procedure should be used.  
+ 
+Figure 24  Example of standard subsea connector (shown untailed)  
+ 
+All test connectors should be periodically inspected and clea ned (refer to section 9.6).  Electrical 
+integrity should be checked by performing an Insulation Resistance and Contact Resistance  test. 
+Check that there is no debris or dirt on the  test connector; this can be transferred to the connector 
+under test , especially male pins and front face of the plug connector .  It is good practice to inspect 
+the test connector before every use.  
+Check that pins are not b ent, and the gold-plated  tips of the pins are in good condition.  
+A gauge  can be  used  to check  straightness of the pins ; 3d model supplied by  Siemens Energy, 
+which can be used to a 3d print the gauge .  See Figure 25 . 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  43 of 55 
+ 
+Unrestricted   
+ 
+ 
+Figure 25  Gauge s for checking straightness of receptable pins  (ROV type shown)  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  44 of 55 
+ 
+Unrestricted   
+8 USER INFORMATION  DURING NORMAL OPERATION  AND FAULT  
+CONDITIONS  
+8.1 Visible/audible signals  
+There are no visible or audible signals from the product during use that identify  particular operations  
+to the user.  
+The product should be silent during operation  and its appearance should not change . 
+8.2 Normal and faulty/dangerous operation  
+Do not operate the product if there appears to be a fault.  If in doubt contact Siemens Energy  
+Technical Support.  Below are some indications of a product fault . 
+• Any loose items such as metal bodies, fasteners, other fixings  
+• Any oil leak is present, either from the connector or from the oil -filled hoses  or junction boxes . 
+• Bent pins  
+• Damage to the rubber seals on the front -face of the plug  especially around the seals  such as 
+tears or nicks.  Small nicks away from the front seals are  acceptable . 
+• Blackening or darkening of the rubber seals on the front face of the plug.  
+• Any signs of electrical activity on the exterior of the products, such as burning on the front 
+face of the plug or burning of the male pins . 
+• Green -coloured corrosion on  the male pins . 
+• Damaged insulation on any cables.  
+• Loose or faulty electrical joint between cables and connector.  
+• Any noise coming from the product . 
+8.3 Troubleshooting  
+If there is any problem with the product failing to operate correctly, please contact Siemens Energy  
+for advice.  Do not dismantle the product in any way. : 
+Department  E-mail address  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Technical Support  connectortechnicalsupport.gb @siemens -energy.com  
+Service (Site Team)  susultlcmsupport.gb @siemens -energy.com   
+Table 8  Troubleshooting product contact details  
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  45 of 55 
+ 
+Unrestricted   
+9 PRODUCT OPERATION AND MAINTENANCE  
+9.1 Safety precautions  
+Before use, read section 3 on product safety advice.  
+9.2 Product maintenance  and servicing  
+DigiTRON products require zero maint enance for their 30 year subsea lifetime  and up to 250 subsea 
+mate and demate  cycles.  
+There are no user serviceable parts in the connectors, EFLs, jumpers or harnesses.  Disassembly 
+of the product should not be attempted.  If there are any problems develop ed with the product then 
+the user should contact Siemens Energy  Technical Support for advice  
+9.3 Subsea p rotection of receptacle contact pins  
+ Caution.  Risk of material damage , corrosion of the exposed male pin in the receptacle 
+connector.  
+28 days is the maximum cumulative allowable exposure of unprotected receptacle pins to 
+seawater over the lifetime of the connector  
+Always immediately fit a Subsea Environment Cap or Dummy Plug to the 
+receptacle in order to protect the pins from corrosion.  
+ Caution.  Risk of material damage. Under no circumstances must the contact pins in the 
+receptacle connector be exposed to seawater with power on . 
+If this situation does occur the electrical connector could be destroyed (depending on 
+electrical energy availa ble).  At a minimum, the contact surfaces of the pins will very rapidly 
+degrade by electrolytic action. If these damaged pins are subsequently mated into a socket 
+insert there is a very high risk  of damage to the insulation and seals within the plug 
+connec tor. 
+ Caution . Risk of material damage.  It is important to isolate and earth prior to disconnect 
+in order to remove any stray charges in the system. If left, this can induce corrosion on the 
+exposed pins once the plug is removed.  
+ 
+ 
+9.4 Product protection; c aps and dummy connectors  
+There are five types of caps and dumm y connectors available to protect the product in use.  The 
+following gives the use case for each type.  
+ Topside caps  
+• Transport cap :  Supplied with the connector to protect it against damage during transport 
+(Figure 26 ) 
+• Protective cap :  Provides greater degree of mechanical protection to the connector than the 
+transport cap .  Recommended for when connectors are exposed to higher risk of damage  
+outside of transportation  Figure 26  
+Topside  caps can simply be pushed on or re moved by hand  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  46 of 55 
+ 
+Unrestricted   
+Topside caps should not be deployed subsea.  
+ Caution.  Risk of material damage. If storage is carried out in saline conditions, e.g. on a 
+ship’s deck or hold, then a Subsea Environment Cap or Dummy Plug connector should be 
+used to protect the receptacle pins from corrosion.  
+ 
+      
+Figure 26  ROV -type Transport Caps ( left) and Protective Caps  
+ Subsea caps  
+• Subsea Protective Caps :  Provides mechanical protection to the plug or receptacle connector  
+(Figure 27 ).  It is a non-electrical  cap.  The cap for the plug connector (female sockets, oil -
+filled) can be used for long -term mechanical protection.  The cap for the receptacle (exposed 
+male pins) does not  protect the exposed male pins in the receptacle from corrosion.  It  
+should only be used for very short -term subsea use, e.g. the cap is removed within a few 
+days  after deployment and the flying lead connected to receptacle  (noting that  the 28 days 
+maximu m in section 9.3) 
+• Subsea Environment Cap :  Provides mechanical protection to the receptacle connector (male 
+pins)  including  corrosion protection of the exposed pins.  This is a non-electrica l cap.  To 
+be used where th e receptacle connector will be left un -mated for any length of time.  
+Subsea Environment Caps can be identified by their red -coloured disc and labelled ‘zero 
+volts’ ( Figure 28  and Figure 30 ).   
+• Dummy Connectors .  Provides mechanical and electrical protection to the plug or receptacl e, 
+including  corrosion protection of the exposed pins in the receptacle  (Figure 29 ).  These are 
+connectors have  full electrical rating .  The y can be configured at time of order to be open -
+circuit or looped  with wire or resistors  (labelled as shown in Figure 30 ).  These connectors 
+should be used everywhere the system will be electrically energised or for electrical testing.  
+ 
+In locations where marine growth activity is prevalent, it is advised to fi t a dummy receptacle 
+connector to the plug for enhanced protection.   A time limit when dummy connectors should be used 
+cannot be given, as the type and rate of marine growth activity varies enormously for each 
+circumstance and location.   The end user is b est placed to know the risk associated with marine 
+growth for the particular location and circumstances. If other options are required please contact 
+Siemens Technical.  
+ 
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  47 of 55 
+ 
+Unrestricted   
+ 
+Figure 27  ROV -type Subsea Caps  
+ 
+Figure 28  ROV -type Subsea Environment Caps (red -coloured disc)  
+ 
+         
+Figure 29  ROV -type Dummy Connectors , flying and flanged types  (black -coloured disk) . 
+ 
+Figure 30  Example l abel on connectors (‘LOOPED ’ or ‘RESISTORS’  or ‘ZERO VOLTS’ ) 
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  48 of 55 
+ 
+Unrestricted   
+9.5 Live Mate / De -mate  
+The connectors are not designed to be mated or demated while electrically energised.  Depending 
+on the type of electrical load , the following advice should be followed.  
+ Danger!  Risk of death from electric shock due to exposed live pins, e.g. factory or top -side 
+system test and unmated receptacle is energised.  
+- Ensure all test procedures are followed.  
+- Communication channels and protocols are observed.  
+ Caution . Risk of material  damage.  The maximum number of live mate / de -mate 
+operations under any of these conditions is ONE only.  There is a high risk of damage 
+to both plug and receptacle connector that would render it unusable.  
+Resistive loads  
+Mating the connectors should not  lead to any damage to the sealing mechanisms within the plugs.  
+The speed of de -mating should be between 40mm/s to 60mm/s  (1.6 – 2.4”/s) . Following this de -
+mating procedure, testing should be carried out on the connector to establish if any damage has 
+occurred. Under no circumstances shall connectors be partially mated with power on.  
+Capacitive loads  
+Mating with power on will lead to an in -rush current.  The magnitude of this in -rush current will depend 
+on the capacitance of the circuit. It is very impo rtant that the in -rush current is no more than 100A 
+for 5 seconds.  
+Inductive loads  
+Mating the connectors should not lead to any damage to the sealing mechanisms within the inserts. 
+De-mating must not be attempted as there is a risk of high back EMF’s which  will cause damage 
+to the seals and insulation within the inserts.  
+  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  49 of 55 
+ 
+Unrestricted   
+9.6 Inspection and c leaning of connector products  
+All connector products  should be thoroughly inspected before use , refer to section 8.2 for faults to 
+look for.  
+Connectors can be safely clea ned using Isopropyl Alcohol (IPA) and lint -free cloth , but d o not soak 
+the product  in IPA.  Allow time for IPA to evaporate before mating t he connector together.  Be careful 
+not to leave any cloth fibres on the front -face of the plug or on the receptacle pins.   Other cleaning 
+fluids should not be used as they may not be compatible with the rubbers or plastics used in the 
+product .   
+Under no circumstances should a foreign object be used to depress the shuttle pins of the plug  
+connector . 
+9.7 Removal of marine growth and calcareous deposits  
+To remove calcareous  deposits  from Siemens Energy  Subsea connectors, a solution of 50% Citric 
+Acid is recommen ded. All seawater exposed elastomeric materials in Siemens Energy  Subsea 
+connectors have been fully tested against 50% Citric Acid and are compatible for a duration of 1 
+hour. In addition, the thermoplastic materials have a good resistance to citric acid.  
+ Warning.  Risk of minor personal injury to persons with sensitivities to a solution of 50% 
+Citric Acid, should wear appropriate hand and eye protection when handling.  
+ Caution.  Risk of material damage. Other acid cleaners, such as 50% Acetic Acid, should 
+not be used as they may cause deterioration of the elastomeric materials.  
+ Caution.  Risk of material damage. Chiselling and abrasive methods are not 
+recommended. Use of a wate r jet is acceptable, but the jet should not be directed into the 
+shuttle pins at the front of the plug as this could result in a risk of water being forced through 
+the primary seals.  
+ 
+9.8 Testing of product  
+Refer to  section 7.7 for test connector advice . 
+Document SRT -001 defines electrical tests to perform to check performance of the product , available 
+on Siemens Ener gy/subsea website.  
+9.9  Checks before mating the product  
+Transport and topside protection caps must be removed before subsea deployment  
+Before mating, the receptacle connector (male pins) should be checked for debris and damage. The 
+connectors have been designed to accommodate sand and silt contamination;  however large pieces 
+of debris should be removed. Us e a water jet if subsea , but do not direct the water jet at the front 
+face (seals) of the plug connector  
+Inspect the receptacle pins for any signs of damage, such as bent pins, blackening due to electrical 
+faults, or corrosion of the pins (green colour) , corrosion of metal parts  or others items listed in section 
+8.2. 
+Check the front face of the plug to see that all the shuttle pins are correctly protruding through the 
+front seals, and are not stuck behin d the front seals.  If stuck behind the front seals , it is still 
+acceptable to mate the connectors.   If possible to do so, a slow  speed  demate of the connectors 
+should rectify  any stuck shuttle pins .   Contact Siemens Energy for further advice is needed . 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  50 of 55 
+ 
+Unrestricted   
+If ev idence of such faults exists , do not use the connector.  Please contact Siemens Energy  
+Technical Support for advice.  
+9.10 ROV connectors  mating and de -mating  
+ ROV connector alignment and mating  
+ 
+Refer to Figure 31  for images of alignment marks and mating  
+• DigiTRON connectors have been designed to self -align during mating.  
+• The connectors must be roughly aligned using the alignment marks on the plug body,  
+flange and receptacle cone.  
+• The mounting of the ROV handle has sufficient compliance to accommodate fine 
+adjustments during the final approach prior to connector engagement.  
+• Ensure correct orientation of the alignment disc  
+• It is important that the ROV co mpliant flange is orientated correctly.  
+• Observe the text on the flange and orientate accordingly.  
+ 
+ 
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  51 of 55 
+ 
+Unrestricted   
+  
+ 
+Figure 31  Alignment marks and lip seal mating indicator  
+ 
+• When the connector is fully mated , the lip seal will not be visible from the ROV camera first -
+person v iew, i.e. view from behind the connector.  A thin orange -colour line approx. 2mm 
+may be visible from side-on view.  
+• If the lip seal can still be seen from the first -person view, remove and retry making 
+connection by following the procedure again.  
+• If connectors can’t be mated both the plug and receptacle need to be inspected for any mis -
+alignment damage or debris that is preventing connection.  
+• If any damage has occurred please contact Siemens Energy  Technical Support for advice.  
+ ROV connector m aximum m isalignment values and mating forces  
+Refer to section 5.1 
+ ROV connector de -mating  
+De-mating is achieved by a straight pull on the ROV handle , sufficient to release the latching 
+mechanism.  
+Force required is detailed under the mechanical forces in section 5.1 
+For topside use , e.g. during system testing, there is a hand operated ROV de -mate tool available to  
+make connector de -mate by hand easier and safe.  It is recommended that this tool should always 
+be used topside. Part number BQ -30090 -00.  See Figure 32  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  52 of 55 
+ 
+Unrestricted   
+ 
+Figure 32  ROV de -mate tool, pa rt number BQ -30090 -00 
+ Warning. Risk of musculoskeletal injury from hand -mating or de -mating connectors.  
+- Referring to the mate / demate forces specified herein, ensure suitable manual 
+handling precautions are taken and the topside demate tool is used  
+- Ensure all product testing activities are completed by competent persons in 
+accordance with relevant procedures.  
+ 
+When an EFL is de -mated and returned to the surface please inspect, store and protect as detailed 
+in section 5.5. 
+9.11 Stab -plate connectors mating and de -mating  
+ Stab -plate connector mating and demating  
+Stab-plate connector do not have any latching mechanism.  The connectors are mated together by 
+the force of the stab -plate.  There is no special operation needed to demate the connector, simply 
+the stab -plate is withdrawn and the connector s separate.  
+Only the alignment of the key and the maximum misalignment values need to be adhered to, refer 
+to section 5.1. 
+ Partial disconnecti on and interrupted connection  
+Partial disconnection with the contact pin remaining between the primary and secondary diaphragms 
+is not recommended, as there is a risk of damaging the insulation. If it is necessary to operate the 
+connectors partially mated,  the connectors should be separated by 8.6 – 9.2mm ( 0.340  - 0.360” ) 
+from the nominal, mated, stab distance. In this condition the level of insulation between the contact 
+pin and socket contact is reduced and the connector is relying on the primary seals within the plug. 
+There is also an increased risk of insulation break down at voltages above 500V.  
+Interrupted connection (i.e. Partial mate to full de -mate) can be carried out without any  
+adverse effect  to connectors, as long as the power is off.  
+9.12 Diver operated connectors mating and de -mating  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  53 of 55 
+ 
+Unrestricted   
+ Diver operated connector mating and de -mating  
+The clamp ring should be rotated clockwise by hand until tight. The connectors are designed to 
+remain clamped together with only firm hand tightness on the clamp ring . If a clamping torque is 
+used, this MUST NOT exceed 20Nm ( 15 lbf.ft) . A 2-3” C-spanner can be used for this operation.  
+De-mating is simply a reverse of this process.  
+ Diver operated connector maximum misalignment values  
+These connectors have been designed to self -align during mating. All that is required is to ensure 
+that the alignment pin on the plug connector is engaged in the alignment groove within the receptacle 
+connector before screwing the clamp ring up.  
+ Diver operated connector post mating checks  
+Full engagement of the connectors can be checked through the viewing hole in the clamp  ring. If the 
+connectors are fully mated,  then no gap should be visible between the plug and receptacle , refer to 
+Figure 33 . 
+ 
+Figure 33  Diver operated connector mating features  
+
+  Document  No: IOM-001 
+ Issue  Date:  17/03/202 3 
+ Revision:  16 
+ Page:  54 of 55 
+ 
+Unrestricted   
+10 CUSTOMER COMMENTS/FEEDBACK  
+Please complete the Sign Off section at the bottom of form to confirm each page of this document 
+has been read and complied with in full.  
+Originator Name and Initials (BLOCK CAPITALS)  Date  
+  
+ Contact Details   Contact Details  
+  
+Project Reference  Customer  Region  
+   
+Product Type  Part Number (P/N)  Serial Number (S/N)  
+   
+Please enter details below e.g. comments; complaints; evidence of good practice; incident 
+reports; observations and recommendations, including any associated with health, safety or the 
+environment, etc., also include any names/contact details of other relevant personnel.  
+  
+ 
+Sign Off Section  
+Name (BLOCK CAPITALS)  Signature  Date  
+   
+Please e -mail completed form to the Product Safety Officer at the following address: 
+subsea.connectors.productsafety.gb @siemens -energy.com
+ 
+ 
+ 
+Published by:  
+Siemens  Energy  Global  GmbH  & Co. KG 
+Industrial Applications  
+Freyeslebenstraße  1 
+91058 Erlangen  
+Germany  
+E-mail: subsea@siemens -energy.com  
+For more information, please visit our website:  
+www.siemens -energy.com/subsea  
+ 
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those 
+described, or which may undergo modification in the course of future development of the products. 
+The requeste d performance features are binding only when they are expressly agreed upon   in the 
+concluded contract . 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG  For the US Pub lished by  
+Siemens Energy, Inc.  
+Industrial Applications  
+15375 Memorial Drive , Suit 700  
+Houston, TX 77079  
+USA  

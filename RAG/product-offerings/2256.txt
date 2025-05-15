@@ -1,0 +1,145 @@
+Background
+Siemens Energy offers its Remote Diagnostic Service (RDS)
+to satisfy the increasing requirements placed on turbo 
+compressors by various industries and applications.
+We collect the operating parameters of your equipment and 
+have them evaluated by our expert engineering team using 
+modern, custom-tailored diagnostic methods. Based on the 
+results, we offer recommendations and advise you on 
+optimizing equipment operation, preventing operational 
+disturbances and unplanned outages, and performing 
+preventive maintenance.Operation and procedures
+To ensure maximum protection from unauthorized access, 
+your equipment’s operating data isn’t read out directly from 
+the I&C system; instead, it’s made available at a standard-
+ized interface (OPC UA server) for access by a data collector.
+The Siemens Energy myConnect data collector accesses 
+this interface as a client. myConnect satisfies the highest 
+international cybersecurity standards, including IEC62443 
+and ISO27001. The data collected is saved by myConnect 
+and transferred at regular intervals to the Siemens Energy 
+database (STA-RMS; see Figure 1).  Remote Diagnostic Service  
+for turbo compressors
+ 
+siemens-energy.com
+Cu
+s
+t
+omer si
+t
+e
+VPN tunnel
+Internet
+Remote Service
+Platform (cRSP)
+Siemens Ene
+r
+gy
+Data collection solution
+Control systemCustomer
+Internet accessLAN ﬁrewall Industrial PC WAN ﬁrewall
+Figure 1: Secure data transfer
+Page 1
+The data is evaluated by specialist diagnostics engineers 
+once a day during business hours. In the event of unusual 
+incidents like a compressor trip, data is immediately trans-
+mitted to the Siemens Energy database to enable our 
+engineering teams to provide fast and expert assistance in 
+rectifying any problems. You’ll be notified as quickly as 
+possible of relevant or critical observations.  
+Our engineering teams consult with and support you to 
+prevent or correct problems impacting your operation.  
+You receive a periodic summary of all observations in a 
+clearly designed report and can access data and insights 
+through a secure web portal and mobile application.
+Diagnostics
+Siemens Energy has developed a number of algorithms that 
+optimally evaluate the wide range of turbo compressor 
+configurations, from single shaft to integrally geared 
+compressors and from centrifugal to axial flow compressors. 
+These algorithms are calibrated for each unit by experienced 
+engineers using reference data to provide you with precise 
+and customized analyses and prognoses. Comparisons with 
+calibrated reference data enable any deviation in the oper -
+ating performance of your machine to be detected quickly 
+and reliably. The comprehensive analysis takes into account 
+both the operating reliability and safety of the machine: for 
+example economic considerations like performance, effi-
+ciency, and more (see Figure 3) as well as vibration, gas 
+pressure, and temperature (see Figure 4). Ask for our sample 
+reports, or make an appointment for a demonstration and 
+consulting on your specific solution. 
+myConnect data collector
+myConnect meets the highest cybersecurity standards to 
+protect your valuable data and equipment from malicious 
+cyber attacks. It’s typically supplied in a control cabinet 
+separate from the I&C cabinet (see Figure 2).  
+With a correctly configured OPC UA server, installation can 
+be performed with the system in operation so as not to 
+disturb or interrupt your ongoing operating processes. 
+We’re happy to provide other installation options on 
+request. We also offer a variety of options for encrypted 
+data transmission via the common Remote Service Platform 
+(cRSP). Ask for our Cybersecurity brochure.
+Figure 2: myConnect data collectorFigure 3: Compressor performance monitoring
+Figure 4: Detecting compressor deterioration
+More information
+For more technical information on 
+RDS, please scan the QR code.
+Sep '18 Oct'18 Nov '18 Dec '18 Jan '19 Feb '19 Mar '19 Apr '19
+49,7 k
+40 k
+30.2 k
+20.4 k
+10.7 k
+925.1Axis I
+1.75 2 2.25 2.75 3 3.25 3.5 3.75 4 4.2 4.5200
+180
+160
+140
+120
+100
+80
+60
+40
+Stage1_FlowVoluSuc : Stage1_PolyHeadVolume Flow (m3/sec)Polytropic Head (kJ/kg)
+6196 RPM7081 RPM7966 RPM8851 RPM9382RPMDeviation in head compared to  
+design increases, plan for overhaulCompressor  
+Overhaul
+Head  
+capacity  
+recoveredYour benefits
+• Compressor performance monitoring and improvement
+• Increasing equipment availability thanks to continuous 
+monitoring by experienced engineering teams
+• Fewer unplanned outages and better recommendations 
+for preventive maintenance
+• Access to 24/7 Operational Service Desk (OSD) for  
+an immediate response on technical issues
+Page 2Remote Diagnostic Service for turbo compressors
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Gas Services  
+Siemenspromenade 9  
+91058 Erlangen, Germany
+For the U.S. published by  
+Siemens Energy Inc.  
+Gas Services  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+If you require further information in respect of the above please contact 
+your Siemens Energy designated representative.
+Siemens Energy is a trademark licensed by Siemens AG.
+siemens-energy.com
+© Siemens Energy, 2023
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may undergo 
+modification in the course of further development of the products. The 
+requested performance features are binding only when they are expressly 
+agreed upon in the concluded contract.
+All product designations may be trademarks or product names of Sie-
+mens Energy Global GmbH & Co. KG or other companies whose use by 
+third parties for their own purposes could violate the rights of the 
+owners.
+© 2023 Siemens Energy Page 3Remote Diagnostic Service for turbo compressors

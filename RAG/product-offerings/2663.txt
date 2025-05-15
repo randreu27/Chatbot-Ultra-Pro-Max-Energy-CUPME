@@ -1,0 +1,55 @@
+siemens -energ y.comGas-insulated 
+switchgear type 
+8DN8
+Technical data
+
+Technical data of gas -insulated 
+switchgear type 8DN8
+Other values on requestTechnical data GIS type 8DN8
+Rated voltage up to 145 kV up to 170 kV
+Rated frequency 50/60 Hz 50/60 Hz
+Rated short -duration power -frequency withstand voltage (1 min) up to 275 kV up to 325 kV
+Rated lightning impulse withstand voltage (1.2 / 50 μs) up to 650 kV up to 750 kV
+Rated switching impulse withstand voltage (250 / 2500 μs)
+Rated normal current busbar
+Rated normal current feederup to 3150 A
+up to 3150 Aup to 4000 A
+up to 4000 A
+Rated short -circuit breaking current up to 40 kA up to 63 kA
+Rated peak withstand current up to 108 kA up to 170 kA
+Rated short -time withstand current (up to 3 s) up to 40 kA up to 63 kA
+Rated break time < 3 cycles < 3 cycles
+Leakage rate per year and gas compartment (type -tested) < 0.1 % < 0.1 %
+Drive mechanism of circuit -breaker stored energy spring stored energy spring
+Rated operating sequenceO-0.3 s -CO-3 min -CO
+CO-15 s-COO-0.3 s -CO-3 min -CO
+CO-15 s-CO
+Bay width 800 mm 1000 mm
+Bay height, depth (depending on bay arrangement) 2600 mm x 4100 mm 3200 mm x 5500 mm
+Bay weight 3 t 4.7 t
+Ambient temperature range -30 °C up to +55 °C -30 °C up to +55 °C
+Installation indoor / outdoor indoor / outdoor
+Rated supply voltage 48 –250 V DC 48 –250 V DC
+First major inspection > 25 years > 25 years
+Expected lifetime > 50 years > 50 years
+Standards IEC / IEEE / GOST IEC / IEEE / GOST
+Published by
+Siemens Energy Global GmbH & Co. KG
+Switching Products & Systems
+Freyeslebenstraße 1
+91058 Erlangen, Germany 
+For more information, please visit our website:
+siemens -energy.com/gas -insulated -switchgear
+or contact us:
+support.energy@siemens -energy.com 
+circuit -breakers@siemens -energy.com 
+Subject to changes and errors. The information given in this document only contains general descriptions 
+and/or performance features which may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the products. The requested performance 
+features are binding only when they are expressly agreed upon in the concluded contract.
+Siemens Energy is a trademark licensed by Siemens AG. 
+© 2021 Siemens Energy Page 2For the U.S. published by
+Siemens Energy, Inc
+Switching Products & Systems
+444 Hwy 49 South
+Richland, MS 39218, USA

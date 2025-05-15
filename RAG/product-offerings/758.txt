@@ -1,0 +1,121 @@
+The Fleet  
+Origin Energy, a leading Australian 
+energy provider, supplies more than 4.2 
+million people with energy. Origin 
+Energy, a leading Australian energy 
+provider, supplies approximately 4.2 
+million people with energy. They gener -
+ate more than 6,000 MW across their 
+fleet of 9 power plants and provide 
+approximately 13% of Australia‘s energy 
+demand. The plants are spread across 
+Australia and are comprised of gas-fired 
+power plants, a coal-fired plant and a 
+pump hydro plant.
+The Task  
+Australia’s energy demand is character -
+ized by high volatility and extreme 
+weather conditions and can have a 
+significant impact on energy produc -
+tion, therefore power generation needs 
+to be dynamically adaptable to meet the 
+actual needs. The joint challenge was to 
+find a solution, which enabled central -
+ized monitoring of the entire fleet and operational dispatch of peaking plants 
+in order to manage the decentralized 
+energy production remotely, mitigate 
+risks and guarantee a reliable supply 
+of electricity.
+The Solution
+To meet these requirements, Origin 
+implemented a Monitoring and Support 
+Centre (MSC) in Brisbane. The Fleet 
+Center Solution enabled Origin to 
+support their fleet operators in continu -
+ously monitoring the individual plants 
+as well as the entire fleet from a central 
+location.  
+ 
+By gaining the additional transparency 
+across the fleet, Origin has been able to 
+identify and solve potential issues faster 
+than before. Some plants can be con -
+trolled directly by Origin’s Monitoring 
+and Support Center by sending defined 
+set points directly to the units, thus 
+enabling re-dispatch decisions. Addition -
+ally, the Monitoring and Support Center 
+is able to centrally manage fleet-wide 
+shift planning, reporting and event-  
+logging.  42 million  
+people with energy
+ more than  
+6.000 MW  
+across the fleet of  
+9 power plants  
+provide  13%  of 
+Australia‘s energy  
+demands
+Origin Energy
+Central monitoring and dispatch  
+for improved reliability and efficiencysiemens-energy.com/digital-services
+The Result
+• Improved transparency across the fleet:  
+Centralized monitoring, dispatch and opera -
+tions management of single assets, plants and 
+entire fleet
+• Increased efficiency:  Ability to quickly react to 
+volatile demand, thereby reducing risks of 
+energy production
+• Improved workflows:  Uniform shift planning, 
+reporting and automated event logging
+• Global leading performance and reliability 
+levels across the entire fleet
+All information is embedded into its context and 
+role-specific tasks can be assigned easily within 
+the organization.
+The transmission of information over the commu -
+nication network takes place in milliseconds and 
+information across the entire fleet is readily 
+available. All of this information in a central 
+location enables more informed decisions which 
+can result in higher efficiency and reliability. By 
+automating the processes Origin has also experi -
+enced an 80% reduction of manual operator 
+actions. Additionally, through central operations, 
+Origin has been able to achieve a 98% start-up 
+reliability.
+Published by and copyright © 2021
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6
+81739 Munich, Germany  
+www.siemens-energy.com/digital-services
+Siemens Energy is a trademark licensed by Siemens AG.
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon in the concluded contract.
+All product designations may be trademarks or product names of Siemens Energy Global GmbH & Co. 
+KG or other companies whose use by third parties for their own purposes could violate the rights of 
+the owners.“The Fleet Center is an investment 
+that has already started to pay for 
+itself.  
+It is surpassing all the requirements 
+we set. Our performance now is 
+substantially better than we previ -
+ously experienced.”
+Jim Cooley, Generation Systems Manager, Origin Energy
+Published by and copyright © 2021
+Siemens Energy Global GmbH & Co. KG
+Otto-Hahn-Ring 6
+81739 Munich, Germany  
+www.siemens-energy.com/digital-services
+Subject to changes and errors. The information given in this document only contains general 
+descriptions and/or performance features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon in the concluded 
+contract.
+All product designations may be trademarks or product names of Siemens Energy Global GmbH & 
+Co. KG or other companies whose use by third parties for their own purposes could violate the 
+rights of the owners.
+Siemens Energy is a trademark licensed by Siemens AG.

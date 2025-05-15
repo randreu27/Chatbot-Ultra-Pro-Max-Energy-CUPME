@@ -1,0 +1,301 @@
+siemens -energy.com  © 2022  Siemens  Energy  Page  1 
+f 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manuel  du 
+Fournisseur  
+1. Enregistrement  
+ 
+SE E2E  ARIBA  Implementation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+siemens -energy.com  
+siemens -energy.com  © 2022  Siemens  Energy  Page  2  Table  des matières  
+1. ENREGISTREMENT  DU FOURNISSEUR  ................................ ................................ ................................ ............... 3 
+1.1. Invitation  à l'enregistrement  ................................ ................................ ................................ ....................... 3 
+1.2. Création  de compte  ou Connexion ................................ ................................ ................................ ............ 3 
+1.3. Créer  un compte  ARIBA  ................................ ................................ ................................ ............................ 4 
+1.3.1.  Informations  sur l'entreprise  ................................ ................................ ................................ .............. 4 
+1.3.2.  Informations  sur le compte  utilisateur  ................................ ................................ ............................... 4 
+1.3.3.  Renseignements  commerciaux  ................................ ................................ ................................ .......... 5 
+1.3.4.  Sélection  des catégories  de produits  et de services  ................................ ................................ ........ 5 
+1.3.5.  Lieu de service  d'expédition  ................................ ................................ ................................ ............... 6 
+1.3.6.  Soumettre  votre  réponse  ................................ ................................ ................................ .................. 6 
+1.3.7.  Potenti els comptes  existants  ................................ ................................ ................................ ............ 7 
+1.3.8.  Consulter  les potentiels  comptes  existants  ................................ ................................ ...................... 7 
+1.3.9.  Le processus  d'inscription  à ARIBA  est terminé  ................................ ................................ ................ 8 
+2. QUESTIONNAIRE  D'ENREGISTREMENT  DES FOURNISSEURS  ................................ ................................ ........... 9 
+2.1. Section  1 « Informations  générales  sur le  fournisseur  » (“General  Supplier  Information”) ....................... 9 
+2.2. Section  2 « Informations  fiscales  » (“Tax  information”)  ................................ ................................ ............ 10 
+2.3. Section  3 « Engagement  en matière  de substances  » (“Substance  Commitment”) ................................ .10 
+2.4. Section  4 « Certificats  » (“Certificates”) ................................ ................................ ................................ ....11 
+2.5. Soumission ................................ ................................ ................................ ................................ ............... 11 
+2.6. E-mail de confirmation  ................................ ................................ ................................ .............................. 12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dans  ce manuel,  le masculin  générique  est utilisé  pour une meilleure  lisibilité.  Les identités  féminines  et les autres  identités  de genre  sont ex- 
+plicitement  incluses  dans  la mesure  où cela est nécessaire  pour l'énoncé.  
+siemens -energy.com  © 2022  Siemens  Energy  Page  3  1. ENREGISTREMENT  DU FOURNISSEUR  
+1.1. Invitation  à l'enregistrement  
+Vous recevrez un e -mail comme celui ci -dessous pour enregistrer votre entreprise auprès de Siemens Energy. 
+Veuillez  cliquer  sur le lien figurant  dans  l'e-mail d'invitation  afin de créer  un compte  pour  votre  entreprise 
+chez  ARIBA.  Veuillez  également  vérifier  votre  dossier  spam  si vous  ne trouvez  pas cet e-mail.  
+ 
+ 
+ 
+1.2. Création  de compte  ou Connexion  
+Après  avoir  cliqué  sur le lien figurant  dans  l'e-mail,  vous  serez  redirigé(e)  vers la page  de connexion  d'ARIBA.  
+Vous  pouvez  y créer  un nouveau  compte  ARIBA si votre  entreprise  n'en possède  pas (cliquez  sur «  S'inscrire  
+» (“Sign up”)), ou vous connecter avec les informations d'identification du compte existant de votre 
+entreprise  (cliquez  sur “Se connecter”  (“Log  in”)). Si vous  avez  déjà un compte,  veuillez  vous  connecter avec  vos 
+informations d'identification et continuer avec la version 2.0.  
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  4   
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  5  1.3. Créer  un compte  ARIBA  
+1.3.1.  Informations  sur l'entreprise  
+L'étape  suivante  consiste  à fournir  les détails  nécessaires  à la création  d'un compte  ARIBA. Dans  la section  
+Informations  sur la société , veuillez  fournir  et cocher  toutes  les informations  nécessaires  
+ 
+ 
+ 
+1.3.2.  Informations  sur le compte  utilisateur  
+La section suivante concerne les informations du compte utilisateur . Veuillez vérifier les informations de 
+votre compte, ajouter toutes les informations nécessaires et choisir un mot de passe . 
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  6  1.3.3.  Renseignements  commerciaux  
+La dernière section, qui porte sur la création d'un compte ARIBA, concerne votre entreprise. Veuillez nous 
+fournir  les informations  concernant les catégories  des produits  et services  que vous  offrez ainsi que les lieux 
+d'expédition ou de service. Vous pouvez le faire soit en saisissant la catégorie/l'emplacement dans le 
+champ, soit en recherchant la catégorie/l'emplacement via le champ « Parcourir » (“browse”).  
+Dans  la capture  d'écran  suivante,  vous  pouvez  voir le processus  si vous  cliquez  sur « Parcourir  » (“browse”).  
+ 
+ 
+ 
+1.3.4.  Sélection  des catégories  de produits  et de services  
+Si vous cliquez  sur « Parcourir  » (“browse”),  vous  pouvez  voir un aperçu  des produits  et services. En cliquant 
+sur la flèche de l'un d'entre eux, les catégories de produits et services de niveau inférieur s'affichent. Vous 
+pouvez  maintenant  rechercher  la catégorie  spécifique  que vous  souhaitez  ajouter . Une fois la catégorie 
+trouvée, cliquez dessus, cochez la case puis sur «  OK » pour l'ajouter à votre catégorie de produits et 
+services.  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  7  1.3.5.  Lieu  de service  d'expédition  
+Vous  pouvez  soit « Parcourir  » (“browse”)  l'emplacement  comme  cela a été expliqué  précédemment  pour les 
+catégories de produits et de services, soit  « Ajouter » (“Add”) l'emplacement en  saisissant l'emplacement dans  le 
+champ et en cliquant sur votre emplacement.  
+ 
+ 
+ 
+1.3.6.  Soumettre  votre  réponse  
+Avant  de pouvoir  finaliser  la création  du compte  ARIBA,  vous  devez  encore  lire et accepter  les Conditions 
+d'utilisation et accepter que certaines parties des informations puissent être accessibles à d'autres 
+personnes. Pour plus d'informations à ce sujet, vous pouvez lire la Déclaratio n de confidentialité de SAP Business  
+Network.  Après  avoir  coché  les deux  cases,  vous  pouvez  cliquer  sur « Créer  un compte  et continuer  
+» (“Create  account  and continue”).  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  8  1.3.7.  Potentiels  comptes  existants  
+Le système vérifie automatiquement si des comptes similaires aux vôtres existent. Cette mesure vise à 
+empêcher  les entreprises  de se créer  plusieurs  comptes.  C'est  pourquoi,  si vous  recevez  cette  notification, 
+veuillez  vérifier  lors de l'étape  suivante  si un compte  correspondant  à votre  entreprise  existe  déjà ou si 
+vous  souhaitez  continuer et  en créer  un nouveau.  
+ 
+ 
+ 
+1.3.8.  Consulter  les potentiels  comptes  existants  
+Veuillez vérifier maintenant si un compte existe déjà pour votre entreprise. Si ce n'est pas le cas, cliquez sur « 
+Continuer la création du compte » (“Continue Account Creation”). Votre compte est ainsi créé. Si un compte 
+existe déjà, veuillez vous connect er avec.  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  9  1.3.9.  Le processus  d'inscription  à ARIBA  est terminé  
+Vous allez maintenant recevoir un e -mail de confirmation de la part d'ARIBA. Il vous informera que le pro - 
+cessus  d'enregistrement est terminé. La prochaine étape consiste à procéder à l'enregistrement spécifique de 
+Siemens  Energy  en répondant  au Questionnaire  d'enregistrement  des fournisseurs  (voir le chapitre  2.0 de ce 
+document).  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  10  2. QUESTIONNAIRE  D'ENREGISTREMENT  DES  FOURNISSEURS  
+2.1. Section  1 « Informations  générales  sur le fournisseur  » (“General  
+Supplier  Information”)  
+La première question du Questionnaire d'enregistrement vous demande de confirmer notre Code de conduite . 
+Veuillez vous assurer de pouvoir répondre « Oui » (“yes”) à cette question. Votre confirmation est 
+essentielle pour que vous soyez accepté. Vous  pouvez  télécharger  le Code de  conduite  en cliquant sur le lien 
+situé sous la question ou consulter notre site W eb. Pour plus d'informations, veuillez contacter notre équipe 
+« Master Data -Service » par e -mail :  
+ariba.onboarding.support@siemens -energy.com  
+Nous vous demandons également de fournir des informations plus détaillées , comme le nom complet de votre  
+fournisseur,  votre  numéro  de téléphone  principal  et votre  adresse  principale.  La plupart  des informations 
+sont prér emplies dans le formulaire de demande de l'acheteur, mais veuillez les adapter si nécessaire.  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  11  2.2. Section  2 « Informations  fiscales  » (“Tax  information”)  
+La deuxième  section  porte  sur vos informations  fiscales.  La sélection  de votre  pays  est obligatoire,  mais  vous 
+pouvez également saisir tous les numéros d'identification fiscale pertinents et joindre un fichier si 
+nécessaire.  
+ 
+ 
+ 
+2.3. Section  3 « Engagement  en matière  de substances  » (“Substance 
+Commitment”)  
+Dans la troisième section, vous devez sélectionner les spécifications relatives à l'engagement en matière de 
+substances.  La première question porte sur  le fait de savoir si vous avez prévu de livrer à  Siemens  Energy du 
+matériel pertinent dans le cadre de R EACH1 ou ROHS2 . 
+Dans la deuxième question, vous engagez à déclarer systématiquement tous les produits contenant des 
+substances  c o n c e r n é e s  p a r  R E A C H1 ou  ROHS2  qui  seront   livrés   à  Siemens   
+Energy. Il faut répondre aux deux questions. Nous vous contacterons en cas d'incohérences.  
+Veuillez noter que certains champs du questionnaire ne sont pas obligatoires. Précisez toutefois vos entrées 
+de manière  aussi  détaillée  que possible.  
+ 
+ 
+1) REACH matériel pertinent: Produits chimiques qui peuvent avoir d es effets graves  
+sur la santé  humaine  ou l'environnement:Par  exemple,  les substances  toxiques,  can- 
+cérigènes,  perturbatrices  endocriniennes ou  sensibilisantes  pour les  voies  respiratoires  2) ROHS matériel pertinent: Plomb, mercure, cadmium, chrome hexavalent, PBB et  
+PBDE pour  les appareils  électriques  et électroniques  
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  12  2.4. Section  4 « Certificats  » (“Certificates”)  
+Dans  la quatrième  section,  vous  avez  la possibilité de télécharger  des certificats. Ce n'est  pas obligatoire  lors 
+du processus d'intégration, mais cela peut être nécessaire pour les prochains questionnaires de qualification. Il 
+est donc possible de le faire à cette étape.  
+ 
+ 
+ 
+2.5. Soumission  
+Une fois toutes  les informations pertinentes saisies  dans le  questionnaire  d'enregistrement,  vous pouvez 
+cliquer sur «  Soumettre la réponse complète  » (“Submit Entire Response”) puis sur «  OK ». Le questionnaire 
+sera envoyé pour approbation.  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  13  2.6. E-mail  de confirmation  
+Une fois le questionnaire  soumis,  vous  recevrez  un e-mail de confirmation  indiquant  que votre  réponse  sera 
+examinée  pour  approbation. En cliquant  sur le lien « Cliquez  ici » (“Click  here”)  figurant  dans  l'e-mail,  vous 
+pouvez vérifier le statut de votre enregistrement dans le portail des fournisseurs ARIBA.  
+Le processus d'enregistrement est maintenant terminé. Vous recevrez un e -mail vous informant des 
+mesures à prendre dans le cadre du processus de qualification.  
+Vous trouverez  de plus amples  informations  dans  le « Manuel  du fournisseur 2.  Qualification »  (“Supplier 
+Manual 2. Qualification”) , que l'on peut trouver via ce lien:  
+https://www.siemens -energy.com/global/en/company/about/supply -chain -management/supplier -cockpit/sap -   
+ariba -pmplementation.html  
+ 
+
+siemens -energy.com  © 2022  Siemens  Energy  Page  14   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published  by 
+ 
+Siemens  Energy  AG 
+Procurement  
+Otto-Hahn -Ring  6 
+81739  München  
+Germany  
+ 
+For more  information,  please  visit our  website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply - 
+chain -management/supplier -cockpit.htm l 
+ 
+Version  1.0, Juni 2022   
+ 
+ 
+Copyrights:  All rights,  also that of translation,  reprint  and copy,  or parts 
+thereof,  are reserved.  This document  will not be recalled  in the event  of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+ 
+© Siemens  Energy,  2022  Siemens  Energy  is a trademark  licensed  by Sie- 
+mens  AG. 
+ 

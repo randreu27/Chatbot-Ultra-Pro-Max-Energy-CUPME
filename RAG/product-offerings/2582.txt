@@ -1,0 +1,1624 @@
+ 
+Unrestricted  Lorem ipsum l Veribus 
+dolorpro  
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f 
+Manual de instalação, operação e 
+manutenção  
+IOM-008, Rev 5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EFLs, jumpers e conjuntos de chicote de cabos DigiTRON f 
+Instruções de proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção  
+ 
+siemens -energy.com  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  2 de 52 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EFLs, jumpers e conjuntos de chicote de cabos DigiTRON f 
+Instruções de proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção  
+  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  3 de 52 
+ 
+Unrestricted   
+Obrigado por adquirir um produto da Siemens Energy Subsea. As informações contidas neste 
+documento são uma visão geral, incluindo proteção, armazenamento, envio, desembalagem, 
+implantação e manutenção para a linha de produtos de conectores DigiTRON.  
+IMPORTANTE  
+LEIA COM ATENÇÃO ANTES DE USAR  
+GUARDE PARA REFERÊNCIA FUTURA  
+ 
+ 
+ 
+Rev. Compilado 
+por Data  Aprovado 
+por Data de 
+emissão  Páginas afetadas/Observações  
+01 M Tucker  09/11/2020  R Wyatt  09/11/2020  Primeira edição  
+02 J. Pridmore  23/08/2021  M.Tucker  23/08/2021  Detalhes da gravação atualizados  
+Especificação do conector atualizada com 
+tipo de contato físico e nº de vias  
+Abreviações extras adicionadas à seção 4  
+Imagens atualizadas para mostrar a alavanca 
+de pá mais recente  
+Faixa de temperatura de armazenamento 
+adicionada para a ferrame nta de 
+encaixe/desencaixe  
+03 J. Pridmore  31/08/2021  M.Tucker  31/08/2021  Desenho da interface da caixa de junção 
+alterado para 10199114  
+04 R Wyatt  27/06/2022  R Wyatt  27/06/2022  Seções afetadas: 2.4   3.3.5   5.1   5.2   6.3   
+6.4.1   6.4.2   6.4.3   7.3.2   7.3.3  
+Capa e contracapa da Siemens Energy 
+adicionadas.  
+05 R Wyatt  17/03/2023  JP Smith  17/03/2023  Seções afetadas: 2.2, 6.1, 6.2, 6.4, 7.4, 8.2, 9.5 
+9.7, 9.8. Informação acrescentada ou alterada: 
+limites de temperatura do ar para armazenamento 
+a 50 °C. Armazenamento externo de caixotes de 
+madeira. Medidor de raio de dobra e proteção 
+contra bordas de caixote. Verifique se há pinos 
+tortos nos conectores de teste, incluindo o 
+medidor. Adicionada inspeção de corrosão e danos 
+nas vedaçõ es frontais. Adicionada a limpeza com 
+IPA (álcool isopropílico). Visibilidade do indicador 
+da vedação da aba pela vista lateral.  
+ 
+ 
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  4 de 52 
+ 
+Unrestricted   
+Índice  
+1 PRODUTOS ABRANGIDOS POR ESTE MANUAL  ................................ .........  7 
+2 INFORMAÇÕES BÁSICAS E REFERÊNCIA RÁPIDA  ................................ .... 8 
+2.1 Visão geral do produto  ................................ ................................ ............  8 
+2.2 Especificação e certificação do produto  ................................ ...............  9 
+2.3 Informaçõ es de contato e feedback  ................................ .....................  10 
+2.4 Rótulo de recomendações do produto  ................................ ................  10 
+2.5 Marcação do produto  ................................ ................................ ............  11 
+2.6 Exemplos de produtos  ................................ ................................ ..........  12 
+3 SEGURANÇA DO PRODUTO  ................................ ................................ ........  15 
+3.1 Advertências relacionadas à ação  ................................ .......................  15 
+3.2 Uso previsto  ................................ ................................ ...........................  15 
+3.3 Informações gerais de segurança  ................................ ........................  16 
+3.4 Documentos rela cionados  ................................ ................................ .... 19 
+3.5 Controle de substâncias perigosas à saúde (COSHH)  ......................  20 
+4 ABREVIAÇÕES  ................................ ................................ ..............................  21 
+5 ESPECIFICAÇÕES  ................................ ................................ .........................  23 
+5.1 Especificação do conector  ................................ ................................ ... 23 
+5.2 Especificação da mangueira preenchida com óleo, balanceada por 
+pressão AquaTRON  Siemens Energy  ................................ ..........................  24 
+6 PREPARAÇÃO DO PRODUTO PARA USO OU ARMAZENAMENTO  .........  26 
+6.1 Proteção e embalagem do produto  ................................ ......................  26 
+6.2 Desembalagem  ................................ ................................ .......................  27 
+6.3 Levantamento de chicotes de cabos e OFLs  ................................ ...... 28 
+6.4 Armazenamento, proteção e fim da vida útil  ................................ ...... 28 
+7 INSTALAÇÃO E MONTAGEM  ................................ ................................ ....... 32 
+7.1 Verificações de pré -instalação de OFL s ................................ ..............  32 
+7.2 Proteção catódica  ................................ ................................ ..................  32 
+7.3 Instalação de chicotes de cabos com conectores flangeados e/ou 
+Unidade de agrupamento de fibras ................................ ..............................  32 
+7.4 TESTE DE OFLS  ................................ ................................ .....................  36 
+8 INFORMAÇÕES AO USUÁRIO DURANTE A OPERAÇÃO NORMAL E 
+CONDIÇÕES DE FALHA  ................................ ................................ ........................  38 
+8.1 Sinais visíveis/audíveis  ................................ ................................ .........  38 
+8.2 Operação normal e defeituosa/perigosa  ................................ .............  38 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  5 de 52 
+ 
+Unrestricted   
+8.3 Resolução de problemas  ................................ ................................ ...... 38 
+9 OPERAÇÃO E MANUTENÇÃO DO PRODUTO  ................................ ............  39 
+9.1 Precauções de segurança  ................................ ................................ .... 39 
+9.2 Manutenção e assistência técnica do produto  ................................ ... 39 
+9.3 Proteção do produto; tampas e conectores ce gos ............................  39 
+9.4 Encaixe/Desencaixe energizado  ................................ ..........................  40 
+9.5 Inspeção e limpeza de produtos de conector  ................................ ..... 40 
+9.6 Remoção do crescimento marinho e depósitos calcários  ................  40 
+9.7 Verificações antes do encaixe do produto  ................................ ..........  42 
+9.8 Encaixe e desencaixe dos conectores ROV  ................................ ....... 42 
+9.9 Encaixe e desencaixe manual dos conectores  ................................ ... 44 
+10 COMENTÁRIOS/FEEDBACK DO CLIENTE  ................................ ..................  50 
+ 
+Tabelas  
+Table 1  List of other Installation, Operation and Maintenance manuals related to 
+DigiTRON product range  ................................ ................................ ................................ ..... 7 
+Table 2  DigiTRONf product range i dentification  ................................ ......................  8 
+Table 3  DigiTRONf product specification and certification  ................................ ..... 9 
+Table 4  DigiTRON product contact details  ................................ .............................  10 
+Table 5  AquaTRON oil -filled hose specification ................................ .....................  24 
+Table 6  Troubleshooting product contact details  ................................ ..................  38 
+ 
+Ilustrações  
+Figure 1  Rótulo de recomendações do produto  ................................ ......................  11 
+Figure 2  Marcação no produto DigiTRON  ................................ ................................  11 
+Figure 3  OFL (cabo de interconexão óptica) típico  ................................ .................  12 
+Figure 4  Exemplo de OFL  ................................ ................................ ..........................  12 
+Figure 5  Conjunto típico de chicotes de cabos o u OFL de várias pernas  .............  13 
+Figure 6  Conjunto típico de AFT para tomada (1 chicote de cabos externo)  ........  13 
+Figure 7  Exemplos de conectores de mangueira de óleo DigiTRONf  ....................  13 
+Figure 8  Mangueira AquaTRON, tamanho 50 (orifício de 1/2") e ta manho 75 
+(orifício de 3/4")  ................................ ................................ ................................ ..................  24 
+Figure 9  Embalagem aceitável para envio  ................................ ...............................  26 
+Figure 10  Embalagem e armazenamento não aceitáveis  ................................ ..........  27 
+Figure 11  Medidor de raio de dobra mínimo  ................................ ..............................  27 
+Figure 12  Ilustração de pontos de amarração para elevar conjuntos de mangueiras
+ 28 
+Figure 13  Instalação da tomada ROV compatível com montagem em flange  .........  33 
+Figure 14  Vista seccional da instalação e peças do conector de montagem 
+compatível  34 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  6 de 52 
+ 
+Unrestricted   
+Figure 15  Montagem da caixa de junção horizontal (esquerda) e vertical (direita)  . 34 
+Figure 16  Conjunto do suporte de montagem da caixa de junção  ...........................  35 
+Figure 17  FMU instalada corretamente na estrutura  ................................ .................  36 
+Figure 18  Chicotes de teste  ................................ ................................ ........................  37 
+Figure 19  Tampas de transporte (esq uerda) e Tampas de proteção (direita)  ..........  39 
+Figure 20  Tampas de proteção submarina típicas  ................................ ....................  40 
+Figure 21  Jato de água permitido  ................................ ................................ ...............  41 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  7 de 52 
+ 
+Unrestricted   
+1 PRODUTOS ABRANGIDOS POR ESTE MANUAL  
+Este manual inclui informações sobre a linha de produtos DigiTRON f de cabos de interconexão 
+óptica (OFL), jumpers e chicotes de cabos, incluindo seus conectores e especificações ópticas e 
+mecânicas.  
+Além disso, ele fornece detalhes sobre a instalação da linha de conectores DigiTRON como parte 
+de uma mangueira de  óleo ou conjunto de cabos.  
+ 
+Os manuais de instalação, operação e manutenção de outros produtos DigiTRON não abrangidos 
+por este documento podem ser encontrados no site da Siemens Energy Subsea www.siemens -
+energy.com  /pesquisar Subsea, conforme indicado na Table 1 . 
+Se um conector não Siemens for instalado como parte do OFL ou do chicote de cabos, deve -se 
+entrar em contato com o fabricante desse produto para que ele forneça o manual de IOM.  
+DOC. N.º  PRODUTO  
+IOM-002 Conectores individuais DigiTRON  
+IOM-003 Obsoleto, substituído pelo IOM -002. 
+IOM-004 Não utilizado  
+IOM-005 Unidade de distribuição elétrica recuperável (REDU), 2a geração  
+IOM-006 Unidade de distribuição elétrica recuperável (REDU), 1a geração  
+IOM-007 Caixas de junção desconectáveis do tipo TC 3A-107 e Unidades de 
+distribuição elétrica (EDUs) similares.  
+IOM-009 Conectores individuais DigiTRONf  
+00003075  Sensores PT/TT submarinos  
+00007464  Sensores de pressão diferencial SDP -6 / SDP -8 
+Table 1  Lista de outros Manuais de instalação, operação e manutenção relacionados à linha de 
+produtos DigiTRON  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  8 de 52 
+ 
+Unrestricted   
+2 INFORMAÇÕES BÁSICAS E REFERÊNCIA RÁPIDA  
+2.1 Visão geral do produto  
+Os conectores, cabos de interconexão óptica (OFLs), conjuntos de jumpers e chicotes de cabos 
+DigiTRON f são destinados a fornecer comunicaçõe s e ligações de dados ópticos entre 
+equipamentos ópticos submersos em água, p. ex., equipamentos submarinos.  
+A linha de conectores DigiTRON f foi desenvolvida para comunicações ópticas confiáveis de longo 
+prazo em aplicações submarinas. A capacidade de enca ixe subaquático desses conectores é obtida 
+usando insertos ópticos compensados por pressão que empregam o princípio CE de "ambiente 
+controlado".  
+O OFL é completamente independente de outros equipamentos e é equipado com conectores 
+instaláveis ROV ou Diver em cada extremidade. Todos os OFLs são conjuntos de mangueira com 
+compensação de pressão preenchidos com óleo e fornecidos de fábrica como produtos finalizados 
+e completos.  
+Todos os OFLs devem ser recuperáveis e, quando instalados, não devem cruzar uns com  os outros.  
+Algumas ilustrações são mostradas na seção 2.6 para ajudar a identificar um OFL e um jumper 
+(chicote de cabos).  
+A Table 2  abaixo i dentifica cada tipo de produto da linha DigiTRONf.  
+Como os produtos são muito semelhantes, é importante observar o identificador de cada tipo.  
+ 
+Linha de 
+produtos  Descrição  Número de peça típico (gravado no 
+conector)  
+DigiTRON f Conector de fibra 
+ótica subaquático de 
+12 vias  DFRV -….….  
+DFST -.…….  
+DFDV - ........  
+Table 2  Identificação da linha de produtos DigiTRON   
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  9 de 52 
+ 
+Unrestricted   
+2.2  Especificação e certificação do produto  
+As especificações básicas relativas a todos os produtos abrangidos por este manual estão na Table 
+3 abaixo. Especificações adicionais podem ser encontradas na seção 5. 
+Vida útil projetada:  30 anos em ambiente  submarino  
+Desempenho óptico  
+1550 Nm e 1625 Nm  Perda de inserção - tipicamente ≤ 0,2 dB [máx. 0,5 dB, 75% ≤ 0,4 dB]  
+Perda de retorno - tipicamente ≥ 70 dB [mín. 45 dB, 75% ≥ 55 dB]  
+Interferência ≤ -60 dB  
+Número nominal de 
+operações  1.000 ciclos de encaixe/desencaixe (750 secos/250 úmidos)  
+Profundidade da água  4.000 m (13.123 pés)  
+Temperatura de 
+armazenamento  -40 °C +70 °C ( -40 °F +158 °F) (o limite superior é a temperatura da 
+superfície do produto e inclui o ganho de calor com luz solar intensa)  
+Temperatura máxima recomendada do ar ambiente +50 °C (122 °F).  
+Temperatura 
+operacional  Submarina: -5 °C +50 °C (+23 °F +122 °F)  
+No ar: -20 °C +50 °C ( -4 °F +122 °F)  
+  
+Certificação do produto:  
+Padrão  Descrição  
+API-17F  Padrão para Sistemas de Controle de Produção Submarinos  
+Observação: Autocertificado por meio de testes internos.  
+Table 3  Especificação e certificação do produto DigiTRONf  
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  10 de 52 
+ 
+Unrestricted   
+2.3 Informações de contato e feedback  
+Para mais informações ou em caso de dúvidas sobre os produtos, acess e o site da Siemens Energy 
+Subsea www.siemens -energy.com  /pesquisar Subsea, ou entre em contato com o seguinte  
+Departamento  E-mail 
+Diretor de Segurança de Produtos  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Suporte Técnico  conn ectortechnicalsupport.gb@siemens -energy.com  
+Manutenção (equipe do local)  susultlcmsupport.gb@siemens -energy.com  
+Vendas  connectorsales.gb@siemens -energy.com  
+Table 4  Informações de contato do produto DigiTRON  
+Qualquer informação, registro ou feedback sobre Saúde e Segurança que precise ser detalhado 
+pode ser registrado na seção 10 deste documento e enviado pa ra o departamento indicado na Table 
+4 
+ 
+2.4 Rótulo de recomendações do produto  
+O rótulo de recomendações do produto a seguir é fornecido com todos os produtos da Siemens 
+Energy Subsea.  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  11 de 52 
+ 
+Unrestricted   
+ 
+Figure 1  Rótulo de recomendações do produto  
+2.5 Marcação do produto  
+Os produtos DigiTRON da Siemens Energy Subsea são marcados com o número de peça da 
+Siemens Energy e o número de série exclusivo. Além disso, são indicadas as classificações de 
+tensão, temperatura e profundidade da água. Os locais de mar cação se encontram geralmente no 
+corpo metálico dos conectores. Consulte Figure 2 . 
+ 
+Figure 2  Marcação no produto DigiTRON  
+Os chicotes de cabos também são marcados com o número de série exclusivo da Siemens Energy 
+Subsea.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  12 de 52 
+ 
+Unrestricted   
+As etiquetas são geralmente com texto em preto e fundo amarelo sob um envoltório transparente, 
+localizadas centralmente e em cada extremidade do chicote de cabos. Frequentemente, as próprias 
+informações do cliente são adicionadas a essas etiquetas.  
+2.6 Exemplos d e produtos  
+O OFL mostrado na Figure 3  e Figure 4  sempre tem pelo menos uma unidade de emenda, que pode 
+estar localizada em diferentes posições ao longo da mangueira. São necessárias duas unidades de 
+emenda para comprimentos superiores a 45 m (150 pés).  
+ 
+Figure 3  OFL (cabo de interconexão óptica) típico  
+  
+Figure 4  Exemplo de OFL  
+Um chicote de cabos de várias pernas é mostrado na Figure 5 . Pode haver até quatro pernas em 
+cada lado da Unidade de Agrupamento de Fibras (FMU). Cada mangueira pode ser equipada com 
+um plugue de interconexão ou uma tomada montada em flange.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  13 de 52 
+ 
+Unrestricted   
+ 
+Figure 5  Conjunto típico de chicotes de cabos ou OFL de várias pernas  
+Para fazer a terminação dos cabos de FO dispostos em um cabo umbilical (por exemplo, tubos de 
+aço ou cobre contendo as fibras ópticas), é usada uma Unidade Avançada de Terminação de Fibra 
+(AFT). Essa unidade cruza do cabo umbilical até o sistema de manguei ra preenchido com óleo. A 
+AFT pode ter até 4 saídas de mangueira. Um exemplo de saída única é mostrado na Figure 6  
+ 
+Figure 6  Conjunto típico de AFT para tomada (1 chicote de  cabos externo)  
+ 
+Figure 7  Exemplos de conectores de mangueira de óleo DigiTRONf  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  14 de 52 
+ 
+Unrestricted   
+ 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  15 de 52 
+ 
+Unrestricted   
+3 SEGURANÇA DO PRODUTO  
+A Siemens Energy Subsea recomenda que a terminação de todos os equipamentos seja realizada 
+somente por pessoal treinado, devidamente qualificado e experiente (S QEP), ou seja, pessoa 
+competente.  
+Após a instalação, o comissionamento ou a implantação do produto, se houver algum feedback, 
+preencha e devolva o formulário de Comentários/Feedback do Cliente (Seção 10). Envie o 
+formulário preench ido ao Diretor de Segurança de Produto pelo e -mail 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+3.1 Advertências relacionadas à ação  
+Classif icação de advertências relacionadas à ação  
+As advertências relacionadas à ação são classificadas de acordo com a gravidade do possível 
+perigo, utilizando os seguintes avisos e palavras de sinalização:  
+Símbolos de advertência e termos de sinalização  
+ Perigo!  
+Perigo iminente à vida ou risco de ferimentos pessoais graves  
+ Advertência.  
+Risco de lesões pessoais leves  
+ Cuidado.  
+Risco de danos materiais ou ambientais  
+3.2 Uso previsto  
+O produto se destina a ser um sistema de conexão de baixa fibra óptica para uso submarino  
+Há risco de lesão ou morte do usuário ou terceiros, ou de danos ao produto e a outras propriedades 
+no caso de uso inadequado ou para o qual não se destina.  
+O uso pretendido inclui o seguinte:  
+- observância das instruções de instalação e operação incluídas para o produto e todos os outros 
+componentes do sistema.  
+- conformidade com todas as condições de inspeção e manutenção listadas nas instruções.  
+- uso de todas as ferramentas recomendadas e apropriadas para tarefas  específicas.  
+- todas as atividades devem ser realizadas por uma pessoa competente (consulte 3.3.1  para ver 
+a definição).  
+Qualquer outro uso não especificado neste do cumento nem indicado nas instruções de instalação 
+e operação, ou além do especificado neste documento, deve ser considerado uso inadequado.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  16 de 52 
+ 
+Unrestricted   
+ Perigo!  Risco de perigo iminente à vida ou de lesões pessoais graves.  
+Liberação repentina da pressão armazenada.  
+Os produtos DigiTRON não se destinam ao uso como penetração em vasos fixos de 
+pressão de borda ou terrestres. Eles não foram projetados para cumprir os requisitos 
+da Diretiva de Equipamentos de Pressão (2014/68/UE). São destinados apenas para 
+integração em equipamentos submarinos.  
+Todos os testes de pressão do produto DigiTRON precisam ser realizados por uma 
+pessoa competente.  
+ Cuidado.  É proibido qualquer tipo de uso indevido, pelo risco de danos materiais ou 
+ambientais.  
+3.3 Informações gerais de segurança  
+ Instalação realizada apenas por pessoas competentes  
+A instalação, inspeção, manutenção e reparo do produto devem ser realizados por pessoal treinado, 
+devidamente qualificado e experiente (SQEP), ou seja, pessoa competente, p ara realizar uma 
+atividade específica. A instalação, inspeção, manutenção e reparo de produtos por pessoas não 
+treinadas e consideradas não competentes podem invalidar a garantia do produto.  
+Para obter mais informações, entre em contato com a Siemens Energ y Lifecycle Management 
+(Equipe do Local) susultlcmsupport.gb@siemens -energy.com   
+ Equipamento de proteção individual (EPI)  
+O Equipamento de Proteção Individual  (EPI) é definido legalmente como "todos os equipamentos 
+(incluindo roupas que oferecem proteção contra o clima) que se destinam ao uso por uma pessoa 
+no trabalho e protegem o usuário contra um ou mais riscos à sua saúde ou segurança".  
+Na hierarquia de con trole de risco, o EPI é considerado o item de classificação mais baixa e 
+representa a opção de último recurso. O EPI é apropriado apenas quando o perigo em questão não 
+puder ser totalmente removido ou controlado de tal forma que seja improvável a ocorrênci a de danos 
+(por exemplo, isolar o perigo ou reduzir o risco na origem a um nível aceitável).  
+Todos os funcionários e operadores da empresa devem usar Equipamento de Proteção Individual 
+(EPI) apropriado, definido como resultado de avaliações de risco releva ntes de acordo com os 
+Regulamentos de Equipamento de Proteção Individual (EPI).  
+Use o EPI apropriado de acordo com as recomendações de segurança do produto fornecidas 
+neste documento  
+ Perigo causado por operação inadequada e mau uso previsível  
+A operação in adequada e o mau uso previsível podem representar perigo para você e para 
+terceiros, além de causar danos materiais. Leia atentamente as instruções anexas e todos os outros 
+documentos aplicáveis, especialmente a seção "Segurança" e as advertências.  
+ Perigo! Risco de perigo iminente à vida e de lesões graves causadas por um projétil de 
+pino catraca devido a danos causados aos pinos; por exemplo, por uma chave de fenda 
+(mau uso previsível).  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  17 de 52 
+ 
+Unrestricted   
+- As atividades de manutenção e teste só podem ser realizadas po r uma pessoa 
+competente.  
+- Sempre devem ser usadas as ferramentas corretas.  
+ 
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  18 de 52 
+ 
+Unrestricted   
+ Risco de lesões e danos materiais devido a testes, manutenção e reparos 
+realizados incorretamente ou não realizados  
+As mangueiras e conectores cheios de óleo não podem ser reparados pelo usuário. Em caso de 
+suspeita de falhas no produto (consulte a seção 8.2), não o use e entre em contato com o Suporte 
+Técnico da Siemens Energy ou com o departame nto de Segurança de Produto da Siemens Energy 
+para obter orientação. Nunca tente realizar trabalhos de manutenção ou reparos no produto por 
+conta própria.  
+ Perigo! Risco de perigo iminente à vida e de lesões graves causadas por pressão liberada 
+e/ou proj étil devido a instalação incorreta do produto de retenção de pressão (p. ex., 
+conector de anteparo ou penetrador) durante o teste de pressão do sistema, ou se a 
+pressão diferencial nominal do produto for excedida  
+- Assegure que todas as atividades de montag em e teste de produtos sejam realizadas 
+por pessoas competentes.  
+- Não exceda a classificação de pressão diferencial máxima do produto instalado.  
+- Os produtos individuais têm classificações de pressão diferencial diferentes; consulte 
+a folha de dados do produ to específico ou entre em contato com o Suporte Técnico 
+da Siemens Energy   
+ Perigo! Risco de lesões graves nos olhos devido a esguicho de óleo pressurizado da 
+mangueira danificada ou remoção do parafuso de abastecimento/ventilação.  
+- Assegure que todos os testes de produtos em fábrica e em campo tenham sido 
+concluídos por pessoas competentes.  
+ Advertência. Risco de lesões corporais/nos olhos causadas pela pressão liberada 
+durante a desmontagem do produto em caso de recuperação submarina com uma falha 
+que deixe a pressão de profundidade presa dentro do produto.  
+- Assegure que todas as atividades de desmontagem  do produto sejam realizadas por 
+pessoas competentes, de acordo com os procedimentos adequados e usando o 
+equipamento de proteção individual (EPI) apropriado.  
+ Advertência. Risco de lesão corporal causada pela retenção de pressão de peças que 
+se tornam p rojéteis devido à sobrepressurização do sistema pelo usuário, por exemplo, 
+durante o Teste de Instalação do Local (SIT).  
+- Assegure que todas as atividades de SIT do produto sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.   
+ Risco de lesões e danos materiais devido ao manuseio  
+Sabe -se que o manuseio, levantamento e transporte manual são os fatores que mais contribuem 
+para a má saúde ocupacional. Sempre que possível, garanta o uso de auxílios mecânicos de manejo 
+para evitar a movimentação manual. As normas de elevação segura devem ser seguidas quando o 
+manuseio for considerado apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a 
+elevação em equipe, empregar técnica de elevação segura etc. Somente pessoas c ompetentes têm 
+permissão para realizar tarefas sem supervisão; em caso de dúvida, pergunte.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  19 de 52 
+ 
+Unrestricted   
+ Advertência. Risco de lesão musculoesquelética devido ao encaixe ou desencaixe 
+manual dos conectores.  
+- Com referência às forças de encaixe/desencaixe aqui especif icadas, assegure que 
+sejam tomadas as precauções de manuseio adequadas. Recomenda -se usar a 
+ferramenta de encaixe/desencaixe projetada para esse fim (consulte a seção 9.9). 
+- Assegure que todas as atividades de teste de produtos sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.  
+ Advertência. Risco de lesões musculoesqueléticas causadas pelo manuseio de produtos 
+pesados. Consulte as informações de envio ou a folha de dados do produto para obter os 
+pesos.  
+- Sempre que possível, garanta o uso de auxílios mecânicos de manejo para evitar a 
+movimentação manual.  
+- As diretrizes de elevação precisam ser seguidas quando o manuseio for considerado 
+apropriado para a tarefa; p. ex., adotar posturas corretas, considerar a elevação em 
+equipe, empregar técnica de elevação segura etc.  
+- Somente pessoas competentes têm permissão para realizar tarefas sem supervisão; 
+se tiver dúvidas,  pergunte.  
+ Advertência. Risco de lesões corporais devido à queda de produtos pesados durante a 
+elevação com maquinário.  
+- As normas locais para operações de elevação assistidas mecanicamente e 
+equipamentos de elevação precisam ser respeitadas, por exemplo: "LOLER" no Reino 
+Unido.  
+ Advertência. Risco de lesões leves em pessoas com sensibilidade a silicone ou óleos 
+minerais.  
+- Há um pequeno risco de que o óleo possa vazar do produto se estiver com defeito. 
+Use proteção adequada para as mãos ao manusear produtos e óleos minerais ou 
+sintéticos no caso de vazamento de óleo do conector devido a uma falha.  
+ Advertência. Risco de lesões leves e danos materiais devido a escorregões, tropeços e 
+quedas.  
+- Uma boa organização evita tropeços, q uedas e escorregões; mantenha todas as áreas 
+de trabalho limpas e arrumadas.  
+3.4 Documentos relacionados  
+Os instaladores devem realizar uma avaliação de risco completa do local e colocar em prática todas 
+as etapas e procedimentos necessários para cumprir a le gislação de segurança e saúde aplicável 
+na área, regional, nacional ou internacional, como a Lei de Saúde e Segurança no Trabalho 
+(HASAWA) do Reino Unido, e garantir a própria segurança e a de terceiros quanto aos requisitos 
+de manuseio e trabalho em altur a. 
+Durante a instalação do produto (e qualquer trabalho subsequente) será necessário ter cuidado. 
+Todos os instaladores e operadores envolvidos desde o descarregamento do produto até sua 
+instalação final precisam exercer o dever de cuidar da própria segura nça e da de terceiros. Ao elevar 
+e manusear este produto, os operadores devem utilizar assistência, se necessário. Em 
+determinadas situações, pode ser necessário usar auxílios mecânicos de manuseio. Tome cuidado 
+para evitar riscos de tropeços, superfícies escorregadias ou molhadas.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  20 de 52 
+ 
+Unrestricted   
+Os empregadores e instaladores devem consultar o site do Health and Safety Executive (HSE) do 
+Reino Unido para obter orientações completas e a ferramenta de gráficos de avaliação de manuseio 
+(MAC).  
+Além disso, quando não houver instruções específicas, devem ser consultadas, entre outras, 
+quando aplicável, as normas e códigos de prática britânicos, tais como:  
+- A Lei de Saúde e Segurança no Trabalho.  
+- Controle de substâncias perigosas à saúde - COSHH.  
+É responsabilidade do ope rador e dos instaladores cumprir a legislação atual de saúde e segurança 
+da Empresa, área, regional, nacional ou internacional.  
+3.5 Controle de substâncias perigosas à saúde (COSHH)  
+Substâncias perigosas, Controle de substâncias perigosas à saúde (COSHH) e Av aliações 
+relacionadas a materiais como elastômeros e óleos etc. usados nos produtos DigiTRON estão 
+disponíveis mediante solicitação ao Diretor de Segurança de Produto em 
+subsea.c onnectors.productsafety.gb@siemens -energy.com  
+ 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  21 de 52 
+ 
+Unrestricted   
+4 ABREVIAÇÕES  
+AFT Terminação de fibra avançada  
+APC Contato físico angular  
+Mont  Montagem  
+API American Petroleum Institute  
+°C Grau Celsius  
+°F  Grau Fahrenheit  
+CE Comunidade Europeia  
+COSHH  Controle de substâncias perigosas à saúde  
+CP Proteção catódica  
+DWG  Desenho  
+FAT Teste de aceitação de fábrica  
+FMU  Unidade de controle de fibra  
+FO Fibra óptica  
+HASAWA  Lei de Saúde e Segurança no Trabalho   
+HSE Executivo de Segurança e Saúde  
+IL Perda de inserção  
+LBF Libra -força  
+Pol Polegada  
+ISO Organização Internacional para Padronização  
+ITP Plano de Teste de Inspeção  
+LB Libra  
+LTC Cobertura/tampa de longo prazo  
+m Metros  
+Máx.  Máximo  
+Mín. Mínimo  
+Nº. Número  
+OFL Cabos de interconexão óptica  
+EPI Equipamento de proteção individual  
+RL Perda de retorno  
+ROV  Veículo remotamente operado  
+SI Padrão Internacional  
+SIT Teste no local de instalação  
+SQEP  Pessoal devidamente qualificado e experiente  
+SRT  Teste no local de recebimento  
+SST Aço inoxidável  
+TBD A ser definido  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  22 de 52 
+ 
+Unrestricted   
+UNS  Sistema Unificado de Numeração para Metais e Ligas  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  23 de 52 
+ 
+Unrestricted   
+5 ESPECIFICAÇÕES  
+A seguir, apresentamos uma especificação básica para produtos DigiTRON. O produto real pode 
+variar. Consulte as folhas de dados específicas do produto,  o site https://www.siemens -energy.com  
+/pesquisar Subsea, ou entre em contato com o Suporte Técnico d a Siemens Energy 
+connectortechnicalsupport.gb@siemens -energy.com  para obter informações mais detalhadas.  
+A especificação geral do produto está listada na seção 2.2. As especificações adicionais são as 
+seguintes.  
+5.1 Especificação do conector  
+ Operado por ROV  
+Desalinhamento (tomada 
+montada em conformidade):   
+Rotacional (0°)  ±12° 
+Radial  ±20 mm (0,787 pol.)  
+Angular  ±5° 
+  
+Desalinhamento (tomada 
+montada no anteparo):   
+Rotacional (0°)  ±9° 
+Radial  ±8 mm (0,315 pol.)  
+Angular  ±6° 
+  
+Força de encaixe  <800 N (179 lbs)  
+Força de desencaixe  <800 N (179 lbs)  
+Resistência a sobrecargas:   
+Carga axial  <5.000 N (1.124 lb)  
+Carga de dobramento  <1.250 N (281 lb)  
+Velocidade máxima de encaixe 
+Velocidade máxima de 
+desencaixe  0,5 m/s (1,6 pés/s)  
+1 m/s (3,3 pés/s)  
+Taxa de implantação  350 m/min (1.149 pés/min)  
+Tipo de contato físico  APC 
+Número máximo de linhas  12 
+ 
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  24 de 52 
+ 
+Unrestricted   
+5.2 Especificação da mangueira preenchida com óleo, balanceada por 
+pressão AquaTRON  Siemens Energy  
+ 
+Figure 8  Mangueira AquaTRON, tamanho 50 (orifício de 1/2") e tamanho 75 (orifício de 3/4")  
+Tipo de mangueira  AquaTRON 50  
+Diâmetro  Diâmetro externo Ø 50 mm, 
+orifício de 1⁄2"  
+Raio de dobra mínimo 
+(estático e dinâmico)  125 mm (4,9 pol.)  
+Carga axial máxima  5.000 N (1.121 lb)  
+Torção máxima  180° por 5 m (16,4 pés) de 
+comprimento  
+Massa (ar)  0,66 kg/m (0,44 lb/pés)  
+Massa (água)  0,14 kg/m (0,09 lb/pés)  
+Profundidade máxima da 
+água  4.000 m (13.123 pés)  
+Pressão de enchimento de 
+óleo 15 bar (218 psi)  
+Meio de enchimento  Óleo de silicone Dow Corning 
+200 
+Taxa de implantação  350 m/min (1.149 pés/min)  
+Table 5  Especificação da mangueira preenchida com óleo AquaTRON  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  25 de 52 
+ 
+Unrestricted   
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  26 de 52 
+ 
+Unrestricted   
+6 PREPARAÇÃO DO PRODUTO PARA USO OU ARMAZENAMENTO  
+6.1 Proteção e embalagem do produto  
+Os conectores ópticos Siemens Energy Subsea são fabricados principalmente a partir de aço 
+inoxidável Super Duplex e, como tal, são pro jetados para resistir a ambientes salíferos agressivos. 
+No entanto, as peças expostas do conector são suscetíveis a danos mecânicos se não forem 
+protegidas. As tampas de transporte ou tampas de proteção de acetal precisam ser instaladas em 
+todos os conecto res Siemens Energy Subsea antes do transporte.  
+ Cuidado.  Risco de danos materiais. As tampas de transporte ou de proteção precisam 
+sempre ser colocadas em conectores desencaixados durante o transporte, permanecendo 
+no lugar enquanto estiverem na parte de cima antes da implantação  
+ 
+Os produtos podem ser armazenados nos caixotes ou caixas de embalagem originais 
+indefinidamente.  
+Os caixotes de embalagem de madeira fornecidos com produtos da Siemens Energy não são à 
+prova de intempéries.  
+Como orientação, o armazenamento externo deve ser limitado a 3 meses com proteção contra luz 
+solar direta e clima úmido. A duração real dependerá das condições ambientais; por exemplo, em 
+condições secas temperadas, mais de 3 meses podem ser aceitáveis, mas, em  condições adversas 
+ou uso offshore, poderá ser inferior a 3 meses. Recomenda -se inspecionar os caixotes 
+periodicamente durante o armazenamento externo para avaliar sua adequação, a fim de proteger 
+os produtos do ambiente externo e garantir a resistência a o manuseio.  
+ 
+Tenha muito cuidado ao instalar parafusos, pregos ou grampos adicionais no caixote para que não 
+se projetem para seu interior. Isso pode danificar as mangueiras internas com muita facilidade.  
+Os conectores podem ser enviados individualmente ou  em várias unidades. Deve -se tomar cuidado 
+para proteger os conectores com "Instapack", plástico -bolha ou material de embalagem similar, para 
+evitar danos à superfície durante o transporte. Se forem enviadas várias unidades em uma única 
+remessa, será neces sária uma caixa de transporte reforçada adequadamente para suportar o peso. 
+Consulte Figure 9  e Figure 10 . 
+ 
+Figure 9  Embalagem aceitável para envio  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  27 de 52 
+ 
+Unrestricted   
+  
+Figure 10  Embalagem e armazenamento não aceitáveis  
+Os conectores do tipo anteparo com fibras ópticas expostas devem ser embalados e enviados em 
+uma caixa de tamanho adequado, para proporcionar espaço e proteção das fibras sem dobrar ou 
+torcer.  
+Os conectores são projetados para suportar vibrações que ocorrem d urante o transporte e resistir 
+à queda de uma altura de 1 m (3,3 pés) enquanto estiverem na embalagem.  
+Se os conectores estiverem montados em mangueiras, elas devem ser enroladas e fixadas com fita 
+adesiva para evitar o desenrolamento durante o transporte.  Respeite o raio de dobra mínimo da 
+mangueira (consulte a seção 5.2). Um medidor de raio de dobra mínimo pode ser usado ao 
+reembalar conjuntos em um c aixote; Figure 11 , modelo 3D disponível na Siemens Energy, que pode 
+ser usado para imprimir o medidor em 3D.  
+  
+Figure 11  Medidor de raio de dobra mínimo  
+ 
+6.2 Desembalagem  
+Remova o material de embalagem tomando cuidado para inspecionar se há danos na superfície ou 
+itens que possam ter se separado do conector, como vedações em O. Não use faca para cortar o 
+material de embalagem, pois isso pode danificar partes el astoméricas do conector. Não remova as 
+tampas protetoras até que os conectores estejam prontos para instalação.  
+Na remoção de conjuntos de mangueiras dos caixotes de embalagem, não deixe que as mangueiras 
+se arrastem sobre as bordas do caixote. Se necessário, cubra a borda do caixote com material não 
+abrasivo para proteger a mangueira e tome cuidado para respeitar seu raio de dobra mínimo.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  28 de 52 
+ 
+Unrestricted   
+6.3 Levantamento de chicotes de cabos e OFLs  
+Evite levantar os conjuntos de mangueiras (OFLs, chicotes de cabos) pe lo conector. A prática 
+recomendada para manobrar conjuntos para dentro e fora de caixas de transporte e cestos de 
+implantação é elevar todo o conjunto por igual.  
+Recomenda -se enrolar bem, em círculo ou formato de oito (respeitando o raio de dobra da 
+mangue ira, seção 5.2) 
+Na sequência, as eslingas devem ser usadas em, no mínimo, 3 locais equidistantes em torno do 
+círculo (ou mais, se a mangueira estiver enrolada em gra nde diâmetro) para evitar que a mangueira 
+torça, além de um ponto adicional no cruzamento do formato de oito. As eslingas devem ser 
+colocadas abaixo da bobina inferior e capturar todas as bobinas até a mais alta ( Figure 12 ). 
+Se houver equipamento pesado conectado à mangueira (p. ex., sensor ou outro instrumento, ou 
+caixas de junção grandes) com peso > 5 kg, deve -se usar uma fixação e/ou eslinga adicional.  
+ 
+Figure 12  Ilustraçã o de pontos de amarração para elevar conjuntos de mangueiras  
+6.4 Armazenamento, proteção e fim da vida útil  
+Os conectores são sensíveis a ambientes com presença de cascalho e sujeira. Todos os conectores 
+são fornecidos com uma tampa de transporte. Sempre que p ossível, as tampas devem ser 
+mantidas. As tampas precisam ser removidas antes da implantação submarina.  
+O conector pode ser equipado com uma tampa protetora traseira de plástico ( Figure 19 ), disponível 
+para compra separadamente (pre ferência do cliente). Essas tampas oferecem um grau mais alto de 
+proteção mecânica ao conector do que as tampas de transporte.  
+Consulte a seção 9.3 para obter detalhes sobre os tipos de tampas e conectores cegos disponíveis 
+para pro teção durante o armazenamento.  
+ 
+Os conectores e conjuntos de cabos/mangueiras precisam ser armazenados em área seca e limpa 
+e protegidos por plástico -bolha ou similar.  
+ Cuidado.  Risco de danos materiais. Se o armazenamento for realizado em condições 
+salinas, como no convés ou no porão do navio, deve ser usada uma tampa de ambiente 
+submarino ou conector de plugue cego para proteger os pinos  da tomada contra corrosão.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  29 de 52 
+ 
+Unrestricted   
+Recomenda -se armazenar os produtos na embalagem original (como caixotes de madeira ou 
+caixas, observando o armazenamento externo dos caixotes de acordo com a seção 6.1Error ! R
+eference source not found. ). 
+Não deve haver presença de aço carbono no armazenamento, para evitar a contaminação dos 
+produtos de aço inoxidável.  
+Se o produto tiver sido recuperado de uso submarino, deve ser limpo antes do armazenamento. 
+Limpe apenas com água doce ou solução de ácido cítrico a 50%. Se não for realizada a lavagem 
+com ácido cítrico a 50%, lave com água limpa p ara remover a água salgada dos produtos.  
+ Armazenamento de curto prazo  
+O armazenamento onde não houver controle de temperatura e umidade deve ser limitado a 4 
+semanas  
+Faixa de temperatura de armazenamento: Temperatura do ar de -40 °C a +50 °C ( -40 a 122 °F) . 
+Umidade de armazenamento abaixo de 75%. A temperatura máxima da superfície do produto não 
+deve exceder 70 °C (158 °F), incluindo o ganho de calor pela exposição à radiação solar.  
+ 
+ Armazenamento de longo prazo dos conectores  
+Essas recomendações se aplicam  a produtos antes e depois da montagem em outros equipamentos 
+(por exemplo, XT, coletores, SCM).  
+A temperatura do ar ambiente deve estar entre -40 °C e +50 °C ( -40 e 122 °F). Umidade de 
+armazenamento abaixo de 75%. Devem ser evitadas condições muito úmidas  ou muito secas. O 
+equipamento  deve ser protegido de luz solar forte e luz artificial forte com alto conteúdo ultravioleta.  
+A temperatura máxima da superfície do produto não deve exceder 70 °C (158 °F), incluindo o ganho 
+de calor pela exposição à radiação solar.  
+Após 5 anos de armazenamento, recomenda -se realizar um exame visual e testes ópticos para 
+confirmar se o produto ainda está apto para a finalidade e dentro das especificações. Verifique se 
+há vazamentos de óleo ou sinais óbvios de danos nos  conectores. Consulte o documento "Teste de 
+recebimento no local" SRT -004, disponível no site da Siemens -Energy/subsea, para obter os 
+requisitos de teste óptico.  
+Para o produto já montado em outro equipamento, o regime de teste desse equipamento terá 
+prece dência sobre o documento SRT, por exemplo: os testes de RI (resistência de isolamento) 
+podem não ser permitidos; o teste de funcionamento pode ser aplicável.  
+Após 5 anos de armazenamento, recomenda -se reinspeção e teste a cada 2 anos e antes que o 
+produto seja colocado em serviço.  
+Para produtos armazenados a temperaturas do ar continuamente acima de 25 °C, recomenda -se 
+realizar nova inspeção e teste a cada 12 meses.  
+ Cuidado.  Risco de danos materiais. A temperatura máxima de armazenamento leva em 
+conta o ganho solar. A temperatura da superfície não deve exceder 70 °C (158 °F). Deve 
+ser usada proteção adequada para não se exceder a temperatura máxima de 
+armazenamento.  
+ Cuida do. Risco de danos materiais. Os conectores não devem ter contato com solventes, 
+óleo, graxa ou outros materiais semissólidos.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  30 de 52 
+ 
+Unrestricted   
+ Armazenamento de mangueira preenchida com óleo e balanceada por 
+pressão da Siemens Energy  
+Recomenda -se que os conjuntos de mangu eira e caixa de junção sejam armazenados nos 
+caixotes de embalagem originais. Caso não sejam, proteja -os da luz solar direta ou luz 
+artificial forte com uma lona de encerado ou equivalente.  
+ 
+Período máximo de armazenamento inicial: 2 anos de armazenamento de acordo com a ISO 2230 
+(pressurizado), observando os requisitos de armazenamento na seção 6.4.2 . 
+Posteriormente, realize verificações visuais e test es ópticos. Consulte o documento "Teste de 
+recebimento no local" SRT -003, disponível no site da Siemens -Energy/subsea, para obter os 
+requisitos de teste óptico.  
+Os conjuntos de mangueiras pressurizadas precisam ser visivelmente inspecionados quanto a:  
+• Distorções permanentes, como vincos ou achatamentos  
+• Danos mecânicos, como cortes, rasgos, áreas desgastadas ou dobras delaminadas  
+• Rachaduras na superfície  
+• Alterações nas condições da superfície, como endurecimento, amolecimento ou 
+aderência.  
+ 
+Após a conclusão da inspeção e o registro dos dados, o conjunto pode ser armazenado por mais 2 
+anos em período programado. Para produtos armazenados a temperaturas do ar continuamente 
+acima de 25 °C, recomenda -se realizar nova inspeção e teste a cada 12 meses.  
+ Armazenamento de longo prazo de elastômeros  
+Para o armazenamento recomendado de componentes elastoméricos, como luvas de terminação e 
+capas de cabos, consulte o Documento MH006 da Siemens Energy Subsea - Procedimento para 
+Armazenamento e Manejo de Materiais Elastoméricos, disponível no Suporte Técnico da Siemens 
+Energy.  
+ Reembalagem para evitar danos no transporte  
+Caso seja necessário devolver qualquer produto ao fabricante (conectores da Siemens Energy 
+Subsea), recomenda -se instalar uma tampa de transporte, tampa protetora ou tampa adequada 
+contra poeira nos conectores e protegê -los com plástico -bolha ou material de embalagem similar 
+para evitar danos à superfície  
+Se houver vários conectores para devolução, recomenda -se o uso de uma caixa com reforço 
+adequado  para suportar o peso e permitir o envio em uma única remessa. Entre em contato com o 
+Suporte Técnico da Siemens Energy connectortechnicalsupport.gb@siemens -energy.com  para 
+saber detalhes de caixas típicas.  
+Consulte a seção 6.1Error! Reference source not found.  para obter mais informações e detalhes s
+obre reembalagem de conjuntos de cabos e mangueiras.  
+Não deve haver presença de aço carbono no armazenamento, para evitar a contaminação dos 
+produtos de aço inoxidável.  
+  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  31 de 52 
+ 
+Unrestricted   
+ Descarte e reciclagem  
+O descarte ou reciclagem segura de resíduos de embalagens e/ou produtos fora da vida útil é 
+recomendado com a observação e cumprimento corretos da legislação ambiental regional, nacional 
+ou internacional, quando aplicável.  
+Para devolver resíduos de embalagens e/ou produto fora da vida útil ao fabricante, entre em contato 
+com o Diretor de Segurança do Produto em subsea.connectors.productsafety.gb@siemens -
+energy.com . 
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  32 de 52 
+ 
+Unrestricted   
+7 INSTALAÇÃO E MONTAGEM  
+Em caso de dúvida, entre em contato com o Suporte Técnico da Siemens 
+connect ortechnicalsupport.gb@siemens -energy.com  para obter informações mais detalhadas.  
+ Cuidado. Risco de danos materiais. As fibras ópticas são facilmente danificadas e ficam 
+vulneráveis quando não mantidas na embalagem origi nal fornecida com o conector.  
+Observe o raio de dobra mínimo da fibra. Em nenhuma circunstância as fibras devem ser 
+usadas para elevar o produto.  
+7.1 Verificações de pré -instalação de OFLs  
+• Verifique se as informações de etiquetagem da mangueira estão corretas, de acordo com o 
+desenho/plano de etiquetagem.  
+• Certifique -se de que o cabo de interconexão tenha sido aprovado no Teste no Local de 
+Recebimento (consulte o documento SRT -005 da Siemens Energy, disponível no site da 
+Siemens Energy Subsea).  
+• Certifiq ue-se de que, antes da instalação, seja realizada uma inspeção visual final do cabo 
+de interconexão.  
+• Nenhuma parte dos conectores deve ser desmontada antes ou durante a implantação, 
+exceto a remoção das tampas protetoras, pois não há peças que possam ser r eparadas 
+pelo usuário no interior.  
+• Todo defeito precisa ser registrado no formulário da seção 10 deste documento; e, sempre 
+que possível, fotografe todos os problemas que precisem ser registrados e informe ao 
+Departamento Técnico da  Siemens Energy.  
+ 
+7.2 Proteção catódica  
+Os conectores ROV são fabricados em aço inoxidável superduplex e projetados para operar 
+isolados do sistema de CP (proteção catódica). Esses conectores são fornecidos com todas as 
+ferragens necessárias para isolá-los da estrutura em que serão montados.  
+Os conectores ROV que se conectam ao sistema de CP não serão imediatamente danificados, 
+mas há um risco maior de fragilização do metal por hidrogênio (possível rachadura sob altas 
+tensões mecânicas) e aumento d a taxa de depósitos calcários no produto (o que pode causar 
+problemas no desencaixe dos conectores).  
+ 
+Não instale ânodos tipo pulseira em torno da mangueira ou cabo como parte da proteção CP. Eles 
+podem danificar a mangueira ou o cabo, por serem corrosivos . 
+7.3 Instalação de chicotes de cabos com conectores flangeados e/ou 
+Unidade de agrupamento de fibras  
+Ferramentas necessárias  
+• Chave de torque de acionamento de ¼ de polegada 0 -25 Nm (18,4 lbf.pés) Chave catraca 
+Allen de 4 mm  
+• Loctite 243  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  33 de 52 
+ 
+Unrestricted   
+Se forem usadas abraçadeiras para prender os chicotes de cabos nas estruturas, deixe -as 
+soltas na mangueira. Não comprima.  
+ 
+ 
+ Conectores ROV  
+De acordo com Figure 13  e Figure 14 , remova os parafusos de montagem M6 e o disco de 
+orientação; passe a frente do conector pela interface; instale 4 parafusos de montagem M6 e o disco 
+de orientação; fixe os parafusos com um ponto de Loctite 243 nas roscas e aperte a 10 -12 Nm (7,38 
+- 8,85 lbf.pés).  
+OBSERVAÇÃO:  
+O cone de alinhamento na tomada pode precisar ser removido para que se instale o conector, sendo 
+recolocado após a instalação. Garanta a orientação cor reta da ranhura da chave interna.  
+ 
+ 
+ 
+Figure 13  Instalação da tomada ROV compatível com montagem em flange  
+ 
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  34 de 52 
+ 
+Unrestricted   
+ 
+Figure 14  Vista seccional da instalação e peças do conector de montagem compatível  
+ 
+ Instalação da unidade de agrupamento de fibras  
+De acordo com Figure 15 , a FMU pode ser montada na horizontal ou na vertical. Se montada 
+verticalmente, certifique -se de que as mangueiras tenham apoio suficiente p ara manter o raio de 
+dobra mínimo.  
+ 
+  
+Figure 15  Montagem da caixa de junção horizontal (esquerda) e vertical (direita)  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  35 de 52 
+ 
+Unrestricted   
+É fundamental que os suportes da caixa de junção sejam instalados conforme indicado no 
+desenho 10199114 da Siemens Energy, disponível no Suporte Técnico da Siemens Energy  
+ 
+Faça furos na interface conforme necessário para instalação de acordo com o desenho 10199114.  
+ 
+Aplique um ponto de Loctite 243  nas roscas dos parafusos de cabeça sextavada. Fixe a caixa de 
+junção à  estrutura com 4 parafusos M8, apertando a 10 -12 Nm (7,38 - 8,85 lbf.pés)  
+ 
+Caso os suportes sejam fornecidos separados do corpo da FMU, eles precisarão ser montados e 
+instalados. Se apl icável: monte os suportes no corpo levando em consideração o pino antirrotação, 
+que deve ficar localizado na parte inferior da unidade, dentro de uma reentrância no corpo. Encaixe 
+uma faixa de nitrila preta em cada suporte do lado oposto ao pino antirrotaç ão. Aperte os parafusos 
+de fixação M6 a 3,5 Nm (2,58 lbf.pés) para concluir a instalação do suporte. Consulte Figure 16  e 
+Figure 17 . 
+ 
+O material do corpo da FMU é de aço inoxidável super duplex e não requer proteção CP.  
+ 
+ 
+ 
+Figure 16  Conjunto do suporte de montagem da caixa de junção  
+Verifique se os suportes de montagem estão firmes e se a  FMU está orientada corretamente. Isso 
+conclui a instalação da caixa de junção.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  36 de 52 
+ 
+Unrestricted   
+ 
+Figure 17  FMU instalada corretamente na estrutura  
+ Produto montado dentro dos conjuntos de terminação de umbilical (UTA)  
+Esta seção se aplica aos conjuntos de terminação avançada de fib ra (AFT), completos com 
+conectores e mangueiras preenchidos com óleo, que são conectados ao umbilical e montados 
+dentro do UTA.  
+Esses produtos devem ser montados firmemente na estrutura do UTA usando as presilhas 
+fornecidas com o produto, ou com alternativ as adequadas. O cabo de fibra do umbilical deve ser 
+passado dentro do UTA, de modo que não seja aplicada tensão indevida no local onde o cabo entra 
+no produto.  
+O cabo deve ser preso a uma bandeja de cabos ou similar antes de entrar no produto, de modo que  
+qualquer movimento do cabo no UTA (planejado ou, p. ex., por carga de choque) não transmita 
+tensão ao produto. Recomenda -se posicionar uma braçadeira de cabo de 200 mm antes da entrada 
+do cabo no produto e coaxialmente para garantir um percurso direto do cabo até o produto.  
+ 
+ 
+7.4 TESTE DE OFLS  
+O chicote de teste DigiTRON f é composto por um conector submarino padrão, um conduto de 
+mangueira contendo as fibras (sem óleo) e uma caixa de terminação, como mostrado na Figure 18 . 
+A caixa de terminação aceita a conexão de cabos de rede por meio de conectores do tipo E2000  
+O chicote de cabos de teste pode ser usado no teste seco ou teste em águas rasas. A caixa de 
+terminação não é à prova d'água; por isso, não deve ser submersa. Ou seja, no teste de águas 
+rasas, o conector fica submerso e a caixa de terminação fica na parte seca.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  37 de 52 
+ 
+Unrestricted   
+ Perigo!  Risco de perigo iminente à vida ou de lesões pessoais graves.  
+Liberação repentina da pressão armazenada.  
+Os produtos DigiTRON não se destinam ao uso como penetração em vasos fixos de 
+pressão de borda ou terrestres. Eles não foram projetados para cumprir o s requisitos 
+da Diretiva de Equipamentos de Pressão (2014/68/UE). São destinados apenas para 
+integração em equipamentos submarinos.  
+Todos os testes de pressão do produto DigiTRON precisam ser realizados por uma 
+pessoa competente.  
+ Advertência. Risco de l esões musculoesqueléticas devido ao encaixe e desencaixe 
+manual dos conectores.  
+- Com referência às forças de encaixe/desencaixe aqui especificadas, assegure que 
+sejam tomadas as precauções de manuseio adequadas. Recomenda -se o uso da 
+ferramenta de encaixe manual para encaixar e desencaixar o conector.  
+- Assegure que todas as atividades de teste de produtos sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.  
+ Cuidado.  Risco de danos materiais. Deve ser sempre usado o chicote de teste adequado 
+para fazer contato óptico durante o teste.  
+ Cuidado . Risco de danos materiais. A caixa de terminação do chicote de teste nunca 
+deve ser usada na água. Há alta probabilidade de danos no chicote de teste.  
+ 
+ 
+Tomada de teste                                        Plugue de teste                          
+Figure 18   Chicotes de teste  
+ 
+Todos os conectores de teste devem ser inspecionados e limpos periodicamente (consulte a 
+seção 9.5). A integridade óptica deve ser verificada medind o-se a perda de inserção e a perda de 
+retorno.  
+Verifique se não há detritos ou sujeira no conector de teste, pois podem ser transferidos para o 
+conector em teste.  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  38 de 52 
+ 
+Unrestricted   
+8 INFORMAÇÕES AO USUÁRIO DURANTE A OPERAÇÃO NORMAL E 
+CONDIÇÕES DE FALHA  
+8.1 Sinais visíveis/audíve is 
+Não há sinais visíveis ou audíveis do produto durante o uso que identifiquem operações específicas 
+para o usuário.  
+O produto deve estar silencioso durante a operação, e sua aparência não deve mudar.  
+8.2 Operação normal e defeituosa/perigosa  
+Não opere o prod uto se parecer haver um defeito. Em caso de dúvida, entre em contato com o 
+Suporte Técnico da Siemens Energy. Abaixo estão algumas indicações de defeito no produto.  
+• Quaisquer itens soltos, como corpos de metal, parafusos e outras fixações  
+• Presença de qualq uer vazamento de óleo, seja do conector, das mangueiras de óleo, da 
+emenda de fibra ou das unidades de agrupamento.  
+• Qualquer dano às vedações de borracha na parte frontal do conector do plugue, como 
+rasgos ou cortes  
+• Enegrecimento ou escurecimento das vedaç ões de borracha na parte frontal do conector do 
+plugue  
+• Qualquer ruído proveniente do produto.  
+8.3 Resolução de problemas  
+Se houver algum problema com a operação correta do produto, entre em contato com a Siemens 
+Energy para obter orientação. Não desmonte o pro duto de nenhuma forma.:  
+Departamento  E-mail 
+Diretor de Segurança de Produtos  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Suporte Técnico  connectortechnicalsupport.gb@siemens -energy.com  
+Manutenção (equipe do local)  susultlcmsupport.gb@siemens -energy.com  
+Table 6  Informações de contato para resolução de problemas do produto  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  39 de 52 
+ 
+Unrestricted   
+9 OPERAÇÃO E MANUTENÇÃO DO PRODUTO  
+9.1 Precauções de segurança  
+Antes do uso, leia a seção 3 sobre recomendações de segurança do produto.  
+9.2 Manutenção e assistência técnica do produto  
+Os produtos DigiTRON exigem manutenção zero durante sua vida útil su bmarina de 30 anos e até 
+250 ciclos de encaixe e desencaixe submarinos.  
+Não há peças que possam ser reparadas pelo usuário nos conectores, OFLs, jumpers ou chicotes 
+de cabos. Não se deve tentar desmontar o produto. Se surgir qualquer problema com o produto , o 
+usuário deverá entrar em contato com o Suporte Técnico da Siemens Energy para obter orientação.  
+9.3 Proteção do produto; tampas e conectores cegos  
+Há cinco tipos de tampas e conectores falsos disponíveis para proteger o produto em uso. A seguir, 
+o caso para uso de cada tipo.  
+ Tampas para borda de navio  
+De acordo com Figure 19 : 
+• Tampa de transporte : Fornecida com o conector para protegê -lo contra danos durante o 
+transporte  
+• Tampa protetora : Fornece maior grau de proteção mecânica ao conector do que a tampa de 
+transporte. Recomendado para quando os conectores são expostos a um risco maior de 
+danos fora do transporte  
+As tampas para borda de navio podem ser instaladas e removidas manualmente  
+As tampas para borda de navio não devem ser implantadas em ambiente submarino.  
+ 
+ Cuidado.  Risco de danos materiais. Se o armazenamento for realizado em condições 
+salinas, como no convés ou no porão do navio, deve ser usa da uma tampa de ambiente 
+submarino ou conector de plugue cego para proteger os pinos da tomada contra corrosão.  
+ 
+    
+Figure 19   Tampas de transporte (esquerda) e Tampas de proteção (direita)  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  40 de 52 
+ 
+Unrestricted   
+ 
+ Tampas submarinas  
+A Figure 20  mostra, da esquerda para a direita, as tampas de proteção submarina, a tampa de 
+ambiente submarino e um plugue de loopback.  
+• Tampa de proteção submarina:  Protege o conector contra danos mecân icos graves ao ser 
+instalado no ambiente submarino. Normalmente usada para proteção de curto prazo; por 
+exemplo, instalada para a implantação do conector e removida em algumas semanas para 
+ligar o cabo de interconexão. Essas tampas podem ser usadas para pr oteção de longo prazo 
+em ambientes submarinos benignos (por exemplo, locais com baixa contaminação marinha). 
+Essas tampas não protegem as vedações frontais do conector.  
+• Tampa de ambiente submarino : Protege a tomada contra danos mecânicos graves e fornece 
+proteção ambiental das vedações frontais da tomada. Normalmente usada para 
+armazenamento submarino de longo prazo, especialmente em áreas de alto crescimento 
+marinho. Essa tampa não tem qualquer função óptica.  
+• Plugue de loopback:  Fornece proteção i gual à de um plugue de interconexão submarina 
+padrão, além de um recurso de teste de loopback.  
+    
+Figure 20  Tampas de proteção submarina típicas  
+9.4 Encaixe/Desencaixe energizado  
+Os conectores podem ser encaixados ou desencaixados enquanto transportam sinais óptico s. 
+9.5 Inspeção e limpeza de produtos de conector  
+Todos os produtos de conector devem ser minuciosamente inspecionados antes do uso; consulte a 
+seção 8.2 para saber quais falhas verificar.  
+Os conectores podem ser limpos com segurança usando álcool isopropílico (IPA) e pano sem 
+fiapos, mas não mergulhe o produto em IPA . Aguarde o IPA evaporar an tes de encaixar os 
+conectores.  Tenha cuidado para não deixar nenhuma fibra de pano na face frontal dos conectores 
+do plugue ou da tomada. Outros fluidos de limpeza não devem ser usados, pois podem não ser 
+compatíveis com as borrachas ou plásticos usados no  produto.  
+Nunca se deve usar um objeto estranho para pressionar os "shuttle pins" do conector do plugue.  
+9.6 Remoção do crescimento marinho e depósitos calcários  
+Para remover depósitos calcários dos conectores da Siemens Energy Subsea, recomenda -se uma 
+solução  de ácido cítrico a 50%. Todos os materiais elastoméricos expostos à água do mar nos 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  41 de 52 
+ 
+Unrestricted   
+conectores da Siemens Energy Subsea foram totalmente testados em relação a ácido cítrico 50% 
+e são compatíveis por 1 hora de duração. Além disso, os materiais termoplástic os oferecem boa 
+resistência ao ácido cítrico.  
+Outros produtos de limpeza ácidos, como ácido acético a 50%, não devem ser usados, pois podem 
+causar deterioração dos materiais elastoméricos. Não são recomendados cinzelamento e métodos 
+abrasivos. O uso de jat o de água é aceitável, mas o jato não deve ser direcionado aos pinos catraca 
+na frente do plugue ou à face frontal da tomada, pois isso pode resultar em risco de forçar a água 
+através das vedações principais.  
+O jato de água é permitido no ambiente submarin o (não no ar), contanto que o jato não seja 
+direcionado às faces das extremidades dos conectores (ver abaixo). Após o jato de água, é 
+recomendado verificar se há sinais de danos nos conectores  
+ 
+ 
+Figure 21  Jato de água permitido  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  42 de 52 
+ 
+Unrestricted   
+ 
+ Advertência.  Risco de lesões leves a pessoas com sensibilidade a uma solução de ácido 
+cítrico a 50%; deve -se usar proteção adequada para as mãos e olhos durante o manuseio.  
+ Cuidado.  Risco de danos materiais. Outros produtos de limpeza ácidos, como ácido 
+acético a 5 0%, não devem ser usados, pois podem causar deterioração dos materiais 
+elastoméricos.  
+ Cuidado.  Risco de danos materiais. Não são recomendados cinzelamento e métodos 
+abrasivos. O uso de jato de água é aceitável, mas o jato não deve ser direcionado aos 
+pinos catraca na frente do plugue, pois isso pode resultar em risco de forçar a água através 
+das vedações principais.  
+ 
+9.7 Verificações antes do encaixe do produto  
+As tampas de transporte e de proteção de superfície precisam ser removidas antes da implantação 
+submarina  
+Antes do encaixe, o conector da tomada deve ser verificado quanto a detritos e danos. Os 
+conectores foram projetados para levar em conta a contaminação por areia e sedimentos; no 
+entanto, pedaços grandes de detritos devem ser removidos. Use jato de água em ambiente 
+submarino; consulte os detalhes do jato na seção 9.5  
+Verifique a face frontal do conector do plugue. Não deve haver rasgos na borracha nem 
+escurecimento da cor.  
+Se houver evidências de falhas do tipo, não use o conector. Entre em c ontato com o Suporte Técnico 
+da Siemens Energy para obter orientação.  
+9.8 Encaixe e desencaixe dos conectores ROV  
+ Advertência. Risco de lesões musculoesqueléticas devido ao encaixe e desencaixe 
+manual dos conectores.  
+- Com referência às forças de encaixe/desencaixe aqui especificadas, assegure que 
+sejam tomadas as precauções de manuseio adequadas. Recomenda -se o uso da 
+ferramenta d e encaixe manual para encaixar e desencaixar o conector.  
+- Assegure que todas as atividades de teste de produtos sejam realizadas por pessoas 
+competentes, de acordo com os procedimentos adequados.  
+ 
+ Alinhamento e encaixe do conector ROV  
+Estas instruções se a plicam ao plugue de interconexão (em um OFL) e ao plugue de loopback.  
+Consulte Figure 22  para ver imagens de marcas de alinhamento e encaixe  
+• Os conectores DigiTRONf foram projetados para autoalinhamento durante o encaixe.  
+• Os conectores precisam ser alinhados de maneira aproximada usando as marcas de 
+alinhamento no corpo do plugue, disco de alinhamento e cone da tomada.  
+• A montagem da alça do ROV possui conformidade s uficiente para aceitar ajustes finos 
+durante a abordagem final antes do engate do conector.  
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  43 de 52 
+ 
+Unrestricted   
+ • Garanta a orientação correta do disco de alinhamento  
+• Quando o conector estiver totalmente encaixado, a vedação da aba não será visível pela 
+câmera ROV em primeira pessoa, ou seja, vista por trás do conector. Uma linha laranja 
+fina de cerca de 2 mm pode ser vista da lateral.  
+• Se a vedação da aba ainda puder ser vista em primeira pessoa, remova -a e tente refazer a 
+conexão seguindo o procedimento novamente.  
+• Se a vedação da aba ainda puder ser vista, remova e tente refazer a conexão seguindo o 
+procedimento novamente.  
+• Se os conectores não puderem ser encaixados, tanto o plugue quanto a tomada precisam 
+ser inspecionados quanto a danos de alinhamento incorreto ou de tritos que estejam 
+impedindo a conexão.  
+• Se tiver ocorrido algum dano, entre em contato com o Suporte Técnico da Siemens Energy 
+para obter orientação.  
+Vista de cima  
+ 
+ 
+ 
+ 
+ 
+Vista lateral  
+ 
+ 
+    
+Figure 22   Marcas de alinhamento e indicador de encaixe da vedação da aba  
+ 
+ 
+Marcas de alinhamento  
+Vedação da aba do 
+indicador  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  44 de 52 
+ 
+Unrestricted   
+ Valores máximos de desalinhamento e forças de encaixe do conector ROV  
+Consulte a seção 5.1 
+ Velocidade de encaixe/desencaixe do conector ROV  
+Os conectores foram projetados para operar em uma ampla faixa de velocidades de 
+encaixe/desencaixe. Não há limite prático para a velocidade à q ual os conectores podem ser 
+encaixados ou desencaixados; no entanto, como guia, a velocidade não deve exceder os valores 
+indicados na seção 5.1. 
+ Verificações pós -enca ixe do conector ROV  
+Durante o encaixe, a vedação da aba do indicador laranja, localizado no conector do plugue, irá se 
+dobrar para trás e desaparecer dentro do cone de alinhamento do conector da tomada. Após o 
+encaixe bem -sucedido dos conectores, nenhuma p arte da vedação da aba do indicador deve se 
+projetar através da junta entre o conector do plugue e o da tomada.  
+ Desencaixe do conector ROV  
+O desencaixe é obtido com um puxão direto na alça do ROV, suficiente para liberar o anel de 
+retenção. A força necessá ria é detalhada na parte de forças mecânicas na seção 5.1 
+9.9 Encaixe e desencaixe manual dos conectores  
+Para encaixe e desencaixe manual dos conectores, deve -se utilizar a ferramenta de 
+encaixe/desencaixe manual ( Figure 23 ). Ela se aplica ao encaixe no seco e também para 
+mergulhadores que operam o produto no ambiente submarino.  
+A ferramenta precisa ser ajustada para a operação de encaixe ou desencaixe do conector movendo 
+o pino pivô do braço da alavanca para uma posição diferente; consulte a Figure 24 . Faça isso antes 
+de usar a ferramenta.  
+A ferramenta não deve ser armazenada no ambiente submarino, mas recuperada para a superfície 
+após a conclusão do trabalho de intervenção e lavada com água doce. A faixa de temperatura  de 
+armazenamento da ferramenta é de -40 °C a +70 °C  
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  45 de 52 
+ 
+Unrestricted   
+ Advertência. Risco de aprisionamento da mão ou dedos, resultando em lesões ou perda 
+de dedo(s).  
+Não remova as proteções de plástico transparentes da ferramenta. Não use a ferramenta 
+se as proteções est iverem danificadas ou ausentes.  
+ Advertência. Risco de lesões devido à liberação de energia mecânica armazenada 
+quando os conectores estiverem encaixados ou parcialmente encaixados.  
+Não modifique a ferramenta de forma alguma, pois sua resistência mecânica pode ser 
+comprometida.  
+ Advertência. Risco de lesões devido à liberação de energia mecânica armazenada 
+durante o desencaixe dos conectores  
+Durante o processo de desencaixe, devido às altas cargas da estrutura da mola dentro 
+dos conec tores, pode haver um leve "tranco" sentido através da ferramenta à medida que 
+o plugue se solta do recurso de travamento com a tomada. Essa é uma funcionalidade 
+normal, e o operador deve estar preparado para isso antes de usar a ferramenta, de modo 
+que, du rante a operação, não haja surpresa que possa levar a outros riscos, como queda 
+ou incidente de tropeço.  
+ Advertência. Risco de lesões devido à liberação de energia mecânica armazenada 
+quando os conectores estiverem encaixados ou parcialmente encaixados.  
+Nunca tente reposicionar o pino pivô quando os conectores estiverem parcialmente 
+encaixados.  
+ Advertência. Risco de lesões devido à liberação de energia mecânica armazenada 
+quando os conectores estiverem encaixados ou parcialmente encaixados.  
+Certifique -se de que a ferramenta esteja correta e firmemente localizada no plugue e na 
+tomada, de modo que não possa deslizar de nenhum dos conectores em uso. Isso 
+causaria um retorno significativo do conector do plugue e/ou da ferramenta em direção ao 
+operador, devido às altas forças de encaixe entre os conectores.  
+Verifique se os conectores estão livres de detritos e crescimento marinho antes de usar a 
+ferramenta, especialmente em torno do cone na tomada em que ela se encaixa ( Figure 
+26). 
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  46 de 52 
+ 
+Unrestricted   
+ 
+ 
+Figure 23  Ferramenta de encaixe/desencaixe manual, número de peça S1U10509147  
+ 
+ 
+Figure 24  Posição do pino pivô no braço da alavanca de encaixe/desencaixe  
+ 
+ 
+ Montagem do plugue para ferramenta de encaixe/desencaixe  
+• A ferramenta foi projetada para aceitar o plugue através da alça do ROV e ser travada na 
+posição girando a alavanca de ativação do acionador, conforme abaixo ( Figure 25 ). 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  47 de 52 
+ 
+Unrestricted   
+ 
+Figure 25  Encaixe do plugue na ferramenta de encaixe/desencaixe  
+ Conecte a ferramenta à tomada  
+Com o plugue travado na posição, a ferramenta pode ser posicionada em linha com os 
+indicadores de alinhamento da tomada ( Figure 22 ). Há flexibilidade suficiente para acomodar a 
+ferramenta a ser inclinada para permitir que sua ferradura se engate atrás do cone de captura 
+da tomada, conforme mostrado abaixo ( Figure 26 ). 
+ 
+ 
+ 
+ 
+ 
+Figure 26  Montagem da tomada na ferramenta de encaixe/desencaixe  
+ 
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  48 de 52 
+ 
+Unrestricted   
+ 
+ Operação de encaixe  
+Faça o encaixe movendo os braços da alavanca conforme mostrado abaixo ( Figure 27 ) 
+ 
+ 
+Figure 27  Operação de encaixe  
+ Operação de desencaixe  
+• Verifique se o pino pivô do braço da alavanca está na posição de desencaixe ( Figure 24 ) ou 
+reposicione. Faça isso antes de tentar desencaixar o conector  
+• Encaixe a ferramenta como antes no conector acoplado e, em seguida, desencaixe o 
+conector movendo os braços da alavanca como mostrado na Figure 28 . 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  49 de 52 
+ 
+Unrestricted   
+ 
+Figure 28  Operação de desencaixe  
+ 
+
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  50 de 52 
+ 
+Unrestricted   
+10 COMENTÁRIOS/FEEDBACK DO CLIENTE  
+Preencha a seção de Aprovação na parte inferior do formulário para confirmar qu e cada página 
+deste documento foi lida e cumprida integralmente.  
+Nome e iniciais do originador (LETRA DE FORMA)  Data  
+  
+ Informações de contato   Informações de contato  
+  
+Referência do projeto  Cliente  Região  
+   
+Tipo de produto  Número da peça (P/N)  Número de série (S/N)  
+   
+Insira os detalhes abaixo; por exemplo, comentários, reclamações, evidências de boas práticas, 
+relatórios de incidentes, observações e recomendações, incluindo as associadas a saúde, 
+segurança ou meio ambiente etc. Inclua também nomes/informações de contato de outros 
+funcionários relevantes.  
+  
+ 
+Seção de aprovação  
+Nome (LETRA DE FORMA)  Assinatura  Data  
+   
+  Nº do 
+documento:  IOM-008 
+ Data de 
+emissão:  17/03/2023  
+ Revisão:  05 
+ Página:  51 de 52 
+ 
+Unrestricted   
+Envie o formulário preenchido por e -mail para o Diretor de Segurança de Produto no seguinte  
+endereço: subsea.connectors.productsafety.gb@siemens -energy.com
+ 
+Unrestricted  
+ 
+Publicado por:  
+Siemens Energy Global GmbH & Co. KG  
+Aplicações industriais  
+Freyeslebenstraße 1  
+91058 Erlangen  
+Alemanha  
+E-mail: subsea@siemens -energy.com  
+Para obter mais informações, acesse nosso site:  
+www.siemens -energy.com/subsea  
+ 
+Sujeito a alterações e erros.  As informações fornecidas neste documento contêm apenas descrições 
+gerais e/ou características de desempenho que podem nem sempre refletir especificamente as 
+descritas ou que podem sofrer modificações no decorrer do desenvolvimento futuro dos produtos. 
+As características de desempenho solicitadas são vinculantes apenas quando expressamente 
+acordadas no contrato celebrado.  
+ 
+ 
+ 
+Siemens Energy é uma marca registrada licenciada pela Siemens AG  Para os EUA Publicado por  
+Siemens Energy, Inc.  
+Aplicações industriais  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+EUA  

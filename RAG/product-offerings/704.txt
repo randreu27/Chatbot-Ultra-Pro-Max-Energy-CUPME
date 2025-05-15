@@ -1,0 +1,396 @@
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Manual del 
+Proveedor   
+Subasta 
+Neerland és 
+ 
+SE E2E ARIBA Implemen tación   
+siemens -energy.com  
+
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 TABLA DE CONTENIDO  
+ 
+1. DESCRIPCIÓN GENERAL DE LA SUBASTA EN NEERLANDÉS  ................................ ................................ ......................  3 
+1.1 Introducción  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2 Invitaci ón a una eAuction  ................................ ................................ ................................ ................................ ...........  3 
+2. NAVIGACIÓN A TRAVÉS DE SAP ARIBA  ................................ ................................ ................................ ...........................  4 
+2.1 Iniciar sesión en ARIBA  ................................ ................................ ................................ ................................ ...............  4 
+2.2 Resumen del panel de control  ................................ ................................ ................................ ................................ .. 5 
+2.3 Configuraciones de perfil y de usuario  ................................ ................................ ................................ ...................  7 
+2.4 Resolución de problemas  ................................ ................................ ................................ ................................ ...........  9 
+3. PROCESO DE LA SUBASTA  ................................ ................................ ................................ ................................ ................  10 
+3.1 Responder en una eAuction  ................................ ................................ ................................ ................................ .... 10 
+3.2 Revisar requisitos previos  ................................ ................................ ................................ ................................ ........  11 
+3.3 Lista de verificación  ................................ ................................ ................................ ................................ ...................  12 
+3.3.1  Revisar los detalles del evento  ................................ ................................ ................................ ..........................  12 
+3.3.2  Revisar y aceptar requisitos previos  ................................ ................................ ................................ .................  13 
+3.3.3  Seleccionar lotes / artículos de línea  ................................ ................................ ................................ ................  13 
+3.4 Proceso de presentación ................................ ................................ ................................ ................................ ..........  14 
+3.4.1  Presentar oferta  ................................ ................................ ................................ ................................ ....................  14 
+3.4.2  Ofertar  ................................ ................................ ................................ ................................ ................................ ..... 15 
+3.5 Fase de adjudicación  ................................ ................................ ................................ ................................ .................  16 
+3.5.1  Selección pendiente  ................................ ................................ ................................ ................................ .............  16 
+3.5.2 Selección de notificación pendiente  ................................ ................................ ................................ ................  17 
+3.5.3  Estado de finalización  ................................ ................................ ................................ ................................ ..........  17 
+3.5.4  Notificación  ................................ ................................ ................................ ................................ .............................  18 
+3.5.5  Moni torización de la subasta en neerlandés  ................................ ................................ ................................ .. 18 
+4. MÁS INFORMACIÓN, SITIO WEB DEL PROVEEDOR COCKPIT  ................................ ................................ ..................  19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En este manual se utiliza el masculino g enérico para una mejor legibilidad. Las identidades femeninas y otras identidades de  género se incluyen  
+explícitamente en la medida en que sea necesario para la declaración . 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. DESCRIPCIÓN GENERAL DE LA SUBASTA EN NEERLANDÉS   
+1.1 Introduc ción  
+En este módulo, obtendrá una descripción general de cómo participar en una subasta en neerlandés  en 
+ARIBA, qué debe tener en cuenta al completar el formulario y cómo puede monitorear el proceso  en ARIBA.  
+ 
+ 
+1.2 Invita ción a una eAuction  
+Una vez que haya sido selecc ionado como participante de una subasta, se le informará automáticamente por 
+correo electrónico  sobre el evento, es decir, la subasta.  
+ 
+  
+
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGACIÓN A TRAVÉS DE SAP ARIBA  
+2.1 Iniciar sesión en ARIBA  
+Hay dos formas de iniciar sesión en su perfil de ARIBA:  
+Puede iniciar sesión a través del Sitio web de proveedores de ARIBA , accesible en service.ariba.com.  En caso 
+de que haya olvidado su nombre de usuario o contraseña , utilice la opción «Olvidé mi nombre de 
+usuario/contraseña» (“forgotten Username/password”) (1).  
+ 
+ 
+Luego debe hacer clic en la pestaña «Propuestas y cuestionarios» (“Proposals & Questionnaires”) (2) en el menú 
+desplegable en la parte superior de la página (1).  
+ 
+ 
+  
+1 
+1 
+2 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 O haga clic directamente en el  enlace provisto  (1) en su correo recibido , donde será dirigido a la sección de 
+inicio de sesión del sitio web del proveedor de ARIBA.  Después de iniciar sesión con éxito, llegará directamente 
+a la solicitud . 
+ 
+ 
+2.2 Resumen del panel de control  
+Antes de centrarnos en el formulario de la subasta, le daremos una descripción general del tablero en su perfil 
+de ARIBA.  Aquí verá todos los eventos, por ejemplo, eAuctions, a los que ha sido invitado con el estado 
+respectivo:  
+«Completado» (“Completed”) (1), «Abierto» (“Open”) (2), «Pendiente de selección» (“Pending selection”) (3) o 
+«Vista previa» (“Preview ”) (4)  
+ 
+ 
+ 
+1 
+4 
+3 
+2 
+1 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 En la columna «Tipo de evento» (“Event Type”) (1) podrá ver los respectivos detalles, por ejemplo,  si es una 
+subasta o no . Justo al lado de esta columna, se encuentra la hora de finalización (2) de cada subasta . 
+Tenga en cuenta la hora de inicio  que se indica y define en el eAgreement . En la columna «Ha participado» 
+(“Participated”) (3) verá a simple vista si ha participado en un evento, como puede ser una RfP o subasta, o no.  
+En caso de que desee personalizar su panel de control , puede hacerlo haciendo clic en el icono respectivo en 
+la parte superior de la tabla (4).  
+ 
+ 
+En la parte inferior de la página hay otras categorías para su referencia  también, como:  «Cuestionarios de 
+Registro» (“Registration Questionnaires”) (1), «Cuestionarios de Cualificación» (“Qualification Questionnaires”) 
+(2), «Cuestionarios» (“Questionnaires”) (3), «Certificados» (“Certificates”) (4) y Categorías dentro de los 
+Procesos del Cicl o de Vida del Proveedor (5).  
+ 
+ 
+  
+1 2 3 
+1 
+3 2 
+5 4 4 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3 Configuraciones de perfil y de usuario  
+Puede cambiar su configuración básica  en ARIBA haciendo clic en el icono de su perfil(1) , seguido de «Mi 
+cuenta» (“My Account”)  (2). 
+ 
+ 
+Aparecerá y podrá editar toda la información de su cuenta (1) e información de contacto (2) , también su 
+configuración de idioma (3).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+1 
+2 3 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 Si hace clic en la sección «Configuración» (“Settings ”) debajo del icono de su perfil (1), también podrá cambiar 
+el rol (4) y la configuración del usuario,  (5) haciendo clic en la sección «Usuarios» (“Users”) (2).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+3 
+2 
+4 5 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 2.4 Resolución de problemas  
+Es posible que reciba mensajes de error (1) , en la parte superior de su página mientras completa el formulario .   
+Léalos cuidadosamente , ya que ARIBA le dirá exactamente qué información falta o se ingresó 
+incorrectamente.  Vaya al lugar correspondiente y cambie los campos según corresponda . El mensaje de error 
+debería desaparecer.  La máscara y, por lo tanto, toda la información del evento se completa correctamente . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3. PROCESO DE LA SUBASTA  
+3.1 Responder en una eAuction  
+Volvamos a su invitación a una subasta en neerlandés . Una vez que haga clic en el botón respectivo en el correo 
+electrónico, o si hace clic en su subasta abierta en el tablero (1), será dirigido al formulario d e respuesta  del 
+evento en ARIBA.   
+ 
+ 
+Aquí verá todos los detalles del evento de la subasta (1). Si la subasta ya está abierta, verá el tiempo restante  
+hasta que se cierre la subasta.  
+Antes de que pueda enviar una respuesta o cambiar datos en el formulario, es necesario revisar y responder a 
+los requisitos , es decir, términos y condiciones . Para hacerlo, haga clic en el botón azul respectivo «Revisar 
+requisitos previos» (“Review Prerequ isites”) (2).  
+ 
+ 
+ 
+1 
+1 2 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 3.2 Revisar requisitos previos  
+Lea los requisitos previos y acepte los términos del acuerdo (1) . Para continuar, haga clic en el botón «OK» (2) 
+seguido de «Enviar este acuerdo» (“Submit this agreement”) (3).  
+Tenga en cuenta que,  si se niega a responder a los requisitos previos, no podrá participar en la subasta.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+3 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3 Lista de verificación  
+Después de aceptar los requisitos previos, comienza a completar toda la información necesaria  con respecto 
+a la subasta en neerlandés  en ARIBA.  En el lado izquierdo de la máscara, verá la sección lista de verificación (1).   
+ 
+ 
+3.3.1  Revisar los detalles del evento  
+En la primera sección «Revisar detalles del evento» (“Review Event Details”) (1) verá el resumen de todos los 
+detalles de la subasta  y más información sobre el formato de la subasta, en este caso una subasta en 
+neerlandés . El tiempo o reglas de licitación (2)  han sido definidas, las cuales son pertinentes para la subasta.  
+En esta sección también puede ver archivos adjuntos del cliente (3) o preguntas (4). 
+ 
+ 
+  
+1 
+1 
+2 3 4 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 3.3.2  Revisar y aceptar requisitos previos  
+En «Revisar y aceptar requisitos previos» (“Review and Accept Prerequisites”) (1) verá los términos de las 
+condiciones resumidos (2) que ha aceptado en el paso anterior . 
+ 
+ 
+3.3.3  Seleccionar lotes / artículos de línea  
+La sección, «Seleccionar lotes/artículos de línea» (“Select Lots/Line items”) (1), incluye los lotes y elementos 
+definidos de la subasta que el cliente estableció.  
+Debe seleccionar todos los ítems  a los que ha sido invitado.  Esto ya está precompletado, y solo tiene que 
+confirmar haciendo clic en el botón respectivo «confirmar lotes/artículos de línea seleccionados» (“Select 
+Lots /Line items”) (2).  
+ 
+ 
+ 
+1 2 
+1 
+2 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 3.4 Proceso de presentación  
+3.4.1  Presentar oferta  
+Una vez que haga clic en la cuarta sección «Enviar ofertas» (“Submit Bids”) (1), aparecerán dos nuevas categorías 
+en el lado izquierdo de la máscara.   
+Verá el «Contenido del evento» (“Event Contents”) (2) con información preliminar sobre la subasta, así como 
+los respectivos lotes  donde se le pide que haga una oferta.  Las preguntas para responder o los archivos 
+adjuntos del cliente se pueden ver en esta tabla.  
+ 
+  
+1 
+2 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.4.2  Ofertar  
+Una vez que la subasta esté en vivo y abierta , puede comenzar a ofertar y monitorearla directamente en 
+tiempo real en el sistema . Allí verá un icono intermitente  para cada elemento (1).  Verá los campos pertinentes 
+de forma transparente en su máscara: «precio actual» (“current price”), «tiempo hasta el próximo paso de 
+precio» (“time until next price step”), la «cantidad» (“quantity”) definida (2).  
+Una vez que el primer participante  acepta  el paso de precio actual  dentro del tiempo predefinido, la subasta 
+termina y se completa . Solo necesita hacer clic en «Enviar aceptación» (“Submit Acceptance”) (3) si acepta el 
+precio actual.  En este caso sí tenemos dos artículos para ofertar, solo mostra mos uno (módulo de depuración 
+de aceite I).  
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+3 
+1 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 Una vez que haga clic en «Revisar detalles del evento» (“Review Event Details”) (1), verá el resumen de la 
+subasta.  También recibirá notificaciones por correo electrónico para cada  paso.  
+ 
+ 
+3.5 Fase de adjudicación  
+3.5.1  Selección pendiente  
+Una vez finalizada la subasta, el estado cambiará a “selección pendiente”  (1). Puede ver esto en su panel de 
+ARIBA en la sección correspondiente .  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17 3.5.2  Selección de notificación pendiente  
+También recibirá una notificación por correo electrónico  de que ya no se aceptan más respuestas  (1), lo que 
+significa que la subasta se ha cerrado.  
+ 
+ 
+3.5.3  Estado de finalización  
+Puede supervisar  la subasta en su panel de control hasta que la fase de adjudicación se haya completado . 
+El estado se mostrará entonces como «completado» (“completed”) (1).  
+ 
+  
+1 
+1 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 3.5.4  Notificación  
+Dependiendo de la configuración del cliente, puede recibir un mensaje  (1) que indica si ganó  la subasta (1) y 
+obtiene la adjudicación o si no ganó  la subasta.  
+ 
+ 
+3.5.5  Monitorización de la subasta en neerlandés  
+En su pe rfil de ARIBA siempre puede hacer clic en la subasta para ver el resumen de su oferta de un vistazo.  
+Ahora puede: revisar los requisitos previos para esta subasta (1), imprimir la información del evento (2) y revisar 
+la licitación (3), descargar el informe de cambio de oferta (4), ver las adjudicaciones(5) y descargar el informe de 
+resumen de la adjudicac ión(6).  
+ 
+ 
+ 
+ 
+1 
+1 2 3 5 6 4 
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 4. MÁS INFORMACIÓN , SITIO WEB DEL PROVEEDOR COCKPIT  
+En caso de preguntas, comuníquese con el sitio web de cockpit del proveedor de Siemens Energy , donde 
+también obtendrá información sobre las posibilidades de soporte.  Puede acceder a la página haciendo clic en 
+este enlace . 
+ 
+  
+
+05 Manual del Proveedor: Subasta Neerla ndés  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20 
+ 
+ 
+ 
+ 
+ 
+   Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 M unich  
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+July  2022   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by 
+Siemens AG.  

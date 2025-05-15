@@ -1,0 +1,51 @@
+gascompressionmagazine.com | JANUARY  2025BY CHARLENE DICKERSON
+Siemens Energy has completed construction on a new cen -
+trifugal compressor test stand in Houston. This Gulf Coast 
+campus is 12,000 sq.ft. (1114 m2), enabling the company to 
+meet the evolving needs of its customers in the United States 
+and abroad by bringing a range of advanced turbo-compressor testing capabilties to this facility.
+The Telge Road test center can perform complete package 
+testing and bare compressor testing, including ASME Power Test Code 10 (PTC 10) type 2, which is used to validate the performance of turbo-compressors.
+The test bed uses one 1.8-MW and one 10-MW electric 
+motor with a variable frequency drive (VFD). Both drivers are double ended, allowing Siemens Energy to set up multiple compressor tests simultaneously. The facility can accommodate testing up to 7250 psi (500 bar) with inert gases in a closed loop. It is outfitted with multiple cranes, including one double girder bridge crane with a main hook capacity of 75 tons (68 tonnes) and two wall traveling jib cranes for lighter-duty loads.
+The test stand caters to both new equipment and aftermar-
+ket services, with most of the new compressors tested being assembled in the same Siemens Energy Houston facility or coming from another facility in Germany. On the services side of the business, the test stand supports customers testing ret -
+rofitted or footprint-replacement compressors.SIEMENS ENERGY 
+E X P A N D S 
+HOUSTON FOOTPRINT 
+NEW COMPRESSOR TEST FACILITY BRINGS ASME PTC 10 TESTING TO HOUSTON
+“The entire Houston campus is designed for flexibility. We 
+have new equipment packaging and compressor assembly at 
+this location. Most of the customers’ needs can be taken care of right here,” said Manoj Gupta, test manager at Siemens En -
+ergy. “A key benefit to our US customers is that they get their compressors tested within the country, avoiding lost time in shipping and additional costs and risks associated with inter-national shipment.” 
+Another capability that has been added is closed-loop load 
+testing. This is made possible by a new 20-MW fin fan chilling tower for cooling process gas. “If we need to do a gas turbine compressor load test up to 20 MW, we can do that in-house,” added Gupta. “We can also handle larger loads by bringing in additional temporary equipment.”The test facility is highly digitalized — using an advanced SI -
+MATIC PCS-7 distributed control system (DCS), which con -
+trols power to the motor and VFD. All data collection and monitoring are automated. 
+“Siemens Energy uses its own in-house performance moni -
+toring tools that have been developed over decades of ex -
+perience,” said Gupta. “We can predict performance of the equipment in real time. During testing, customers can see a live map of performance – how the unit is expected to behave versus how it is behaving.” 
+DESIGNED FOR GROWTH
+Construction of the expanded Telge Road test facility began 
+in November 2021, with the first customer performance test 
+taking place in May 2023. The grid connection was upgraded with a new medium-voltage substation and switch gear, allow -
+ing the test facility to be powered independently from the rest of the campus.
+“We actually began using the test bed before the roof was 
+installed,” said Thomas Pittman, manufacturing operations manager at Siemens Energy. “The final phase of construction was mostly done at night, when we weren’t actively testing compressors.” 
+The entire testing area was designed with employees’ safe -
+ty in mind. It includes features such as trenches for all main utilities and permanent fall protection jibs for situations when working at height can’t be avoided. The lube oil and power distribution systems are located underneath the test stand area as well. 
+Siemens Energy says the facility is designed to accommo -
+date future growth, with room for expansion and new equip -
+ment additions. 
+“The objective when designing the facility was to remain as 
+simple, but as flexible, as possible to cater to different com -
+pressor products and customer requirements,” continued Pit -
+tman. “For example, there is a cooling loop for larger pipeline-type machines up to 36 inches (914 mm) in nozzle size, and we can also accommodate much smaller pipe connections. Overall, we are well prepared to meet our customers’ needs today and in the future as industry requirements evolve.”
+SIEMENS ENERGY 
+E X P A N D S 
+HOUSTON FOOTPRINT A Siemens Energy RFBB36 
+compressor is being tested in 
+a closed loop at the compa -
+ny’s new Houston test facility.
+Reprinted from the January 2025 issue of Gas Compression Magazine . 
+www.gascompressionmagazine.com Copyright Third Coast Publishing Group.

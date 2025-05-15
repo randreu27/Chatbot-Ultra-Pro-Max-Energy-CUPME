@@ -1,0 +1,61 @@
+  
+As a global leader in power 
+transmission technology and a long-standing, trusted partner of public entities and private enterprises, such as utilities and grid operators, we have always 
+been in the vanguard of 
+technical development. We look back on a long history of trendsetting in power transmission projects around the world that have proven time and time again the reliability and outstanding quality of our products, solutions and services.  
+Energy ecosystems around the 
+world are in a state of profound change. Reliable electricity is a basic requirement for societies. While details may vary from country to country, and even from supply area to supply area, there are challenges for grid op-erators and power producers. Underdeveloped or weak grids, mature and ageing infrastruc-
+ture and liberalized markets in-
+cluding a growing share of al-ternative energy sources, lead-ing to the associated disruption to business models.    
+ Modern challenges for a  legacy power grid  
+ 
+Increasingly decentralized en-ergy systems and the associated fluctuating power flows pose new challenges for the existing, mature grid infrastructure. Thermal overloads in the lines and a growing number of cases in which frequency and voltage come quickly critically close to acceptable range limits, or even exceed them, threaten grid sta-bility and the transmission infra-structure, and often require  costly redispatch intervention to deal with current and voltage factors.   
+ UPFC PLUS (Unified Power Flow Controller) - The missing 
+piece to the puzzle  
+ To effectively manage the trans-mission system and provide the stability and resilience required means operators must better utilise existing assets. This can be achieved by employing the dynamic load flow manage-
+ment solution with UPFC PLUS which is extremely faster to control and can manage both series and parallel compensa-tion to keep lines within the n-1 criterion and the electricity flowing.   
+UPFC PLUS  
+ 
+Fast, efficient and future-proof stabilization of AC grids  
+
+The UPFC
+ PLUS can balance load 
+flow in the AC grid, rapidly by-
+pass overloaded line sections, provide reactive power and dy-namic voltage control, and uti-lise assets safely closer to physi-cal limits. 
+The UPFC PLUS is arranged as 
+two voltage sources. One in parallel that controls voltage and one in series connected to the AC line. It provides reactive power compensation, voltage 
+control at shunt and active 
+power load flow control at the series side in one unit. 
+Compared to traditional station-
+ary power flow controllers, UPFC PLUS controls the load flow in just milliseconds. UPFC PLUS thus stabilizes the AC grid even when critical situations de-velop suddenly (Grid Code n-1). That means UPFC PLUS lets you get the most from your existing grid capacity while maintaining maximum protection, reducing the risk of power failures, and minimizing redispatch costs. 
+Technical Advantages 
+Dynamic 
+With a 
+response time of  
+milliseconds, the UPFC PLUS re-acts much faster as conven-tional solutions 
+Functional  
+UPFC PLUS offers additional 
+functionality beside load flow control for example reactive 
+power compensation 
+Flexible  
+All system voltages can be ad-
+dressed up to 500kV 
+Efficient  
+Lower investment compared to 
+other solutions that combine all functionalities. Lower losses and less harmonic emissions than comparable solutions 
+Powerful  
+Controlled power range is multi-
+ple of installed power depend-ing on UPFC PLUS installation Summary of UPFC benefits  
+The UPFC PLUS applies the fea-tures and advantages of the well proven compact multi-level Voltage Sourced Converter (VSC) technology with its ad-vanced control, high availability and reduced costs due to sys-tematic standardization. 
+It provides answer to today's ur-
+gent challenges to keep the grid stable. UPFC PLUS can easily be implemented in an existing grid and allows fast reaction times for an efficient load flow man-agement. With this option and the high dynamic control assets can be operated closer to physi-cal limits. Thus, UPFC is an innovative so-lution to comply with the grow-ing requirements to the grid with dynamic load flow man-agement that adapts easily to changing infeed from renewa-ble sources by fluctuating con-sumption, even in case of faults in the infrastructure. 
+Siemens Energy opens the door 
+to a new era in power supply by 
+adapting our mature in-house technology. 
+For more information, please 
+contact: 
+factsinfo.energy@siemens ‐
+energy.com  
+Siemens Energy is a trademark licensed by Siemens AG.
+Technical  Advantages  
+Benefits 

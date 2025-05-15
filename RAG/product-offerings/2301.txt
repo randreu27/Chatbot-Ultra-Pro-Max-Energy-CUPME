@@ -1,0 +1,173 @@
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+Packager Guidelines 
+Section 5: Compressor Crankcase Oil System 
+ 
+5-1. Frame Oil Recommendations 
+ 
+General Requirements 
+ 
+The oil must be well-refined petroleum product with low ca rbon residue. It should not contain fats or fixed 
+oil compounding. Oil containing rust and oxidat ion inhibitors and a foam depressant is highly 
+recommended. The oil selected must be substantially non-corrosive to the common bearing metals, with a 
+pour point at least 10°F below ambient temperature when the unit is started for engine drives. The 
+Compressor Cylinder and Packing Lubrication System on new units is designed at the factory based upon 
+the specific application. In most cases, the system is  designed to draw lubricating oil from the compressor 
+crankcase to supply the lubricator pumps unless there are specific reasons why a different type lubricating 
+oil is required for the cylinders. Packager should define  on the Distributor Order Form where they wish to 
+obtain the oil supply to the lubricator. (See Compre ssor Cylinder and Packing Lubrication Guidelines.) 
+ 
+Multiviscosity lubricants may be used in the crankc ase where widely variable ambient temperatures are 
+encountered, provided that the lubricant maintains a viscosity of 115 to 150 SSU (23.7 to 31.8 cSt) at 
+normal operating sump temperature. Provision must  be made to heat the crankcase oil to minimum 
+starting temperatures as outlined in 5-5 Oil Parameter Recommendations.   
+ It is recognized that the oil recommended by the en gine manufacturer (when an engine drive is supplied) 
+is normally heavier (in the SAE 40 visc osity range). When this is the case and the user desires to stock 
+only one oil for use in both the engine and compressor  crankcases, the heavier weight oil recommended 
+for the engine may also be used in the compressor cran kcase. Under cold ambient starting conditions, it 
+is recommended that the oil sump temperature be at least 10°F (5.6°C) to 20°F (2.8°C) above the pour 
+point prior to starting the engine drives. This ma y require the use of auxilia ry crankcase heaters. 
+ 
+If sump oil temperatures are 5°F (2.8°C) higher than the allowable maximum sump temperature for a 
+specific viscosity, the lubricant should be monitored mo re closely for nitration effects and more frequent oil 
+changes should be scheduled to prevent an increase in long term maintenance programs. 
+ Viscosity Requirements 
+ 
+Table 2-1. Crankcase Oil Viscosity Requirements 
+ 
+  
+SUMP OIL TEMPERATURE 
+Below 145°F 
+ (68°C) 
+SAE 20  145-165°F 
+(63-74°C) 
+SAE 30 165-180°F 
+(74-92°C) 
+SAE 40 
+VISCOSITY AT 100°F 
+Saybolt Universal, SSU 
+Kinematic Viscosity, cSt  420 
+90.5 600 
+129.5  750 
+162.5  
+VISCOSITY AT 210°F 
+Saybolt Universal, SSU 
+Kinematic Viscosity, cSt 50 
+7.3 60 
+10.5 70 
+13 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+Inspection 
+ Conduct all testing of the lubricating oil in accord ance with the Standard Methods (latest edition) of the 
+American Society for Testing Materials (ASTM).  
+ Oil Change Schedule 
+ 
+The oil should be changed every 2000 to 4000 hours , or every 6 months , depending on local conditions, 
+or as indicated by oil analysis. Most reputable o il companies offer laboratory analysis services of oil 
+samples on request. We highly recommend the use of this type service. A once-a-month analysis 
+schedule is recommended when the compressor is operated under severe conditions. 
+ 
+Where the compressor is operated in an extremel y dirty atmosphere, installed outdoors, operated 
+intermittently, handling foul gas or where the oil reaches  high temperatures in a very hot atmosphere, it 
+may be necessary to change the oil more often.  In case of dirty atmosphere, consider using sweeping 
+nitrogen purge in crankcase.  
+ 
+Dry Sump Requirements  
+ 
+Any requirements outside these limit ations require an auxiliary oil pump and a deep independent oil sump 
+within the package.  
+Frame Size  Max. Pitch Max Roll  
+MOS, HOS2  3.0 ˚  13 ˚ 
+MOS, HOS4  1.5 ˚  13 ˚ 
+MOS, HOS6  1.0 ˚  13 ˚ 
+HOSS2   2.0 ˚  11 ˚ 
+HOSS4   1.2 ˚  11 ˚ 
+HOSS6   0.8 ˚  11 ˚ 
+ 
+ 
+                                          Dry Sump With Frame Mounted Pump  
+                               
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+ 
+                                          Dry Sump With Off Mounted Pump 
+ 
+                                
+   
+ 
+ 
+5-2.  Oil Cooler and Filter 
+ 
+All units have frame mounted oil filters that are insta lled at the factory and should not be removed for any 
+reason. These filters are normally mounted off the o il pump end of the compressor; alternate locations 
+may be used to suit a particular installation. Filter  internals should be checked for cleanliness and correct 
+positioning. Piping connections to the cooler and filter  must line up properly before they are tightened. Do 
+not spring the piping to make connections, as this may cause leaking joints or resu lt in fatigue failures.  
+ 
+Some customers require duplex type oil filters. In these instances, Siemens Energy recommends the 
+original frame mounted filter be left in place. Afte r 200 hours of run time, the element should be removed 
+and continue flowing through the empty filter housing.  This ensures the oil system has removed any 
+contaminants which may have been introdu ced during the packaging of the unit. 
+ 
+5-3.  Oil Piping 
+ The oil piping in the frame lubrication system downstream of the cooler to the filter must be 
+closely examined and cleaned before charging the system with oil. 
+ Where the customer is supply ing external oil piping, it is his respon sibility to provide piping that has been 
+thoroughly cleaned and completely examined throughout. Any foreign material loosened by the flow of oil 
+through the piping can seriously damage the compressor.  All external oil piping that is supplied by the 
+customer should be the same size as the connec tion on the frame. The piping size should NEVER be 
+stepped down for any reason. 
+ 
+Any check valves included in the oil system shoul d be flapper type FULL flow check valves. A piston 
+check should NEVER be used since th is can act as a restriction. Any type restriction ca n cause severe 
+damage to the frame internals. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+5-4.  Prelube Pumps 
+ Prelube pumps are required on frames that are driven by  an electric motor or whenever the compressor 
+may start-up while unattended. These prelube pumps ma y be electric or pneumatic driven, but require a 
+permissive which will disable the start-up sequence if  oil pressure is below 10 lbs. (0.70 kg/cm
+2). This is 
+the normal range, but some applications may require a different permissive set point due to specifics of 
+that machine; ie, across-the line starts at full speed. The prelube pump should be sized for the minimum 
+recommended flow rates listed below for each frame model.  
+Recommended minimum prelube capacity @35 psi (2.46 kg/cm
+2) (on electric motor driven machines 
+only): 
+ 
+Minimum Recommended Flow Rates 
+ 
+Model 2 Throw 
+GPM (LPM) 4 Throw 
+GPM (LPM) 6 Throw 
+GPM (LPM) 
+MOS 16 (61) 32 (121) 48 (182) 
+HOS 15 (57) 25 (95) 50 (189) 
+HOSS 32 (121) 47 (178) 63 (238) 
+  
+5-4.1.  Hand Pre-Lube Pumps  
+If a hand pre-lube pump is installed, it should have a flapper type check valve installed in the 
+outlet.  
+ 
+ 5-5.  Oil Parameter Recommendations 
+ 
+Lubricating Oil: 
+ 
+Normal Oil Pressure (at Header)         50-65 PSIG (3.5-31.5 kg/cm
+2)  
+Minimum Oil Pressure (at Header)             40 PSIG (2.8 kg/cm2) 
+Shutdown Oil Pressure (at Header)         35 PSIG (2.5 kg/cm2)  
+Minimum Start-Up Oil Temperature (Electric Drives)          80°F (27°C) 
+Miminum Load Oil Temperature (Engine and Electric Drives)         90°F (32°C) Normal Oil Operating Temperature              150 to 170°F (66 to 77°C) 
+**NOTE: Not to exceed 180°F (82°C) for continuous operation 
+  

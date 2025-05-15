@@ -1,0 +1,1946 @@
+Unrestrictedsiemens-energy.com
+SpecTRON 8
+Manual Pemasangan dan Operasi
+No. Dokumen: DOC0075
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 2daripada 69
+Unrestricted
+Pendahuluan
+Terima kasih kerana membeli produk Siemens Energy Subsea Connectors SpecTRON 8. Maklumat yang
+berikut ialah gambaran keseluruhan arahan perlindungan, penyimpanan, penghantaran, membuka
+bungkusan, pengaturan dan penyelenggaraan untuk produk SpecTRON 8.
+Siemens Subsea Connectors mengesyorkan penamatan dan pemasangan semua peralatan hanya dilakukan
+oleh kakitangan yang terlatih dan berkelayakan sesuai.
+Ringkasan Semakan
+Halaman ini merekodkan status semakan keseluruhan dokumen dan kebenaran dokumen untuk dikeluarkan.
+Apabila halaman atau halaman dokumen disemak, bilangan halaman yang terjejas akan dimasukkan ke dalam
+lajur Halaman Terjejas/Catatan dan garis jidar menegak akan dipaparkan pada teks yang terkini dipinda.
+Sema
+kanDisusun oleh Diluluskan oleh Tarikh
+KeluaranHalaman Terjejas/Catatan
+Lihat sejarah semakan TeamCenter untuk mendapatkan sejarah semakan awal
+14 C. Plant N. Williamson 20/12/2021 Dikemas kini kepada templat Siemens Energy dan susun
+atur yang memfokuskan keselamatan produk
+Selaraskan kandungan dengan SpecTRON 10, 10+ dan 45
+IoM untuk kekonsistenan
+Tambah maklumat pengurusan/penyaluran hos
+Tambah arahan pembersihan/pengeringan (Seksyen 8.1)
+15 C. Plant N. Williamson 24/03/2022 Tambah kadar voltan pada data kabel (Bahagian 4.4)
+16 R. Duffy N. Williamson 28/10/2022 Bahagian 1.1: dikemas kini untuk mencerminkan
+peralihan kepada standard IEC. Bahagian 6.3:
+membetulkan rujukan kepada arahan pembersihan
+penyambung (bahagian 8.1). Bahagian 6.4: dikemas kini
+untuk menjelaskan dan membetulkan panduan
+pengendalian hos. Bahagian baharu untuk pengurusan
+kabel MUTU dicipta (Bahagian 6.5).
+Bahagian 6.4.2: rujukan kepada panjang pelompat
+dipinda daripada 15m kepada 30m
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 3daripada 69
+Unrestricted
+Kandungan
+1 SKOP PRODUK ............................................................................................................. 7
+1.1 Pensijilan Produk ................................................................................................ 7
+1.2 Maklumat perhubungan ..................................................................................... 7
+1.3 Label peringatan produk..................................................................................... 8
+1.4 Penandaan produk ............................................................................................. 9
+1.5 Label/penandaan CE ........................................................................................... 9
+2 KESELAMATAN PRODUK ........................................................................................... 11
+2.1 Amaran berkaitan tindakan .............................................................................. 11
+2.2 Penggunaan yang dimaksudkan ....................................................................... 11
+2.3 Maklumat keselamatan am .............................................................................. 12
+2.4 Dokumen berkaitan .......................................................................................... 15
+3 SINGKATAN ............................................................................................................... 17
+4 SPESIFIKASI DAN BAHAYA SISA ................................................................................. 19
+4.1 Spesifikasi Umum Penyambung ....................................................................... 19
+4.2 Keupayaan salah jajaran penyambung stab sambungan basah ....................... 20
+4.3 Spesifikasi Hos .................................................................................................. 21
+4.4 Spesifikasi Kabel ............................................................................................... 21
+4.5 Spesifikasi lain .................................................................................................. 22
+4.6 Alam sekitar, pelupusan dan kitar semula ....................................................... 23
+4.7 Peralatan perlindungan peribadi (PPE)............................................................. 23
+5 MENYEDIAKAN PRODUK UNTUK DIGUNAKAN ......................................................... 24
+5.1 Langkah-langkah keselamatan sebelum pemasangan ..................................... 24
+5.2 Nyahpembungkusan ......................................................................................... 26
+5.3 Pelupusan pembungkusan yang selamat ......................................................... 30
+5.4 Mengangkat ...................................................................................................... 30
+5.5 Pemasangan dan pengumpulan ....................................................................... 33
+5.6 Penyimpanan dan perlindungan....................................................................... 34
+5.7 Pembungkusan semula untuk mengelakkan kerosakan semasa pengangkutan
+35
+6 OPERASI PRODUK ..................................................................................................... 37
+6.1 Memberikan Tenaga Pasangan Sambungan Basah .......................................... 37
+6.2 Pengaturan ....................................................................................................... 37
+6.3 Diambil semula ................................................................................................. 37
+6.4 Pengurusan dan Penyaluran Hos ...................................................................... 38
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 4daripada 69
+Unrestricted
+6.5 Pengurusan kabel MUTU .................................................................................. 43
+6.6 Pengolah ROV ................................................................................................... 43
+6.7 Menyambung Sambungan Basah ROV Dasar Laut ........................................... 46
+6.8 Memutuskan sambungan Pasangan Sambungan Basah ROV Dasar Laut ......... 50
+6.9 Menyambung Pasangan Sambungan Basah ROV Secara Manual/Bahagian Atas
+52
+6.10 Memutuskan sambungan Pasangan Sambungan Basah ROV Secara
+Manual/Bahagian Atas ............................................................................................. 54
+6.11 Penyambung Ujian ........................................................................................... 55
+6.12 Ujian ................................................................................................................. 59
+6.13 Rujukan pantas ................................................................................................. 60
+6.14 Pelupusan produk sisa ...................................................................................... 60
+7 MAKLUMAT PENGGUNA ........................................................................................... 61
+7.1 Operasi normal dan rosak/berbahaya .............................................................. 61
+7.2 Perlindungan Katodik ....................................................................................... 61
+7.3 Penyelesaian masalah (Soalan Lazim) .............................................................. 62
+8 PENYELENGGARAAN PRODUK .................................................................................. 63
+8.1 Pembersihan dan Pengeringan Penyambung ................................................... 63
+8.2 Penyelenggaraan produk (orang mahir) ........................................................... 65
+9 KOMEN/MAKLUM BALAS PELANGGAN .................................................................... 68
+Jadual
+Jadual 1 – Standard Berkenaan Produk SpecTRON 8 .......................................................................... 7
+Jadual 2 – Maklumat Perhubungan .................................................................................................... 7
+Jadual 3 - Spesifikasi Umum Penyambung SpecTRON 8 ................................................................... 19
+Jadual 4 – Keupayaan Salah Jajaran Penyambung Stab SpecTRON 8 ................................................ 20
+Jadual 5 - Spesifikasi Hos SpecTRON 8 .............................................................................................. 21
+Jadual 6 - Spesifikasi Kabel SpecTRON 8 (4 – 16 mm persegi) ........................................................... 22
+Jadual 7 - Spesifikasi Kabel SpecTRON 8 (35 mm persegi) ................................................................ 22
+Jadual 8 - Penyelesaian masalah maklumat perhubungan produk ................................................... 62
+Ilustrasi
+Rajah 1 – Label Peringatan Produk ..................................................................................................... 8
+Rajah 2 – Contoh Goresan untuk Produk SpecTRON 8 ....................................................................... 9
+Rajah 3 - Contoh penandaan abah-abah ............................................................................................ 9
+Rajah 4 – Kadar Arus SpecTRON 8 .................................................................................................... 20
+Rajah 5 – pembungkusan tipikal abah-abah SpecTRON 8................................................................. 24
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 5daripada 69
+Unrestricted
+Rajah 6 – Pembungkusan plastik polietilena pilihan ........................................................................ 25
+Rajah 7 – Penutup Palam ROV .......................................................................................................... 27
+Rajah 8 – Penutup Bekas ROV .......................................................................................................... 27
+Rajah 9 – Penembus Penutup Pokok / Penyingkiran Palam Penutup Berkunci ................................ 28
+Rajah 10 – Penembus Penutup Pokok / Penyingkiran Penutup Pelindung Palam ............................ 29
+Rajah 11 – Penembus Penutup Pokok / Penyingkiran Lengan Pisah Palam ...................................... 29
+Rajah 12 – Penembus Bekas ROV – Penembus – Pelompat Palam Penutup Pokok .......................... 30
+Rajah 13 – Kedudukan mengangkat yang disyorkan – Bekas ROV .................................................... 31
+Rajah 14 – Kedudukan mengangkat yang disyorkan – Palam ROV (Tanpa / dengan mekanisme
+penguncian) 32
+Rajah 15 – Kedudukan mengangkat yang disyorkan – Penembus Penutup Pokok / Palam (Versi 1) 32
+Rajah 16 – Kedudukan mengangkat yang disyorkan Penembus Penutup Pokok / Palam (Versi 2) ... 33
+Rajah 17 – Kedudukan mengangkat yang disyorkan – Penembus Dwi ............................................. 33
+Rajah 18 – Hos AquaTRON (kiri) dan Gorilla (kanan) pada jejari selekoh minimum ......................... 38
+Rajah 19 – Hos AquaTRON (oren) dan Gorilla (kuning) yang dibengkokkan dengan tidak betul ...... 39
+Rajah 20 – Pembentuk Plat .............................................................................................................. 39
+Rajah 21 – Pembentuk ‘U’ ................................................................................................................ 39
+Rajah 22 - Pembentuk ‘L’ .................................................................................................................. 40
+Rajah 23 – Pembentuk ‘U’ ................................................................................................................ 40
+Rajah 24 – Pembentuk diletakkan sementara (cth. untuk SIT sebelah atas)..................................... 40
+Rajah 25 - Pembentuk ‘L’ .................................................................................................................. 41
+Rajah 26 - Dirian yang direka dengan pembentuk yang digunakan untuk sokongan hos ................. 41
+Rajah 27 – Potensi Pengapitan Hos pada Penyambung yang Patuh ................................................. 42
+Rajah 28 – Panjang kabel lurus yang diperlukan dan kedudukan pengapit MUTU ........................... 43
+Rajah 29 - Rahang Pengolah ROV yang disyorkan untuk Pemegang Bar T ........................................ 43
+Rajah 30 - Pengendalian Penyambung ROV (tanpa dan dengan mekanisme penguncian) ............... 44
+Rajah 31 - Rahang Pengolah ROV yang disyorkan untuk Pemegang Ekor Ikan ................................. 44
+Rajah 32 - Pengendalian Penyambung ROV ..................................................................................... 45
+Rajah 33 - Penunjuk jajaran visual pada palam dan bekas (penyambung bersalut) ......................... 46
+Rajah 34 - Alur kunci jajaran fizikal berbanding dengan penunjuk visual (penyambung tidak
+bersalut) 47
+Rajah 35 - Tolakan Akhir dengan rahang terbuka ............................................................................. 47
+Rajah 36 - Penunjuk Jajaran (Penyambung dengan Mekanisme Penguncian) .................................. 48
+Rajah 37 - Pemeriksaan Penyambungan - Disambung Sepenuhnya. (NB: Jurang Kecil antara Bebibir)
+48
+Rajah 38 - Pemeriksaan Penyambungan - Mekanisme Penguncian Dipasang. ................................. 49
+Rajah 39 - Mekanisme Penguncian Ditanggalkan ............................................................................. 51
+Rajah 40 - Sambung dengan menggunakan Pemegang ROV............................................................. 53
+Rajah 41 - Periksa Penyambung Disambungkan ............................................................................... 53
+Rajah 42 - Titik Sambungan Abah-Abah Ujian Berekor ..................................................................... 56
+Rajah 43 - Penunjuk Jajaran (Penyambung Ujian di Bahagian Atas) ................................................. 56
+Rajah 44 - Bekas Ujian SpecTRON 8 dengan kolar, stad dan nat ....................................................... 57
+Rajah 45 – Komponen Bekas untuk pengeringan dan pembersihan ................................................. 64
+Rajah 46 – Tip Pin Bekas ................................................................................................................... 64
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 6daripada 69
+Unrestricted
+Rajah 47 - Kawasan sentuhan pin bekas seperti yang dibekalkan .................................................... 64
+Rajah 48 – Lokasi Pencucian Kuasa Palam SpecTRON 8 .................................................................... 65
+Rajah 49 – Lokasi Pencucian Kuasa Bekas SpecTRON 8 .................................................................... 66
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 7daripada 69
+Unrestricted
+1 SKOP PRODUK
+Manual ini termasuk maklumat tentang jenis penyambung SpecTRON 8 berikut:
+-Palam Sambungan Basah ROV SpecTRON 8
+-Penyangga Sambungan Basah ROV SpecTRON 8
+-Palam Sambungan Basah Stab SpecTRON 8
+-Penyangga Sambungan Basah Stab SpecTRON 8
+-Penembus SpecTRON 8
+-Penembus Berganda SpecTRON 8
+-Suap Lalu Tunggal SpecTRON 8
+oPenembus dan Palam Tree Cap
+oPenyangga Penyangkut Tiub
+-Suap Lalu Berganda SpecTRON 8
+oPenembus dan Palam Tree Cap
+oPenyangga Penyangkut Tiub
+-Penyambung Tiruan ROV SpecTRON 8
+-Penyangga Parkir ROV SpecTRON 8
+1.1 Pensijilan Produk
+Standard Penerangan
+IEC/IEEE 61886-1 Peralatan dasar laut – Bahagian 1: Penyambung kuasa, penembus dan
+pemasangan pelompat dengan voltan terkadar daripada 3 kV (U maks = 3,6 kV)
+hingga 30 kV (U maks= 36 kV)
+Nota: Untuk maklumat lanjut, lihat 'ERP untuk pematuhan SpecTRON 8 terhadap IEC/IEEE 61886-1'
+(dokumen Siemens Energy 10154569) dan 'Buletin Produk untuk Pelaksanaan SpecTRON IEC 61886-1'
+(dokumen Siemens Energy 10225662).
+Jadual 1 – Standard Berkenaan Produk SpecTRON 8
+1.2 Maklumat perhubungan
+Untuk maklumat lanjut atau pertanyaan tentang produk, sila layari laman web Siemens Energy
+www.siemens-energy.com/subsea atau hubungi yang berikut:
+Jabatan Alamat e-mel
+Pegawai Keselamatan Produk subsea.connectors.productsafety.gb@siemens-energy.com
+Sokongan Teknikal connectortechnicalsupport.gb@siemens-energy.com
+Perkhidmatan (Pasukan Tapak) susultlcmsupport.gb@siemens-energy.com
+Jualan connectorsales.gb@siemens-energy.com
+Jadual 2 – Maklumat Perhubungan
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 8daripada 69
+Unrestricted
+1.3 Label peringatan produk
+Label peringatan produk berikut dibekalkan dengan semua produk dasar laut Siemens Energy.
+Rajah 1 – Label Peringatan Produk
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 9daripada 69
+Unrestricted
+1.4 Penandaan produk
+1.4.1 Penyambung dan Penembus
+Rajah 2 – Contoh Goresan untuk Produk SpecTRON 8
+Penyambung dan penembus Siemens Energy Subsea SpecTRON 8 ditandakan dengan laser pada badan
+sesendal dengan nombor bahagian, nombor siri unik, dan maklumat penilaian produk Siemens Energy
+Subsea. Selain itu, bahagian depan penyambung juga ditandakan dengan nombor bahagian dan nombor siri
+yang unik untuk membantu kebolehkesanan semasa pengeluaran.
+1.4.2 Abah-abah
+Abah-abah juga ditanda dengan nombor bahagian Siemens Energy Subsea dan nombor siri unik seperti yang
+ditunjukkan dalam Rajah 3. Maklumat khusus pelanggan dan projek juga biasanya ditambahkan pada label
+ini. Label biasanya teks hitam pada latar belakang kuning di bawah susut haba yang jelas. Biasanya, label
+diletakkan di setiap hujung abah-abah dan secara berpusat.
+Rajah 3 - Contoh penandaan abah-abah
+1.5 Label/penandaan CE
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 10daripada 69
+Unrestricted
+SpecTRON 8 dikecualikan daripada sebarang keperluan semasa untuk penandaan CE. Siemens Energy terus
+memantau keperluan Eropah dan Antarabangsa untuk kebolehgunaan kepada rangkaian produk SpecTRON
+8.
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 11daripada 69
+Unrestricted
+2 KESELAMATAN PRODUK
+Siemens Energy Subsea mengesyorkan penamatan semua peralatan hanya boleh dilakukan oleh kakitangan
+yang terlatih, berkelayakan sesuai dan berpengalaman (SQEP), iaitu orang yang kompeten.
+2.1 Amaran berkaitan tindakan
+Klasifikasi amaran berkaitan tindakan
+Amaran berkaitan tindakan diklasifikasikan mengikut keterukan bahaya yang mungkin menggunakan tanda
+amaran dan kata isyarat berikut:
+Simbol amaran dan kata isyarat
+Bahaya!
+Bahaya yang akan menjejaskan nyawa atau risiko kecederaan diri yang teruk
+Bahaya!
+Risiko kematian akibat renjatan elektrik
+Amaran.
+Risiko kecederaan diri yang ringan
+Awas.
+Risiko kerosakan bahan atau alam sekitar
+2.2 Penggunaan yang dimaksudkan
+Selepas pemasangan, pentauliahan dan pengaturan produk, sila lengkapkan dan kembalikan borang
+Komen/Maklum Balas Pelanggan (Bahagian 9). Sila hantar borang yang lengkap kepada Pegawai Keselamatan
+Produk melalui e-mel di subsea.connectors.productsafety.gb@siemens-energy.com .
+Terdapat risiko kecederaan atau kematian pada pengguna atau orang lain, atau kerosakan pada produk dan
+harta benda lain sekiranya berlaku penggunaan yang tidak sesuai atau penggunaan yang tidak dimaksudkan.
+Produk ini bertujuan sebagai penyambung elektrik voltan tinggi dasar laut, untuk digunakan oleh kakitangan
+terlatih yang sesuai dalam aplikasi industri sahaja.
+Penggunaan yang dimaksudkan termasuk yang berikut:
+-pematuhan arahan pemasangan dan operasi termasuk untuk produk dan mana-mana komponen sistem
+lain.
+-pematuhan kepada semua syarat pemeriksaan dan penyelenggaraan yang disenaraikan dalam arahan.
+-Penggunaan semua alat yang disyorkan sesuai untuk tugas tertentu.
+-Semua aktiviti hendaklah dilakukan oleh orang yang kompeten (lihat 2.3.1 untuk mendapatkan takrifan).
+Sebarang penggunaan lain yang tidak dinyatakan dalam dokumen ini atau dirangkumi dalam arahan
+pemasangan dan operasi, atau selain daripada yang dinyatakan dalam dokumen ini adalah dianggap sebagai
+penggunaan yang tidak wajar.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 12daripada 69
+Unrestricted
+2.3 Maklumat keselamatan am
+2.3.1 Pemasangan oleh orang yang kompeten sahaja
+Pemasangan, pemeriksaan, penyelenggaraan dan pembaikan produk hendaklah dilakukan oleh kakitangan
+yang terlatih, berkelayakan sesuai dan berpengalaman (SQEP), iaitu orang yang kompeten, untuk
+menjalankan aktiviti yang ditentukan. Pemasangan, pemeriksaan, penyelenggaraan dan pembaikan produk
+oleh orang yang tidak terlatih dan dianggap tidak kompeten boleh membatalkan waranti produk.
+Untuk mendapatkan maklumat lanjut, sila hubungi Perkhidmatan (Pasukan Tapak)
+susultlcmsupport.gb@siemens-energy.com .
+2.3.2 Bahaya yang disebabkan oleh operasi yang tidak wajar dan penyalahgunaan yang
+boleh dijangka
+Operasi yang tidak wajar dan penyalahgunaan yang boleh dijangka boleh mendatangkan bahaya kepada anda
+dan orang lain dan menyebabkan kerosakan bahan. Baca dengan teliti arahan yang disertakan dan semua
+dokumen lain yang berkenaan, terutamanya bahagian "Keselamatan" dan amaran.
+Bahaya!  Risiko kematian akibat renjatan elektrik jika pengguna membuka/salah memasang
+semula/salah menamatkan semula produk (penyalahgunaan yang boleh dijangka).
+-Aktiviti penyelenggaraan, nyahpasang, pemasangan semula dan penamatan hanya boleh
+dilakukan oleh orang yang kompeten.
+Bahaya!  Risiko kematian akibat renjatan elektrik jika pin ulang-alik ditekan, contohnya dengan
+pemutar skru apabila palam hidup.
+-Aktiviti penyelenggaraan dan ujian hanya boleh dilakukan oleh orang yang kompeten.
+-Alat yang betul hendaklah sentiasa digunakan.
+Bahaya! Risiko yang akan membahayakan nyawa atau risiko kecederaan diri yang teruk
+disebabkan oleh peluncur pin ulang-alik kerana kerosakan yang disebabkan pada pin ulang-alik,
+contohnya dengan pemutar skru (penyalahgunaan yang boleh dijangka).
+-Aktiviti penyelenggaraan dan ujian hanya boleh dilakukan oleh orang yang kompeten.
+-Alat yang betul hendaklah sentiasa digunakan.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 13daripada 69
+Unrestricted
+2.3.3 Risiko kematian akibat renjatan elektrik
+Bahaya! Risiko kematian akibat renjatan elektrik kerana pin hidup yang terdedah, contohnya ujian
+sistem kilang atau bahagian atas dan penyangga yang tidak disambungkan dan diberikan tenaga,
+contohnya oleh penyelam dasar laut.
+-Pastikan semua prosedur ujian dipatuhi.
+-Penyangga mesti disambungkan dengan sambungan basah atau palam ujian sebelum
+diberikan tenaga
+-Saluran komunikasi dan protokol dipatuhi.
+Bahaya! Risiko kematian akibat renjatan elektrik daripada sebarang konduktor yang terdedah
+disebabkan tenaga elektrik yang tersimpan, contohnya kapasitans kabel atau di tempat lain dalam
+sistem.
+-Pastikan semua prosedur dipatuhi.
+-Berikan masa yang mencukupi untuk membuang item selepas ujian
+Bahaya! Risiko kematian akibat renjatan elektrik daripada penyambung ujian. Bahagian hidup
+boleh terdedah dengan nyahpasang tanpa alat (cth. sarung penamatan boleh diakses dan boleh
+ditanggalkan). Selain itu, konduktor kabel terdedah pada hujung bebas penyambung ujian, dan
+kabel tidak ditapis dalam beberapa penamatan.
+-Pastikan semua prosedur ujian dipatuhi.
+-Penyangga mesti disambungkan dengan sambungan basah atau palam ujian sebelum
+diberikan tenaga
+-Saluran komunikasi dan protokol mesti dipatuhi.
+Bahaya! Risiko kematian akibat renjatan elektrik, jika produk ditamatkan dengan salah oleh pihak
+ke-3  contohnya konduktor yang longgar menyentuh kotak logam atau wayar hidup ditamatkan ke
+badan logam disebabkan kesilapan.
+-Aktiviti pemasangan/penamatan hendaklah dilakukan oleh orang yang kompeten
+Bahaya! Risiko kematian akibat renjatan elektrik disebabkan oleh badan logam penyambung yang
+tidak dibumikan semasa ujian dan penyambung yang mempunyai kerosakan pembumian
+(contohnya, konduktor menyentuh kerja logam) semasa ujian elektrik.
+-Memastikan semua ujian produk baik di kilang mahupun di lapangan telah dilengkapkan oleh
+orang yang kompeten.
+Bahaya! Risiko kematian akibat renjatan elektrik atau kecederaan diri yang teruk akibat melecur
+disebabkan pembukaan sambungan konduktor hidup dengan tangan.
+-Pastikan semua prosedur dipatuhi untuk menyambung/membuka sambungan penyambung.
+2.3.4 Risiko kecederaan dan kerosakan bahan akibat penyelenggaraan dan pembaikan yang
+dilakukan dengan cara yang tidak betul atau tidak dilakukan sama sekali
+Kerja penyelenggaraan atau pembaikan pada produk hanya perlu dilakukan oleh orang yang kompeten.
+Sebarang kerosakan hendaklah dibaiki oleh orang yang kompeten dengan segera. Mematuhi selang
+penyelenggaraan yang ditetapkan.
+Bahaya! Risiko yang akan membahayakan nyawa atau risiko kecederaan diri yang teruk akibat
+kebakaran dan kerosakan bahan disebabkan oleh pemanasan ohm dalam keadaan litar pintas atau
+arus yang tinggi.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 14daripada 69
+Unrestricted
+-Memastikan semua ujian produk baik di kilang mahupun di lapangan telah dilengkapkan oleh
+orang yang kompeten.
+Bahaya! Risiko yang akan membahayakan nyawa atau risiko kecederaan diri yang teruk
+disebabkan oleh tekanan yang dikeluarkan dan atau peluncuran yang disebabkan oleh produk
+penahan tekanan yang tidak dipasang dengan betul, contohnya semasa ujian tekanan sistem (cth.
+penembus SpecTRON 8 dilengkapi dengan skru atau kedap yang salah/tidak mencukupi).
+-Memastikan semua aktiviti pemasangan dan ujian produk diselesaikan oleh orang yang
+kompeten.
+Bahaya! Risiko yang akan membahayakan nyawa atau risiko kecederaan diri yang teruk kepada
+orang yang mempunyai perentak jantung atau defibrilator kardioverter boleh implan (ICDS)
+daripada gangguan elektromagnet (EMI), contohnya ujian frekuensi tinggi dengan arus beban yang
+besar.
+-Memastikan semua pengujian produk di kilang dan bahagian atas tidak dilakukan oleh atau di
+hadapan orang yang mempunyai perentak jantung atau ICDS.
+Bahaya! Risiko kecederaan mata yang teruk disebabkan minyak bertekanan terpancut keluar
+daripada hos yang rosak atau ketiadaan skru pengisi/lubang.
+Memastikan semua ujian produk baik di kilang mahupun di lapangan telah dilengkapkan oleh
+orang yang kompeten.
+Amaran. Risiko kecederaan mata/anggota badan disebabkan oleh tekanan yang dilepaskan
+semasa nyahpasang produk, sekiranya pengambilan produk dari dasar laut yang mengalami
+kerosakan lalu menyebabkan tekanan kedalaman terperangkap di dalam produk.
+-Memastikan semua aktiviti nyahpasang produk dilakukan oleh orang yang kompeten
+mengikut prosedur yang berkaitan dan menggunakan peralatan perlindungan peribadi yang
+berkaitan (PPE).
+Amaran. Risiko kecederaan anggota badan disebabkan oleh bahagian penahan tekanan menjadi
+peluncur disebabkan pengguna mengenakan tekanan yang berlebihan terhadap sistem,
+contohnya semasa Ujian Pemasangan Tapak (SIT).
+-Memastikan semua aktiviti SIT produk dilakukan oleh orang yang kompeten mengikut
+prosedur yang berkaitan.
+-Semua ujian tekanan produk SpecTRON 8 hendaklah dilakukan oleh orang yang kompeten.
+-Pemasangan penembus SpecTRON 8, dan penyambung dinding sekatan hendaklah dilakukan
+oleh orang yang kompeten.
+2.3.5 Risiko kecederaan dan kerosakan bahan disebabkan pengendalian secara manual
+Mengendali, mengangkat dan membawa secara manual diketahui sebagai salah satu penyumbang terbesar
+terhadap kesihatan pekerja. Memastikan alat bantu pengendalian mekanikal digunakan sebaik mungkin
+untuk mengelakkan pengendalian secara manual. Sekiranya pengendalian secara manual dianggap sesuai
+untuk sesuatu tugas, panduan mengangkat yang selamat hendaklah diikuti, contohnya menggunakan postur
+badan yang betul, pertimbangkan untuk mengangkat secara berpasukan, menggunakan teknik mengangkat
+yang selamat, dll. Hanya orang yang kompeten dibenarkan melakukan tugas tanpa pengawasan, sila tanya
+jika ada keraguan.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 15daripada 69
+Unrestricted
+Amaran. Risiko kecederaan rangka otot akibat menyambung penyambung menggunakan tangan
+dengan daya sambung/buka sambung yang tinggi dan/atau penyambung terbakar dengan cepat
+semasa buka sambungan kerana daya spring shuttle yang tinggi, contohnya ujian di
+kilang/bahagian atas.
+-Memastikan semua aktiviti ujian produk dilakukan oleh orang yang kompeten mengikut
+prosedur yang berkaitan.
+-Memastikan alat bantu pengendalian mekanikal digunakan sebaik mungkin untuk
+mengelakkan pengendalian secara manual.
+-Sekiranya pengendalian secara manual dianggap sesuai untuk sesuatu tugas, garis panduan
+mengangkat yang selamat hendaklah diikuti, contohnya menggunakan postur badan yang
+betul, mempertimbangkan untuk mengangkat secara berpasukan, menggunakan teknik
+mengangkat yang selamat, dll.
+Amaran. Risiko kecederaan rangka otot akibat pengendalian produk berat secara manual.
+-Memastikan alat bantu pengendalian mekanikal digunakan sebaik mungkin untuk
+mengelakkan pengendalian secara manual.
+-Sekiranya pengendalian secara manual dianggap sesuai untuk sesuatu tugas, garis panduan
+mengangkat yang selamat hendaklah diikuti, contohnya menggunakan postur badan yang
+betul, mempertimbangkan untuk mengangkat secara berpasukan, menggunakan teknik
+mengangkat yang selamat, dll.
+-Hanya orang yang kompeten dibenarkan untuk melaksanakan tugas-tugas tanpa pengawasan,
+jika terdapat keraguan, sila tanya.
+Amaran. Risiko kecederaan anggota badan akibat produk berat yang jatuh semasa mengangkat
+dengan jentera.
+-Memastikan jentera/anduh yang digunakan telah diuji dan masih belum tamat tempoh.
+-Garis panduan mengangkat dengan selamat hendaklah dipatuhi, contohnya pelan
+mengangkat, banksman, dll.
+-Titik angkat yang betul mesti dikenal pasti dan digunakan.
+-Hanya orang yang kompeten dibenarkan untuk melaksanakan tugas-tugas tanpa pengawasan,
+jika terdapat keraguan, sila tanya.
+Amaran. Risiko kecederaan diri yang ringan kepada orang yang sensitif terhadap minyak
+berasaskan mineral, silikon atau ester sintetik.
+-Memakai pelindung tangan yang sesuai semasa mengendalikan produk, mineral, silikon atau
+minyak berasaskan ester sintetik.
+Amaran. Risiko kecederaan diri yang ringan dan kerosakan bahan akibat tergelincir, tersadung dan
+terjatuh.
+-Pengemasan yang baik mengelakkan daripada tergelincir, tersadung dan terjatuh,
+memastikan semua kawasan kerja sentiasa bersih dan kemas.
+2.4 Dokumen berkaitan
+Pemasang hendaklah melaksanakan penilaian risiko tapak sepenuhnya dan melaksanakan semua langkah
+dan prosedur yang diperlukan untuk mematuhi undang-undang kesihatan dan keselamatan kawasan,
+wilayah, kebangsaan dan antarabangsa yang berkenaan, contohnya Akta Kesihatan dan Keselamatan di
+Tempat Kerja (HASAWA) di United Kingdom (UK) dan memastikan keselamatan diri dan orang lain terhadap
+keperluan pengendalian secara manual dan bekerja di tempat yang tinggi.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 16daripada 69
+Unrestricted
+Semasa pemasangan produk (dan apa-apa kerja berikutnya), kerja hendaklah dilakukan dengan penuh
+berhati-hati. Semua pemasang dan pengusaha yang terlibat, daripada memunggah produk sehingga produk
+diatur di lokasi pemasangan terakhir, mesti melaksanakan tugas sepenuhnya untuk menjaga keselamatan
+diri dan orang lain. Apabila mengangkat dan mengendalikan produk ini, pengusaha perlu mendapatkan
+bantuan jika diperlukan. Dalam situasi tertentu, penggunaan alat bantu pengendalian mekanikal mungkin
+diperlukan. Hendaklah berhati-hati untuk mengelakkan bahaya tersadung, tergelincir atau permukaan yang
+basah.
+Majikan dan pemasang perlu merujuk kepada laman web Eksekutif Kesihatan dan Keselamatan (HSE) di UK
+untuk mendapatkan nasihat penuh dan alat carta penilaian pengendalian manual (MAC).
+Di samping itu, jika tiada arahan khusus diberikan, maka rujukan hendaklah dibuat, tetapi tidak terhad
+kepada, jika berkenaan, Standard British dan kod amalan seperti berikut:
+-Akta Kesihatan dan Keselamatan di Tempat Kerja.
+-COSHH Kawalan bahan berbahaya kepada kesihatan.
+-BS 7671 Keperluan untuk pemasangan elektrik. IEE Peraturan Pendawaian.
+-Peraturan Elektrik di Tempat Kerja.
+Operator dan pemasang bertanggungjawab untuk mematuhi undang-undang kesihatan dan keselamatan
+Syarikat, kawasan, wilayah, kebangsaan dan antarabangsa semasa.
+Selepas pemasangan, pentauliahan dan pengaturan produk, sila lengkapkan dan kembalikan borang
+Komen/Maklum Balas Pelanggan (Bahagian 9). Sila hantar borang yang lengkap kepada Pegawai Keselamatan
+Produk melalui e-mel di subsea.connectors.productsafety.gb@siemens-energy.com .
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 17daripada 69
+Unrestricted
+3 SINGKATAN
+A Ampere
+ac Arus Ulang Alik
+Assy Pemasangan
+API Institut Petroleum Amerika
+AWG Tolok Dawai Amerika
+BOM Bil Bahan
+°C Darjah Celsius
+CE Komuniti Eropah
+Comms Isyarat Komunikasi
+COSHH Kawalan bahan berbahaya kepada kesihatan
+CP Perlindungan Katod
+dc Arus Terus
+DWG Lukisan
+EFL Plumbum Terbang Elektrik
+EMF Medan Magnet Elektrik
+EMI Gangguan Elektromagnet
+FAT Ujian Penerimaan Kilang
+IR Rintangan Penebat
+ICDS Defibrilator Kardioverter Boleh Implan
+ISO Pertubuhan Pemiawaian Antarabangsa
+ITP Pelan Ujian Pemeriksaan
+IWIS Piawaian Antara Muka Telaga Pintar
+K Kelvin
+LTC Penutup Jangka Panjang
+M Meter
+Max. Maksimum
+MFG Pengeluar
+Min. Minimum
+NACE Persatuan Jurutera Kakisan Kebangsaan
+No. Nombor
+PPE Peralatan Perlindungan Peribadi
+ROV Kenderaan Dikendalikan Dari Jauh
+SI Standard Antarabangsa
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 18daripada 69
+Unrestricted
+SIT Ujian Pemasangan Tapak
+SRT Ujian Diterima Tapak
+SST Keluli Tahan Karat
+TBD Untuk Ditakrifkan
+TSP Pasangan Skrin Berpusing
+UNS Sistem Penomboran Bersepadu untuk Logam dan Aloi
+V Volt
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 19daripada 69
+Unrestricted
+4 SPESIFIKASI DAN BAHAYA SISA
+Berikut ialah spesifikasi biasa untuk penyambung SpecTRON 8 dengan kabel pelompat yang ditawarkan oleh
+Siemens Energy dan akan berbeza untuk penyambung yang ditamatkan kepada teras kuasa umbilikal atau
+pengalir liut dalaman, dan dalam situasi lain. Untuk mendapatkan maklumat khusus penyambung, sila rujuk
+lembaran data khusus produk. Dokumen ini boleh didapati melalui laman web Siemens Subsea
+www.siemens-energy.com/subsea atau Sokongan Teknikal Siemens Subsea Connectors
+connectortechnicalsupport.gb@siemens-energy.com .
+4.1 Spesifikasi Umum Penyambung
+Nilai Unit
+Reka Bentuk Hayat 30 tahun
+Bilangan cara / fasa 3 -
+Kedalaman Air Maksimum 3 000 m
+Tekanan Kebezaan Maksimum (Penembus) 345 bar
+Tekanan Perbezaan Maksimum (Penyangga Dinding
+Sekatan)15 bar
+Suhu Operasi -5 hingga 20 °C
+Suhu Penyimpanan -30 hingga 60 °C
+Bilangan Sambungan (Pasangan Sambungan Basah) 100 -
+Voltan Terkadar 5/8.7(10) kV
+Arus Terkadar Lihat Graf -
+Frekuensi Berkadar 5 – 200 Hz
+Jadual 3 - Spesifikasi Umum Penyambung SpecTRON 8
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 20daripada 69
+Unrestricted
+Rajah 4 – Kadar Arus SpecTRON 8
+4.2 Keupayaan salah jajaran penyambung stab sambungan basah
+Jadual di bawah meringkaskan keupayaan salah jajaran maksimum penyambung sambungan basah stab
+SpecTRON 8. Untuk mendapatkan butiran penuh, rujuk kepada lukisan Siemens Energy T33259. Untuk
+keupayaan salah jajaran penyambung sambungan basah ROV, palam dan penyambung penyangkut tiub tree-
+cap, sila hubungi Sokongan Teknikal Siemens Energy Subsea Connectors
+connectortechnicalsupport.gb@siemens-energy.com .
+Sambungan
+StabUnit
+Salah Jajaran Sudut Maksimum (Tiada jejari atau putaran) 2 °
+Salah Jajaran Jejari Maksimum (Tiada sudut atau putaran) 3 mm
+Salah Jajaran Putaran Maksimum (Tiada jejari atau sudut) 3 °
+Strok kurang/lebih (Tidak bergantung pada salah jajaran lain) ± 1.5 mm
+Jadual 4 – Keupayaan Salah Jajaran Penyambung Stab SpecTRON 8
+Frekuensi (Hz)
+Arus Terkadar (A)
+0 °C Air Laut Ambien
+10 °C Air Laut Ambien
+20 °C Air Laut Ambien
+30 °C Air Laut Ambien
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 21daripada 69
+Unrestricted
+4.3 Spesifikasi Hos
+AquaTRON 200 Gorilla AquaTRON 50 Unit
+Diameter Luar 64.6 +4 / -2.8 51.8 25.2 ± 0.6 mm mm
+Jejari Bengkok Minimum 375 250 125 mm
+Julat Suhu Penyimpanan -40 hingga + 70 -25 hingga + 70 -40 hingga + 70 °C
+Suhu Manipulasi Min. -25 -25 -25 °C
+Beban Sangkut Maksimum 5 2.5 5 kN
+Berat di udara 4.8 3.2 0.66 kg/m
+Berat dalam air 1.45 1 0.14 kg/m
+Panjang Maksimum tanpa
+pengganding45 N/A 80 m
+Berat Pengganding Hos di udara 3.8 N/A 0.87 kg
+Berat Pengganding Hos dalam air 3.2 N/A 0.69 kg
+Jadual 5 - Spesifikasi Hos SpecTRON 8
+4.4 Spesifikasi Kabel
+4 mm²
+(Isyarat Kembali)16 mm²
+(Siwokul)16 mm²
+(S1U10510150) Unit
+Voltan Terkadar (U o/U(U m)) 013,6/6(7,2) 3,6/6(7,2) kVac
+Voltan Ujian AC Maksimum ke Bumi 019 9 kVac
+Voltan Ujian DC Maksimum ke Bumi 015 5 kVdc
+Diameter Luar 8.95 ± 0.2 11.25 ± 0.3 10,9 ±0.4 mm
+CSA Skrin N/A N/A N/A mm²
+Jejari Bengkok Minimum 55 61.8 75 mm
+Julat Suhu Penyimpanan -40 hingga + 70 -40 hingga + 70 -40 hingga + 70 °C
+Suhu Manipulasi Minimum -25 -25 -25 °C
+Berat di udara 0.11 0.23 0.29 kg/m
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 22daripada 69
+Unrestricted
+4 mm²
+(Isyarat Kembali)16 mm²
+(Siwokul)16 mm²
+(S1U10510150) Unit
+Berat dalam air 0.04 0.13 0.20 kg/m
+Rintangan @ 20 °C 13 1.24 1.24 mΩ/m
+1 Kabel ditebat dengan U o = 6.6 kV, tetapi disambungkan ke badan logam penyambung secara langsung
+Jadual 6 - Spesifikasi Kabel SpecTRON 8 (4 – 16 mm persegi)
+35 mm²
+(Sp. Siwokul)35 mm²
+(S1U10510151)35 mm²
+(Feltoflex) Unit
+Voltan Terkadar (U o/U(U m)) 5/8.7(10) 5/8.7(10) 5/8.7(10) kVac
+Voltan Ujian AC Maksimum ke Bumi 12.5 12.5 12.5 kVac
+Voltan Ujian DC Maksimum ke Bumi 5 5 5 kVdc
+Diameter Luar 18.10 ± 0.4 16.0 ± 0.2 24.5 mm
+CSA Skrin N/A N/A 16 mm²
+Jejari Bengkok Minimum 110 110 125 mm
+Julat Suhu Penyimpanan -40 hingga + 70 -40 hingga + 70 -40 hingga + 70 °C
+Suhu Manipulasi Minimum -25 -25 -25 °C
+Berat di udara 0.55 0.63 1.04 kg/m
+Berat dalam air 0.29 0.43 0.56 kg/m
+Rintangan @ 20 °C 0,565 0,565 0,565 mΩ/m
+Jadual 7 - Spesifikasi Kabel SpecTRON 8 (35 mm persegi)
+4.5 Spesifikasi lain
+Untuk semua spesifikasi lain yang tidak termasuk dalam jadual di atas, rujuk lembaran data khusus
+produk/projek, atau hubungi Sokongan Teknikal connectortechnicalsupport.gb@Siemens-energy.com .
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 23daripada 69
+Unrestricted
+4.6 Alam sekitar, pelupusan dan kitar semula
+Pelupusan selamat atau kitar semula pembungkusan sisa dan/atau produk akhir hayat adalah disyorkan
+dengan memerhati dan mematuhi undang-undang alam sekitar kawasan, wilayah, kebangsaan atau
+antarabangsa yang berkenaan dengan betul.
+Untuk mengembalikan pembungkusan sisa dan/atau produk akhir hayat kepada pengeluar, sila hubungi
+Pegawai Keselamatan Produk di subsea.connectors.productsafety.gb@siemens-energy.com .
+Penilaian Bahan berbahaya, Kawalan bahan berbahaya kepada kesihatan (COSHH) berkenaan dengan bahan
+seperti elastomer dan minyak, dll. yang digunakan dalam produk SpecTRON 8 boleh didapati atas permintaan
+daripada Pegawai Keselamatan Produk di subsea.connectors.productsafety.gb@siemens-energy.com .
+4.7 Peralatan perlindungan peribadi (PPE)
+Peralatan Perlindungan Peribadi (PPE) ditakrifkan secara sah sebagai 'semua peralatan (termasuk pakaian
+yang mampu memberikan perlindungan terhadap cuaca) yang bertujuan untuk dipakai atau dipegang oleh
+seseorang di tempat kerja dan yang melindungi pengguna daripada satu atau lebih risiko terhadap kesihatan
+atau keselamatan mereka'.
+Dalam hierarki kawalan risiko, PPE dianggap berada di peringkat terendah dan merupakan pilihan terakhir.
+PPE hanya sesuai apabila bahaya yang dimaksudkan tidak dapat dihilangkan sepenuhnya atau dikendalikan
+sedemikian rupa sehingga bahaya tidak mungkin terjadi (misalnya dengan mengasingkan bahaya atau
+mengurangkan risiko pada sumber sehingga ke tahap yang boleh diterima).
+Semua kakitangan dan pengendali syarikat hendaklah memakai Peralatan Perlindungan Peribadi (PPE) yang
+sesuai yang ditakrifkan sebagai hasil daripada penilaian risiko yang berkaitan selaras dengan Peraturan
+Peralatan Perlindungan Peribadi (PPE).
+Amaran. Risiko kecederaan diri yang ringan kepada orang yang sensitif terhadap minyak berasaskan
+mineral dan silikon.
+-Memakai pelindung tangan yang sesuai semasa mengendalikan produk, minyak berasaskan
+mineral, silikon atau ester sintetik.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 24daripada 69
+Unrestricted
+5 MENYEDIAKAN PRODUK UNTUK DIGUNAKAN
+5.1 Langkah-langkah keselamatan sebelum pemasangan
+Produk SpecTRON 8 dihasilkan terutamanya daripada keluli tahan karat Super Duplex, dan direka untuk
+menahan persekitaran yang sukar dan mencabar. Walau bagaimanapun, sisipan penyambung dan bahagian
+yang terdedah mudah mengalami kerosakan mekanikal jika tidak dilindungi.
+Awas.  Risiko kerosakan bahan.
+Penutup habuk/pelindung hendaklah sentiasa dipasang semasa pengangkutan.
+Disyorkan agar penutup kekal di tempatnya sehingga sejurus sebelum aktiviti ujian atau
+pengaturan di dasar laut.
+Penyambung boleh dihantar secara tunggal atau secara berbilang. Langkah berjaga-jaga hendaklah diambil
+untuk melindungi penyambung dengan pembalut gelembung atau bahan pembalut yang serupa bagi
+mengelakkan kerosakan permukaan semasa transit. Sekiranya jumlah yang besar dihantar dalam satu
+kiriman, kotak yang bertetulang sesuai diperlukan untuk menampung berat. Penutup pelindung mesti
+dipasang pada setiap masa semasa pengangkutan.
+Penyambung jenis dinding sekatan dengan wayar berekor terdedah perlu dibungkus dan dihantar dalam peti
+pembungkusan bersaiz sesuai untuk membolehkan ruang yang mencukupi untuk wayar berekor tanpa
+bengkok atau berpintal.
+Sekiranya penyambung dipasang ke hos, alat ini mesti digulung dengan betul dan dilekatkan dengan pita
+untuk mengelakkan gulungan terbuka semasa transit. Jejari selekoh minimum yang dinyatakan dalam
+bahagian 4.3 hendaklah dikekalkan semasa penyimpanan dan pengangkutan pelompat.
+Rajah 5 – pembungkusan tipikal abah-abah SpecTRON 8
+Rajah 5 menunjukkan cara abah-abah SpecTRON 8 tipikal dibungkus. Penyambung pada kedua-dua hujung
+abah-abah mempunyai penutup pengangkutan yang dipasang dan dikelilingi dalam pembalut gelembung.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 25daripada 69
+Unrestricted
+Dasar peti penghantaran dilapisi dengan pembungkus pelindung dan abah-abah diletakkan supaya hos boleh
+dililit tanpa berpintal. Sebarang barang longgar diletakkan di dalam kotak di dalam peti. Kemudian,
+pembungkus pelindung diletakkan di atas abah-abah dan diikat pada tempatnya dengan baton kayu, sebelum
+penutup peti itu ditutup.
+Rajah 6 menunjukkan jenis pembungkusan yang dibeli secara pilihan yang berbeza yang membekalkan
+abah-abah. Peti ini dihasilkan daripada plastik polietilena dan tahan habuk, minyak, kimia dan air. Kedua-
+dua hujung penyambung mempunyai penutup pengangkutan dan akan diletakkan dalam sisipan busa yang
+bersaiz penyambung. Sebarang barang longgar akan diletakkan di dalam kotak di dalam peti.
+Rajah 6 – Pembungkusan plastik polietilena pilihan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 26daripada 69
+Unrestricted
+5.2 Nyahpembungkusan
+Penyambung direka untuk menahan getaran yang berlaku semasa pengangkutan dan untuk menahan
+daripada jatuh dari ketinggian 1 m semasa dalam pembungkusan. Walaupun begitu, kerosakan mungkin
+masih berlaku semasa pengangkutan, dan penting untuk mendokumentasikan sebarang tanda jelas salah
+pengendalian atau kerosakan yang mungkin berlaku semasa transit.
+Tanggalkan bahan pembalut dengan berhati-hati dan periksa jika terdapat sebarang kerosakan permukaan
+atau item yang mungkin tertanggal daripada penyambung, seperti kedap 'O'.
+Awas.  Risiko kerosakan bahan.
+-Jangan gunakan pisau untuk memotong bahan pembalut kerana ia boleh menyebabkan
+kerosakan pada mana-mana bahagian elastomer penyambung.
+-Jangan tanggalkan penutup habuk/pelindung sehingga penyambung sedia untuk dipasang.
+-Semasa membuka, jangan benarkan hos untuk menyeret di bahagian tepi kotak
+pengangkutan.
+5.2.1 Penutup pelindung
+Semua Penyambung/Penembus SpecTRON 8 didatangkan dengan penutup pelindung. Ini sama ada boleh
+menjadi penutup habuk atau penutup pelindung. Penutup habuk (biasanya berwarna kuning) boleh
+ditanggalkan dengan memutar atau menarik penutup. Penutup pelindung (biasanya berwarna hitam) boleh
+ditanggalkan seperti yang diperincikan di bawah.
+Penutup Palam ROV
+Penutup Palam ROV diselak pada penyambung Palam melalui mekanisme selak penyambung. Untuk
+menanggalkan penutup, disyorkan agar operator meletakkan Palam secara menegak pada penutup, berdiri
+pada bebibir penutup dan menarik pada pemegang ROV penyambung Palam. Ini akan menanggalkan
+mekanisme selak Palam. Jangan cuba tarik penutup terus daripada palam kerana ini boleh merosakkan
+mekanisme selak Palam. Gunakan kaedah yang sama apabila memasang dan menanggalkan penutup palam
+ROV pada penyambung Palam dengan mekanisme penguncian.
+Tarik Pemegang
+ROV
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 27daripada 69
+Unrestricted
+Rajah 7 – Penutup Palam ROV
+Penutup Palam boleh dipasang semula dengan hanya menolak penutup semula ke muncung palam sehingga
+mekanisme selak palam terpasang.
+Penutup Penyangga ROV
+Penutup Bekas ROV boleh ditanggalkan dengan menarik penutup. Memasang semula Penutup bekas boleh
+dilakukan dengan hanya menolak penutup semula ke Penutup bekas.
+Rajah 8 – Penutup Bekas ROV
+PENUTUP PENEMBUS TREE CAP – Versi 1
+Penutup penembus biasanya akan ditanggalkan oleh jurutera tapak Siemens Subsea semasa penamatan
+Penembus ke modul. Disyorkan agar hanya kakitangan terlatih menanggalkan penutup Penembus walaupun
+butiran disediakan di sini untuk maklumat sahaja. Penembus Tree Cap versi 1 terdiri daripada bahagian
+bermodul untuk melindungi keseluruhan panjang penyambung. Letakkan Palam & Penembus dengan
+berhati-hati di atas meja yang sesuai dan tanggalkan penutup pelindung dengan berhati-hati agar tidak
+membengkokkan sesendal patuh antara palam dengan penembus.
+Pegang
+penutup
+dengan
+berdiri di atas
+Tanggalkan
+Hujung
+Penutup
+Tarik Hujung
+Penutup berkunci
+dengan pin dowel.
+Tarik Penutup
+untuk
+ditanggalkan
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 28daripada 69
+Unrestricted
+Rajah 9 – Penembus Penutup Pokok / Penyingkiran Palam Penutup Berkunci
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 29daripada 69
+Unrestricted
+Rajah 10 – Penembus Penutup Pokok / Penyingkiran Penutup Pelindung Palam
+Rajah 11 – Penembus Penutup Pokok / Penyingkiran Lengan Pisah Palam
+Memasang semula penutup Penembus adalah pembalikan prosedur penanggalan.
+Tarik
+keseluruhan
+penutup
+untuk
+Tanggalkan bahagian
+hujung ini yang
+dipasang pada
+Penembus 8kV.
+Tanggalkan Sarung
+Pisah Pelindung
+Tanggalkan Sarung
+Pisah Pelindung
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 30daripada 69
+Unrestricted
+Penembus Tree Cap – Versi 2
+Penutup penembus biasanya akan ditanggalkan oleh jurutera tapak Siemens Subsea semasa penamatan
+Penembus ke modul. Disyorkan agar hanya kakitangan terlatih menanggalkan penutup Penembus walaupun
+butiran disediakan di sini untuk maklumat sahaja. Penembus Tree Cap versi 2 terdiri daripada bahagian pisah
+untuk melindungi sesendal patuh. Letakkan Palam & Penembus dengan berhati-hati di atas meja yang sesuai
+dan tanggalkan penutup pelindung dengan berhati-hati agar tidak membengkokkan sesendal patuh antara
+palam dengan penembus.
+Rajah 12 – Penembus Bekas ROV – Penembus – Pelompat Palam Penutup Pokok
+5.3 Pelupusan pembungkusan yang selamat
+Pelupusan pembungkusan dengan betul, memerhati dan mematuhi undang-undang alam sekitar kawasan,
+wilayah, kebangsaan atau antarabangsa. Jika boleh, lakukan kitar semula secara bertanggungjawab.
+Untuk mengembalikan pembungkusan sisa kepada pengeluar, hubungi Pegawai Keselamatan Produk di
+subsea.connectors.productsafety.gb@siemens-energy.com .
+5.4 Mengangkat
+Bahaya!  Risiko kecederaan diri yang serius atau kematian, dan kerosakan bahan pada produk
+Penyambung mesti diangkat hanya di lokasi yang dinyatakan di bawah.
+Jangan sekali-kali menggunakan kabel atau hos untuk mengangkat atau menyokong
+sesendal penyambung.
+Semua operasi mengangkat hendaklah dilakukan oleh kakitangan yang berkelayakan
+sesuai, mengikut peraturan yang berkenaan di tempat dan ketika mengangkat.
+Penyambung tidak boleh diangkat oleh hos atau kabel kerana akan menyebabkan
+ketegangan yang tidak perlu pada pengapit kabel dan bahagian dalam penyambung.
+Abah-abah mempunyai berat lebih daripada 30 kg dan tidak boleh dikendalikan secara
+manual.
+Tarik penutup
+untuk
+ditanggalkan
+Buka skru pengikat
+dan Tanggalkan
+Penutup Pisah
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 31daripada 69
+Unrestricted
+Penyambung tiruan atau parkir yang mempunyai berat kurang daripada 20 kg dan boleh
+diangkat dengan tangan, namun amalan mengangkat yang betul mesti sentiasa dipatuhi
+Penyambung boleh disangkut dengan selamat di sekitar lokasi yang ditunjukkan dalam, Rajah 13 , Rajah 14,
+Rajah 15 dan Rajah 16. Pusat graviti untuk Penyambung atau Penembus biasanya ditanda pada lukisan garis
+(dibekalkan dalam pek dokumentasi) tetapi mesti disahkan pada tahap rendah sebelum memulakan
+sebarang angkat.
+Untuk penyambung yang sangat berat (cth. penembus bebibir SPO), kedudukan mata angkat disediakan pada
+bebibir penyambung. Ini ditunjukkan pada lukisan garis penyambung, iaitu sebahagian daripada lembaran
+data penyambung. Lembaran data tersedia secara berasingan atas permintaan dan disertakan sebagai
+sebahagian daripada dokumentasi penyambung.
+Penyambung tiruan atau parkir yang mempunyai berat kurang daripada 20 kg dan boleh diangkat dengan
+tangan, namun amalan mengangkat yang betul perlu dipatuhi setiap masa.
+Receptacle ROV
+Rajah 13 – Kedudukan mengangkat yang disyorkan – Bekas ROV
+Jangan sangkut di
+sekeliling pemegang
+kerana ini boleh
+menanggalkan penutup
+Sangkut di sekeliling
+Kelompang Belakang
+Palam di antara bar
+hendal
+Jangan sangkut di
+sekeliling bahagian luar
+pemegang penyambung
+kerana ini boleh
+merosakkan mekanisme
+penguncian
+Sangkut di sekeliling setiap sisi
+Bebibir Penyangga
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 32daripada 69
+Unrestricted
+Rajah 14 – Kedudukan mengangkat yang disyorkan – Palam ROV (Tanpa / dengan mekanisme penguncian)
+Rajah 15 – Kedudukan mengangkat yang disyorkan – Penembus Penutup Pokok / Palam (Versi 1)
+Sangkut di sekeliling
+Kelompang Belakang
+Penembus
+Sangkut di setiap
+Sisi Penutup
+Pelindung
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 33daripada 69
+Unrestricted
+Rajah 16 – Kedudukan mengangkat yang disyorkan Penembus Penutup Pokok / Palam (Versi 2)
+Rajah 17 – Kedudukan mengangkat yang disyorkan – Penembus Dwi
+Penutup pelindung hendaklah kekal hidup setakat yang boleh semasa operasi mengangkat untuk
+meminimumkan risiko kerosakan pada pengedap penyambung atau komponen elektrik.
+Untuk abah-abah, kabel atau hos hendaklah disokong semasa mengangkat untuk meminimumkan
+ketegangan pada penyambung. Pemasangan pelompat dinilai kepada 2.5 kN dalam semua senario (Bahagian
+Atas dan Dasar Laut), namun disyorkan agar panjang maksimum abah-abah (terberkas atau tunggal) yang
+dibiarkan tidak disokong semasa operasi mengangkat di udara ialah 5 meter.
+Penyambung kabel sahaja atau penyambung putus hos dengan kabel hendaklah dikendalikan dengan
+berhati-hati kerana penyambung ini tidak mempunyai hos untuk melindungi jaket kabel daripada kerosakan
+mekanikal. Jenis penyambung ini biasanya digunakan untuk tujuan ujian. Semasa membuka bungkusan dan
+menggunakan, ini tidak boleh diseret sepanjang permukaan, dilindungi apabila disalurkan ke bahagian tepi
+dan dijauhkan daripada bahan melelas untuk memastikan jaket luaran dalam keadaan terbaik.
+5.5 Pemasangan dan pengumpulan
+Bahaya!  Risiko kecederaan diri yang serius atau kematian, dan kerosakan bahan pada produk
+Penamatan penyambung umbilikal hendaklah dilakukan oleh orang yang kompeten
+Pemasangan dan penamatan dalaman penembus ke modul pelanggan mesti dilakukan
+oleh orang yang kompeten
+Apabila mana-mana peralatan dialihkan daripada simpanan untuk pemasangan atau ujian SIT, pemeriksaan
+menyeluruh hendaklah dilakukan ke atas abah-abah secara keseluruhan.
+Penyambung SpecTRON 8 boleh dipasang pada struktur dasar laut pelanggan oleh pengguna akhir dengan
+syarat panduan dalam dokumen ini diikuti. Penting untuk memastikan bahawa garis panduan pengendalian
+dipatuhi ketika semua bahagian proses pemasangan. Ini amat penting untuk hos dan kabel, yang mesti
+disokong secukupnya ketika sebarang operasi mengangkat untuk mengelakkan kerosakan pada hos/kabel
+dan penamatan di dalam penyambung.
+Sangkut di sekeliling badan Penembus
+Berganda, atau setiap sisi sedekat
+mungkin dengan badan Penembus
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 34daripada 69
+Unrestricted
+Semasa mengangkat dan mengolah gerak penyambung, penutup pengangkutan/pelindung hendaklah
+dibiarkan pada penyambung selama mungkin untuk melindungi antara muka mekanikal. Perhatian mesti
+diambil untuk memastikan hos tidak membengkok melebihi MBR yang dinyatakan kerana ini boleh
+menyebabkan pintalan yang boleh merosakkan hos dan kabel di dalamnya. Semua pergerakan bagi mana-
+mana peralatan SpecTRON hendaklah dilakukan mengikut Bahagian 6.4.
+Semasa atau selepas pemasangan peralatan SpecTRON, jika sebarang kerja struktur dilakukan di sekeliling
+penyambung seperti kimpalan atau pengisaran, di tempat yang bahan cemar boleh menjejaskan
+penyambung, ia hendaklah melalui proses pembersihan seperti yang digariskan dalam bahagian 8.
+5.6 Penyimpanan dan perlindungan
+Awas.  Risiko kakisan kepada sentuhan elektrik.
+Jika penyambung telah diuji dalam persekitaran yang basah, pasangkan bekas ke palam
+tiruan penuh, atau jika menggunakan penutup pelindung Acetal pastikan pin dan penutup
+benar-benar kering (lihat bahagian 8.1)
+Sekiranya penyimpanan dilakukan dalam keadaan kelembapan yang tinggi atau masin,
+contohnya di atas geladak atau ruang muatan kapal, atau berdekatan dengan dok, maka
+penyambung tiruan penuh hendaklah digunakan.
+Awas.  Risiko kerosakan bahan.
+Suhu permukaan penyambung tidak boleh melebihi 60°C, suhu penyimpanan maksimum
+menyumbang kepada perolehan suria.
+Perlindungan yang sesuai hendaklah digunakan bagi memastikan suhu penyimpanan tidak
+melebihi nilai maksimum.
+Komponen elastomer seperti hos dan kit penamatan penyambung tidak boleh disimpan
+berdekatan dengan sumber semula jadi atau tiruan ozon (cth. peralatan elektrik voltan
+tinggi, pencetak laser atau operasi kimpalan).
+Penyambung tidak boleh terdedah kepada gas pembakaran, wap organik atau peralatan
+yang menghasilkan wap organik.
+Awas.  Risiko kerosakan bahan.
+Penyambung tidak boleh bersentuh dengan pelarut, minyak, gris atau bahan separa
+pepejal yang lain.
+Tiada pengubahsuaian pada profil dalaman penutup pelindung atau sebarang bahan asing
+seperti gel Silika harus dimasukkan ke dalam penutup pelindung. Ini kerana ia akan
+menyebabkan kerosakan pada kedap dan kawasan sentuhan elektrik yang kritikal.
+5.6.1 Penyimpanan penyambung jangka pendek
+Sebelum pemasangan, penyambung adalah sensitif terhadap persekitaran yang terdapat kersik dan kotoran.
+Untuk mengelakkan kemasukan bahan-bahan di atas, ia perlu disimpan di kawasan kering yang bersih dan
+dilindungi oleh pembalut gelembung atau bahan pembalut yang serupa. Penutup habuk/pelindung
+hendaklah dipasang.
+5.6.2 Penyimpanan penyambung jangka panjang
+Penyambung mesti disimpan di kawasan kering yang bersih. Penutup pelindung yang sesuai hendaklah
+dipasang, dan suhu penyimpanan hendaklah antara -25°C hingga 60°C. Kelembapan bilik simpanan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 35daripada 69
+Unrestricted
+hendaklah antara 10% hingga 60%. Peralatan harus dilindungi daripada ozon, cahaya matahari yang kuat dan
+cahaya buatan yang kuat dengan kandungan ultraungu yang tinggi.
+5.6.3 Kit Penamatan Penyambung
+Komponen elastomer yang dibekalkan dalam kit penamatan atau penamatan semula hendaklah disimpan
+dalam bungkusan sehingga perlu digunakan. Tarikh tamat tempoh yang dinyatakan pada bungkusan
+hendaklah dipatuhi, begitu juga dengan keadaan penyimpanan berikut.
+Suhu – suhu penyimpanan hendaklah antara 15 hingga 25°C dan komponen akan disimpan jauh
+daripada sumber haba langsung. Jika suhu penyimpanan jatuh di bawah 15°C, komponen hendaklah
+dikendalikan dengan berhati-hati dan suhu komponen hendaklah dinaikkan kepada lebih kurang 30°C
+sebelum digunakan.
+Kelembapan – kelembapan relatif hendaklah berada pada tahap yang menghalang pemeluwapan
+daripada berlaku akibat turun naik suhu.
+Cahaya – komponen elastomer hendaklah dilindungi daripada sumber cahaya termasuk cahaya
+matahari langsung dan cahaya buatan yang mempunyai kandungan ultraungu yang tinggi.
+Ozon – komponen elastomer tidak boleh disimpan berhampiran peralatan penjanaan ozon (cth.
+peralatan elektrik voltan tinggi, pencetak laser) atau operasi (cth. kimpalan). Kawasan penyimpanan
+juga mestilah bebas daripada gas pembakaran dan wap organik dan peralatan yang menghasilkan
+wap organik.
+Tegasan – komponen hendaklah disimpan bebas daripada ketegangan bertindih dan tegasan
+mampat atau punca perubahan bentuk yang lain.
+Radiasi – komponen hendaklah dilindungi daripada semua sumber sinaran pengion.
+5.6.4 Penyimpanan di Dasar Laut
+Awas.  Risiko kakisan kepada sentuhan elektrik.
+Dalam persekitaran dasar laut, penyambung penyangga mesti disambung dengan palam
+tiruan penuh atau penutup pelindung berkadar dasar laut apabila tidak disambung dengan
+palam.
+Sepanjang hayat penyambung, sentuhan pin penyangga tidak boleh dibiarkan terdedah
+selama lebih daripada 60 hari (untuk penyambung yang dibekalkan sejak tahun 2013) atau
+28 hari (sebaliknya) secara kumulatif
+Jika penyambung dibiarkan tidak bersambung dalam air laut, penyambung tiruan atau penutup pelindung
+dasar laut mesti digunakan untuk melindungi sesentuh pin dalam penyambung penyangga. Terlalu banyak
+pendedahan akan meningkatkan risiko kerosakan kakisan atau pertumbuhan marin pada permukaan pin
+sentuhan penyangga. Ini boleh menyebabkan kerosakan pada kedap dan penebat dalam sentuhan soket.
+Penyambung palam boleh dibiarkan tidak bersambung dalam air laut untuk sepanjang hayat penyambung,
+tetapi disyorkan untuk penyambung Palam disambungkan ke dalam Penyangga Parkir pada masa ini untuk
+melindungi mekanisme selak.
+5.7 Pembungkusan semula untuk mengelakkan kerosakan semasa pengangkutan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 36daripada 69
+Unrestricted
+Sekiranya terdapat keperluan untuk memulangkan semula mana-mana produk kepada pengeluar (Siemens
+Energy Subsea Connectors), disyorkan agar penutup habuk/pelindung asal dipasang pada penyambung
+selepas pembersihan dan langkah berjaga-jaga hendaklah diambil untuk melindungi penyambung dengan
+pembalut gelembung atau bahan pembalut yang serupa bagi mengelakkan sebarang kerosakan permukaan.
+Disyorkan agar kotak yang bertetulang sesuai digunakan untuk menahan berat. Hubungi Sokongan Teknikal
+connectortechnicalsupport.gb@siemens-energy.com  untuk membincangkan tentang butiran kotak biasa.
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 37daripada 69
+Unrestricted
+6 OPERASI PRODUK
+6.1 Memberikan Tenaga Pasangan Sambungan Basah
+Bahaya! Risiko kematian akibat renjatan elektrik.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Awas.  Risiko kerosakan bahan.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Penyambung SpecTRON 8 harus disepadukan dan diuruskan sebagai sebahagian daripada sistem voltan tinggi
+yang direka dengan baik menggunakan pengesahan status dan sambungan sistem yang sesuai sebelum
+diberikan tenaga.
+Semasa menjalankan ujian voltan tinggi sistem elektrik yang mengandungi SpecTRON 8, Siemens Energy
+menawarkan peralatan ujian sesuai yang boleh digunakan untuk menyediakan penamatan selamat bagi
+penyambung sambungan basah dan sambungan kering. Penandaan produk pada peralatan ujian mesti
+disahkan untuk memastikan ia berkadar dengan sewajarnya.
+6.2 Pengaturan
+Awas.  Risiko kerosakan bahan.
+Kadar pengaturan maksimum untuk penyambung SpecTRON 8 ialah 20 bar/minit.
+Rujuk kepada lembaran data tertentu projek dan skop lukisan bekalan untuk spesifikasi prestasi dan arahan
+pengaturan terperinci.
+6.3 Diambil semula
+Awas.  Risiko kerosakan bahan.
+Kadar dapat semula maksimum untuk penyambung SpecTRON 8 ialah 20 bar/minit.
+Bahaya! Risiko kecederaan diri yang serius atau kematian, dan kerosakan bahan pada produk
+Potensi tekanan hidrostatik terperangkap dalam hos, bahagian depan penyambung dan
+jumlah pampasan. Risiko ini meningkat dengan ketara sekiranya terdapat pertumbuhan
+marin atau berkapur yang ketara.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 38daripada 69
+Unrestricted
+Apabila membersihkan atau mengendalikan pelompat dan penyambung selepas
+mendapatkan semula, peralatan perlindungan yang sesuai (sarung tangan, gogal)
+hendaklah dipakai sehingga semua banjir dan port pampasan bersih.
+Awas. Risiko kakisan kepada sentuhan elektrik.
+Selepas diambil semula, sambungkan bekas dengan palam tiruan penuh, atau jika
+menggunakan penutup pelindung Acetal pastikan pin dan penutup benar-benar kering
+(lihat bahagian 8.1)
+Sekiranya penyimpanan dilakukan dalam keadaan kelembapan yang tinggi atau masin,
+contohnya di geladak atau ruang muatan kapal, atau berdekatan dengan dok, maka
+penyambung tiruan penuh hendaklah digunakan.
+6.4 Pengurusan dan Penyaluran Hos
+6.4.1 Panduan Umum (bahagian atas dan bawah laut)
+Hos hendaklah disalurkan dengan cara untuk mengelakkan lenturan melepasi MBR dalam apa-apa jua
+keadaan (bahagian atas atau bawah laut). Perlu berjaga-jaga semasa mereka bentuk susunan cagak untuk
+hos dan penyambung cagak patuh untuk memastikan pematuhan tidak membengkokkan hos melebihi MBR.
+Usaha hendaklah dibuat untuk mengelakkan penggunaan ketegangan hos yang berlebihan, yang boleh
+menyebabkan hos terbatal MBR atau menjadi bengkok. Ini amat penting apabila hos berada di bahagian atas,
+kerana berat hos dalam udara adalah jauh lebih besar daripada beratnya dalam air (rujuk bahagian 4 untuk
+nilai berat hos tertentu).
+Apabila berada di bahagian atas (di udara), panjang maksimum hos mendatar tidak disokong ialah 2m.
+Apabila hos diorientasikan secara menegak di udara, panjang maksimum yang tidak disokong ialah 5m. Nilai
+ini digunakan pada hos Gorilla dan AquaTRON. (Lihat bahagian 6.4.2 untuk maklumat tentang pengendalian
+bawah laut abah-abah terbang.)
+Jika penyambung sambungan basah diorientasikan secara menegak dengan palam di atas bekas, akan
+terdapat perubahan mendadak dalam orientasi hos palam jika hos ini tidak disokong. Dalam situasi ini, untuk
+mengelakkan berat hos daripada melanggar MBR, Siemens Energy mengesyorkan ketinggian dari tapak
+struktur ke bekas tidak melebihi 3m.
+Rajah 18 – Hos AquaTRON (kiri) dan Gorilla (kanan) pada jejari selekoh minimum
+Hos akan mempunyai sedikit rintangan semula jadi terhadap lenturan/pusingan namun penggunaan daya
+tersangkut akibat penghalaan tajam di sekeliling sudut struktur (mengabaikan hos MBR) atau penggunaan
+daya akibat berat hos yang tidak disokong (melebihi nilai yang dinyatakan) boleh menyebabkan kerosakan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 39daripada 69
+Unrestricted
+pada konduktor atau penamatan dan usaha hendaklah dilakukan untuk mengelakkan perkara ini semasa
+semua aplikasi bahagian atas atau dalam air.
+Rajah 19 – Hos AquaTRON (oren) dan Gorilla (kuning) yang dibengkokkan dengan tidak betul
+Siemens Energy mengesyorkan penggunaan "pembentuk" untuk mengelakkan melebihi MBR hos apabila
+melepasi permukaan bersudut akut (melalui atau di sekeliling struktur). Pembentuk ini juga boleh digunakan
+untuk menyokong hos yang bebas tergantung lebih lama daripada had di atas.
+Pembentuk boleh dihasilkan kepada reka bentuk yang disyorkan oleh Siemens (seperti yang ditunjukkan di
+bawah) atau kepada reka bentuk khusus pelanggan, dan ditetapkan pada struktur pelanggan mengikut
+kesesuaian.
+REKA BENTUK PEMBENTUK YANG DISYORKAN
+Rajah 20 – Pembentuk Plat
+Rajah 21 – Pembentuk ‘U’
+HOS O/D SEBAGAI MINIMUM
+ SEPERTI YANG DIKEHENDAKI
+MBR SEBAGAI MINIMUM
+SEPERTI YANG
+SEPERTI YANG
+SEPERTI YANG
+DIKEHENDAKI
+SEPERTI YANG
+MRB SEBAGAI MINIMUM
+HOS O/D SEBAGAI
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 40daripada 69
+Unrestricted
+Rajah 22 - Pembentuk ‘L’
+Rajah 23 – Pembentuk ‘U’
+Rajah 24 – Pembentuk diletakkan sementara (cth. untuk SIT sebelah atas)
+Pembalut
+pengikat atau
+pengapit
+SEPERTI YANG
+DIKEHENDAKI
+SEPERTI YANG
+DIKEHENDAKI
+SEPERTI YANG
+MRB SEBAGAI MINIMUM
+HOS O/D SEBAGAI
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 41daripada 69
+Unrestricted
+Rajah 25 - Pembentuk ‘L’
+Jika sokongan hos sementara diperlukan semasa SIT, lantai bertingkat sementara boleh dibuat melalui
+penggunaan peralatan seperti perancah, lif gunting dan tangga dsb. atau sebagai alternatif dirian yang direka
+dengan pembentuk dipasang. Lihat Rajah 26 di bawah untuk contoh dirian yang dinyatakan.
+Rajah 26 - Dirian yang direka dengan pembentuk yang digunakan untuk sokongan hos
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 42daripada 69
+Unrestricted
+6.4.2 Pergerakan Bawah Laut Abah-abah 'Terbang'
+--Awas.  Risiko kerosakan bahan.
+Panjang hos maksimum yang tidak disokong dalam air untuk abah-abah terbang
+SpecTRON 8 ialah 30 m
+Abah-abah terbang SpecTRON 8 di bawah atau sama dengan 30m tidak memerlukan bantuan daya
+apungan untuk penggunaan bawah laut.
+Abah-abah terbang SpecTRON 8 melebihi 30m memerlukan alat keapungan yang sesuai untuk menyokong
+1.45kg (lihat bahagian 4) setiap meter panjang melebihi 30m. Sebagai contoh, EFL 50 meter memerlukan
+alat bantu keapungan untuk menampung 20 meter berat hos tambahan iaitu 29 kg (20*1.45 = 29 kg).
+Alat bantu keapungan ini hendaklah dijarakkan sama rata untuk memastikan penamatan pada setiap
+hujung pelompat tidak dimuatkan dengan pelompat yang melebihi 30 meter. Alat bantu keapungan
+hendaklah dipasang pada pelompat dengan anduh lembut.
+6.4.3 Penyambung yang dipasang dengan patuh
+Pertimbangan yang teliti harus diberikan kepada penempatan pengapit pertama pada penyambung cagak
+patuh supaya tidak menyekat pematuhan penyambung atau memberikan tegasan ke dalam hos dan kabel.
+Di tempat yang memerlukan pengapit pada penyambung yang dipasang dengan patuh, Adalah disyorkan
+bahawa susunan jenis 'S' atau serupa seperti yang ditunjukkan dalam Rajah 27 digunakan untuk mengambil
+potensi pergerakan penyambung.
+Rajah 27 – Potensi Pengapitan Hos pada Penyambung yang Patuh
+Penyambung cagak patuh
+Pengapit Stauff
+atau yang
+serupa
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 43daripada 69
+Unrestricted
+6.5 Pengurusan kabel MUTU
+Kabel kuasa umbilikal hendaklah memanjang terus keluar dari sesendal kabel MUTU untuk sekurang-
+kurangnya 200mm. Jika, selepas penamatan MUTU telah selesai, kabel kuasa umbilikal hendaklah
+digerakkan atau dibengkokkan, kemudian jig atau pengapit hendaklah digunakan untuk menghalang
+pergerakan kabel dalam sesendal MUTU. Ini adalah perlu untuk mengelakkan masalah dengan sistem
+pengedap kabel MUTU.
+Keperluan untuk pengapit ini juga terpakai jika MUTU itu sendiri perlu dipindahkan selepas selesai
+penamatan kabel dan pemasangan MUTU ke dalam pemasangan penamatan umbilikal.
+Rajah 28 – Panjang kabel lurus yang diperlukan dan kedudukan pengapit MUTU
+6.6 Pengolah ROV
+Penyambung SpecTRON 8 dipasang sama ada pemegang bar T ISO 13628 atau Pemegang Ekor Ikan ISO
+13628.
+6.6.1 Pemegang Bar T
+Penyambung pemegang Bar T mesti diolah menggunakan pengolah ROV Rahang Selari yang serupa dengan
+yang ditunjukkan dalam Rajah 29.
+Rajah 29 - Rahang Pengolah ROV yang disyorkan untuk Pemegang Bar T
+Bar T hendaklah dipegang oleh palang T seperti yang ditunjukkan dalam Rajah 30 dan bukan dengan aci. Jika
+bar T dipegang dengan tidak betul, terdapat risiko mekanisme selak penyambung tidak akan dipasang dengan
+betul.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 44daripada 69
+Unrestricted
+Rajah 30 - Pengendalian Penyambung ROV (tanpa dan dengan mekanisme penguncian)
+6.6.2 Pemegang Ekor Ikan
+Penyambung Pemegang Ekor Ikan mesti diolah dengan menggunakan rahang pengolah ROV 3 jari yang
+serupa dengan yang ditunjukkan dalam Rajah 31. Pemegang hendaklah dipegang pada rahang ROV seperti
+yang ditunjukkan dalam Rajah 32.
+Rajah 31 - Rahang Pengolah ROV yang disyorkan untuk Pemegang Ekor Ikan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 45daripada 69
+Unrestricted
+Rajah 32 - Pengendalian Penyambung ROV
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 46daripada 69
+Unrestricted
+6.7 Menyambung Sambungan Basah ROV Dasar Laut
+6.7.1 Pemeriksaan Prasambungan
+Sebelum penyambungan, selubung penyangga perlu diperiksa bagi memastikan tiada serpihan. Penyambung
+telah direka bentuk untuk menampung pencemaran pasir dan kelodak. Walau bagaimanapun, kepingan
+besar serpihan harus dikeluarkan.
+6.7.2 Tanpa mekanisme penguncian tambahan
+Awas.  Risiko kerosakan bahan.
+Sebarang peralatan sambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 mesti direka bentuk mengikut salah jajaran dan panduan antara
+muka yang disediakan oleh Siemens Subsea untuk mengelakkan kerosakan pada pasangan
+penyambung.
+Jangan tarik pemegang ROV untuk memeriksa sama ada penyambung disambungkan
+dengan betul atau tidak kerana ini akan menanggalkan mekanisme selak dalaman dan
+membuka sambungan penyambung.
+Jangan sekali-kali menarik pemegang ROV tanpa menanggalkan mekanisme penguncian
+terlebih dahulu kerana ini boleh mengakibatkan kerosakan pada mekanisme penguncian.
+(Terpakai hanya untuk penyambung dengan mekanisme penguncian tambahan)
+Amaran. Risiko kecederaan akibat anggota badan terperangkap dalam alatan penyambungan
+Sebarang proses penyambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 hendaklah mematuhi piawaian dan peraturan terpakai bagi
+jentera.
+Penyambung akan dijajarkan sendiri ketika menyambung; walau bagaimanapun, ia mesti dijajarkan secara
+kasar menggunakan tanda jajaran pada bahagian atas badan Penyambung & bebibir Jajaran / selubung
+Penyangga sebelum menyambung.
+Rajah 33 - Penunjuk jajaran visual pada palam dan bekas (penyambung bersalut)
+Penunjuk Jajaran
+Kunci / Alur Kunci Fizikal
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 47daripada 69
+Unrestricted
+Rajah 34 - Alur kunci jajaran fizikal berbanding dengan penunjuk visual (penyambung tidak bersalut)
+Pematuhan dibina dalam pemegang penyambung, dan cagak penyangga. Fleksibiliti ini menampung salah
+jajaran dan membenarkan pelarasan halus semasa pendekatan terakhir sebelum pemasangan penyambung.
+Strok sambungan hendaklah sedekat mungkin dengan satu pergerakan lancar, iaitu elakkan ‘mengepam’.
+Menggunakan rahang pengolah ROV, pemandu harus memegang pemegang ROV seperti yang ditunjukkan
+dalam Rajah 30 atau Rajah 32.
+Mekanisme selak dalaman diaktifkan dengan menolak penyambung bersama-sama sehingga bebibir palam
+dan bekas berada di kedudukan asal sepenuhnya, seperti yang ditunjukkan dalam Rajah 37.
+Untuk memastikan pemasangan yang betul, pemandu ROV harus membuka rahang dan mengendalikan
+operasi tolakan terakhir sebelum menarik dari bar T dengan rahang terbuka sepenuhnya seperti yang
+ditunjukkan dalam Rajah 35. Ini memastikan bahawa mekanisme selak dalaman tidak tertanggal secara tidak
+sengaja apabila ROV ditarik daripada penyambung.
+Rajah 35 - Tolakan Akhir dengan rahang terbuka
+Penunjuk Jajaran
+Kunci / Alur Kunci Fizikal
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 48daripada 69
+Unrestricted
+6.7.3 Dengan mekanisme penguncian tambahan
+Prosedur untuk menyambung penyambung dengan Mekanisme Penguncian adalah sama dengan
+penyambung ROV standard tanpa Mekanisme Penguncian (rujuk Bahagian 6.7.2).
+Mekanisme penguncian terpasang secara automatik semasa penyambungan dan tidak memerlukan
+tindakan tambahan daripada pemandu ROV.
+Rajah 36 - Penunjuk Jajaran (Penyambung dengan Mekanisme Penguncian)
+6.7.4 Pemeriksaan Pascasambungan
+Semua Penyambung
+Apabila dilonggarkan, mungkin terdapat jurang kecil antara kedua-duanya (disebabkan spring dalam Palam
+menolak pin Bekas). Bahu pada Palam harus juga bersandar pada selubung Bekas.
+Rajah 37 - Pemeriksaan Penyambungan - Disambung Sepenuhnya. (NB: Jurang Kecil antara Bebibir)
+Seperti yang ditentukan oleh amalan terbaik Industri, Siemens Energy mengesyorkan agar semua operasi
+penyambungan ROV dibuat rakaman video dan disimpan untuk rujukan pada masa akan datang.
+Pin
+Kunci
+Penunjuk Jajaran
+Kunci / Alur Kunci Fizikal
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 49daripada 69
+Unrestricted
+Dengan mekanisme penguncian tambahan
+Rajah 38 - Pemeriksaan Penyambungan - Mekanisme Penguncian Dipasang.
+Pemasangan mekanisme penguncian yang betul mesti disahkan melalui pemeriksaan visual seperti yang
+ditunjukkan dalam Rajah 38. Jika pemeriksaan pascasambungan menunjukkan mekanisme penguncian tidak
+dipasang dengan betul, maka palam mesti dibuka sambungan mengikut prosedur dalam bahagian 6.8
+kemudian disambungkan semula seperti yang diperincikan dalam bahagian 6.7.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 50daripada 69
+Unrestricted
+6.8 Memutuskan sambungan Pasangan Sambungan Basah ROV Dasar Laut
+Awas.  Risiko kerosakan bahan.
+Sebarang peralatan sambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 mesti direka bentuk mengikut salah jajaran dan panduan antara
+muka yang disediakan oleh Siemens Energy Subsea untuk mengelakkan kerosakan pada
+pasangan penyambung.
+Jika pemegang ROV dipegang dengan tidak betul, terdapat risiko mekanisme selak
+dalaman penyambung tidak akan tertanggal dengan betul.
+Jangan sekali-kali menarik sesendal atau hos untuk membuka sambungan penyambung
+6.8.1 Tanpa mekanisme penguncian tambahan
+Pegang pemegang ROV (pemegang T atau ekor ikan) dengan betul menggunakan rahang ROV (Rajah
+30 atau Rajah 32).
+Pembukaan sambungan dicapai dengan tarikan lurus pada pemegang ROV yang mencukupi untuk
+melepaskan mekanisme selak dalaman.
+6.8.2 Dengan mekanisme penguncian tambahan
+Sebelum Membuka sambungan penyambung, pemandu ROV mesti melepaskan mekanisme
+penguncian terlebih dahulu.
+Mekanisme penguncian dilepaskan dengan menolak pengayuh pelepas ke hadapan menggunakan
+muncung rahang pengolah ROV seperti yang ditunjukkan dalam Rajah 39.
+Kunci akan tertanggal daripada pin bekas apabila pengayuh ditolak sepenuhnya ke hadapan seperti
+yang ditunjukkan dalam Rajah 39.
+Apabila tindakan ini telah dilakukan dengan betul, pengayuh pelepas akan kekal berada di kedudukan
+hadapan selepas rahang ROV ditarik balik.
+Pandangan terperinci dalam Rajah 39 menunjukkan kunci dalam kedudukan tertanggal.
+Untuk Memutuskan penyambung, pegang pemegang ROV (pemegang T atau ekor ikan) dengan betul
+menggunakan rahang ROV (Rajah 30 atau Rajah 32).
+Pembukaan sambungan dicapai dengan tarikan pada pemegang ROV yang mencukupi untuk
+melepaskan mekanisme selak dalaman. Jangan tarik pada sesendal atau hos.
+Apabila penyambung dibuka sambungan, pengayuh pelepas akan kembali ke kedudukan lalai secara
+automatik. Tiada tindakan pemandu ROV diperlukan.
+Ketika membuka sambungan, mekanisme penguncian ditetapkan semula secara automatik dan
+boleh disambungkan semula dengan segera, jika perlu. Tiada tindakan pemandu ROV diperlukan
+sebelum menyambung semula.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 51daripada 69
+Unrestricted
+Rajah 39 - Mekanisme Penguncian Ditanggalkan
+Pengayuh
+Pelepas
+Pemegang
+ROV
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 52daripada 69
+Unrestricted
+6.9 Menyambung Pasangan Sambungan Basah ROV Secara Manual/Bahagian Atas
+Awas.  Risiko kerosakan bahan.
+Sebarang peralatan sambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 mesti direka bentuk mengikut salah jajaran dan panduan antara
+muka yang disediakan oleh Siemens Energy Subsea untuk mengelakkan kerosakan pada
+pasangan penyambung.
+Jangan tarik pemegang ROV untuk memeriksa sama ada penyambung disambungkan
+dengan betul atau tidak kerana ini akan menanggalkan mekanisme selak dalaman dan
+membuka sambungan penyambung.
+Jangan sekali-kali menarik pemegang ROV tanpa menanggalkan mekanisme penguncian
+terlebih dahulu kerana ini boleh mengakibatkan kerosakan pada mekanisme penguncian
+(Terpakai hanya untuk penyambung dengan mekanisme penguncian tambahan).
+Amaran. Risiko kecederaan akibat anggota badan terperangkap dalam alatan penyambungan
+Sebarang proses penyambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 hendaklah mematuhi piawaian dan peraturan terpakai bagi
+jentera.
+6.9.1 Pemeriksaan Prasambungan
+Sebelum memulakan penyambungan pasangan penyambung, diandaikan bahawa:
+Penyambung Penyangga dipasang pada plat cagak yang berkaitan
+Penyambung Palam berada di kawasan berhampiran.
+Bar cengkam atau antara muka lain harus ada pada struktur cagak Penyangga. Ini harus menyediakan
+penyelam dengan pembelian dan membolehkan mereka menumpukan penyambung dengan
+penyambung pada ketinggian dada.
+6.9.2 Tanpa mekanisme penguncian tambahan
+Tanggalkan penutup pelindung daripada penyambung Palam, atau jika penyambung Palam
+disambungkan kepada Penyangga Parkir/Tiruan, tanggalkan seperti yang diperincikan dalam prosedur
+buka sambungan secara manual di bawah.
+Jika penyambung Palam Tiruan disambungkan kepada Penyangga, keluarkan dengan menggunakan
+prosedur buka sambungan secara manual yang diperincikan di bawah.
+Periksa pin dan selubung Bekas dan pastikan ia bersih dan bebas daripada serpihan dll. Jika ada serpihan,
+keluarkan dengan menggunakan pancutan air (dalam air) atau dengan mengelap (di udara).
+Masukkan muncung Penyambung Palam ke dalam selubung Bekas, dan mula-mula letakkan kunci pada
+muncung Palam ke dalam slot selubung Bekas dengan menggunakan penunjuk jajaran, seperti
+ditunjukkan dalam Rajah 33 dan Rajah 34. Perlu diingatkan bahawa kunci/alur kunci fizikal terletak di
+bahagian bawah penyambung.
+Operator kini harus berada dalam kedudukan yang selesa, bersedia untuk menyambung penyambung
+sepenuhnya. Penyambung hendaklah berada pada ketinggian dada, dengan bar cengkam atau antara
+muka lain yang disediakan pada struktur cagak yang mudah dicapai. Menggunakan bar cengkam atau
+cara lain untuk memperkukuhkan diri (iaitu terikat pada struktur), operator hendaklah menyambung
+penyambung dengan memegang pemegang ROV (Rajah 40) dan menggunakan satu lejang tunggal yang
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 53daripada 69
+Unrestricted
+lancar untuk menolak penyambung Palam sehingga ia tertumpu pada Bekas. Daya maksimum 76.5kgf
+(750N) diperlukan untuk menyambung penyambung. Pastikan strok menyambung adalah pada paras
+yang sama, dan operator boleh melengkapkan strok dalam satu pergerakan konsisten yang lancar.
+Sahkan bahawa tiada lantunan semula dan kegagalan untuk selak kembali ke kedudukan asal telah
+berlaku.
+Apabila hujung penyambung palam berhenti bercantum dengan penyangga, ini mengaktifkan
+mekanisme selak dalaman yang dimuatkan spring dalaman, yang menghalang penyambung daripada
+dibuka sambungan. Menarik Pemegang ROV akan menyahaktifkan selak ini dan seterusnya akan
+membuka sambungan penyambung.
+Rajah 40 - Sambung dengan menggunakan Pemegang ROV
+Untuk mengesahkan bahawa penyambung telah disambungkan sepenuhnya dan Palam diselak dengan
+betul ke kedudukan asal, tarik perlahan-lahan penyambung Palam dengan menahan bahagian bersudut
+ke bawah sesendal Palam berhampiran penamatan hos, seperti yang ditunjukkan dalam Rajah 41. Jika
+penyambung diselak dan disambungkan dengan betul, sepatutnya tiada pergerakan paksi dalam
+penyambung Palam. Ketika pemeriksaan visual, bahu pada Palam harus bersandar pada selubung
+Penyangga. Walau bagaimanapun, apabila dilonggarkan, mungkin terdapat jurang kecil antara bekas
+dengan penyambung (disebabkan spring dalam Palam menolak pin Bekas), seperti yang ditunjukkan
+dalam Rajah 37.
+Rajah 41 - Periksa Penyambung Disambungkan
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 54daripada 69
+Unrestricted
+6.9.3 Dengan mekanisme penguncian tambahan
+Prosedur untuk menyambung penyambung dengan Mekanisme Penguncian adalah sama dengan
+penyambung ROV standard tanpa Mekanisme Penguncian (rujuk Bahagian 6.9.2).
+Mekanisme penguncian terpasang secara automatik semasa penyambungan dan tidak memerlukan
+tindakan tambahan daripada operator.
+6.9.4 Pemeriksaan Pascasambungan:
+Pemasangan mekanisme penguncian yang betul mesti ditentukan oleh pemeriksaan visual (Rajah
+38).
+Jika pemeriksaan pascasambungan menunjukkan mekanisme penguncian tidak dipasang dengan
+betul (Rajah 38), palam mesti dibuka sambungan mengikut prosedur dalam bahagian 6.10kemudian
+disambungkan semula mengikut prosedur dalam bahagian 6.9
+Bahu pada Palam harus bersandar pada selubung Penyangga.
+Sebagai pengesahan tambahan bahawa penyambung telah disambungkan sepenuhnya dan Palam
+diselak dengan betul ke kedudukan asal, tarik perlahan-lahan penyambung Palam dengan menahan
+bahagian bersudut ke bawah sesendal Palam berhampiran penamatan hos, seperti yang ditunjukkan
+dalam Rajah 41 . Jika penyambung diselak dan disambungkan dengan betul, sepatutnya tiada
+pergerakan paksi dalam penyambung Palam.
+6.10 Memutuskan sambungan Pasangan Sambungan Basah ROV Secara Manual/Bahagian
+Atas
+Awas.  Risiko kerosakan bahan.
+Sebarang peralatan sambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 mesti direka bentuk mengikut salah jajaran dan panduan antara
+muka yang disediakan oleh Siemens Subsea untuk mengelakkan kerosakan pada pasangan
+penyambung.
+Jika pemegang ROV dipegang dengan tidak betul, terdapat risiko mekanisme selak
+dalaman penyambung tidak akan tertanggal dengan betul.
+Jangan sekali-kali menarik sesendal atau hos untuk membuka sambungan penyambung
+Amaran. Risiko kecederaan akibat anggota badan terperangkap dalam alatan penyambungan
+Sebarang proses penyambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 hendaklah mematuhi piawaian dan peraturan terpakai bagi
+jentera.
+6.10.1 Tanpa mekanisme penguncian tambahan
+Sebelum memulakan pembukaan sambungan pasangan penyambung, diandaikan bahawa penyambung
+Penyangga dipasang dalam struktur yang berkaitan, dan penyambung Palam disambungkan dengannya.
+Operator harus mengukuhkan dirinya menggunakan bar cengkam atau antara muka lain yang
+disediakan, dan pastikan penyambung berada pada ketinggian dada. Dengan memegang pemegang ROV
+(seperti yang ditunjukkan dalam Rajah 17), penyambung boleh dibuka sambungan daripada Bekas
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 55daripada 69
+Unrestricted
+menggunakan satu pergerakan tarik yang lancar di sepanjang paksi penyambung. Menarik pemegang
+ROV secara automatik melepaskan mekanisme selak dalaman. Daya 40kgf (392N) diperlukan untuk
+membuka sambungan penyambung.
+Setelah penyambung Palam dipisahkan sepenuhnya daripada penyambung bekas, jika sesuai ia boleh
+disambungkan dengan Bekas parkir kemudiannya, menggunakan langkah-langkah yang diterangkan
+dalam prosedur sambungan dalam bahagian 6.9.
+Palam tiruan juga hendaklah disambungkan dengan Bekas yang berbaki, sekali lagi menggunakan
+prosedur sambungan dalam bahagian 6.9.
+6.10.2 Dengan mekanisme penguncian tambahan
+ Sebelum Membuka sambungan penyambung, operator mesti melepaskan mekanisme penguncian
+terlebih dahulu.
+ Mekanisme penguncian dilepaskan dengan menolak pengayuh pelepas sepenuhnya ke hadapan.
+ Kunci akan tertanggal daripada pin penyangga apabila pengayuh ditolak sepenuhnya ke hadapan. ( Rajah
+39)
+ Apabila tindakan ini telah dilakukan dengan betul, pengayuh pelepas akan kekal berada di kedudukan
+hadapan selepas tangan operator dialihkan.
+ Operator harus mengukuhkan dirinya menggunakan bar cengkam atau antara muka lain yang
+disediakan, dan pastikan penyambung berada pada ketinggian dada. Dengan memegang pemegang ROV
+(seperti yang ditunjukkan dalam Rajah 40), penyambung boleh dibuka sambungan daripada Bekas
+menggunakan satu pergerakan tarik yang lancar di sepanjang paksi penyambung.
+ Menarik pemegang ROV secara automatik melepaskan mekanisme selak dalaman. Daya 40kgf (392N)
+diperlukan untuk membuka sambungan penyambung.
+ Sebaik sahaja penyambung dibuka sambungan, mekanisme penguncian akan ditetapkan semula secara
+automatik dan boleh disambungkan semula dengan serta-merta. Pengayuh pelepas akan kembali ke
+kedudukan lalai secara automatik. Ini boleh disahkan dengan pemeriksaan visual yang cepat
+ Setelah penyambung Palam dipisahkan sepenuhnya daripada penyambung bekas, jika sesuai ia boleh
+disambungkan dengan Bekas parkir kemudiannya, menggunakan langkah-langkah yang diterangkan
+dalam prosedur sambungan dalam bahagian 6.9.
+ Palam tiruan juga hendaklah disambungkan dengan Bekas yang berbaki, sekali lagi menggunakan
+prosedur sambungan dalam bahagian 6.9.
+6.11 Penyambung Ujian
+Awas.  Risiko kerosakan bahan.
+Penyambung ujian yang sesuai hendaklah sentiasa digunakan untuk membuat sentuhan
+elektrik semasa ujian.
+Dalam apa jua keadaan, objek asing (seperti pemutar skru, prob ujian atau klip buaya)
+digunakan sebagai sambungan ujian kerana ini boleh merosakkan kedap dan penebat.
+Tindakan sedemikian akan membatalkan jaminan produk.
+Bahaya! Risiko kematian akibat renjatan elektrik.
+Penyambung ujian yang sesuai hendaklah sentiasa digunakan untuk membuat sentuhan
+elektrik semasa ujian.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 56daripada 69
+Unrestricted
+Dalam apa jua keadaan, objek asing (seperti pemutar skru, prob ujian atau klip buaya)
+digunakan sebagai sambungan ujian
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Amaran. Risiko kecederaan akibat anggota badan terperangkap dalam alatan penyambungan
+Sebarang proses penyambungan yang digunakan untuk menyambung pasangan penyambung
+SpecTRON 8 hendaklah mematuhi piawaian dan peraturan terpakai bagi jentera.
+Penyambung SpecTRON 8 boleh diuji secara elektrik dengan menggunakan palam SpecTRON 8 dan abah-
+abah berekor penyambung ujian bahagian atas penyangga SpecTRON seperti yang ditunjukkan di bawah
+dalam Rajah 42.
+Abah-abah penyambung ini ditamatkan dengan cuping M10 3-off untuk sambungan ke bekalan HV dan
+cuping M4 3-off untuk sambungan ke sumber bumi. Pengurusan kabel mesti dipertimbangkan untuk
+memastikan sambungan HV dan bumi dipisahkan dengan jarak terbesar yang mungkin munasabah untuk
+memastikan tiada lampau kilat antara teras dengan bumi yang berbeza.
+Pembersihan hendaklah dilakukan dengan "pengelap selamat" sahaja. "Pengelap selamat" tersedia di
+internet dan pengelap berasaskan IPA bebas lin, bukan statik untuk alat elektronik. Pertimbangan yang teliti
+harus diberikan kepada panduan dalam Bahagian 8.2 tentang pertumbuhan marin dan penyingkiran deposit
+berkapur.
+Rajah 42 - Titik Sambungan Abah-Abah Ujian Berekor
+Rajah 43 - Penunjuk Jajaran (Penyambung Ujian di Bahagian Atas)
+Penunjuk Jajaran
+Kunci / Alur Kunci FizikalCiri Selak
+Berasaskan ROVPemegang
+Dikendalik
+an Secara
+ManualSAMBUNGAN BUMI 3-OFF (M4 LUG)
+SAMBUNGAN HV 3-OFF (M10 LUG)
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 57daripada 69
+Unrestricted
+6.11.1 Pasangan Sambungan Basah ROV
+Reka bentuk penyambung ini adalah berdasarkan mekanisme penyambungan ROV seperti yang diterangkan
+dalam bahagian sebelumnya, oleh itu tiada peralatan penyambungan / penahan tambahan diperlukan. Kolar,
+stad dan nat tidak diperlukan untuk menyambung kepada penyambung sambungan basah ROV, dan oleh itu,
+boleh ditanggalkan, sebelum mengikut arahan dalam bahagian 6.9.
+6.11.2 Suap Lalu ESP Tunggal
+Penyangga Ujian
+Penyangga ujian SpecTRON 8 disediakan dengan kolar, stad dan nat yang boleh digunakan untuk memegang
+penyangga ujian di tempatnya.
+Rajah 44 - Bekas Ujian SpecTRON 8 dengan kolar, stad dan nat
+Untuk menyatukan penyambung dengan selamat, penyambung ujian SpecTRON 8 hendaklah ditawarkan
+kepada penyambung dasar laut dan ditarik masuk menggunakan besi stad untuk memastikan bahawa
+penyambung tidak boleh "melantun".
+Palam Ujian
+Penyangga penyangkut tiub SpecTRON 8 termasuk ciri selak yang diperlukan untuk antara muka dengan
+mekanisme selak penyambung ROV. Oleh itu, arahan dalam bahagian 6.9 hendaklah dipatuhi.
+6.11.3 Suap Lalu ESP Berganda
+Penyangga Ujian
+Penyangga ujian suap lalu ESP berganda dipasang pada palam tree cap menggunakan sistem selak
+berintegrasi. Penyangga ujian perlu ditolak ke palam, sebelum memutar tuil selak untuk memegang kedua-
+dua penyambung bersama-sama.
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 58daripada 69
+Unrestricted
+Palam Ujian
+Palam ujian tersedia untuk disambungkan ke penyangga penyangkut tiub, walaupun biasanya penyambung
+ini hanya digunakan oleh pasukan pemasangan tapak Siemens Energy. Untuk mendapatkan maklumat lanjut,
+sila hubungi Sokongan Teknikal Siemens Energy connectortechnicalsupport.gb@siemens-energy.com .
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 59daripada 69
+Unrestricted
+6.12 Ujian
+Bahaya! Risiko kematian akibat renjatan elektrik.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Awas.  Risiko kerosakan bahan.
+Sebarang peralatan sambungan yang digunakan untuk menyambung pasangan
+penyambung SpecTRON 8 mesti direka bentuk mengikut salah jajaran dan panduan antara
+muka yang disediakan oleh Siemens Energy untuk mengelakkan kerosakan pada pasangan
+penyambung.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Jangan sambungkan ke pin penyangga yang tidak bersambung melainkan menggunakan
+palam ujian
+6.12.1 Tahap Ujian
+Penyambung dan penembus SpecTRON 8 tertakluk pada program FAT yang lengkap sebagai sebahagian
+daripada proses pengeluaran. Penembus juga akan tertakluk pada ujian SIT selepas pemasangan oleh
+Siemens Energy Subsea Connectors pada peralatan pelanggan (cth. Transformer dan motor). Pelanggan juga
+boleh melakukan ujian tambahan, tertakluk pada sekatan yang dinyatakan di bawah.
+6.12.2 Ujian Elektrik
+Ujian rintangan penebat
+oPenyambung mungkin tertakluk pada ujian IR pada voltan sehingga 5 kV. Kriteria penerimaan
+universal tidak boleh diberikan kerana hasilnya bergantung pada susunan ujian, panjang
+kabel/abah-abah, dan peralatan (cth. motor, transformer) yang sedang diuji. Untuk ujian
+pengesahan ke atas peralatan selepas penghantaran, keputusan yang diperoleh di tapak
+hendaklah dibandingkan dengan keputusan ujian penerimaan kilang yang diperincikan
+dalam dokumentasi pengeluaran peralatan.
+Ujian rintangan talian
+oPenyambung dan penembus boleh tertakluk pada ujian rintangan talian sama ada pada arus
+rendah atau arus terkadar. Sila rujuk spesifikasi penyambung atau projek sebelum
+memulakan ujian pada arus terkadar. Kriteria penerimaan universal tidak boleh diberikan
+kerana hasilnya bergantung pada susunan ujian, panjang kabel/abah-abah, dan peralatan
+(cth. motor, transformer) yang sedang diuji. Untuk ujian pengesahan ke atas peralatan
+selepas penghantaran, keputusan yang diperoleh di tapak hendaklah dibandingkan dengan
+keputusan ujian penerimaan kilang yang diperincikan dalam dokumentasi pengeluaran
+peralatan.
+Ujian Voltan Tinggi
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 60daripada 69
+Unrestricted
+oWalaupun ada kemungkinan untuk menjalankan ujian voltan AC atau DC tinggi bagi
+penyambung, pelompat dan penembus, jabatan teknikal Siemens Energy Subsea Connectors
+harus dirujuk sebelum memulakan sebarang ujian.
+Ujian Nyahcas Separa
+oSila rujuk bahagian teknikal Siemens Energy Subsea Connectors sebelum menjalankan ujian
+nyahcas separa (PD) bagi abah-abah, penyambung dan penembus.
+6.12.3 Ujian Tekanan/Hidrostatik
+Ujian Hidrostatik
+oPenyambung boleh tertakluk pada tekanan ujian hidrostatik seperti yang ditakrifkan oleh
+lembaran data penyambung dan abah-abah.
+Ujian Tekanan Kebezaan (Penembus)
+Penembus boleh tertakluk pada ujian tekanan kebezaan seperti yang ditakrifkan dalam
+keperluan projek atau lembaran data penyambung.
+Ujian Gas (Penembus)
+oPenembus boleh tertakluk pada ujian kebocoran helium tekanan rendah bagi kedap alam
+sekitar tetapi tidak boleh diuji dengan menggunakan gas tekanan tinggi. Pengguna akhir tidak
+boleh melakukan ujian kebocoran pada penyambung atau abah-abah.
+6.12.4 Pemeriksaan Visual
+Selepas sebarang ujian integrasi sistem, pemeriksaan penuh semua peralatan SpecTRON yang diuji harus
+dijalankan. Fokus hendaklah diberikan pada kawasan kritikal seperti pin penyangga, dan sentuhan skrin
+selubung penyangga yang harus bebas daripada sebarang kerosakan mekanikal seperti calar atau bopeng.
+Jika SIT memerlukan peralatan SpecTRON untuk tenggelam sebahagian atau sepenuhnya dalam air atau air
+laut, ia hendaklah menjalani proses pembersihan penuh seperti yang dinyatakan dalam bahagian 8.1 sama
+ada ia akan diletakkan dalam simpanan atau kekal pada struktur untuk pengaturan.
+6.13 Rujukan pantas
+Untuk rujukan pantas produk, lihat bahagian 1.3, yang menyediakan amaran asas, berhati-hati dan butiran
+perhubungan serta maklumat lain.
+Sebagai tambahan kepada perkara di atas, beberapa butiran juga disenaraikan pada label dan penandaan
+produk seperti, jenis sistem, nombor bahagian (P/N), nombor siri (S/N), kadar elektrik, tekanan dan suhu
+seperti yang diperincikan dalam Bahagian. 1.3 dan 1.4.
+6.14 Pelupusan produk sisa
+Pelupusan selamat atau kitar semula sisa/produk akhir hayat adalah disyorkan dengan memerhati dan
+mematuhi undang-undang alam sekitar kawasan, wilayah, kebangsaan atau antarabangsa yang berkenaan
+dengan betul.
+Untuk mengembalikan pembungkusan sisa dan/atau produk akhir hayat kepada pengeluar, sila hubungi
+Pegawai Keselamatan Produk di subsea.connectors.productsafety.gb@siemens-energy.com .
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 61daripada 69
+Unrestricted
+7 MAKLUMAT PENGGUNA
+7.1 Operasi normal dan rosak/berbahaya
+7.1.1 Pembuangan minyak yang kelihatan daripada penyambung
+Semasa operasi biasa pasangan sambungan basah SpecTRON 8, menjadi perkara biasa untuk selaput minyak
+ditinggalkan pada pin penyangga selepas penyambungan. Mungkin juga terdapat sedikit sisa minyak daripada
+pemasangan yang tertinggal dalam jumlah pampasan dalam penyambung yang mungkin kelihatan semasa
+ujian basah awal.
+Kebocoran minyak yang berterusan atau banyak daripada port pampasan pada sesendal dan palam, atau
+daripada muncung palam mungkin menjadi bukti kerosakan pada bahagian dalam penyambung.
+7.1.2 Perlindungan pin sentuhan penyangga
+Awas.  Risiko kerosakan bahan.
+Dalam apa jua keadaan pin sentuhan dalam penyambung penyangga terdedah kepada air
+laut dengan kuasa terpasang. Sekiranya keadaan ini berlaku, permukaan sentuhan pin
+akan merosot dengan cepat disebabkan tindakan elektrolit.
+Sekiranya pin yang rosak ini disambungkan ke dalam soket kemudiannya, terdapat risiko
+kerosakan yang sangat tinggi  pada penebat dan kedap pada penyambung palam.
+Jika penyambung dibiarkan tidak bersambung dalam air laut, penyambung tiruan dan penutup pelindung
+dasar laut mesti digunakan untuk melindungi sesentuh pin dalam penyambung penyangga. Masa terkumpul
+maksimum yang sentuhan pin boleh terdedah kepada air laut sepanjang hayat penyambung ialah 60 hari,
+untuk penyambung yang dibekalkan sebelum tahun 2013, tempoh ini ialah 28 hari.
+Terlalu banyak pendedahan akan meningkatkan risiko kerosakan kakisan atau pertumbuhan marin pada
+permukaan pin sentuhan penyangga. Ini boleh menyebabkan kerosakan pada kedap dan penebat dalam
+sentuhan soket.
+7.2 Perlindungan Katodik
+Penyambung SpecTRON 8 biasanya dihasilkan daripada keluli tahan karat Super Duplex (UNS S32550/UNS
+S32760). Beberapa unit penamatan umbilikal bermodul (MUTU), penyambung ujian, penamatan umbilikal
+dan aksesori dihasilkan daripada keluli tahan karat 316L (UNS S31603).
+7.2.1 Super Duplex (UNS S32550/UNS S32760, Bahan Siemens Energy Subsea Connectors
+“BQ”)
+Penyambung dan penembus keluli tahan karat Super Duplex tidak memerlukan sambungan ke sistem CP, dan
+Siemens Energy Subsea Connectors biasanya tidak membekalkan tali CP dengan penyambung Super Dupleks,
+namun, jika perlu, Siemens Subsea Connectors boleh membekalkan tali CP dengan penyambung Super
+Duplex, dengan spesifikasi yang sama seperti tali yang digunakan pada penyambung 316L, seperti di atas.
+Penyambung SpecTRON 8 yang dihasilkan dalam bahan Super Duplex telah dianalisis untuk kerentanan
+kepada HISC menurut DNV RP-F112 (Reka Bentuk Peralatan Dasar Laut Keluli Tahan Karat Dupleks yang
+Terdedah kepada Perlindungan Katod). Oleh itu, ia boleh disambungkan kepada sistem perlindungan katod,
+tetapi disebabkan oleh pertumbuhan berkapur boleh berbeza-beza dalam keadaan air laut yang berbeza,
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 62daripada 69
+Unrestricted
+pengguna akhir bertanggungjawab untuk menilai pertumbuhan berkapur yang dijangka sepanjang hayat
+sistem penyambung.
+7.2.2 Keluli Tahan Karat 316L (UNS S31603, Bahan Siemens Energy Subsea Connectors “AA”)
+Awas.  Risiko kerosakan bahan.
+Unit penamatan umbilik bermodul (MUTU) keluli tahan karat 316L (UNS S31603) mesti
+sentiasa disambungkan kepada sistem CP (Perlindungan Katod) untuk menahan
+persekitaran saliferous yang kasar.
+Siemens Energy Subsea Connectors menyediakan tali CP dengan penyambung yang dihasilkan mengikut
+panjang yang ditentukan oleh pengguna akhir. Tali CP dihasilkan daripada keluli tahan karat 316 dengan
+keratan rentas 16 mm2, dan terminal cincin M6 untuk sambungan ke sistem CP.
+7.3 Penyelesaian masalah (Soalan Lazim)
+Untuk sebarang pertanyaan yang tidak disertakan di bawah, sila hubungi mana-mana yang berikut:
+Jabatan Alamat e-mel
+Keselamatan Produk subsea.connectors.productsafety.gb@siemens-energy.com
+Sokongan Teknikal connectortechnicalsupport.gb@siemens-energy.com
+Pemasangan dan Servis susultlcmsupport.gb@siemens-energy.com
+Jualan connectorsales.gb@siemens-energy.com
+Jadual 8 - Penyelesaian masalah maklumat perhubungan produk
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 63daripada 69
+Unrestricted
+8 PENYELENGGARAAN PRODUK
+Bahaya! Risiko kematian akibat renjatan elektrik.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+Awas.  Risiko kerosakan bahan.
+Penyambung tidak boleh dibuka sambungan semasa dalam keadaan hidup.
+Berikan masa yang mencukupi untuk sistem membenarkan sebarang voltan berbaki
+dinyahcas sebelum membuka sambungan penyambung
+Penyambung mesti disambungkan sepenuhnya sebelum diberikan tenaga
+Penyangga tidak boleh diberikan tenaga melainkan disambungkan dengan palam
+8.1 Pembersihan dan Pengeringan Penyambung
+Awas.  Risiko kakisan kepada sentuhan elektrik.
+Proses pembersihan yang ditentukan mesti diikuti apabila penyambung telah diambil
+daripada pengaturan atau selepas ia tersentuh air.
+Amaran. Risiko kecederaan mata
+Pakai pelindung mata yang sesuai apabila menggunakan udara termampat untuk
+mengeluarkan air atau isopropil alkohol daripada bahagian dalam penyambung
+Amaran. Risiko kerengsaan kulit
+Memakai pelindung tangan yang sesuai semasa menggunakan isopropil alkohol untuk
+membersihkan komponen penyambung
+8.1.1 Penyangga
+Bilas selubung penyangga dan pin dengan baik menggunakan air tawar, botol picit boleh digunakan
+untuk menghilangkan sebarang bahan cemar di sekeliling hujung pin.
+Pin Penyangga
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 64daripada 69
+Unrestricted
+Rajah 45 – Komponen Bekas untuk pengeringan dan pembersihan
+Rajah 46 – Tip Pin Bekas
+Lap menggunakan tisu bebas lin, jika perlu
+Bilas dengan Isopropil Alkohol (IPA alkohol mutlak 100%)
+Tiada pengumpulan IPA atau air dalam Selubung Penyangga. Udara termampat boleh digunakan
+untuk menyebarkan sebarang cecair terkumpul tetapi pin Penyangga mesti diperiksa semula untuk
+pencemaran
+Biarkan pin Penyangga kering sepenuhnya
+Seharusnya tiada kerosakan yang terdapat pada kawasan sentuhan pin bekas (Rajah 47)
+Rajah 47 - Kawasan sentuhan pin bekas seperti yang dibekalkan
+Sapukan minyak dielektrik pada pin. Minyak dielektrik mestilah TDO1 untuk mengelakkan masalah
+keserasian dengan komponen elastomer. Siemens Subsea menasihatkan bahawa satu sambungan
+harus dilakukan dengan penyambung Palam untuk memberikan liputan yang mencukupi. (Jika tiada
+palam tersedia, hubungi Siemens Energy Subsea Connectors untuk minyak TD01)
+Penutup pelindung mesti dipasang semula pada peringkat ini. Penting untuk penutup pelindung dan
+Selubung/Pin penyangga bersih dan kering sebelum dipasang supaya kelembapan tidak
+terperangkap di sekitar kawasan sentuhan pin yang boleh mengakibatkan kakisan dalam jangka masa
+panjang.
+Hujung Pin
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 65daripada 69
+Unrestricted
+8.2 Penyelenggaraan produk (orang mahir)
+8.2.1 Pembuangan Pertumbuhan Marin dan Mendapan Berkapur
+Amaran. Risiko kecederaan diri yang ringan kepada orang yang sensitif terhadap larutan 50% Asid
+Sitrik.
+Pakai pelindung tangan dan mata yang sesuai semasa pengendalian.
+Awas.  Risiko kerosakan bahan.
+Hanya gunakan 50% Asid Sitrik semasa pembersihan. Pembersih asid lain, seperti 50% Asid
+Asetik, tidak boleh digunakan kerana ia boleh menyebabkan kemerosotan pada bahan
+elastomer.
+Kaedah memahat dan melelas adalah tidak digalakkan.
+Pancutan air di udara h arus dielakkan untuk meminimumkan kebarangkalian kerosakan
+pada penyambung. Walau bagaimanapun, penggunaan pancutan air boleh diterima,
+dengan syarat pancutan itu tidak sekali-kali diarahkan ke pin ulang- alik di bahagian
+hadapan palam, atau ke dalam lubang penyangga.
+Bilas penyambung menggunakan air tawar dengan teliti selepas sebarang operasi
+pembersihan
+Selepas mendapatkan semula, Siemens Energy mengesyorkan agar penyambung dibersihkan daripada
+pertumbuhan marin dan berkapur.
+Untuk menghilangkan pertumbuhan kalsit daripada penyambung Siemens Energy Subsea, disyorkan untuk
+menggunakan larutan 50% Asid Sitrik. Rajah 49 menunjukkan lokasi yang harus dielakkan untuk
+penyingkiran kuasa pencucian pertumbuhan kalsit.
+Adalah disyorkan supaya larutan diperkenalkan melalui penyesuai port pembilasan (seperti Rajah 49) untuk
+memberikan ketepuan maksimum dalam anulus Palam/Bekas. Rongga lain pada selubung penyangga boleh
+digunakan untuk memperkenalkan penyelesaian bergantung pada akses.
+Semua bahan elastomer dan polimer yang terdedah pada air laut di penyambung Siemens Energy telah
+diuji terhadap 50% Asid Sitrik dan sesuai untuk pendedahan berkala semasa operasi pembersihan
+sepanjang hayat penyambung.
+Rajah 48 – Lokasi Pencucian Kuasa Palam SpecTRON 8
+
+
+
+
+
+
+
+
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 66daripada 69
+Unrestricted
+Rajah 49 – Lokasi Pencucian Kuasa Bekas SpecTRON 8
+8.2.2 Port Pancuran Penyangga
+Awas.  Risiko kerosakan bahan.
+Hanya gunakan 50% Asid Sitrik semasa pembersihan. Pembersih asid lain, seperti 50% Asid
+Asetik, tidak boleh digunakan kerana ia boleh menyebabkan kemerosotan pada bahan
+elastomer.
+Tekanan suntikan maksimum ialah 0.5 bar
+Amaran. Risiko kecederaan
+Suntikan 50% Asid Sitrik ke dalam antara muka palam/penyangga hendaklah dilakukan
+dengan penyambung direndam dalam air, atau perlindungan percikan/semburan yang
+sesuai di sekeliling penyambung.
+Pakai pelindung mata jika operasi dilakukan di bahagian atas
+Memakai pelindung tangan yang sesuai semasa mengendalikan penyambung selepas
+dipisahkan
+Tekanan suntikan maksimum ialah 0.5 bar
+Port pancuran penyangga SpecTRON 8 boleh disambungkan kepada peralatan di bahagian atas atau stab
+panas dasar laut untuk membolehkan suntikan kimia terus pada antara muka palam/penyangga untuk
+mengeluarkan pertumbuhan berkapur. Penyesuai port pembilasan (ditunjukkan dalam Rajah 49) mempunyai
+antara muka G 3/8-19 (3/8” BSP-P). Antara muka ini boleh dikonfigurasikan untuk membenarkan suntikan
+dalam beberapa senario, seperti yang diterangkan di bawah:
+Disambungkan kepada paip fleksibel dan stab panas untuk membolehkan penggunaan dasar laut
+pada modul yang sukar diambil, contohnya penyambung Subsea Umbilical Termination Assembly
+(SUTA), meningkatkan daya tahan terhadap pertumbuhan berkapur di dasar laut
+Disekat dengan bung yang sesuai untuk melindungi ancaman daripada pertumbuhan marin dan
+berkapur, untuk membolehkan penggunaan selepas pengambilan untuk memudahkan pengasingan
+penyambung pada modul yang direka bentuk untuk mendapatkan semula.
+
+
+
+
+Penyesuai Port
+Pancuran
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 67daripada 69
+Unrestricted
+Dibiarkan terbuka, jika tidak bertujuan untuk digunakan, atau jika pembersihan antara muka selepas
+pengambilan semula boleh dilakukan.
+Dalam mana-mana senario ini, 50% asid sitrik kemudiannya boleh disuntik ke dalam antara muka, pada
+tekanan maksimum 0.5 bar. Isipadu 500 ml hingga 1 liter akan memancur anulus sepenuhnya antara palam
+dengan penyangga. Jika penyambung tidak dilepaskan selepas satu penggunaan, proses itu boleh diulang.
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 68daripada 69
+Unrestricted
+9 KOMEN/MAKLUM BALAS PELANGGAN
+Sila lengkapkan bahagian Tandatangan di bahagian bawah borang untuk mengesahkan bahawa setiap
+halaman dokumen ini telah dibaca dan dipatuhi sepenuhnya.
+Nama dan Parap Pemula (HURUF BESAR) Tarikh
+ Maklumat Perhubungan  Maklumat Perhubungan
+Rujukan Projek Pelanggan Wilayah
+Jenis Produk Nombor Bahagian (P/N) Nombor Siri (S/N)
+Sila masukkan butiran di bawah cth. komen; aduan; bukti amalan yang baik; laporan insiden;
+pemerhatian dan cadangan, termasuk yang berkaitan dengan kesihatan, keselamatan atau persekitaran,
+dll., juga merangkumi sebarang nama/maklumat perhubungan kakitangan lain yang berkaitan.
+Bahagian Tandatangan
+Nama (HURUF BESAR) Tandatangan Tarikh
+Sila hantar borang yang lengkap kepada Pegawai Keselamatan Produk melalui e-mel di alamat berikut:
+subsea.connectors.productsafety.gb@siemens-energy.com
+No. Dokumen: DOC0075
+Tarikh Keluaran: 28/10/2022
+Semakan: 16
+Halaman: 69daripada 69
+Unrestricted
+Diterbitkan oleh
+Siemens Energy Limited
+Faraday House Sir William Siemens Square
+Frimley, Camberley
+Surrey
+GU16 8QD, United Kingdom
+Untuk maklumat lanjut, sila layari laman web:
+siemens-energy.com/subsea
+Tertakluk pada perubahan dan ralat. Maklumat yang diberikan dalam dokumen
+ini hanya mengandungi penerangan umum dan/atau ciri-ciri prestasi yang
+mungkin tidak selalu menggambarkan secara khusus yang diterangkan, atau
+yang mungkin mengalami pengubahsuaian semasa pembangunan produk
+selanjutnya. Ciri-ciri prestasi yang diminta hanya mengikat apabila ia
+dipersetujui secara nyata dalam kontrak yang dimuktamadkan.
+Siemens Energy ialah tanda dagangan yang dilesenkan oleh Siemens AG.

@@ -1,0 +1,205 @@
+ © 202 3 Siemens Energy  Page 1 
+   
+Benson ® 
+HRSG  
+Reference list  
+Updated:  November  2024 
+siemens -energy.com  
+
+ © 202 3 Siemens Energy  Page 2 References since 1999  
+No. 
+Start of 
+opera-
+tion  Project  
+Country  CCPP supplier  HRSG supplier  
+HRSG type  Gas turbine  Configuration  
+Power output  No. of 
+HRSGs  HP 
+steam  
+p / bara  
+T / °C  
+1 Cottam  Siemens  Dt. Babcock  SGT5 -4000F  s-sh 1 125 
+1999  UK  horizontal   ~ 390 MW   565 
+2 Herdecke  Siemens  Ansaldo  SGT5 -4000F  m-sh 1:1 1 125 
+2007  Germany   horizontal   ~ 400 MW   565 
+3 Hamm -Uentrop  Siemens  Ansaldo  SGT5 -4000F  2x s-sh 2 125 
+2007  Germany   horizontal   ~ 800 MW   565 
+4 Langage  Alstom  Alstom  GT26  m-sh 2:1 2 160 
+2010  UK  horizontal   ~ 885 MW   585 
+5 Lingen  Alstom  Alstom  GT26  m-sh 2:1 2 160 
+2010  Germany   horizontal   ~ 850 MW   585 
+6 Irsching 5  Siemens  STF SGT5 -4000F  m-sh 2:1 2 125 
+2010  Germany   horizontal   ~ 820 MW   565 
+7 Sloe Centrale  Siemens  CMI SGT5 -4000F  2x s-sh 2 125 
+2009  Netherlands   horizontal   ~ 870 MW   565 
+8 Severn Power  Siemens  CMI SGT5 -4000F  2x s-sh 2 125 
+2010  UK  horizontal   ~ 870 MW   565 
+9 Gönyü  Siemens  STF SGT5 -4000F  s-sh 1 125 
+2010  Hungary   horizontal   ~ 400 MW   565 
+10 Malzenice  Siemens  STF SGT5 -4000F  s-sh 1 125 
+2010  Slovakia   horizontal   ~ 400 MW   565 
+11 Pego  Siemens  NEM  SGT5 -4000F  2x s-sh 2 125 
+2010  Portugal   horizontal   ~ 870 MW   565 
+12 Irsching 4  Siemens  Siemens  SGT5 -8000H  s-sh 1 170 
+2011  Germany   horizontal   ~ 530 MW   600 
+13 Joetsu 1 -3 Hitachi  BHK GE F7FA+e  3x m-sh 2:1 6 150 
+2012  Japan   horizontal   ~ 1560 MW   565 
+14 Joetsu 4  Hitachi  BHK GE F7FA+e  m-sh 2:1 2 150 
+2012  Japan   horizontal   ~ 520 MW   565 
+15 Lodi  Siemens  N/E SGT6 -5000F  m-sh 1:1 1 112 
+2012  US   horizontal   ~ 284 MW   560 
+16 Bugok 3  Siemens  BHI SGT6 -8000H  s-sh 1 150 
+2013  South Korea    horizontal    ~ 400 MW   585 
+17 Andong  Siemens   BHI SGT6 -8000H  s-sh 1 150 
+2014  South Korea   horizontal   ~400 MW   585 
+18 Ansan  Siemens  BHI SGT6 -8000H  m-sh 2:1 2 150 
+2014  South Korea    horizontal    ~ 820 MW   585 
+19 Panda Temple 1 Siemens  NEM  SGT6 -5000F  m-sh 2:1 2 160 
+2014  US   horizontal  duct firing  ~ 700 MW   565 
+ © 202 3 Siemens Energy  Page 3 No. 
+Start of 
+opera-
+tion  Project  
+Country  CCPP supplier  HRSG supplier  
+HRSG type  Gas turbine  Configuration  
+Power output  No. of 
+HRSGs  HP 
+steam  
+p / bara  
+T / °C  
+20 Sherman  Siemens  NEM  SGT6 -5000F  m-sh 2:1 2 160 
+2014  US   horizontal  duct firing  ~ 700 MW   565 
+21 Lausward  Siemens  Siemens  SGT5 -8000H  s-sh 1 170 
+2016  Germany   horizontal   ~ 595 MW   600 
+22 Posco 7 -9 Siemens  BHI SGT6 -8000H  3x s-sh 3 150 
+2014/15  South Korea    horizontal    ~ 1200 MW   585 
+23 Daegu  Siemens  BHI SGT6 -8000H  s-sh 1 150 
+2014/15  South Korea    horizontal    ~ 400 MW   585 
+24 Cengiz Samsun  Siemens  Doosan  SGT5 -8000H  s-sh 1 170 
+2015  Turkey    horizontal    ~ 590 MW   585 
+25 Panda Temple 2 Siemens  NEM  SGT6 -5000F  m-sh 2:1 2 160 
+2015  US   horizontal  duct firing  ~ 700 MW   565 
+26 TNB Prai  Samsung C&T  Doosan  SGT5 -8000H  2x s-sh 2 170 
+2015  Malaysia    horizontal    ~ 1150 MW   585 
+27 San Gabriel  Siemens  NEM  SGT6 -8000H  s-sh 1 160 
+2016  Philippines    horizontal    ~ 400MW   585 
+28 Bandirma 2 Siemens  NEM  SGT5 -8000H  s-sh 1 175 
+2016  Turkey    horizontal    ~ 600 MW   600 
+29 Dangjin 4  Siemens  DKT SGT6 -8000H  m-sh 2:1 2 150 
+2017  South Korea    horizontal    ~ 820 MW   585 
+30 Shaybah  SEPCO  NEM  GE 7EA  2x m-sh 3:1 6 92 
+ Saudi Arabia    vertical    ~ 370 MW   537 
+31 Beni Suef  Siemens  NEM  SGT5 -8000H  4x m-sh 2:1 8 165 
+2018  Egypt    vertical    ~ 9840 MW   585 
+32 Burullus  Siemens  NEM  SGT5 -8000H  4x m-sh 2:1 8 165 
+2018  Egypt    vertical    ~ 9840 MW   585 
+33 New Capital  Siemens  NEM  SGT5 -8000H  4x m-sh 2:1 8 165 
+2018  Egypt    vertical    ~ 9760 MW   585 
+34 De Warnes  Siemens  NEM  SGT-800 4x m-sh 2:1 8 86 
+2019  Bolivia    vertical    ~ 618MW   522 
+35 Del Sur  Siemens  NEM  SGT-800 4x m-sh 2:1 8 86 
+2019  Bolivia    vertical    ~ 618MW   522 
+36 Entre Rios  Siemens  NEM  SGT-800 3x m-sh 2:1 6 86 
+2019  Bolivia    vertical    ~ 477MW   522 
+37 El Campesino  Siemens  NEM  SGT5 -8000H  s-sh 1 175 
+ Chile    horizontal    ~ 610 MW   600 
+38 South Bangkok  Siemens  NEM  SGT5 -8000H  2x s-sh 2 175 
+2020  Thailand    vertical    ~ 1200 MW   600 
+39 Punjab  CMEC  NEM  SGT5 -8000H  m-sh 2:1 2 175 
+2023  Pakistan    horizontal    ~ 12 50 MW  600 
+ © 202 3 Siemens Energy  Page 4 No. 
+Start of 
+opera-
+tion  Project  
+Country  CCPP supplier  HRSG supplier  
+HRSG type  Gas turbine  Configuration  
+Power output  No. of 
+HRSGs  HP 
+steam  
+p / bara  
+T / °C  
+40 Martano  Shanghai  
+Electric  Siemens HTT  SGT-800 m-sh 6:1 6 94 
+ Panama  vertical   ~ 380 MW   540 
+41 Keadby 2  Siemens  Siemens HTT  SGT5 -9000HL  s-sh 1 170 
+2022  UK  vertical   ~ 890 MW   600 
+42 Herne 6  Siemens  Siemens HTT  SGT5 -8000H  m-sh 1:1 1 160 
+2022  Germany   horizontal   ~ 650 MW   600 
+43 Estrella del Mar 3 Siemens  IST SGT-800 m-sh 2:1 2 85 
+2022  Dominican Rep .  vertical   ~ 145 MW   540 
+44 Yeoju  SK E &C Siemens HTT  SGT6 -9000HL  m-sh 2:1 2 170 
+2023  South Korea  horizontal   ~ 1000 MW   600 
+45 Hynix  SK E &C Siemens HTT  SGT6 -9000HL  2 x m-sh 1:1 2 170 
+2023  South Korea  horizontal   ~ 1100 MW   600 
+46 FES Siemens 
+Gamesa  Siemens HTT  - ETES  1  
+ Germany  vertical  (no CCPP)     
+47 Ulsan  SK E&C  SE HTT SGT6 -9000HL  m-sh 2:1  2 175 
+2024  South Korea  horizontal   ~ 1250 MW   600 
+48 Sun Ba Phase 2  Siemens Energy  
+(abbr. SE)  SE HTT  SGT6 -9000HL  m-sh 2:1  2 170 
+2024  Taiwan  horizontal   ~ 1250 MW   600 
+49 GNA 2  Siemens  SE HTT  SGT6 -9000HL  m-sh 3:1  3 170 
+ Brazil  horizontal   ~ 1700 MW   600 
+50 Ostiglia  Siemens Energy  SE HTT  SGT5 -9000HL  m-sh 1:1  1 170 
+ Italy  vertical   ~ 900 MW   600 
+51 Komotini  Terna S.A.  SE HTT  SGT5 -9000HL  m-sh 1:1  1 170 
+ Greece  vertical   ~ 900 MW   600 
+52 Grudziadz  Siemens Energy  JCE SGT5 -4000F  s-sh 1 170 
+ Poland  horizontal   ~ 580 MW   585 
+53 Rybnik  Siemens Energy  NEM  SGT5 -9000HL  m-sh 1:1 1 170 
+ Poland  vertical   ~ 900 MW   600 
+54 Adamow  Siemens Energy  JCE SGT5 -4000F s-sh 1 170 
+ Poland  horiz ontal   ~ 580 MW   585 
+      Total:   
+      134  
+ 
+  
+ © 202 3 Siemens Energy  Page 5 Abbreviations  
+CCPP  combined  cycle power plant  
+ 
+HRSG  heat recovery steam generator  
+ 
+HP high pressure stage  
+ 
+p pressure  
+ 
+T temperature  
+ 
+s-sh single -shaft  
+ 
+m-sh multi-shaft  
+ 
+ETES  electric thermal energy storage  
+  
+ © 202 3 Siemens Energy  Page 6 
+ 
+ 
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG 
+Gas Services  
+Siemenspromenade  9 
+91058 Erlange n 
+Germany  
+For more information, please contact  
+Email: jan.brueckner@siemens -energy.com  
+© Siemens Energy, 202 4 
+Siemens Energy is a trademark licensed by Siemens AG.  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance features which 
+may not always specifically reflect those described, or which may un-
+dergo modification in the course of further devel opment of the prod-
+ucts. The requested performance features are binding only when they 
+are expressly agreed upon in the concluded contract. All product desig-
+nations may be trademarks or product names of Siemens Energy 
+Global GmbH & Co. KG or other companies  whose use by third parties 
+for their own purposes could violate the rights of the owners.   For the U.S. published by  
+ 
+Siemens Energy, Inc.  
+Gas Services  
+4400 N Alafaya Trail  
+Orlando, FL 32826  
+USA 
+ 
+   

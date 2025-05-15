@@ -1,0 +1,144 @@
+Background
+Because there’s more and more focus on decarbonization 
+and generating clean energy, it’s important for plant opera-
+tors to understand their emission profile by monitoring and 
+recording data. It’s typically required for plants to provide 
+emissions data from its operating equipment to local 
+authorities in order to demonstrate compliance with the 
+relevant regulations.
+There are many different options for emission monitoring, 
+from a temporary arrangement involving an expert bringing 
+instrumentation equipment to the plant to installing a 
+permanent measurement system. Given the requirement to 
+frequently record and provide emission information, many 
+operators are looking at permanent, cost-effective solutions.  
+ 
+ 
+There are two main options for a permanent solution:
+1. Physical version: CEMS  
+(continuous emissions monitoring system).  
+A CEMS product employs physical sensors that 
+evaluate gas extracted from the exhaust.  
+The system uses calibration gases, which re- 
+quire continual maintenance to work effectively.  
+  
+2. Digital version: PEMS  
+(predictive emissions monitoring system).  
+The PEMS product is a digital solution that 
+takes engine operating data and feeds it 
+through a unique set of algorithms to deter -
+mine the engine’s emissions signature.Product overview
+• Prediction of exhaust emissions using internal system 
+engine parameters (no extra hardware is needed on- site).
+• The Siemens Energy PEMS uses unique knowledge of the 
+gas turbine product to create an algorithm that produces 
+an accurate emissions signature.
+• PEMS evaluates emissions in accordance with international 
+standards like EPA 40 CFR/EU LCP/MC P, and CEN TS 17198.Predictive Emissions
+Monitoring System
+(PEMS)
+Providing an overview of your  
+equipment to review and reduce emissions
+siemens-energy.com
+Measure Calculate ReportPredictive emissions monitoring system
+PEMS allows you to 
+accurately calculate 
+the emissions of your 
+equipment
+Page 1 © 2024 Siemens Energy
+Fleet application
+• Customers who operate our gas turbines.
+• Customers and operators in the power generation and 
+oil and gas industries who want to monitor and under -
+stand their emissions footprint (NOx, CO, and CO2).
+• Customers and operators who want more insight into 
+their emissions levels so they can make more informed  
+decisions about plant operations, with the potential to 
+modify their operating profile to reduce emissions and 
+fuel and maintenance costs.
+• Customers who are looking for a lower-cost alternative 
+to a continuous emissions monitoring system (CEMS), 
+which requires significant capital expenditures (CAPEX)
+and operating expenses (OPEX).
+Benefits
+Emissions calculations with no additional equip-
+ment or requirements on-site.
+Significant reduction in operational and mainte-
+nance costs compared to a dedicated analyzer- 
+based emissions measurement system (CEMS).
+Confidence in the accuracy of the PEMS model 
+thanks to OEM thermodynamic knowledge of the 
+engine as well as several years of reliable factory 
+test and field operating data.
+Combined lower CAPEX and OPEX (estimated 50 
+to 80 percent) compared to CEMS over a compa-
+rable lifecycle: eliminates the need to hire skilled 
+operators and buy expensive calibration test gases.
+Our PEMS solution can work with highly contami-
+nated flue gases and environmental conditions, 
+because it’s a digitalized solution; there’s also no 
+costly SIL/ATEX compliance.
+PEMS can also be used by the customer and by 
+Siemens Energy for more rapid identification of 
+performance issues using PEMS data for fault 
+location.
+Page 2 © 2024 Siemens EnergySiemens Energy l Predictive emissions monitoring system (PEMS)
+PEMS offers a  
+significant reduction 
+in operational and 
+maintenance costs. 
+• More than eight successful implementations worldwide 
+for dry low emission (DLE) and non-DLE combustors.  
+• Proven technologies for A35, LM2500, SGT-400 (13 MW), 
+SGT-600, 700, 750 and 800 are commercially available.  
+• All other frames are available upon customer request for 
+first-time applications.Support services and implementation
+Data is received via remote connection, thanks to 
+algorithms embedded in our well-known cloud 
+platforms STA-RMS and Omnivise.  
+ 
+PEMS is integrated in our MyHealth and Omnivise 
+digital front-end platforms, so it can send data 
+and the ability to analyze it straight to your 
+chosen device.
+The algorithm can be embedded in the main 
+turbine control system software, including PCS7, 
+Allen-Bradley™, and Omnivise T3000.
+Emissions data is displayed in high resolution in 
+real time directly on the human-machine inter -
+face (HMI); minor activities on-site are required.
+Cloud-based  
+solution
+Embedded  
+control  
+solution
+More information
+For more information about PEMS, 
+please scan the QR code or visit our 
+website.Reference projects and applications
+Page 3 © 2024 Siemens Energy
+Published by
+Siemens Energy Global GmbH & Co. KG  
+Gas Services  
+Siemenspromenade 9  
+91058 Erlangen, Germany
+For the U.S. published by  
+Siemens Energy Inc.  
+Gas Services  
+4400 N Alafaya Trail  
+Orlando, FL 32826, USA
+If you require further information in respect of the above please  
+contact your Siemens Energy designated representative.
+Siemens Energy is a trademark licensed by Siemens AG.
+siemens-energy.com
+© Siemens Energy, 2024
+Subject to changes and errors. The information given in this document only 
+contains general descriptions and/or performance features which may not 
+always specifically reflect those described, or which may undergo modifica-
+tion in the course of further development of the products. The requested 
+performance features are binding only when they are expressly agreed upon 
+in the concluded contract.
+All product designations may be trademarks or product names of Siemens 
+Energy Global GmbH & Co. KG or other companies whose use by third par -
+ties for their own purposes could violate the rights of the owners.
+Page 4 © 2024 Siemens EnergySiemens Energy l Predictive emissions monitoring system (PEMS)

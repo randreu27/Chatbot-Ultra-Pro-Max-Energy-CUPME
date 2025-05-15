@@ -1,0 +1,181 @@
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 1 
+ 
+  
+  
+  
+1. Registra ce 
+ 
+SE E2E ARIBA Implementation  
+siemens- energy.com
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 2 1. REGISTRACE DODAVATELE 
+1.1. Pozvánka k registraci 
+Pro registraci Vaší společnosti u Siemens Energy obdržíte email podobný níže uvedenému (emailová adresa @eu-
+stmp.ariba.com). Prosím klikněte na odkaz v pozvánce pro vytvoření účtu pro Vaši společnost v SAP ARIBA.  
+Pokud nemůžete najít tento email, prosím zkontrolujte také složku SPAM. 
+ 
+ 
+1.2. Vytvoření účtu nebo Přihlášení 
+Po kliknutí na odkaz v emailu budete přesměrováni na přihlašovací stránku ARIBA. Zde můžete buď vytvořit nový 
+účet, v případě že Vaše společnost nemá ARIBA účet (klikněte na „Sign up“), nebo se přihlásit k již existujícímu 
+účtu zadáním přihlašovacích informací (klikněte na „Log in“) 
+Pokud již máte účet, prosím přihlaste se Vašimi přihlašovacími údaji a pokračujte bodem 2.0
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 3 1.3. Vytvořte účet ARIBA 
+1.3.1. Informace o společnosti (Company Information) 
+Dalším krokem je poskytnout požadované informace k vytvoření účtu ARIBA.  V sekci Company Information  
+prosím poskytněte a zkontrolujte všechny požadované informace. 
+ 
+1.3.2. Informace o uživatelském účtu (User account information) 
+Další část se týká informací o uživatelském účtu – prosím, zkontrolujte a přidejte všechny požadované informace 
+a zvolte si heslo pro Váš účet.  
+ 
+ 
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 4 1.3.3. Obchodní informace (Business information)  
+Poslední část  vytváření účtu ARIBA je o Vašem podnikání.  Prosím poskytněte nám informace o Vašich produk-
+tech a kategoriích služeb a také o Vašich adresách (dodání zboží, servisní místo) . To můžete udělat buď uvede-
+ním kategorie / místa do pole, nebo hledáním kategorie / místa přes políčko „Browse“ (Hledat). 
+V dalším obrázku (1.3.4.) můžete vidět proces, když kliknete na políčko „Browse“ (Hledat) 
+ 
+1.3.4. Výběr produktu a kategorie služeb (Product and Service Category 
+Selection) 
+Pokud kliknete na „Browse“ (Hledat) můžete vidět přehled produktů a služeb. Kliknutím na jednu z šipek zobra-
+zíte nižší úroveň produktu nebo kategorie služeb. Můžete tak hledat specifickou kategorii, kterou chcete přidat.  
+Jakmile naleznete vhodnou kategorii, klikněte na ni, zaškrtněte políčko a klikněte na „OK“ abyste ji přidali. 
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 5 1.3.5. Dodací nebo Servisní místa (Ship-to Service Location)  
+Můžete buďto vyhledat místo, podobně jako bylo vysvětleno pro produkt nebo kategorii služeb, nebo můžete „Add“ 
+(Přidat) místo vepsáním do pole a kliknutím na zobrazenou lokaci. 
+ 
+1.3.6. Potvrzení Vaší odpovědi (Submit your Response) 
+Předtím než dokončíte vytvoření účtu ARIBA si musíte přečíst a souhlasit s podmínkami použití (Terms of 
+Use) a souhlasit, že část poskytnutých informací bude dostupná ostatním uživatelům. Pro bližší informace tý-
+kající se těchto informací si můžete přečíst SAP Business Network Privacy Statement (Prohlášení o ochraně osobních 
+údajů SAP Business Network). Po zaškrtnutí těchto dvou polí můžete kliknout na „Create Account and continue“ 
+(Vytvořit účet a pokračovat). 
+ 
+ 
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 6 1.3.7. Potenciální existující účty (Potential existing accounts) 
+Systém automaticky ověřuje, zda existují podobné účty tomu Vašemu. To je z důvodu, aby se předešlo vytváření du-
+plicitních účtů společností. Proto pokud se objeví toto upozornění, zkontrolujte v dalším kroku, zda účet pro 
+Vaši společnost již existuje nebo zda chcete pokračovat a vytvořit účet nový.  
+ 
+1.3.8. Kontrola existujících účtů (Check potential existing accounts)  
+Prosím zkontrolujte nyní zda již existuje účet pro Vaši společnost, pokud ne, klikněte na „Continue Account Cre-
+ation“ (Pokračovat s vytvořením účtu) a Váš účet bude vytvořen. Pokud je zde již existující účet pro Vaši společ-
+nost, prosím přihlaste se přes již existující účet.  
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 7 1.3.9. Proces registrace do SAP ARIBA dokončen 
+Nyní obdržíte potvrzovací email od SAP ARIBA , že registrační proces je kompletní. Dalším krokem je vytvoření 
+registrace pro Siemens Energy vyplněním Supplier Registration Questionnaire  (Registrační dotazník dodava-
+tele (kapitola 2 tohoto dokumentu ) 
+ 
+  
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 8 2. REGISTRAČNÍ DOTAZNÍK DODAVATELE 
+2.1. Část 1 Obecné informace o dodavateli – „General Supplier information” 
+První otázka registračního formuláře Vás žádá o potvrzení Code of Conduct (Zásady chování dodavatele). 
+Prosím ujistěte se, že Vaše odpověď na tuto otázku je „Yes“ (Ano), Vaše potvrzení je nutné pro spolupráci se Sie-
+mens Energy . Code of Conduct můžete stáhnout kliknutím na odkaz pod otázkou nebo navštívit naše webové 
+stránky. 
+Pro více informací, kontaktujte prosím tým Master Data-Service emailem na: 
+ariba.onboarding.support@siemens-energy.com   
+Dále vás žádáme o poskytnutí detailnějších informací jako název společnosti, hlavní telefonní kontakt a adresu. 
+Většina informací je předvyplněna z našeho formuláře žádosti o založení dodavatele od nákupčího, nicméně po-
+kud je to nutné, prosím upravte.  
+2.2. Část 2 Daňové informace “Tax information” 
+Druhá část se Vás ptá na daňové informace společnosti. Je povinné zvolit alespoň zemi společnosti, ale můžete 
+uvést i všechny ostatní relevantní daňové údaje  a připojit dokument, pokud to potřebujete. 
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 9 2.3. Část 3 Prohlášení k látkám “Substance Commitment”  
+Ve třetí části musíte vybrat odpovědi týkající se prohlášení k dodání nebezpečných látek. První otázka se ptá, zda 
+plánujete do Siemens Energy dodávat materiály relevantní pro REACH nebo ROHS  Směrnice Evropského parla-
+mentu a Rady (ES). 
+ 
+V druhé otázce prohlašujete, že budete vždy deklarovat všechny produkty obsahující látky relevantní pro RE-
+ACH nebo ROHS legislativu v případě, že byste je dodávali.  Obě otázky by měly být zodpovězeny (Yes a Confir-
+med), v případě nejasností Vás budeme kontaktovat. 
+ 
+Prosím mějte na paměti, že některé otázky v dotazníku nejsou povinné (bez červené hvězdičky), ale prosím vyplňte 
+co nejvíce informací. 
+ 
+1) REACH relevant material:  
+Chemicals which can have serious effects on human health or the environment: 
+E.g. Material which is toxic, carcinogenic, endocrine disrupting or respiratory sensitizing  2) ROHS relevant material:  
+Lead, Mercury, Cadmium, Hexavalent Chromium, PBBs and PBDEs for Electric and Electronic 
+Devices 
+ 
+2.4. Část 4 Certifikáty “Certificates” 
+Ve čtvrté části máte možnost nahrát certifikáty.  Toto není povinné k dokončení procesu registrace, ale může být 
+nutné pro nadcházející kvalifikační dotazník a může tedy být provedeno již nyní. 
+ 
+ 
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 10 2.5. Podání odpovědi 
+Jakmile doplníte všechny relevantní informace v Registračním dotazníku můžete kliknout na „Submit Entire 
+Response“ (Podat odpovědi) a „OK“. Toto odešle dotazník ke schválení.  
+ 
+ 
+2.6. Potvrzovací email 
+Po podání Vašeho dotazníku dostanete potvrzovací email, ve kterém bude informace, že Vaše odpovědi byly 
+předány ke schválení.  Kliknutím na „Click here“  odkaz v emailu můžete zkontrolovat status Vaší registrace 
+v dodavatelském portálu SAP ARIBA.  
+Vaše část registračního procesu je nyní dokončena.  
+V případě, že bude vyžadována Vaše akce v kvalifikačním procesu, budete informováni emailem.  
+Další informace naleznete v „ Dodavatelský Manuál 2 – Kvalifikace“ , který můžete najít na odkaze: https://www.si-
+emens-energy.com/global/en/company/about/supply-chain-management/supplier-cockpit/sap-ariba-pmplemen-
+tation.html 
+  
+
+ 
+ 
+siemens-energy.com  © 2022 Siemens Energy Page 11 
+ 
+ 
+ 
+ 
+   Published by 
+ 
+Siemens Energy AG 
+Procurement  
+Otto-Hahn-Ring 6  
+81739 München  
+Germany 
+ 
+For more information, please visit our website: 
+ 
+https://www.siemens-energy.com/global/en/company/about/supply-
+chain-management/supplier-cockpit.html 
+ 
+Version 1.0, Juni 2022  Copyrights: All rights, also that of translation, reprint and copy, or parts the-
+reof, are reserved. This document will not be recalled in the event of any al-
+terations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

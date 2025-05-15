@@ -1,0 +1,1228 @@
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 1 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SGU -Merkblatt  
+ 
+für Angehörige von Fremdfirmen          SE-A111 
+ 
+ 
+ 
+1 ALLGEMEINES  ................................ ................................ ................................ ................................ ..... 2 
+2 ORDNUNGSVORSCH RIFTEN  ................................ ................................ ................................ ..............  4 
+3 SICHERHEITSVORSCHRIFTEN  ................................ ................................ ................................ ...........  5 
+4 ANFORDERUNGEN  AUS  DEM  SIEMENS  ENERGY  STANDARD  ................................ ............................   
+„KONTROLLE  DER  RISIKEN  FÜR  SIGE  AM ARBEITSPLATZ“  ................................ ................................ ..... 6 
+5 ARBEITSSCHUTZ  AUF  BAUSTELLEN  ................................ ................................ ................................  14 
+6 SONSTIGE  HINWEISE  ................................ ................................ ................................ ........................  15 
+7 SUBUNTERNEHMEN  ................................ ................................ ................................ ..........................  16 
+8 EHS-EREIGNISERFASSUNG  UND  -BERICHTERSTATTUNG  ................................ ............................  17 
+BESTÄTIGUNGSFORMULAR  - SGU -MERKBLATT  FÜR  FREMDFIRMEN  ................................ ..................  20 
+ 
+ 
+ 
+ 
+
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 2 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Die in diesem SGU - Merkblatt  angeführten Bestimmungen und Richtlinien sind integrierender Bestandteil unse-
+rer Bestellung und werden rechtsverbindlich, sofern  Sie nicht binnen 3 Tagen nach Erhalt schriftlich widerspre-
+chen.   
+ 
+Das SGU -Merkblatt  ist firmenmäßig gezeichnet, gleichzeitig m it der unterfertigten Auftragsbestätigung , unverzüg-
+lich an uns zu retournieren.  
+ 
+Als Mitarbeiter und Beauftragter des Auftragnehmers  (AN) haben Sie die besondere Pflicht, alle der Arbeitssi-
+cherheit dienenden Maßnahmen zu unterstützen, um Personen -, Sach - und Umwelt schäden sowie Brand - und 
+sonstige Gefahren zu vermeiden.  
+Sie haben sowohl die allgemeinen Richtlinien und Hinweise dieses Merkblattes als auch die speziellen Betriebs -, 
+Kontroll -, (Sicherheits - u. Katastrophenplan) Ordnungs - und Sicherheitsvorsch riften, sowie die einschlägigen Ge-
+setze, Arbeitnehmerschutzvorschriften und die Anweisungen des Auftraggebers zu befolgen.  
+ 
+Der AN stellt sicher, dass von ihm und seinen Erfüllungsgehilfen die auf dem jeweiligen Betriebs gelände von S ie-
+mens Energy  bzw. auf der jeweiligen Siemens Energy -Baustelle geltenden Sicherheits -, Gesundheits - und Um-
+weltschutzvorschriften eingehalten werden. Der AN stellt Siemens Energy von allen Ansprüchen frei, die aus der 
+Nichteinhaltung dieser Bestimmungen entstehen. Die Lagerung von Baustoffen und Materialien erfolgt auf Ge-
+fahr des AN. Die Aufstellung von Bauhütten und die Auswahl des Platzes hierfür bedürfen der Genehmigung von 
+Siem ens Energy . Die Bau - bzw. Montagestelle ist stets in einem ordentlichen Zustand zu halten und nach Fertig-
+stellung der Arbeiten sauber abzuräumen. Der AN hat für eine ausreichende Absperrung und Sicherung der Bau-
+stelle zu sorgen.  
+ 
+Zuwiderhandelnde können vo m Auftraggeber bzw. seinen dazu berechtigten Beauftragten unverzüglich von der 
+Arbeits - bzw. Baustelle verwiesen werden. Uns dadurch entstehende Mehrkosten gehen in jedem Falle zu Ihren 
+Lasten.  
+ 
+Setzen Sie sich vor Arbeitsaufnahme mit unserem Beauftragten,  der für die gegenseitige Abstimmung der Arbei-
+ten zuständig und Ihnen gegenüber Fragen der Arbeitssicherheit weisungsbefugt ist, in Verbindung. Wurde Ihnen 
+dieser noch nicht genannt, dann haben Sie sich mit unserer auftragerteilenden Dienststelle in Verbin dung zu set-
+zen. 
+ 
+Für die Einhaltung sämtlicher Arbeitsschutzvorschriften und Sicherheitsvorkehrungen ist der Auftragnehmer 
+selbst verantwortlich.  
+ 
+Die Inhalte dieses Merkblattes sind Ihren Mitarbeitern vor Beginn der Tätigkeiten, entsprechend §14 ASchG, in 
+Form einer Unterweisung mitzuteilen.  
+ 
+ 
+ 
+Allgemeine Hinweise  
+ 
+Die in den Aufzählungen angeführten Dokumente sind anlassbezogen, je nach Festlegung im Dokument,  zu ver-
+wenden. Inhaltlich gleichwertige Dokumente können bei Bedarf (z.B. Kunden -, Stamm hausvorgaben) verwendet 
+werden.  
+ 
+Änderungen zur vorhergehenden Version sind in roter Schriftfarbe gekennzeichnet.  
+ 
+Die gesetzlichen und seitens SCC geforderten dokumentierten Verfahren sind grau hinterlegt.  
+ 
+Bei allen personenbezogenen Bezeichnungen gilt die gewählte Formulierung für alle Geschlechter.  
+ 
+ 
+ 
+1 ALLGEMEINES  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 3 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+ 
+Geltungsbereich  
+ 
+Wird als Dokument des Handbuchs für Arbeitssicherheit der Siemens Energy Austria GmbH (HASi SEA), veröf-
+fentlicht im SE AT Rundschreiben Nr. 01/2021 , geführt und dort allen Mitarbeitern z ur Verfügung gestellt.  
+ 
+Am Betriebsgelände, auf auswärtigen Arbeitsstellen und auf Baustellen, für die Durchführung von Arbeiten bzw. 
+Erbringung von Dienstleistungen; dient als Anlage zu den Einkaufsbedingungen der Siemens Energy Austria 
+GmbH . 
+ 
+Arbeitssich erheitstechnische Details werden bei Bedarf im Formular HASi SE -A110  „SGU - Auflagen für Fremd-
+firmen “ geregelt.  
+ 
+ 
+ 
+Dokumentenhistorie und Änderungsverantwortung  
+ 
+Die Aktualisierung dieses Dokumentes erfolgt  am Siemens Energy Austria Sharepoint . Gedruckte Exemplare un-
+terliegen keinem Änderungsdienst.  
+ 
+Version / Datum  Änderung  Ersteller  Freigeber  
+V1.0, 01/2021 Erstausgabe nach Vorlage der Siemens Österreich AG Doku-
+mente  Moritz  Singer  
+V2.0, 08/2021 Ergänzung 8.5 „Sach - und Umweltschäden“  Moritz  Singer  
+ 
+ 
+ 
+ 
+  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 4 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Wurde Ihnen zum Betreten eines Betriebsteiles oder einer Baustelle ein Besucher - oder Firmenausweis überge-
+ben, ist dieser ständig sichtbar zu tragen und nach Beendigung der Tätigkeit, spätestens nach Ablauf der Gültig-
+keitsdauer, zurückzugeben.  
+ 
+Der Verlust eines  Besucher - oder Fremdfirmenausweis es ist der Ausgabestelle unverzüglich zu melden.  
+ 
+Personen und Sachen, insbesondere Fahrzeuge, sind den bei uns üblich en Regelungen unterworfen.  
+ 
+An Sonn - und Feiertagen ist das Betreten oder Befahren unserer Betriebsteile, deren Zutritt unserer Kontrolle 
+unterliegt, nur zulässig, wenn eine schriftliche Erlaubnis mit Angabe der Arbeits - bzw. Baustelle vorliegt.  
+ 
+Das Einbr ingen von Fahrzeugen, Werkzeugen, Geräten, Material und dergleichen ist zu melden.  
+Das Mitbringen von Aufnahmegeräten für Bild und Ton, sowie die Benutzung solcher Geräte ist nur mit unserer 
+vorherigen Zustimmung zulässig.  
+ 
+Auf dem Betriebsgelände, auf Bau stellen und Parkplätzen gilt die Straßenverkehrsordnung , sofern nicht anders 
+angegeben .  
+Die auf dem Betriebsgelände verfüg baren  Geschwindigkeitsbeschränkungen sind unbedingt einzuhalten.  Gene-
+rell haben schienengeführte, sowie automatisch / autark betriebene Fahrzeuge Vorfahrt.  
+Jede Behinderung des innerbetrieblichen Verkehrs ist unbedingt zu vermeiden. Die Anfahrtswege für die Feuer-
+wehr und Rettung sind ausnahmslos freizuhalten.  
+Verstöße gegen diese Bestimmungen können ein Befahrverbot für das Betriebsgelände zur Folge haben.  
+ 
+Das Abstellen oder Lagern von Gegenständen jeder Art auf Anfahrtswegen für die Feuerwehr und Rettung, so-
+wie das Versperren des Freiraumes dieser Wege ist unzulässig.  Sonstige Wege sind möglichst freizuhalten. In 
+unmittelbarer Nähe von Wegen abgestellte oder gelagerte Gegenstände sind gegen Umfallen zu sichern.  
+ 
+Sicherheitszeichen, Sicherheits - und Hinweisschilder im Betrieb, z.B. Verbots - und Gebotsschilder, Warnschil der, 
+Schilder für Rettung und Erste Hilfe, sind zu beachten und dürfen nicht entfernt werden.  
+ 
+Beschädigungen und Störungen an unseren Einrichtungen sind sofort dem Auftraggeber zu melden.  
+ 
+Die Arbeits - bzw. Baustelle ist stets in sauberem Zustand zu halte n und nach Fertigstellung der  Arbeiten sauber 
+abzuräumen.  
+ 
+Aus Gründen der persönlichen und allgemeinen Sicherheit ist es untersagt, auf unserer Betriebsstätte alkoholi-
+sche Getränke zu sich zu nehmen oder in einem durch Alkoho l, Medikamente oder Suchtgift beeinträchtigten Zu-
+stand unsere Betriebsstätten zu betreten.  
+ 
+Die Lagerung von Baustoffen, Material etc. und die Aufstellung von Behelfsbauten, Baustellenwagen oder Con-
+tainern bedürfen der vorherigen Zustimmung des Auftraggebers.  
+ 
+Das Betreten von Betriebsteilen, in denen keine Arbeiten im Rahmen des Arbeitsauftrages auszuführen sind, ist 
+untersagt.  
+ 
+Die Entnahme von Bauwasser ist nur mit vorheriger Zustimmung des Auftraggebers oder eines anderen Beauf-
+tragten ausschließlich an den hiefür vorgesehene n Stellen zulässig.  
+ 
+ 
+ 
+ 
+  
+2 ORDNUNGSVORSCHRIFTEN  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 5 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Gekennzeichnete Bereiche mit besonderen Gefahren, z.B. elektrische Betriebsräume, Prüffelder usw. dürfen nur 
+von befugten Personen und vorgeschriebener Persönlicher Schutzausrüstung (PSA) betreten werden.  
+ 
+Arbeits - und Betriebsmittel dürfen nur zu dem Zweck verwendet werden, für den sie nach Angabe des Erzeugers 
+oder des Vertreibers geeignet sind oder der sich aus Ihrer Bauart, Ausführung und Funktion als üblich ergibt.  
+ 
+Die erforderlichen Schutzausrüstungen sind vom Auftragnehmer beizustellen, in ordnungsgem äßen Zustand zu 
+erhalten und bei den Arbeiten zu verwenden.  
+ 
+Betriebliche Schutzeinrichtungen dürfen nur nach vorheriger Zustimmung durch unseren Beauftragten unwirksam 
+gemacht werden. Die daraus entstehenden Gefahrenstellen sind durch Schutzmaßnahmen anderer Art zu si-
+chern.  
+ 
+Arbeiten an oder in Anlagen bzw. Anlagenteilen, die nicht zu Ihrem Auftrag gehören, bedürfen der vorherigen Zu-
+stimmung eines mit der Anlage vertrauten Beauftragten. Dies gilt insbesondere für elektrische Anlagen der  Sie-
+mens Energy Austria GmbH .  
+ 
+Die geltenden ÖVE -Vorschriften sind zu beachten.  
+ 
+Die Verarbeitung und Lagerung „gefährlicher Stoffe“ oder „gefährlicher Zubereitungen“ auf unserem Betriebs ge-
+lände bedarf der ausdrücklichen Bewilligung durch unsere dafür zus tändigen Stellen.  
+ 
+Sollten im Zuge der von Ihnen durchzuführenden Arbeiten solche Stoffe oder Zubereitungen zum Einsatz gelan-
+gen, sind Sie verpflichtet, uns unverzüglich – spätestens jedoch mit der Auftragsbestätigung – eine Liste dieser 
+Stoffe bzw. Zubere itungen, deren voraussichtliche Menge und die entsprechenden Sicherheitsdatenblätter zu 
+übermitteln.  
+ 
+Abfälle, die bei ihrer Tätigkeit anfallen, müssen durch Ihre Firma ordnungsgemäß entsorgt werden.  
+ 
+Gruben, Schächte, Fußbodenöffnungen u. ä. sind ständig so zu sichern, dass niemand zu Schaden kommen 
+kann. Dies gilt insbesondere vor Verlassen der Arbeitsstätte.  
+Die Gefahrenstelle muss abgedeckt, abgeschrankt oder in sonstiger Weise gesichert werden.  
+ 
+Die Verwendung von kraftstoffbetriebenen Arbeitsmitteln in geschlossenen Räumen ist unzulässig.  
+ 
+Bei der Verwendung von Bolzensetzgeräten sind alle einschlägigen gesetzlichen Bestimmungen und Sicherheits-
+vorkehrungen einzuhalten. Es ist unbedingt dafür zu sorgen, dass sich niemand im Gefahrenbereich aufhält, ins-
+besondere nicht neben oder hinter der Eintreibstelle.  
+ 
+Lastenaufzüge ohne Kabinenabschlusssicherung dürfen nur benutzt werden, wenn ein Aufzugsführer den Aufzug 
+bedient.  
+ 
+Die Beheizung von Arbeits - und Aufenthaltsräumen ist nur nach vorheriger Absprache mi t dem Auftraggeber zu-
+lässig.  
+Die Verwendung von Heizgeräten mit offenen Spiralen ist unzulässig.  
+ 
+ 
+  
+3 SICHERHEITS VORSCHRIFTEN  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 6 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+4.1 Gefahrenidentifikation und Gefährdungsbeurteilung  
+Die Ermittlung von Gefährdungen, die Bewertung der entsprechenden Risiken und die Umsetzung von Maßnah-
+men zur Beseitigung, Kontrolle und / oder Minimierung der arbeitssicherheitsrelevanten Risiken, entsprec hend 
+dem ALARP -Prinzip („ as low as reasonably practicable  - so niedrig, wie vernünftigerweise praktikabel“), müssen 
+vor Beginn der Arbeit durchgeführt werden.   
+Für die Gefährdungsbeurteilung muss ein dokumentierter Prozess definiert werden. Der Prozess be rücksichtigt 
+routinemäßige und nicht routinemäßige Aktivitäten und Situationen, menschliche Faktoren, Prozessänderungen, 
+Ausrüstung, Arbeitsplätze und Arbeitsumfeld.   
+Hierbei sind soziale Bedingungen, klimatische / natürliche Umweltbedingungen, allgemeine  Arbeitsbedingungen 
+(z. B. isolierte / abgelegene Bereiche) sowie Gefährdungen und Risiken, die sich aus dem gleichzeitigen Betrieb 
+oder der Tätigkeit von Dritten (z.B. Kontraktoren, Kunden, Geschäftspartner) ergeben, zu berücksichtigen.   
+Jede lokale Einheit muss die Risiken aus den identifizierten Gefährdungen ihres gesamten Betriebs systematisch 
+bewerten. Um das Risiko so niedrig, wie vernünftigerweise praktikabel zu halten, wird die Kontrollhierarchie an-
+gewandt, wobei die Risikoeliminier ung gegenüber den nachfolgenden Kontrollmitteln priorisiert wird:   
+ 
+➢ Eliminierung  – Beseitigen einer Gefährdung am Arbeitsplatz (z. B. durch alternative Arbeitsmethoden, 
+Designverbesserungen, Prozessänderungen etc.).   
+ 
+➢ Substitution  – Ersetzen einer Gefahr  durch weniger Gefährliches (z. B. Ersatz einer Chemikalie, die be-
+kanntermaßen Krebs verursacht, durch eine Chemikalie, die weniger schädlich ist).   
+ 
+➢ Technische Maßnahmen  – Entwickeln einer Lösung, die die Gefährdung an ihrer Quelle kontrolliert 
+(z.B. Einhausung einer lauten Maschine mit einer Schallschutzwand).   
+ 
+➢ Organisatorische Maßnahmen  – Entwicklung anderer Maßnahmen zum Schutz der Mitarbeiter vor Ge-
+fahren (z.B. Begr enzung der Zeit, die Mitarbeiter in einem lärmbelasteten Bereich arbeiten dürfen; die 
+Verwendung von Arbeitsverfahren, Warnschildern oder Absperrband sowie anderer Warnhinweisen, die 
+Personen auf eine drohende Gefahr  hinweisen).  
+ 
+➢ Persönliche Schutzmaßnahme n – Schutzkleidung oder -ausrüstung, die einen Mitarbeiter vor einer 
+Gefährdung schützt (z. B. Gehörschutz für Mitarbeiter und andere, die in einem Lärmbereich arbeiten).  
+ 
+Die Gefährdungsbeurteilung wird von einer Kompetenten Person durchgeführt, die mit d en Gefährdungen und  
+Risiken im Zusammenhang mit der Arbeitstätigkeit, dem Arbeitsbereich und den Arbeitsmitteln vertraut ist. Die 
+Mitarbeiter, die zu einer Gefährdungsbeurteilung beitragen, müssen auch mit den Gefährdungen und Risiken im 
+Zusammenhang mit d er Arbeitstätigkeit, dem Arbeitsbereich und den Arbeitsmitteln vertraut sein.   
+ 
+Die Ergebnisse der Gefährdungsbeurteilung sind einschließlich der durchgeführten Kontrollmaßnahmen zu doku-
+mentieren.   
+ 
+ 
+4.2 Allgemeine Anforderungen an Tätigkeiten mit hohem Risiko  
+Es gibt mehrere Aktivitäten, die in allen Siemens  Energy -Geschäftsfeldern gleichermaßen als Tätigkeiten mit ho-
+hem Risiko anerkannt sind : 
+ 
+➢ Arbeiten in Höhen  
+ 
+➢ Arbeiten in beengten Räumen  
+4 ANFORDERUNGEN  AUS  DEM  SIEMENS  ENERGY  STANDARD   
+„KONTROLLE  DER  RISIKEN  FÜR  SIGE  AM ARBEITSPLATZ“  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 7 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+ 
+➢ Gefährliche Energien  
+➢ Elektrische Sicherheit  
+ 
+➢ Maschinensicherheit  
+ 
+➢ Arbeiten mit Gefahrstoffen  
+ 
+➢ Hebevorgänge  
+ 
+➢ Erdarbeiten  
+ 
+➢ Heißarbeiten  
+ 
+➢ Arbeiten mit Industriefahrzeugen und -maschinen   
+ 
+Nach Abschluss der Gefährdungsbeurteilung erfordern die als risikoreich eingestuften Tätigkeiten in der Regel  
+zusätzliche Kontrollmaßnahmen, wie z. B .:   
+ 
+➢ Arbeitsfreigabe  in Abstimmung mit dem jeweiligen Auftraggeber der Siemens Energy Austria GmbH    
+ 
+➢ Definierte, dokumentierte, kommunizierte und verfügbare Arbeitspraktiken, Verfahren und / oder Aussa-
+gen über  sichere Arbeitsmethoden   
+ 
+➢ Spezifisches Training und / oder Qualifikation der Mitarbeiter   
+ 
+➢ Bewertung der Diensttauglichkeit der Mitarbeiter   
+ 
+➢ Spezifische Notfallpläne  
+ 
+Alle Tätigkeiten mit hohem Risiko dürfen nur von Kompetenten Personen durchgeführt u nd überwacht 
+werden.  
+ 
+ 
+4.3 Tätigkeiten mit hohem Risiko: Spezielle Anforderungen  
+Für diese Aktivitäten gelten die folgenden Mindestanforderungen.  
+ 
+ 
+4.3.1  Arbeiten in Höhe  
+ 
+Bei Arbeiten in Höhen gelten folgende Schutzmaßnahmen:   
+ 
+➢ Es müssen sichere Zugangs - und Ausgangsmöglichkeiten sowie ein sicherer Platz für die Durchführung 
+der Arbeiten eingerichtet werden.   
+ 
+➢ Es müssen geeignete Arbeitsmittel zur Absturzsicherung verwend en werden (z. B. Gerüste, Turmge-
+rüste, Hubarbeitsbühnen ). 
+ 
+➢ Es müssen geeignete Arbeitsmittel zur Minimierung der Höhe und der Folgen eines Sturzes gemäß Ge-
+fährdungsbeurteilung verwendet werden (z. B. persönliche Absturzsicherung / Rückhaltesysteme) . 
+ 
+➢ Es mü ssen geeignete Rettungs - / Notfallpläne vorhanden sein und allen Personen, die an der Tätigkeit 
+beteiligt sind, mitgeteilt werden. Rettungsübungen mit möglichen Notfallszenarien müssen regelmäßig 
+organisiert werden. Die erforderliche Rettungsausrüstung mus s verfügbar sein und Kompetente Perso-
+nen als Retter benannt werden.   
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 8 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+ 
+➢ Alle für die Arbeit und / oder Rettung verwendeten Geräte müssen ordnungsgemäß gewartet und regel-
+mäßig überprüft werden.   
+ 
+➢ Bei Arbeiten in der Höhe besteht Verletzungsgefahr durch heru nterfallende Gegenstände. Der Bereich 
+unterhalb der Arbeitszone (Drop Zone) muss abgesperrt, deutlich markiert und kontrolliert werden.   
+ 
+➢ In der Drop Zone dürfen sich keine Personen aufhalten. Im Falle unvermeidlicher gleichzeitig stattfinden-
+der Tätigkeiten am Boden und in der Höhe sind vor Beginn der Tätigkeiten geeignete Sicherheitsmaß-
+nahmen zu treffen.   
+ 
+ 
+4.3.2  Arbeiten in beengten Räume n 
+ 
+Bei Arbeiten in beengten Räumen gelten folgende Mindestvorkehrungen:  
+  
+➢ Arbeitsweisen, Verfahren oder Verfahrensbeschreibungen für den sicheren Zugang und die sichere Aus-
+führung der Arbeit müssen definiert werden.    
+ 
+➢ Das Betreten eines engen Raumes erf ordert eine Zutrittsgenehmigung mit der Angabe von Uhrzeit und 
+Datum durch eine autorisierte Person. Niemand betritt einen beengten Raum ohne Zutrittsgenehmigung.  
+ 
+➢ Wenn es Hinweise darauf gibt, dass die Atmosphäre in einem beengten Raum kontaminiert oder i n ir-
+gendeiner Weise unsicher zum Atmen ist, oder wenn Zweifel am Zustand der Atmosphäre bestehen, ist 
+eine Überprüfung vor dem Betreten durchzuführen. Die Überprüfung muss von einer Kompetenten Per-
+son mit einem kalibrierten Messgerät mit direkter Ablesefun ktion durchgeführt werden.   
+ 
+➢ Eine Kompetente Person muss als Beauftragter für den Zugang zu beengten Räumen benannt werden.  
+ 
+➢ Zudem muss noch mindestens eine Kompetente Person als Aufsichtsperson für beengte Räume ernannt 
+werden. Die Aufsichtsperson muss s ich vor dem Eingang eines beengten Raumes aufhalten, solange 
+sich Mitarbeiter darin aufhalten.  
+ 
+➢ Für beengte Räume müssen geeignete Notfall - und Rettungspläne vorhanden sein und alle betroffenen 
+Personen müssen darüber in Kenntnis gesetzt werden. Rettungsüb ungen müssen regelmäßig durchge-
+führt werden und mögliche Notfallszenarien abdecken. Die erforderliche Rettungsausrüstung muss ver-
+fügbar sein und Kompetente Personen als Retter benannt werden.   
+ 
+➢ Alle für die Arbeit und / oder Rettung verwendeten Geräte müs sen ordnungsgemäß gewartet und regel-
+mäßig überprüft werden.   
+ 
+ 
+4.3.3  Gefährliche Energie  
+ 
+Es gelten folgende Mindestvorkehrungen bei der Wartung, Instandhaltung, Demontage usw. von Geräten und / 
+oder Systemen, die gefährliche Energien enthalten:  
+ 
+➢ Ein Nullenergie -Zustand muss unter Verwendung eines zugelassenen Verfahrens, das ein LOTO -Sys-
+tem beinhaltet, erreicht werden.  
+ 
+➢ Der Nullenergie -Zustand muss vor Beginn der Arbeiten geprüft und verifiziert werden, um sicherzustel-
+len, dass die Energie abgebaut wu rde oder zurückgehalten wird.  
+ 
+➢ Für die Energieisolierung darf nur geeignetes Equipment verwendet werden. Das Equipment darf nur zu 
+Isolationszwecken verwendet werden und muss regelmäßig überprüft, gewartet und schadensfrei gehal-
+ten werden.  
+ 
+ 
+ 
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 9 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+4.3.4  Elektri sche Sicherheit  
+ 
+Bei Arbeiten mit oder in der Nähe von Strom und elektrischen Geräten gelten folgende Mindestvorkehrungen:   
+ 
+➢ Der Umfang und die genaue Position der zu erbringenden Arbeiten müssen von einer Kompetenten Per-
+son festgelegt werden, um sichere Arbeitsabstände festzulegen.  
+ 
+➢ Die erforderlichen isolierten elektrischen Werkzeuge und Geräte müssen bestimmt werden sowie die ent-
+sprechende PSA.   
+ 
+➢ Nur Autorisierte Personen, die eine Elektroinstallation leiten, dürfen eine schriftliche Genehmigung und / 
+oder eine Arbeitsfreigabe erteilen und widerrufen. Die für die Durchführung der Arbeit verantwortliche 
+Fachkundige Person erhält die schriftliche Genehmigung und / oder die elektronische Arbeitsfreigabe 
+und ist für die Rückgabe der schriftlichen G enehmigun g und / oder der elektrischen Arbeitsfreigabe ver-
+antwortlich, wenn die Arbeiten abgeschlossen und / oder eingestellt werden.   
+ 
+Herstellen von Spannungsfreiheit  
+ 
+Ein elektrisch sicherer Betriebszustand muss durch die folgenden Schritte und in der angegeben en Reihenfolge 
+hergestellt werden. Jede Abweichung davon muss von einer Autorisierten Person bewusst begründet, genehmigt 
+und dokumentiert werden.  
+ 
+1. Freischalten oder komplett isolieren  – Sicherstellen, dass die betreffenden Anlagen / Geräte sichtbar 
+isoliert sind und die gespeicherte Energie vollständig abgebaut wurde (Spannungsfreiheit feststellen).  
+ 
+2. Gegen Wiedereinschalten sichern  – Sicherstellen, dass LOTO angewandt wird, um das Wiederein-
+schalten der Anlage zu verhindern.  
+ 
+3. Spannungsfreiheit der Anlage oder des Systems feststellen  – Die Überprüfung wird durch ein kalib-
+riertes Prüfgerät durchgeführt, um sicherzustellen, dass die Anl age oder das System ordnungsgemäß 
+isoliert ist.   
+ 
+4. Erden und kurzschließen (wo notwendig)  – Verwendung der Stromkreiserdung oder Erdung in der 
+richtigen Methode und Reihenfolge, um die Anschlüsse in einen sicheren Zustand zu bringen.  
+ 
+5. Benachbarte, unter Sp annung stehende Teile abdecken oder Abschranken (wo notwendig)  – Ver-
+wendung von z. B. Absperrungen oder Abdeckungen, wie z. B. isolierte Paneele und Einsatz von geeig-
+neter PSA.  
+ 
+Jeder Teil einer Elektroinstallation, der ausgeschaltet, aber nicht gesichert und gekennzeichnet wurde, muss wie 
+eine unter Spannung stehende Installation behandelt werden.   
+ 
+Arbeiten an unter Spannung stehenden Anlagen und / oder Systeme  
+ 
+Arbeiten an unter Spannung stehenden Anlagen oder Systemen sind grundsätzlich verboten. Eine Ausnahme ist 
+nur akzeptabel, wenn die Autorisierte Person nachweisen kann, dass das Abschalten erhöhte oder zusätzliche 
+Gefahren verursacht oder aufgrund von Anlag enkonzeption oder Betriebsbeschränkungen nicht möglich ist und 
+der verantwortliche Manager diese vor Arbeitsbeginn formell genehmigt.  
+ 
+Wenn Arbeiten unter Spannung durchgeführt werden müssen und es nicht möglich ist, die elektrische Energie zu 
+isolieren, gelten die folgenden Mindestvorkehrungen:   
+ 
+➢ Ein sicherer Arbeitsabstand muss identifiziert, definiert und eingehalten werden.  
+ 
+➢ Arbeitspraktiken, Verfahren oder Verfahrensanweisungen für das sichere Arbeiten an unter Spannung 
+stehenden Anlagen und / oder S ystemen müssen definiert werden.   
+ 
+➢ Arbeiten an unter Spannung stehenden Anlagen und / oder Systemen erfordern eine Arbeitsfreigabe,  
+die auf den Tag und die Uhrzeit beschränkt ist und von einer kompetenten Person, die für die 
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 10 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+Arbeitstätigkeiten verantwort lich ist sowie durch eine Person, die für die Kontrolle der Anlage und / oder 
+Systeme verantwortlich ist, ausgestellt wird.  
+ 
+➢ Vor der Arbeit muss ein Briefing durchgeführt werden, das jeden Schritt der geplanten Arbeit und Infor-
+mationen über die Arbeitsfrei gabe umfasst.  
+ 
+➢ Für die Arbeit an unter Spannung stehenden Anlagen und Systemen darf ausschließlich nur isoliertes 
+Werkzeug und Equipment verwendet werden.   
+ 
+➢ Werkzeuge und Equipment, dass für die Arbeit eingesetzt wird, muss vor jedem Einsatz geprüft und im 
+guten Zustand gehalten werden.   
+ 
+➢ Zum Schutz vor Störlichtbögen und Stromschlägen müssen geeignete störlichtbogengeprüfte (AR), flam-
+menresistente (FR) und  elektroschockresistente Schutzbekleidung und andere PSA verwendet werden.   
+ 
+Arbeiten in der Nähe von an unter Spannung stehenden Anlagen und / oder Systeme  
+ 
+Bei Arbeiten in der Nähe von unter Spannung stehenden Anlagen und / oder Systemen, bei denen eine P erson 
+unbeabsichtigt ein unter Spannung stehendes Geräteteil berühren könnte, gelten die folgenden Mindestvorkeh-
+rungen:   
+ 
+➢ Der potenzielle Kontakt mit elektrischen Systemen (z.B. Freileitungen oder Geräten) muss von einer 
+Kompetenten Person identifiziert u nd der Standort physisch mit geeigneten Mitteln gekennzeichnet wer-
+den. Wenn der Kontakt mit diesen Systemen möglich ist, müssen Maßnahmen zur Isolierung und sicht-
+baren Erdung getroffen oder eine geeignete Schutzvorrichtung am Arbeitsplatz eingerichtet werd en. 
+ 
+➢ Die Einhaltung der Freigaben muss von einer kompetenten Person durchgeführt werden. Wenn Mitarbei-
+ter in einem begrenzten sicheren Arbeitsabstand von unter Spannung stehenden Geräten und / oder 
+Systemen arbeiten, müssen Warnhinweise, Absperrungen und a ndere Sicherheitsmaßnahmen für den 
+Perimeter als sichtbareren Indikator für Gefahrenzonen verwendet werden.   
+ 
+➢ Unter Spannung stehende Bauteile müssen durch geeignete Barrieren abgedeckt, umschlossen oder 
+isoliert werden, die einen direkten oder indirekten  Kontakt verhindern.   
+ 
+➢ Alle für die Arbeit verwendeten Geräte müssen vor jedem Einsatz überprüft und in gutem Zustand gehal-
+ten werden.   
+ 
+➢ Eine Kompetente Person muss sicherstellen, dass Mitarbeiter in der Nähe von unter Spannung stehen-
+den Geräten und / od er Systemen über die Gefährdungen und die zu ergreifenden Schutzmaßnahmen 
+informiert werden.   
+ 
+ 
+4.3.5  Maschinensicherheit  
+ 
+Fest installierte Maschinen für Produktion oder Fertigung erfordern besondere Schutzmaßnahmen, um einen si-
+cheren Betrieb zu gewährleisten. Die folgenden Mindestvorkehrungen gelten:   
+ 
+➢ Alle Maschinen und ihre jeweiligen Schutzvorrichtungen müssen gemäß den Anweisungen des Herstel-
+lers bedient und stets sauber und in einem gepflegten Zustand gehalten werden.  
+ 
+➢ Maschinenschutzvorrichtungen oder Not -Aus-Schalter dürfen zu keinem Zeitpunkt entfernt, außer Kraft 
+gesetzt oder ges tört werden.  
+ 
+➢ Wenn die Schutzeinrichtungen oder Not -Aus-Schalter defekt sind, muss eine Maschine bis zur Reparatur 
+isoliert und außer Betrieb genommen werden. Bei der Durchführung von Reparaturen oder Wartungen 
+muss LOTO angewendet werden.   
+ 
+➢ Niemand darf  die Schutzeinhausungen von automatischen Maschinen während ihres Betriebs betreten . 
+ 
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 11 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+➢ Nur Kompetente Personen dürfen Maschinen bedienen.    
+ 
+ 
+4.3.6  Arbeiten mit Gefahrstoffen  
+ 
+Der Einsatz von Gefahrstoffen am Arbeitsplatz, auch in kleinen Mengen, kann zu V erletzungen und / oder Krank-
+heiten führen. Bei der Arbeit mit Gefahrstoffen gelten folgende Mindestvorkehrungen:   
+ 
+➢ Verfahren für die sichere Handhabung, Bewertung, Verwendung, Lagerung und Entsorgung von Gefahr-
+stoffen, einschließlich des Gefahrstoffverzei chnisses, müssen definiert und umgesetzt werden.  
+ 
+➢ Das Sicherheitsdatenblatt (SDB) muss vor dem Kauf und der Verwendung von einer Kompetenten Per-
+son bewertet werden, um geeignete Maßnahmen für eine sichere Handhabung zu gewährleisten. SDB 
+müssen in der korr ekten Länderausgabe und Landessprache bereitgestellt werden.  
+ 
+➢ Alle Gefahrstoffbehälter müssen entsprechend der örtlichen Gesetzgebung und in der Landessprache 
+entsprechend gekennzeichnet sein. Eine zusätzliche Kennzeichnung kann erforderlich sein, einschli eß-
+lich, aber nicht beschränkt auf, gefährliche Abfälle und Langzeitlagerung.   
+ 
+➢ Das Gefahrstoffregister und die dazugehörigen SDB müssen dem Notfallverantwortlichen zur Verfügung 
+stehen.   
+ 
+➢ Am Arbeitsplatz darf nur die erforderliche Menge eines Gefahrstoff es aufbewahrt werden.   
+ 
+➢ Mitarbeiter, die mit Gefahrstoffen arbeiten, müssen auf die Gefährdungen und Risiken aufmerksam ge-
+macht werden, die mit der Verwendung dieser Stoffe, der Nutzung von PSA und der Notfallmaßnahmen 
+verbunden sind.   
+ 
+Brennbare Stoffe  
+ 
+Bereiche und Systeme, die brennbare Stoffe enthalten oder enthalten haben, müssen identifiziert und analysiert 
+werden; die Anforderungen aus den ATEX -Richtlinien  (z.B. Kennzeichen „Verbot von Feuer, offenem Licht und 
+Rauchen“ oder Genehmi gung von einer Autorisierten Person) müssen betrachtet werden . 
+   
+Die Lagerung von entflammbaren und brennbaren Stoffen außerhalb eines dafür vorgesehenen Lagerschranks, 
+Raumes oder Bereiches muss auf eine für die laufenden Arbeiten erforderlichen Menge be schränkt sein.   
+ 
+ 
+4.3.7  Hebevorgänge  
+ 
+Bei der Durchführung von Hebevorgängen und der Verwendung von Hebezeug gelten folgende Mindestvorkeh-
+rungen:   
+ 
+➢ Arbeiten unter schwebenden Lasten oder das Bewegen von schwebenden Lasten über Personen ist ver-
+boten. Eine Ausnahme kann nur unter Antrag einer Kompetenten Person erfolgen, wenn die Arbeit  auf-
+grund des Anlagendesigns oder betrieblicher Einschränkungen nicht durchführbar ist und ein alternativer 
+Prozess keine erhöhten oder zusätzlichen Gefahren verursacht und der verantwortliche Manager den 
+Vorgang vor Beginn der Arbeiten formell genehmigt.    
+ 
+➢ Arbeitspraktiken, Verfahren oder Anweisungen zur sicheren Arbeitsweise für den sicheren Hebebetrieb 
+müssen definiert werden.   
+ 
+➢ Jeder komplexe / kritische Hebevorgang (z. B. das Heben mit mehreren Kränen, das H eben über ein be-
+wohntes Gebäude oder öffentliche Straße; jede Last, die schwerer als 75% der Nennkapazität des Hebe-
+zeugs ist) erfordert einen von einer Kompetenten Person und dem zuständigen Manager genehmigten 
+Hebeplan .   
+ 
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 12 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+➢ Es dürfen nur zertifizierte und geprüfte Hebezeuge und Zubehör (Hebegurte, Ketten, Haken usw.) ver-
+wendet werden. Alle Hebezeuge und Zubehörteile müssen eindeutig gekennzeichnet und beschriftet 
+sein.   
+ 
+➢ Defekte, nicht identifizierbare und / oder nicht gekennzeichnete Hebezeuge oder Zubehö rteile müssen 
+sofort entfernt und aus dem Verkehr gezogen werden, um eine unbeabsichtigte Verwendung zu vermei-
+den.   
+ 
+➢ Nur Kompetente Personen dürfen Hebevorgänge ausführen.   
+ 
+Krane und Hebezeuge  
+ 
+Krane und Hebezeuge dürfen nur gemäß den Angaben des Herstellers aufgestellt, bedient, gewartet und demon-
+tiert werden.   
+Das Bedienen von Kranen und Hebezeugen darf nur bei Vorhandensein einer schriftlichen Betriebsanweisung, 
+sowie nach fachlicher Unterweisung  und innerbetrieblicher Fahrbewilligung  erfolgen.  
+   
+Sind Modifikationen am Kran oder Hebezeug erforderlich, dürfen diese nur vom Hersteller oder einer autorisier-
+ten Person vorgenommen werden. Jede Änderung an Hebezeugen und / oder Hebevorrichtungen muss vollstän-
+dig dokumentiert und die geänderten Geräte / Ausrüstung von einer Fachkundige  Person auf ihre Tragfähigkeit 
+überprüft werden.   
+ 
+ 
+4.3.8  Erdarbeiten  
+ 
+Bei der Durchführung von Erdarbeiten gelten folgende Mindestvorkehrungen:   
+ 
+➢ Alle unterirdischen Leitungen (Strom, Gas, Wasser usw.) müssen lokalisiert und geschützt sein.   
+ 
+➢ Es müssen sichere Zugangs - und Ausstiegsmöglichkeiten geschaffen werden. Es sind Maßnahmen zur 
+Vermeidung von Aushubeinbrüchen zu ergreifen (z. B. Abstützen, Anschrägen, Trittstufen oder Rampen 
+einbringen), wobei darauf zu achten ist, dass benachbarte Konstruktionen nicht untergraben oder gefähr-
+det werden.   
+ 
+➢ Barrieren zur Verhinderung von Abstürzen von Personen und / oder Materialien müssen um alle Erdar-
+beiten  installiert werden. Ein fachgerechter Verbau hat mindestens ab einer Grubentiefe von 1,25m zu 
+erfolgen.   
+ 
+➢ Ein geeigneter Rettungs - / Notfallplan muss vorhanden sein und allen an der Aktivität beteiligten Perso-
+nen mitgeteilt werden. Rettungsübungen müssen regelmäßig durchgeführt werden um mögliche Not-
+fallszenarien abzudecken. Die erforderliche Rettungsausrüstung muss verfügbar sein und Kompetente 
+Personen müssen als Retter benannt werden.   
+ 
+ 
+4.3.9  Heißarbeiten  
+ 
+Für die Durchführung von Heißarbeiten gelten folgende Mindestanforderungen:  
+ 
+➢ Arbeitspraktiken, Verfahren oder Aussagen über sichere Arbeitsmethoden müssen definiert werden.   
+ 
+➢ Für alle Heißarbeiten müssen Brandschutzmaßnahmen berücksichtigt und vorgesehen werden.  
+ 
+➢ Für Heißarbeiten, die nicht in dafür standardmäßig vorgesehenen  Bereichen / Räumen (z. B. Kabinen) 
+durchgeführt werden, muss vor Arbeitsbeginn eine Arbeitsfreigabe fü r Heißarbeiten eingeholt werden.   
+ 
+ 
+4.3.10  Arbeiten mit Industriefahrzeugen und -Maschinen  
+ 
+Beim Betrieb von Industriefahrzeugen und -maschinen gelten die folgenden Mindestvorkehrungen:   
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 13 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+ 
+➢ Nur Autorisierte Personen dürfen Industriefahrzeuge und -maschinen  bedienen.   
+ 
+➢ Industriefahrzeuge und -maschinen müssen mit optischen oder akustischen Alarmen (z. B. Rückfahrsig-
+nalwarnungen, blauen LED -Warnleuchten, Signallichter usw.) für das Manövrieren vor Ort ausgestattet 
+sein. Alle Sicherheitseinrichtungen (Leuchte n, Sicherheitsgurte, Hupe, Alarm, Kameras usw.) müssen 
+jederzeit betriebsbereit sein. Sicherheitsgurte müssen angelegt werden (dokumentierte Ausnahmen kön-
+nen gelten).   
+ 
+➢ Die Geräte müssen gemäß den Angaben in der Herstelleranleitung betrieben und gewartet werden. De-
+fekte Geräte müssen bis zur Reparatur außer Betrieb genommen werden.   
+ 
+➢ Geräte, die nicht in Gebrauch sind, müssen sich in einem sicheren Zustand befinden und vor unbefugter 
+Bedienung geschützt sein.  
+ 
+ 
+  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 14 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+ 
+ 
+Der AN befolgt alle gesetzlichen Arbeitsschutzbestimmungen und bemüht sich nach besten Kräften, eine Gefähr-
+dung von Gesundheit und Sicherheit des von ihm zur Erbringung der Leistungen beschäftigten Personals sowie 
+des dafür beschäftig ten Personals seiner direkten und indirekten Subunternehmer auszuschließen , sowie sicher-
+zustellen, dass Personen, die sich berechtigt im Geltungsbereich aufhalten, einschließlich des Personals , der 
+Mitarbeiter  von Siemens  Energy  und Besucher, nicht verletz t werden.  
+Der AN stellt sicher, dass sein eingesetztes  Personal , bevor es mit der Arbeit im Geltungsbereich beginnt, an 
+einer baustellenspezifischen Sicherheitsschulung teilnimmt und geeignete persönliche Sicherheitsausrüstung 
+erhält. Der AN stellt sicher , dass sein eingesetztes  Personal  bei Ausführung der Leistungen die persönliche Si-
+cherheitsausrüstung trägt und diese sich jederzeit in einwandfreiem Zustand befindet.  
+Die Siemens Energy Austria GmbH  behält sich das Recht vor, aus Sicherheits - oder Arbeit sschutzgründen nach 
+eigenem Ermessen und ohne Übernahme einer Haftung jederzeit Personal  aus dem Geltungsbereich zu verwei-
+sen und  / oder die Ausführung der Leistungen auszusetzen.  
+Der AN benennt eine Kompetente Person als Verantwortlichen für Umwelt, Gesundheit und Sicherheit (“EHS -
+Verantwortlicher des Auftragnehmers ”) und stellt sicher, dass dieser an den von Zeit zu Zeit durch die Siemens 
+Energy Austria GmbH oder dessen Auftraggeber  organisierten Sicherheitsgesprächen teilnimmt.  
+Der AN überpr üft die Einhaltung der gesetzlichen und vertraglichen Arbeitsschutzbestimmungen durch regelmä-
+ßige Sicherheitsbegehungen im Geltungsbereich. Der AN ermöglicht der Siemens Energy Austria GmbH  durch 
+rechtzeitige Information die Teilnahme an den Sicherheitsbeg ehungen. Stellt der AN die Nichteinhaltung von Ar-
+beitsschutzbestimmungen fest, sorgt er unverzüglich für erneute Einhaltung und informiert die Siemens Energy 
+Austria GmbH  über die Feststellungen und den Stand der Abhilfemaßnahmen.  
+Auf Anfrage gewährt der A N der Siemens Energy Austria GmbH  Zugang zu sämtlichen arbeitsschutzbezogenen 
+Dokumenten im Zusammenhang mit der Ausführung der Leistungen.  
+Soweit die Siemens Energy Austria GmbH  einen Plan zum Arbeitsschutz im Geltungsbereich („EHS -Plan“) er-
+stellt, übermi ttelt die Siemens Energy Austria GmbH  dem AN eine Kopie davon. Der AN bestätigt den Erhalt des 
+EHS-Plans schriftlich und befolgt die dort festgelegten Regelungen. Dies gilt auch für mögliche Aktualisierungen 
+des EHS -Plans durch die Siemens Energy Austria G mbH. Der AN stellt darüber hinaus sicher, dass sich auch 
+seine zur Erbringung der Leistungen eingesetzten direkten und indirekten Subunternehmer zur Einhaltung des 
+EHS-Plans und dessen Aktualisierungen verpflichten.  
+Ungeachtet anderer Rechte, die der Sieme ns Energy Austria GmbH  gegebenenfalls zustehen, ist die Siemens 
+Energy Austria GmbH  berechtigt, ohne Übernahme einer Haftung von diesem Vertrag zurückzutreten, wenn der 
+AN gesetzliche oder vertragliche Arbeitsschutzbestimmungen, einschließlich der Bestimmu ngen dieses Artikels 
+und des EHS -Plans, wesentlich oder wiederholt verletzt und diese Verletzung nicht innerhalb einer von der Sie-
+mens Energy Austria GmbH  gesetzten angemessenen Frist beseitigt .  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+5 ARBEITSSCHUTZ  AUF  BAUSTELLEN  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 15 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Jugendliche, Lehrlinge und andere Personen, die eines besonderen Schutzes bedürfen, dürfen nur entsprechend 
+der Regelungen in den einschlägigen Gesetzen beschäftigt werden.  
+ 
+Vorhandene betriebsärztliche Dienststellen sowie Erste -Hilfe-Kästen stehen im Not fall zur Verfügung.  
+ 
+Arbeitssicherheitstechnische Details werden bei Bedarf im Formular SE-A110 „SGU - Auflagen für Fremdfirmen “ 
+geregelt.  
+ 
+Die Siemens Energy Austria GmbH  behält sich vor, die Einhaltung der Ihnen übermittelten Vorschriften zu über-
+prüfen.  
+ 
+  
+6 SONSTIGE  HINWEISE  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 16 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Dieses SGU - Merkblatt für Angehörige von Fremdfirmen gilt im vollen Umfang auch für Subunternehmer des 
+Auftragnehmers und deren Beschäftigten.  
+ 
+Bei der Beschäftigung von Subfirmen ist der Auftragnehmer verpflichtet, dieses Arbeitsschutzmerkblatt nachweis-
+lich dem Subunternehmen zur Kenntnis zu bringen.  
+ 
+Die Verantwortlichen des Subunternehmers sind dem Auftraggeber schriftlich vor Arbeitsaufnahme zu melden.  
+ 
+ 
+  
+7 SUBUNTERNEHMEN  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 17 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+Alle hier aufgeführten  Unfälle oder Beinaheunfälle bedürften der Meldung an die Siemens Energy Austria GmbH, 
+sowie eine Aufarbeitung des Vorfalls durch den Auftragnehmer.  
+ 
+Der Auftragnehmer  ist aufgefordert:   
+ 
+1. Eine Meldung des Vorfalles an d ie Siemens Energy Austria GmbH zu richten.  
+ 
+2. Unverzüglich und unaufgefordert eine Ursachenanalyse des Vorfalls durch zuführen.   
+ 
+3. Angemessene Maßnahmen zur zukünftigen Verhinderung vergleichbarer Vorfälle fest zulegen.   
+ 
+4. Einen  Zeitrahmen für die Durchführung dieser Maßnahmen zu bestimmen.   
+ 
+5. Der Siemens Energy Austria GmbH  einen schriftlichen, hinreichend detaillierten Bericht über die Ursa-
+chen des Vorfalls, die festgelegten Maßnahmen und den Zeitrahmen für deren Durchführung  vorzulegen.  
+ 
+Der Auftragnehmer unterstützt eventuelle zusätzliche von Siemens Energy durchgeführte Untersuchungen.  
+ 
+ 
+Gefahrenstellen, die einen Unfall herbeigeführt haben oder einen Beinaheunfall hätten verursachen kön-
+nen, sind umgehend  
+ 
+1. zu sichern , 
+ 
+2. zu do kumentieren  und 
+ 
+3. die Gefahrenquellen zu beseitigen.  
+ 
+ 
+ 
+Folgende Ereignisse sind dem zuständigen sicherheitstechnischen Dienst, der Bauleitung bzw. dem Siemens 
+Energy Ansprechpartner unverzüglic h nachweislich zur Kenntnis zu bringen : 
+ 
+8.1 Todesfall  
+Eine Person, die bei einem Arbeitsunfall oder Wegeunfall tödlich verletzt wurde, oder eine Person, die bei einem 
+nicht arbeitsbedingten Unfall tödlich verletzt wurde, wenn ein Zusammenhang zwischen Siemens  Energy  und 
+dem Ereignis besteht oder wenn externe Behör den beteiligt sind.  
+ 
+ 
+8.2 Unfall mit Arbeitszeitausfall (LTC)  
+Eine Person, die bei einem Arbeitsunfall oder Wegeunfall verletzt wurde , 
+ 
+➢ mit einem oder mehreren Tagen Abwesenheit von der Arbeit, ausgenommen des Unfalltages.  
+ 
+➢ unabhängig davon, ob die Abwesenheit ein geplanter Arbeitstag für den Verletzten ist oder nicht.  
+ 
+➢ basierend auf einem ärztlichen Attest / einer Bescheinigung eines Ar ztes oder von einem anderen zuge-
+lassenen Mediziner.  
+8 EHS-EREIGNISERFASSUNG  UND  -BERICHTERSTA TTUNG  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 18 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+ 
+Nicht beinhaltet:  Todesfälle sowie andere Formen der Abwesenheit z.B. Unfälle im Home Office oder Berufs-
+krankheiten . 
+ 
+ 
+8.3 Unfall ohne  Arbeitszeitausfall  
+Eine Person, die bei einem Arbeitsunfall oder Wegeun fall verletzt wurde  und 
+ 
+➢ nach der Erstversorgung durch einen Sanitäter oder Ersthelfer die Arbeit fortgesetzt hat .  
+ 
+➢ nach der Behandlung in einem Krankenhaus oder durch einen Mediziner am Folgetag die Arbeit wieder 
+aufgenommen hat, wodurch keine Ausfalltage entstanden sind .  
+ 
+ 
+8.4 Beinaheunfall mit hohem Risiko  
+Unsichere Situation / Beinahe -Unfall (Near Miss), die / der unter leicht unterschiedlichen Umständen mit hohem 
+Potenzial zu einer schweren Körperverletzung, Todesfall oder hohem Sach - und Umwel tschaden geführt hätte.  
+ 
+Dazu zählen  
+ 
+➢ kein Personenschaden / Schaden (aber hohes Potential für schwere Verletzungen oder hohe Sachschä-
+den) 
+ 
+➢ Vorfälle, die unter anderen Umständen zum  Tod eines Mitglieds des Personals  hätten führen können  
+ 
+➢ Vorfälle, die unter anderen Umständen einen Unfall mit Arbeitszeitausfall (LTC)  als Folge gehabt hätten  
+ 
+ 
+8.5 Sach - und Umw eltschäden  
+Sach - und Umweltschäden, sind wie auch Personenschäden umgehend der Siemens Energy Austria GmbH zu 
+melden.  
+ 
+ 
+8.5.1  Geringer Schaden  
+ 
+Ereignisse, die zu geringfügigen Sach - und / oder Umweltschäden führen, die jedoch weder behördliche Untersu-
+chungen nach s ich ziehen, noch andere negative marktrelevante oder medienbezogene Folgen haben.  
+ 
+Dazu zählen  
+ 
+➢ Verschütten von umweltunverträglichen Substanzen wie z.B. Ölen oder Säuren mit keinen  lokalen Aus-
+wirkungen auf die Umgebung . 
+ 
+➢ Austreten von wassergefährde nden  Stoffen, die zurück gehalten werden und nicht ins Erdreich, in die Ka-
+nalisation oder ins Wasser gelangen.  
+ 
+➢ Austritt von < 50kg F -Gasen („ Fluorinated Greenhouse Gases “) und anderen Treibhausgasen wie z.B. 
+SF-6. 
+ 
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 19 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111  
+➢ Sachschä den bzw. zu erwartende Schäden mit einem Schadenswert von <  25.000 USD bzw.  
+< 20.000 EUR . 
+ 
+➢ Geringfügige Betriebsunterbrechungen mit einem (zu erwartenden) Schaden von <  100.000 USD bzw.  
+< 85.000 EUR.  
+ 
+ 
+8.5.2  Negative Auswirkungen auf die Umwelt  
+ 
+Meldepflichtige Ereignisse , welche behördliche Untersuchungen oder andere negative marktrelevante oder medi-
+enbezogene Konsequenzen zur Folge haben können.  
+ 
+Dazu zählen  
+ 
+➢ Überschreitung zulässiger Grenzwerte, wodurch ein erhebliches Risiko für die Umwelt ode r die menschli-
+che Gesundheit auftritt.  
+ 
+➢ Unkontrollierter Austritt gefährlicher Stoffe oder Gemische (fest, flüssig, gasförmig), die sich nachteilig 
+auf die Umwelt auswirken.  
+ 
+➢ Austritt von > 50kg F -Gasen und anderen Treibhausgasen wie z.B. SF -6. 
+ 
+➢ Jeglicher Austritt oder Verlust von radioaktivem Material  
+ 
+ 
+8.5.3  Betriebsunterbrechung  
+ 
+Dazu zählen  
+ 
+➢ Alle Explosionen, die zu einer Betriebsunterbrechung oder zur Beschädigung von Eigentum führen.  
+ 
+➢ Naturkatastrophen oder Brände, die zu einer Betriebsunterbrechung führen oder einen zu erwartenden 
+Sachschaden von > 100.000 USD bzw > 85.000 EUR.  
+ 
+ 
+  
+   
+ 
+ 
+Ausdruck vom: 10.08.2021  
+Intern  / RELEASED  
+Version: 2.0 
+  
+© Siemens Energy Austria GmbH   
+Änderungsverantwortung : SE EU AT EHS  
+Verteiler : zur allgemeinen Einsicht und Verwendung Seitens SE EU AT  
+Seite 20 von 20 
+ 
+ 
+Papierausdrucke u. elektronische Kopien von dieser Datei unterliegen keinem autom. Änderungsdienst.  
+ 
+HASi SE -A111   
+ 
+ 
+ 
+ 
+ 
+  
+Auftragnehmer : 
+         
+ 
+ 
+ 
+Die im Merkblatt SE -A111 – „SGU – Merkblatt für Angehörige von Fremdfirmen “ angeführten Punkte werden zur 
+Kenntnis genommen.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Raum für zusätzliche Anmerkungen : 
+ 
+ 
+      
+ 
+ Abteilung, Standort:          
+SEA Ansprechperson:         
+Telefon / Email -Adresse:               
+Projekt / Kunde:         
+Adresse der Baustelle:         
+Adresse des Auftragnehmers:         
+Ansprechperson:         
+Telefon / Email -Adresse:              
+        
+ Datum, Unterschrift, Firmenstempel des Auftragnehmers   
+BESTÄTIGUNGSFORMULAR  - SGU -MERKBLATT  FÜR  FREMDFIRMEN  

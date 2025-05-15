@@ -1,0 +1,67 @@
+Siemens Energy Sustainability Report 2024 – SFDR Mandatory Principle Adverse Indicator IndexPage 1PAI Adverse Sustainability indicator Location Unit Impact 2024 Impact 2023 Explanation
+M1 PAI 1. GHG emissions
+Scope 1 GHG emissions SR24 3, 33 1,000  metric tons CO2e 175 160
+Scope 2 GHG emissions SR24 3, 33 1,000  metric tons CO2e 22 20
+Scope 3 GHG emissions SR24 3, 31, 34 1,000  metric tons CO2e 1,333,642 + 9,238 = 
+1,342,8801,098,370 + 9,230 = 
+1,107,600Scope 3 downstream emissions¹ + Scope 3 upstream emissions²
+Total GHG emissions SR24 3, 21, 30, 31, 33, 34 1,000  metric tons CO2e 1,343,077 1,107,780
+M2 PAI 2. Carbon footprint SR24 3, 21, 30, 31, 33, 34 1,000  metric tons CO2e 1,343,077 1,107,780
+M3 PAI 3. GHG intensity SR24 3, 21, 30, 31, 33, 34 t CO2e/€ of revenue  0.0390  0.0356
+M4 PAI 4. Exposure to companies active in the fossil fuel sector In fiscal year 2024, none of Siemens Energy’s revenue was derived from 
+activities within the fossil fuel sector as defined in ESRS, including coal, oil 
+and gas.
+M5 PAI 5. Share of non-renewable energy consumption and production 
+Total energy consumption SR24 3, 33 GJ 5,933,002 5,476,213
+Share of renewable energy consumption SR24 3, 33 49% 54% Our target to source 100% renewable electricity by fiscal year 2023 was 
+achieved, and we continue to source electricity from renewable sources.
+Total energy production We are working on greater data transparency regarding our own energy 
+production.
+Share of renewable energy production We are working on greater data transparency regarding our own energy 
+production.Siemens Energy – Sustainability Report 2024:  
+SFDR Mandatory Principle Adverse Indicator Index
+This statement on principal adverse impacts on sustainability factors of Siemens Energy AG covers the reference period 
+from 01 October 2023 to 30 September 2024. Please refer to the  Siemens Energy Sustainability Report 2024  and references 
+mentioned in “Location” below for actions taken, and actions planned, and targets set for fiscal year 2025.
+Abbreviations and links:
+AR24:  Annual Report 2024  BCG:  Business Conduct Guidelines  CoC:  Code of Conduct  GHG: Greenhouse gas SR24:  Sustainability Report 2024
+Siemens Energy Sustainability Report 2024 – SFDR Mandatory Principle Adverse Indicator IndexPage 2PAI Adverse Sustainability indicator Location Unit Impact 2024 Impact 2023 Explanation
+M6 PAI 6. Energy consumption intensity per high impact climate sector SR24 3, 33 GWh/€ of revenue 0.0478×10-60.0489×10-6 Total energy consumption/revenue  
+Sector: NACE C – Manufacturing
+M7 PAI 7. Activities negatively affecting biodiversity-sensitive areas No significant environmental incidences concerning negative effects on 
+biodiversity-sensitive areas have been reported in fiscal year 2024.
+Effects on biodiversity-sensitive areas are not material for Siemens energy, 
+however, we are continuously working towards increasing data transparency 
+on biodiversity related indicators.
+M8 PAI 8. Emissions to water We strive to adhere to local laws and regulations related to emissions to 
+water.
+Emissions to water are not material for Siemens Energy, however we are 
+continuously working towards increasing data transparency.
+M9 PAI 9. Hazardous waste and radioactive waste ratio SR24 45, 49, 50 1,000  metric tons 
+(hazardous waste)17 24 We strive to adhere to local laws and regulations related to radioactive 
+waste.
+Radioactive waste is not material for Siemens Energy, however we are 
+continuously working towards increasing data transparency.
+M10 PAI 10. Violations of UN GC principles and Organization for Economic 
+Cooperation and Development (OECD) Guidelines for MNEsBCG 32, 33, 34
+SR24 54, 55, 57, 58-61
+M11 PAI 11. Lack of processes and compliance mechanisms to monitor 
+compliance with UN GC principles and OECD Guidelines for MNEsSR24 16, 17, 19, 48, 53-55, 56, 57, 58-61
+SR24 53-55, 57 (grievance mechanism)
+BCG 32, 33, 34
+Human Rights and Environmental protec-
+tion policy statement 6, 7Our commitments are also comprised in our human rights and environmental 
+protection policy statement, which builds upon our BCG, and our Supplier 
+CoC.
+M12 PAI 12. Unadjusted gender pay gap³ SR24 64 % 3.42 4.57
+M13 PAI 13. Board gender diversity AR24 6, 167, 172 % of board members 33 33 Two of the six board members of Siemens Energy identify as female.
+¹  Includes category “use of sold products” only (well-to-tank emissions are included, biogenic emissions have been excluded). Siemens Gamesaʼs emissions equal zero.
+²  Includes categories “purchased goods and services“ and “transportation and distribution” only.
+³  Figures relate to Siemens Energy, taking into consideration all employees with active employment contracts and complete data available as of the end of each financial year. An unadjusted pay gap refers to the difference between the earnings of men vs. women (mean male vs. female FTE Total Direct Compensation in € using actual 
+payout values based on incentive payout ratios from the previous fiscal year converted to hourly rates) that could arise from differences in a number of factors, for example, job families, geography, relative value of the position, seniority, or gender. The pay gap KPI is expressed as the difference between the mean male pay vs. the 
+mean female pay, divided by the mean male pay. A positive pay gap KPI is one in favor of men, a negative one in favor of women.
+PAI 14 Exposure to controversial weapons (anti-personnel mines, cluster munitions, chemical weapons and biological weapons) – not applicable to Siemens Energy
+PAI 15 and PAI 16 Indicators applicable to investments in sovereigns and supranationals only
+PAI 17 and PAI 18 Indicators applicable to investments in real estate assets only
+Optional PAIs are not considered in this index.
+Due to rounding, the figures presented throughout this publication may not add up precisely to the totals provided, and percentages may not precisely reflect the absolute figures.

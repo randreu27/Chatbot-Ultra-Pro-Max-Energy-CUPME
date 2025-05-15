@@ -1,0 +1,593 @@
+ 
+Sem restrições   
+ 
+ 
+ 
+Conditions  of Purchase   
+Status : April, 2025  
+1.        Order  and Confirmation of Order   
+1.1      The Custom er may cancel the order if the S upplier has not conf irmed   
+accept ance of the order (conf irmation) in writ ing with in two weeks of   
+receipt.  
+1.2      Any alterations, ame ndmen ts or add itions to the order  shall only be-  
+come a part of the contrac t if the Customer accepts such in writing. In   
+particu lar, the Custom er is bou nd by the genera l terms and cond itions  
+of the Supplier  only to the extent tha t such  are in accordance  with these   
+Cond itions of P urchase or  if the Customer agrees to such in writ ing.  
+The accept ance of deliver ies or serv ices as we ll as paymen ts does not   
+constit ute such a greemen t.  
+1.3      Any prov isions in oth er documents provided by the S upplier (such as   
+but not l imited to specif ications, dat a shee ts, techn ical document ation,  
+advert ising materia ls, order  confirmation and/or sh ipping documents)   
+regardin g legal terms, liability, restriction of use, restriction of applica -  
+tion an d/or restr iction of su itability, or any oth er prov ision that changes   
+the provisions of these Cond itions of P urchase sha ll not be applicable.  
+2. Rights of Use   
+2.1      The S upplier hereby grants the Custom er the fo llowing non -exclusive,   
+transferab le, wor ldwide and perpetua l rights:   
+2.1.1    to use the de liveries and serv ices includ ing re lated documentation, to   
+integrate them into ot her products an d to distribute them;   
+2.1.2    to install, launch, test and operate software an d its related documenta -  
+tion (here inafter co llective ly referred t o as “S oftware”);   
+2.1.3    to sub license the rig ht of use under section 2.1. 2 above to aff iliates (as   
+defined by § 1 5 of the German Compan ies Act (Aktieng esetz), herein -  
+after referred  to as “Affiliates”),  to contracted  third parties, to distributors   
+and to end custom ers;  
+2.1.4    to license to Af filiates and oth er distributors the right to sublicense the   
+right of use und er section 2.1 .2 above to en d customers;   
+2.1.5    to use the Software for integrat ion into oth er products and to copy the   
+Software, or to allow Affi liates, contracted th ird parties or distr ibutors to   
+use and copy the S oftware;   
+2.1.6    to distribute, se ll, hire out, lease,  make ready for download or make   
+publicly  available  the Software,  e.g. in the context of application  service  
+providing or in other cont exts, and to copy the S oftware to the extent   
+required, always prov ided that the number  of licenses be ing used at   
+any one time does not exceed  the number of licenses purchased;   
+2.1.7    to sub license the right of use  under section 2.1. 6 above  to Affiliates,   
+contracted th ird parties and d istributors.   
+2.2  In add ition to the rights granted  in section 2.1 above, the Custom er,  
+Affiliates and distribu tors are authorized  to allow end customers  to  
+transfer the respective l icenses.   
+2.3      All sublicenses granted by the Customer must conta in appropriat e pro-  
+tectio n for the intellectua l property  rights  of the Supplier in the Software.   
+All sublicenses  must conta in any  contractua l provisions  used  by the  
+Custom er to protect its own intellectua l property righ ts.  
+2.4      The S upplier shall inform the Custom er - at the latest at the time the   
+order is conf irmed - wheth er the products and serv ices to be de livered   
+contain open  source components.   
+In the cont ext of th is prov ision “open source comp onents” mea ns any   
+software, h ardware or other informat ion that is provided roya lty-free by  
+the respective licensor to any user on the basis of a license with the   
+right to mod ify and/or to d istribu te (e.g. GNU Genera l Public License   
+(GPL), the GNU Lesser GP L (LGPL), or the MIT L icense). S hould the   
+products and serv ices de livered by the Supplier conta in open source   
+comp onents, the Supplier sha ll comp ly with all applicable ope n source   
+license terms and sha ll grant a ll those rights to the Custom er and pro -  
+vide al l informat ion wh ich the Customer nee ds in order to comp ly him -  
+self with the applicable license terms. In part icular, the S upplier must   
+deliver to the Customer  prompt ly after the order is confirmed  the follow-  
+ing:  
+-    A sched ule of all open source components used, indicating the rel -  
+evant license, its vers ion and includ ing a copy of the comp lete text   
+of such  license  and includ ing a reference  to copyr ight and/or  author -  
+ship. Such sched ule must have an understan dable structure and   
+contain a table of contents.   
+-    The comp lete source code of the re levant open source software,   
+includ ing scripts and informat ion regard ing its gen erating environ -  
+ment insofar as the  applicable op en source cond itions requ ire this.  
+2.5      The S upplier shall by the time of order conf irmation at the latest inform   
+the C ustomer in writ ing wheth er any open source licenses used by the   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supplier might be subject to a Copyleft Ef fect which cou ld affect the   
+products of t he Customer. In the cont ext of th is prov ision, “Copyleft 
+Effect“ means that the prov isions of the ope n source license requ ire that  
+certai n of the Supplier’s products, as wel l as any products derived from   
+such products, may on ly be redistr ibuted in accordance wi th the terms   
+of the open source license, e.g. on ly if the source code is disclosed. In   
+case any open source licenses used by the S upplier are subject to a   
+“Copy left Effect” as defined above,  then the Custom er is entitled to can-  
+cel the order w ithin two weeks of receipt of this informat ion.  
+3. Term and P enalty for Bre ach  
+3.1      For the  purposes of establishin g the timel iness of delivery, th e relevant   
+point in time is the dat e of receipt at the p lace of destinat ion/de livery   
+accordi ng to Incoterms ® 2020 designat ed by the Custom er, and for   
+deliveries  involving installation, comm issioning or rectification services,  
+the relevant po int in t ime sha ll be the date of accept ance by the Cus -  
+tomer.  
+3.2  If any delay in delivery or performance  or rectif ication is  anticipat ed, the  
+Custom er sha ll be notified immed iately and its decis ion sought.   
+3.3  If – in the event of de lay – the Supplier cannot prove that it is not re -  
+sponsi ble for the delay, the Customer may charge a pena lty in respect   
+of each com menced work ing day  of de lay amount ing to 0.3 % (zero   
+point three percent) but not exceed ing a tota l of 5 % (five percent) of   
+the total value of  the contract.   
+In the event  that the appropriate  reservat ion of rights  is not  made  at the  
+time of accept ance of delivery,  services or rectification, this pena lty may   
+still be claimed if the reservat ion of rights is  made  no later than the date  
+of final payment.   
+3.4      Additional or other statu tory righ ts are not affected hereby.   
+4. Transfer of Risk,  Dispatch and Place of P erformance, Transfer of   
+Title   
+4.1      For deliver ies involving  installation,  comm issioning or services, the  
+transfer of risk occurs on accept ance and for deliver ies not involving  
+instal lation or comm issioning, the transfer of risk sha ll be upon rece ipt  
+by the Custom er at the nam ed place of destinat ion/de livery accordi ng  
+to Incoterms ® 202 0. Unless agreed otherwise, DDP (named place of   
+destin ation) Incoterms  ® 2020  shall apply, if (a) the seat of the Supplier  
+and the named  place of  destinat ion are within the same  country  or if (b)  
+the seat of the Supplier and the name d place of destination are both   
+within the European Un ion. If neither (a) nor (b) are fu lfilled, then DAP   
+(named  place of destination) Incoterms  ® 2020  shall apply, unless  
+agreed otherwise.   
+4.2      Unless otherwise  agreed,  the costs  of adequat e packag ing shall be  
+borne by  the S upplier. In case  transportat ion costs are borne by  the  
+Custom er, not ice of  readiness for d ispatch sha ll be given toget her with  
+the informat ion set out in sect ion 4.3 hereunder. On th e Customer’s re -  
+quest a Siemens Energy routi ng order too l must be used by the Sup -  
+plier. Transport  shall be arranged  by the Supplier  at the lowest  poss ible  
+cost, insofar as the  Custom er has not  requested a p articular method  of  
+delivery or the conclusion of the contract for carr iage by the Customer.   
+Any supp lement ary costs  arising  from non-conformity  with the transport   
+requirements  includ ing costs  arising  from the non-applicat ion of the Sie-  
+mens Energy routing order too l shall be borne by the S upplier. In case   
+DAP/DDP (named p lace of destination) Incoterms ® 2020 is agreed,   
+the Custom er may also det ermine the metho d of transportat ion. Any   
+supp lementary costs arising from the need to meet the de livery dead -  
+line by way of exped ited delivery sha ll be borne by the Supplier.   
+4.3      Each delivery sha ll include a pack ing note or delivery not e with detai ls  
+of the contents as wel l as the comp lete order number.   
+4.4      As far as the Custom er and th e Supplier agree that th e Supplier orders   
+the transport of de liveries cont aining dang erous goo ds for account of   
+the Custom er, the Supplier is responsi ble to transfer the necessary le-  
+gally required dangerous  goods  data to the freight  forwarder  nominated   
+by the Custom er when p lacing the transport order. The S upplier is in  
+these  cases  also responsib le for pack ing, mark ing, labelling,  etc. in  
+comp liance  with the regulation relevant  to the mode(s)  of transport   
+used.   
+4.5  If the Custom er informs the Supplier that fo llowing the in itial transport   
+another transport wi th a different mode of transport is sched uled, the   
+Supplier will also follow the relevant  legal requiremen ts concern ing dan-  
+gerous goods with regard to  such o n-going transport.   
+4.6      Transfer of tit le sha ll be up on delivery or accept ance by the Customer,   
+as the case may be.   
+
+ 
+Sem restrições  5. Payment, Invoices   
+5.1      Unless oth erwise agreed, payments shall be due and payabl e no later  
+than 30 (th irty) days net. If payment is made w ithin 14 (fourteen) days,   
+the Customer is ent itled to a 3 % (three percent) d iscoun t. The period   
+for payment  shall commence  as soon  as any delivery  or service is com-  
+pleted an d a correct ly issued  invoice is rece ive  
+5.2      The order num ber as we ll as the number of each individual item sha ll  
+be detai led in invoices.  Insofar  as any such  details are omitted, in-  
+voices sha ll not be p ayable. Cop ies of invoices sha ll be marked as du-  
+plicates.   
+5.3  Insofar as the S upplier is requ ired to prov ide mat erial testing, test rec -  
+ords or qua lity contro l documents  or any  other document ation, such   
+shall be a part of the requ irements of the completeness of the de livery   
+or performance. A d iscoun t shall also be al lowed if the Customer sets   
+off or withholds  any payments  to a reasonab le extent  on accoun t of any  
+deficiency.   
+5.4      Paymen t does  not constitute  an acknow ledgeme nt that the correspond - 
+ing delivery or serv ices were prov ided in accordance with the  contract.   
+6. Inspection upon r eceipt   
+6.1      The Custom er shall immed iately upo n receipt at the named p lace of  
+destin ation exam ine whether  a delivery  corresponds  to the quantity and  
+type of products  ordered  and wheth er there are  any externa l recogn iza-  
+ble transportat ion damage or other obvious def iciencies.   
+6.2      Should the Customer  discover any  deficiency in the course of  these   
+inspect ions or at any  later stag e, it sha ll inform the Supplier of such   
+deficiency.   
+6.3      Comp laints may be raised wi thin one month of delivery of a product or   
+performance, and insofar as def iciencies are not d iscovered until com-  
+missioning, process ing or first use, wi thin one month of detection.   
+6.4  In this regard the Custom er sha ll have no oth er duties to the S upplier  
+other than the dut ies of inspection and not ification above.   
+7.        Warranty   
+7.1  If deficiencies  are identified  before  or durin g the transfer  of risk or during   
+the warranty  period provided  for in section  7.8 or 7.9,  the Supplier  must   
+at its own expense and at the d iscretion of the Customer e ither repa ir  
+the deficiency or prov ide re-performance of serv ices or rep lacement of   
+deliveries (= rect ification). Th is prov ision also applies to deliver ies sub -  
+ject to inspect ion by sample tests. The d iscretio n of the C ustomer sha ll  
+be exercised f airly and reasonab ly.  
+7.2      Should the S upplier fail to rect ify (i. e. repa ir or rep lacement) any def i-  
+ciency wi thin a reasonab le time perio d set by the Customer, the Cus -  
+tomer is ent itled t o:  
+7.2.1    cancel the contract in who le or in part w ithout being subject to any lia-  
+bility for damages; or   
+7.2.2    demand a reduction in price; or   
+7.2.3    undertake itself any repa ir at the expense of the Supp lier or re -perfor -  
+mance of serv ices or repl aceme nt of de liveries or arrang e for such to   
+be done; and   
+7.2.4    claim damages in lieu of performance.   
+For the  purposes of establishing th e timeliness of rectif ication, the rele -  
+vant point in time is the dat e of rece ipt at th e place of destinat ion.  
+7.3      The rights accordi ng to section 7.2 may be exerc ised w ithout further   
+deadline if the Custom er has a strong particular interest in immed iate  
+rectification in order  to avoid  any liabi lity of its own for delay  or for other   
+reasons  of urgency  and it is not reasonab le for the Customer  to request   
+the S upplier to rect ify the def iciency wi thin a reasonab le time perio d.  
+The legal provisions on the d ispensab ility of sett ing a dead line rema in  
+unaffected hereby.   
+7.4      The above -mentione d rights sha ll expire one year from the dat e of no -  
+tification of the def iciency but in no instance bef ore the expiry of the   
+warranty perio ds set o ut in this section.   
+7.5      Additional or other statu tory righ ts are not affected hereby.   
+7.6  If the Supp lier provides subsequent performance  or repa irs, the war -  
+ranty  periods set out in section  7.8 and 7.9  shall begin to run once   
+again.  
+7.7      Notw ithstand ing the transfer  of risk regarding  delivery,  the Supplier  
+shall bear the costs  and risk related  to the rectification (e. g.  return   
+costs, cos ts of transport, costs of de- and re -instal lation).  
+7.8      The warranty peri od for def iciencies of mat erial is three years, insofar   
+as no statu tory prov isions prov ide longer periods.   
+7.9      The warranty period for def iciencies in title is five years, insofar as no   
+statu tory prov isions prov ide longer perio ds.  
+7.10    For de liveries not involving installation or comm issioning, the warranty   
+period beg ins to run wi th rece ipt at the p lace of destination named by   
+the Custom er. For deliveries  involving  instal lation,  comm issioning or  
+services, the warranty  period begins to run with accept ance by the Cus-  
+tomer. Upon de livery to locations where the Customer is operat ing out-  
+side its prem ises, the warranty period beg ins wi th the accept ance by   
+the end customer, i n no case later than one year after transfer of risk.   
+8. Supplie r’s Duty to Verify and to Inform   
+8.1      The S upplier is obliged to exam ine componen ts such as, e.g. raw ma -  
+terial, provided by the Custom er or provided by the Supplier’s  suppliers,   
+manufacturers or oth er third parti es at the t ime of rece ipt of such com -  
+ponents as to wheth er these comp onents show any obvio us or h idden   defects. In case any def ects are d iscovered in the course of such in-  
+spectio ns, the Supplier  shall immediately inform its supp liers or – in 
+the case the comp onents are prov ided by the Customer – inform the 
+Customer.  
+8.2  It is essent ial that the products  are delivered  free of any third-party   
+rights. Thus the S upplier is und er a duty to verify t itle and inform the   
+Custom er of any poss ible conf licting industr ial and intellectual  property   
+rights. A ny breach of such duty is  subject to the norma l statu tory limita-  
+tion perio d.  
+9.        Quality Management, Subcontracting to Third Parties   
+9.1      The Supplier shall maintain a quality mana gemen t system  (e.g. accord -  
+ing to ISO 9001).   
+9.2      Subcontract ing to third parties shall not take place without the prior writ-  
+ten consent of the Custom er and ent itles the Custom er to cancel the   
+contract in who le or in p art and cla im damag es.  
+10.      Provided Materi al, Information   
+10.1    Material and information prov ided by the Customer rema ins the prop -  
+erty of the Customer and are to be stored, labeled as property of the   
+Custom er and administered  separate ly at no cost to the Custom er.  
+Their use is limited to the orders of the Custom er only. The S upplier  
+shall supp ly repl acements i n the event of reduction of value or loss, for   
+which the Supp lier is responsib le, even  in the event of s imple negl i-  
+gence. This a lso applies to the transfer of al located mat erial.  
+10.2    Any process ing or transformat ion of the mat erial and information sha ll  
+take p lace for the Custom er. The Customer sha ll immed iately become   
+owner of t he new or transformed product. Sh ould this be imposs ible for   
+legal reasons, the Customer  and the  Supplier hereby  agree that the   
+Custom er shall be the owner of the new product at al l times during the   
+process ing or transformat ion. The S upplier shall keep the new product   
+safe for the Customer  at no extra  cost and in so doing exerc ise the duty   
+of care of  a merchan t.  
+11.      Tools, P atterns, Samples,  Confidentiality   
+11.1    Any  tools,  patterns,  samp les,  mode ls,  profiles,  drawin gs,  standard  
+specif ication shee ts, printing templates and materia ls prov ided by the   
+Custom er or made for the Customer, as we ll as any materia ls derived   
+there from, shall not be made avai lable to any th ird party nor used for   
+any other purpose  than those  contractual ly agreed  except  with the prior   
+written  consent  of the Custom er. Such materia ls shall be protected   
+against unaut horized access or use. S ubject to any further rights the   
+Custom er may demand that such mat erials be returned if the S upplier  
+breaches these dut ies.  
+11.2    The Supplier shall treat as confidential the know ledge  and findings, doc-  
+uments, terms of reference, busin ess processes or other informat ion  
+that it rece ives from or about t he Customer i n the context of perform ing  
+the de liveries and serv ices, as we ll as the conclusion of the contract   
+and any resu lts, with regard to th ird parties - and sha ll keep the same   
+confidential beyond  the term of  the contract  – for as long  as and insofar   
+as such in formation has not become publicly known by legal means or  
+the Customer  has not consented  in writing to its transfer  in the individual   
+case.  The Supplier  shall make  confidential informat ion available only to  
+those emp loyees who need the informat ion for the fu lfillment of the ir  
+duties and shal l ensure th at such employees are also subject to a duty   
+to treat such informat ion as conf idential. The Supplier sha ll use th is in-  
+format ion exc lusive ly for the purpose of performing the deliver ies and   
+services. Insofar  as the Custom er agrees  to any subcontract ing to a   
+third party, such th ird party sha ll agree to such terms in writ ing.  
+12.      Assignment of Claims   
+Any ass ignment of any c laim is only allowed w ith the pr ior written ap -  
+prova l of the Customer.   
+13.      Right to Terminate and Cancel   
+13.1  In additi on to any rights prov ided by law to wi thdraw from or cancel a   
+contract, the Customer may cancel the contract in whole or in part in  
+case (a) the S upplier is in delay wi th its de livery or serv ice and such   
+delay – desp ite a correspond ing reminder by the Custom er - persists  
+for more than two weeks after receipt of such rem inder or in case (b)   
+that adherence to the contract by the Customer cann ot reasonab ly be   
+expected from the Custom er because of a reason attri butable to the   
+Supplier and taking into consid eration the c ircumstances of the case   
+and both parties` interests. This m ight, in particular, app ly in case of  an  
+actual  or poss ible deteriorat ion of th e Supplier’s financia l situat ion thus   
+threatening the due fulfil lment of the S upplier’s obligations und er the   
+contract.   
+13.2    The Customer may a lso terminate the contract in case insolvency pro -  
+ceed ings or s imilar proceed ings in  relation to the assets of the Supplier  
+are applie d for or com menced.   
+13.3  In case of a term ination by the Customer the Custom er may cont inue  
+to utilize exist ing faci lities, de liveries or serv ices a lready performed by   
+the Supplier in exchan ge for reasonable payment.   
+ 
+ 
+ 
+ 
+ 
+ 
+Sem restrições   
+ 
+14.      Code of Conduct for S iemens Energy Suppliers , Security in the   
+Supply Chain   
+14.1     The Supplier is obliged to comply with the laws of the applicable legal  
+system(s). In particular, the Supplier will not engage, actively or passively, 
+nor directly or indirectly in any form of bribery, in any violation of basic 
+human rights of employees or any child labor and the Supplier shall comply 
+with the regulations of the Siemens Energy Code of Conduct and address 
+these expectations to its own suppliers along its supply chain.  Moreover, 
+the Supplier will take responsibility for the health and  safety of its employees 
+and shall fulfill the applicable minimum wage  requirements. By acting in 
+accordance with the applicable environmental  laws, the Supplier shall take 
+adequate measures to avoid the deployment  of so -called conflict minerals 
+and shall create transparency over the origin  of raw materials. The Supplier 
+shall provide a protected grievance  mechanism for its own employees to 
+report possible violations of this Code of Conduct and will take reasonable 
+measures to make its suppliers comply with the principles of this Code of 
+Conduct and to verify  this on a risk basis.  Supplier shall be obliged to duly  
+document its compliance with the Code of Conduct. Customer and its  
+representatives or a third party ap - pointed by the Customer and  reasonably 
+acceptable to Supplier shall be entitled (but not obliged) to  conduct – also 
+at Supplier’s premises – inspections in order to verify  Supplier’s compliance 
+with the contractual obligations, in particular with  the Code of Conduct. Any 
+such inspection may only be conducted in  accordance with the applicable 
+data protection law and shall neither  unreasonably interfere with Suppliers' 
+busi ness activities nor violate any  of Suppliers' confidentiality agreements 
+with third parties. Supplier shall  reasonably cooperate in any inspection to 
+be conducted. Supplier shall  immediately initiate any remedial ac tions if it 
+detects any violation of the  Code of Conduct by itself or its subcontractors 
+and shall promptly inform  Customer of any such violation and the remedial 
+action if and to the extent  such breach affects the contract.  
+ 
+14.2    The Supplier  shall provide the necessary  organ izational instructions   
+and take measures, particu larly with regard to the follow ing secur ity:  
+prem ises secur ity, packag ing and transport, business partner, person -  
+nel and informat ion - in order to guarantee the secur ity in the supp ly  
+chain accordi ng to the requirements  of respective i nternat ionally  recog -  
+nized initiatives based  on the WCO  SAFE Framework  of Standards   
+(e. g.  AEO, C-TPAT). The Supplier  shall protect  the goods and services  
+provided to the Customer or prov ided to third parties designat ed by the   
+Custom er against unauth orized  access  and manipulat ion. The S upplier  
+shall only deploy rel iable personne l for those goods and serv ices and   
+shall obligate any sub -supp liers to t ake equivalent security measures.   
+14.3  In add ition to other rights and remed ies the Custom er may have, the   
+Custom er may term inate the contract in case of breach of the ob liga-  
+tions under section  14 by the Supplier. However,  provided that the Sup-  
+plier’s breach of contract is capab le of remedy, the Customer ’s right to   
+terminate is subject to the prov iso that s uch breach has not bee n rem-  
+edied by the S upplier with in a reasonab le grace p eriod set by the Cus -  
+tomer.  
+15.      Product Conformity, P roduct Related Environmental Protection   
+including Substance De claration, Dangerous Goods, Occupa -  
+tional Health and Safety   
+15.1    Should the Supplier  deliver products,  to which product -related statutory   
+and legal requirements ap ply in view o f their placing on the market a nd  
+further market ing in the E uropean Econom ic Area or  to wh ich corre -  
+spon ding requ irements app ly regarding oth er coun tries notified by the   
+Custom er to the Supplier, then the Supplier must ensure  comp liance  of  
+the products  with these  requirements  at the time of transfer  of risk. Fur-  
+thermore, th e Supplier must ensure that all documents and informat ion  
+which are necessary to provide the proof of conformity of products w ith  
+the respective requ irements can be furn ished immed iately to the Cus -  
+tomer upon request.   
+15.2    Should the Supplier deliver products, substances of wh ich are set out   
+in the so-called “L ist of Dec larable Substances” ( www.bomcheck.net/   
+supp liers/restricted -and-declarab le-substances -list)  applicable  at  the  
+time of the order or wh ich are subject to statutori ly imposed substance   
+restrictions and/ or informat ion requ irements (e. g. RE ACH, RoHS), the   
+Supplier sha ll declare such substances and prov ide informat ion as re -  
+quested  in the web database  BOMcheck  (www.BOMcheck.net )  no later  
+than the date of first delivery of products. W ith respect to statutori ly im-  
+posed  substance  restrictions  the forego ing shall only apply to laws   
+which are applicable at the reg istered seat of the S upplier or the Cus -  
+tomer or at the place of  destination name d by the Customer.   
+15.3    Should the delivery cont ain goods wh ich – accordi ng to internat ional   
+regulations – are classified as dangerous  goods, the Supplier will inform   
+the Custom er hereof in a  form agreed upo n between the S upplier and   
+the Custom er, but in no case later tha n the dat e of order conf irmation.  
+The requ iremen ts concerning dang erous goods in section 4.4 and 4.5   
+rema in unaff ected.   
+15.4    The Supplier is obliged to comp ly with all legal requirements regard ing  the health and safety  of the personn el employed  by the 
+Supplier.  It must   
+ensure that the hea lth and safety of its personne l as we ll as 
+indirect  
+subcontractors em ployed to p erform the deliver ies and 
+services is pro-  
+tected.   
+16.      Cybers ecurity   
+16.1    The  Supplier   shall  take  appropriate  organizational  and  
+technical measures to ensure the confidentiality, authenticity, 
+integrity and availability of Supplier Operations as well as products 
+and services. These measures shall be consistent with good 
+industry pract ice and shall in  clude an appropriate information 
+security management system consistent with standards such as 
+ISO/IEC 27001 or IEC 62443 (to the extent applicable).  
+16.2  “Supplier Operat ions” means a ll assets,  processes  and systems (in -  
+cluding informat ion systems), dat a (including Customer dat a), person -  
+nel, and s ites, used or processed by the S upplier from t ime to t ime in  
+the performance of th is contract.   
+16.3    Should products or serv ices cont ain software, f irmware, or ch ipsets:   
+16.3.1 the Supplier shall implement  appropriate  standards,  processes  and  
+methods to prevent,  identify,  evalu ate and repair any vulnerab ilities,  
+malicious code , and secur ity incide nts in products and serv ices wh ich  
+shall be consistent w ith good industry pract ice and stan dards such as   
+ISO/I EC 27001  or IEC 62443  (to the extent app licable);  
+16.3.2 the Supplier shall cont inue to supp ort and provide serv ices to repa ir,  
+update, upgrade and maintain products an d services includ ing the pro -  
+vision of patches to the  Custom er remedying vu lnerabi lities for the  rea-  
+sona ble lifetime of  the products and serv ices;  
+16.3.3 the Supplier shall provide to t he Customer a bi ll of mat erials ident ifying  
+all third-party software comp onents cont ained in the products. Third -  
+party software shall be up -to-date at the t ime of de livery to the Cus -  
+tomer;  
+16.3.4 the S upplier sha ll grant to the Customer  the right, but the Customer   
+shall not be ob liged, to test or have tested products for ma licious code   
+and vu lnerab ilities at any t ime, and shall adequate ly supp ort the Cus -  
+tomer;  
+16.3.5 the Supplier  shall provide the C ustom er a contact for all informat ion se-  
+curity re lated issues (avai lable during business ho urs).  
+16.4    The S upplier shall prompt ly report to the Custom er all relevant infor-  
+mation security inci dents occurred or suspected and vul nerabi lities dis -  
+covered  in any Supplier  Operat ions, services and products,  if and to the  
+extent the  Customer is or is likely to be materia lly affected.   
+16.5    The S upplier shall take appropriate measures to achieve that its sub -  
+contractors and supp liers sha ll, within a reasonab le time, be bound by   
+obligations s imilar to the provisions of th is section  16.  
+16.6    Upon the Custom er’s request,  the Supplier sha ll provide written ev i-  
+dence  of its comp liance  with this section  16 including  generally  ac-  
+cepted audit reports (e.g. SSAE -16 SOC 2 Type I I).  
+ 
+17.      Export Control and Foreign Trade Data Regulations  
+17.1    The Supplier shall comply with all applicable export control, customs  and 
+foreign trade regulations (“Foreign Trade Regulations”). In particular, the 
+Supplier represents and warrants that none of its products nor its services 
+provided under the contract contain products and/or services restricted for 
+import under Foreign Tra de Regulations applicable to the Customer, including 
+but not limited to Council Regulations (EU) 833/2014, 692/2014, 2022/263 or 
+765/2006, each as amended and import restrictions enforced by the U.S. 
+Customs and Border Protection. The Supplier shall advise  the Customer in 
+writing within two weeks of receipt of the order - and in case of any changes 
+without undue delay - of any information and data required by the Customer to 
+comply with all Foreign Trade Regulations in case of export and import as well 
+as re-export, including without limitation:  
+- all applicable export list numbers, including the Export Control Classification 
+Number according to the U.S. Commerce Control List (ECCN); and  
+- the statistical commodity code according to the current commodity 
+classification for foreign trade statistics and the HS (Harmonized System) 
+coding including the respective tariff basis on which the classification of 
+the product has been performed (e.g. EU Combined Nomenclature, 
+TARIC, US HTS); and  
+- the country of origin (non -preferential origin) as well as the region of origin, if 
+applicable for the respective country of origin; proof of origin (e.g. 
+Packing -List, Delivery Note, BOL, GAI); and  
+- upon request of the Customer: preferential statement including Supplier’s 
+declaration of preferential origin (in case of European suppliers) or 
+preferential certificates (in case of non -European suppliers);  
+and 
+-upon request of the Customer: evidence of the country of origin of the iron and 
+steel inputs used for the processing of the products.  
+ 
+Supplier shall be liable for any expenses and/or damage incurred by the 
+Customer due to any breach of the obligations according to this section  
+ 
+ 
+Sem restrições  17.2 Ban on re -exports to Russia („No -Russia -Clause“)  
+The following clause shall apply if and to the extent (i) the Customer supplies any goods 
+or technology to the Supplier in the course of the execution of the contract, (ii) such 
+supplied goods or technology are or refer to goods listed in the Annexes set out in 
+Article 12 g EU Regul ation No. 833/2014 and Art. 8g EU Regulation No. 765/2006 
+as amended and (iii) and the supply takes place from the EU to a third country 
+except for partner countries according to Article 12 g EU Regulation No. 833/2014 
+and Art. 8g EU Regulation No. 765/200 6 as amended:  
+- The Customer hereby prohibits to the Supplier, and the Supplier agrees, not to re -export 
+and/or forward, directly or indirectly, to Russia or Belarus or for use in Russia or 
+Belarus any supplied goods as well as technology (and related documentation, 
+regardless of the mode of provision) provided by the Customer to the Supplier 
+under the contract.  
+- The Customer shall be entitled to terminate the contract by written notice in the event of 
+a breach by the Supplier of the obligation pursuant to this section 17.2. Upon 
+termination, the Supplier shall pay to the Customer all costs and damages incurred 
+by the Customer from such termination. In any case, the Supplier shall pay the 
+Customer liquidated damages in the amount of 20 % of the contract price.  
+- Notwithstanding the provision hereinabove in this section 17.2, the Supplier shall 
+indemnify and hold harmless the Customer in full from and against any claim, 
+proceeding, action, fine, loss, cost and damage asserted by public authorities or 
+other third parties against the Customer arising out of or relating to a breach by the 
+Supplier of the obligations under this section 17.2 and the Supplier shall 
+compensate the Customer for all losses and expenses incurred resulting thereof.  
+18.      Rese rvation Clause   
+The Customer shall not be obligated to fulfill the contract if such fulfillment is  
+prevented by any impediments arising out of national or inte rnational foreign trade  
+or customs requirements or any embargoes or other sanctions.  
+19.      Mention as Reference Customer   
+Only upo n the Customer’s prior wr itten approval, the S upplier shall be   
+allowed  to mention the Customer  as a reference  customer  and/or make  reference  to 
+products  or services which the Supplier has develope d during the p erformance of an 
+order for the Customer.   
+20.      Supplementar y Provisions   
+20.1  Insofar as the prov isions of these Cond itions of P urchase do not regu late 
+certain m atters, rel evant statutory prov isions sha ll apply.  
+20.2  The S upplier shall b e liable for any expenses an d/or dam ages incurred  by 
+the Customer due to  any breach of these cond itions, in p articular of  
+20.3    sections 2, 3, 4, 7, 8, 14, 15, 16 and 17, un less the S upplier is not re -  
+sponsi ble for such breach.   
+21.      Place of Jurisdiction and Applicable Law   
+21.1 Venezuelan  law shall apply, excluding the provisions of the United Nat ions 
+Law on the S ale of Goods of 11 th of April 19 80.  
+21.2 The relevant court of jurisdictio n shall be Mun ich.   
+22. Suspension  
+Customer may, by notice to Supplier, at any time request the suspension of the supply of 
+goods or performance of the Services. The resulting costs incurred and credited by the Supplier in connection with the suspension shall be borne by the Customer, 
+provided that such costs are previously agreed and accepted by the 
+Customer. If the suspension exceeds sixty (60) days in total, Customer may 
+terminate the Agreement without any lia bility.  
+ 
+23. Fortuitous event or Force Majeure.  
+Neither Party shall be responsible to the other for the non -performance of its 
+obligations under this Agreement and/or Purchase Order if such non -
+performance is the result of a fortuitous event or force majeure.  
+ 
+Fortuitous Event or Force Majeure means those acts of nature, of man or of 
+authority which are beyond the control of its will, which could not have been 
+foreseen or even anticipated, which could not have been avoided or overcome, 
+and these shall be general , which means, that their performance is impossible 
+for any person to carry out, including, without limitation, epidemics, pandemics 
+(unless Supplier supplies products or services for an "essential activity" and/or 
+its equivalent in Supplier's home country ) of Customer according to an 
+administrative resolution, decree and other mandatory provision issued by local 
+or federal authorities), fires, earthquakes, floods or any other natural 
+catastrophe, acts of vandalism, expropriation or other similar causes bey ond 
+the control of the Party in default and not caused by its negligence.   
+ 
+The Party affected by an Act of God or Force Majeure shall notify the other Party 
+of such event, in writing, within five calendar days after the date of its 
+occurrence, together with such notification shall include documents justifying 
+such circumstance. S uch notice shall contain a detailed description of the 
+supplies or services that have been affected or that may be affected, as well as 
+the actions that the Supplier will take to mitigate the effects of the Force 
+Majeure.  
+ 
+If the Supplier certifies reliably the aforementioned, the dates of rendering of 
+services or delivery of supplies shall be extended for the same number of days 
+equivalent to the duration of the suspension due to a Force Majeure event, prior 
+formalization o f the foregoing by the Parties or its equivalent according to the 
+circumstances of the case.  
+ 
+Customer may terminate the Contract and/or Purchase Order without any 
+liability on its part, except for payment for supplies or services delivered and 
+accepted by Customer, if, in its reasonable opinion, it is not economically 
+reasonable to continue or if the Force Majeure exceeds one hundred twenty 
+(120) days in the aggregate.  
+ 
+ 
+24. Assignment.  
+The customer may transfer, assign or novate the Purchase Order or any part 
+thereof to an Affiliate. Customer shall also have the right to assign all or part of 
+the Purchase Order to a third party.  
+In the event of a sale or other transfer of the Customer's business or a part of 
+the Customer's business to a third party, this will be done with prior written 
+notice to the Supplier.  
+ 

@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-pinecone==0.1.2
+langchain-google-genai==1.0.5
+fastapi
+uvicorn
+pydantic
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
+torch
+sentence-transformers==3.0.0
+pinecone-client

@@ -1,0 +1,1185 @@
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 1 of 31
+Siemens Energy AS
+Major Conditions of Purchase for Oil & Gas
+Rev Date Description By Check Accept
+Page: 1of31Proprietary data, company confidential. All rights reserved.
+Confiè à titre de secret d’ entreprise. Tous droits reservés.
+Comunicado como segredo epresarial. Reservados todos os direitos.
+Confiado como secreto industrial. Nos reservamos todos los derechos.
+Firmen-konfidentielle, geschuetzte Information. Alle Rechte vorbehalten.
+公司内部机密 资料,版权所有
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 2 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Art. 1 DEFINITIONS .............................................................................................................. 4
+       Art.  2     CONTRACT DOCUMENTS – INTERPRETATION………………………………………..5
+Art. 3 REPRESENTATIVES OF THE PARTIES .................................................................... 5
+Art. 4 GENERAL PROVISIONS ............................................................................................. 5
+Art. 5 AUTHORITY REQUIREMENTS - PERMITS ................................................................ 5
+Art. 6 DRAWINGS - SPECIFICATIONS – BUYER PROVIDED ITEMS - FREEZE DATES ... 5
+Art. 7 SUBCONTRACTS ....................................................................................................... 6
+Art. 8 LABOUR RIGHTS ........................................................................................................ 6
+Art. 9 QUALITY ASSURANCE - PROJECT MANAGEMENT - RESOURCE PLANNING ...... 6
+Art. 10 CONTRACT SCHEDULE – PROGRESS REPORTS - DELAYED PROGRESS .......... 7
+Art. 11 RIGHT TO VARY THE WORK ..................................................................................... 7
+Art. 12 EFFECTS OF A VARIATION TO THE WORK ............................................................. 8
+Art. 13 CONSEQUENCES OF VARIATION ORDERS............................................................. 8
+Art. 14 DISPUTE AS TO WHETHER A VARIATION TO THE WORK EXISTS ........................ 8
+Art. 15 SITE INSTRUCTIONS ................................................................................................. 9
+Art 16 TERMINATION FOR CONVENIENCE ......................................................................... 9
+Art. 17 BUYER’S RIGHT TO TEMPORARILY SUSPEND THE WORK ................................. 10
+Art. 18 DELIVERY AND COMPLETION OF THE WORK ...................................................... 10
+Art. 19 TITLE TO THE GOODS - RIGHT TO DEMAND DELIVERY ...................................... 10
+Art. 20 PAYMENT OF THE CONTRACT PRICE - INVOICING AND AUDIT .......................... 11
+Art. 21 SECURITY FOR BUYER’S CLAIMS .......................................................................... 11
+Art. 22 SELLER’S WARRANTY ............................................................................................. 11
+Art. 23 SELLER’S DEFECTS AND WARRANTY LIABILITY .................................................. 12
+Art. 24 SELLER’S DELAY ..................................................................................................... 12
+Art. 25 TERMINATION DUE TO SELLER’S BREACH OF CONTRACT ................................ 12
+Art. 26 BUYER’S BREACH OF CONTRACT ......................................................................... 13
+Art. 27 FORCE MAJEURE .................................................................................................... 13
+Art. 28 PACKING, DISPATCH, AND LOSS OF OR DAMAGE TO THE GOODS OR BUYER-
+PROVIDED ITEMS .................................................................................................................. 13
+Art. 29 INDEMNITIES ............................................................................................................ 13
+Art. 30 INSURANCE .............................................................................................................. 14
+Art. 31 LIMITATION OF LIABILITY ........................................................................................ 14
+Art. 32 INTELLECTUAL PROPERTY AND RIGHTS OF USE ............................................... 15
+Art. 33 INTELLECTUAL PROPERTY INFRINGEMENTS ...................................................... 15
+Art. 34 CONFIDENTIALITY AND DATA PROTECTION ........................................................ 15
+Art. 36 ASSIGNMENT ........................................................................................................... 16
+Art. 37 NOTICES ................................................................................................................... 16
+Art. 38 CODE OF CONDUCT ................................................................................................ 16
+Art. 39 HEALTH, ENVIRONMENT AND DANGEROUS GOODS .......................................... 16
+Art. 40 EXPORT CONTROL AND FOREIGN TRADE DATA REGULATIONS ....................... 16
+Art. 41 PRODUCT LIABILITY ................................................................................................ 17
+Art. 42 PERMITS AND TAX-RELATED ISSUES ................................................................... 17
+Art. 43 RESERVATION CLAUSE .......................................................................................... 17
+Art. 44 LAW AND JURISDICTION ......................................................................................... 17
+Art. 45 BAN ON RE-EXPORTS TO RUSSIA ......................................................................... 17
+ATTACHMENT 1 - TEMPLATE FOR VARIATION ORDER ...................................................... 19
+ATTACHMENT 2 - TEMPLATE FOR VARIATION ORDER REQUEST.................................... 20
+ATTACHMENT 3 - TEMPLATE FOR DISPUTED VARIATION ORDER ................................... 21
+ATTACHMENT 4 - TEMPLATE FOR SITE INSTRUCTION ..................................................... 22
+ATTACHMENT 5 - TEMPLATE FOR MONTHLY REPORTING ............................................... 23
+ATTACHMENT 6 - TEMPLATE FOR WEEKLY STATUS EMAIL ............................................. 25
+ATTACHMENT 7 - PERFORMANCE AND WARRANTY GUARANTEE .................................. 26
+ATTACHMENT 8 - ADVANCE PAYMENT GUARANTEE ........................................................ 28
+ATTACHMENT 9 - PARENT COMPANY GUARANTEE .......................................................... 30
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 3 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 10 – COMPLETION CERTIFICATE ................................................................ 31
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 4 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Art. 1 DEFINITIONS
+a) Affiliated Company means the parent company of one of the parties to the Contract, together with any company
+which under the Norwegian Public Limited Liability Companies Act (Allmennaksjeloven) § 1-3 is to be regarded as a
+subsidiary company of the parent company or a party to the Contract.
+b) Buyer means Siemens Energy AS. Unless otherwise stated, the terms "Company", “Customer” and "Purchaser"
+shall be regarded as synonymous to "Buyer".
+c) Buyer Group means Buyer, its Affiliated Companies, its customer or client, its and their contractors and
+subcontractors of any tier with the exception Seller Group as well as the employees and directors of the companies
+comprised within “Buyer Group”.
+d) Buyer Provided Information means all documentation to be provided by Buyer pursuant to the Contract
+e) Buyer Provided Items means equipment and/or materials to be provided by Buyer pursuant to the Contract and
+which is to be incorporated in the Goods.
+f) Completion Certificate means the certificate to be issued by Buyer in accordance with Article 18 when the Work, with
+the exception of warranty work, is completed.
+g) Contract means, unless otherwise stated in the Contract, the SAP PO document, the separate agreement document,
+these Major Conditions of Purchase for Oil and Gas and any appendices or other documents referred to in any such
+documents.
+h) Contract Price means the total sum due to Seller under this Contract, as such sum is increased or decreased in
+accordance with the provisions of the Contract.
+i) Contract Schedule means the agreed time-schedule for the parties’ performance of activities and provision and
+supply of Documents, Goods, Services, Buyer Provided Information and Buyer Provided Items.
+j) Day means a consecutive calendar day unless otherwise stated.
+k) Delivery means the point of delivery stipulated in the Contract for delivery of the Goods. Unless otherwise agreed in
+the Contract, Delivery shall be according to DAP (place of named destination) (Incoterms 2010).
+l) Delivery Date(s) means the date(s) stipulated in the Contract for Delivery of the Goods.
+m) Disputed Variation Order means a Variation Order issued in accordance with Article 14.2, which is submitted
+substantially in the format attached as Attachment 3 hereto.
+n) Documents means all documentation to be delivered by Seller pursuant to the Contract.
+o) Effective Date means the date by which the Contract has been signed by both Buyer and Seller and is the date from
+which the Contract shall have legal effect.  If the Contract, for some reason, is not signed by both Parties, the
+Effective Date shall be the date on which the contract takes legal effect according to the applicable law.
+p) Force Majeure means an occurrence beyond the control of the party affected, provided that such party could not
+reasonably have foreseen such occurrence at the time of entering into the Contract and could not reasonably have
+avoided or overcome it or its consequences.
+q) Goods means all goods, equipment, material, hardware and software which Seller, according to the Contract, shall
+deliver, together with all parts thereof, except for Buyer-provided items before their incorporation into the Goods.
+r) Seller means the company which has entered into the Contract with Buyer for supply of Goods, Documents and/or
+Services.. Unless otherwise stated, the terms "Supplier", “Vendor” or "Contractor" shall be regarded as synonymous
+to "Seller".
+s) Seller Group means Seller, its Affiliated Companies, its and their Subcontractors of any tier as well as the employees
+and directors of the companies comprised within “Seller Group”.
+t) Services means all Work which Seller, according to the Contract, shall provide which is not Goods or Documents.
+u) Site means a place where the Work is performed.
+v) Site Instruction means a technical clarification or minor Variation instructed by Seller’s local representative
+w) Subcontract means the contract(s) between the Seller and the Subcontractor(s)
+x) Subcontractor means a Third Party who has entered into an agreement with Seller for the supply of goods or
+services in connection with the Work. The term “Subsupplier” as used in some specifications shall be regarded as
+synonymous to “Subcontractor”.
+y) Seller Document List means the list of documents with document delivery dates to be delivered by Seller in
+accordance with the Contract.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 5 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.z) Third Party means any party other than Buyer and Seller.
+aa) Representatives of the Parties means the persons who at any time are appointed in accordance with Article 3 to act
+on behalf of the parties.
+bb) Variation means a variation to the Work, Contract Schedule, specifications and drawings in accordance with the
+provisions of Articles 11 to 15.
+cc) Variation Order means an order by Buyer to Seller to Vary the Contract in accordance with the provisions of Articles
+11 to 14, which is submitted substantially in the format attached as Attachment 1 hereto.
+dd) Variation Order Request means a request by Seller to Buyer to Vary the Contract in accordance with the provisions
+of Article 11 to 14, which is submitted substantially in the format attached as Attachment 2 hereto.
+ee) Warranty Period means the period stated in Articles 22.2 and 22.3.
+ff) Work means all Goods, Documents and Services which Seller shall perform or cause to be performed pursuant to
+the Contract.
+Art. 2 CONTRACT DOCUMENTS – INTERPRETATION
+2.1 In the event of any conflict between the provisions of the Contract, the following order of priority shall apply:
+a) The separate agreement document
+b) These Major Conditions of Purchase
+c) The appendices in the order of precedence in which they appear
+d) The SAP PO document (if issued)
+Art. 3 REPRESENTATIVES OF THE PARTIES
+3.1 Prior to the commencement of the Work, each party shall appoint a representative with authority to act on its behalf in all
+matters concerning the Contract and appoint a deputy in his stead.  Each party’s representative may, by giving fourteen
+(14) Days written notice to the other party’s representative substitute such party’s representative or deputy, or delegate
+specific tasks to other person(s) which shall be named in such notice.
+Art. 4 GENERAL PROVISIONS
+4.1 Seller shall perform the Work in a professional and careful manner in accordance with the Contract. As part of such
+performance Seller shall:
+a) give priority to safety in order to protect life, health, property and environment;
+b) give priority to ethical business conduct in compliance with Article 38; and
+c) perform the Work in a cooperative and responsible manner.
+Art. 5 AUTHORITY REQUIREMENTS - PERMITS
+5.1 Seller shall keep itself informed of and comply with:
+a) the at any time applicable laws and regulations on the Site and at the place where, to Seller’s best knowledge, the
+Goods are destined to be used;
+b) requirements and orders of classification societies and public authorities; and
+c) current trade union and wage agreements.
+5.2 Seller shall, without delay when needed, obtain and maintain any approvals and/or permits which are necessary for
+Seller’s performance of the Work. When so requested by Buyer, Seller shall assist in obtaining approvals and permits
+concerning the Work which can only be obtained in the name of Buyer.
+5.3 Buyer may require that Seller submits to Buyer such information about the performance of the Work and about Seller
+Group as Buyer is obliged to submit to public authorities.
+Art. 6 DRAWINGS - SPECIFICATIONS – BUYER PROVIDED ITEMS - FREEZE DATES
+6.1 Seller shall search for defects, discrepancies and inconsistencies (“Errors”) in the Contract, drawings, specifications and
+other documents or data programs submitted by Buyer.
+If Seller does not immediately notify Buyer of an Error that he has discovered or ought to have discovered by such
+examinations, and as a result, Buyer incurs direct extra costs in connection with the Work, then all such costs shall be
+borne by Seller.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 6 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.6.2 Upon receipt of Buyer Provided Items Seller shall immediately examine such Buyer Provided Items and shall within three
+(3) Days of their receipt give notice to Buyer of any Errors discovered.
+If Seller does not immediately notify Buyer of an Error that he has discovered, or ought to have discovered by such
+examinations, and as a result, Buyer incurs direct extra costs in connection with the Work, then all such costs incurred
+shall be borne by Seller.
+6.3 Upon receipt of notice from Seller in accordance with Article 6.1 or 6.2, Buyer shall give its clarification on how to proceed
+without undue delay. If the Error is in Buyer Provided Items or in drawings, specifications other documents provided by
+Buyer after the Effective Date, Seller shall be entitled to reasonable adjustments to the Contract Price and/or Contract
+Schedule by raising a Variation Order Request without undue delay of Seller’s instruction on how to proceed.
+6.4 Where Buyer Provided Information is expressly subject to delivery date(s) in the Contract, Buyer shall be entitled to issue
+new revisions of such documents up until the final delivery date(s) for such documents (“Freeze Date(s)”) and Seller shall
+not be entitled to any corresponding adjustment(s) to the Contract Schedule or Contract Price.
+Art. 7 SUBCONTRACTS
+7.1 Seller shall not enter into any contract for subsupply concerning major or important parts of the Work and shall not
+change any nominated Subcontractor without the prior written consent of Buyer.
+7.2 All Subcontracts shall provide that:
+a) the Subcontract may be assigned to Buyer and Buyer’s customer(s) of any tier;
+b) Subcontractors’ subcontractors, contractors and suppliers of any tier are included in Seller Group;
+c) Articles 29.1 and 29.2 concerning damage or injury to Seller Group’s property and personnel shall be passed on to
+Subcontractor(s) and Subcontractor(s) shall be obliged to pass such requirements on to their subcontractors,
+contractors and suppliers;
+d) Article 30 concerning insurance shall be passed on to Seller’s Subcontractor(s);
+e) Article 19 concerning transfer of title, etc. shall apply to the relationship between Seller and Seller’s
+Subcontractor(s);
+f) Articles 32 and 33 concerning ownership and licenses to intellectual property shall be passed on to Seller’s
+Subcontractor(s);
+g) Article 38 concerning ethical business conduct shall be passed on to Seller’s Subcontractor(s);
+h) Buyer shall have the express right to enforce any provisions of the Subcontracts;
+i) Seller’s subcontractor(s) shall be obliged to pass the provisions of this Article 7.2 as well as any other provisions of
+the Contract which are necessary for Seller’s performance of the Work on to their subcontractor(s); and
+j) representatives of Buyer and Buyer’s customer(s) of any tier shall be afforded access to the Site and the Work
+during working hours.
+Additionally, all Subcontracts shall also contain any other provisions of the Contract which are necessary to enable Seller
+to fulfil its obligations in accordance with the Contract.
+7.3 When requested by Buyer, Seller shall provide copies of any Subcontract-related documents prior to entering into a
+subcontract, provided that the Subcontract concerns an important part of Seller’s Work. However, Buyer is only entitled to
+request document copies showing pricing information in Subcontracts where the Subcontract relates to costs, services or
+materials which are priced on a time and materials (reimbursable) basis in the Contract between Buyer and Seller.  In all
+other cases, Seller shall provide Buyer with unpriced copies of such documents.
+Art. 8 LABOUR RIGHTS
+8.1 Seller shall ensure that opportunities exist for trade union activity among Seller’s employees, Subcontractor’s employees
+and hired-in labour in accordance with Norwegian law and practice.
+8.2 Seller shall ensure that its employees and all employees of Subcontractors as a minimum receive such wages and
+employment conditions as are required pursuant to the Act Relating to General Application of Wage Agreements etc.
+(“Allmenngjøringsloven”).
+8.3 If requested by Buyer, Seller shall produce valid proof of fulfilment of the requirements of this Article 8.
+8.4 In the event of Seller’s non-compliance with the obligations pursuant to this Article 8, Buyer may withhold remuneration to
+the extent necessary to cover possible claims.
+Art. 9 QUALITY ASSURANCE - PROJECT MANAGEMENT - RESOURCE PLANNING
+9.1 Seller shall have an implemented and documented system for quality assurance in accordance with the requirements
+stated in the Contract.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 7 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.9.2 Representatives of Buyer and Buyer’s customer(s) of any tier shall have the right to undertake quality audits and
+verification of Seller’s and any Subcontractor’s progress of Work, quality assurance system and/or HSE system and shall
+be given access to Seller Group’s Site(s) in order to carry out such activities.
+9.3 Within one (1) week of the Effective Date, Seller shall submit to Buyer an organization chart for its team which will perform
+the Contract and deliver the Works, specifying name/function/email address/telephone number for all team members who
+will carry out project management and technical lead functions (the “Project Management Team”).
+9.4 Seller shall nominate (an) experienced project manager(s) in order to guarantee high quality project execution and
+efficient communication concerning project performance.
+9.5 Buyer may require Seller to appoint (a) new project manager(s) to manage and oversee the Work if Buyer determines at
+Buyer’s sole discretion that the existing project manager(s) has/have demonstrated that such person(s) is/are not
+qualified to deliver the Contract.
+9.6 Seller shall not change the composition of its Project Management Team as identified in Article 9.3 without the prior
+written consent of Buyer.  Such consent shall not be unreasonably withheld.
+9.7 Seller shall estimate the number of engineering and fabrication personnel and the number of day workers and trainees
+required on a month-by-month basis until the completion of the Work and shall submit these estimates to Buyer in writing
+no later than fifteen (15) days after the Effective Date.
+9.8 Within fifteen (15) days of the Effective Date, Seller shall provide Buyer with a written plan for how to deal with non-
+projected labour shortages, including shift work, overtime and availability of back-up personnel (“Recovery Plan”).
+9.9 Within fifteen (15) days of the Effective Date, Seller shall provide Buyer with a written overview showing the gap between
+Seller’s existing procedures and qualifications and such procedures and qualifications which are necessary to complete
+the Work (“Gap Analysis of Qualifications and Procedures”).
+9.10 Seller shall notify Buyer promptly in writing of any labour dispute or anticipated labour dispute that may be expected to
+affect the performance of the Work by Seller or by any of its Subcontractor(s) of any tier.  However, Seller’s compliance
+with this Article 9.10  shall not relieve Seller of its obligation to perform the Work in accordance with the Contract
+Schedule or any other of its obligations under the Contract.
+Art. 10 CONTRACT SCHEDULE – PROGRESS REPORTS - DELAYED PROGRESS
+10.1 Seller shall perform the Work in accordance with the Contract Schedule.
+10.2 Seller shall submit to Buyer the first progress report within fifteen (15) days of the Effective Date. The progress report
+shall be submitted using the template in Attachment 5 to these Major Conditions of Purchase for Oil and Gas and shall as
+a minimum include the information required therein.  Seller shall provide subsequent progress reports to Buyer on a
+monthly basis. The progress report for a given calendar month shall be submitted to Buyer no later than the 28th day of
+that month. The progress report shall update the Buyer by reference to the previous progress report submitted.
+10.3 Seller shall submit a progress report every month regardless of whether progress has been made. If no progress has
+been made, Seller shall set out the reasons for this in detail in the report.
+10.4 Seller shall submit to Buyer a weekly status email.  Such status email shall be submitted using the template in Attachment
+6 to these Major Conditions of Purchase for Oil and Gas and shall as a minimum include the information required therein.
+10.5 If Seller has reason to believe that the Work cannot be carried out in accordance with the Contract Schedule, Seller shall
+immediately notify Buyer, and suggest appropriate measures to remedy the delay.
+If the measures proposed or implemented by Seller are insufficient to avoid or recover the delay, Buyer may require Seller
+to take such measures as Buyer considers necessary, including, without limitation, use of additional labour, equipment
+and overtime; provided that all of such measures shall be at Seller’s risk and account. If Seller maintains that it has no
+obligation to implement the measures required by Buyer, Seller shall immediately notify the Buyer thereof and shall within
+ten (10) working days of Buyer’s instruction issue a Variation Order Request in accordance with Article 11.3.
+10.6 Buyer and Buyer’s customer(s) of any tier shall have the right to enter the Seller’s and Seller’s sub-contractor(s) premises
+and/or the place of manufacture or assembly during normal working hours for the purposes of verifying the progress of
+the Works.
+Art. 11 RIGHT TO VARY THE WORK
+11.1 Buyer has the right to order such Variations to the Work as in Buyer’s opinion are desirable.
+11.2 When Buyer orders a Variation to be performed, Seller shall within ten (10) Days of receipt of such instruction submit an
+estimate to Buyer, unless the parties agree that it is unnecessary. Buyer may also require the submission of such
+estimate prior to ordering Variation to be performed. The estimate shall contain:
+a) a detailed description of the Variation in question and supporting documentation;
+b) a detailed schedule for the execution of the Variation work showing the required resources and significant
+milestones;
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 8 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.c) the effect on the Contract Price, showing the rates and prices used when preparing the estimate as well as the
+quantities of unit and man-hour rates; and
+d) the effect on the Contract Schedule, with supporting documentation demonstrating such effect.
+11.3 Pursuant to Articles 6.3, 6.4, 10.5, 14.1, 15.3, 17.3 and 26.1 Seller may propose a Variation by submitting a Variation
+Order Request within the time limits prescribed in such Articles.
+A Variation Order Request shall be expressly identified as such and be issued on an agreed format and shall include:
+a) a detailed description of the Variation in question together with supporting documentation and an explanation
+stating  why the Variation is not part of the existing scope of the Contract;
+b) a detailed schedule for the execution of the Variation showing the required resources and significant milestones;
+c) the effect on the Contract Price, showing the rates and prices used when preparing the estimate as well as the
+quantities of unit and manhour rates; and
+d) the effect on the Contract Schedule, with supporting documentation demonstrating such effect.
+If Seller does not issue a Variation Order Request within the time limits prescribed in the Contract and in accordance with
+the procedures in this Article 11, the subject matter shall be deemed to be part of the Work and shall not have any effect
+on the Contract Price and/or the Delivery Date(s).
+Art. 12 EFFECTS OF A VARIATION TO THE WORK
+12.1 All Seller’s obligations under the Contract shall also apply to Variations to the Work, unless otherwise agreed.
+12.2 Unless otherwise agreed between the parties, the price for Variations to the Work shall be determined according to the
+following principles:
+a) If the Contract contains specific unit or man-hour rates for the same type of work as the work in the Variation Order,
+then such rates shall be used to determine the effect of the Variation on the Contract Price.
+b) If the Contract does not contain specific unit or man-hour rates for the same type of work as the work in the
+Variation Order but contains unit or man-hour rates for work which is of a comparable type to the Variation work in
+question, then such rates shall be used to determine the effect of the Variation on the Contract Price.  However,
+where the circumstances for execution of the Variation work are considerably different to the circumstances in
+which the rates contained in the Contract would normally apply, such rates shall be used as a basis, but shall be
+adjusted to reflect the changed circumstances of their application.
+c) In cases other than those stated in Article 12.2 a) and b), rates for Variation work shall be prepared reflecting the
+general level of pricing prescribed in the Contract, adjusted to reflect the changed circumstances for their
+application as stated in b) above.
+d) Notwithstanding the above, Buyer may always instruct Variation work to be performed on the basis of documented
+cost + 5% mark-up calculated on the basis of the documented cost of the Variation.
+12.3 The effects of Variation work on the Contract Schedule shall be agreed upon in each Variation Order on the basis of the
+accumulated net effect of the individual Variation.
+Seller shall carry out Variations with focus on ensuring that such Variation(s) shall have minimum effect on the Contract
+Schedule, and Buyer may require Seller to undertake special measures to avoid Variations having an effect on the
+Contract Schedule, or to limit such effects as much as possible.
+12.4 A Variation caused by circumstances for which Seller is responsible shall not entail any adjustments to the Contract Price
+or the Contract Schedule in favour of Seller.
+Art. 13 CONSEQUENCES OF VARIATION ORDERS
+13.1 If the parties disagree as to the effect of the Variation on the Contract Price, Contract Schedule and/or any other
+provisions of the Contract, then the views of both parties shall be recorded in the Variation Order document.
+13.2 Upon receipt of a Variation Order or an instruction in accordance with Art 14.1 Seller shall implement it without delay,
+even if the effect of the Variation Order on the Contract Price, the Contract Schedule or any other provisions of the
+Contract has not yet been agreed.
+Unless court proceedings concerning the effect of the Variation work on the Contract Price, Contract Schedule or any
+other provisions of the Contract have been commenced within three (3) months of Buyer issuing a Variation Order stating
+Buyer’s position with regards to such matters, Buyer’s position stated in such Variation Order concerning the effect of the
+Variation on the Contract shall be binding on the parties.
+Art. 14 DISPUTE AS TO WHETHER A VARIATION TO THE WORK EXISTS
+14.1 Buyer may instruct the performance of a specific piece of work.  Upon receipt of such instruction Contractor shall proceed
+diligently with execution of such work.  If the work so required in the opinion of Seller is not part of his obligations under
+the Contract, then Seller shall issue a Variation Order Request within ten (10) Days of receipt of Buyer’s instruction.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 9 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.14.2 If Seller issues a Variation Order Request within the applicable time limit and in accordance with the procedures in this
+Article 11.3 and Buyer agrees that the work in question is a Variation, Buyer shall, within a reasonable time, issue a
+Variation Order, which shall be expressly identified as such and which shall be issued on an agreed format.  However, if
+Buyer is of the opinion that such work is not a Variation, it shall be expressly recorded in the Variation Order document
+that the Variation Order is disputed (“Disputed Variation Order”). A Disputed Variation Order shall be expressly identified
+as such and shall be issued on an agreed format, which shall identify the work in dispute between the parties and state
+Buyer’s reason for regarding the Variation Order as disputed.
+14.3 Either party may request that the question as to whether the work covered by a Disputed Variation Order is a part of the
+Work, be provisionally decided by an expert.  At Buyer’s request the expert shall also decide whether a Variation Order
+Request issued pursuant to Article 14.1 was submitted within the deadline in Article 14.1. Such request must be made
+within thirty (30) Days after issue of the Disputed Variation Order. The parties shall agree upon an expert within fourteen
+(14) Days of such request.
+Each of the parties shall, within seven (7) Days after the appointment, submit to the expert, with a copy to the other party,
+the relevant documentation together with a written summary of its position. The parties have the right to submit one
+further written presentation to the expert, copying the other party, within seven (7) days of the deadline for the first
+submission. The expert shall inform the parties of her/his provisional decision and the reasoning behind it within thirty (30)
+days of his/her appointment.
+The expert’s fees shall be irrevocably borne by the party whose view was not accepted by the expert. Each party shall
+bear irrevocably its own expenses connected with obtaining such provisional expert decision.
+14.4 If Seller’s views are accepted in a provisional decision made in accordance with Article 14.3, the Disputed Variation Order
+shall be treated as an ordinary Variation Order until the dispute has been resolved by agreement or court proceedings, or
+in accordance with the provisions of the third paragraph of Article 14.4.
+If Buyer’s views are accepted by the expert in his/her provisional decision made in accordance with Article 14.3, the work
+described in the Disputed Variation Order shall be treated as part of the Work until the dispute has been resolved by
+agreement or court proceedings, or in accordance with the provisions of Article 14.4 third paragraph.
+If no court proceedings have been commenced within eight (8) months of the issue of the Disputed Variation Order, the
+matter covered by the Disputed Variation Order shall be deemed to be a part of the Work.
+Art. 15 SITE INSTRUCTIONS
+15.1 Notwithstanding the provisions of Articles 11-14, Buyer shall, as an alternative to the provisions of Articles11-14, have the
+right to instruct Seller to perform minor technical clarifications and minor Variations on Site by issuing a Site Instruction,
+which shall be expressly identified as such and which shall be issued on an agreed format.  Seller’s foreman and Buyer’s
+site or construction manager shall be considered authorised representatives to sign such Site Instructions.
+15.2 Upon receiving a Site Instruction signed by Buyer, Seller shall implement it without undue delay.
+15.3 Work pursuant to Site Instructions shall where available be compensated on a reimbursable basis according to unit, man-
+hour or day work rates specified in the Contract.  Where the Site Instruction includes purchase of material for which unit
+rates are not included in the Contract, Seller shall be entitled to charge a mark-up of 5% on such purchases. If the Site
+Instruction impacts on the Contract Schedule, Seller shall within ten (10) Days of receipt of such Site Instruction issue a
+Variation Order Request in accordance with Articles 11-14.
+15.4 Seller may issue invoices for Work performed pursuant to a Site Instruction upon completion of the Work covered by the
+Site Instruction.  In addition to any required formalities, required supporting documentation or other requirements for
+invoices specified elsewhere in the Contract, such invoices shall be supported by signed time sheets which clearly identify
+the number hours spent on executing the Site Instruction Work in question and/or priced copies of the contracts for
+purchase of material covered by such Site Instruction.
+15.5 Subject to Seller’s right to raise a Variation Order Request for adjustments to Contract Schedule under Article 15.3, a Site
+Instruction shall constitute Seller’s full and final settlement for the Work covered by such Site Instruction.
+Art 16 TERMINATION FOR CONVENIENCE
+16.1 Buyer may by notice to Seller terminate the Contract with the consequence that the performance of the Work ceases.
+16.2 Following such termination, Buyer shall pay:
+a) the unpaid balance due to Seller for the part of the Work already performed;
+b) any unavoidable documented direct costs incurred by Seller and its Subcontractors in connection with materials
+ordered prior to receipt of such notice of termination by Seller, and compensation for work performed on such
+materials prior to said date, provided that such costs are not covered by payment under Article 16.2 a); and
+c) Seller’s and Subcontractor’s other unavoidable documented expenses directly attributable to an orderly close-out of
+the Contract, calculated as far as possible in accordance with the provisions of Article 12.2.
+Payment shall be made in accordance with the provisions of Article 12.2.
+16.3 Seller shall, in accordance with Buyer’s instructions, make its best efforts to terminate the Subcontracts on terms
+acceptable to Buyer. If Buyer cannot accept the termination terms, Seller shall assign such Subcontracts to Buyer.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 10 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Art. 17 BUYER’S RIGHT TO TEMPORARILY SUSPEND THE WORK
+17.1 Buyer may temporarily suspend the performance of the Work or parts thereof, by giving notice to Seller.
+The notice shall specify which part of the Work shall be suspended, the effective date of suspension and the expected
+date for resumption of the Work. Furthermore, it shall state the mobilisation plan and any support functions which shall be
+maintained while the Work is suspended.
+Seller shall resume the Work after notification by Buyer. The date of resumption of the Work shall be determined with due
+consideration of the mobilisation plan, and the support functions that have been maintained during the suspension.
+Throughout the period of suspension Seller shall keep, protect, maintain and preserve the Work in a safe and secure
+manner and in accordance with any instructions given by Buyer.
+17.2 Buyer shall compensate Seller for all necessary and direct costs incurred in connection with:
+a) demobilisation of personnel and equipment;
+b) safeguarding, maintaining and protecting the Goods, Buyer-provided items and related materials and equipment;
+c) personnel, Subcontractors and equipment which must be kept available in accordance with the mobilisation plan;
+d) moving the Goods, if necessary, so that they do not interfere unreasonably with Seller’s other activities; and
+e) any other necessary direct costs incurred by Seller as a result of suspension of the Work.
+Seller’s claim for work performed shall be calculated as far as possible in accordance with the provisions of Article 12.2.
+17.3 If suspension of the Work affects the Contract Schedule or if Seller claims that it does, then the provisions of Articles 11 to
+14 concerning Variations to the Contract Schedule and the Contract Price shall apply accordingly.
+Art. 18 DELIVERY AND COMPLETION OF THE WORK
+18.1 Subject to Article 28, Delivery shall occur and transfer of risk in the Goods shall pass from Seller to Buyer on the Delivery
+Date(s).  Unless otherwise agreed, partial delivery and transhipment is not permitted.
+18.2 Buyer shall issue the Completion Certificate upon Seller’s request when the Work with the exception of warranty work has
+been completed in accordance with the Contract.
+18.3 If Buyer is not ready to take delivery of the Goods on the Delivery Date(s), Seller shall put the Goods into storage for
+three (3) months for Seller’s risk and account.  Seller shall at all times keep, protect, maintain and preserve such Goods in
+a safe and secure manner and in accordance with any instructions given by Buyer.
+Art. 19 TITLE TO THE GOODS - RIGHT TO DEMAND DELIVERY
+19.1 Title to the Goods shall pass to Buyer progressively as the Work is performed. Title to materials, equipment and all other
+parts which are intended to be part of the Goods, shall pass to Buyer on arrival at Site, or when paid for by Buyer, if this
+occurs earlier.
+As soon as materials and Buyer-provided items arrive at Seller’s Site, Seller shall mark them with an identification number
+and Buyer’s name, and as far as possible, shall keep them separate from other items. Buyer-provided items remains the
+property of Buyer and is to be stored, identified as the property of Buyer, administered separately at no expense to Buyer,
+and used only in providing the Goods. Seller shall sign Delivery Note/Packing List upon arrival of Buyer-provided items,
+and submit to Buyer with actual delivery date stated. If there is any reduction in value, damage and/or loss to such Buyer-
+provided items while in Seller’s possession, Seller shall replace the damaged items. Seller shall without any additional
+cost to Buyer, ensure import and export of Buyer-provided  items on a DAP (Incoterms 2010) basis.
+19.2 During the performance of the Work and on Delivery, the Goods and materials owned by Buyer shall be free of liens other
+than those for which Buyer is responsible.
+Seller shall indemnify Buyer from and against all costs whatsoever arising as a result of Seller's failure to comply with the
+provisions of this Article 19.2.
+19.3 If Seller claims that it is entitled to refuse to deliver the Goods, materials, or other items to which Buyer is entitled under
+the Contract, then Buyer may in all cases demand delivery in return for:
+a) payment of the outstanding amount due to Seller under the Contract, insofar as the amount is not disputed; or
+b) a guarantee on a format and from a guarantee-providing institution approved by Buyer for any further amounts
+which Seller maintains are due under the Contract, but which Buyer considers it has no obligation to pay.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 11 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Art. 20 PAYMENT OF THE CONTRACT PRICE - INVOICING AND AUDIT
+20.1 Buyer shall pay the Contract Price to Seller within the time limits and in accordance with the provisions stated in this
+Article and elsewhere in the Contract. Buyer has no obligation to pay until Seller has submitted the required guarantees in
+accordance with Article 21.
+20.2 Buyer shall, within sixty (60) days of receipt of a correct invoice, which shall include the relevant purchase order number
+as well as any other details and supporting documentation as is required in the Contract, pay the amount due to Seller
+according to the invoice. Unless otherwise provided for in the Contract, the following deductions may be made from such
+payment:
+a) any previous payments on account to Seller which relate to, or directly concern, the work covered by the invoice;
+b) such parts of the invoiced amount as are insufficiently documented or otherwise disputed, provided Buyer, as soon
+as possible and no later than at the time of payment, specifies what documentation is considered insufficient and/or
+what the dispute concerns; and
+c) any amounts due to Buyer from Seller, provided that Buyer is entitled to make such deductions under the applicable
+law.
+20.3 Seller shall submit a final account within 45 days after the issue of the Completion Certificate, or Seller’s issuing of the
+final milestone invoice, whichever is earlier. The account shall contain a breakdown of the total compensation for the
+Work, including all claims to be made by Seller, less any penalties and other amounts due to Buyer, and shall contain
+documentation relating to each item included in the breakdown.
+If Seller fails to include claims in the final account or fails to submit the final account within the required time limit set out in
+the paragraph above, Seller may not subsequently bring such claims.
+20.4 At Buyer’s request and cost, Seller shall assist Buyer in obtaining financing of the Goods from credit institutions named by
+Buyer, and shall provide Buyer with any necessary documentation.
+Art. 21 SECURITY FOR BUYER’S CLAIMS
+21.1 Seller shall, at its own cost within one (1) month of the Effective Date of the Contract, submit to Buyer an “on demand”
+performance guarantee on an agreed format from a guarantee-providing institution, which has been approved by Buyer.
+The performance guarantee shall be for ten (10) % of the Contract Price and shall remain valid for its full face value until
+the Completion Certificate has been issued and thereafter for half its face value until its expiry one (1) month after the
+scheduled expiry of the Warranty Period.
+21.2 If the Contract includes advance payments, Seller shall at its own cost and prior to submission of the invoice for each
+advance payment, submit to Buyer an on “demand” advance payment guarantee on an agreed format from a guarantee-
+providing institution which has been approved by Buyer.  Each advance payment guarantee shall be for an amount equal
+to the value of the applicable advance payment milestone and shall remain valid until Delivery of the Goods.
+21.3 If Seller is a subsidiary, Seller shall, at its own cost and within one (1) month of the Effective Date of the Contract, submit
+to Buyer a parent company guarantee on an agreed format from Seller’s ultimate parent company.
+Art. 22 SELLER’S WARRANTY
+22.1 Seller warrants:
+a) the performance of the Work;
+b) that Seller’s technical documentation and his engineering is suitable for the purpose and use for which, according to
+the Contract, it is intended;
+c) that Materials delivered by Seller for incorporation into the Goods are new;
+d) That the Goods will comply during the Warranty Period with the requirements in the Contract;
+e) That the Goods will conform during the Warranty Period to the final result of Seller’s engineering;
+f) That the Goods shall be free from defects in design, workmanship and/or material and shall remain so throughout
+the Warranty Period; and
+g) That the Goods shall be fit for the purpose as stated in the Contract.
+Work, Materials and/or documents that do not comply with the requirements of this Art 22.1 shall be treated as defective
+and this warranty applies regardless of whether any part of the Work was approved, reviewed, or based upon information
+supplied by Buyer.  All of Seller’s warranties given in this Contract shall apply for the duration of the Warranty Period.
+22.2 The Warranty Period commences at Delivery of the Goods and expires three (3) years thereafter.
+22.3 If Seller performs warranty work during the Warranty Period, Seller warrants according to 22.1 those parts of the Work
+affected by the warranty work.  This warranty applies for one year after the date of completion of the warranty wok, unless
+the remaining part of the Warranty Period is longer.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 12 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.22.4 Buyer shall be entitled to assign the benefit of the warranties given by Seller under the Contract to its customer (of any
+tier) and Buyer’s customer (of any tier) shall be entitled to directly enforce any of Seller’s warranty obligations under the
+Contract.
+Art. 23 SELLER’S DEFECTS AND WARRANTY LIABILITY
+23.1 When Buyer notifies Seller of a defect, Seller shall, at Buyer’s sole discretion, rectify such defect or replace such defective
+part as soon as possible following such notification at its own cost.
+23.2 If Seller is unable to rectify or replace a defect within a reasonable time after Buyer's notification, Buyer shall be entitled to
+rectify the defect itself, engage a Third Party to rectify the defect or procure the replacement part from a Third Party.  All
+such repairs and /or replacements shall be at Seller’s risk and account.
+In addition Buyer may claim damages for defects according to the applicable law.
+23.3 Buyer is entitled to terminate the Contract due to defects in accordance with the provisions of Article 25. However, this
+does not apply in the case of minor defects.
+Art. 24 SELLER’S DELAY
+24.1 If Seller fails to meet the Delivery Date(s) or any other milestone date contained in the Contract Schedule, Buyer shall be
+entitled to invoice liquidated damages in accordance with the rates set out in Article 24.2. For the avoidance of doubt,
+acceptance of part-shipments of Goods shall occur only at Buyer’s discretion and the delivery of a part-shipment of
+Goods shall not fulfil the requirement to meet a given Delivery Date unless such part-shipment is provided for in the
+Contract Schedule.
+24.2 The daily rate of liquidated damages which Seller shall be liable to pay to Buyer pursuant to Art 24.1 is 0.5 % of the
+Contract Price. Seller’s total liability for liquidated damages payable to Buyer under the Contract is limited to 15% of the
+Contract Price.
+24.4 In the event of negligence on the part of the Seller, Buyer may, instead of the agreed amount of liquidated damages,
+claim compensation for the loss suffered by him due to the delay.
+24.5 If the Goods, Documents or any part thereof are not ready for delivery on the Delivery Date(s), or it appears likely that the
+Goods, Documents or any part thereof will not be ready on the Delivery Date(s) other than to the extent that any delay is
+caused by Buyer, Buyer shall be entitled to require the delivery of the Goods, Documents and any materials and
+equipment not yet incorporated into the Goods to Buyer on the Delivery Date(s) for Completion at Seller’s expense at
+another location either by Seller, Buyer or a Third Party as determined by Buyer and at Buyer’s option. Seller shall
+compensate Buyer for all additional costs resulting from the delivery in an incomplete state, including but not limited to
+necessary and direct costs to complete the Work. Seller shall, at Buyer’s request, provide any manpower or other
+resources required for the completion of the Work at any alternative location. In addition to Buyer’s remedies under this
+Article 24.5, Buyer is entitled to claim liquidated damages in accordance with Articles 24.1 and 24.2, calculated based on
+the number of days by which the Delivery Date(s) would have been exceeded had Seller completed the Work.
+24.6 Buyer may terminate the Contract in accordance with Article 25 due to Seller’s delay.
+Art. 25 TERMINATION DUE TO SELLER’S BREACH OF CONTRACT
+25.1 Buyer is entitled to terminate the Contract with immediate effect by notifying Seller when:
+a) Buyer has become entitled to be paid the maximum amount of liquidated damages in accordance with Article 24.2;
+b) It is evident that completion of the Goods will be delayed by more than 15 % of the time from start of the Work until
+the Delivery Date(s), or by 60 Days - whichever is the shorter period;
+c) Seller is in material breach of the Contract;
+d) Seller becomes insolvent or stops its payment; or
+e) In the event of defects in the Work pursuant to Article 23.3
+25.2 Upon termination of the Contract, Buyer shall be entitled to take over from Seller any Goods, materials, tools, Buyer-
+provided items, Subcontracts and Documents which are necessary to complete the Work. Seller shall also grant or
+ensure that relevant Subcontractor(s) of any tier grant Buyer sufficient licenses to their intellectual property to enable
+Buyer to complete the Work, either by itself or with the help of others.
+25.3 When the Contract is terminated, Seller is entitled to payment for the part of the Work performed and for plant and
+equipment taken over by Buyer pursuant to Article 25.2, less any amounts due from Seller to Buyer.
+Buyer shall also be entitled to enforce one or more of the following claims:
+a) Buyer may claim damages for delay in the form of liquidated damages in accordance with the provisions of Article
+24.2, calculated on the basis of the number of Days by which the Delivery Date(s) would have been exceeded if
+Seller had completed the Goods.
+b) Buyer may claim damages for defects and may make other claims under the Contract or at law.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 13 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Art. 26 BUYER’S BREACH OF CONTRACT
+26.1 If Buyer is late in delivering Buyer Provided Items, drawings, specifications or other documents in accordance with the
+Contract Schedule, Seller shall immediately notify the Buyer thereof and  shall be entitled to issue a Variation Order
+Request pursuant to Article 11.3. Seller shall issue such Variation Order Request within ten (10) working days of the
+receipt of such materials or documents.
+If Buyer breaches any provisions of the Contract, Seller shall immediately notify him thereof and shall be entitled to issue
+a Variation Order Request in accordance with Article 11.3.  Seller shall issue such Variation Order Request within ten (10)
+working days of the date on which Seller became aware or ought to have become aware of Buyer’s breach of Contract.
+26.2 If Buyer is late in making payments in accordance with Article 20, then Seller shall be entitled to claim interest on delayed
+payment according to the Norwegian Act relating to Interest on Overdue Payments etc. (“Forsinkelsesrenteloven”) unless
+the delay is caused by lack of invoice documentation or such amounts have been correctly withheld pursuant to Article
+20.2 from Seller and Buyer has notified Seller thereof.
+Art. 27 FORCE MAJEURE
+27.1 Neither of the parties shall be considered in breach of an obligation under the Contract to the extent the party can
+establish that fulfilment of the obligation has been prevented by Force Majeure.
+27.2 The party invoking Force Majeure shall, as soon as possible, notify the other party of the Force Majeure situation.
+27.3 In the case of Force Majeure, each party shall cover its own costs resulting from the Force Majeure situation.
+27.4 If a Force Majeure situation lasts without interruption for 60 days or more, or it is evident that it will do so, then each party
+shall have the right to terminate the Contract by notice to the other party.
+Art. 28 PACKING, DISPATCH, AND LOSS OF OR DAMAGE TO THE GOODS OR BUYER-PROVIDED ITEMS
+28.1 Seller shall handle the Goods, Buyer-provided items and materials with all due care and skill and shall ensure that they
+are kept in good order and condition. Unless specifically agreed to by Buyer, Seller shall not have the right to make
+temporary use of Buyer-provided items or materials to be incorporated into the Goods, other than for the purpose of
+fulfilling the Contract.
+28.2 If loss of or damage to the Goods prior to Delivery, or if any loss of or damage to the Goods, materials or Buyer-provided
+items occurs while they are under Seller Group’s safekeeping and control, such loss or damage shall be Seller’s risk and
+Seller shall implement all necessary measures to ensure that the Work is completed in accordance with the Contract.
+Seller’s obligation to carry out the measures stated in this Article 28.2 applies regardless of any negligence, fault or
+liability in any form on the part of Buyer Group.
+28.3 Seller shall bear the costs of carrying out the measures stipulated in Article 28.2.
+28.4 Packing shall be suitable for the Goods and the intended method of transport and in compliance with the requirements
+specified in these Terms and Conditions and elsewhere in the Agreement. Any loss or damage to the Goods resulting
+from defective packing shall be made good by Seller.
+28.5 Unless otherwise agreed, the costs of transport and packaging shall be borne by Seller.
+All additional costs arising from Seller’s failure to conform with the transport requirements for the Goods shall be borne by
+Seller.
+28.6 Each shipment shall include where applicable one or more of the following packing/shipping notes:
+i) Export Document/Declaration; and/or
+ii) Pro forma invoice; and/or
+iii) Consignment note, CMR/AWB/BL.
+These notes shall include details of the contents as well as the complete order number for the Goods. Notice of dispatch
+shall be provided immediately with the same information.
+28.7 If the transport is performed by a carrier commissioned by Buyer, Seller shall submit any necessary information and data
+to the carrier concerning dangerous goods in accordance with legal requirements.
+28.8 Seller shall be liable for any expenses and/or damages incurred by Buyer due to any breach of the provisions of this
+Article 28.
+Art. 29 INDEMNITIES
+29.1 Seller shall indemnify Buyer Group from and against any claim concerning:
+a) Personal injury to or loss of life of any employee of Seller Group;
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 14 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.b) Loss of or damage to any property of Seller Group and Buyer Provided Items under Seller Group’s safekeeping
+and/or control and
+c) Actual or threatened pollution damage emanating from Seller Group’s property (or from the Goods prior to Delivery)
+or any actual or threatened pollution damage caused by the negligent act or omission of any member of Seller
+Group
+arising out of or in connection with the Work and/or caused by the Goods in their lifetime. This applies regardless of any
+form of fault or liability, whether strict or by negligence, in whatever form, on the part of Buyer Group.
+Seller shall, as far as practicable,ensure that other companies in Seller Group waive their right to make any claim against
+Buyer Group when such claims are covered by Seller’s obligation to indemnify under the provisions of this Article 29.1.
+29.2 Buyer shall indemnify Seller Group from and against any claim concerning:
+a) Personal injury to or loss of life of any employee of Buyer Group; and
+b) Loss of or damage to any property of Buyer Group, except as stated in Article 28 and 29,
+arising out of or in connection with the Work or caused by the Goods in its lifetime. This applies regardless of any form of
+fault or liability whether strict or by negligence, except gross negligence, on the part of Seller Group.
+Buyer shall, as far as practicable, ensure that other companies in Buyer Group waive their right to make any claim against
+Seller Group when such claims are covered by Buyer’s obligation to indemnify under the provisions of this Article 29.2.
+29.3 Seller shall indemnify Buyer Group against all Third Party claims, costs and losses resulting from infringements of patents
+or other industrial property rights in connection with the Work, or Buyer’s use of the Goods.
+29.4 Buyer shall indemnify Seller Group from Buyer Group’s own indirect losses, and Seller shall indemnify Buyer Group from
+Seller Group’s own indirect losses. This applies regardless of any liability, whether strict or by negligence, except gross
+negligence, on the part of either group and regardless of any other provisions of the Contract.
+Indirect losses under this provision include loss of earnings, loss of profit and loss of production.
+29.5 Seller shall indemnify and hold Buyer harmless from and against any loss, claim, liability, demand, damages and costs
+whatsoever in respect of personal injury or death or property loss or damage suffered by third parties or any other liability
+incurred by Seller towards third parties arising out of or in connection with the Work.
+Art. 30 INSURANCE
+30.1 Buyer shall provide and maintain insurance sufficient to cover Buyer’s liabilities and obligations assumed under the
+Contract.
+30.2 Seller shall provide and maintain the insurance described below (the “Insurance Policies”):
+a) Workmen’s Compensation Insurance (Yrkesskadeforsikring) which shall cover losses connected with illness,
+personal injury or accidental death in Seller Group, or to the extent required by applicable laws.  Such insurance
+shall amongst other things cover Seller’s employees during transport to and from the offshore location as well as
+stays at the offshore location. The insurance shall at a minimum provide 20G coverage in case of death and 40G in
+case of 100 % disability (where “G” means “Grunnbeløpet i Folketrygden”);
+b) General third party liability insurance (including liability and obligations assumed under the Contract) in a sum of not
+less than €5,000,000 (five million Euros) per occurrence or series of occurrences arising from any one event;
+c) All Risks property cover for all of Seller’s property, plant and equipment and Buyer Provided Items;
+d) Construction-/Erection All Risk insurance covering the Goods against physical damage or loss prior to delivery to
+Buyer.
+e) If transportation is included in Seller’s scope, transport insurance on an All Risk basis was per Institute Cargo
+Clauses (A) and Institute War Clause (Cargo) with a minimum cover of 110% of the value of the transported Goods,
+covering all means of transportation.
+The Insurance Policies shall provide coverage and be in effect from the start of the Work and shall not expire until the end
+of the Warranty Period. Buyer shall have no obligation to make payment to Seller until and unless Seller furnishes
+certificates evidencing compliance with this Article 30. Seller shall notify Buyer in good time in the event that one or more
+of the Insurance Policies is/are cancelled, expire(s) or is/are changed so that it/they no longer meet(s) the requirements of
+the Contract.
+To the extent permitted under the applicable law, the Insurance Policies shall include Buyer Group as co-insured, shall
+state that Seller’s insurers waive all rights of subrogation against Buyer Group and shall state that they apply primary to
+any insurances held by Buyer Group.
+Art. 31 LIMITATION OF LIABILITY
+31.1 Seller’s  liability for breach of this Contract shall be limited to 100% of the Contract Price. However, this Article 31.1 shall
+not exclude or limit Seller’s liability for: a) all taxes, duties  and fees arising in connection with its performance of this
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 15 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.Contract; b) Seller’s obligations under Article 33.1  ; c) Seller’s failure to comply with applicable laws; d) payment of any
+fines and penalties imposed on any member of Seller Group by any governmental authority; e) Seller’s obligations under
+Article  29.1; f) Seller’s obligations under Article 29.4; g) Seller’s own costs in connection with performance of Seller’s
+warranty obligations under Articles 22 and 23;  h) Seller’s failure to comply with its obligations concerning confidentiality
+under Article 34; and i) Seller’s obligation to perform the Contract.
+31.2 This Article 31 shall not limit Seller’s liability if Buyer terminates the Contract under Article 25.
+Art. 32 INTELLECTUAL PROPERTY AND RIGHTS OF USE
+32.1 Subject to the terms of this Contract, Seller (and its licensors) grants to Buyer and its customers (of any tier) a non-
+exclusive, perpetual, worldwide, sub licensable and royalty free license to use any intellectual property rights and similar
+rights (“IP Rights”) necessary in order to sell, offer to sell, export, import, operate, repair, modify, maintain, enhance and
+extend the Work, in addition to any other IP Rights necessary to fulfil the purpose of this Contract.
+32.2 Without the prior written consent of Buyer, Seller may not include in the Work any software (or other materials) subject to
+a copyleft or share-a-like license, i.e. a license which requires that a derivative work based on software (or other
+materials) subject to said license must be distributed and/or made available subject to said license, or a license which
+contains similar terms.11.3 All drawings, specifications, and any other property or materials to be furnished to Seller by or
+for Buyer, for use in the performance of this Contract, shall remain the property of Buyer. The Work and all drawings,
+specifications, and any other property or materials to be furnished to Buyer by or for Seller, shall become the property of
+Buyer, unless otherwise agreed in writing.
+Art. 33 INTELLECTUAL PROPERTY INFRINGEMENTS
+33.1 Seller shall defend, indemnify, and hold Buyer (and its customers and any party acting on their behalf) harmless against
+any third-party action, suit, or proceeding (“Claim”) against Buyer (and its customers and any party acting on their behalf)
+to the extent such Claim is based upon an allegation that the Work infringes IP Rights granted to Buyer (and its
+customers and any party acting on their behalf) under this Contract.
+Art. 34 CONFIDENTIALITY AND DATA PROTECTION
+34.1 Seller shall treat as confidential the knowledge and findings, documents, terms of reference, business processes or other
+information that it receives from or about Buyer in the context of performing and concluding the Contract which are -
+whether disclosed in tangible form or orally, visually or via electronic communication, including internet-based provision of
+information - marked as or pronounced to be "Confidential" or similarly legended by Buyer (“Confidential Information”).
+34.2 Seller shall keep the Confidential Information confidential beyond the term of the Contract, for as long as and insofar as
+such Confidential Information has not become publicly known through legal proceedings or Buyer has not consented in
+writing to its transfer in the individual instance.
+34.3 Seller shall however be entitled to disclose Confidential Information where the Confidential Information: (a) was in the
+public domain prior to Seller’s receipt thereof; (b) was in Seller’s possession prior to its receipt thereof through no breach
+of any confidentiality obligation; (c) was received from a third party through no breach of any confidentiality obligation, and
+where it is necessary to disclose Confidential Information to: (d) subcontractors for performance of the Contract (however
+subject to their giving equivalent confidentiality undertakings); and (e) government bodies and other public authorities to
+comply with applicable laws and regulations.
+34.4 Insofar as Seller is granted access to personal data in connection with the Agreement, Seller shall comply with the
+statutory provisions relating to protection of personal data and data privacy and shall enable Buyer to keep itself informed
+that such provisions are being complied with.
+Art. 35 CYBER- AND INFORMATION SECURITY
+35.1 Seller shall take appropriate measures for storage of data and for protection of its IT systems against software bugs and
+viruses and unauthorized access by third parties, in order to reasonably protect information received from Buyer and the
+Work against loss, modification, forwarding or access by unauthorized third parties.
+35.2 Seller shall take appropriate organizational and technical measures to ensure the confidentiality, authenticity, integrity and
+availability of Seller Operations as well as products and services. These measures shall be consistent with good industry
+practice and shall include an appropriate information security management system consistent with standards such as
+ISO/IEC 27001 or IEC 62443 (to the extent applicable).
+35.3 “Seller Operations” means all assets, processes and systems (including information systems), data (including customer
+data), personnel, and sites, used or processed by Seller from time to time in the performance of this contract.
+35.4 Should products or services contain software, firmware, or chipsets:
+35.4.1 Seller shall implement appropriate standards, processes and methods to prevent, identify, evaluate and repair any
+vulnerabilities, malicious code, and security incidents in products and services which shall be consistent with good
+industry practice and standards such as ISO/IEC 27001 or IEC 62443 (to the extent applicable);
+35.4.2 Seller shall continue to support and provide services to repair, update, upgrade and maintain products and services
+including the provision of patches to Buyer remedying vulnerabilities for the reasonable lifetime of the products and
+services;
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 16 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.35.4.3 Seller shall provide to Buyer a bill of materials identifying all third-party software components contained in the products.
+Third-party software shall be up-to-date at the time of delivery to Buyer;
+35.4.4 Seller shall grant to Buyer the right, but Buyer shall not be obliged, to test or have tested products for malicious code and
+vulnerabilities at any time, and shall adequately support Buyer;
+35.4.5 Seller shall provide Buyer a contact for all information security related issues (available during business hours).
+35.5 Seller shall promptly report to Buyer all relevant information security incidents occurred or suspected and vulnerabilities
+discovered in any Seller Operations, services and products, if and to the extent Buyer is or is likely to be materially
+affected.
+35.6 Seller shall take appropriate measures to achieve that its subcontractors and suppliers shall, within a reasonable time, be
+bound by obligations similar to the provisions of this article 35.
+35.7 Upon Buyer’s request, Seller shall provide written evidence of its compliance with this article 35 including generally
+accepted audit reports (e.g., SSAE-16 SOC 2 Type II).
+Art. 36 ASSIGNMENT
+36.1 Buyer may assign or transfer the Contract or part thereof to a Third Party, provided that Buyer can demonstrate that the
+assignee has the financial strength required to fulfil Buyer’s obligations under the Contract.
+36.2 Seller may not assign or charge the Contract, or a part of or interest therein, to a Third Party without Buyer’s prior
+approval. Such approval is not required for an assignment or charge granted to a bank or other financial enterprise.
+Art. 37 NOTICES
+All notices, claims and other notifications to be given in accordance with the provisions of the Contract shall be
+communicated in writing by courier (DHL or similar) or e-mail to the other party’s nominated representative under Article
+3.
+Art. 38 CODE OF CONDUCT
+38.1 Seller is obliged to comply with the laws of the applicable legal system(s). In particular, Seller will not engage, actively or
+passively, nor directly or indirectly in any form of bribery or corruption, in any violation of basic human rights of employees
+or any child labour. Moreover, Seller will take responsibility for the health and safety of its employees, Seller will act in
+accordance with the applicable environmental laws and will use its best efforts to promote this Code of Conduct among its
+suppliers and those Third Parties engaged in the course of providing the Work and Services.
+38.2 Seller shall provide the necessary organizational instructions and take measures, particularly with regard to the following
+security – premises security, packaging and transport, business partner, personnel and information – necessary to
+guarantee security in the supply chain in accordance with the requirements of internationally recognized initiatives based
+on the WCO SAFE Framework of Standards (such as AEO, C-TPAT). Seller shall protect the Goods and Services
+provided to Buyer or Third Parties designated by Buyer against unauthorized access and manipulation. Seller shall only
+deploy reliable personnel for those goods and services and shall obligate any sub-suppliers to implement equivalent
+security measures.
+38.3 In addition to other rights and remedies Buyer may have, Buyer may terminate the Contract and/or any purchase order
+issued hereunder pursuant to Article 25 if Seller breaches its obligations under this Article 38. However, where Seller’s
+breach of the Contract is capable of remedy, Buyer’ right to terminate is subject to the proviso that such breach has not
+been remedied by Seller within a reasonable grace period set by Buyer.
+Art. 39 HEALTH, ENVIRONMENT AND DANGEROUS GOODS
+39.1 Where Seller delivers legally permissible products which are subject to statutorily-imposed substance restrictions and/ or
+information requirements (e.g. REACH, RoHS), or are included in the so-called “Siemens’ list of declarable Substances”
+in force at the time of delivery, Seller shall declare such substances in the web database BOMcheck
+(www.BOMcheck.net) or in a reasonable format provided by Buyer no later than the date of first delivery of Goods. The
+foregoing shall only apply with respect to laws which are applicable at the registered seat of Seller or Buyer or at the
+place of delivery designated by Buyer.
+39.2 Where a delivery contains goods which are classified as dangerous goods under international regulations, Seller shall
+inform Buyer thereof in a form agreed upon between Seller and Buyer no later than the date of order confirmation.
+39.3 Seller shall comply with Buyer’s Health, Safety and Environment (“HSE”) guidelines which will be made available by
+Buyer upon request.
+Art. 40 EXPORT CONTROL AND FOREIGN TRADE DATA REGULATIONS
+ 40.1 Seller shall comply with all applicable export control, customs and foreign trade regulations (“Foreign Trade Regulations”).
+In particular, Seller represents and warrants that none of its Goods nor its Services provided under this Contract contain
+products and/or services restricted for import under the Foreign Trade Regulations applicable to the Buyer, including but
+not limited to Council Regulations (EU) 833/2014, 692/2014, 2022/263 or 765/2006, each as amended, and import
+restrictions enforced by the U.S. Customs and Border Protection. Seller shall advise Buyer in writing within two weeks of
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 17 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.receipt of the order - and in case of any changes without undue delay - of any information and data required to enable
+Buyer to comply with all Foreign Trade Regulations governing export, import and re-export, including without limitation:
+a) all applicable export list numbers, including the Export Control Classification Number under the U.S. Commerce
+Control List (ECCN);
+b) the statistical commodity code under the current commodity classification for foreign trade statistics and the HS
+(Harmonized System) coding;
+c) the country of origin (non-preferential origin), and – at Buyer’s request – Seller’s declaration of preferential origin (for
+European suppliers) or preferential certificates (for non-European suppliers); and
+d) upon request of the Buyer, evidence of country of origin of the iron and steel inputs used for the processing of the
+Goods.
+Seller shall be liable for any expenses and/or damages incurred by Buyer due to any breach of these obligations unless
+such breach is beyond Seller’s control.
+Art. 41 PRODUCT LIABILITY
+41.1 If Buyer is made subject to any claims by third parties based on domestic or foreign product liability law in connection with
+the Work (“Claims”), Buyer shall notify Seller thereof. Seller shall indemnify Buyer against all Claims as well as the costs
+arising from such Claims (including but not limited to legal assistance and court costs), provided the Claims are caused by
+a Defect in the Work.
+41.2 Seller shall also reimburse Buyer for all costs caused arising from any reasonable risk mitigation measures Buyer takes in
+connection with the Claims, including but not limited to warnings or precautionary recalls of a defective product. Any costs
+arising in connection with the determination of the risks involved with the Claims (including but not limited to expert costs)
+as well as Buyer’ internal administration and processing costs shall be borne by Seller provided the Claims are caused by
+a Defect in the Work.
+Art. 42 PERMITS AND TAX-RELATED ISSUES
+42.1 Seller shall ensure that all personnel working for Buyer (“Personnel”) have all necessary permits required to perform the
+work in question, including but not limited to work and residency permits and ID-cards required within the building and
+construction industry if applicable.
+42.2 All necessary permits for all Personnel shall be acquired before the work for Buyer shall begin. If requested by Buyer,
+Seller shall produce valid proof of all necessary permits.
+42.3 Seller shall ensure that all taxes related to the work performed by the Personnel are reported and paid in accordance with
+all applicable tax regulations. If requested by Buyer, Seller shall produce valid proof of tax payments and reporting.
+42.4 Seller shall upon request provide Buyer with a copy of the current certificates of proper payment of its taxes and VAT (RF-
+1244), which are not older than six months.
+42.5 Seller shall upon request provide a valid official certificate from the tax authorities relieving Buyer of any responsibility with
+regards to any obligation in accordance with the Norwegian Tax Payments Act (“Skattebetalingsloven”), including but not
+limited to calculation, reporting and payment of taxes in relation to this Contract.
+42.6 Should Buyer be held liable by the authorities for the taxes stipulated in Article 42.5, Buyer may withhold an equal amount
+from any remuneration owed to Seller or offset the amount against outstanding debts between the parties.
+Art. 43 RESERVATION CLAUSE
+Buyer’s obligation to perform the Contract is subject to the proviso that its performance is not prevented by any
+impediments arising out of national and international foreign trade and customs requirements or any embargos or other
+sanctions.
+Art. 44 LAW AND JURISDICTION
+44.1 This Contract shall be governed by and interpreted in accordance with Norwegian law but not its conflict of laws rules.
+44.2 Disputes arising in connection with or as a result of the Contract which are not resolved by mutual agreement shall be
+settled by court proceedings. Any court proceedings shall be brought before Oslo District Court.
+Art. 45 BAN ON RE-EXPORTS TO RUSSIA
+45.1                 Buyer hereby prohibits Seller, and Seller agrees, not to re-export and/or forward, directly or indirectly,
+                        to Russia or for use in Russia any supplied goods as well as technology (and related documentation, regardless of the
+                        mode of provision) provided by Buyer to Seller under this Contract.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 18 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.45.2                Buyer shall be entitled to terminate this Contract by written notice in the event of a breach by Seller of the obligation
+                       pursuant to Article 45.1 of this Contract. Upon termination, Seller shall pay to Buyer all costs and damages incurred
+                       by Buyer from such termination. In any case, Seller shall pay Buyer liquidated damages in the amount of 20% of the
+                       Contract Price.
+45.3               Notwithstanding the provision in Article 45.2, Seller shall indemnify and hold harmless Buyer in full from and against
+                       any claim, proceeding, action, fine, loss, cost, and damage asserted by public authorities or other third parties against
+                       Buyer arising out of or relating to a breach by Seller of the obligation under Article 45.1 of this Contract, and Seller
+                       shall compensate Buyer for all losses and expenses incurred resulting therefrom.
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 19 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 1 - TEMPLATE FOR VARIATION ORDER
+VO NO.:NO. OF ATTACHMENTS TO VO :
+RESPONSE TO VOR No.: PROJECT NAME:
+CONTRACT No.: CONTRACT NAME :
+SELLER : BUYER:
+SUBJECT OF VARIATION ORDER:
+DESCRIPTION OF VARIATION:
+NUMBER OF MANHOURS :
+VALUE :ESTIMATED :
+ESTIMATED :FIXED :
+FIXED :
+VALUE TO BE DETERMINED ACCORDING TO:
+LUMP SUM PRICES: [   ]
+UNIT RATES: [   ]
+DAYWORK RATES: [   ]
+HOURLY RATES: [   ]COST REIMBURSABLE: [  ]
+OTHER (SPECIFY): [  ]
+PAYMENT PROVISIONS: Seller is entitled to invoice the work covered by this Variation Order upon Purchaser’s
+acceptance of the work described herein.  For clarity, the provisions concerning the payment and invoicing
+obligations of the parties also apply to this Variation Order.
+EFFECT ON CONTRACT SCHEDULE: TIME IMPACT: NEW DELIVERY DATE(S):
+FOR SIEMENS ENERGY AS:
+....................................................................................................
+(Date)                                   (Sign.)
+....................................................................................................
+(Date)                                    (Sign.)FOR [INSERT NAME OF SELLER]:
+We are in complete agreement with the above: [   ]
+We do not agree with the above, but confirm receipt of this VO
+and accept that we have an obligation to immediately proceed
+with the work described herein.
+See attached our viewpoint: ...............................................
+............................................................................................
+(Date)                                (Sign.)
+.............................................................................................
+Name
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 20 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 2 - TEMPLATE FOR VARIATION ORDER REQUEST
+VOR NO.: NO. OF ATTACHMENTS TO VOR:
+CONTRACT No.: PROJECT / CONTRACT NAME :
+SELLER : BUYER:
+SUBJECT OF VARIATION ORDER REQUEST:
+DESCRIPTION OF VARIATION REQUESTED:
+NUMBER OF MANHOURS :
+VALUE :ESTIMATED :
+ESTIMATED :FIXED :
+FIXED :
+VALUE TO BE DETERMINED ACCORDING TO:
+LUMP SUM PRICES: [   ]
+UNIT RATES: [   ]
+DAYWORK RATES: [   ]
+HOURLY RATES: [   ]COST REIMBURSABLE: [  ]
+OTHER (SPECIFY): [  ]
+PAYMENT PROVISIONS: Seller is entitled to invoice the work covered by this Variation Order upon Purchaser’s
+acceptance of the work described herein.  For clarity, the provisions concerning the payment and invoicing
+obligations of the parties also apply to this Variation Order.
+EFFECT ON CONTRACT SCHEDULE: TIME IMPACT: NEW DELIVERY DATE(S):
+FOR [INSERT NAME OF SELLER]:
+............................................................................................
+(Date)                                (Sign.)
+.............................................................................................
+Name
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 21 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 3 - TEMPLATE FOR DISPUTED VARIATION ORDER
+DVO NO.: NO. OF ATTACHMENTS TO DVO:
+RESPONSE TO VOR No.: PROJECT NAME:
+CONTRACT No. : CONTRACT NAME :
+SELLER : BUYER:
+SUBJECT OF DISPUTED VARIATION ORDER:
+DESCRIPTION OF REQUESTED VARIATION AND GROUNDS FOR DISPUTING SUCH VARIATION:
+FOR SIEMENS ENERGY AS:
+....................................................................................................
+(Date)                                   (Sign.)
+....................................................................................................
+(Date)                                    (Sign.)FOR [INSERT NAME OF SELLER]:
+We are in complete agreement with the above: [   ]
+We do not agree with the above, but confirm receipt of this DVO
+and accept that we have an obligation to immediately proceed
+with the work described herein.
+See attached our viewpoint: ...............................................
+............................................................................................
+(Date)                                (Sign.)
+.............................................................................................
+Name
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 22 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 4 - TEMPLATE FOR SITE INSTRUCTION
+SI NO.: NO. OF ATTACHMENTS TO SI:
+PROJECT NAME:
+CONTRACT No.: CONTRACT NAME :
+SELLER : BUYER:
+SUBJECT OF SITE INSTRUCTION:
+DESCRIPTION OF SITE INSTRUCTION:
+NUMBER OF MANHOURS / PERSONNEL CATEGORY :
+COST OF MATERIAL:
+VALUE OF SI :ESTIMATED :
+ESTIMATED :
+ESTIMATED :
+VALUE TO BE DETERMINED ACCORDING TO:
+UNIT RATES: [   ]
+DAYWORK RATES: [   ]
+HOURLY RATES: [   ]
+FOR SIEMENS ENERGY AS:
+Buyer’s issuance of this signed Site Instruction infers an obligation upon Seller to immediately proceed with the Work described
+herein.
+....................................................................................................
+(Date)                                   (Sign.)
+....................................................................................................
+(Date)                                    (Sign.)
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 23 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 5 - TEMPLATE FOR MONTHLY REPORTING
+Monthly Report
+Seller  Buyer
+[  ]
+Monthly Report – [Insert month and Year ] [  ]
+Att: [  ]
+Contract No.: Contractual
+Delivery date:Forecast delivery date:
+[  ] [  ] [  ]
+Project name  No. of attachments:
+[  ]  [  ]
+Contract name
+[  ]
+Place, date Prepared by
+[  ] [  ]
+1. SUMMARY OF MAIN EVENTS
+2. DELIVERY SCHEDULE
+3. ENGINEERING EXPRESSED AS % OF PROGRESS
+CONTRACTUAL PLAN: EXPLAINATION:
+STATUS ON THE DAY OF THE REPORT: EXPLANATION:
+FORECASTED PROGRESS FOR NEXT
+MONTH:EXPLANATION:
+4. PROBLEM AREAS AND CATCH -UP PLANS
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 24 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.5. SELLER DOCUMENTS AND CERTIFICATES EXPRESSED AS DATES
+SUPPLIER DOCUMENT
+LIST:CONTRACTUAL DATE: ACTUAL SUBMISSION: FORECASTED SUBM. : EXPLANATION:
+ALL CERTIFICATES: CONTRACTUAL DATE: ACTUAL SUBMISSION: FORECASTED SUBM. : EXPLANATION:
+6. PROCUREMENT
+SUB-ORDERS FOR COMPONENTS/MATERIALS (details of sub-orders, to include list of items to be procured, purchase order dates,
+sub-supplier name, contact details, sub-order number, engineering/production schedule, delivery details):
+EXPEDITING PLAN (method, frequency and schedule):
+7. PRODUCTION EXPRESSED AS DATES
+PROD. STAGE/ACTIVITY: CONTRACTUAL PLAN: STATUS ON THE DAY
+OF THE REPORT:FORECASTED
+PRODUCTION:EXPLANATION:
+8. ACTIVITIES PLANNED IN THE COMING MONTH
+9. TECHNICAL QUERIES AND SITE INSTRUCTIONS
+10. VARIATION ORDER REGISTER (VO, VOR, DVO)
+VOR: STATUS:
+VO: STATUS:
+DVO: STATUS:
+11. LOG OF NON-CONFORMANCE
+12. CORRESPONDENCE STATUS
+13. WEIGHT STATUS
+CONTRACTUAL WEIGHT: FORECASTED WEIGHT:
+14. TESTS, INSPECTIONS AND MEETINGS
+PLAN: ACTUAL DATES:
+15. HSE REPORTS
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 25 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 6 - TEMPLATE FOR WEEKLY STATUS EMAIL
+1.  SUMMARY OF ACTIVITIES SINCE LAST STARUS EMAIL OR MONTHLY REPORT
+2.  CRITICAL ITEMS / ISSUES FOR SELLER
+3.  CRITICAL ITEMS / ISSUES FOR BUYER
+4.  CONFIRMATION THAT SELLER WILL MEET DELIVERY DATE / DETAILS OF ANY DELAYS
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 26 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 7 - PERFORMANCE AND WARRANTY GUARANTEE
+At the request of [ insert name of seller ] (the “ Seller ”), [insert name and address of the bank ] (the “ Guarantor ”)
+issues this unconditional and irrevocable guarantee for defects liability (the “ Guarantee ”) for the benefit of
+[insert name and address of the Siemens Energy beneficiary ] (the “ Beneficiary ”). The Guarantor and the
+Beneficiary are collectively referred to herein as the “ Parties ”.
+On [insert date ] the Seller and the Beneficiary concluded contract no. [ insert contract number ] (the “ Contract ”)
+regarding the delivery of [ identify equipment ] and the performance of related services for the total price of €
+[insert amount ] (in words Euro [ insert amount ]). Pursuant to the terms of the Contract, the Seller agreed to
+procure for the benefit of the Beneficiary a guarantee for defects liability in the amount of € [ insert amount ] (in
+words Euro [ insert amount ]) as security for the proper performance of Seller’s defects liability obligations
+under the Contract.
+Accordingly, the Parties agree to the following:
+The Guarantor hereby guarantees for the benefit of the Beneficiary the payment of an amount up to the
+maximum total amount of € [ insert amount ] (in words Euro [ insert amount ]) (the “ Maximum Liability
+Amount ”).
+The Guarantor shall pay upon the written demand of the Beneficiary, waiving any and all defences and
+objections and independent of the validity or enforceability of the Contract, the amount demanded from time to
+time by the Beneficiary under the Guarantee. Such payment shall be made to the account designated by the
+Beneficiary.
+The Beneficiary shall only be entitled to draw against this Guarantee if it has provided the Guarantor with a
+written statement that the Seller has failed to properly perform its obligations under the Contract.
+This Guarantee shall terminate upon the occurrence of the earliest of the following events (each a
+"Termination Event "):
+1. the  Maximum Liability Amount is paid under this Guarantee; or
+2. the original Guarantee document is returned to the Guarantor; [or
+3. the end of the day on insert date .]
+This Guarantee shall expire with respect to and to the extent of any amounts paid by the Guarantor
+hereunder.
+The period of limitations for claims under this Guarantee shall begin to run upon receipt by Guarantor of the
+Beneficiary's relevant written demand to pay hereunder and shall end at the latest 30 years from the date
+identified by the applicable laws as the date on which the period of limitations begins to run.1
+This Guarantee may only be amended, modified or supplemented in writing. For purposes of this Guarantee,
+electronic communications shall not constitute “in writing”. The “in writing” requirement may only be waived in
+writing.
+Any and all notices or communications relating to this Guarantee shall be sent to the addresses indicated
+above.
+This Guarantee shall be governed by and construed in accordance with the laws of the Federal Republic of
+Germany to the exclusion of any conflicts of law rules. The courts of Munich, Germany shall have non-
+exclusive jurisdiction for any and all claims arising out of or relating to this Guarantee.
+Place, Date:
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 27 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden._______________________________________________
+Signature(s) of Guarantor
+AGREED AND ACCEPTED:
+_______________________________________________
+Signature(s) of Beneficiary
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 28 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 8 - ADVANCE PAYMENT GUARANTEE
+At the request of [ insert name of buyer ] (the “ Buyer ”), [insert name and address of the bank ] (the
+“Guarantor ”) issues this unconditional and irrevocable payment guarantee (the “ Guarantee ”) for the benefit of
+[insert name and address of the Siemens Energy beneficiary ] (the “ Beneficiary ”). The Guarantor and the
+Beneficiary are collectively referred to herein as the “ Parties ”.
+On [insert date ] the Buyer and the Beneficiary concluded contract no. [ insert contract number ] (the “ Contract ”)
+regarding the delivery of [ identify equipment ] and the performance of related services for the total price of €
+[insert amount ] (in words Euro [ insert amount ]). Pursuant to the terms of the Contract, the Buyer agreed to
+procure for the benefit of the Beneficiary a payment guarantee in the amount of € [ insert amount ] (in words
+Euro [ insert amount ]) as security for the Buyer’s payment obligations under the Contract.
+Accordingly, the Parties agree to the following:
+The Guarantor hereby guarantees for the benefit of the Beneficiary the payment of an amount up to the
+maximum total amount of € [ insert amount ] (in words Euro [ insert amount ]) (the “ Maximum Liability
+Amount ”).
+The Guarantor shall pay upon the written demand of the Beneficiary, waiving any and all defences and
+objections and independent of the validity or enforceability of the Contract, the amount demanded from time to
+time by the Beneficiary under the Guarantee. Such payment shall be made to the account designated by the
+Beneficiary.
+The Beneficiary shall only be entitled to draw against this Guarantee if it has provided the Guarantor with a
+written statement that the Buyer has failed to make a payment that is due.
+This Guarantee shall terminate upon the occurrence of the earliest of the following events (each a
+"Termination Event "):
+1. the  Maximum Liability Amount is paid under this Guarantee; or
+2. the original Guarantee document is returned to the Guarantor; [or
+3. the end of the day on insert date .]
+This Guarantee shall expire with respect to and to the extent of any amounts paid by the Guarantor
+hereunder.
+The period of limitations for claims under this Guarantee shall begin to run upon receipt by Guarantor of the
+Beneficiary's relevant written demand to pay hereunder and shall end at the latest 30 years from the date
+identified by the applicable laws as the date on which the period of limitations begins to run.
+This Guarantee may only be amended, modified or supplemented in writing. For purposes of this Guarantee,
+electronic communications shall not constitute “in writing”. The “in writing” requirement may only be waived in
+writing.
+Any and all notices or communications relating to this Guarantee shall be sent to the addresses indicated
+above.
+This Guarantee shall be governed by and construed in accordance with the laws of the Federal Republic of
+Germany to the exclusion of any conflicts of law rules. The courts of Munich, Germany shall have non-
+exclusive jurisdiction for any and all claims arising out of or relating to this Guarantee.
+Place, Date:
+_______________________________________________
+Signature(s) of Guarantor
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 29 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.AGREED AND ACCEPTED:
+_______________________________________________
+Signature(s) of Beneficiary
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 30 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 9 - PARENT COMPANY GUARANTEE
+As security for [insert name of Seller]’s (the “Seller”), its successors’ and its permitted assignees’ performance
+of any and all existing and future obligations under its contract [insert contract #] with Siemens Energy AS (the
+“Buyer”) for the [insert name of project], [Insert name of parent company] (the “Guarantor”) hereby provides
+Buyer with the following guarantee (the “Guarantee”):
+1. In the event of any non-performance of Seller’s obligations under the Contract then:
+a) Guarantor shall on first demand compensate Buyer for all and any claims, losses, damages, costs and
+expenses which Buyer or a third party may incur by reason of non-performance of Seller’s
+obligations under the Contract;
+b) Buyer shall be entitled to request Guarantor to perform and take whatever measures necessary to
+fulfil Seller’s obligations under the Contract; and
+c) Buyer shall be entitled to engage a third party to perform Seller’s obligations under the Contract at
+Parent’s cost, and Guarantor shall compensate Buyer accordingly.
+2. Guarantor shall pay any amounts due to Buyer under this Guarantee within thirty (30) calendar days of
+receipt of invoice. Parent waives its right to put forward a counter-claim towards Buyer.
+3. This guarantee shall apply in respect of any changes to the Contract, regardless of whether Guarantor is
+notified or consulted in respect of such changes, and shall also apply if the Contract is assigned to a third
+party or if the ownership in Seller, Buyer or Guarantor is changed.
+4. Guarantor’s liability and obligations to Buyer under this Guarantee shall not, either individually or when
+aggregated together with the Seller`s liabilities under the Contract, be greater than or different in
+character or extent from the liabilities and obligations of Seller to Buyer under the Contract.
+5. The Guarantor appoints the Seller as its agent to accept service of process in [insert country of Seller] in
+any legal action or proceedings arising out of or in connection with this Guarantee.  Any notice of process
+served on Seller shall be deemed valid service whether or not such process is forwarded to Guarantor.
+Nothing in this Guarantee shall affect the right to serve process in any other manner permitted by law.
+6. This Guarantee is unlimited in time and expires upon return of the Guarantee document. The limitation
+period for claims arising out of this Guarantee is five (5) years from the occurrence of Buyer’s right of
+action.
+7. The existence of this Guarantee is independent of the legal existence of the Seller.
+8. This Guarantee shall be governed by and construed in accordance with the laws of Norway. Disputes
+which may arise in connection with or as a result of this Guarantee, and that are not resolved by mutual
+Contract, shall be decided by court proceedings instituted at Oslo District Court.
+Date: ______________
+For Parent:
+________________________________
+Signature
+________________________________
+Name (block letters)
+Last updated: June 2024
+MAJOR CONDITIONS OF PURCHASE FOR OIL & GAS
+Siemens Energy AS Page: 31 of 31
+Siemens Energy reserves all rights in this document and the information contained herein. Reproduction, use or disclosure to third parties without express authority is forbidden.ATTACHMENT 10 – COMPLETION CERTIFICATE
+Contract no.: ____________
+Package description: ____________
+Seller: ____________
+Buyer hereby certifies that the requirements for Completion, with the exception of guarantee work,
+have been fulfilled in accordance with the Contract.
+The Work is therefore certified completed (date, month, year): _________________, 20___
+Signed by Buyer’s duly authorised representative:
+Signature: ________________________________
+Name (print): ___________________________________
+Place and date of issue: _____________________

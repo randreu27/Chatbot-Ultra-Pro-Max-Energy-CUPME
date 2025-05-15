@@ -1,0 +1,32 @@
+Transaction:
+Published 08/23/2021
+LEI 5299005CHJZ14D4FDJ62
+Date 08/20/2021 UTC+2
+Type of transaction Acquisition
+Description of financial instrument: Share
+ISIN DE000ENER6Y0
+Place Tradegate
+a) Price and Volume Price Volume
+EUR 23.50000 EUR 8,883.00
+EUR 23.50000 EUR 20,445.00
+EUR 23.50000 EUR 35,250.00
+EUR 23.50000 EUR 72,897.00
+EUR 23.50000 EUR 23,500.00
+EUR 23.50000 EUR 23,500.00
+EUR 23.50000 EUR 23,500.00
+EUR 23.50000 EUR 23,500.00
+EUR 23.50000 EUR 3,525.00
+b) Aggregated information Price Volume
+EUR 23.50000 EUR 235,000.00
+  
+Details of person:
+Name/Company Joe Kaeser
+Reason Member of the administrative or supervisory body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

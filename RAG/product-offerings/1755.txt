@@ -1,0 +1,112 @@
+Secured power supply in rough
+environmental conditions
+To secure global power supply over the long term, reliable 
+equipment is essential. This naturally also applies to 
+applications in rough environmental conditions. In 
+particular, low temperatures affect the performance of 
+high -voltage circuit breakers.
+The most common medium used for arc -extinguishing and 
+high -voltage insulation is sulphur hexafluoride (SF6). 
+One major technical limitation of SF6, however, is the 
+condensation temperature, especially when this gas is used
+with significant overpressure. At rated lockout pressure and 
+temperatures lower than approx. –30 °C liquefaction occurs 
+and the remaining SF6gas densitiy would not be sufficient 
+to ensure the full switching performance of the circuit 
+breaker.
+An appropriate solution is the use of a mixture of SF6  and 
+tetrafluormethane (CF4). The mixture of these two
+gases represents an optimum solution for covering the 
+low-temperature applications without affecting switching 
+performance. The mixture ensures a liquefaction -free 
+insulation and arc -extinguishing medium as the SF6partial 
+pressure is sufficiently reduced.Based on the existing circuit breaker design, the pure SF6 
+filling will be replaced by a composition of
+•43 percent SF6 and 57 percent CF4 for applications 
+down to −50 °C, and
+•25 percent SF6and 75 percent CF4 for conditions 
+down to −60 °C.
+Additionally, the rated filling pressure is increased by 
+1.5 bar to 7.5 bar.
+Consequently, the new low -temperature circuit breaker 
+with mixed gases offers mainly the same technical key 
+ratings as the standard circuit breaker that is used for low 
+temperature conditions down to −30 °C.
+The normal rated current , in particular, was certified for the 
+same values as the standard breaker with pure SF6filling. 
+For a 60 Hz application, the short -circuit current needs an
+insignificant line -to-ground of 3 nF (not required for 50 Hz). 
+Usually, this capacitance value is available in power grid 
+configurations with capacitive voltage dividers. Obviously, 
+a circuit breaker installation that provides this value within 
+the grid configuration doesn’t need the external capacitors. 
+This gives the customer the possibility to use standard 
+equipment without any major modifications.
+The new mixed gas solution is an alternative option to the 
+proven devices with tank heaters for operation in harsh 
+weather conditions with temperatures down to –60°C.
+3AP1 DT upto170 kV with mixed gases
+forlowest temperature applications
+siemens -energ y.com/ circuit -breakers
+© 2021 Siemens Energy Page 1
+Dead Tank
+Ready forcooldown
+
+All values In accordance with ICE; other values on requestCO2 footprint
+In terms of overall global warming potential (GWP), the 
+mixed gas solution also offers advantages for a 100 -year 
+time horizon, because the GWP of CF4 (7,400) is three 
+times lower than that of SF6(22,800). Additionally, the 
+new dead tank offers a leakage rate of less than 0.1 percent 
+per annum of gas losses for the complete circuit breaker. 
+In comparison to other low -temperature applications with 
+tank heaters, the mixed gas solution shows a markedly 
+reduced CO2footprint.Even within the same voltage range, a reduction of the 
+GWP by 56 percent can be achieved by the enhanced 
+design from 2015 and the use of mixed gases as shown in 
+the diagrams. During the manufacturing phase, optimized 
+utilization of materials (e.g., a smaller base frame), as well 
+as the use of mixed gases instead of permanent heating 
+during operation in low -temperature areas, all aspects 
+contribute to the improved GWP.Global Warming Potential
+3AP1 DT 145 kV* design 1995 with tank heaters 3AP1 DT 145 kV* enhanced design 2015 
+with mixed gas solution
+26.500   480.000   
+-2.100   
+-50,000 50,000 150,000 250,000 350,000 450,000 550,000
+Manufacturing Operation (40a) End of Life19.400   208.000   
+-5.800   
+-20,000 30,000 80,000 130,000 180,000 230,000 280,000
+*without current transformersOperation (40a) End of Life Manufacturing
+© 2021 Siemens Energy Page 2Rated voltage kV 126 145 / 170
+Number of interrupter units per pole 1 1
+Rated normal current, up to A 3150 3150
+Rated short -circuit breaking current, up to kA 40 40
+Rated frequency Hz 50 / 60 50 / 60
+Rated power -frequency withstand voltage kV 230 325
+Rated lightning impulse withstand voltage kV 550 750
+Rated duration of short -circuit s 3 3
+Rated peak withstand current (2.7 p.u.) kA 108 108
+First -pole -to-clear -factor p.u. 1.3 / 1.5 1.3 / 1.5
+Capacitive voltage factor p.u. 1.2 / 1.4 1.2 / 1.4
+Temperature range °C -60 upto+55 -50 upto+55
+Maintenance after 25 years
+Published by
+Siemens Energy Global GmbH & Co. KG
+Switching Products & Systems
+Freyeslebenstraße 1
+91058 Erlangen, Germany
+For more information, please visit our website: 
+siemens -energy.com/circuit -breakers
+or contact us
+Email: circuit -breaker@ siemens -energy.com
+Subject to changes and errors. The information given in this document only contains general descriptions 
+and/or performance features which may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the products. The requested performance 
+features are binding only when they are expressly agreed upon in the concluded contract.
+Siemens Energy is a trademark licensed by Siemens AG .For the U.S. published by
+Siemens Energy, Inc
+Switching Products & Systems
+444 Hwy 49 South
+Richland, MS 39218, USA
+© 2021 Siemens Energy Page 3

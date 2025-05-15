@@ -1,0 +1,549 @@
+Frei verwendbar Seite 1 von 4
+Bestellbedingungen
+Stand: 24.September 2024
+1. Bestellung und Auftragsbestätigung
+1.1 Der Besteller kann die Bestellung widerrufen, wenn der Auftragnehmer
+sie nicht innerhalb von zwei Wochen nach Eingang schriftlich angenom-
+men hat (Auftragsbestätigung).
+1.2 Abweichungen, Änderungen oder Ergänzungen der Bestellung durch
+die Auftragsbestätigung werden nur Vertragsbestandteil, wenn sie vom
+Besteller schriftlich bestätigt werden. Insbesondere ist der Besteller an
+Allgemeine Geschäftsbedingungen des Auftragnehmers nur insoweit
+gebunden, als diese mit diesen Bedingungen übereinstimmen oder er
+ihnen schriftlich zugestimmt hat. Die Annahme von Lieferungen oder
+Leistungen sowie Zahlungen bedeuten keine Zustimmung.
+1.3 Regelungen in anderen Dokumenten des Auftragnehmers (z.B. Spezi-
+fikationen, Data Sheets, technische Dokumentation, Werbematerial,
+Auftragsbestätigung oder Lieferscheine), die von diesen Bedingungen
+abweichen (z.B. zu den rechtlichen Bedingungen, Haftung, Benut-
+zungsbeschränkungen), finden keine Anwendung.
+2. Nutzungsrechte
+2.1 Der Auftragnehmer gewährt dem Besteller das nicht-ausschließliche,
+übertragbare, weltweite und zeitlich unbegrenzte Recht,
+2.1.1 die Lieferungen und Leistungen inklusive der dazugehörigen Dokumen-
+tation zu nutzen, in andere Produkte zu integrieren und zu vertreiben;
+2.1.2 Software und die dazugehörige Dokumentation (zusammen im Folgen-
+den „Software“ genannt) zu installieren, in Betrieb zu nehmen, zu testen
+und zu betreiben;
+2.1.3 das Nutzungsrecht gemäß Ziffer 2.1.2 an verbundene Unternehmen
+i. S. v. § 15 AktG (im Folgenden „Verbundene Unternehmen“ genannt),
+beauftragte Dritte, Distributoren und an Endkunden zu unterlizenzieren;
+2.1.4 Verbundenen Unternehmen und anderen Distributoren das Recht zu
+lizenzieren, Endkunden das Nutzungsrecht gemäß Ziffer 2.1.2 einzu-
+räumen;
+2.1.5 die Software für die Integration in andere Produkte zu nutzen und zu
+kopieren oder durch Verbundene Unternehmen, beauftragte Dritte oder
+andere Distributoren nutzen und kopieren zu lassen.
+2.1.6 die Software zu vertreiben, zu verkaufen, zu vermieten, zu verleasen,
+zum Download bereitzustellen oder öffentlich zugänglich zu machen,
+z. B. im Wege des Application Service Providing oder anderer Nut-
+zungsarten, und die Software in dem dafür erforderlichen Umfang zu
+kopieren, vorausgesetzt, die Anzahl der jeweils gleichzeitig genutzten
+Lizenzen übersteigt nicht die Anzahl der erworbenen Lizenzen;
+2.1.7 das Nutzungsrecht gemäß Ziffer 2.1.6 an Verbundene Unternehmen,
+beauftragte Dritte und Distributoren zu unterlizenzieren.
+2.2 Der Besteller, Verbundene Unternehmen und Distributoren sind zusätz-
+lich zu dem in Ziffer 2.1 eingeräumten Recht befugt, Endkunden die
+Übertragung der einzelnen Lizenzen zu gestatten.
+2.3 Alle von dem Besteller gewährten Unterlizenzen müssen angemesse-
+nen Schutz für das geistige Eigentum des Auftragnehmers an der Soft-
+ware vorsehen, indem dieselben vertraglichen Bestimmungen verwen-
+det werden, die der Besteller zum Schutz des eigenen geistigen Eigen-
+tums verwendet.
+2.4 Der Auftragnehmer hat den Besteller rechtzeitig, spätestens mit Auf-
+tragsbestätigung, darauf hinzuweisen, ob seine Lieferungen Open
+Source Komponenten enthalten. Dabei handelt es sich um Software,
+Hardware oder sonstige Informationen, die beliebigen Nutzern lizenz-
+gebührenfrei mit dem Recht zur Bearbeitung bzw. Verbreitung auf der
+Grundlage einer entsprechenden Lizenz überlassen wird (z.B. GPL,
+LGPL oder MIT Lizenz). Enthalten die Lieferungen Open Source Kom-
+ponenten, so hat der Auftragnehmer die Verpflichtungen aller anwend-
+baren Open Source Lizenzen einzuhalten sowie dem Besteller alle
+Rechte einzuräumen und Informationen zu übermitteln, die er zur Ein-
+haltung dieser Lizenzverpflichtungen benötigt. Insbesondere muss der
+Auftragnehmer dem Besteller unverzüglich nach Auftragsbestätigung
+Folgendes liefern:
+-Ein Dokument mit einer Auflistung aller enthaltenen Open-Source
+Komponenten und deren Versionen, aller anwendbaren Lizenztexte
+und Copyright- bzw. Autorenhinweise mit angemessener Gliede-
+rung und Inhaltsverzeichnis, sowie
+-den vollständigen Quelltext der verwendeten Open-Source Soft-
+ware einschließlich Skripten und Informationen zur Generierumge-
+bung, wenn die geltenden Lizenzen dies verlangen.
+2.5 Der Auftragnehmer informiert den Besteller rechtzeitig, spätestens bei
+Auftragsbestätigung schriftlich, falls vom Auftragnehmer verwendete O-
+pen Source Lizenzen einem Copyleft-Effekt unterliegen, der sich bei
+bestimmungsgemäßem Gebrauch auf die Produkte des Bestellers aus-
+wirken kann. Dies ist dann der Fall, wenn Lizenzbedingungen der vom
+Auftragnehmer verwendeten Open Source Komponenten verlangen,dass Produkte des Bestellers oder von diesen abgeleitete Werke nur
+unter den Bedingungen der Open Source Lizenzbedingungen, z.B. un-
+ter Offenlegung der Quelltexte, weiterverbreitet werden dürfen. Ist dies
+der Fall, ist der Besteller berechtigt, die Bestellung innerhalb von zwei
+Wochen nach Zugang der vollständigen Information zu widerrufen.
+3. Leistungszeit, Vertragsstrafe bei Leistungsstörungen
+3.1 Für die Rechtzeitigkeit von Lieferungen kommt es auf den Eingang bei
+dem vom Besteller benannten Bestimmungs-/Lieferort, gem. Incoterms
+® 2020, für die Rechtzeitigkeit von Lieferungen mit Aufstellung oder
+Montage sowie von Leistungen auf deren Abnahme durch den Besteller
+an.
+3.2 Bei erkennbarer Verzögerung einer Lieferung oder Leistung bzw. Nach-
+erfüllung ist der Besteller unverzüglich zu benachrichtigen und seine
+Entscheidung einzuholen.
+3.3 Kommt der Auftragnehmer in Verzug, so ist der Besteller berechtigt, für
+jeden angefangenen Werktag der Verzögerung eine Vertragsstrafe in
+Höhe von 0,3 % (null Komma drei Prozent), höchstens jedoch 5 % (fünf
+Prozent) der Gesamtvertragssumme zu berechnen.
+Unterbleibt bei der Annahme der Lieferungen, Leistungen oder Nach-
+erfüllung der entsprechende Vorbehalt, kann die Vertragsstrafe den-
+noch geltend gemacht werden, wenn der Vorbehalt bis zur Schlusszah-
+lung erklärt wird.
+3.4 Weitergehende oder andere gesetzliche Ansprüche bleiben unberührt.
+4. Gefahrübergang, Versand, Erfüllungsort, Eigentumsübergang
+4.1 Bei Lieferungen mit Aufstellung oder Montage und bei Leistungen geht
+die Gefahr mit der Abnahme, bei Lieferungen ohne Aufstellung oder
+Montage mit der Übernahme durch den Besteller am benannten Be-
+stimmungs-/Lieferort, gem. Incoterms ® 2020, über. Sofern nichts an-
+deres vereinbart ist, gilt DDP (benannter Bestimmungsort) Incoterms ®
+2020, wenn (a) der Sitz des Auftragnehmers und der Bestimmungsort
+im selben Land liegen oder wenn (b) der Sitz des Auftragnehmers und
+der Bestimmungsort beide in der Europäischen Union liegen. Sind die
+vorgenannten Voraussetzungen nicht erfüllt, gilt mangels abweichen-
+der Vereinbarung DAP (benannter Bestimmungsort) Incoterms ® 2020.
+4.2 Soweit nicht anders vereinbart, sind Kosten einer beanspruchungsge-
+rechten Verpackung mit der vereinbarten Vergütung abgegolten. So-
+fern die Transportkosten vom Besteller getragen werden, ist die Ver-
+sandbereitschaft mit den Angaben gem. Ziffer 4.3 sofort anzuzeigen.
+Auf Wunsch des Bestellers ist für die Anzeige ein bereitgestelltes Sie-
+mens Energy Routing Order Tool vom Auftragnehmer verpflichtend zu
+verwenden. Der Auftragnehmer hat die Lieferungen zu den jeweils
+niedrigsten Kosten zu versenden, soweit der Besteller keine bestimmte
+Beförderungsart oder den Abschluss des Beförderungsvertrages durch
+den Besteller vorgeschrieben hat. Mehrkosten wegen einer nicht ein-
+gehaltenen Versandvorschrift oder der Nichtverwendung des Siemens
+Energy Routing Order Tools gehen zu Lasten des Auftragnehmers. Bei
+Vereinbarung DAP/DDP (benannter Bestimmungsort) gem. Incoterms
+® 2020 kann der Besteller ebenfalls die Beförderungsart bestimmen.
+Mehrkosten für eine zur Einhaltung eines Liefertermins etwa notwen-
+dige beschleunigte Beförderung sind vom Auftragnehmer zu tragen.
+4.3 Jeder Lieferung sind Packzettel oder Lieferscheine mit Angabe des In-
+halts sowie der vollständigen Bestellkennzeichen beizufügen.
+4.4 Soweit die Parteien vereinbaren, dass der Auftragnehmer den Trans-
+port für Lieferungen, die Gefahrgut enthalten, für Rechnung des Bestel-
+lers beauftragt, ist der Auftragnehmer verpflichtet, dem vom Besteller
+nominierten Spediteur mit Erteilung des Transportauftrags die nach den
+gesetzlichen Vorschriften erforderlichen Gefahrgutdaten zu übermit-
+teln. Der Auftragnehmer ist auch in diesen Fällen für die gesetzeskon-
+forme Verpackung, Kennzeichnung, Bezettelung usw. für den/die ge-
+nutzten Verkehrsträger verantwortlich.
+4.5 Teilt der Besteller dem Auftragnehmer mit, dass im Anschluss an eine
+Lieferung ein Weitertransport mit einem anderen Verkehrsträger ge-
+plant ist, so wird der Auftragnehmer auch hinsichtlich des Weitertrans-
+ports die erforderlichen Gefahrgutvorschriften berücksichtigen.
+4.6 Das Eigentum geht mit der Übergabe bzw. mit der Abnahme auf den
+Besteller über.
+5. Zahlungen, Rechnungen
+5.1 Zahlungen werden, wenn nichts anderes vereinbart ist, innerhalb von
+30 (dreißig) Tagen netto zur Zahlung fällig. Bei einer Zahlung innerhalb
+von 14 (vierzehn) Tagen ist der Besteller zu einem Abzug von 3 % (drei
+Prozent) Skonto berechtigt. Die Zahlungsfrist beginnt, sobald die Liefe-
+rung oder Leistung vollständig erbracht und die ordnungsgemäß aus-
+gestellte Rechnung eingegangen ist.
+5.2 In Rechnungen sind die Bestellkennzeichen sowie die Nummern jeder
+einzelnen Position anzugeben. Solange diese Angaben fehlen, sind
+Frei verwendbar Seite 2 von 4Rechnungen nicht zahlbar. Rechnungszweitschriften sind als Duplikate
+zu kennzeichnen
+5.3 Soweit der Auftragnehmer Materialteste, Prüfprotokolle, Qualitätsdoku-
+mente oder andere Unterlagen zur Verfügung zu stellen hat, setzt die
+Vollständigkeit der Lieferung und Leistung auch den Eingang dieser
+Unterlagen voraus. Skontoabzug ist auch zulässig, wenn der Besteller
+aufrechnet oder Zahlungen in angemessener Höhe aufgrund von Män-
+geln zurückhält.
+5.4 Zahlungen bedeuten keine Anerkennung der Lieferungen oder Leistun-
+gen als vertragsgemäß.
+6. Eingangsprüfungen
+6.1 Der Besteller wird unverzüglich nach Eingang der Lieferungen am be-
+nannten Bestimmungsort prüfen, ob sie der bestellten Menge und dem
+bestellten Typ entsprechen, ob äußerlich erkennbare Transportschä-
+den oder äußerlich erkennbare Mängel vorliegen.
+6.2 Entdeckt der Besteller bei den vorgenannten Prüfungen oder später ei-
+nen Mangel, wird er diesen dem Auftragnehmer anzeigen.
+6.3 Rügen können innerhalb eines Monats seit Lieferung oder Leistung
+oder, sofern die Mängel erst bei Be- oder Verarbeitung oder Inge-
+brauchnahme bemerkt werden, seit ihrer Feststellung erhoben werden.
+6.4 Dem Besteller obliegen gegenüber dem Auftragnehmer keine weiter-
+gehenden als die vorstehend genannten Prüfungen und Anzeigen.
+7. Mängelhaftung
+7.1 Wenn Mängel vor oder bei Gefahrübergang festgestellt werden oder
+während der in Ziffer 7.8 und 7.9 genannten Verjährungsfrist auftreten,
+hat der Auftragnehmer auf seine Kosten nach Wahl des Bestellers ent-
+weder die Mängel zu beseitigen oder mangelfrei neu zu liefern oder zu
+leisten. Dies gilt auch für Lieferungen, bei denen sich die Prüfung auf
+Stichproben beschränkt hat. Die Wahl des Bestellers ist nach billigem
+Ermessen zu treffen.
+7.2 Führt der Auftragnehmer die Nacherfüllung nicht innerhalb einer vom
+Besteller zu setzenden angemessenen Frist aus, ist der Besteller be-
+rechtigt,
+7.2.1 vom Vertrag ganz oder teilweise entschädigungslos zurückzutreten
+oder
+7.2.2 Minderung des Preises zu verlangen oder
+7.2.3 auf Kosten des Auftragnehmers Nachbesserung oder Neulieferung
+selbst vorzunehmen oder vornehmen zu lassen und
+7.2.4 Schadensersatz statt der Leistung zu verlangen.
+Für die Rechtzeitigkeit der Nacherfüllung kommt es auf den Eingang
+am Bestimmungsort an.
+7.3 Die in Ziffer 7.2 genannten Rechte können ohne Fristsetzung geltend
+gemacht werden, wenn der Besteller wegen der Vermeidung eigenen
+Verzugs oder anderer Dringlichkeit ein besonderes Interesse an sofor-
+tiger Nacherfüllung hat und eine Aufforderung an den Auftragnehmer,
+den Mangel innerhalb einer angemessenen Frist zu beseitigen, für den
+Besteller nicht zumutbar ist. Die gesetzlichen Vorschriften zur Entbehr-
+lichkeit der Fristsetzung bleiben unberührt.
+7.4 Die vorbezeichneten Ansprüche verjähren nach einem Jahr seit An-
+zeige des Mangels, in keinem Fall jedoch vor Ablauf der in dieser Zif-
+fer 7 genannten Verjährungsfristen.
+7.5 Weitergehende oder andere gesetzliche Ansprüche bleiben unberührt.
+7.6 Soweit der Auftragnehmer im Rahmen seiner Mängelbeseitigungs-
+pflicht neu liefert oder nachbessert, beginnen die in Ziffer 7.8 und 7.9
+genannten Fristen erneut zu laufen.
+7.7 Unabhängig vom Gefahrübergang der Lieferung trägt der Auftragneh-
+mer Kosten und Gefahr der zum Zwecke der Nacherfüllung erforderli-
+chen Maßnahmen (z. B. Rücksendekosten, Transportkosten, Ein- und
+Ausbaukosten).
+7.8 Sachmängelansprüche verjähren in drei Jahren, soweit das Gesetz
+keine längeren Fristen vorsieht.
+7.9 Rechtsmängelansprüche verjähren in fünf Jahren, soweit das Gesetz
+keine längeren Fristen vorsieht.
+7.10 Die Verjährungsfrist beginnt für Lieferungen ohne Aufstellung und Mon-
+tage mit Eingang bei dem vom Besteller benannten Bestimmungsort,
+für Lieferungen mit Aufstellung oder Montage sowie von Leistungen mit
+deren Abnahme. Bei Lieferungen an Orte, an denen der Besteller Auf-
+träge außerhalb seiner Werke oder Werkstätten ausführt, beginnt sie
+mit der Abnahme durch den Auftraggeber des Bestellers, spätestens
+ein Jahr nach dem Gefahrübergang.
+8. Überprüfungs- und Hinweispflichten des Auftragnehmers
+8.1 Der Auftragnehmer ist verpflichtet, vom Besteller beigestellte oder von
+seinen Lieferanten, Herstellern und sonstigen Dritten gelieferte Kompo-
+nenten (z.B. Rohstoffe, Baustoffe) einer ordnungsgemäßen Eingangs-
+kontrolle zur Überprüfung auf offene und verdeckte Mängel zu unter-
+ziehen und Mängel unverzüglich seinen Lieferanten oder - im Fall der
+Beistellung durch den Besteller- dem Besteller anzuzeigen.
+8.2 Die Lieferung rechtsmängelfreier Produkte ist für den Besteller ver-
+tragswesentlich. Der Auftragnehmer verpflichtet sich deshalb, die Lie-
+ferung und Leistung auf ihre Rechtsmängelfreiheit zu überprüfen undden Besteller auf eventuelle entgegenstehende Schutzrechte hinzuwei-
+sen. Eine Verletzung dieser Pflichten unterliegt der regelmäßigen ge-
+setzlichen Verjährungsfrist.
+9. Qualitätsmanagement, Weitergabe von Aufträgen an Dritte
+9.1 Der Auftragnehmer ist verpflichtet, ein Qualitätsmanagementsystem zu
+unterhalten (z.B. gemäß DIN EN ISO 9001).
+9.2 Die Weitergabe von Aufträgen an Dritte ist ohne schriftliche Zustim-
+mung des Bestellers unzulässig und berechtigt den Besteller, ganz oder
+teilweise vom Vertrag zurückzutreten sowie Schadensersatz zu verlan-
+gen.
+10. Materialbeistellungen, Informationen
+10.1 Materialbeistellungen sowie zur Verfügung gestellte Informationen blei-
+ben Eigentum des Bestellers und sind unentgeltlich getrennt zu lagern,
+als Eigentum des Bestellers zu bezeichnen und zu verwalten. Ihre Ver-
+wendung ist nur für Aufträge des Bestellers zulässig. Bei schuldhafter
+Wertminderung oder Verlust ist vom Auftragnehmer Ersatz zu Ieisten,
+wobei der Auftragnehmer auch einfache Fahrlässigkeit zu vertreten hat.
+Dies gilt auch für die berechnete Überlassung auftragsgebundenen Ma-
+terials.
+10.2 Verarbeitung oder Umbildung des Materials sowie der Informationen
+erfolgt für den Besteller. Dieser wird unmittelbar Eigentümer der neuen
+oder umgebildeten Sache. Sollte dies aus rechtlichen Gründen nicht
+möglich sein, so sind sich Besteller und Auftragnehmer darüber einig,
+dass der Besteller in jedem Zeitpunkt der Verarbeitung oder Umbildung
+Eigentümer der neuen Sache wird. Der Auftragnehmer verwahrt die
+neue Sache unentgeltlich für den Besteller mit der Sorgfalt eines or-
+dentlichen Kaufmanns.
+11. Werkzeuge, Formen, Muster, Geheimhaltung
+11.1 Vom Besteller überlassene oder für diesen hergestellte Werkzeuge,
+Formen, Muster, Modelle, Profile, Zeichnungen, Normenblätter, Druck-
+vorlagen und Lehren dürfen ebenso wie danach hergestellte Gegen-
+stände ohne schriftliche Einwilligung des Bestellers weder an Dritte wei-
+tergegeben noch für andere als die vertraglichen Zwecke benutzt wer-
+den. Sie sind gegen unbefugte Einsichtnahme oder Verwendung zu si-
+chern. Vorbehaltlich weiterer Rechte kann der Besteller ihre Heraus-
+gabe verlangen, wenn der Auftragnehmer diese Pflichten verletzt.
+11.2 Der Auftragnehmer wird von und über den Besteller erlangte Kennt-
+nisse und Erfahrungen, Unterlagen, Aufgabenstellungen, Geschäfts-
+vorgänge oder sonstige Informationen sowie den Abschluss des Ver-
+trages und die Ergebnisse gegenüber Dritten - auch über die Dauer des
+Vertrages hinaus - vertraulich behandeln, solange und soweit diese
+nicht rechtmäßig allgemein bekannt geworden sind oder der Besteller
+im Einzelfall einer Weitergabe schriftlich zugestimmt hat. Der Auftrag-
+nehmer wird diese Informationen ausschließlich für die zur Erbringung
+der Leistungen erforderlichen Zwecke benutzen. Der Auftragnehmer
+stellt Informationen nur denjenigen Mitarbeitern zur Verfügung, die die
+Informationen für die Erfüllung ihrer Aufgaben benötigen, und stellt si-
+cher, dass diese Mitarbeiter auch einer Pflicht zur vertraulichen Be-
+handlung dieser Informationen unterliegen. Soweit der Besteller einer
+Weitergabe von Aufträgen an Dritte zugestimmt hat, sind diese entspre-
+chend schriftlich zu verpflichten.
+12. Forderungsabtretung
+Forderungsabtretung ist nur mit vorheriger schriftlicher Zustimmung
+des Bestellers zulässig.
+13. Besondere Rücktritts- und Kündigungsrechte
+13.1 Der Besteller ist über die gesetzlichen Rücktrittsrechte hinaus berech-
+tigt, ganz oder teilweise vom Vertrag zurückzutreten oder diesen zu
+kündigen, wenn a) der Auftragnehmer mit einer Lieferung oder Leistung
+in Verzug ist und dieser trotz Mahnung des Bestellers mehr als zwei
+Wochen nach Zugang der Mahnung andauert oder wenn b) dem Be-
+steller ein Festhalten am Vertrag aus einem sonstigen, in der Person
+des Auftragnehmers liegenden Grund unter Berücksichtigung der Um-
+stände des Einzelfalles und der beiderseitigen Interessen nicht mehr
+zugemutet werden kann, insbesondere, wenn eine wesentliche Ver-
+schlechterung der Vermögensverhältnisse des Auftragnehmers eintritt
+oder einzutreten droht und hierdurch die Erfüllung einer Liefer- und
+Leistungsverpflichtung gegenüber dem Besteller gefährdet ist.
+13.2 Der Besteller ist auch zur Kündigung berechtigt, wenn das Insolvenz-
+verfahren oder ein vergleichbares Verfahren über das Vermögen des
+Auftragnehmers beantragt oder eröffnet ist.
+13.3 Im Falle der Kündigung durch den Besteller kann der Besteller die für
+die Weiterführung der Arbeiten vorhandene Einrichtung oder bereits er-
+brachte Lieferungen und Leistungen des Auftragnehmers gegen ange-
+messene Vergütung in Anspruch nehmen.
+14. Code of Conduct für Auftragnehmer, Sicherheit in der Lieferkette
+14.1 Der Auftragnehmer ist verpflichtet, die Gesetze der jeweils anwendba-
+ren Rechtsordnung(en) einzuhalten. Insbesondere wird er sich weder
+aktiv noch passiv, direkt oder indirekt an jeder Form der Bestechung,
+der Verletzung der Grundrechte seiner Mitarbeiter oder der
+Frei verwendbar Seite 3 von 4Kinderarbeit beteiligen und er wird die Regelungen des Siemens
+Energy Code of Conduct einhalten und diese Erwartungen gegenüber
+seinen eigenen Lieferanten entlang seiner Lieferkette angemessen ad-
+ressieren. Er wird im Übrigen Verantwortung für die Gesundheit und
+Sicherheit seiner Mitarbeiter am Arbeitsplatz übernehmen und die an-
+wendbaren Bestimmungen zum Mindestlohn einhalten. Unter Beach-
+tung der anwendbaren Umweltschutzgesetze wird er ferner angemes-
+sene Maßnahmen treffen, um den Einsatz sog. Konfliktmineralien zu
+vermeiden und Transparenz über die Herkunft der entsprechenden
+Rohstoffe herzustellen. Der Auftragnehmer ist verpflichtet, für seine Ar-
+beitnehmer einen Beschwerdemechanismus einzurichten, um mögli-
+che Verstöße gegen diesen Code of Conduct melden zu können, und
+er wird für die Einhaltung dieses Code of Conducts angemessene Maß-
+nahmen ergreifen, um zu erreichen, dass seine Lieferanten die Grund-
+prinzipien dieses Code of Conducts einhalten und dies risikobasiert
+überprüfen. Der Auftragnehmer wird die Einhaltung des Code of
+Conducts sorgfältig dokumentieren. Der Besteller oder ein von ihm be-
+nannter und für den Aufragnehmer zumutbarer Dritter haben das Recht,
+jedoch nicht die Verpflichtung, bei dem Auftragnehmer und in dessen
+Liegenschaften Überprüfungen durchzuführen, um die Einhaltung der
+vertraglichen Verpflichtungen sowie des Code of Conducts nachzuprü-
+fen. Diese Überprüfungen werden unter Einhaltung der jeweiligen Da-
+tenschutzbestimmungen sowie der Vertraulichkeitsverpflichtungen des
+Auftragnehmers gegenüber Dritten und unter angemessener Berück-
+sichtigung des Geschäftsbetriebes des Auftragnehmers durchgeführt.
+Der Auftragnehmer wird bei den Überprüfungen mitwirken und den Be-
+steller angemessen unterstützen. Außerdem wird er unverzüglich Ab-
+hilfemaßnahmen einleiten, sobald er von einem Verstoß gegen den
+Code of Conduct durch sich selbst oder einen Unterauftragnehmer
+Kenntnis erlangt und er wird den Besteller, sofern dieses Vertragsver-
+hältnis betroffen ist, unverzüglich über den Verstoß und die Abhilfemaß-
+nahmen informieren.
+14.2 Der Auftragnehmer trifft die erforderlichen organisatorischen Anweisun-
+gen und Maßnahmen insbesondere in den Bereichen Objektschutz,
+Geschäftspartner-, Personal- und Informationssicherheit, Verpackung
+und Transport, um die Sicherheit in der Lieferkette gemäß den Anfor-
+derungen entsprechender international anerkannter Initiativen auf
+Grundlage des WCO SAFE Framework of Standards (z. B. AEO, C-
+TPAT) zu gewährleisten. Er schützt seine Lieferungen und Leistungen
+an den Besteller oder an vom Besteller bezeichnete Dritte vor unbefug-
+ten Zugriffen und Manipulationen. Er setzt für solche Lieferungen und
+Leistungen ausschließlich zuverlässiges Personal ein und verpflichtet
+etwaige Unterauftragnehmer, ebenfalls entsprechende Maßnahmen zu
+treffen.
+14.3 Verstößt der Auftragnehmer schuldhaft gegen die Verpflichtungen aus
+Ziffer 14, so ist der Besteller unbeschadet weiterer Ansprüche berech-
+tigt, vom Vertrag zurückzutreten oder den Vertrag zu kündigen. Sofern
+die Beseitigung der Pflichtverletzung möglich ist, darf dieses Recht erst
+nach fruchtlosem Verstreichen einer angemessenen Frist zur Beseiti-
+gung der Pflichtverletzung ausgeübt werden.
+15. Produktkonformität, produktbezogener Umweltschutz mit Stoff-
+deklaration, Gefahrgut, Arbeitssicherheit
+15.1 Liefert der Auftragnehmer Produkte, die gesetzlichen und sonstigen
+rechtlichen Anforderungen im Hinblick auf ihr Inverkehrbringen und die
+weitere Vermarktung im Europäischen Wirtschaftsraum oder entspre-
+chenden Anforderungen in anderen vom Besteller mitgeteilten Verwen-
+dungsländern unterliegen, dann stellt er sicher, dass die Produkte zum
+Zeitpunkt des Gefahrübergangs (siehe Ziffer 4.1) diesen Anforderun-
+gen genügen. Der Auftragnehmer stellt ferner sicher, dass sämtliche
+Dokumente und Informationen, die für den Nachweis der Konformität
+der Produkte mit den zutreffenden Anforderungen erforderlich sind,
+dem Besteller auf Anfrage unverzüglich zur Verfügung gestellt werden.
+15.2 Liefert der Auftragnehmer Produkte, deren Produktbestandteile in der
+jeweils zum Zeitpunkt der Bestellung aktuell gültigen „Liste Deklarati-
+onspflichtiger Stoffe ( www.bomcheck.net/suppliers/restricted-and-
+declarable-substances-list )“ aufgeführt sind oder die aufgrund von Ge-
+setzen stofflichen Restriktionen und/oder stofflichen Informationspflich-
+ten unterliegen (z. B. REACH, RoHS), hat der Auftragnehmer diese
+Stoffe spätestens zum Zeitpunkt der ersten Lieferung der Produkte in
+der Internetdatenbank BOMcheck ( www.BOMcheck.net ) samt der dort
+geforderten Informationen zu deklarieren. Das Vorstehende gilt im Hin-
+blick auf Gesetze nur insoweit, als diese am Geschäftssitz des Auftrag-
+nehmers oder des Bestellers oder am vom Besteller benannten Bestim-
+mungsort Anwendung finden.
+15.3 Enthält die Lieferung Güter, die gemäß den internationalen Regelungen
+als Gefahrgut zu klassifizieren sind, teilt der Auftragnehmer dies dem
+Besteller spätestens mit Auftragsbestätigung in einer zwischen Auftrag-
+nehmer und Besteller vereinbarten Form mit. Die Anforderungen zu Ge-
+fahrgut in Ziffer 4.4 und 4.5 bleiben hiervon unberührt.
+15.4 Der Auftragnehmer ist verpflichtet, alle gesetzlichen und vertraglichen
+Unfallverhütungs- und Arbeitsschutzbestimmungen einzuhalten. Er hatsicherzustellen, dass eine Gefährdung der Gesundheit und Sicherheit
+des von ihm und seinen direkten und indirekten Nachunternehmern zur
+Erbringung der Leistungen eingesetzten Personals ausgeschlossen ist .
+15.5 Der Auftragnehmer stellt auf Anfrage des Bestellers alle erforderlichen
+Daten und Informationen gemäß den gesetzlichen Bestimmungen der
+EU Carbon Border Adjustment Mechanism Regulierung (CBAM) recht-
+zeitig zur Verfügung, um die externen Verpflichtungen des Bestellers
+zu erfüllen. Die neuesten Entwicklungen der CBAM sowie die Leitlinien
+können der offiziellen EU Carbon Border Adjustment Mechanism Web-
+seite entnommen werden; derzeit verfügbar unter folgendem Link: Car-
+bon Border Adjustment Mechanism (europa.eu) .
+16. Informationssicherheit/Cybersecurity
+16.1 Der Auftragnehmer hat angemessene organisatorische und technische
+Maßnahmen zu treffen, um die Vertraulichkeit, Authentizität, Integrität
+und Verfügbarkeit des Betriebs des Auftragnehmers sowie seiner Lie-
+ferungen und Leistungen sicherzustellen. Diese Maßnahmen sollen
+branchenüblich sein und ein angemessenes Managementsystem für
+Informationssicherheit in Übereinstimmung mit Standards wie ISO/IEC
+27001 oder IEC 62443 (soweit anwendbar) beinhalten.
+16.2 „Betrieb des Auftragnehmers“ bedeutet alle Güter, Prozesse und Sys-
+teme (einschließlich Informationssysteme), Daten (einschließlich Kun-
+dendaten), Mitarbeiter und Standorte, die zeitweise für die Durchfüh-
+rung dieses Vertrages verwendet oder verarbeitet werden.
+16.3 Sofern Lieferungen oder Leistungen Software, Firmware oder Chip-
+sätze beinhalten,
+16.3.1 wird der Auftragnehmer angemessene, branchenübliche Standards,
+Prozesse und Methoden in Übereinstimmung mit Standards wie
+ISO/IEC 27001 oder IEC 62443 (soweit anwendbar) implementieren,
+um jegliche Schwachstellen, Schadcode und sicherheitsrelevante Er-
+eignisse in den Lieferungen und Leistungen zu verhindern, zu identifi-
+zieren, zu bewerten und zu beheben;
+16.3.2 wird der Auftragnehmer für den Zeitraum einer angemessenen Lebens-
+dauer der Lieferungen und Leistungen Reparatur-, Update-, Upgrade-
+und sonstige Pflegeleistungen anbieten und Patches zur Verfügung
+stellen, um Schwachstellen zu beheben;
+16.3.3 wird der Auftragnehmer dem Besteller eine Stückliste zur Verfügung
+stellen, aus der sich alle Softwarekomponenten Dritter ergeben, die in
+den Lieferungen und Leistungen verwendet werden. Softwarekompo-
+nenten Dritter müssen zum Zeitpunkt der Lieferung auf dem aktuellen
+Stand sein;
+16.3.4 ist der Besteller berechtigt, jedoch nicht verpflichtet, die Lieferungen
+und Leistungen jederzeit selbst oder durch Dritte auf Schadcode und
+Schwachstellen zu testen, wobei der Auftragnehmer den Besteller in
+angemessener Weise unterstützen wird;
+16.3.5 wird der Auftragnehmer dem Besteller einen Kontakt für Themen der
+Informationssicherheit (erreichbar während der Geschäftszeiten) be-
+nennen.
+16.4 Der Auftragnehmer wird den Besteller unverzüglich über alle sicher-
+heitsrelevanten Ereignisse, die aufgetreten sind oder vermutet werden,
+und den Betrieb des Auftragnehmers oder die Lieferungen oder Leis-
+tungen betreffen, informieren, wenn und soweit der Besteller hiervon
+tatsächlich oder wahrscheinlich wesentlich betroffen ist.
+16.5 Der Auftragnehmer wird entsprechende Maßnahmen treffen, um sei-
+nen Unterauftragnehmern und Lieferanten innerhalb eines angemesse-
+nen Zeitraums Verpflichtungen aufzuerlegen, die den Verpflichtungen
+in dieser Ziffer 16 entsprechen.
+16.6 Auf Anforderung des Bestellers wird der Auftragnehmer seine Einhal-
+tung der Bestimmungen dieser Ziffer 16 durch schriftliche Nachweise,
+einschließlich allgemein anerkannter Prüfberichte (beispielsweise
+SSAE-16 SOC2 Type II) bestätigen.
+17. Bestimmungen über Ausfuhrkontroll- und Außenhandelsdaten
+17.1 Der Auftragnehmer hat alle Anforderungen des anwendbaren nationa-
+len und internationalen Zoll- und Außenwirtschaftsrechts („Außenwirt-
+schaftsrecht“) zu erfüllen. Der Auftragnehmer sichert insbesondere zu,
+dass keine der unter dem Vertrag zu liefernden Waren oder zu erbrin-
+genden Dienstleistungen Einfuhrbeschränkungen oder -verboten ge-
+mäß Außenwirtschaftsrecht unterliegen. Im Sinne dieses Abschnittes
+umfasst das Außenwirtschaftsrecht in jedem Fall die Verordnungen
+(EU) Nrn. 833/2014, 692/2014, 2022/263 und 765/2006, jeweils in ihrer
+geltenden Fassung, sowie die von der U.S. Zollbehörde (U.S. Customs
+and Border Protection) überwachten Einfuhrbeschränkungen. Der Auf-
+tragnehmer hat dem Besteller spätestens zwei Wochen nach Bestel-
+lung sowie bei Änderungen unverzüglich alle Informationen und Daten
+schriftlich mitzuteilen, die der Besteller zur Einhaltung des Außenwirt-
+schaftsrechts bei Aus-, Ein- und Wiederausfuhr benötigt, insbesondere:
+-alle anwendbaren Ausfuhrlistennummern einschließlich der Export
+Control Classification Number gemäß der U.S. Commerce Control
+List (ECCN);
+-die statistische Warennummer gemäß der aktuellen Wareneintei-
+lung der Außenhandelsstatistiken und den HS (Harmonized Sys-
+tem) Code einschließlich der jeweiligen Zolltarifgrundlage, auf der
+Frei verwendbar Seite 4 von 4die Einreihung der Ware vorgenommen wurde (z. B. Kombinierte
+Nomenklatur der EU, TARIC, US HTS); und
+-Ursprungsland (nichtpräferenzieller Ursprung) sowie die Ur-
+sprungsregion, falls für das jeweilige Ursprungsland zutreffend; Ur-
+sprungsnachweis (z.B. Packliste, Lieferschein, BOL, GAI); und
+-sofern vom Besteller gefordert, Lieferantenerklärungen zum präfe-
+renziellen Ursprung (bei europäischen Lieferanten) oder Zertifikate
+zur Präferenz (bei nichteuropäischen Lieferanten) und
+-sofern vom Besteller gefordert: Nachweis über das Ursprungsland
+der Eisen- und Stahlvorprodukte, die für die Verarbeitung der Liefe-
+rungen, verwendet wurden.
+Im Falle der Nichteinhaltung von Pflichten nach dieser Ziffer 17.1 haf-
+tet der Aufragnehmer für die Erstattung sämtlicher Aufwendungen und
+Schäden, die dem Besteller aus der Pflichtverletzung entstehen.
+17.2 Verbot der Wiederausfuhr nach Russland („No-Russia-Clause“)
+Die nachstehende Regelung greift nur für Verträge, in denen (i) der Be-
+steller dem Auftragnehmer Güter oder Technologie für die Durchfüh-
+rung des Vertrages beistellt, (ii) solche Güter oder Technologien gemäß
+den in Anlagen zu Art. 12 g EU Richtlinie No. 833/2014 und Art. 8g EU
+Regulation No. 765/2006 in der jeweils gültigen Fassung aufgeführten
+Güter oder sich auf diese beziehen und (iii) die Lieferung in ein Land
+erfolgt, das kein EU-Mitgliedsland oder Partnerland gemäß der entspre-
+chenden Anlage zu Artikel 12 g EU Regulation No. 833/2014 und Art.
+8g EU Regulation No. 765/2006 in der jeweils gültigen Fassung:
+-Der Besteller untersagt dem Auftragnehmer und der Auftragnehmer
+verpflichtet sich, die nach diesem Vertrag durch den Besteller dem
+Auftragnehmer beigestellten Güter, sowie zur Verfügung gestellte
+Technologie (inklusive der dazugehörigen Dokumentation, unab-
+hängig von der Art und Weise der Zurverfügungstellung) weder di-
+rekt noch indirekt nach Russland oder Belarus oder zur Verwen-
+dung in Russland oder Belarus wiederauszuführen oder weiterzu-
+leiten.
+-Dem Besteller steht im Falle eines Verstoßes des Auftragnehmers
+gegen die Verpflichtung aus dieser Ziffer 17.2 ein außerordentliches
+Kündigungsrecht zu. Die Kündigung ist schriftlich gegenüber dem
+Auftragnehmer zu erklären. Der Auftragnehmer trägt im Falle einer
+solchen Kündigung alle dem Besteller in diesem Zusammenhang
+entstehenden Kosten und Schäden. In jedem Fall ist der Auftrag-
+nehmer verpflichtet, dem Besteller einen pauschalierten Schadens-
+ersatz in Höhe von 20 % des Vertragspreises zu zahlen.
+-Unbeschadet vorstehender Regelung in dieser Ziffer 17.2 stellt der
+Auftragnehmer den Besteller von allen Ansprüchen, die von Behör-
+den oder sonstigen Dritten gegenüber dem Besteller wegen eines
+Verstoßes durch den Auftragnehmer gegen die Verpflichtungen aus
+dieser Ziffer 17.2 geltend gemacht werden, in vollem Umfang frei
+und verpflichtet sich zum Ersatz aller dem Besteller in diesem Zu-
+sammenhang entstehenden Schäden und Aufwendungen.
+18. Vorbehaltsklausel
+Die Vertragserfüllung seitens des Bestellers steht unter dem Vorbehalt,
+dass der Erfüllung keine Hindernisse aufgrund von nationalen oder in-
+ternationalen Vorschriften des Außenwirtschaftsrechts sowie keine Em-
+bargos und/oder sonstige Sanktionen entgegenstehen.
+19. Benennung als Referenzkunde
+Der Auftragnehmer verpflichtet sich, nur mit vorheriger schriftlicher Zu-
+stimmung des Bestellers, den Besteller als Referenzkunden zu benen-
+nen und/oder mit Produkten zu werben, die er im Rahmen des Ver-
+tragsverhältnisses mit dem Besteller für diesen entwickelt hat, und/oder
+Pressemitteilungen oder sonstige öffentliche Verlautbarungen im Rah-
+men des Vertragsverhältnisses abzugeben.
+20. Ergänzende Bestimmungen
+20.1 Soweit die Bestellbedingungen keine Regelung enthalten, gelten die
+gesetzlichen Bestimmungen.
+20.2 Verletzt der Auftragnehmer seine Pflichten nach diesen Bedingungen,
+insbesondere nach den Ziffern 2, 3, 4, 7, 8, 14, 15, 16 und 17, trägt er
+sämtliche Aufwendungen und Schäden, die dem Besteller hieraus ent-
+stehen, es sei denn, der Auftragnehmer hat die Pflichtverletzung nicht
+zu vertreten.
+21. Gerichtsstand, anwendbares Recht
+21.1 Es gilt deutsches materielles Recht unter Ausschluss des UN-
+Kaufrechts vom 11. April 1980.
+21.2 Ausschließlicher Gerichtsstand ist München.
+22. Salvatorische Klausel
+Sollten Bestimmungen dieses Vertrages ganz oder teilweise unwirk-
+sam oder nicht durchführbar sein oder werden, so wird die Gültigkeit
+der übrigen Bestimmungen hierdurch nicht berührt. Anstelle der unwirk-
+samen oder undurchführbaren Bestimmung soll eine Regelung gelten,
+die, soweit rechtlich möglich, dem am nächsten kommt, was die Ver-
+tragspartner gewollt haben.

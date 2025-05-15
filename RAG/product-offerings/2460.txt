@@ -1,0 +1,221 @@
+As you can see in the picture above, the transformation of the 
+transportation industry, from one heavily dependent on fossil fuel 
+to an, at least, CO2neutral industry requires all kinds of different 
+technologies and solutions, for example eMethanol, which can 
+replace ship fuel as one of the worst fossil-based fuels in use today. 
+The clients of the big logistic carriers are already demanding a 
+change, to a climate friendly alternative to transport their goods. So, 
+the precondition for the transformation of the shipping industry was 
+never better than before, even though there is still a long way to go. 
+The Pulp & Paper industry can play an important role by using their 
+biogenic CO2 emissions to support this transformation.HHow can you make more out of How can you make more out of 
+                            your biogenic CO                            your biogenic CO 22??
+Engelbert Schrapp, Principal Corporate Account Manager, Siemens Energy
+Production from water, green electricity, and biogenic waste 
+gases 
+eMethanol is produced by chemically combining CO2 
+and hydrogen. First, hydrogen is produced by an electrolyzer. 
+The hydrogen is converted into methanol in a reactor by catalysis 
+with carbon dioxide (CO2). To produce ‘green’ (i.e. carbon-
+neutral) eMethanol, hydrogen from renewable energy is used, in 
+combination with biogenic CO2 . PAPERTECHNOLOGYINTERNATIONAL
+INTRODUCTION:  
+The answer to this question, which is asked inside the Pulp & Paper Industry more and more frequently, is given by Siemens Energy 
+and Liquid Wind, who partnered up to use renewable energy and biomass based (biogenic) CO2 to produce eMethanol for e.g., the shipping 
+industry.
+Methanol synthesis, based on green hydrogen and CO2 from biomass-based fl  ue gas, raises the prospect of a carbon-neutral 
+industrial system. As a fuel for mobility applications and feedstock for the chemical industry, green methanol can decisively drive the 
+de-fossilization of the shipping industry and other industry sectors. At the same time, integrating green methanol production into existing 
+industrial facilities, such as pulp mills or combined heat and power plants, creates an opportunity to re-use a valuable resource like 
+biomass-based CO2.
+
+The potential of this method lies in the fact that the biogenic 
+CO2 emitted from e.g. biomass-based boilers or a lime kiln, can be 
+obtained via a carbon-capture process. This process avoids the 
+emission of further climate-damaging carbon dioxide and uses it as 
+a valuable resource and raw material for a new green energy carrier, 
+like eMethanol, a sustainable energy. 
+In addition, methanol synthesis produces water, oxygen 
+(from the electrolyzers), and waste heat, which in turn can be used 
+within a closed-loop system in the pulp mills. Oxygen is a valuable 
+raw material in the pulp and paper industry for e.g. the bleaching 
+process, wastewater treatment, or effi  ciency increase of other 
+processes. The oxygen must be either produced on site with a high 
+energy expenditure, or must be bought as a raw material from the 
+market. Demineralized water from the Pulp & Paper process can be 
+used in the electrolysis process, where it serves as feedstock for 
+further hydrogen production. 
+Last, but not least, modern pulp mills are producing, due to 
+highly effi  cient process and state of the art technologies, much more 
+electrical energy than needed for the pulp production itself. Today 
+the surplus is either used in integrated pulp and paper mills (board 
+and paper production at the same location as the pulp mill), or sold 
+on the energy market for sometimes more, sometimes less profi  t. 
+This happens already e.g. in Uruguay, where a signifi  cant amount of 
+modern pulp mills went into operation during the last couple of years 
+(and therefore the market price for electrical power is rather low). 
+Integration of eMethanol production into the pulp production would 
+be even more effi  cient in such cases. The picture below shows an 
+example of how it could be integrated:Production on an industrial scale
+Against the background of energy transition and national/
+international climate targets, a worldwide, concentrated, expansion 
+of capacity for renewable energy is not only to be expected, but 
+essential. Effi  cient solutions that store renewable energy seasonally 
+in large quantities are vital, given the natural fl  uctuations in the 
+production of wind and solar power. 
+The production of eMethanol on an industrial scale offers 
+a promising and economical solution to this challenge. Electrolysis 
+from sustainable energy sources produces hydrogen, which is 
+converted into methanol by reaction with carbon dioxide. Like 
+gasoline or diesel, the liquid eMethanol is comparatively easy to 
+store, transport and use.
+The fi  rst pilot plants for this purpose, particularly in Iceland, 
+have now been in operation for several years.
+Proven “Power to X” portfolio from Siemens Energy
+The technologies required for all process steps in the 
+industrial production of eMethanol are already available and well-
+proven. In recent years, Siemens Energy has been developing 
+customized “Power to X” solutions for the decarbonization of various 
+industries, and established partnerships with the world’s leading 
+suppliers of e-fuel synthesis technologies. From wind power, green 
+hydrogen, and e-fuels production, to carbon-free re-electrifi  cation, 
+Siemens Energy benefi  ts from many years of experience in the oil 
+and gas industry, so that most of the relevant plant components 
+have been available, are proven in use and been established for 
+years. With the “Proton Exchange Membrane” (PEM) electrolysis, 
+Siemens Energy is a leading supplier for the most promising 
+Electrolyzer technology for sustainable hydrogen production. This 
+PEM-technology, in comparison to the classical Alkaline Technology, 
+matches perfectly to cope with the highly volatile renewable energy 
+market, and just needs power and water, and no additional toxic 
+chemicals, for the production of green hydrogen.PAPERTECHNOLOGYINTERNATIONAL
+
+PAPER TECHNOLOGY INTERNATIONAL
+Siemens Energy has been a leading supplier for 
+Electrification, Automation, and Digitalization solutions in the pulp 
+and paper industry for decades, is well connected in the landscape 
+of the global pulp and paper community, and therefore is a perfect 
+match for the add on of Power2X or eFuel projects, such as Liquid 
+Wind, into existing or new pulp and paper mills. Beyond this, 
+Siemens Energy is also implementing for the Liquid Wind project 
+the same Automation System, PCS7, the same drives, motors, 
+transformers, switchgears, and other electrification equipment as 
+has been used for years in countless pulp and paper mills around 
+the world. Also, COMOS will play a significant role as the backbone 
+of the entire Liquid Wind approach: implementing the Data Digital 
+Twin, SIMIT, and other simulation tools, will help to generate the 
+Process Digital Twin for the entire production chain of eMethanol. In 
+addition, a Digitalization toolbox will prepare the production facilities 
+for Autonomous Operations and Predictive/Remote maintenance 
+services.
+Global roll-out of a model project
+Liquid Wind, a Swedish power-to-fuel development 
+company, is currently planning the worldwide first large-scale 
+industrial roll-out of eMethanol production facilities. The first plants 
+will be built in Sweden, with additional plans to roll out the so-called 
+Flagship facilities in Europe and on a global scale, in partnership 
+with pulp and paper mills and CHP plants. The eMethanol produced 
+can be used to power all kinds of ships, and replace marine fuel oil. 
+Ten Flagships, with an annual production volume of a 
+minimum 50,000 metric tons of eMethanol each are to be built 
+by 2030. The company is planning to scale rapidly, targeting the 
+development and implementation of 500 plants worldwide by 2050. 
+The production facilities will use Siemens Energy’s Electrolyzer of 
+the newest generation, Silyzer 300, which is highly adaptive and 
+matching the requirements of the specific value chains.
+This scaling is made possible thanks to a standardized and 
+modular facility model, based on the latest digitalization technology, 
+for the efficient replication of eMethanol facilities. The entire planning 
+and integration are carried out with the help of licensing, a so-called 
+Digital Twin, for data (COMOS), process and operations, which is 
+also provided by the Siemens Ecosystem. This means that all plants 
+can be planned, tested, and efficiently operated via Digital Twin 
+implementations. This offers great development opportunities for 
+scaling up in countries that are rich in renewable energy and, with 
+the synthesis from hydrogen and CO2, meet the growing demand for 
+green methanol.Closed production cycles
+Liquid Wind’s first eMethanol plant, FlagshipONE, will be co-located 
+with a combined heat and power plant (CHP) from Övik Energy 
+in Örnköldsvik, north-east Sweden, making use of biogenic CO2, 
+sustainable energy, and other utilities. The biomass-based flue 
+gases will form the green raw material for a carbon neutral fuel. In 
+the process, the CO2 for the methanol synthesis is captured from 
+the plant’s biomass-based flue gas. The purified water is used 
+for the hydrogen electrolysis, as is the water produced as a by-
+product during the methanol synthesis. The waste heat is used to 
+concentrate the CO2. 
+The pulp and paper industry is an ideal industry partner for the 
+production of eMethanol for several reasons:
+1. The oxygen produced can be returned to the pulp mill 
+or CHP.
+2. Mills can use the on-site eMethanol to replace diesel 
+for trucks, fork lifters or caterpillars in their distribution 
+chain to further reduce CO2 emissions.
+Each Liquid Wind facility will produce 50,000 tons of 
+eMethanol per year. To achieve this, 75 MW of renewable energy 
+from wind power will be used to produce green hydrogen, and 
+70,000 tons of industrial CO2 will be upcycled. 
+Four Siemens Silyzer 300 units will be used as Electrolyzers 
+for producing hydrogen. Siemens Energy is also responsible for the 
+plant-wide electrification, instrumentation & automation, including 
+engineering and services, as well as digitalization with Digital Twin 
+implementation, Industrial Internet of Things (IIoT), analytics, and AI 
+applications. Production from FlagshipONE in Sweden is scheduled 
+to start at the beginning of 2024. 
+
+PAPER TECHNOLOGY INTERNATIONAL
+eMethanol, a green alternative for marine propulsion and 
+industry
+eMethanol is a sustainable fuel option, especially for 
+ship propulsion systems, that are predominantly operated using 
+so-called ‘marine diesel’ (heavy fuel oil). Due to marine diesel’s 
+poor ecological assessment, its use cannot be reconciled with 
+international climate targets. 
+Of the approximately 98 million metric tons of methanol 
+produced worldwide each year, around 85% is used as a feedstock 
+in the chemical industry, for synthesis, or as a solvent. Several 
+countries, for example Taiwan, import large quantities of methanol 
+for their chemical industry. At the same time, it is those countries 
+with few raw materials that are investing heavily in renewable 
+energy, such as photovoltaics and wind power. The synthesis of 
+methanol, based on hydrogen and CO2, offers these markets the 
+opportunity to substitute the demand for their own industry.
+Fair competition needs fair conditions
+The integration of eMethanol production can already be 
+made economically profitable in many industrial areas. Furthermore, 
+all technologies are available at the required scale and have 
+been proven over many years, as the Siemens Energy portfolio 
+proves, from technical applications to the complete digital toolset. 
+Research and development costs are therefore limited to optimizing 
+existing technologies, achieving an even higher level of integrated 
+operations, and maximizing the use of Digitalization tools. 
+The widespread success of eMethanol as a raw material and 
+energy carrier essentially depends on whether it can be offered at 
+competitive market conditions. Above all, this requires appropriate 
+legal and fiscal framework conditions for carbon-neutral methanol. 
+To date, synthetic fuels have generally been more expensive for the 
+consumer than fossil or oil-based energy sources and fuels. Fossil fuels are subsidized to a large extent, and 
+have historically been offered tax breaks. For example, the 
+environmentally harmful marine diesel is not subject to CO2 tax and 
+can be used tax-free, in accordance with Section 27 of the German 
+Energy Tax Act (EnergieStG).tax breaks. 
+To make lower-carbon and zero-carbon alternatives 
+attractive, and help the corresponding technologies achieve a 
+breakthrough, economic incentives and tax relief are needed, as the 
+example of successful wind power subsidies shows.
+Solutions to climate policy challenges
+In the short and medium term, the production of eMethanol 
+from renewable energy offers the opportunity to establish new, 
+largely carbon-neutral economic cycles. 
+In the long term, the conversion of renewable energy 
+reserves into eMethanol, hand in hand with other application-
+specific technologies, such as hydrogen, and an expansion of 
+power grids, raises the prospect of an energy economy that is no 
+longer dependent on fossil fuels. Not only will this avoid greenhouse 
+gas emissions, it will in fact also absorb CO2 as a raw material for 
+applications in industry, mobility, and energy.
+A methanol economy, based on renewable energies, 
+therefore creates the solutions for many environmental challenges 
+which, although already addressed in some way today, require a 
+better conceived and far more integrated approach. 
+Figure 1: FlagshipONE Visualisation, Örnsköldsvik, Sweden

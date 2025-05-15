@@ -1,0 +1,1769 @@
+Unrestrictedsiemens-energy.com
+SpecTRON 8
+Installasjons- og driftshåndbok
+Dokumentnr.: DOC0075
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 2av62
+Unrestricted
+Forord
+Takk for at du kjøpte et Siemens Energy Subsea Connectors SpecTRON 8-produkt. Den følgende
+informasjonen er en oversikt over instruksjoner for beskyttelse, lagring, forsendelse, utpakking, distribusjon
+og vedlikehold av SpecTRON 8-produkter.
+Siemens Subsea Connectors anbefaler at terminering og installasjon av alt utstyr bare utføres av personell
+med egnet opplæring og kvalifikasjoner.
+Revisjonssammendrag
+Denne siden inneholder revisjonsstatus for hele dokumentet og dets autorisasjon for utstedelse. Der én eller
+flere sider i dokumentet er revidert, angis berørte sidetall i kolonnen Berørte sider/Merknader, og det vises
+en vertikal linje i margen mot den sist endrede teksten.
+Rev. Utarbeidet av Godkjent av Utgitt dato Berørte sider/merknader
+Se TeamCenters revisjonshistorikk for tidligere revisjonshistorikk
+14 C. Plant N. Williamson 20.12.2021 Oppdatert i henhold til Siemens Energy-mal og
+produktsikkerhetsfokusert layout
+Tilpasset innhold med SpecTRON 10, 10+ og 45 IoM for
+konsistens
+Lagt til informasjon om slangehåndtering/-ruting
+Lagt til rengjørings-/tørkeanvisninger (avsnitt 8.1)
+15 C. Plant N. Williamson 24.03.2022 Lagt til spenningsspesifikasjoner i kabeldata (punkt 4.4)
+16 R. Duffy N. Williamson 28.10.2022 Avsnitt 1.1: Oppdatert for å gjenspeile overgang til IEC-
+standard. Avsnitt 6.3: Korrigert henvisningen til
+rengjøringsinstruksjonene for konnektoren (avsnitt 8.1).
+Avsnitt 6.4: Oppdatert for å klargjøre og korrigere
+veiledningen til slangehåndtering. Opprettet nytt avsnitt
+for MUTU-kabelhåndtering (avsnitt 6.5).
+Avsnitt 6.4.2: Henvisning til jumperlengde endret fra 15
+m til 30 m
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 3av62
+Unrestricted
+Innhold
+1 PRODUKTOMFANG ..................................................................................................... 6
+1.1 Produktsertifisering ............................................................................................ 6
+1.2 Kontaktopplysninger .......................................................................................... 6
+1.3 Etikett med produktråd ...................................................................................... 7
+1.4 Produktmerking .................................................................................................. 8
+1.5 CE-etikett/-merking ............................................................................................ 8
+2 PRODUKTSIKKERHET ................................................................................................... 9
+2.1 Handlingsrelaterte advarsler .............................................................................. 9
+2.2 Bruksområde ...................................................................................................... 9
+2.3 Generell sikkerhetsinformasjon ....................................................................... 10
+2.4 Relaterte dokumenter ...................................................................................... 13
+3 FORKORTELSER ......................................................................................................... 15
+4 SPESIFIKASJONER OG RESTRISIKO ............................................................................. 17
+4.1 Generelle konnektorspesifikasjoner ................................................................. 17
+4.2 Innrettingstoleranse for wet mate stab-konnektorer ...................................... 18
+4.3 Slangespesifikasjoner ....................................................................................... 19
+4.4 Kabelspesifikasjoner ......................................................................................... 19
+4.5 Andre spesifikasjoner ....................................................................................... 20
+4.6 Miljø, avfallshåndtering og resirkulering .......................................................... 21
+4.7 Personlig verneutstyr (PVU) ............................................................................. 21
+5 KLARGJØRE PRODUKTET FOR BRUK .......................................................................... 22
+5.1 Sikkerhetstiltak før installasjon ........................................................................ 22
+5.2 Utpakking ......................................................................................................... 24
+5.3 Sikker kassering av emballasje ......................................................................... 27
+5.4 Løfting ............................................................................................................... 27
+5.5 Installasjon og montering ................................................................................. 30
+5.6 Oppbevaring og beskyttelse ............................................................................. 30
+5.7 Ompakking for å hindre skade under transport ............................................... 32
+6 BRUK AV PRODUKTET ............................................................................................... 33
+6.1 Strømførende Wet Mate-par ............................................................................ 33
+6.2 Utplassering ...................................................................................................... 33
+6.3 Gjenvinning....................................................................................................... 33
+6.4 Slangehåndtering og -ruting ............................................................................. 34
+6.5 MUTU-kabelhåndtering .................................................................................... 39
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 4av62
+Unrestricted
+6.6 ROV-manipulator .............................................................................................. 39
+6.7 Tilkobling av ROV Wet Mate Pair Subsea ......................................................... 41
+6.8 Koble fra ROV Wet Mate Pair Subsea ............................................................... 45
+6.9 Koble til ROV Wet Mate Pair manuelt / på overflaten ..................................... 47
+6.10 Koble fra ROV Wet Mate Pair manuelt / på overflaten .................................... 49
+6.11 Testkonnektorer ............................................................................................... 50
+6.12 Testing .............................................................................................................. 53
+6.13 Hurtigreferanser ............................................................................................... 54
+6.14 Kassering av avfallsprodukter........................................................................... 54
+7 BRUKERINFORMASJON ............................................................................................. 55
+7.1 Normal og feil/farlig drift ................................................................................. 55
+7.2 Katodisk beskyttelse ......................................................................................... 55
+7.3 Feilsøking (vanlige spørsmål)............................................................................ 56
+8 PRODUKTVEDLIKEHOLD ............................................................................................ 57
+8.1 Rengjøring og tørking av konnektor ................................................................. 57
+8.2 Produktvedlikehold (faglærte personer) .......................................................... 59
+9 KUNDEKOMMENTARER/TILBAKEMELDINGER .......................................................... 61
+Tabeller
+Tabell 1 – relevante standarder for SpecTRON 8-produktet ............................................................... 6
+Tabell 2 – Kontaktinformasjon ........................................................................................................... 6
+Tabell 3 – Generelle spesifikasjoner for SpecTRON 8-konnektorer .................................................. 17
+Tabell 4 – Innrettingstoleranse for SpecTRON 8 Stab-konnektor ..................................................... 18
+Tabell 5 – SpecTRON 8 slangespesifikasjoner ................................................................................... 19
+Tabell 6 – SpecTRON 8 kabelspesifikasjoner (4-16 mm²) .................................................................. 20
+Tabell 7 – SpecTRON 8 kabelspesifikasjoner (35 mm²) ..................................................................... 20
+Tabell 8 – Kontaktopplysninger for produktfeilsøking ...................................................................... 56
+Illustrasjoner
+Figur 1 – Etikett med produktråd ....................................................................................................... 7
+Figur 2 – Eksempel på merking for SpecTRON 8-produkter ................................................................ 8
+Figur 3 – Eksempel på kabelnettmerking ............................................................................................ 8
+Figur 4 – SpecTRON 8 strømklassifisering ......................................................................................... 18
+Figur 5 – SpecTRON 8 kabelnett, typisk emballasje .......................................................................... 22
+Figur 6 – Valgfri plastemballasje av polyetylen ................................................................................ 23
+Figur 7 – ROV-plugghette ................................................................................................................. 24
+Figur 8 – ROV-konnektorhette.......................................................................................................... 25
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 5av62
+Unrestricted
+Figur 9 – Fjerne Tree Cap-penetrator / plugg fra kilehette ............................................................... 25
+Figur 10 – Fjerne Tree Cap-penetrator / pluggbeskyttelseshette ..................................................... 26
+Figur 11 – Fjerne Tree Cap-penetrator / pluggsplitthylse ................................................................. 26
+Figur 12 – ROV-hunnkonnektor – Penetrator – Tree Cap-pluggjumper ............................................ 27
+Figur 13 – Anbefalt løftepunkt – ROV-hunnkonnektor ..................................................................... 28
+Figur 14 – Anbefalte løftepunkter – ROV-plugg (uten/med låsemekanisme) ................................... 28
+Figur 15 – Anbefalte løftepunkter for Tree Cap-penetrator / plugg (versjon 1) ................................ 29
+Figur 16 – Anbefalte løftepunkter for Tree Cap-penetrator / plugg (versjon 2) ................................ 29
+Figur 17 – Anbefalte løftepunkter - Dobbel penetrator .................................................................... 29
+Figur 18 – AquaTRON (venstre) og Gorilla (høyre) slanger ved minste bøyeradius .......................... 34
+Figur 19 – Feil bøyd AquaTRON- (oransje) og Gorilla- (gul) slange.................................................... 35
+Figur 20 – Plateformer ...................................................................................................................... 35
+Figur 21 – «U»-former ...................................................................................................................... 35
+Figur 22 – «L»-former ....................................................................................................................... 36
+Figur 23 – «U»-former ...................................................................................................................... 36
+Figur 24 – Midlertidig festet former (f.eks. for SIT på overflaten) .................................................... 36
+Figur 25 – «L»-former ....................................................................................................................... 37
+Figur 26 – Produsert stativ med former til slangeoppstøtting .......................................................... 37
+Figur 27 – Potensiell fastklemming av slangen på føyelig konnektor ............................................... 38
+Figur 28 – Nødvendig lengde for rett kabel og MUTU-klemmeposisjon ........................................... 39
+Figur 29 – Anbefalt ROV-manipulatorkjeft for T-håndtak ................................................................. 39
+Figur 30 – Håndtering av ROV-konnektor (uten og med låsemekanisme) ........................................ 40
+Figur 31 – Anbefalt ROV-manipulatorkjeft for fiskehalehåndtak...................................................... 40
+Figur 32 – Håndtering av ROV-konnektor ......................................................................................... 40
+Figur 33 – Visuelle innrettingsindikatorer på plugg og hunnkonnektor (belagte konnektorer) ........ 41
+Figur 34 – Kilespor for fysisk innretting i forhold til visuell indikator (konnektorer uten belegg) ..... 42
+Figur 35 – Endelig skyveoperasjon med åpne kjefter ....................................................................... 42
+Figur 36 – Innrettingsindikatorer (konnektorer med låsemekanisme) ............................................. 43
+Figur 37 – Kontroll av sammenkobling – Fullstendig sammenkoblet. (OBS! Liten åpning mellom
+flensene) 43
+Figur 38 – Kontroll av sammenkobling – Låsemekanisme i inngrep.................................................. 44
+Figur 39 – Låsemekanisme frakoblet ................................................................................................ 46
+Figur 40 – Sammenkobling med ROV-håndtak ................................................................................. 48
+Figur 41 – Kontroller at konnektorene er sammenkoblet ................................................................. 48
+Figur 42 – Tilkoblingspunkter for kabelnett med løse kabler............................................................ 51
+Figur 43 – Innrettingsindikatorer (testkonnektorer på overflaten) .................................................. 51
+Figur 44 – SpecTRON 8 test-hunnkonnektor med krage, bolt og mutre ........................................... 52
+Figur 45 – Hunnkonnektorkomponenter for tørking og rengjøring .................................................. 58
+Figur 46 – Spiss på hunnkonnektorpinne .......................................................................................... 58
+Figur 47 – Hunnkonnektorpinnens kontaktområde, som levert ....................................................... 58
+Figur 48 – Områder som kan høytrykksvaskes på SpecTRON 8 plugg ............................................... 59
+Figur 49 – Områder som kan høytrykksvaskes på SpecTRON 8 hunnkonnektor ............................... 60
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 6av62
+Unrestricted
+1 PRODUKTOMFANG
+Denne håndboken inneholder informasjon om følgende SpecTRON 8-konnektortyper:
+-SpecTRON 8 ROV Wet Mate-plugg
+-SpecTRON 8 ROV Wet Mate-hunnkonnektor
+-SpecTRON 8 Stab Wet Mate-plugg
+-SpecTRON 8 Stab Wet Mate-hunnkonnektor
+-SpecTRON 8 Penetrator
+-SpecTRON 8 Dual Penetrator
+-SpecTRON 8 Single Feed-through
+oTree Cap-penetrator og plugg
+oHunnkonnektor for slangeoppheng
+-SpecTRON 8 Dual Feed-through
+oTree Cap-penetrator og plugg
+oHunnkonnektor for slangeoppheng
+-SpecTRON 8 ROV blindkonnektorer
+-SpecTRON 8 ROV parkeringshunnkonnektor
+1.1 Produktsertifisering
+Standard Beskrivelse
+IEC/IEEE 61886-1 Subsea-utstyr – Del 1: Strømkonnektorer, penetratorer og jumperenheter med
+nominell spenning fra 3 kV (U maks. = 3,6 kV) til 30 kV (U maks.= 36 kV)
+Merk: For mer informasjon, se «ERP for SpecTRON 8 samsvar med IEC/IEEE 61886-1» (Siemens Energy-
+dokument 10154569) og «Produktbulletin for SpecTRON IEC 61886-1-implementering» (Siemens Energy-
+dokument 10225662).
+Tabell 1 – relevante standarder for SpecTRON 8-produktet
+1.2 Kontaktopplysninger
+For ytterligere informasjon eller spørsmål om produktene, besøk nettstedet for Siemens Energy på
+www.siemens-energy.com/subsea eller kontakt følgende:
+Avdeling E-postadresse
+Product Safety Officer subsea.connectors.productsafety.gb@siemens -energy.com
+Teknisk støtte connectortechnicalsupport.gb@siemens-energy.com
+Service (anleggsteam) susultlcmsupport.gb@siemens-energy.com
+Salg connectorsales.gb@siemens-energy.com
+Tabell 2 – Kontaktinformasjon
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 7av62
+Unrestricted
+1.3 Etikett med produktråd
+Følgende etikett med produktråd leveres med alle Siemens Energy Subsea-produkter.
+Figur 1 – Etikett med produktråd
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 8av62
+Unrestricted
+1.4 Produktmerking
+1.4.1 Konnektorer og penetratorer
+Figur 2 – Eksempel på merking for SpecTRON 8-produkter
+Siemens Energy Subsea SpecTRON 8-konnektorer og penetratorer er lasermerket på nippelhuset med
+Siemens Energy-delenummer, unikt serienummer og informasjon om produktklassifisering. I tillegg er
+konnektorens frontender også merket med delenummer og unikt serienummer for å bidra til sporbarhet
+under produksjon.
+1.4.2 Kabelnett
+Kabelnett er også merket med Siemens Energy Subsea-delenummer og unikt serienummer som vist i Figur 3.
+Kunde- og prosjektspesifikk informasjon er vanligvis også lagt til på disse etikettene. Etikettene har vanligvis
+svart tekst på gul bakgrunn under klar varmekrymping. Etikettene er vanligvis plassert i hver ende og på
+midten av kabelnettet.
+Figur 3 – Eksempel på kabelnettmerking
+1.5 CE-etikett/-merking
+SpecTRON 8 er unntatt alle gjeldende krav til CE-merking. Siemens Energy følger med på eventuelle
+europeiske og internasjonale krav som kan omfatte SpecTRON 8-produktserien.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 9av62
+Unrestricted
+2 PRODUKTSIKKERHET
+Siemens Energy Subsea anbefaler at terminering av alt utstyr kun utføres av opplært, tilstrekkelig kvalifisert
+og erfarent personell (SQEP), dvs. en kvalifisert person.
+2.1 Handlingsrelaterte advarsler
+Klassifisering av handlingsrelaterte advarsler
+De handlingsrelaterte advarslene er klassifisert i henhold til alvorlighetsgraden til den mulige faren ved hjelp
+av følgende varselskilt og signalord:
+Advarselssymboler og signalord
+Fare!
+Overhengende livsfare for liv eller alvorlig personskade
+Fare!
+Risiko for dødsfall som følge av elektrisk støt
+Advarsel!
+Risiko for mindre personskade
+Forsiktig!
+Risiko for materielle skader eller miljøskader
+2.2 Bruksområde
+Etter installasjon, idriftsetting og distribusjon av produktet må du fylle ut og returnere kundekommentar-
+/tilbakemeldingsskjemaet (avsnitt 9). Send det utfylte skjemaet på e-post til Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+Feil bruk eller bruk utenfor det tiltenkte bruksområdet medfører fare for personskade eller dødsfall for
+brukeren eller andre, eller for skade på produktet og annen eiendom.
+Produktet er ment som en undersjøisk elektrisk høyspenningskonnektor, og skal kun brukes av kvalifisert
+personell i industrielle bruksområder.
+Tiltenkt bruk omfatter følgende:
+-Følg instruksjonene for installasjon og bruk som følger med produktet og andre systemkomponenter.
+-samsvar med alle inspeksjons- og vedlikeholdsforhold som er oppført i instruksjonene.
+-Bruk av alt anbefalt verktøy som er egnet for spesifikke oppgaver.
+-Alle aktiviteter som skal utføres av en kvalifisert person (se definisjon i 2.3.1).
+All annen bruk som ikke er spesifisert i dette dokumentet eller beskrevet i installasjons- og
+driftsinstruksjonene, eller utover det som er spesifisert i dette dokumentet, skal anses som feil bruk.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 10av62
+Unrestricted
+2.3 Generell sikkerhetsinformasjon
+2.3.1 Installasjon skal kun utføres av kompetente personer
+Installasjon, inspeksjon, vedlikehold og reparasjon av produktet skal utføres av opplært, kvalifisert og
+erfarent personell (SQEP), dvs. person som er kompetent til å utføre en spesifisert aktivitet. Installasjon,
+inspeksjon, vedlikehold og reparasjon av produkter som utføres av personer uten opplæring og kompetanse
+kan føre til at produktgarantien blir ugyldig.
+For mer informasjon, kontakt Service (Site Team) susultlcmsupport.gb@siemens-energy.com .
+2.3.2 Fare som følge av feil bruk og forutsigbar misbruk
+Feil bruk og forutsigbart misbruk kan utgjøre en fare for deg og andre, og kan forårsake materielle skader.
+Les nøye gjennom de vedlagte instruksjonene og alle andre gjeldende dokumenter, spesielt avsnittet
+«Sikkerhet» og advarslene.
+Fare!  Risiko for dødsfall som følge av elektrisk støt hvis brukeren demonterer/monterer produktet
+på nytt på feil måte / terminerer produktet på feil måte (forutsigbart misbruk).
+-Vedlikehold, demontering, montering og terminering skal kun utføres av en kvalifisert person.
+Fare!  Risiko for dødsfall som følge av elektrisk støt hvis glidepinnene trykkes ned, f.eks. med en
+skrutrekker når pluggen er strømførende.
+-Vedlikehold og testing skal kun utføres av en kvalifisert person.
+-Riktig verktøy må alltid brukes.
+Fare! Risiko for overhengende fare for liv, risiko for alvorlig personskade forårsaket av at en
+spennstift skytes ut på grunn av at spennstiften er skadet f.eks. med en skrutrekker (forutsigbart
+misbruk).
+-Vedlikehold og testing skal kun utføres av en kvalifisert person.
+-Riktig verktøy må alltid brukes.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 11av62
+Unrestricted
+2.3.3 Risiko for dødsfall som følge av elektrisk støt
+Fare! Risiko for dødsfall som følge av elektrisk støt på grunn av eksponerte strømførende pinner,
+f.eks. fabrikktest eller systemtest på overflaten og frakoblet kontakt er strømførende, f.eks. av
+dykkeren under vann.
+-Sørg for at alle testprosedyrer følges.
+-Kontaktene må kobles til en våtsammenkoblings- eller testplugg før strømsetting
+-Kommunikasjonskanaler og -protokoller overholdes.
+Fare! Risiko for dødsfall som følge av elektrisk støt fra eventuelle eksponerte ledere på grunn av
+lagret elektrisk energi, f.eks. kabelens kapasitans eller andre steder i systemet.
+-Sørg for at alle prosedyrer følges.
+-Gi tilstrekkelig tid utlading av elementene etter testing
+Fare! Risiko for dødsfall som følge av elektrisk støt fra testkonnektorer. Strømførende deler kan
+eksponeres ved demontering uten verktøy (f.eks. termineringshylsene er tilgjengelige og kan
+fjernes). Også eksponerte kabelledere i den frie enden av testkonnektorene og uskjermede kabler
+i noen termineringer.
+-Sørg for at alle testprosedyrer følges.
+-Kontaktene må kobles til en våtsammenkoblings- eller testplugg før strømsetting
+-Kommunikasjonskanaler og protokoller må følges.
+Fare! Risiko for dødsfall grunnet elektrisk støt hvis produktet avsluttes feil avtredjepart, f.eks. løs
+leder som berører metalllegemet, eller strømførende ledning som er terminert til metallhuset ved
+en feil.
+-Installasjon/terminering skal utføres av en kvalifisert person.
+Fare! Risiko for dødsfall som følge av elektrisk støt fordi metalldelen av kontakten ikke er jordet
+under testen og konnektoren har jordfeil (f.eks. leder som berører metallarbeid) under elektrisk
+testing.
+-Sørg for at all testing av produkter både på fabrikken og i felten utføres av kompetente
+personer.
+Fare! Risiko for dødsfall som følge av elektrisk støt eller alvorlig personskade som følge av
+brannskade fra strømførende ledere som er frakoblet for hånd.
+-Sørg for at alle prosedyrer følges for til-/frakobling av konnektorer.
+2.3.4 Risiko for personskade og materielle skader som følge av testing, vedlikehold og
+reparasjoner som er feil utført eller ikke utført
+Vedlikeholdsarbeid eller reparasjoner på produktene skal kun utføres av en kvalifisert person. Feil og skader
+må utbedres umiddelbart av en kvalifisert person. Følg de spesifiserte vedlikeholdsintervallene.
+Fare! Risiko for overhengende livsfare, risiko for alvorlig personskade som følge av brannskade og
+materielle skader fra ohmsk oppvarming ved kortslutning eller høy overstrøm.
+-Sørg for at all testing av produkter både på fabrikken og i felten utføres av kompetente
+personer.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 12av62
+Unrestricted
+Fare! Risiko for overhengende fare for liv, risiko for alvorlig personskade forårsaket av frigjort trykk
+og/eller prosjektil på grunn av feilmontert trykkholdeprodukt, f.eks. under trykktest av systemet
+(f.eks. SpecTRON 8 penetrator utstyrt med feil/utilstrekkelige skruer eller tetninger).
+-Sørg for at alle aktiviteter knyttet til montering og testing av produktet utføres av kompetente
+personer.
+Fare! Risiko for umiddelbar fare for liv, risiko for alvorlig personskade på personer med pacemaker
+eller implanterbare kardioverterdefibrillatorer (ICDS) grunnet elektromagnetisk interferens (EMI),
+f.eks. høyfrekvent testing med store belastningsstrømmer.
+-Sørg for at all testing av produkter både på fabrikken og på overflaten ikke utføres av eller i
+nærvær av personer med pacemaker eller ICDS.
+Fare! Risiko for alvorlig øyeskade på grunn av at olje spruter ut av en skadet slange eller ved
+fjerning av fylle-/ventilasjonsskrue.
+Sørg for at all testing av produkter både på fabrikken og i felten utføres av kompetente personer.
+Advarsel! Risiko for øye-/kroppsskade forårsaket av frigjort trykk under demontering av
+produktet, i tilfelle gjenvinning fra havbunn med en feil som fører til at dybdetrykket fanges inne
+i produktet.
+-Sørg for at all demontering av produktet utføres av kompetente personer i samsvar med
+relevante prosedyrer og med bruk av relevant personlig verneutstyr (PVU).
+Advarsel! Risiko for personskade som følge av at trykkbærende deler skytes ut på grunn av for
+høyt trykk i systemet, f.eks. under installasjonstest på stedet (SIT).
+-Sikre at alle SIT-aktiviteter med produktet fullføres av kompetente personer i samsvar med
+relevante prosedyrer.
+-All trykktesting av SpecTRON 8-produkter skal utføres av en kvalifisert person.
+-Installasjon av SpecTRON 8 penetratorer og skottgjennomganger må utføres av en kvalifisert
+person.
+2.3.5 Risiko for personskade og materielle skader som følge av manuell håndtering
+Manuell håndtering, løfting og bæring er blant de vanligste årsakene til yrkesskader. Bruk mekaniske
+håndteringshjelpemidler der det er mulig, for å unngå manuell håndtering. Der manuell håndtering vurderes
+egnet for oppgaven, må retningslinjene for håndtering/løfting følges, f.eks. bruk riktig arbeidsstilling, vurdere
+teamløfting, bruk sikker løfteteknikk osv. Kun kompetente personer har tillatelse til å utføre oppgaver uten
+tilsyn. Spør hvis du er i tvil.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 13av62
+Unrestricted
+Advarsel! Risiko for muskel-/skjelettskade fra konnektorer for håndsammenkobling med høy
+sammenkoblings-/frakoblingskraft og/eller kontakt utløses raskt under frakobling pga. høy
+skyttelfjærkraft, f.eks. fabrikk-/overflate-testing.
+-Sikre at alle SIT-testaktiviteter med produktet fullføres av kompetente personer i samsvar med
+relevante prosedyrer.
+-Bruk mekaniske håndteringshjelpemidler der det er mulig, for å unngå manuell håndtering.
+-Der manuell håndtering vurderes egnet for oppgaven, må retningslinjene for
+håndtering/løfting følges, f.eks. bruk riktig arbeidsstilling, vurdere teamløfting, bruk sikker
+løfteteknikk osv.
+Advarsel! Risiko for muskel-/skjelettskade ved manuell håndtering av tunge produkter.
+-Bruk mekaniske håndteringshjelpemidler der det er mulig, for å unngå manuell håndtering.
+-Der manuell håndtering vurderes egnet for oppgaven, må retningslinjene for
+håndtering/løfting følges, f.eks. bruk riktig arbeidsstilling, vurdere teamløfting, bruk sikker
+løfteteknikk osv.
+-Kun kompetente personer har tillatelse til å utføre oppgaver uten tilsyn. Spør hvis du er i tvil.
+Advarsel! Risiko for personskade som følge av at et tungt produkt faller under løft med maskineri.
+-Påse at maskinene/stroppene som brukes, er testet og er innenfor utløpsdatoen.
+-Retningslinjer for sikker løfting må følges, f.eks. løfteplan, signalgiver osv.
+-Korrekte løftepunkter må identifiseres og brukes.
+-Kun kompetente personer har tillatelse til å utføre oppgaver uten tilsyn. Spør hvis du er i tvil.
+Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor mineral-,
+silikon- eller syntetisk esterbasert olje.
+-Bruk egnet håndbeskyttelse ved håndtering av produkter eller mineral-, silikon- eller syntetisk
+esterbasert olje.
+Advarsel! Risiko for mindre personskader og materielle skader på grunn av at man glir, snubler
+og/eller faller.
+-–God orden forhindrer skli-, snuble- og fallskader. Hold området rent og ryddig.
+2.4 Relaterte dokumenter
+Montørene skal foreta en fullstendig risikovurdering av anlegget og iverksette alle nødvendige tiltak og
+prosedyrer for å overholde gjeldende helse- og sikkerhetslovgivning for området, regionalt, nasjonalt og
+internasjonalt, f.eks. Health and Safety at Work Act (HASAWA) i Storbritannia og ivareta sin egen og andres
+sikkerhet når det gjelder krav til manuell håndtering og arbeid i høyden.
+Vær forsiktig under installasjon av produktet (og eventuelt påfølgende arbeid). Alle installatører og
+operatører som er involvert fra lossing av produktet til det er plassert på det endelige installasjonsstedet, må
+ta fullt ansvar for seg selv og andre med tanke på sikkerhet. Ved løfting og håndtering av dette produktet skal
+operatørene bruke hjelp om nødvendig. I visse situasjoner kan det være nødvendig å bruke mekaniske
+håndteringshjelpemidler. Unngå snublefare, glatte eller våte overflater.
+Arbeidsgivere og installatører i Storbritannia finner fullstendige råd og veiledninger om vurderingsskjemaer
+for manuell håndtering (MAC) på nettstedet Health and Safety Executive (HSE).
+I tillegg skal det, der det ikke er gitt noen spesifikke instruksjoner, henvises til, men ikke begrenses til, der det
+er aktuelt, britiske standarder og regler for god praksis, for eksempel følgende:
+-Health and Safety at Work Act.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 14av62
+Unrestricted
+-COSHH Kontroll av helsefarlige stoffer
+-BS 7671 Krav til elektriske installasjoner. IEE-ledningsbestemmelser.
+-Forskrift om sikkerhet ved elektrisk arbeid.
+Det er operatørens og installatørenes ansvar å overholde gjeldende helse og sikkerhetslover og -forskrifter
+for selskaper, områder samt regionale, nasjonale og internasjonale lover og forskrifter.
+Etter installasjon, idriftsetting og utplassering av produktet må du fylle ut og returnere kundekommentar-
+/tilbakemeldingsskjemaet (avsnitt 9). Send det utfylte skjemaet på e-post til Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 15av62
+Unrestricted
+3 FORKORTELSER
+A Ampere
+AC Vekselstrøm
+Enh. Enhet
+API American Petroleum Institute
+AWG American Wire Gauge
+BOM Stykkliste
+°C Grader celsius
+CE Det europeiske fellesskap
+Comms Kommunikasjonssignal
+COSHH Kontroll av helsefarlige stoffer
+CP Katodisk beskyttelse
+DC Likestrøm
+DWG Tegning
+EFL Elektrisk Flying Lead-kabel
+EMF Elektrisk magnetfelt
+EMI Elektromagnetisk interferens
+FAT Factory Acceptance Test (fabrikkakseptansetest)
+IR Isolasjonsmotstand
+ICDS Implanterbare kardioverter-defibrillatorer
+ISO International Organization for Standardization (internasjonal organisasjon for stanardisering)
+ITP Inspeksjonstestplan
+IWIS Intelligent Well Interface Standardisation
+K Kelvin
+LTC Long Term Cover (langtidsdeksel)
+m meter
+Maks. Maksimum
+MFG Produsent
+Min. Minimum
+NACE National Association of Corrosion Engineers
+Nr. Nummer
+PVU Personlig verneutstyr
+ROV Remotely Operated Vehicle (fjernstyrt undervannsfarkost)
+SI Standard International
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 16av62
+Unrestricted
+SIT Site Installation Test (installasjonstest på stedet)
+SRT Site Received Test (mottakstest på stedet)
+SST Rustfritt stål
+TBD To Be Defined (skal defineres)
+TSP Twisted Screened Pair (vridd skjermet par)
+UNS Enhetlig nummereringssystem for metaller og legeringer
+V Volt
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 17av62
+Unrestricted
+4 SPESIFIKASJONER OG RESTRISIKO
+Følgende er den typiske spesifikasjonen for SpecTRON 8-konnektorer med jumperkabler som tilbys av
+Siemens Energy, og vil variere for konnektorer som termineres til umbilical-strømkjerner eller interne pigtails,
+og i andre situasjoner. Se konnektorspesifikk informasjon i de produktspesifikke databladene. Disse er
+tilgjengelige via Siemens Subsea-nettstedet www.siemens-energy.com/subsea eller Siemens Subsea
+Connectors Technical Support connectortechnicalsupport.gb@siemens-energy.com .
+4.1 Generelle konnektorspesifikasjoner
+Verdi Enhet
+Forventet levetid 30 år
+Antall veier/faser 3 -
+Maksimal vanndybde 3 000 m
+Maksimal trykkforskjell (penetrator) 345 bar
+Maksimal trykkforskjell (skottmontert hunnkonnektor) 15 bar
+Driftstemperatur -5 til 20 °C
+Lagringstemperatur -30 til 60 °C
+Antall sammenkoblinger (Wet Mate Pair) 100 -
+Merkespenning 5/8,7(10) kV
+Merkestrøm Se diagram -
+Merkefrekvens 5 – 200 Hz
+Tabell 3 – Generelle spesifikasjoner for SpecTRON 8-konnektorer
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 18av62
+Unrestricted
+Figur 4 – SpecTRON 8 strømklassifisering
+4.2 Innrettingstoleranse for wet mate stab-konnektorer
+Tabellen nedenfor oppsummerer maksimalt innrettingsavvik for SpecTRON 8 stab wet mate-konnektorer. Se
+fullstendige detaljer i Siemens Energy-tegning T33259. Kontakt Siemens Energy Subsea Connectors Technical
+Support connectortechnicalsupport.gb@siemens-energy.com  for informasjon om innrettingsavvik for ROV
+wet mate-konnektorer, tree cap-plugger og slangeopphengskonnektorer.
+Stab Mate Enhet
+Maksimal vinklet innrettingstoleranse (ikke radial eller rotasjon) 2 °
+Maksimalt radialt innrettingsavvik (ikke vinklet eller rotasjon) 3 mm
+Maksimalt rotasjons-innrettingsavvik (ikke radial eller vinklet) 3 °
+Under-/overslag (uavhengig av andre innrettingsavvik) ± 1,5 mm
+Tabell 4 – Innrettingstoleranse for SpecTRON 8 Stab-konnektor
+Frekvens (Hz)
+Merkestrøm (A)
+0 °C omgivende sjøvann
+10 °C omgivende sjøvann
+20 °C omgivende sjøvann
+30 °C omgivende sjøvann
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 19av62
+Unrestricted
+4.3 Slangespesifikasjoner
+AquaTRON 200 Gorilla AquaTRON 50 Enhet
+Utvendig diameter 64,6 +4 / -2,8 51,8 25,2 ± 0,6 mm mm
+Minste bøyeradius 375 250 125 mm
+Lagringstemperatur -40 til +70 -25 til +70 -40 til +70 °C
+Min. manipuleringstemperatur -25 -25 -25 °C
+Maksimal fastkjøringsbelastning 5 2,5 5 kN
+Vekt i luft 4,8 3,2 0,66 kg/m
+Vekt i vann 1,45 1 0,14 kg/m
+Maks. lengde uten kopling 45 IKKE REL. 80 m
+Slangekoplingens vekt i luft 3,8 IKKE REL. 0,87 kg
+Slangekoplingens vekt i vann 3,2 IKKE REL. 0,69 kg
+Tabell 5 – SpecTRON 8 slangespesifikasjoner
+4.4 Kabelspesifikasjoner
+4 mm²
+(Signalretur)16 mm²
+(Siwokul)16 mm²
+(S1U10510150) Enhet
+Merkespenning (U o/U(U m)) 013,6/6(7,2) 3,6/6(7,2) kVac
+Maksimal AC-testspenning til jord 019 9 kVac
+Maksimal DC-testspenning til jord 015 5 kVdc
+Utvendig diameter 8,95 ± 0,2 11,25 ± 0,3 10,9 ±0,4 mm
+Skjerm CSA IKKE REL. IKKE REL. IKKE REL. mm²
+Minste bøyeradius 55 61,8 75 mm
+Lagringstemperatur -40 til +70 -40 til +70 -40 til +70 °C
+Minste manipulasjonstemperatur -25 -25 -25 °C
+Vekt i luft 0,11 0,23 0,29 kg/m
+Vekt i vann 0,04 0,13 0,20 kg/m
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 20av62
+Unrestricted
+4 mm²
+(Signalretur)16 mm²
+(Siwokul)16 mm²
+(S1U10510150) Enhet
+Motstand ved 20 °C 13 1,24 1,24 mΩ/m
+1 Kabelen er isolert med U o = 6,6 kV, men er direkte koblet til konnektormetallhusene
+Tabell 6 – SpecTRON 8 kabelspesifikasjoner (4-16 mm²)
+35 mm²
+(Sp. Siwokul)35 mm²
+(S1U10510151)35 mm²
+(Feltoflex) Enhet
+Merkespenning (U o/U(U m)) 5/8,7(10) 5/8,7(10) 5/8,7(10) kVac
+Maksimal AC-testspenning til jord 12,5 12,5 12,5 kVac
+Maksimal DC-testspenning til jord 5 5 5 kVdc
+Utvendig diameter 18,10 ± 0,4 16,0 ± 0,2 24,5 mm
+Skjerm CSA IKKE REL. IKKE REL. 16 mm²
+Minste bøyeradius 110 110 125 mm
+Lagringstemperatur -40 til +70 -40 til +70 -40 til +70 °C
+Minste manipulasjonstemperatur -25 -25 -25 °C
+Vekt i luft 0,55 0,63 1,04 kg/m
+Vekt i vann 0,29 0,43 0,56 kg/m
+Motstand ved 20 °C 0 565 0 565 0 565 mΩ/m
+Tabell 7 – SpecTRON 8 kabelspesifikasjoner (35 mm²)
+4.5 Andre spesifikasjoner
+For alle andre spesifikasjoner som ikke er inkludert i tabellene over, se produkt-/prosjektspesifikke dataark,
+kontakt alternativt Technical Support connectortechnicalsupport.gb@Siemens-energy.com .
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 21av62
+Unrestricted
+4.6 Miljø, avfallshåndtering og resirkulering
+Det anbefales å kassere eller resirkulere avfallsemballasje og/eller utrangert produkt på en sikker måte ifølge
+lokale, regionale, nasjonale eller internasjonale miljøbestemmelser der det er aktuelt.
+For retur av avfallsemballasje og/eller utrangert produkt til produsenten, kontakt Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+Farlige stoffer, Kontroll av helsefarlige stoffer (COSHH) Vurdering av materialer som elastomerer og oljer osv.
+i SpecTRON 8-produkter er tilgjengelig på forespørsel fra Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+4.7 Personlig verneutstyr (PVU)
+Personlig verneutstyr (PVU) er juridisk definert som «alt utstyr (inkludert klær som gir beskyttelse mot været)
+som er ment å brukes eller holdes av en person på jobben og som beskytter brukeren mot én eller flere
+risikoer for helse eller sikkerhet».
+I hierarkiet for risikokontroll anses PVU å være lavest rangert, og representerer alternativet for siste utvei.
+PVU er bare egnet der den aktuelle faren ikke kan fjernes eller kontrolleres fullstendig på en slik måte at
+skade er usannsynlig (for eksempel ved å isolere faren eller redusere risikoen ved kilden til et akseptabelt
+nivå).
+Alle ansatte og operatører i selskapet skal bruke egnet personlig verneutstyr (PVU) som er definert etter
+relevante risikovurderinger i samsvar med bestemmelsene for personlig verneutstyr (PVU).
+Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor mineral- og
+silikonbaserte oljer.
+-Bruk egnet håndbeskyttelse ved håndtering av produkter eller mineral-, silikon- eller syntetisk
+esterbasert olje.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 22av62
+Unrestricted
+5 KLARGJØRE PRODUKTET FOR BRUK
+5.1 Sikkerhetstiltak før installasjon
+SpecTRON 8-produktene er hovedsakelig produsert av Super Duplex rustfritt stål, og er dermed designet for
+å tåle krevende saltholdige miljøer. De eksponerte delene av konnektoren er imidlertid utsatt for mekaniske
+skader hvis de ikke beskyttes.
+Forsiktig!  Risiko for skade på eiendom.
+Støv-/beskyttelseshetter må alltid være montert under transport.
+Det anbefales at hettene holdes på plass til umiddelbart før testaktiviteter eller
+utplassering subsea.
+Konnektorene kan leveres enkeltvis eller i pakninger med flere. Pass på å beskytte konnektoren med
+bobleplast eller lignende for å unngå overflateskade under transport Hvis et stort antall sendes i én
+forsendelse, vil en transportkasse med egnet forsterkning være nødvendig for å tåle vekten.
+Beskyttelseshettene må alltid være montert under transport.
+Konnektorer av skottype med eksponerte ledningsender skal pakkes og sendes i en boks av egnet størrelse
+for å gi tilstrekkelig plass til ledningsendene uten bøying eller knekk.
+Hvis konnektorene er montert på slanger, må de kveiles opp og festes med tape for å hindre at de vikles ut
+under transport. Minste bøyeradius, som angitt i avsnitt 4.3, må opprettholdes under lagring og transport av
+jumperkabler.
+Figur 5 – SpecTRON 8 kabelnett, typisk emballasje
+Figur 5 viser hvordan et typisk SpecTRON 8-kabelnett er pakket. Konnektorene i hver ende av kabelnettet har
+en transporthette montert og er omgitt av bobleplast. Bunnen av transportkassen er fôret med beskyttende
+emballasje, og kabelnettet er plassert slik at slangen kan kveiles opp uten knekk. Eventuelle løse gjenstander
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 23av62
+Unrestricted
+legges i en eske inne i kassen. Deretter plasseres beskyttende emballasje på kabelnettet, og det festes med
+en trepinne før lokket på kassen skrus fast.
+Figur 6 viser en annen type valgfri innkjøpt emballasje som kabelnettet kan leveres i. Denne kassen er
+produsert av polyetylenplast og er støv-, olje-, kjemikalie- og vannbestandig. Konnektorene i begge ender
+har en transporthette og sitter i en skuminnsats som er dimensjonert for konnektoren. Eventuelle løse
+gjenstander plasseres i en eske inne i kassen.
+Figur 6 – Valgfri plastemballasje av polyetylen
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 24av62
+Unrestricted
+5.2 Utpakking
+Konnektorene er konstruert for å motstå vibrasjoner under transport og for å motstå fall fra en høyde på 1
+meter i emballasjen. Likevel kan det fortsatt oppstå skade under transport, og det er viktig å dokumentere
+eventuelle tydelige tegn på feilhåndtering eller skade som kan ha oppstått under transport.
+Fjern emballasjen og kontroller om det finnes overflateskader eller gjenstander som kan ha løsnet fra en
+konnektor, for eksempel O-tetninger.
+Forsiktig!  Risiko for skade på eiendom.
+-Ikke bruk kniv til å skjære i emballasjen, da dette kan føre til skade på eventuelle
+elastomerdeler på konnektorene.
+-Ikke fjern støv/beskyttelseshetter før konnektorene er klare for installasjon.
+-Ved fjerning må slangene ikke dras over kantene på en transportkasse.
+5.2.1 Beskyttelseshetter
+Alle SpecTRON 8-konnektorer/-penetratorer leveres med en beskyttelseshette. Dette kan være enten
+støvhetter eller beskyttelseshetter. Støvhetter (vanligvis gule) kan enkelt fjernes ved å vri eller trekke dem
+av. Beskyttelseshettene (vanligvis svarte) kan fjernes som beskrevet nedenfor.
+ROV-plugghette
+ROV-plugghetten låses på pluggforbindelsen via konnektorens låsemekanisme. For å fjerne hetten anbefales
+det at operatøren setter pluggen vertikalt på hetten, står på flensen på hetten og trekker i ROV-håndtaket
+på pluggkonnektoren. Dette vil koble ut låsemekanismen på pluggen. Ikke prøv å dra hetten direkte av
+pluggen, da dette kan skade pluggens låsemekanisme. Bruk samme metode når du kobler ROV-plugghetten
+til og fra pluggkonnektorer med låsemekanismen.
+Figur 7 – ROV-plugghette
+Trekk i ROV-
+håndtaket
+Grip hetten
+ved å stå på
+flensen
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 25av62
+Unrestricted
+Du kan sette på plass plugghetten ved å skyve hetten tilbake på pluggen til låsemekanismen på pluggen går i
+inngrep.
+ROV-hunnkonnektorhette
+ROV-hunnkonnektorhetten kan fjernes ved å trekke i hetten. Sett på hunnkonnektorhetten igjen ved å skyve
+den tilbake på hunnkonnektorkappen.
+Figur 8 – ROV-konnektorhette
+TREE CAP-PENETRATORHETTE – versjon 1
+Penetratorhettene vil vanligvis bli fjernet av Siemens Subseas anleggsingeniører under termineringen av
+penetratoren til modulen. Det anbefales at bare opplært personell fjerner penetratorhettene, selv om
+detaljer er angitt for informasjonsformål her. Tree Cap-penetrator versjon 1 består av modulære deler for å
+beskytte hele konnektorens lengde. Plasser plugg og penetrator forsiktig på en egnet benk, og fjern
+beskyttelseshetten. Pass på at den føyelige nippelen ikke bøyes mellom pluggen og penetratoren.
+Figur 9 – Fjerne Tree Cap-penetrator / plugg fra kilehette
+Fjern enden av
+hetten
+Trekk i enden av
+hetten med en
+låsetapp.
+Trekk i hetten
+for å fjerne den
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 26av62
+Unrestricted
+Figur 10 – Fjerne Tree Cap-penetrator / pluggbeskyttelseshette
+Figur 11 – Fjerne Tree Cap-penetrator / pluggsplitthylse
+Gjenmontering av penetratorhetten skjer i motsatt rekkefølge av fjerningsprosedyren.
+Trekk ut hele
+hetten for å
+fjerne den
+Skru løs denne
+endedelen som er
+festet til 8 kV-
+penetratoren.
+Fjern den
+beskyttende
+splitthylsen
+Fjern den
+beskyttende
+splitthylsen
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 27av62
+Unrestricted
+Tree Cap-penetrator – versjon 2
+Penetratorhettene vil vanligvis bli fjernet av Siemens Subseas anleggsingeniører under termineringen av
+penetratoren til modulen. Det anbefales at bare opplært personell fjerner penetratorhettene, selv om
+detaljer er angitt for informasjonsformål her. Tree Cap-penetrator versjon 2 består av delte halvdeler for å
+beskytte den føyelige nippelen. Plasser plugg og penetrator forsiktig på en egnet benk, og fjern
+beskyttelseshetten. Pass på at den føyelige nippelen ikke bøyes mellom pluggen og penetratoren.
+Figur 12 – ROV-hunnkonnektor – Penetrator – Tree Cap-pluggjumper
+5.3 Sikker kassering av emballasje
+Kast emballasjen på riktig måte, og følg miljølovgivningen på området, regionalt, nasjonalt eller
+internasjonalt. Resirkuler på en ansvarlig måte der det er mulig.
+For å returnere emballasjen til produsenten, kontakt Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+5.4 Løfting
+Fare!  Risiko for alvorlig personskade eller dødsfall, og materiell skade på produktet
+Konnektorene må bare løftes på stedene som er spesifisert nedenfor.
+Bruk aldri kabelen eller slangen til å løfte eller støtte opp en konnektornippel.
+Alle løfteoperasjoner skal utføres av kvalifisert personell i samsvar med gjeldende
+bestemmelser der og når løftet utføres.
+Konnektorene må aldri løftes etter slangen eller kabelen, da dette belaster kabelklemmen
+og de interne kontaktene unødig.
+Kabelnettene veier mer enn 30 kg, og skal ikke håndteres manuelt.
+Blindkonnektorer eller parkeringskonnektorer veier mindre enn 20 kg og kan løftes for
+hånd, men riktig løftepraksis må alltid følges
+Trekk i hetten
+for å fjerne
+Skru løs festemidlene
+og fjern den delte
+hetten
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 28av62
+Unrestricted
+Kontaktene kan trygt festes rundt stedene som er vist i Figur 13, Figur 14, Figur 15 og Figur 16.
+Konnektorens eller penetratorens tyngdepunkt er vanligvis merket på skissetegningen (leveres i
+dokumentasjonspakken), men må kontrolleres i lav høyde før løftet påbegynnes.
+For spesielt tunge konnektorer (f.eks. SPO-flenspenetrator), er løfteøynenes posisjoner angitt på
+konnektorflensen. Disse vises på konnektorskissetegningen, som er en del av konnektorens datablad.
+Databladet er tilgjengelig separat på forespørsel, og er inkludert som en del av dokumentasjonen for
+konnektoren.
+Blindkonnektorer eller parkeringskonnektorer veier mindre enn 20 kg og kan løftes for hånd, men riktig
+løftepraksis må følges til enhver tid.
+ROV-kontakt
+Figur 13 – Anbefalt løftepunkt – ROV-hunnkonnektor
+Figur 14 – Anbefalte løftepunkter – ROV-plugg (uten/med låsemekanisme)
+Ikke legg stroppen rundt
+håndtaket, da det kan føre
+til at beskyttelseshetten
+løsner
+Stropp rundt pluggens
+bakre skall mellom
+håndtakene
+Ikke stropp rundt utsiden
+av konnektorhåndtaket,
+da dette kan skade
+låsemekanismen.
+Stropp rundt hver side av
+hunnkonnektorflensen
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 29av62
+Unrestricted
+Figur 15 – Anbefalte løftepunkter for Tree Cap-penetrator / plugg (versjon 1)
+Figur 16 – Anbefalte løftepunkter for Tree Cap-penetrator / plugg (versjon 2)
+Figur 17 – Anbefalte løftepunkter - Dobbel penetrator
+Stropp rundt
+penetratorens bakre skall
+Stropp på hver
+side av
+beskyttelseshette
+n
+Stropp rundt hoveddelen av den doble
+penetratoren eller på hver side så nær
+hoveddelen av den doble penetratoren
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 30av62
+Unrestricted
+Beskyttelseshettene skal sitte på så langt det er mulig under løfteoperasjoner for å minimere risikoen for
+skade på konnektortetningen eller elektriske komponenter.
+For kabelnett skal kabelen eller slangen støttes opp under løft for å minimere belastningen på konnektoren.
+Jumperenheter er klassifisert til 2,5 kN i alle scenarioer (på overflaten og subsea), men det anbefales at
+maksimal lengde på kabelnettet (buntet eller enkeltvis) som ikke støttes opp under en løfteoperasjon i luft
+er 5 meter.
+Konnektorer med kun kabel eller slangebruddkonnektorer med kabel må håndteres med forsiktighet, da
+disse konnektorene ikke har slangen som beskytter kabelkappen mot mekanisk skade. Disse
+konnektortypene brukes vanligvis til testformål. Ved utpakking og bruk må disse ikke dras langs overflater,
+de må beskyttes når de rutes over kanter, og de må holdes unna slipende materialer for å holde ytterkappen
+i best mulig stand.
+5.5 Installasjon og montering
+Fare!  Risiko for alvorlig personskade eller dødsfall, og materiell skade på produktet
+Terminering av umbilical-konnektorer skal utføres av en kvalifisert person
+Installasjon og intern terminering av penetratorer på kundemoduler skal utføres av en
+kvalifisert person
+Når utstyr fjernes fra lagring for installasjon eller SIT-testing, skal kabelnettet inspiseres grundig som helhet.
+SpecTRON 8-konnektorer kan installeres på klientens subsea-strukturer av sluttbrukeren, forutsatt at
+veiledningen i dette dokumentet følges. Det er viktig å sørge for at retningslinjene for håndtering følges i alle
+deler av installasjonsprosessen. Dette er spesielt viktig for slanger og kabler, som må støttes opp tilstrekkelig
+under alle løfteoperasjoner for å hindre skade på slangen/kabelen og termineringen inne i konnektoren.
+Under løfting og manøvrering av konnektoren skal transport-/beskyttelseshettene sitte på konnektorene så
+lenge som mulig for å beskytte de mekaniske grensesnittene. Pass på at slangen ikke bøyes utover angitt
+MBR, da dette kan føre til knekk som kan skade slangen og kabelen i den. All manøvrering av alt SpecTRON-
+utstyr må utføres i samsvar med avsnitt 6.4.
+Hvis det utføres konstruksjonsarbeid rundt konnektorene, for eksempel sveising eller sliping, der
+forurensninger kan påvirke konnektorene under eller etter installasjon av SpecTRON-utstyr, må
+konnektorene rengjøres i henhold til beskrivelsen i avsnitt 8.
+5.6 Oppbevaring og beskyttelse
+Forsiktig!  Risiko for korrosjon på elektriske kontakter.
+Hvis konnektoren er testet i et vått miljø, må hunnkonnektoren kobles til en fullstendig
+blindplugg eller, hvis en Acetal-beskyttelseshette brukes, må det sørges for at pinnen og
+hetten er helt tørre (se avsnitt 8.1)
+Hvis lagringen skjer på et sted med høy fuktighet eller saltinnhold, f.eks. på dekket eller i
+lasterommet på et skip, skal det brukes fulle blindkonnektorer..
+Forsiktig!  Risiko for skade på eiendom.
+Konnektorens overflatetemperatur må ikke overstige 60 °C, maksimal lagringstemperatur
+er medregnet solvarme.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 31av62
+Unrestricted
+Egnet beskyttelse må brukes for å sikre at maksimal oppbevaringstemperatur ikke
+overskrides.
+Elastomerkomponenter som slange- og koblingstermineringssett skal ikke oppbevares
+nær naturlige eller kunstige ozonkilder (f.eks. elektrisk utstyr med høy spenning,
+laserskrivere eller sveisearbeid).
+Konnektorene må ikke utsettes for forbrenningsgasser, organisk damp eller utstyr som
+genererer organisk damp.
+Forsiktig!  Risiko for skade på eiendom.
+Konnektorene må ikke komme i kontakt med løsemidler, olje, fett eller andre halvfaste
+materialer.
+Den innvendige profilen på beskyttelseshetten må ikke endres, og fremmedmaterialer
+som silikagel skal ikke brukes i beskyttelseshettene, da dette vil føre til skade på kritiske
+tetninger og elektriske kontaktområder.
+5.6.1 Kortsiktig konnektoroppbevaring
+Før installasjon er konnektorene følsomme for omgivelser der grus og smuss forekommer. For å hindre at
+noe av det ovenstående trenger inn, må de oppbevares på et rent, tørt sted og beskyttes med bobleplast
+eller lignende innpakningsmateriale. Støv/beskyttelseshetter må monteres.
+5.6.2 Langtidslagring av konnektorer
+Konnektorene må oppbevares på et rent, tørt sted. Egnede beskyttelseshetter må monteres, og
+lagringstemperaturen skal være mellom -25 °C og 60 °C. Fuktigheten i rommet skal være mellom 10 % og 60
+%. Utstyret må beskyttes mot sterkt sollys og sterkt kunstig lys med høyt ultrafiolett innhold.
+5.6.3 Konnektortermineringssett
+Elastomerkomponenter som leveres som terminerings- eller re-termineringssett, skal oppbevares i
+emballasjen til de skal brukes. Utløpsdatoen som er angitt på pakningen og oppbevaringsbetingelsene
+nedenfor skal overholdes.
+Temperatur – lagringstemperaturen skal være mellom 15 og 25 °C, og komponentene skal lagres
+borte fra direkte varmekilder. Hvis lagringstemperaturen faller under 15 °C, skal komponentene
+håndteres forsiktig, og temperaturen på komponentene skal økes til ca. 30 °C før bruk.
+Fuktighet – den relative fuktigheten skal være på et nivå som hindrer at det oppstår kondens som
+følge av temperatursvingninger.
+Lys – elastomerkomponentene skal beskyttes mot lyskilder, inkludert direkte sollys og kunstig lys
+med høyt ultrafiolett innhold.
+Ozon – elastomerkomponenter skal ikke lagres nær ozongenererende utstyr (f.eks. elektrisk utstyr
+med høy spenning, laserskrivere) eller arbeid (f.eks. sveising). Lagringsområdet må også være fritt
+for forbrenningsgasser og organisk damp, samt utstyr som genererer organisk damp.
+Belastning – komponentene skal lagres uten overliggende spenninger og trykkspenninger eller annet
+som kan forårsake deformering.
+Stråling – komponenter skal beskyttes mot alle kilder til ioniserende stråling.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 32av62
+Unrestricted
+5.6.4 Undersjøisk lagring
+Forsiktig!  Risiko for korrosjon på elektriske kontakter.
+I et undersjøisk miljø må hunnkonnektoren kobles til en fullstendig blindplugg eller
+undersjøisk beskyttelseshette når den ikke er koblet til en plugg.
+I løpet av konnektorens levetid kan ikke pinnene i kontakten være eksponert i mer enn
+totalt 60 dager (for konnektorer som er levert siden 2013) eller 28 dager (ellers).
+Hvis konnektorene skal etterlates frakoblet i sjøvann, må blindkonnektorer og subsea-miljøhetter brukes for
+å beskytte pinnekontaktene i hunnkonnektorene. Overeksponering øker risikoen for korrosjonsskade eller
+marin vekst på kontaktflatene på pinnene i hunnkonnektoren. Dette kan føre til skade på tetningene og
+isolasjonen inne i pluggkontaktene.
+Pluggforbindelser kan etterlates frakoblet i sjøvann i hele levetiden, men det anbefales at pluggkoblingene
+kobles til en parkeringshunnkonnektor i dette tidsrommet for å beskytte låsemekanismen.
+5.7 Ompakking for å hindre skade under transport
+Hvis det er nødvendig å returnere et produkt til produsenten (Siemens Energy Subsea Connectors), anbefales
+det at støv-/beskyttelseshetten settes på konnektoren(e) etter rengjøring, og det må utvises forsiktighet for
+å beskytte konnektoren(e) med bobleplast eller lignende innpakningsmateriale for å unngå overflateskade.
+Det anbefales å bruke en egnet forsterket kasse for å tåle vekten. Kontakt Technical Support
+connectortechnicalsupport.gb@siemens-energy.com  for å diskutere detaljer om typiske kasser.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 33av62
+Unrestricted
+6 BRUK AV PRODUKTET
+6.1 Strømførende Wet Mate-par
+Fare! Risiko for dødsfall som følge av elektrisk støt
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+Forsiktig!  Risiko for skade på eiendom.
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+SpecTRON 8-konnektorene skal integreres og styres som en del av et godt designet høyspenningssystem med
+egnet validering av systemstatus og tilkoblinger før strømsetting.
+Ved utføring av høyspenningstesting av et elektrisk system som inneholder SpecTRON 8, tilbyr Siemens
+Energy egnet testutstyr som kan brukes til å gi sikker terminering av konnektorer for våtsammenkobling og
+tørrsammenkobling. Produktmerking på testutstyret må verifiseres for å sikre at det er korrekt klassifisert.
+6.2 Utplassering
+Forsiktig!  Risiko for skade på eiendom.
+Maksimal utplasseringshastighet for SpecTRON 8-konnektorer er 20 bar/minutt.
+Se de prosjektspesifikke databladene og leveringstegningenes omfang for ytelsesspesifikasjoner og detaljerte
+installasjonsinstruksjoner.
+6.3 Gjenvinning
+Forsiktig!  Risiko for skade på eiendom.
+Maksimal gjenvinningshastighet for SpecTRON 8-konnektorer er 20 bar/minutt.
+Fare! Risiko for alvorlig personskade eller dødsfall, og materiell skade på produktet
+Potensial for innestengt hydrostatisk trykk i slanger, konnektor-frontender og
+kompenseringsvolumer. Denne risikoen øker betydelig hvis det er betydelig marin eller
+kalkholdig vekst.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 34av62
+Unrestricted
+Ved rengjøring eller håndtering av jumpere og konnektorer etter gjenvinning, skal det
+brukes egnet verneutstyr (hansker, vernebriller) til alle flom- og kompensasjonsporter er
+frie.
+Forsiktig! Risiko for korrosjon på elektriske kontakter.
+Etter gjenvinning kobles hunnkonnektoren til en fullstendig blindplugg, eller hvis det
+brukes en Acetal-beskyttelseshette, må det sikres at pinnen og hetten er helt tørre (se
+avsnitt 8.1)
+Hvis lagringen skjer på et sted med høy fuktighet eller saltinnhold, f.eks. på dekket eller i
+lasterommet på et skip, skal det brukes fulle blindkonnektorer..
+6.4 Slangehåndtering og -ruting
+6.4.1 Generell veiledning (overflate og subsea)
+Slangen skal legges slik at den ikke under noen omstendighet bøyes utover MBR (overflate eller subsea). Vær
+forsiktig når du lager monteringsarrangementer for slanger og føyelige monteringkonnektorer, for å sikre at
+slangen ikke bøyes mer enn MBR.
+Det bør iverksettes tiltak for å unngå at slangen strammes for mye, noe som kan føre til at slangens MBR
+overskrides eller at den får knekk. Dette er spesielt viktig når slangen er på overflaten, siden slangens vekt i
+luft er betydelig større enn vekten i vann (se spesifikke slangevektverdier i avsnitt 4).
+På overflaten (i luft) er maksimal lengde på horisontal slange uten støtte 2 m. Når slangen er vertikalt
+orientert i luft, er maksimal lengde uten støtte 5 m. Disse verdiene gjelder både Gorilla- og AquaTRON-
+slanger. (Se avsnitt 6.4.2 for informasjon om subsea-håndtering av flying-kabelnett.)
+Hvis konnektorene for våtsammenkobling er orientert vertikalt med pluggen over konnektoren, blir det en
+brå endring i pluggslangens orientering hvis denne slangen ikke er støttet opp. I slike situasjoner anbefaler
+Siemens Energy at høyden fra underlaget til hunnkonnektoren ikke overstiger 3 m, for å unngå at slangens
+vekt overskrider MBR.
+Figur 18 – AquaTRON (venstre) og Gorilla (høyre) slanger ved minste bøyeradius
+Slangen er av natur noe bestandig mot bøying/knekking, men hvis det påføres belastning på grunn av uegnet
+ruting rundt hjørner på en struktur (hvis slangens MBR ignoreres) eller kraft på grunn av slangevekt uten
+oppstøtting (ut over angitt maksverdi), kan det forårsake skade på ledere eller termineringer, og det må
+iverksettes tiltak for å unngå dette i alle applikasjoner, både på overflaten og i vann.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 35av62
+Unrestricted
+Figur 19 – Feil bøyd AquaTRON- (oransje) og Gorilla- (gul) slange
+Siemens anbefaler å bruke «formere» for å unngå at slangens MBR overskrides når den passerer over skarpt
+vinklede overflater (gjennom eller rundt strukturer). Disse formerne kan også brukes til å støtte fritthengende
+slanger som er lengre enn de ovenstående grensene.
+Formere kan produseres etter Siemens' anbefalte design (som vist nedenfor) eller etter klientspesifikk design,
+og festes til kundens struktur etter behov.
+ANBEFALT FORMERDESIGN
+Figur 20 – Plateformer
+Figur 21 – «U»-former
+SLANGE U/D SOM MINIMUM
+ ETTER BEHOV
+MBR SOM MINIMUM
+ETTER BEHOV
+ETTER BEHOV
+ETTER BEHOV
+ETTER BEHOV
+MRB SOM MINIMUM
+SLANGE U/D SOM
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 36av62
+Unrestricted
+Figur 22 – «L»-former
+Figur 23 – «U»-former
+Figur 24 – Midlertidig festet former (f.eks. for SIT på overflaten)
+Buntebånd
+eller klemmer
+ETTER BEHOV
+ETTER BEHOV
+ETTER BEHOV
+MRB SOM MINIMUM
+SLANGE U/D SOM
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 37av62
+Unrestricted
+Figur 25 – «L»-former
+Hvis det er nødvendig med midlertidig slangestøtte under SIT, kan det opprettes et midlertidig forhøyet gulv
+ved bruk av utstyr som stillas, sakseløfter, stige osv., eller et produsert stativ med en påmontert former. Se
+eksempel på et slikt stativ i Figur 26 nedenfor.
+Figur 26 – Produsert stativ med former til slangeoppstøtting
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 38av62
+Unrestricted
+6.4.2 Undervannsmanøvrering av «flying» kabelnett
+--Forsiktig!  Risiko for skade på eiendom.
+Maksimal slangelengde uten oppstøtting i vann for SpecTRON 8-kabelnett er 30 m
+SpecTRON 8 flying-kabelnett på 30 m eller mindre krever ingen oppdriftshjelpemidler for utplassering
+under vann.
+SpecTRON 8 flying-kabelnett på mer enn 30 m krever oppdriftshjelpemidler som er egnet for å tåle en vekt
+på 1,45 kg (se avsnitt 4) per meter lengde som overstiger 30 m. En 50 meter lang EFL krever for eksempel
+oppdriftshjelpemidler som dekker 20 meter ekstra slangevekt, som er 29 kg (20*1,45 = 29 kg).
+Disse oppdriftshjelpemidlene må plasseres jevnt for å sikre at termineringen i hver ende av jumperen ikke
+belastes med mer enn 30 meter jumper. Oppdriftshjelpemidlene skal festes til jumperkabelen med en myk
+stropp.
+6.4.3 Føyelig montert konnektor
+Vær nøye med å vurdere plasseringen av den første klemmen på en føyelig montert konnektor, slik at
+konnektorens føyelighet ikke begrenses eller belastning overføres til slangen og kabelen. Der det kreves
+klemme på føyelig monterte konnektorer, anbefales det å bruke en anordning av «S»-type eller lignende,
+som vist i Figur 27 for å ta opp konnektorens potensielle bevegelse.
+Figur 27 – Potensiell fastklemming av slangen på føyelig konnektor
+Føyelig montert
+konnektor
+Stauff -klemme
+eller lignende
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 39av62
+Unrestricted
+6.5 MUTU-kabelhåndtering
+Umbilical-strømkablene må strekke seg rett ut av MUTU-kabelgjennomføringene i minst 200 mm. Hvis
+umbilical-kablene må flyttes eller bøyes etter at MUTU-termineringen er fullført, må jigger eller klemmer
+brukes for å hindre at kablene beveger seg inne i MUTU-gjennomføringene. Dette er nødvendig for å unngå
+problemer med MUTU-kabeltetningssystemet.
+Dette behovet for en klemme gjelder også hvis selve MUTU-enheten må flyttes etter at
+kabeltermineringen er fullført og MUTU-enheten er installert i umbilical-termineringsenheten.
+Figur 28 – Nødvendig lengde for rett kabel og MUTU-klemmeposisjon
+6.6 ROV-manipulator
+SpecTRON 8-konnektorene er utstyrt med enten et ISO 13628 T-håndtak eller et ISO 13628 fiskehalehåndtak.
+6.6.1 T-håndtak
+Konnektorer med T-håndtak må manipuleres med en ROV-manipulator med parallellkjeft som vist i Figur 29.
+Figur 29 – Anbefalt ROV-manipulatorkjeft for T-håndtak
+T-håndtaket skal holdes i tverrstangen til T-en som vist i Figur 30, ikke i skaftet. Hvis T-stangen holdes feil, er
+det risiko for at låsemekanismen på kontakten ikke går riktig i inngrep.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 40av62
+Unrestricted
+Figur 30 – Håndtering av ROV-konnektor (uten og med låsemekanisme)
+6.6.2 Fiskehalehåndtak
+Konnektorer med fiskehalehåndtak må manipuleres ved bruk av en 3-fingers ROV-manipulatorkjeft, som vist
+i Figur 31. Håndtaket skal holdes i ROV-kjeften som vist i Figur 32.
+Figur 31 – Anbefalt ROV-manipulatorkjeft for fiskehalehåndtak
+Figur 32 – Håndtering av ROV-konnektor
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 41av62
+Unrestricted
+6.7 Tilkobling av ROV Wet Mate Pair Subsea
+6.7.1 Kontroller før sammenkobling
+Før sammenkobling må kappen på hunnkonnektoren kontrolleres for smuss. Konnektorene er konstruert for
+å tåle sand- og slamforurensning. Store partikler må imidlertid fjernes.
+6.7.2 Uten ekstra låsemekanisme
+Forsiktig!  Risiko for skade på eiendom.
+Alt sammenkoblingsutstyr som brukes til å sammenkoble SpecTRON 8 konnektorpar må
+være utformet i samsvar med veiledningen for innrettingsavvik og grensesnitt fra Siemens
+Subsea for å unngå skade på konnektorparet.
+Ikke trekk i ROV-håndtaket for å kontrollere at konnektoren er koblet riktig til, da dette vil
+frigjøre den innvendige låsemekanismen og koble fra konnektoren.
+Trekk aldri i ROV-håndtaket uten først å koble ut låsemekanismen, da dette kan føre til
+skade på låsemekanismen. (Gjelder bare konnektorer med ekstra låsemekanisme)
+Advarsel! Risiko for personskade som følge av at kroppsdeler setter seg fast i
+sammenkoblingsverktøyene
+Alle sammenkoblingsmetoder som brukes til sammenkobling av SpecTRON 8-
+konnektorparene, skal være i samsvar med gjeldende standarder og forskrifter for
+maskineri.
+Konnektorene vil innrette seg selv under sammenkobling.De må imidlertid innrettes omtrentlig ved hjelp av
+innrettingsmerkene på toppen av konnektorhuset og innrettingsflensen/innrettingskappen før
+sammenkobling.
+Figur 33 – Visuelle innrettingsindikatorer på plugg og hunnkonnektor (belagte konnektorer)
+Innrettingsindikatorer
+Fysisk kile / kilespor
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 42av62
+Unrestricted
+Figur 34 – Kilespor for fysisk innretting i forhold til visuell indikator (konnektorer uten belegg)
+Føyelighet er innebygd i konnektorhåndtaket og hunnkonnektorfestet. Denne fleksibiliteten muliggjør
+innrettingsavvik og gir mulighet for finjustering under den endelige tilnærmingen før konnektorinngrep.
+Sammenkoblingsbevegelsen bør være så nær én jevn bevegelse som mulig, dvs. unngå «pumping». Piloten
+skal bruke ROV-manipulatorkjeften til å gripe ROV-håndtaket som vist i Figur 30 eller Figur 32.
+Den interne låsemekanismen aktiveres ved å skyve konnektorene sammen til flensene på pluggen og
+hunnkonnektoren er helt på plass, som vist i Figur 37.
+For å sikre korrekt inngrep må ROV-piloten åpne kjeftene og utføre en endelig skyveoperasjon før den
+trekkes ut av T-stangen med helt åpne kjefter, som vist i Figur 35. Dette sikrer at den interne
+låsemekanismen ikke frigjøres ved et uhell når ROV-en trekkes bort fra konnektoren.
+Figur 35 – Endelig skyveoperasjon med åpne kjefter
+6.7.3 Med ekstra låsemekanisme
+Prosedyren for sammenkobling av en konnektor med låsemekanisme er den samme som for
+standard ROV-konnektor uten låsemekanisme (se avsnitt 6.7.2).
+Innrettingsindikatorer
+Fysisk kile / kilespor
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 43av62
+Unrestricted
+Låsemekanismen aktiveres automatisk under sammenkobling og krever ingen ekstra handling fra
+ROV-piloten.
+Figur 36 – Innrettingsindikatorer (konnektorer med låsemekanisme)
+6.7.4 Kontroller etter sammenkobling
+Alle konnektorer
+Når den slippes, kan det være et lite mellomrom mellom de to delene (på grunn av at fjærene i pluggen
+skyver mot pinnene i hunnkonnektoren). Skulderen på pluggen skal også ligge an mot kappen på
+hunnkonnektoren.
+Figur 37 – Kontroll av sammenkobling – Fullstendig sammenkoblet. (OBS! Liten åpning mellom flensene)
+I henhold til beste bransjepraksis anbefaler Siemens Energy at alle ROV-sammenkoblingsoperasjoner tas opp
+på video og lagres for fremtidig referanse.
+Pinner
+Låser
+Innrettingsindikatorer
+Fysisk kile / kilespor
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 44av62
+Unrestricted
+Med ekstra låsemekanisme
+Figur 38 – Kontroll av sammenkobling – Låsemekanisme i inngrep.
+Korrekt inngrep i låsemekanismen må bekreftes ved visuell inspeksjon som vist i Figur 38. Hvis kontrollen
+etter sammenkobling viser at låsemekanismen ikke er i riktig inngrep, må pluggen kobles fra ved å følge
+prosedyren i avsnitt 6.8, og deretter kobles sammen på nytt som beskrevet i avsnitt 6.7.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 45av62
+Unrestricted
+6.8 Koble fra ROV Wet Mate Pair Subsea
+Forsiktig!  Risiko for skade på eiendom.
+Alt sammenkoblingsutstyr som brukes til sammenkobling av SpecTRON 8 konnektorpar
+må være designet i samsvar med veiledningen for innrettingsavvik og grensesnitt fra
+Siemens Energy Subsea for å unngå skade på konnektorparet.
+Hvis ROV-håndtaket holdes feil, er det risiko for at den innvendige låsemekanismen i
+konnektoren ikke løsner som den skal.
+Dra aldri i nippelen eller slangen for å koble fra konnektoren
+6.8.1 Uten ekstra låsemekanisme
+Grip ROV-håndtaket (T-håndtak eller fiskehale) på riktig måte med ROV-kjeftene (Figur 30 eller Figur
+32).
+Frakobling oppnås ved et rett trekk i ROV-håndtaket, tilstrekkelig til å frigjøre den innvendige
+låsemekanismen.
+6.8.2 Med ekstra låsemekanisme
+ROV-piloten må først frigjøre låsemekanismen før konnektoren kobles fra.
+Låsemekanismen frigjøres ved å skyve utløserhendelen forover med tuppen av ROV-
+manipulatorkjeften som vist i Figur 39.
+Låsene frigjøres fra hunnkonnektorpinnene når hendelen skyves helt forover som vist i Figur 39.
+Når denne handlingen er utført på riktig måte, forblir utløserhendelen i fremre posisjon etter at ROV-
+kjeften er trukket tilbake.
+Detaljvisningen i Figur 39 viser låsene i utkoblet posisjon.
+For å koble fra konnektoren, grip ROV-håndtaket (T-håndtak eller fiskehale) på riktig måte med ROV-
+kjeften (Figur 30 eller Figur 32).
+Frakobling oppnås ved et trekk i ROV-håndtaket, tilstrekkelig til å frigjøre den innvendige
+låsemekanismen. Ikke trekk i nippelen eller slangen.
+Når konnektoren kobles fra, går utløserhendelen automatisk tilbake til standardstilling. ROV-pilot
+trenger ikke å gjøre noe.
+Ved frakobling tilbakestilles låsemekanismen automatisk, og den kan umiddelbart kobles til på nytt
+om nødvendig. ROV-pilot trenger ikke å gjøre noe før den kobles sammen igjen.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 46av62
+Unrestricted
+Figur 39 – Låsemekanisme frakoblet
+Utløserhen
+del
+ROV -
+håndtak
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 47av62
+Unrestricted
+6.9 Koble til ROV Wet Mate Pair manuelt / på overflaten
+Forsiktig!  Risiko for skade på eiendom.
+Alt sammenkoblingsutstyr som brukes til sammenkobling av SpecTRON 8 konnektorpar
+må være designet i samsvar med veiledningen for innrettingsavvik og grensesnitt fra
+Siemens Energy Subsea for å unngå skade på konnektorparet.
+Ikke trekk i ROV-håndtaket for å kontrollere at konnektoren er koblet riktig til, da dette vil
+frigjøre den innvendige låsemekanismen og koble fra konnektoren.
+Trekk aldri i ROV-håndtaket uten først å koble ut låsemekanismen, da dette kan føre til
+skade på låsemekanismen (gjelder kun konnektorer med ekstra låsemekanisme).
+Advarsel! Risiko for personskade som følge av at kroppsdeler setter seg fast i
+sammenkoblingsverktøyene
+Alle sammenkoblingsmetoder som brukes til sammenkobling av SpecTRON 8-
+konnektorparene, skal være i samsvar med gjeldende standarder og forskrifter for
+maskineri.
+6.9.1 Kontroller før sammenkobling
+Før sammenkobling av konnektorparet påbegynnes, forutsettes det at:
+Hunnkonnektoren er montert på den tilhørende monteringsplaten
+Pluggkonnektoren befinner seg i nærheten.
+Det skal være gripestenger eller andre holdepunkter på monteringsstrukturen til hunnkonnektoren.
+Disse skal gi dykkeren grep slik at han/hun kan håndtere koplingen i brysthøyde.
+6.9.2 Uten ekstra låsemekanisme
+Fjern beskyttelseshetten fra pluggkonnektoren, eller fjern den som beskrevet i fremgangsmåten for
+manuell frakobling nedenfor hvis pluggkonnektoren er koblet til en parkerings-/dummy-hunnkonnektor.
+Hvis en blindpluggkonnektor er koblet til hunnkonnektoren, fjernes den ved hjelp av den manuelle
+frakoblingsprosedyren som er beskrevet nedenfor.
+Inspiser hunnkonnektorpinnene og dekselet, og kontroller at de er rene og fri for rusk og lignende. Fjern
+eventuelle rester ved hjelp av en vannstråle (i vann) eller ved å tørke av dem (i luft).
+Sett pluggkonnektorens nese inn i kappen på hunnkonnektoren, og plasser først kilen på pluggnesen i
+kilesporet på hunnkonnektorkappen ved hjelp av innrettingsindikatorene, som vist i Figur 33 og Figur
+34. Vær oppmerksom på at den fysiske kilen/kilesporet er plassert på undersiden av konnektorene.
+Operatøren skal nå plassere seg i en komfortabel posisjon, vinkelrett på, klar til å koble konnektorene
+helt sammen. Konnektoren skal være i brysthøyde, med gripestenger eller andre holdepunkter for
+formålet på monteringsstrukturen lett tilgjengelig. Operatøren bruker gripehåndtak eller annet til å
+støtte seg (dvs. festet til strukturen), og kobler til konnektoren ved å holde i ROV-håndtaket (Figur 40)
+og bruke ett enkelt slag til å skyve pluggkonnektoren til den ligger an mot hunnkonnektoren. Det kreves
+en maksimal kraft på 76,5 kgf (750N) for å koble sammen konnektorene. Pass på at
+sammenkoblingsbevegelsen er jevn, og at operatøren kan fullføre bevegelsen i én jevn og konsistent
+bevegelse. Kontroller at konnektorene ikke har glidd ut igjen og at de er låst i helt sammenkoblet stilling.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 48av62
+Unrestricted
+Når enden av pluggkonnektoren stopper i hunnkonnektoren, aktiveres den interne fjærbelastede
+låsemekanismen, som hindrer frakobling av konnektorene. Hvis du trekker i ROV-håndtaket, deaktiveres
+denne låsen, og konnektorene kobles dermed fra.
+Figur 40 – Sammenkobling med ROV-håndtak
+For å kontrollere at konnektorene er helt sammenkoblet og at pluggen er riktig låst i helt sammenkoblet
+stilling, trekker du forsiktig i pluggkonnektoren ved å holde den nedovervinklede delen av pluggnippelen
+nedover nær slangetermineringen, som vist i Figur 41. Hvis konnektorene er riktig låst og sammenkoblet,
+skal det ikke være noen aksial bevegelse i pluggkonnektoren. Som en visuell inspeksjon skal skulderen
+på pluggen ligge an mot kappen på hunnkonnektoren. Når den slippes, kan det imidlertid være et lite
+mellomrom mellom hunnkonnektoren og konnektoren (på grunn av at fjærene i pluggen skyver mot
+hunnkonnektorpinnene), som vist i Figur 37.
+Figur 41 – Kontroller at konnektorene er sammenkoblet
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 49av62
+Unrestricted
+6.9.3 Med ekstra låsemekanisme
+Prosedyren for sammenkobling av en konnektor med låsemekanisme er den samme som for
+standard ROV-konnektor uten låsemekanisme (se avsnitt 6.9.2).
+Låsemekanismen aktiveres automatisk under sammenkobling, og krever ingen ekstra handling fra
+operatøren.
+6.9.4 Kontroller etter sammenkobling:
+Riktig innkobling av låsemekanismen må fastslås ved visuell inspeksjon (Figur 38).
+Hvis kontrollene etter sammenkoblingen viser at låsemekanismen ikke er i riktig inngrep (Figur 38),
+må pluggen frakobles ved å følge prosedyren i avsnitt 6.10 og deretter kobles til igjen ved å følge
+prosedyren i avsnitt 6.9
+Skulderen på pluggen skal ligge an mot kappen på hunnkonnektoren.
+Som en ekstra bekreftelse på at konnektorene er helt sammenkoblet og pluggen er riktig låst i
+sammenkoblet stilling, trekker du forsiktig i pluggkonnektoren ved å holde i den nedovervinklede
+delen av pluggnippelen nær slangetermineringen, som vist i Figur 41 . Hvis konnektorene er riktig låst
+og sammenkoblet, skal det ikke være noen aksial bevegelse i pluggkonnektoren.
+6.10 Koble fra ROV Wet Mate Pair manuelt / på overflaten
+Forsiktig!  Risiko for skade på eiendom.
+Alt sammenkoblingsutstyr som brukes til å sammenkoble SpecTRON 8 konnektorpar må
+være utformet i samsvar med veiledningen for innrettingsavvik og grensesnitt fra Siemens
+Subsea for å unngå skade på konnektorparet.
+Hvis ROV-håndtaket holdes feil, er det risiko for at den innvendige låsemekanismen i
+konnektoren ikke løsner som den skal.
+Dra aldri i nippelen eller slangen for å koble fra konnektoren
+Advarsel! Risiko for personskade som følge av at kroppsdeler setter seg fast i
+sammenkoblingsverktøyene
+Alle sammenkoblingsmetoder som brukes til sammenkobling av SpecTRON 8-
+konnektorparene, skal være i samsvar med gjeldende standarder og forskrifter for
+maskineri.
+6.10.1 Uten ekstra låsemekanisme
+Før frakobling av konnektorparet påbegynnes, forutsettes det at hunnkonnektoren er montert i den
+tilhørende strukturen, og at en pluggkonnektor er koblet sammen med den.
+Operatøren må holde i gripestengene eller andre holdepunkter for formålet, og sørge for at konnektoren
+er i brysthøyde. Ved å gripe ROV-håndtaket (som vist i Figur 17), kan konnektoren kobles fra
+hunnkonnektoren med én jevn trekkbevegelse langs konnektorenes akse. Når du trekker i ROV-
+håndtaket, frigjøres den innvendige låsemekanismen automatisk. Det kreves en kraft på 40 kgf (392N)
+for å koble fra konnektorene.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 50av62
+Unrestricted
+Når pluggkonnektoren er helt atskilt fra hunnkonnektoren, kan den eventuelt kobles til
+parkeringskonnektoren ved hjelp av trinnene som er beskrevet i sammenkoblingsprosedyren i avsnitt
+6.9.
+En blindplugg må også kobles til den gjenværende hunnkonnektoren, igjen ved bruk av
+sammenkoblingsprosedyren i avsnitt 6.9.
+6.10.2 Med ekstra låsemekanisme
+ Før frakobling av konnektoren må operatøren først frigjøre låsemekanismen.
+ Låsemekanismen frigjøres ved å skyve utløserhendelen helt forover.
+ Låsene frigjøres fra hunnkonnektorpinnene når hendelen skyves helt frem. ( Figur 39 )
+ Når denne handlingen utføres på riktig måte, vil utløserhendelen forbli i fremre posisjon etter at
+operatøren har fjernet hånden.
+ Operatøren må holde i gripestengene eller andre holdepunkter for formålet, og sørge for at konnektoren
+er i brysthøyde. Ved å gripe ROV-håndtaket (som vist i Figur 40), kan konnektoren kobles fra
+hunnkonnektoren med én jevn trekkbevegelse langs konnektorenes akse.
+ Når du trekker i ROV-håndtaket, frigjøres den innvendige låsemekanismen automatisk. Det kreves en
+kraft på 40 kgf (392N) for å koble fra konnektorene.
+ Når konnektoren er koblet fra, tilbakestilles låsemekanismen automatisk og kan kobles til igjen
+umiddelbart. Utløserhendelen går automatisk tilbake til standardstilling. Dette kan bekreftes med en
+rask visuell inspeksjon
+ Når pluggkonnektoren er helt atskilt fra hunnkonnektoren, kan den eventuelt kobles til
+parkeringskonnektoren ved hjelp av trinnene som er beskrevet i sammenkoblingsprosedyren i avsnitt
+6.9.
+ En blindplugg må også kobles til den gjenværende hunnkonnektoren, igjen ved bruk av
+sammenkoblingsprosedyren i avsnitt 6.9.
+6.11 Testkonnektorer
+Forsiktig!  Risiko for skade på eiendom.
+Riktig testkonnektor må alltid brukes til å opprette elektrisk kontakt under testing.
+Fremmedlegemer (som skrutrekker, testprobe eller krokodilleklemme) må ikke under
+noen omstendighet brukes som testkonnektor, da dette kan skade tetningene og
+isolasjonen. Det fører til at produktgarantien blir ugyldig.
+Fare! Risiko for dødsfall som følge av elektrisk støt
+Riktig testkonnektor må alltid brukes til å opprette elektrisk kontakt under testing.
+Andre gjenstander (som skrutrekker, testprobe eller krokodilleklemme) skal ikke under
+noen omstendighet brukes som testforbindelse.
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+Advarsel! Risiko for personskade som følge av at kroppsdeler setter seg fast i
+sammenkoblingsverktøyene
+Alle sammenkoblingsmetoder som brukes til sammenkobling av SpecTRON 8-konnektorparene,
+skal være i samsvar med gjeldende standarder og forskrifter for maskineri.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 51av62
+Unrestricted
+SpecTRON 8-konnektorene kan testes elektrisk ved hjelp av SpecTRON 8-plugg og hunnkonnektor for test på
+overflaten med løse kabler som vist nedenfor i Figur 42.
+Disse ledningsnettene termineres med 3 stk. M10-kabelsko for tilkobling til en HV-forsyning og 3 stk. M4-
+kabelsko for tilkobling til en jordkilde. Kabelhåndteringen må vurderes for å sikre at HV- og jordforbindelsene
+holdes atskilt med størst mulig rimelig avstand for å sikre at det ikke forekommer overslag mellom de ulike
+kjernene og jord.
+Rengjøring skal kun utføres med «safe wipes». «Safe wipes» er tilgjengelige på Internett, og er lofrie, ikke-
+statiske, IPA-baserte servietter for elektronikk. Det må også tas hensyn til veiledning i avsnitt 8.2 om marin
+vekst og fjerning av kalkholdige avleiringer.
+Figur 42 – Tilkoblingspunkter for kabelnett med løse kabler
+Figur 43 – Innrettingsindikatorer (testkonnektorer på overflaten)
+6.11.1 ROV Wet Mate Pair
+Utformingen av disse konnektorene er basert på ROV-sammenkoblingsmekanismen som beskrevet i tidligere
+avsnitt, derfor er det ikke nødvendig med ekstra sammenkoblings-/festeutstyr. Kragen, bolten og mutrene
+er ikke nødvendig for tilkobling til ROV-wetmate-konnektorene, og kan derfor fjernes før instruksjonene i
+avsnitt 6.9 følges.
+Innrettingsindikatorer
+Fysisk kile / kilesporROV-baserte
+låsefunksjonerManuelt
+betjent
+håndtak3 STK. JORDINGSKOBLING (M4 KABELSKO)
+3 STK. HV-KOBLINGER (M10 KABELSKO)
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 52av62
+Unrestricted
+6.11.2 Enkel ESP-gjennomføring
+Test-hunnkonnektorer
+SpecTRON 8 test-hunnkonnektorer er utstyrt med en krage, bolt og mutre som kan brukes til å holde test-
+hunnkonnektoren på plass.
+Figur 44 – SpecTRON 8 test-hunnkonnektor med krage, bolt og mutre
+For å trekke konnektorene sikkert sammen skal SpecTRON 8 test-hunnkonnektoren føres frem til subsea-
+konnektoren og trekkes inn med skruebolten for å sikre at det ikke er mulig for konnektoren å «sprette ut
+igjen».
+Testplugg
+SpecTRON 8 hunnkonnektor for slangeoppheng har de nødvendige låsefunksjonene for inngrep med
+låsemekanismen på ROV-konnektoren. Følg derfor anvisningene i avsnitt 6.9.
+6.11.3 Dobbel ESP-gjennomføring
+Test-hunnkonnektor
+Test-hunnkonnektoren med dobbel ESP-gjennomføring er festet til Tree Cap-pluggen med et integrert
+låsesystem. Test-hunnkonnektoren skal skyves inn på pluggen før låsespaken dreies for å holde de to
+konnektorene sammen.
+Testplugg
+En testplugg er tilgjengelig for tilkobling til en hunnkonnektor for slangeoppheng, selv om denne konnektoren
+vanligvis bare brukes av Siemens Energys installasjonsteam på stedet. For mer informasjon, kontakt Siemens
+Energy Technical Support connectortechnicalsupport.gb@siemens-energy.com .
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 53av62
+Unrestricted
+6.12 Testing
+Fare! Risiko for dødsfall som følge av elektrisk støt
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+Forsiktig!  Risiko for skade på eiendom.
+Alt sammenkoblingsutstyr som brukes til å sammenkoble SpecTRON 8 konnektorpar må
+være utformet i samsvar med veiledningen for innrettingsavvik og grensesnitt fra Siemens
+Subsea for å unngå skade på konnektorparet.
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+Ikke koble til en frakoblet hunnkonnektorpinne uten å bruke en testplugg
+6.12.1 Testnivåer
+SpecTRON 8 konnektorer og penetratorer gjennomgår et komplett FAT-program som en del av
+produksjonsprosessen. Penetratorer underlegges også SIT-testing etter installasjon av Siemens Energy
+Subsea Connectors på kundeutstyr (f.eks. transformatorer, motorer). Det er også mulig for kundene å utføre
+ytterligere testing, underlagt restriksjonene som er beskrevet nedenfor.
+6.12.2 Elektriske tester
+Testing av solasjonsmotstand
+oKonnektorene kan underlegges testing av isolasjonsmotstand ved spenninger opptil 5 kV.
+Det er ikke mulig å angi et universelt akseptkriterium siden resultatet er avhengig av
+testopplegget, kabelens/ledningens lengde og utstyret (f.eks. motor, transformator) under
+test. For verifiseringstester av utstyr etter levering, må resultatene som oppnås på stedet
+sammenlignes med resultatene fra akseptansetestene som er beskrevet i
+produksjonsdokumentasjonen for utstyret.
+Testing av linjemotstand
+oKonnektorer og penetratorer kan underlegges linjemotstandstester ved enten lav strøm eller
+nominell strøm. Se spesifikasjonene for konnektoren eller prosjektet før du starter en test
+ved nominell strøm. Det er ikke mulig å angi et universelt akseptkriterium siden resultatet er
+avhengig av testopplegget, kabelens/ledningens lengde og utstyret (f.eks. motor,
+transformator) under test. For verifiseringstester av utstyr etter levering, må resultatene
+som oppnås på stedet sammenlignes med resultatene fra akseptansetestene som er
+beskrevet i produksjonsdokumentasjonen for utstyret.
+Høyspenningstesting
+oSelv om det er mulig å utføre høyspente AC- eller DC-tester av konnektorer, jumpere og
+penetratorer, må teknisk avdeling hos Siemens Energy Subsea Connectors konsulteres før
+testing påbegynnes.
+Delvis utladingstest
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 54av62
+Unrestricted
+oRådfør deg med Siemens Energy Subsea Connectors tekniske avdeling før du utfører delvis
+utladingstesting (PD) av kabelnett, konnektorer eller penetratorer.
+6.12.3 Trykk-/hydrostatiske tester
+Hydrostatiske tester
+oKonnektorene kan underlegges hydrostatisk testtrykk som definert i databladene for
+konnektoren og kabelnettet.
+Differansetrykktesting (penetratorer)
+Penetratorer kan underlegges differensialtrykktesting som definert i prosjektkravene eller
+konnektordatabladet.
+Gasstesting (penetratorer)
+oPenetratorer kan utsettes for lavtrykks heliumlekkasjetesting av miljøtetninger, men må ikke
+testes med høytrykksgass. Det er ikke mulig for sluttbrukeren å utføre lekkasjetesting på
+konnektorer eller kabelnett.
+6.12.4 Visuell inspeksjon
+Etter en systemintegrasjonstest skal det utføres en fullstendig inspeksjon av alt testet SpecTRON-utstyr.
+Fokuser på kritiske områder som hunnkonnektorpinnen og hunnkonnektorens skjermkontakt, som må være
+fri for mekaniske skader som riper eller hakk.
+Hvis SIT krever at SpecTRON-utstyret er delvis eller helt nedsenket i vann eller sjøvann, må de gjennomgå en
+fullstendig rengjøringsprosess som beskrevet i avsnitt 8.1 uansett om de skal plasseres på lager eller forbli på
+strukturen for utplassering.
+6.13 Hurtigreferanser
+Se hurtigreferanser for produktet i avsnitt 1.3, som inneholder grunnleggende informasjon om advarsler,
+forholdsregler og kontaktopplysninger og annen informasjon.
+I tillegg til det ovenstående er noen detaljer også angitt på produktetiketten og merkingen, f.eks. systemtype,
+delenummer (P/N), serienummer (S/N), elektrisk, trykk- og temperaturklassifisering som beskrevet i avsnitt
+1.3 og 1.4.
+6.14 Kassering av avfallsprodukter
+Det anbefales å kassere eller resirkulere avfallsemballasje og/eller utrangert produkt på en sikker måte ifølge
+lokale, regionale, nasjonale eller internasjonale miljøbestemmelser der det er aktuelt.
+For retur av avfallsemballasje og/eller utrangert produkt til produsenten, kontakt Product Safety Officer på
+subsea.connectors.productsafety.gb@siemens-energy.com .
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 55av62
+Unrestricted
+7 BRUKERINFORMASJON
+7.1 Normal og feil/farlig drift
+7.1.1 Synlig oljelekkasje fra konnektoren
+Under normal bruk av SpecTRON 8 wet mate-paret er det normalt at det ligger igjen en oljefilm på
+kontaktpinnen etter sammenkobling. Det kan også være igjen litt oljerester i kompenseringsvolumet inne i
+konnektoren, som kan være synlig under den første våte testingen.
+Kontinuerlig eller sterk oljelekkasje fra kompensasjonsportene på nippelen og pluggen eller fra pluggnesen,
+kan være tegn på skade på konnektorens innvendige deler.
+7.1.2 Beskyttelse av hunnkonnektorens kontaktpinner
+Forsiktig!  Risiko for skade på eiendom.
+Kontaktpinnene i hunnkonnektoren må ikke under noen omstendighet eksponeres for
+sjøvann med strømmen på. Hvis en slik situasjonen oppstår, vil kontaktoverflatene på
+pinnene svært raskt bli forringet av elektrolytisk påvirkning.
+Hvis disse skadede pinnene deretter kobles til en konnektorinnsats, er det svært høy risiko
+for skade på isolasjonen og tetningene inne i pluggkonnektoren.
+Hvis konnektorene skal etterlates frakoblet i sjøvann, må blindkonnektorer og subsea-miljøhetter brukes for
+å beskytte pinnekontaktene i hunnkonnektorene. Maksimalt samlet tidsrom der pinnekontaktene kan
+eksponeres for sjøvann i hele konnektorens levetid er 60 dager, for konnektorer som er levert før 2013, er
+denne varigheten 28 dager.
+Overeksponering øker risikoen for korrosjonsskade eller marin vekst på kontaktflatene på pinnene i
+hunnkonnektoren. Dette kan føre til skade på tetningene og isolasjonen inne i pluggkontaktene.
+7.2 Katodisk beskyttelse
+SpecTRON 8-konnektorene er vanligvis produsert av Super Duplex rustfritt stål (UNS S32550/UNS S32760).
+Noen modulære umbilical-termineringsenheter (MUTU), testkonnektorer, umbilical-termineringer og
+tilbehør er produsert av 316L rustfritt stål (UNS S31603).
+7.2.1 Super Duplex (UNS S32550/UNS S32760, Siemens Energy Subsea Connectors-materiale
+«BQ»)
+Super Duplex-konnektorer og penetratorer i rustfritt stål krever ikke tilkobling til et CP-system, og Siemens
+Energy Subsea Connectors leverer vanligvis ikke CP-stropper med Super Duplex-konnektorer, men hvis det
+er nødvendig, kan Siemens Subsea Connectors levere CP-stropp med Super Duplex-konnektorer med samme
+spesifikasjon som stroppen som brukes på 316L-konnektorer, som over.
+SpecTRON 8-konnektorer produsert i Super Duplex-materialer er analysert for følsomhet overfor HISC i
+samsvar med DNV RP-F112 (Design av subsea-utstyr i Duplex rustfritt stål eksponert for katodisk beskyttelse).
+De kan derfor kobles til katodiske beskyttelsessystemer, men siden kalkholdig vekst kan variere under ulike
+sjøvannsforhold, er det sluttbrukerens ansvar å evaluere den kalkholdige veksten som forventes i løpet av
+konnektorsystemets levetid.
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 56av62
+Unrestricted
+7.2.2 Rustfritt stål 316L (UNS S31603, Siemens Energy Subsea Connectors-materiale «AA»)
+Forsiktig!  Risiko for skade på eiendom.
+Modulære umbilical-termineringsenheter (MUTU) i rustfritt stål 316L (UNS S31603) må
+alltid være koblet til et CP-system (katodisk beskyttelse) for å tåle krevende, saltholdige
+miljøer.
+Siemens Energy Subsea Connectors har en CP-stropp med konnektorer som er produsert i den lengden som
+er spesifisert av sluttbrukeren. CP-stroppen er produsert i 316 rustfritt stål med et tverrsnitt på 16 mm2, og
+en M6-ringterminal for tilkobling til CP-systemet.
+7.3 Feilsøking (vanlige spørsmål)
+Hvis du har spørsmål som ikke er inkludert nedenfor, kan du kontakte en av følgende:
+Avdeling E-postadresse
+Produktsikkerhet subsea.connectors.productsafety.gb@siemens-energy.com
+Teknisk støtte connectortechnicalsupport.gb@siemens -energy.com
+Installasjon og service susultlcmsupport.gb@siemens-energy.com
+Salg connectorsales.gb@siemens-energy.com
+Tabell 8 – Kontaktopplysninger for produktfeilsøking
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 57av62
+Unrestricted
+8 PRODUKTVEDLIKEHOLD
+Fare! Risiko for dødsfall som følge av elektrisk støt
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+Forsiktig!  Risiko for skade på eiendom.
+Konnektorene må ikke kobles fra mens de er strømførende.
+La systemet få tilstrekkelig tid til å lade ut eventuell restspenning før konnektorene kobles
+fra
+Konnektorene må være helt sammenkoblet før strømsetting
+Hunnkonnektorene må ikke være strømsatt med mindre de er koblet en plugg
+8.1 Rengjøring og tørking av konnektor
+Forsiktig!  Risiko for korrosjon på elektriske kontakter.
+Den spesifiserte rengjøringsprosessen må følges når konnektorene er gjenvunnet fra
+installasjonen eller etter at de har vært i kontakt med vann.
+Advarsel! Risiko for øyeskade
+Bruk egnet øyevern når trykkluft brukes til å fjerne vann eller isopropanol innvendig i
+konnektoren.
+Advarsel! Risiko for hudirritasjon
+Bruk egnet håndbeskyttelse hvis du bruker isopropanol til å rengjøre
+konnektorkomponentene
+8.1.1 Hunnkonnektor
+Skyll kappen og pinnene på hunnkonnektoren godt med ferskvann. En spruteflaske kan brukes til å
+løsne eventuell forurensning rundt spissen på pinnen.
+Hunnkonnektorpi
+nner
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 58av62
+Unrestricted
+Figur 45 – Hunnkonnektorkomponenter for tørking og rengjøring
+Figur 46 – Spiss på hunnkonnektorpinne
+Tørk av med en lofritt klut om nødvendig
+Skyll med isopropanol (IPA ren alkohol 100 %)
+Det skal ikke være rester av isopropanol eller vann i kappen på hunnkonnektoren. Trykkluft kan
+brukes til å spre oppsamlet væske, men kontaktpinnene må kontrolleres på nytt for kontaminering
+La pinnen i hunnkonnektoren tørke helt
+Det skal ikke være noen skade på kontaktområdet til hunnkonnektorpinnen (Figur 47)
+Figur 47 – Hunnkonnektorpinnens kontaktområde, som levert
+Påfør dielektrisk olje på pinnen. Den dielektriske oljen må være TDO1 for å unngå
+kompatibilitetsproblemer med elastomerkomponenter. Siemens Subsea anbefaler å utføre én
+sammenkobling med en pluggkonnektor for å sikre tilstrekkelig fordeling. (Hvis ingen plugger er
+tilgjengelige, kontakt Siemens Energy Subsea Connectors for å bestille TD01-olje)
+Beskyttelseshetten må settes på igjen på dette stadiet. Det er svært viktig at både beskyttelseshetten
+og kappen/pinnen på hunnkonnektoren er rene og tørre før montering. Dette for å unngå at fuktighet
+fanges rundt pinnekontaktområdet, noe som kan føre til korrosjon på lang sikt.
+Pinnespisser
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 59av62
+Unrestricted
+8.2 Produktvedlikehold (faglærte personer)
+8.2.1 Fjerning av marin vekst og kalkholdige avleiringer
+Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor en oppløsning
+med 50 % sitronsyre.
+Bruk egnet verneutstyr for hender og øyne ved håndtering.
+Forsiktig!  Risiko for skade på eiendom.
+Bruk bare 50 % sitronsyre ved rengjøring. Andre syreholdige rengjøringsmidler, som 50 %
+eddiksyre, skal ikke brukes da de kan forårsake forringelse av elastomermaterialer.
+Meisling og sliping anbefales ikke.
+Vannstråler i luft bør unngås for å minimere sannsynligheten for skade på konnektoren.
+Bruk av vannstråle er imidlertid akseptabelt, forutsatt at strålen aldri rettes inn i
+spennstiftene foran på pluggen eller inn i åpningen i hunnkonnektoren.
+Skyll konnektoren grundig med ferskvann etter alle rengjøringsoperasjoner
+Etter uthenting anbefaler Siemens Energy at konnektoren er rengjort for marin og kalkholdig vekst.
+Det anbefales å fjerne kalkholdige avleiringer fra Siemens Energy Subsea-konnektorer med en løsning med
+50 % sitronsyre. Figur 49 viser steder som bør unngås ved høytrykksvasking for å fjerne kalsittvekst.
+Det anbefales at løsningen føres inn gjennom spyleportadapteren (i henhold til Figur 49) for å gi maksimal
+metning i ringen i pluggen/hunnkonnektoren. Andre hulrom på hunnkonnektorkappen kan brukes til å
+innføre løsningen avhengig av tilgang.
+Alle sjøvannseksponerte elastomere og polymeriske materialer i Siemens Energy-konnektorer er testet mot
+50 % sitronsyre, og er egnet for periodisk eksponering under rengjøringsarbeid gjennom konnektorens
+levetid.
+Figur 48 – Områder som kan høytrykksvaskes på SpecTRON 8 plugg
+
+
+
+
+
+
+
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 60av62
+Unrestricted
+Figur 49 – Områder som kan høytrykksvaskes på SpecTRON 8 hunnkonnektor
+8.2.2 Uttak for spyleport
+Forsiktig!  Risiko for skade på eiendom.
+Bruk bare 50 % sitronsyre ved rengjøring. Andre syreholdige rengjøringsmidler, som 50 %
+eddiksyre, skal ikke brukes da de kan forårsake forringelse av elastomermaterialer.
+Maksimalt innsprøytingstrykk er 0,5 bar
+Advarsel! Fare for personskader
+Innsprøyting av 50 % sitronsyre i plugg/kontakt-grensesnittet skal utføres med
+konnektoren nedsenket i vann, eller med egnet sprut-/spraybeskyttelse rundt
+konnektoren.
+Bruk vernebriller hvis operasjonen utføres på overflaten
+Bruk egnet håndbeskyttelse ved håndtering av konnektorer etter separasjon
+Maksimalt innsprøytingstrykk er 0,5 bar
+SpecTRON 8-hunnkonnektorens spyleport kan kobles til en subsea «hot stab» eller utstyr på overflaten for å
+tillate innsprøyting av kjemikalier direkte ved plugg-/hunnkonnektor-grensesnittet for å fjerne kalkholdig
+vekst. Spyleportadapteren (vist i Figur 49) har et G 3/8-19 (3/8" BSP-P) grensesnitt. Dette grensesnittet kan
+konfigureres for innsprøyting i flere scenarioer, som beskrevet nedenfor:
+Koblet til et fleksibelt rør og en «hot stab» for bruk subsea på moduler som er vanskelige å gjenvinne,
+f.eks. Subsea Umbilical Termination Assembly-konnektorer (SUTA), for å forbedre motstandsdyktig
+mot kalkholdig vekst under vann
+Blokkert med en egnet propp for å beskytte gjengene mot marin og kalkholdig vekst, for å gjøre det
+mulig å bruke den etter gjenvinning for å forenkle separasjon av konnektorer på moduler som er
+utformet for gjenvinning.
+La den stå åpen hvis den ikke er ment å brukes, eller hvis det er mulig å rengjøre grensesnittet etter
+gjenvinning.
+I alle disse tilfellene kan 50 % sitronsyre injiseres i grensesnittet med et maksimalt trykk på 0,5 bar. Et volum
+på 500 ml til 1 liter vil skylle ringen mellom pluggen og hunnkonnektoren helt. Hvis konnektorene ikke løsner
+etter én påføring, kan prosessen gjentas.
+
+
+
+
+Spyleportadapter
+
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 61av62
+Unrestricted
+9 KUNDEKOMMENTARER/TILBAKEMELDINGER
+Fyll ut godkjenningsdelen nederst i skjemaet for å bekrefte at hver side i dette dokumentet er lest og fulgt i
+sin helhet.
+Opphavspersonens navn og initialer (BLOKKBOKSTAVER) Dato
+ Kontaktopplysninger  Kontaktopplysninger
+Prosjektreferanse Kunde Region
+Produkttype Delenummer (P/N) Serienummer (S/N)
+Skriv inn flere opplysninger nedenfor, f.eks. kommentarer, klager, dokumentasjon på beste praksis,
+avviksrapporter, observasjoner og anbefalinger, inkludert eventuelle punkter assosiert med helse, miljø
+eller sikkerhet osv. Inkluder også eventuelle navn/kontaktopplysninger til annet relevant personell.
+Godkjenningsdel
+Navn (BLOKKBOKSTAVER) Signatur Dato
+Send det utfylte skjemaet på e-post til Product Safety Officer på følgende adresse:
+subsea.connectors.productsafety.gb@siemens-energy.com
+Dokumentnr.: DOC0075
+Utgitt dato: 28.10.2022
+Revisjon: 16
+Side: 62av62
+Unrestricted
+Publisert av
+Siemens Energy Limited
+Faraday House Sir William Siemens Square
+Frimley, Camberley
+Surrey
+GU16 8QD, Storbritannia
+For mer informasjon, besøk vårt nettsted:
+siemens-energy.com/subsea
+Med forbehold om endringer og feil. Informasjonen i dette dokumentet
+inneholder bare generelle beskrivelser og/eller ytelsesegenskaper som kanskje
+ikke alltid gjenspeiler de som er beskrevet, eller som kan bli endret i forbindelse
+med videreutvikling av produktene. De forespurte ytelsesegenskapene er bare
+bindende når de er uttrykkelig avtalt i den inngåtte kontrakten.
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.

@@ -1,0 +1,177 @@
+As a top tier supplier of 
+compressors Siemens Energy
+has the domain expertise and 
+experience across the range of 
+several well-known legacy brands 
+of compressors including the 
+Siemens legacy and the Dresser-
+Rand legacy. This expertise comprises both the 
+compressors themselves as well as the decades 
+of experience in compressor control. The en-
+hanced Compressor Train One Control (in the fol-
+lowing abbreviated as One Control) core functions 
+are used in both the worldwide leading SIMATIC 
+PCS 7/S7 automation product family from Siemens
+Energy or the well-established Allen-Bradley.
+Siemens Energy’s One Control features a patented 
+load sharing algorithm, which helps equalize
+surge margins and maximize system efficiency
+by sharing flow among multiple compressors
+that are connected to common suction and 
+discharge lines.
+siemens-energy.comCompressor Train
+One Control
+Load Sharing
+Application
+A compression process consists of one compressor or a 
+network of multiple compressors. Controlled distribution of 
+the transport capacities is necessary for stable and efficient 
+operation. Compressor load sharing is used to maintain 
+uniform throughput flow or share of capacity for compressor 
+units operating in parallel, typically connected to common 
+suction and discharge headers as shown in Figure 1.
+The load sharing function is normally integrated as a function 
+block into the PLC based unit control system.
+Load Sharing Control
+A higher-level plant control system usually provides a setpoint 
+for the master controller of the load sharing control regarding 
+the current process requirements. The setpoint can refer to a 
+required header suction pressure or header discharge 
+pressure or station flow for all the units.
+The speed of the compressor driver, the inlet throttle valve 
+position, or the inlet guide vane (IGV) position is used as a 
+feedback signal to the load sharing controller. The load 
+sharing master controller itself consists of the process 
+control(s), such as suction pressure, discharge pressure or 
+flow control.
+The load sharing algorithm varies the throughput of the 
+com-pressor by adjusting the driver speed on variable speed 
+units or an inlet throttle valve or guide vane position on 
+constant speed units.
+The load sharing controller outputs have a defined rate of 
+change that limits the rate of the corresponding actuator.  
+This is used to limit the rate of control action for stability 
+purposes, and to minimize negative interaction between load 
+sharing control-lers, surge controllers and other elements in 
+the process.
+Compressor trains with identical capacities
+A master performance controller is used to provide a common 
+setpoint for each compressor load sharing controller and does 
+consist of one or more process controllers controlling suction 
+or discharge header pressures or station flow for all the units.
+Since the load sharing controller for each unit has the same 
+input setpoint from the master controller, the units are 
+caused to share the total load equally. This equal sharing of 
+the total load creates a balanced operation and increases the 
+efficiency of all the units.For example, during low flow conditions, if the speed of a 
+unit is being decreased so rapidly as to cause the flow to 
+decrease below the anti-surge control line, the ramp down of 
+speed will be temporarily stopped long enough to allow the 
+surge control action to open the recycle valve to increase flow 
+above the limit. This action prevents the speed of the unit 
+from being decreased so rapidly as to drive the compressor 
+into a surge condition. The highest of the compressor 
+throughput flow signals from the units is used as a feedback 
+signal to the master controller.
+Since the load sharing controller for each unit has the same 
+input setpoint from the master controller, the units share the 
+total load equally. This equal sharing of the total load creates 
+a balanced operation and increases the efficiency of all units.
+Figure 1a: General control schematic
+Figure 2: Siemens Energy compressor STC SVFigure 1b: General schematic with inlet guide vane (IGV)
+
+Compressor trains with different capacities
+When compressor trains with different capacities are load 
+shar-ing, the Load Sharing Control ensures an equalization of 
+relative surge margins of the operating point of each 
+compressor on its performance curve using the CEF value. 
+Hence, the controller can manage and optimize load sharing 
+between multiple operating compressor trains even with 
+different compressor capacities.
+Coefficient of Export Flow (CEF)
+Conventional load sharing algorithms are based upon the 
+rela-tionship between compressor inlet flow Qin and the surge 
+con-trol setpoint Qsp. This limits the load sharing range to the 
+surge control line, at which point Qin becomes meaningless 
+because it does not account for recycled flow Qreq.
+The compressor throughput flow Qtp is a calculated value 
+con-sisting of the compressor inlet flow minus the recycle 
+flow de-pending on the recycle valve position.Decoupling from Anti-Surge Controller
+When the operating point reaches the control line, interaction 
+between anti-surge controllers and load sharing controllers 
+(LSC) can lead to destabilization. To prevent this, the load 
+shar-ing controllers are decoupled from anti-surge controllers 
+when flow approaches the surge line. By communicating with 
+anti-surge controllers, the Load Sharing Controller can 
+stabilize the process if the flow moves beyond the surge 
+control line.
+Dedicated Master Controller
+A traditional master controller is used to control load sharing 
+controllers of parallel units in a control system, as shown in 
+Figure 1. The master controller is often located separately 
+from the units being controlled.
+Floating Master Controller
+The Floating Master Controller (FMC) allows the master 
+control-ler to be embedded into each of the units (see below) 
+providing additional functionality to ‘float’ the master 
+between the units, perform data synchronization and fault 
+detection.To eliminate this problem, One Control’s algorithm uses the 
+patented Coefficient of Export Flow (CEF), that represents the 
+ratio of the unit export flow of the process to the surge 
+control line. This value accounts for any flow being recycled 
+through the anti-surge valves and allows for effective load 
+sharing over the entire operating range of the compressor.
+Figure 3: Calculation of Coefficient of Export Flow (CEF)
+Figure 5: Units with dedicated and Floating Master ControllerFigure 4: Example of load balancing operation
+
+The redundant master controllers in the other units track the 
+active master (local/remote setpoints, manual demand and 
+tuning values) using soft link communications.
+Product performance
+Siemens Energy Load Sharing Control provides (among others)
+•  Optimized use with Siemens Energy compressors
+•   Flexible location of the master performance controller, “self-
+organizing” concept with Floating Master concept
+•  Efficiency maximizationRemote support
+Siemens Energy is also able to offer local advice, support, and 
+intervention, provided by specialist personnel in our enginee -
+ring centers, based on fleet and technical knowledge as an 
+OEM. In line with our Service Agreements, our Competence 
+Center will assist you with different kinds of technical issues 
+and provide online troubleshooting with secured access to the 
+control system.If the active master controller fails, there is an automatic 
+bumpless transfer to the backup master controller residing in 
+another unit, which then become the new active master.
+Load Sharing Features – in a nutshell
+•  Patented load sharing algorithm
+•   Automatic balancing to give an equal load share to each participating machine
+•   Accounts for any flow being recycled
+•   Ideally suited for compressors with identical capacities (throughput) or different capacities (CEF)
+•   Maintain the operating points of all compressor trains at the same margin from the surge control line
+•  Floating master and dedicated master principle
+•   Decoupling of anti-surge and load sharing controllers to avoid dynamic instabilities
+•   Load sharing control architecture can be customized to meet specific control requirements
+•   Maximize system efficiency by minimizing recycle flows
+•   Provide fully automatic operation and plant load optimi-zation by using an integrated load sharing strategy  
+encompassing multiple compressor trains
+
+Siemens Energy Global GmbH & Co. KG 
+Transformation of Industry
+Siemens promenade 9
+91058 Erlangen, Germany
+For the U.S. published by 
+Siemens Energy, Inc. 
+Transformation of Industry 
+4400 N Alafaya Trail
+Orlando, FL 32826, USA
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance
+features which may not always specifically reflect those described, 
+or which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract. All product designations may be trademarks
+or product names of Siemens Energy Global GmbH & Co. KG or 
+other companies whose use by third parties for their own purposes 
+could violate the rights of the owner.
+Siemens Energy is a trademark licensed by Siemens AG.

@@ -1,0 +1,153 @@
+Overview 
+Oil & Gas Manager (OGM) is an industry leading modeling, 
+evaluation, planning, and decision support software solution 
+for global application in the oil and gas industry.  It is the 
+solution for concept development screening and design for 
+greenfield and brownfield developments.  It enables the user 
+to estimate lifecycle CAPEX/OPEX costs and optimize them 
+based on alternative field development plan options.
+How can OGM be used?
+With OGM, Owner/Operators and their advisors (EPCs and 
+consulting firms) can:  
+•  Evaluate prospects, conduct screening studies, and optimize 
+concepts
+•  Leverage an up-to-date worldwide cost database that can 
+be updated as needed
+•  Leverage the built-in thermodynamic-based heat and mass 
+balance simulation to design and size production assets
+• Generate complete lifecycle field CAPEX and OPEX costs
+•  Collaborate to consolidate design and cost estimating 
+practices to improve consistency
+•  Benchmark existing in production assets to re-use for similar 
+new or modified developments
+•  Significantly reduce manhours and schedule for concept 
+screening, design, and optimization while maintaining 
+consistency and an auditable trail of decisions Software Capabilities
+OGM is an integrated solution that covers onshore and 
+offshore oil and gas developments for both conventional and 
+some unconventional assets.
+Offshore Key Features
+•  Fixed platforms (4, 8 and 12 legged) and bridge-
+connections, Jack-Ups, Compliant Towers, GBS, TLPs, SPARs, 
+Semi-Subs, FPSO, FPDSO, FSO, CALM Buoys
+•  Subsea well trees and cluster manifolds, flowlines, 
+umbilicals and multiple riser types
+•  Infield flowlines, pipelines, and subsea power cables 
+•  Topsides processing facilities and systems for oil, gas, and 
+water separation, treatment, and transport
+• Drilling, production, and living quarters platforms
+• Various utilities systems and flare booms or towers 
+•  Topsides layout and spacing including structural steel for 
+the substructure and supporting the production facility
+•  Complete weight, CAPEX and OPEX cost estimate with 
+ability to model and plan CAPEX investment including 
+future additions
+•  Comprehensive transportation, installation, hook-up and 
+commissioning costs
+• Decommissioning costs for all key field components
+siemens-energy.comOGM
+Oil & Gas Manager
+A collaborative platform for screening,  
+optimizing and evaluating designs of Onshore  
+and Offshore Oil and Gas developments with  
+consistency and control
+Published by
+Siemens Energy  
+Electrification, Automation, Digitalization (EAD)  
+Process & Safety Consulting  
+USA Headquarters
+1200 W Sam Houston Pkwy North  
+Houston, TX 77043, USA
+Asia Pacific: Singapore  
+Canada  
+Europe: Belgium and Romania  
+Middle East: KSA and UAE
+info.ogconsulting.energy@siemens-energy.com
+Siemens Energy Customer Software Support Portal
+cep.siemens-energy.com
+Subject to changes and errors. The information given in this document only contains 
+general descriptions and/or performance features which may not always specifically 
+reflect those described, or which may undergo modification in the course of further 
+development of the products. The requested performance features are binding only when 
+they are expressly agreed upon in the concluded contract .
+© 2024 Siemens EnergyOnshore Key Features
+•  Reservoir well profiles, wellsites, manifold stations, 
+flowlines, gathering stations and trunk lines
+•  Trunk lines and export pipelines with various terrain options 
+and complete hydraulic modeling
+• Pump and compressor stations 
+•  Central processing facilities with complete oil, gas,  
+and water separation and treatment options
+• Gas and NGL processing
+• Storage terminals and tank farm
+•  Stick, skid or modular construction options by equipment 
+system
+•  Construction and operating camps, roads, airstrips, 
+helipads, and buildings
+In addition to the above features, OGM includes:
+•  Default but user managed cost norms for major producing 
+regions in the world for labor, equipment, bulks, 
+transportation, installation, hook-up and commissioning, 
+and other costs
+•  Technical reports including major process and utility 
+summaries, system/equipment datasheets, and major 
+equipment lists
+•  Offshore facility topsides layout schematic and a facility 
+process flow diagram
+•  Management summaries and detailed cost and weight 
+reports for the development 
+•  Reservoir profiling to assess changes in the production 
+profile and its impact on design options
+•  Brownfield optimization to compare asset design and 
+modification options
+•  CO2 emission and energy efficiency calculations for carbon 
+footprint assessmentOGM is built on the latest technology standards incorporating 
+a building block layout and simulator with the ability to create 
+re-usable design templates for various development concepts, 
+enhancing a company’s efficiency.  
+Access to OGM via the cloud minimizes company IT effort and 
+cost.  Alternatively, OGM can be deployed on a standalone 
+computer or a company network.
+Who can benefit from using OGM?
+OGM can be utilized as an enterprise concept development 
+planning solution with collaborative use across many 
+functions from engineering, development planning, 
+estimating, project management, and company management.
+Example Use Cases
+•  A company is preparing a bid for an oil & gas block and 
+needs to determine if economically feasible to develop the 
+block.  As part of a feasibility study, high-level lifecycle costs 
+must be estimated for several production.
+The company can save hundreds of engineering manhours 
+using OGM’s predefined facility templates for offshore and 
+onshore upstream oil and gas facilities to quickly generate 
+concept level sizing and cost estimates with limited input 
+data.
+•  A company has an existing oil & gas production facility 
+with declining reserves and needs to examine alternative 
+hydrocarbon recovery concepts to increase or maintain 
+production and assess potential bottlenecks in the existing 
+facility.
+OGM can help the company quickly compare the current 
+design capacity versus the required capacity to identify 
+bottlenecks, visualize upgrades, and do a first pass analysis  
+of the size and cost of the required upgrades.
+OGM Benefits
+Field Development Planning
+•  Facility costs provide input for evaluation of field economics 
+•  Optimize process design by assessing the impact of changes 
+in production profiles
+Feasibility Studies
+•  Compare multiple concepts quickly and consistently
+Conceptual Engineering
+•  Automate engineering calculations and customize cost 
+norms to reduce effort for a complete initial design and 
+facility cost estimate
+•  Get consistent and traceable results by incorporating design 
+preferences, benchmarks and past project experience
+•  Evaluate greenfield or brownfield design change impacts 
+quickly and consistently
+Efficiency
+•  Significant saving over using spreadsheet
+•  Collaborative tool that enables the experience of the entire 
+project team to be incorporated 

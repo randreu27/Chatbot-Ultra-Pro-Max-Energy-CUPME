@@ -1,0 +1,79 @@
+Globally standardiz ed design
+Siemens Energy SPS 2S 245 kV dead tank circuit breakers 
+utilize the time-te sted FA spring- spring operating 
+mechanism and 3AP  arc assist interr upter common to t he 
+entire SPS2 portf olio.
+Siemens Energy h as delivered over 160,000 breakers 
+worldwide, with o ver 46,000 SPS2 circuit breakers to the US 
+market alone sinc e release in 1997 .Standard features
+•No TRV capacitor s necessary for b reake rs rated up to 63
+kA
+•2 or 3 cycle int errupting time opt ions
+•Ships fully assem bled and factory tested
+•No in-field adjust ments and virtua lly no maintenance
+Application-based customizations
+•Independent pole  operation (IPO) an d phase synchro nizing  
+device (PSD) for r eliable point- on-wave switching
+•High seismic desi gns (per IEEE 693)
+•Tank heaters for  operation to - 50° C
+•Composite bushi ngs
+•Etc. – Please con tact your local  Siemens Energy  
+representativeSPS2S 2 45 kV  
+High Voltage Dead Tank 
+Circuit Breakers
+siemens-energ y.comsiemens-energy.com
+© 2021 Siemens Energy Page 1
+SPS2S 245 kV l  Siem ens Energy High  Voltage Dead Tank Circuit Breakers
+© 2021 Siemens Energy Page 2Ratings
+TypeRelated 
+max kVRated 
+continuous 
+current (A, rms)Rated short 
+circuit current            
+at rated (kA)Interrupting  time (cycles)Lightning 
+impulse   
+withstand  
+voltage BIL, (kV)Chopped wave, 2μs (kA)Closing 
+and latching 
+capability (kA)
+SPS2S-245 245 up to 4000 up to 63 2 or 3 Up to 1050 1160 up to 170
+SPS2-245 245 up to 4000 up to 90 2 or 3 Up to 1050 1160 up to 234
+Supplementary specifications Standard Custom
+Operating temperature range [C] -30 to 55 -50 to 55
+Rated reclosing time cycles 12 –
+Rated duty cycle –OCO – 15s – CO               
+(no derating)–
+External creep [in] 215 241
+Breaker weight [lb] 12,000 –
+SF6 weight / pressure [lb/psi] 162 / 87 –
+Seismic withstand – IEEE 693 IEEE 693 (high)
+Mechanical endurance – Class M2 –
+Capacitive switching – Class C2 –
+Motor voltage[Vdc] 48/125/250 –
+[Vac] 120/240 –
+Auxiliary voltage [Vac] 120/240 –
+Trip and close coil rating [Vdc] 48/125/250 –
+SPS2S 245 kV Dimensions
+SPS2-245, 90 kA IPC
+SPS2-245SPS2S 245 kV l  Siem ens Energy High  Voltage Dead Tank Circuit Breakers
+© 2021 Siemens Energy Page 3
+Published by
+Siemens Energy,  Inc.   
+444 Hwy Sout49 h
+Richland, MS 392 18
+Siemens Technical  Support: 1-888-703-1175 
+www.siemens-energy.com
+Printed in USA 
+All Rights Rese rved
+The technical data presented i n this document is based on an actual case 
+or on as-designed parameters,  and therefore should not be relied upon for 
+any specific appl ication and doe s not constitute a performance guarantee 
+for any projects. Actual resul ts are dependent  on variable conditions. 
+Accordingly, Sie mens does not make representations, warranties, or 
+assurances as to  the accuracy,  currency or compl eteness of the content 
+contained herein.  If requested, we will provide  specific techni cal data or 
+specifications with respect to any customer’s particular applications. Our 
+company is constantly involved in engineering and development . For that 
+reason, we rese rve the right to modify, at any t ime, the technology and 
+product specifi cations contained herein.
+© 2021 Siemens Energy

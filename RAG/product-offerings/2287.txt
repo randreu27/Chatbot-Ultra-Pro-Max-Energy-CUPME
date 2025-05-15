@@ -1,0 +1,196 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+Gas Field Policy 18:  Sour Gas Service 
+ 
+GENERAL: 
+ 
+Hydrogen Sulfide H 2S is a colorless gas which is harmful at concent rations of 20 ppm in air. At concentrations of 
+800 ppm death results within 30 minutes due to destruction of lung tissues. At low concentrations (1 to 20 ppm), 
+it has a strong rotten egg odor and is harmless. However,  at higher concentrations, the sense of smell is 
+anesthetized and the gas is odorless. It is heavier than air (mole. wt. 34) and so tends to accumulate in low 
+places. Due to the hazardous nature of this gas, compressors handling H 2S should not be approached unless 
+H2S leak detection equipment is functioning. 
+ Effects on metals: H
+2S tends to cause sulfide stress cracking in st eels when all of the following four conditions 
+exists: 
+ A.  The H
+2S concentration and pressure condition fall into the "sulfide stress cracking region: of NACE MR-
+0175 (figure 1). 
+ B. The steel component has a hardness over 22 Rockwell "C". 
+ 
+C. The steel component is stressed.  
+D. Moisture is present in the gas. 
+ Sulfide stress cracking is more aggressive if chlorides are also present in the gas. 
+ 
+To prevent sulfide stress cracking of components that lie within the NACE definit ion of sour gas service, 
+materials of less than 22 HRC must be used. Alternatively,  materials with a greater resistance to attack may be 
+used (e.g. Age Hardened 17-4 PH stainless steel piston rods). 
+ 
+ 
+MATERIALS OF CONSTRUCTION:  
+A. If the concentration of H
+2S, at the discharge pressure of any stag e, falls into the "B" range (figure 1), 
+Siemens Energy recommends its standard materials of construction. 
+ 
+B. If the concentration of H 2S, at the discharge pressure of any stag e, falls into the "A" range (figure 1), 
+Siemens Energy requires the following construction for maximum resistance to sulfide stress cracking and containment of the gas. 
+ 
+1) Distance pieces: Distance pieces must be arranged so that potentially harmful leakage of H
+2S to 
+the atmosphere cannot occur. Possible alternatives are: 
+ 
+A) For all applications Siemens Energy recommends the use of a single compartment 
+distance piece equipped with purged packing case, purged  wiper case and slinger if 
+desired (figure 2). The distance piece and pa cking vents should be piped to a flare or 
+recovery system. In some cases an extra long distance piece may be required. 
+ 
+B) Standard single-compartment distance pieces may be used with caution if a sweet gas 
+packing purge and vacuum scavenge pump is us ed to maintain the distance piece at 
+negative pressure and gas leakage is eliminated. Piston rod oil slingers are 
+recommended to minimize frame oil contamination. 
+ 
+C) Two compartment distance pieces are ava ilable if preferred. Please consult with the 
+Siemens Energy HSRC Group for further details. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+2) Bolting: 
+ 
+A) Bolting that is in the cylinder end distance  piece is outside the NACE definition of sour 
+gas service (less than 65 PSIG). Theref ore, Siemens Energy will use standard 
+materials for the distance piece studs, nuts and bolts. 
+ 
+B) Bolting that is external of the cylinde r uses standard materials; e.g. outer head-to-
+cylinder studs which are located outside the head gasket; pulsation bottle-to-cylinder bolting; etc. 
+ 
+C) ASTM A193, Grade B7M is used on certai n cylinder designs where the head bolting is 
+in the process gas passageway; e.g., Clamshell head designs. 
+ 
+3) Standard piston with rider bands or combination rings 
+ 
+4)  Piston rods shall be ann ealed 4142 carbon steel (18-22 HRC) with Siemens Energy TC3 
+coating in the area of packing travel. (If the gas also contains CO
+2, please refer to "GFP-16". If 
+stainless steel rods are required, they will be made out of age hardened 17-4 PH material and 
+TC3 coated.) 
+ 
+5) Suction port oilers are recommended. Alternat ively, the valves can be supplied with special 
+spring material. 
+ 
+6) Siemens Energy standard nodular iron valves will be furnished when pressures allow. 
+ 
+7) If forged steel cylinders are required for the application, a modified AISI 4132 steel alloy is 
+required. 
+  
+EXCEPTIONS TO NACE MR01 75-94 SPECIFICATION: 
+ 
+1) A combination of Siemens Energy field experience  and reference to specifications NACE MR0-175-94 
+and API 11P has been used to compile this GFP. Siem ens Energy has taken into account stress levels, 
+type of stress, exposure to sour gas and the critical nature of the part. 
+ 
+2) Hardness of Carbon and Low-Allo y Steels (3.2), and ferritic stainl ess steels (3.6) materials shall not 
+exceed 22 HRC. 
+ 
+A) Tube Fittings. Tube fittings will be type 316 stai nless steel double ferrule type. The hardness of 
+the ferrule will exceed 22 HRC. Field experience with these fittings has been excellent. 
+ 
+B) Chrome Silicon Springs are not listed by NACE as an acceptabl e material. Siemens Energy has 
+had favorable experience with this material in compressor valve service. 
+ 
+C) AISI 440C Stainless Steel hardened and tempered  to 50 HRC. This material is used as a guide 
+ring on PF valves. The stress level is minimal. Siemens Energy has had favorable experience. 
+ 
+D) Steel Nut, PF Valve. The stress level is lo w and Siemens Energy has favorable experience. 
+ 
+E) Rollpin. This is used as a valve plate guide on the PF valve. The stress level is low. Siemens 
+Energy has favorable experience in lubricated valve service. 
+ 
+F) Piston rods made from AISI 4142 alloy steel are tempered back to 22 HRC or less. After the 
+tempering heat treatment, threads are rolled on the rods, causing hardness at the roots of the 
+threads to exceed 22 HRC. However, field experience in sour gas has been very good due to 
+favorable residual stress pattern, surface finish, and grain flow patterns. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+3)  Siemens Energy has favorable experience with the following cast irons: 
+ A) ASTM A278 Class 40 (Gray Iron), ASTM A536 (Ductile Iron) (Grade 65-45-12) and ASTM A395 
+(Ductile Iron) (Grade 60-40-18) for compressor cylinders and other components. 
+ 
+B) Continuous Cast Gray Iron is used on solid pi stons and some small cylinder heads. It is 
+equivalent to a Class 30/35 iron. 
+ 
+C) Centrifugally Cast Gray Iron is used for cyli nder liners. It is equivalent to a Class 35 iron. 
+ 
+D) NiResist ASTM A436 Type 5 with 34-36% Ni (Minovar) is used as a piston rod collar on 
+aluminum pistons due to its low coefficient of  thermal expansion. The material is under 
+compression at all times. 
+ 
+E) Ductile Iron, Continuous Cast Grade 80-55- 06 is used for fully machined low to medium 
+pressure valve seats and stopplates & guards. 
+ 
+F) Ductile Iron Castings Grade 100-70-30 is used fo r low to medium pressure PF valve seats and 
+stopplates & guards. 
+ 
+4)  COMMENTS TO NACE MR0175 SPECIFICATION: 
+ A) Paragraph 6.2.2.1, ASTM A193, Grade B7 M bolting 80,000 psi minimum yield strength and 
+HRC 22 maximum hardness. This material is us ed on certain cylinder designs where the head 
+bolting is in the process gas passageway; e.g., Clamshell head designs. It is also used as an 
+option for cylinder bolting at an extra cost. This bolting meets the requirements of this 
+Paragraph, however, it may exceed the 90,000 psi maximum yield strength limitation as outlined 
+by API 11P, Paragraph 15.3.2.2. AISI 4142 alloy steel piston rods may al so exceed the 90,000 
+psi yield strength limitation up to a maximum of 95,000 psi. 
+ 
+B) Paragraph 10.7.2, Aluminum Alloy 335, Temper T-7 (ASTM B-26). Siemens Energy uses either 
+Alloy 355-T7, Alloy SR 319.0-T51, or Frontier 40H for aluminum pistons. 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+   
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+ 
+ 
+ 
+ 
+FIGURE 1 
+  
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG   Gas Field Policy, GFP 18 
+Februar y, 2021 
+FIGURE 2 
+ 
+PURGED PACKING / PURGED WIPER ARRANGEMENT 
+FOR SOUR GAS APPLICATIONS 
+ 
+1. PURGED ROD PACKING - In our "standard" rod pack ing, the vent line is just  ahead of the last packing 
+cup (closest to the frame). For sour gas service, t he packing rings of the last  two cups are exchanged 
+for "side loaded" rings, with a PURGE line in between. This is so that any PURGE gas leakage will be in 
+both directions (into the VENT line and into the di stance piece), and any no rmal PROCESS gas leakage 
+will be carried away by the VENT line. 
+ 
+2.  PURGED WIPER CASE - For an extra measure of safety, two sets of "side loaded" rings, with a 
+PURGE line in between, are added to the wiper case (at the frame end of the distance piece). Any 
+leakage of PURGE gas will be in both directions (into the distance piece and into the frame extension). 
+ 3.  DISTANCE PIECE - Any leakage into the distan ce piece, of either PURGE or PROCESS gas, will be 
+carried away by the distance piece VENT line. An "oil  slinger" (if required per the order) can be attached 
+to the piston rod to keep any oil which has had contact with the PROCESS gas (from the rod packing) 
+from traveling along the piston rod and into the fram e. This may require an extra long distance piece. 
+ 
+This distance piece configuratio n creates a double buffer between t he PROCESS gas and the frame. This 
+arrangement produces the same effect as the API 11P Type 3 distance piece option. 
+Both PURGE gas lines should be protected from back pres sure by a check valve outside the distance piece, 
+supplied by the Reseller.  

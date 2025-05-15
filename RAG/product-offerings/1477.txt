@@ -1,0 +1,661 @@
+Unrestricted © Siemens Energy, 2022 Siemens Energy is a trademark licensed by Siemens AG.
+Gas and Power with solid 
+performance, disappointing 
+results at SGRE weigh down 
+Siemens Energy Group
+Christian Bruch, President and CEO Siemens Energy
+Maria Ferraro, CFO Siemens Energy
+Analyst presentation Q2 FY22
+Berlin, May 11, 2022
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20222
+2022 -05-11
+ Siemens Energy is a trademark licensed by Siemens AG.Disclaimer
+INFORMATION AND FORWARD -LOOKING STATEMENTS This document contains statements related to our future business and financial perfor mance, and future events or 
+developments involving Siemens Energy that may constitute forward -looking statements. These statements may be identified by word s such as “expect,” “look forward to,” 
+“anticipate” “intend,” “plan,” “believe,” “seek,” “estimate,” “will,” “project,” or words of similar meaning. We may also mak e forward -looking statements in other reports, prospectuses, 
+in presentations, in material delivered to shareholders, and in press releases. In addition, our representatives may from tim e to time make oral forward -looking statements. Such 
+statements are based on the current expectations and certain assumptions of Siemens Energy ´s management, of which many are beyond Siemens Energy ´s control. These are 
+subject to a number of risks, uncertainties, and other factors, including, but not limited to, those described in disclosures , in particular in the chapter “Report on expected 
+developments and associated material opportunities and risks” in the Annual Report. Should one or more of these risks or unce rtainties materialize, should acts of force majeure, 
+such as pandemics, occur, or should underlying expectations including future events occur at a later date or not at all, or s hould assumptions prove incorrect, Siemens Energy ´s 
+actual results, performance, or achievements may (negatively or positively) vary materially from those described explicitly o r implicitly in the relevant forward -looking statement. 
+Siemens Energy neither intends, nor assumes any obligation, to update or revise these forward -looking statements in light of dev elopments which differ from those anticipated. This 
+document includes supplemental financial measures –that are not clearly defined in the applicable financial reporting framework –and that are or may be alternative performance 
+measures (non -GAAP -measures). These supplemental financial measures should not be viewed in isolation or as alternatives to meas ures of Siemens Energy ´s net assets and 
+financial position or results of operations as presented in accordance with the applicable financial reporting framework in i ts consolidated financial statements. Other companies 
+that report or describe similarly titled alternative performance measures may calculate them differently. Due to rounding, nu mbers presented throughout this and other documents 
+may not add up precisely to the totals provided and percentages may not precisely reflect the absolute figures.
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20223
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2022 -05-11CEO section
+Christian Bruch, CEO
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20224
+2022 -05-11Key Messages
+Q2 FY22 Financial Performance
+•Orders: (27.5) % comp.2at €7.9bn
+•Order backlog at new high of €89.3bn
+•Revenue: (1.7)% comp.2at €6.6bn; book -to-bill of 1.20 
+•Adj. EBITA before SI: €(21)m (down from €288m)
+•Adj. EBITA margin before SI: (0.3)% (Q2 FY21 4.4%)
+•FCF pre tax: €(351)m (down from €433m) Market Environment•SGRE profit warning (April 19, 2022)
+•Solid performance in Gas and Power (GP)
+•Siemens Energy stopped all new business activities in RussiaHighlights / Lowlights
+Revised Guidance FY221
+Unrestricted © Siemens Energy, 20224 Analyst Call | Q2 FY22SE •Low end of previous guidance ranges for comparable2revenue 
+development (neg. 2% to pos. 3%) and for Adj. EBITA margin 
+before SI (pos. 2% to pos. 4%)
+GP •Low endofprevious guidance ranges forcomparable2revenue
+development (pos.1%topos.5%)and forAdj.EBITA margin
+before SI(pos.4.5%topos.6.5%)
+SGRE •Revenue decline of (2)% to (9)% comp.2(unchanged) 
+•Low end of previous guidance range with negative 4% •Solid order environment across all businesses at GP
+•SGRE market dynamics remain challenging
+•War in Ukraine and Covid -19 exacerbating existing supply chain constraints 
+1Assuming no further major financial impacts from COVID -19 and charges related to legal and regulatory 
+matters (including sanctions) | 2comparable: excluding currency translation and portfolio effects 
+Unrestricted © Siemens Energy, 20225
+2022 -05-11Analyst Call | Q2 FY22Renewed risk assessment under the new CEO leads to a reset 
+of expectations
+•Operational problems are bigger than expected due to internal challenges 
+(maturity of product design of the 5.X, manufacturing ramp up process, 
+NCCs, project execution) and supply chain constraints
+•Outlook continuously deteriorated over the last 12 months
+•Root causes for underperformance identified; solid foundations available 
+to build turn -around
+Turnaround plan by new CEO initiated
+•Dedicated short -term task forces launched with exclusive focus on 
+mitigating ongoing challenges: Siemens Gamesa 5.X, Procurement
+•Cross -functional set -ups to ensure holistic approach to problem solving; 
+best-in-class talent mobilized
+•Commercial discipline:
+•Selectivity: Further cost volatility risk protection clauses implemented 
+in contracts
+•Reinforced new project approval process
+•Closer alignment between Procurement and Sales
+•Enhanced focus across organization on containing internal costsSGRE
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20226
+2022 -05-11•All new business development activity in Russia stopped since beginning of the war
+•c. €300 –€400m loss of revenue in FY22 (based on the current sanction regime)
+•High double digit/low triple digit (€m) impact due to missing profit contribution from 
+loss of revenue in FY22 
+•Increasing EBIT volatility going forward due to elimination of hedge accounting for 
+Russian Ruble
+•Dynamic development of sanctions regime might trigger additional impact on 
+revenue and Adj. EBITA
+•Gas and Power business base in Russia under Review
+•Limited direct sourcing from Russia
+•Indirect impacts through rising raw material and logistics costsWar in Ukraine effects revenue and profitability, Gas 
+and Power business in Russia under review
+Current status
+Potential aggravation
+Exacerbation effects on 
+supply chain constraints
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20227
+2022 -05-11Supply chain constraints lead to higher costs 
+and under -absorption in GP
+Raw Material Costs
+Material Availability
+Logistics
+Wage inflationImpact (roughly €100m impact on profitability)
+Mitigation measures Current Challenges
+€10.5bn of purchasing volume includes
+•Copper: 15,000 –20,000 tons       
+•Electrical steel: 100,000 tons
+•Aluminum: 10,000 –15,000 tons
+•Stainless Steel: 6,000 –7,000 tons
+•€400m logistics cost
+Lack of material availability leads to factory under -absorption 
+Shorter cycle Transmission product business mostly affected
+Procurement instruments (like long term contracts, hedging, supplier bundling, etc.)
+Price escalation clauses in service business
+Pass -through mechanisms in projects
+Synchronous contracting with customers/suppliers
+Increase in inventory
+Improving pricing power
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20228Version 18
+2022 -05-11Q2 FY22 awards and milestones
+Power generation with low 
+or zero emissionsTransport and storage 
+of energy
+Efficient and future -proof power 
+generation technologies
+Four combined -cycle gas turbine units 
+meet growing energy demand in Greater 
+Bay Area in ChinaProduction of electrolysers on an 
+industrial scale
+2023 Start of production in Berlin with 
+capacity in the gigawatt rangeIncreased supply security
+Siemens Energy supplies HVDC system 
+for first power link between the UK and 
+Germany (" NeuConnect interconnector")Picture to be 
+replacedReducing the CO2footprint & 
+energy consumption in 
+industrial processes
+
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 20229
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2022 -05-11CFO section
+Maria Ferraro, CFO
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202210
+2022 -05-11
+Siemens Energy Group: Strong order intake results in record order backlog
+Q2 FY22
+Orders (in €bn) Revenue (in €bn) Adj. EBITA before SI (in €m)
+Free Cash Flow3
+€(351)m
+10
+2022 -05-11288
+(21)
+Q2 FY21 Q2 FY22n/a
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 2022Book -to-Bill Ratio
+1.20Order Backlog2
+€89bn 
+Adj. EBITA margin before Special ItemsQ2 FY21: €433m 7.9
+Q2 FY21 Q2 FY2210.5(25)% / (27)%1
+Q1 FY22: €87bn Q2 FY21: 1.624.4% (0.3)%
+x.x%Q2 FY222.2
+4.32.4
+Q2 FY214.26.5 6.6+2% /(2)%1
+Services New Unit10%
+(3)%
+1xx% / xx% = nominal / comparable (excluding currency translation and portfolio effects) | 2As of March 31, 2022 | 3Free Cash Flow pre tax
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202211
+2022 -05-11
+Siemens Energy Group: SGRE weighs on performance 
+Q2 FY22
+Orders (in €bn) Revenue (in €bn) Adj. EBITA before SI (in €m)
+11
+2022 -05-11Q4 Q3 Q2 FY21 Q18.3
+Q2 FY225.910.5
+9.1
+7.9(25)% / (27)%1
+7.3
+Q2 FY21 Q36.0
+Q4 Q2 FY22 Q16.58.2
+6.6+2% / (2)%1
+288
+54
+(46) (63) (21)
+Q2 FY21 Q3 Q1 Q4 Q2 FY22n/a
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 2022•GP: Significant order growth across all 
+businesses
+•SGRE: Sharply below the exceptionally 
+high prior -year period’s level
+Adj. EBITA margin before Special Items•GP: Moderate increase driven by service 
+business
+•SGRE: Significantly down as operational 
+problems and supply chain constraints held 
+back revenue in wind turbine business•GP: Strong performance driven by more 
+service business, operational improvements 
+and savings from restructuring measures
+•SGRE: Adj. EBITA loss driven by continued 
+operational problems and further pressure on 
+raw material and logistic costs +2.9%0.7% (0.6)% 4.4%
+x.x%(1.1)%
+1xx% / xx% = nominal / comparable (excluding currency translation and portfolio effects)(0.3)%
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202212
+2022 -05-11Net Cash Position remains solid
+8015,030 5,131
+1,615
+Siemens Energy
+€10.6 bn liquidity available (€5.1 bn cash and €5.5 bn undrawn facilities)
+1As of March 31, 2022; No major maturity towers, no covenants attachedNet cash/(Net debt) as of March 31, 2022 (in €m)
+101
+(189)
+(89)(725)
+Cash and cash 
+equivalentsReceivables from 
+Siemens Group 
+from financing 
+activitiesTotal 
+liquidityLong -and short -
+term debtPayables to 
+Siemens Group 
+from financing 
+activitiesNet cash/ 
+(Net debt)Pension 
+provisionsCredit 
+guarantees(3,327)
+Adjusted Net 
+cash/(Net debt)SGRE: €2.8 bn
+SE excl. SGRE: €0.5 bn
+SGRE
+Undrawn credit lines of €2.5bn1Siemens Energy excl. SGRE
+Undrawn credit lines of €3.0 bn1FY22 expected cash -out
+•Restructuring (>€200m)
+•Non carve -outcountries(c .€200m)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202213
+2022 -05-11
+Gas and Power1: Solid performance in Q2 FY22
+Q2 FY22
+Orders (in €bn) Revenue (in €bn) Adj. EBITA before SI (in €m)
+Free Cash Flow4
+€200m
+13
+2022 -02-09188266
+Q2 FY21 Q2 FY22+42%
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 2022Book -to-Bill Ratio
+1.52Order Backlog3
+€57bn 
+Adj. EBITA margin before Special ItemsQ2 FY21: €515m Q2 FY21 Q2 FY225.06.7+34% / +29%²
+Q1 FY22: €54bn   Q2 FY21: 1.21
+x.x%4.5% 6.0% Q2 FY22 Q2 FY214.24.4
+1.7
+2.41.9
+2.5+6% / +3%²
+Services New Unit8%
+5%
+1Beginning with fiscal year 2022 ,GPsegment’s Real Estate Portfolio, formerly shown under Reconciliation toConsolidated Financial Statements, isassigned to
+segment GP.Related prior year information hasbeen reclassified toconform tothecurrent year presentation |2xx%/xx%=nominal /comparable (excluding
+currency translation andportfolio effects) |3AsofMarch 31,2022 |4Free Cash Flow pretax
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202214
+2022 -05-11
+Gas and Power1: Strong orders and profitability 
+Q2 FY22
+Orders (in €bn) Revenue (in €bn) Adj. EBITA before SI (in €m)
+14
+2022 -05-11Q1 Q3 Q2 FY21 Q4 Q2 FY225.04.46.25.96.7+34% / +29%²
+Q4 Q2 FY21 Q2 FY22 Q3 Q14.24.65.4
+4.14.4+6% / +3%²
+188225
+153242266
+Q2 FY22 Q2 FY21 Q3 Q4 Q1+42
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 2022•Strong growth across all businesses 
+supported by both the new unit and 
+service businesses
+•Demand in the Americas reporting region 
+was especially strong•Revenue increase driven by Transmission 
+and Industrial Applications
+•The improvement mainly came from the 
+service business•Strong performance driven by more 
+service business, operational 
+improvements and savings from 
+restructuring measures 
+•Impacts related to the war against 
+Ukraine were limited
+Adj. EBITA margin before Special Items4.9% 2.9% 4.5%
+x.x%5.8%
+1Beginning withfiscal year 2022 ,GPsegment’s Real Estate Portfolio, formerly shown under Reconciliation toConsolidated Financial Statements, isassigned tosegment GP.Related
+prior year information hasbeen reclassified toconform tothecurrent year presentation |2xx%/xx%=nominal /comparable (excluding currency translation andportfolio effects)6.0%
+Unrestricted © Siemens Energy, 202215
+2022 -05-11Analyst Call | Q2 FY22Execution of cost out programs; additional measures to 
+mitigate negative impacts from war and Covid -19 1
+Continuous tight management of net working capital; 
+strong focus on liquidity 2
+More transparency –new reporting structure from 
+October 1, 20223Financial 
+Priorities for 
+FY22
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202216
+2022 -05-11Financial Outlook and Framework 
+1Rolling 3-year average total revenue growth ,excluding portfolio andcurrency effects |2FY20nominal change compared toFY19;FY21nominal change
+compared toFY20;FY22comparable change compared toFY21|3Included inSpecial Items definition |4Adj.EBITA notadjusted forSpecial ItemsActuals Outlook Mid-term target
+FY20 FY21 FY22 FY23Gas and PowerRevenue €18.1bn €18.4bn1%-5%
+(low end of the range)% Change y -o-y2 (3.1)% 1.5%
+Adj. EBITA before Special Items €254m €849m4.5% -6.5%
+(low end of the range)6%-8%
+% Margin before Special Items 1.4% 4.6%
+Restructuring costs3 €133m €360mCumulative mid-to-high triple digit euro million amount in 
+FY20 -23Siemens EnergyRevenue €27.5bn €28.5bn(2)%-3%
+(low end of the range)Flatto 3%1
+% Change y -o-y2 (4.7)% 3.7%
+Adj. EBITA before Special Items (€17)m €661m2%-4%
+(low end of the range)under reassessment
+(pre. 6.5% -8.5%)≥8%
+Margin reported4
+% Margin before Special Items (0.1)% 2.3%
+Tax rate Medium -term tax rate 25%-30%
+Unrestricted © Siemens Energy, 202217
+2022 -05-11Analyst Call | Q2 FY22Deliver on the fundamentals at GP; support turnaround 
+at SGRE1
+Focus on supply chain, logistics and raw materials2
+Refine operating model and shape organization towards 
+the three pillars 3
+Focus the company on sustainable growth elements4Management 
+Priorities for 
+FY22
+Unrestricted © Siemens Energy, 2022 Siemens Energy is a trademark licensed by Siemens AG.
+We are #TeamPurple #WeEnergizeSociety
+Meet us at our CMD 
+May 23 -24, 2022 
+in Berlin
+
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202219
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2022 -05-11Questions & 
+Answers
+Christian Bruch and Maria Ferraro
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202220
+2022 -05-11Financial Calendar
+2022
+Siemens Energy is a trademark licensed by Siemens AG.
+Q2 FY22
+Contact Investor Relations
+May 11
+ May 23 -24
+ June/July
+Capital Market Day
+ Conferences and 
+roadshows
+Aug 8
+Q3 FY 22
+Michael Hagmann
+Head of Investor Relations
+michael.hagmann@siemens -energy.com
++49 173 2669650Harald Albrecht
+albrecht.harald@siemens -energy.com
++49 174 1766254Tobias Hang
+tobias.hang@siemens -energy.com
++49 172 5744423
+Thomas Forstner -Sonne
+thomas.forstner@siemens -energy.com
++49 172 7497108Lisa Class
+Team Assistant
+lisa.class@siemens -energy.com
++49 89 6362 5358Siemens Energy AG
+Otto-Hahn -Ring 6
+81739 Munich, Germany
+investorrelations@siemens -energy.com
+www.siemens -energy.com/investorrelations
+Nov 16
+Q4 FY22
+
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202221
+Siemens Energy is a trademark licensed by Siemens AG.
+ 2022 -05-11Appendix
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202222
+2022 -05-11 Unrestricted © Siemens Energy, 202222 Analyst Call | Q2 FY22 22Special Items
+Reconciliation of Adj. EBITA before Special Items
+1Beginning withfiscal year 2022 ,GPsegment’s Real Estate Portfolio, formerly shown under Reconciliation toConsolidated
+Financial Statements, isassigned tosegment GP.Related prior year information hasbeen reclassified toconform tothe
+current year presentation |2equals integration andrestructuring cost asreported bySGREGas and Power
+•Personal Restructuring costs (severance)
+Takes into account progress on existing programs 
+and new restructuring measures
+•Stand -alone costs
+Reflects costs associated with the setup of the 
+new company. Sharp reduction y -o-y
+•Strategic portfolio decisions
+Prior year included a positive one -time effect 
+related to aeroderivative gas turbines previously 
+written -offIn €m Q2 FY21 Q2 FY22 H1 FY21 H1 FY22
+Gas and Power1
+Adj. EBITA before Special Items 188 266 456 508 
+Restructuring and integration costs (47) 0 (43) (9)
+Stand -alone costs (17) (12) (71) (25)
+Strategic portfolio decisions 47 (20) 20 19
+Special Items (18) (32) (93) (15)
+Adj. EBITA 170 234 363 492
+SGRE
+Adj. EBITA before Special Items 113 (278) 231 (585)
+Special Items2(71) (24) (118) (35)
+Adj. EBITA 42 (301) 113 (620)
+Siemens Energy
+Adj. EBITA before Special Items 288 (21) 654 (84)
+Special Items (91) (56) (214) (50)
+Adj. EBITA 197 (77) 439 (135)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202223
+2022 -05-11 Unrestricted © Siemens Energy, 202223 Analyst Call | Q2 FY22 23Net Income Transition
+1Financial result from operations, as subpart of financial result, is included in Adjusted EBITA | 2 Financial result = (Interest 
+income -Interest expenses +/ -Other financial income (expenses), net). Financial result
+Impacted by interest expenses and currency effects
+Tax
+€60m income tax expenses which include effects 
+from the non -recognition of deferred tax assets at 
+SGRESiemens Energy
+In €m Q2 FY21 Q2 FY22 H1 FY21 H1 FY22
+Gas and Power 170 234 363 492
+SGRE 42 (301) 113 (620)
+Reconciliation to Siemens Energy (14) - (34) 2
+Adj. EBITA 197 (77) 439 (135)
+Adj. EBITA margin 3.0% (1.2)% 3.4% (1.1)%
+Amortization of intangible assets acquired in 
+business combinations and goodwill 
+impairments(97) (96) (194) (192)
+Financial result from operations1 9 (20) 27 (18)
+Financial result2 (32) 1 (69) (18)
+Income before income taxes 77 (192) 203 (362)
+Income tax (expenses/gains) (46) (60) (74) (130)
+Net income 31 (252) 130 (492)
+Attributable to
+Non-controlling interests 7 (96) 42 (211)
+Shareholders of Siemens Energy AG 24 (156) 88 (281)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202224
+2022 -05-11 Unrestricted © Siemens Energy, 202224 Analyst Call | Q2 FY22 24Cash Flow Statement
+CAPEX
+•Increase by €58m y -o-y driven by both segments
+Free Cash Flow pre tax
+•GP: Below prior-year‘s level due toa negative 
+swing y -o-y associated withderivatives
+•SGRE: Negative freecash flowpretaxsharply
+increased y-o-y mainly driven by thelower result
+and an increase in receivables
+1Beginning with fiscal year 2022 ,GP segment’s Real Estate Portfolio, formerly shown under Reconciliation to
+Consolidated Financial Statements, isassigned tosegment GP.Related prior year information hasbeen reclassified to
+conform tothecurrent year presentationSiemens Energy
+In €m Q2 FY21 Q2 FY22 H1 FY21 H1 FY22
+Net income 31 (252) 130 (492)
+Amortization, depreciation and impairments      355 399 699 734
+Change in operating net working capital
+Contract assets 39 121 (167) 388
+Inventories (193) (538) (257) (1,282)
+Trade receivables 392 (152) 189 (157)
+Trade payables 172 160 (105) (120)
+Contract liabilities (89) 517 640 1,422
+Others (247) (479) (915) (690)
+Cash flow from operating activities        462 (225) 213 (198)
+Additions to intangible assets and property, plant 
+and equipment (201) (259) (389) (434)
+Free cash flow 260 (484) (175) (632)
+Income taxes paid (172) (133) (220) (212)
+Free Cash Flow pre tax 433 (351) 45 (420)
+thereof Gas and Power1 515 200 657 922
+thereof SGRE (32) (560) (392) (1,356)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202225
+2022 -05-11Nominal versus comparable growth rates
+1comparable: excluding currency translation and portfolio effects | 2Beginning with fiscal year 2022, GP segment’s Real Estate Portfolio, formerly shown under Reconciliation to Consolidated 
+Financial Statements, is assigned to segment GP. Related prior year information has been reclassified to conform to the curre nt year presentationSiemens Energy
+In €m Q2 FY21 Q2 FY22 % nom. % comp.1 H1 FY21 H1 FY22 % nom. % comp.1
+Gas and Power2 5,034 6,743 34.0 29.0 10,200 12,633 23.9 20.2
+SGRE 5,500 1,198 (78.2) (78.8) 7,781 3,670 (52.8) (53.6)
+Reconciliation to Siemens Energy (14) (33) (29) (65)
+Total Orders 10,520 7,908 (24.8) (27.5) 17,951 16,238 (9.5) (11.9)
+Gas and Power2 4,171 4,424 6.1 3.1 8,459 8,564 1.2 (1.5)
+SGRE 2,336 2,177 (6.8) (10.5) 4,631 4,006 (13.5) (16.8)
+Reconciliation to Siemens Energy (19) (19) (66) (32)
+Total Revenue 6,484 6,582 1.5 (1.7) 13,024 12,538 (3.7) (6.6)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202226
+2022 -05-11Disaggregation of revenue
+Note: Q2 figures presented on this slide are based on external revenue Siemens Energy
+In €m Q2 FY21 Q2 FY22 % change H1 FY21 H1 FY22 % change
+Types of activities in Gas and Power
+New units 2,408 2,533 5.2 4,908 4,900 (0.2)
+Service contracts 1,738 1,872 7.7 3,484 3,632 4.2
+Types of business in SGRE
+Wind turbines 1,902 1,662 (12.6) 3,801 3,062 19.4
+Operation and maintenance 434 515 18.7 830 943 13.6
+Types of business in Gas and Power
+Transmission 1,241 1,358 9.4 2,491 2,656 6.6
+Generation 1,776 1,795 1.1 3,623 3,484 (3.8)
+Industrial applications 1,125 1,236 9.9 2,267 2,366 4.4
+Other /Consolidation 5 16 10 26
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202227Version 18
+2022 -05-11in % nom. y -o-y Q1 FY22 Q2 FY22
+Order
+growthGas and Power +++ +++
+Generation +++ +++
+Industrial Applications +++ +++
+Transmission ++ +++
+Revenue 
+growthGas and Power - ++
+Generation -- +
+Industrial Applications - ++
+Transmission + ++Gas and Power: Development by businesses 
+Q2 FY22
+Grading system
+>10%
+5% -10%
+0% -5%+ + +
++ +
++
+0% -(5)%
+(5)% -(10)%
+> (10)%-
+--
+---
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202228
+2022 -05-11Profit and Loss Statement (I)
+Siemens Energy
+In €m Q2 FY21 Q2 FY22 H1 FY21 H1 FY22
+Revenue 6,484 6,582 13,024 12,538
+Cost of sales (5,471) (5,859) (11,009) (11,093)
+Gross profit 1,013 723 2,015 1,445
+Gross profit margin 15.6% 11.0% 15.5% 11.5%
+Research and development expenses (289) (265) (525) (491)
+R&D as percentage of revenue (4.5)% (4.0)% (4.0)% (3.9)%
+Selling ang general administrative expenses (629) (648) (1,262) (1,313)
+SG&A as percentage of revenue (9.7)% (9.8)% (9.7)% (10.5)%
+Other operating income 17 16 51 35
+Other operating expenses (28) (65) (38) (80)
+Income (loss) from investments accounted for using the equity method, net 24 46 30 59
+Interest income 6 11 13 22
+Interest expenses (30) (37) (61) (69)
+Other financial income (expenses), net (7) 28 (21) 30
+Income (loss) before income taxes 77 (192) 203 (362)
+Income tax (expenses/gains) (46) (60) (74) (130)
+Net income (loss) 31 (252) 130 (492)
+Attributable to
+Non-controlling interests 7 (96) 42 (211)
+Shareholders of Siemens Energy AG 24 (156) 88 (281)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202229
+2022 -05-11Profit and Loss Statement (II)
+1Beginning with fiscal year 2022, GP segment’s Real Estate Portfolio, formerly shown under Reconciliation to Consolidated Fina ncial Statements, is assigned to 
+segment GP. Related prior year information has been reclassified to conform to the current year presentationSiemens Energy
+In €m Q2 FY21 Q2 FY22 H1 FY21 H1 FY22
+Gas and Power1 4,171 4,424 8,463 8,564
+SGRE 2,336 2,177 4,631 4,006
+Reconciliation to Siemens Energy (23) (19) (70) (32)
+Total Revenue 6,484 6,582 13,024 12,538
+Gas and Power1 188 266 456 508
+SGRE 113 (278) 231 (585)
+Reconciliation to Siemens Energy (12) (9) (31) (7)
+Adj. EBITA before Special Items 288 (21) 654 (84)
+Adj. EBITA margin before Special Items 4.4% (0.3)% 5.0% (0.7)%
+Gas and Power1 (18) (32) (93) (15)
+SGRE (71) (24) (118) (35)
+Reconciliation to Siemens Energy (2) (0) (3) (0)
+Special Items (91) (56) (214) (50)
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202230
+2022 -05-11Statement of Financial Position
+Siemens Energy
+In €m Sep. 30, 2021 Mar. 31, 2022
+Goodwill and other intangible assets 13,099 13,288
+Property, plant and equipment and other non -current assets 7,645 7,940
+Inventories 6,146 7,552
+Trade and other receivables 5,110 5,377
+Contract assets 4,913 4,630
+Cash and cash equivalents 5,333 5,030
+Other current assets 1,895 2,431
+Total assets 44,141 46,248
+Total equity attributable to shareholders of Siemens Energy AG 14,958 15,387
+Non-controlling interests 262 2
+Total equity 15,220 15,389
+Provision for pensions and similar obligations 830 725
+Long -term and short -term debt 2,728 3,327
+Trade payables 5,764 5,756
+Contract liabilities 10,350 11,936
+Other current and non -current liabilities 9,250 9,114
+Total liabilities 28,921 30,859
+Total equity and liabilities 44,141 46,248
+Adjusted net cash / (net debt) (unaudited) 1,596 801
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202231
+2022 -05-11Profit Bridge from SGRE to SE disclosure
+Q2 FY22
+5727EBIT (as 
+reported)Adj. EBITA 
+(before 
+Special Items)Financial 
+Income EBIT (underl.) PPA effects
+(304)Integration & 
+Restructuring 
+Cost
+0
+(24)
+(57)(385)PPA effects3Consolidation 
+and accounting 
+differences
+(301)Adj. EBITA 
+(as reported)
+24Special Items4
+(278)
+1 Disclosure (as of May 5, 2022) | 2Disclosure (as of May 11, 2022) | 3 PPA = Amortization of intangible assets acquired in business combinations and goodwill impairments
+4 Equals integration and restructuring cost as reported by SGREProfit Bridge from SGRE1to SE2disclosure (in €m)
+(14.0)% (17.7)% (13.8)% (12.8)%
+Siemens Energy is a registered trademark licensed by Siemens AG.
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202232
+2022 -05-11Transfer of centrally held Real Estate services to Gas and Power segment
+Summary prior year reclassification
+Gas and Power
+In €m Q1 FY21 Q2 FY21 Q3 FY21 Q4 FY21 FY21
+Orders
+Quarter (as reported in FY21) 5,166 5,030 4,453 6,231 20,880
+Quarter restated1 5,166 5,034 4,455 6,233 20,888
+Change due to restatement 0 4 2 2 8
+Revenue
+Quarter (as reported in FY21) 4,292 4,167 4,577 5,350 18,386
+Quarter restated1 4,292 4,171 4,579 5,353 18,395
+Change due to restatement 0 4 2 3 9
+Adj. EBITA
+Quarter (as reported in FY21) 191 169 84 (67) 377
+Quarter restated1 193 179 78 (79) 361
+Change due to restatement 1 10 (6) (12) (16)
+1Beginning with fiscal year 2022, GP segment’s Real Estate Portfolio, formerly shown under Reconciliation to Consolidated Fina ncial Statements, is 
+assigned to segment GP. Related prior year information has been reclassified to conform to the current year presentation
+Analyst Call | Q2 FY22
+Unrestricted © Siemens Energy, 202233
+2022 -05-11Gas and Power
+In €m Q1 FY21 Q2 FY21 Q3 FY21 Q4 FY21 FY21
+Adj. EBITA before SI ext.
+Quarter (as reported in FY21)
+267 187 231 165 849
+Quarter restated1
+268 188 225 153 834
+Change due to restatement 1 1 (6) (12) (15)
+Free Cash Flow
+Quarter (as reported in FY21) 101 481 384 240 1,206
+Quarter restated1 142 515 422 289 1,369
+Change due to restatement 41 34 38 49 163
+1Beginning with fiscal year 2022, GP segment’s Real Estate Portfolio, formerly shown under Reconciliation to Consolidated Fina ncial Statements, is 
+assigned to segment GP. Related prior year information has been reclassified to conform to the current year presentationTransfer of centrally held Real Estate services to Gas and Power segment
+Summary prior year reclassification

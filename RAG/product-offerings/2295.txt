@@ -1,0 +1,2566 @@
+        
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Index 
+2020, Rev. #0 
+Packager Guidelines 
+Index 
+ 
+Title                        Page 
+ 
+Section 0:  Introduction               4 
+ Section 1:    General Information              5 
+   1‐1.  Serial Numbers           5 
+   1‐2. Cylinder Nameplate  Information           5 
+   1‐2.1. Cylinder Type, Serial Number, Bore & Stroke         6 
+   1‐2.2. Rated Discharge  Pressure           6 
+   1‐2.3. Maximum  Allowable  Working Pressure         6 
+   1‐2.4. Hydrostatic  Test 
+Pressure           6 
+   1‐2.5. Maximum  Cooling Water Pressure          6 
+   1‐2.6. Maximum  Allowable  Discharge  Gas Temperature         6 
+   1‐2.7. Maximum  Speed            6 
+   1‐2.8. Base Clearance            6 
+   1‐2.9. Normal Lineal Clearance            6 
+   1‐2.10. Added Fixed Clearance            6 
+   1‐2.11. Noise Levels             7 
+   1‐2.12. Recommended  Blowdown  Procedure         7  
+   1‐3. Lifting Devices             7 
+   1‐4. Storage            7 
+   1‐4.1. Extended  Storage            8 
+   1‐5. Routine Operation  and Maintenance           9 
+   1‐6. Unit Throw Configuration                      15 
+   1‐7. Recommended  Allowable  Forces and Moments                   16 
+ 
+Section 2:  Installation            17 
+   2‐1. Skids           17  
+   2‐1.1. Skid Design          17 
+   2‐2. Setting and Leveling (Grouted Frames)      18 
+   2‐3. Cylinder Supports         21 
+   2‐4. Frame Supports (Crosshead  Guide and Distance Pieces)   22 
+   2‐5. Paint           23 
+    Section 3:  Drive System           24 
+   3‐1. General         24 
+   3‐2. Coupling Selection         24 
+  
+3‐3. Coupling Counterbalance  Weight       24 
+   3‐4. Alignment           24 
+   3‐5. Flywheel Installation  (when required)      26 
+   3‐6. Compressor  Cylinders         27 
+        
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Index 
+2020, Rev. #0 
+Title                         Page 
+ 
+Section 4:  Compressor  Cooling          28 
+   4‐1. Frame Oil Cooler         28 
+   4‐1.1. Thermostatic  Control Valves        29 
+   4‐2. Cylinder Cooling         31 
+   4‐2.1. Circulated  Water Cooling        32 
+   4‐3. Packing Coolant         32 
+   4.3.1  Water Cooled          32 
+   4‐4. Precautions           34 
+   Section 5:  Compressor  Crankcase  Oil System
+        35 
+   5‐1. Frame Oil Recommendations         35 
+   5‐2. Oil Cooler and Filter         37 
+   5‐3. Oil Piping          37 
+   5‐4. Prelube Pumps        38 
+   5‐5. Oil Parameter  Recommendations        38 
+ 
+Section 6:  Cylinder and Packing Lubrication         39 
+   6‐1. General         39 
+   6‐2. Cylinder Lubrication  System        39 
+   6‐3. Cylinder Oil Recommendations        40 
+A. General Requirements         40 
+B. Service Considerations         41 
+C. Inspection           42 
+D. Synthetic  Lubricants         42 
+6‐4. Cylinder Lubrication  Rates        43 
+6‐5. Cylinder Lubricant  Distribution        45 
+6‐6. Packing Lubrication  Rate        46 
+6‐7. Packing Lubricant  Distribution       47 
+6‐8. Points on Lubrication          47 
+ Section 7:  Compressor  Gas Piping         49 
+   7‐0. General         49 
+   7‐1. Cylinder Flange Inlet and Discharge  Studs      49 
+   7‐2. Cylinder Inlet and Discharge  Gasket Recommendations    50 
+   7‐3. Gas Inlet Piping         50 
+   7‐4. Discharge  Piping         50 
+   7‐5. Temporary  Suction Screens        50 
+  
+7‐6. Safety Valves          51 
+   7‐7. Intercooler,  Aftercooler  and Scrubber     52 
+   7‐7.4 Frame           52 
+        
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Index 
+2020, Rev. #0 
+Title                        Page 
+ 
+Section 8:  Instrumentation           53 
+   8‐1. General         53 
+ Section 9:  3rd Party Supplier Guidelines        54 
+   9‐1. Purge Flow Estimates          54 
+   9‐2. Vibration  Monitoring          54 
+   9‐3. Vertical Frame Thermal Growth       55 
+   9‐4. Packing RTD Temperature  Setting Recommendations    55 
+   9‐5. Main Bearing Temperature  Setting 
+Recommendations    55 
+ Section 10: 10‐0 Metric Conversions          56 
+ 
+ 
+     
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, Introduction 
+2020, Rev. #0 
+ 
+Packager Guidelines 
+Section 0: Introduction 
+ 
+ 
+The following guidelines are presented as recomme ndations to compressor packagers and the like 
+when applying Siemens Energy high speed reciproc ating compressors (HSRC).  These guidelines 
+are not intended to replace or inhibit the packager’ s own designs; the packager’s technical expertise 
+and experience takes precedence over these general instructions. 
+ Siemens Energy realizes that there are many fa ctors that go into a package design in order to 
+compete and sell value.  Our 65+ years of experie nce as a compressor OEM, packager and service 
+provider have allowed us to address certain aspect s of skid design that c an only benefit the packager 
+and end-user of the equipment, espe cially when it comes to applying our compressors.  Proper 
+installation is of extreme importance to the su ccessful commissioning, performance, reliability and 
+longevity of the unit and these guidelines are only there to help insure that.  
+For more detailed information that many not be contained in this guideline, please refer to the 
+respective Instruction Manual or contact your local Siemens Energy HSRC Group contact for 
+additional support. 
+ 
+  
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+                                     Packager Guidelines 
+Section 1: General Information 
+ 
+ 
+1-1.  Serial Numbers 
+Correspondence concerning your compressor and related equipment must include the serial numbers of the equipment about which you are writing. A complete record of serial numbers 
+and other data on your Siemens Energy compressor is kept at the factory; giving the serial 
+numbers in your correspondence and parts orders helps us in providing prompt service. 
+ 
+1. The compressor frame serial number applies to the frame and running gear parts. It 
+is located on a nameplate that is attached to the side of the frame at the oil pump 
+end. The serial number is also permanently  stamped directly below the nameplate in 
+the frame metal. It consists of several letters and numbers. Always give the complete serial number (for example; 6HF751, Y6H1 08) when requesting specific information. 
+ 
+2. Each compressor cylinder has its own serial number that is stamped on a nameplate 
+attached to the cylinder. The cylinder nameplate also includes other data; this is 
+described in the section that follows. Always  give the complete serial number (for 
+example; 6HC2400, Y6H775) when requesting specific information. 
+ 
+ 
+1-2. Cylinder Nameplate Information 
+The nameplate (Figure 1) attached to the compressor cylinder contains information that 
+allows both the customer and Siemens Energy to identify a particular cylinder. The following 
+is an explanation of some of the terms used on nameplates. 
+ 
+ 
+Figure 1. Cylinder Nameplate 
+ 
+
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1-2.1.  Cylinder Type, Serial Number, Bore & Stroke 
+The first block describes the compressor type. Following this is the block for the serial 
+number. The cylinder serial number is the mo st important item st amped on the nameplate. It 
+allows the customer, the distributor and the m anufacturer to identify a particular cylinder, its 
+specifications, the parts used to build it and the performance conditions for which it was designed. This is important in that it allows  tracking of a particular cylinder throughout its 
+history, no matter what frame it may be installed on in later years. Always give this serial 
+number when ordering spare parts. This will expedite the handling of your order and helps prevent shipment of incorrect parts. The cylinder bore is the inside diameter of the cylinder. If 
+there is a liner present, the cylinder bore is the inside diameter of the liner. This is also the 
+nominal piston diameter. Liners of  different thicknesses may be installed in a given cylinder to 
+vary the bore diameter. The stroke is the di stance the piston and rod travels (forward or 
+backwards) for every 1/2 re volution of the crank. 
+ 
+1-2.2.  Rated Discharge Pressure 
+The rated discharge pressure, or RDP, is the maximum pressure the cylinder is allowed to 
+see under normal continuous operating conditions. 
+ 
+1-2.3.  Maximum Allowable Working Pressure 
+The maximum allowable working pressure, or MAWP, is the maximum gas pressure 
+permitted in the cylinder period. The cylinder may be operated for short periods of time at 
+pressures up to this figure provided that other factors (such as driver horsepower, maximum bearing loads, and piping and vessel limitations) do not prohibit this. Safety valve settings are 
+usually much lower than this figure, and may never exceed it in any case. 
+ 
+1-2.4.  Hydrostatic Test Pressure 
+The pressure at which the cylinder has been hydrotested. Hydrosta tic tests are always 
+performed at pressures at least 1.5 times that of the MAWP. 
+ 
+1-2.5.  Maximum Cooling Water Pressure 
+This pressure limitation applies not only to jacke ted cylinders, but to in ternally water cooled 
+packing cases as well. 
+ 
+1-2.6. Maximum Allowable Discharge Gas Temperature 
+This is the highest temperature to which any compressor cylinder parts should be exposed to 
+for a short period of time.  
+ 
+1-2.7. Maximum Speed 
+This is the maximum design speed of the cylinde r. Certain cylinders, mainly the large ones 
+with high reciprocating weights, may have speed limits that are lower than that of the frame. 
+This is uncommon and always addressed in t he early states of any potential application. 
+ 1-2.8.  Base Clearance 
+This is the inherent clearance that lies within and/or  built within the cylinder.  It is in the form of 
+a percent of the swept volume for a given end of the cylinder. It cannot be changed without 
+physically altering the internals of the cylinder. 
+ 
+1-2.9. Normal Lineal Clearance 
+The clearance between the piston and the head when the piston is at the end of the stroke 
+(each end). It is required to allow for the thermal expansion of the piston and rod when 
+temperatures increase through compression. 
+ 
+1-2.10. Added Fixed Clearance 
+The clearance added by some physical means to meet the required operating condition(s). It 
+is typically added in the form of valve spacers or a shorter than normal head or piston. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1-2.11. Noise Levels 
+Siemens Energy does not guarantee noise levels.   Siemens Energy has no practical 
+method of obtaining and isolating compressor noi se data.  Many factors impact compressor 
+noise that may impact field readings.  Some  of these factors are ambient noise, motor 
+selection and noise, gas piping noise, system natural frequencies and other noise emitting 
+sources.  The values below can be considered a typical range of expected compressor noise 
+and actual values may vary in field. 
+ Electric drive outdoors:  94-98 
+Electric drive indoors:  98-102 
+Engine drive outdoors:  96-100 
+Engine drive indoors:  100-104 
+ 
+1-2-12.  Recommended Blow Down Procedure 
+The recommended blow down procedure is: 
+1. Comply with the ASME pressure vessel code.  This requires rapid venting to 50% 
+pressure. 
+2. At 50% pressure, hold and slowly vent at a rate of 10 psi/min until pressure reaches 700 
+psig.  This gives the gas time to slowly exit from the o-ring. 
+3. Below 700 psig, the depressurization rate is not restricted. 
+ 
+1-3.  Lifting Devices 
+Compressor frames are drilled and tapped at the factory for lifting devices. These lifting 
+devices are not supplied as standard scope of supply. These devices can either be 
+purchased locally or from Siemens Energy.  
+1-4.  Storage 
+If the compressor frame or skid is to be stored at any time and it is not resting on a foundation, it should be supported the full length to prevent any possible sag or distortion. It 
+will also be necessary to prot ect the unit from the weather, either in a building or by a 
+tarpaulin or similar covering. The standard sh ipping preparation used by Siemens Energy is 
+suitable for outdoor equipment storage of up to  six months. Additional protection for longer 
+storage periods can be provided as an equipm ent option. This additional protection is 
+normally selected to suit the particular storage requirements and environmental conditions. 
+ 
+NOTE 
+ 
+Local environment has such an effect on how well 
+any rust preventative material or technique will hold 
+up that Siemens Energy cannot realistically accept responsibility for the storag e, as we have no control 
+of the local conditions at the installation site. 
+ 
+When a lubricated compressor cylinder is shipped, the main bores and gas passages are 
+coated with rust preventative oil. This oil s hould not be removed or wiped out of the cylinder 
+until actual starting of the compressor. All of t he cylinder openings must be completely closed 
+so that dirt, rain or dust cannot be blown into them. Consult Siemens Energy on storage 
+requirements when non-lubricated cylinders are involved. 
+ 
+Non Lubricated Cylinder Application - For Domestic applications, aluminum paint is used in 
+the cylinder gas passageways and heads as a corrosion preventative. On Export Shipments 
+or Extended Storage, the gas passages and heads will be sprayed with a mineral rust 
+preventative after the aluminum paint is appl ied. Pressure, partition packings and oil wiper 
+rings are removed and placed into a greaseproof, waterproof, flexible barrier material 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+followed by an outer wrap. Export or Ext ended Storage also requires the piston and rod 
+assembly to be removed for shipment. Piston and rider rings are to be removed and packed 
+in the same manner as the packing rings ment ioned above. Piston and rod are sprayed with 
+a fingerprint neutralizer, then the piston, rod and ja mnut are sprayed with a rust preventative 
+and finally wrapped in the same manner as the packing rings mentioned above. 
+ Before storing the unit, it is important to chec k inside as well as outside the machine to be 
+sure all running parts and exposed surfaces su bject to corrosion are adequately protected. 
+Make certain all covers are bolted tight and all openings are properly closured against moisture and dust. During storage, periodically remove covers and check the frame interior 
+for condensation and for adequate protection of the internal surfaces. This should be done at 
+least once a month. 
+ 
+1-4.1.  Extended Storage 
+The following recommendations apply to compress ors that are being stored for an extended 
+period of over six months. Because of t he variations between storage sites, these 
+recommendations are presented only as guidelines, which should be modified to suit a particular situation. The following procedure is in addition to the storage instructions 
+described in the preceding paragraphs. 
+ 1.  The internal surfaces of the frame, frame extensions and the internal running gear 
+components have been coated with a rust prevent ative at the factory; this protective 
+coating must be left in place. While installing the compressor, take extreme care to prevent dirt, sand and other contaminant s from entering it. Any contaminants 
+introduced at this time must be thoroughly removed. After the machine is installed, it 
+is important that all frame openings are closed and sealed to pr event contamination 
+of the frame interior. 
+ 
+ 
+NOTE 
+When the compressor is to be stored for an extended period in an "as shipped" condition, an inspection 
+schedule must be established whereby the frame interior can be periodically exami ned and the rust preventative 
+coating restored as required. Any rust preventative 
+applied to the parts during this period should meet U.S. Government Specification MIL-C-16173 (latest edition), 
+Grade II, (such as Valvoline Te ctyl 502-C® distributed by 
+Ashland Oil, Inc.)  
+2.  All pipe connections must be plugged or fitted with suitable covers. Openings at the 
+ends of the frame extensions must also be closured if the compressor cylinders are 
+not mounted. 
+ 
+3. Ensure all access covers on the compress or are in place. It is important that the 
+machine is adequately closured against moisture and dirt. Wipe the outside of the 
+unit clean and dry. Spray all exposed "bright " surfaces, including that portion of the 
+crankshaft between the drive end and frame, with rust preventative.  
+ 
+4. Bar over the crankshaft at least once ev ery thirty days (more frequently if feasible) 
+during storage. When possible, operate the priming oil pump to be sure that rust 
+preventative oil is flushed onto all inter nal bearing surfaces. Do not allow the 
+crankshaft to come to rest at the same position it was in before barring. A simple 
+scribe line on an exposed por tion of the shaft will aid in this determination. 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+5. Remove compressor valves from the cy linders and either store them submerged in 
+an oil tank or coat them with a suitable rust preventative, wrap them and store them 
+indoors. 
+ 
+6. When compressor cylinders are shipped, the main bores and gas passages are 
+coated with rust preventative oil. This o il should not be removed or wiped out of the 
+cylinder until it is time to start up the compressor. All of the cylinder openings must be 
+completely closed so that dirt, rain or dust cannot be blown into them. 
+ 7. If the pistons, piston rods and packings are left installed during the storage period, 
+the cylinder lubricator should be filled with ru st preventative oil. Operate the lubricator 
+so that the rust preventative oil is pumped into the lubricator lines and main bores at 
+the same time the unit is being barred over. Prior to starting, drain this oil and flush 
+the system with the normal lubricating oil. 
+ 
+8. The rust preventative oil we use is only good for six months. We cannot ensure that 
+any parts put in storage over six months will not suffer damage. 
+ 
+9. The following inspections for corrosio n should be made at the end of the initial 6-
+month period and each month thereafter. 
+ 
+A.  Inspect the internal surfaces of the frame. 
+B.  Inspect the cylinder bores. C.  Inspect the piston, piston rods and packing for rust. 
+D. Inspect the valves by removing t he protective coating of protective 
+paper and checking for rust. Carefully spray with oil and repackage these parts after inspection. 
+E. If there is any rust presen t, clean and re-coat parts with a 
+preservative oil. 
+ 
+10.  When the compressor is ready to be placed in operation, drain all of the rust 
+preventative oil and flush the system as described in CHAPTER 3 (OPERATION 
+AND TROUBLESHOOTING) of the Instructi on Manual before filling the lubrication 
+system with the oil selected for regular operation. 
+ 
+1-5.  Routine Operation and Maintenance 
+High speed reciprocating compressors are designed and built for long periods of 
+continuous and reliable full-load operation.  It should be equipped with automatic safety devices to protect it and shut it down in case of low frame oil pressure, vibration, extreme temperatures or pressures and lack of cylinder lubrication.  It can also be 
+equipped with additional safety devices to obtai n practically any degree of protection 
+desired pending on the service and/or owner requirements. 
+ 
+When the unit is first placed in operation and the machine is operating at normal speed and load and with stable operating pressures and temperatures, all safety alarm and shutdown controls should be carefully checked for correct operation and adjusted 
+where necessary.  Never disconnect the safety shutdown devices and allow the unit to 
+run unprotected. 
+ 
+Every compressor requires a certain amount of supervision and care if it is to give 
+continued satisfactory performance and long service life.  A time schedule of duties for 
+the operator must be subject to alteration by experience to fit the actual conditions and 
+operating environment.  The following minimum schedule is suggested based on the continuous duty of 720 hours per month. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+NOTE  
+ 
+The time schedule of routine inspections and maintenance for the compressor must be used in conjunction with the schedule and duties recommended by the driver manufacturer for this 
+machine.  This also applies to the other accessory 
+equipment. 
+ 
+ Daily:  
+ 
+1. Keep the exterior of the compressor/driver clean, as well as the surrounding 
+work area. 
+ 
+2. Check the oil level in the frame sump and add the proper oil as required to 
+maintain the level at the oil level line on the gauge.  Check that the oil tank (if so 
+equipped) is also filled to the proper level. 
+ 
+3. Check the oil level in the lubricator drive box and add the proper oil as 
+necessary.  If the oil level has increased, then check the pumps for leakage 
+past the plungers.  Make sure that all the pumping units are working and also 
+inspect the distribution blocks for leakage, indicator pins “popped up”, or other problems. 
+ 
+4. Keep a daily log of all gas temperatures, water temperatures and gauge 
+pressures.  One of the principal means of keeping track of the physical 
+condition of a compressor and its equipment is by these daily log readings.  
+Watch carefully for any marked changes which indicate that further attention is warranted.  Use the interstage pressures and temperatures to detect abnormal conditions.  A decrease in the interstage pressure and temperature means that the lower pressure cylinder has reduced capacity.  An increase in interstage 
+pressure and temperature means that the next higher stage cylinder has 
+reduced capacity.  These effects can be attributed to leaking valves, worn piston rings or broken parts. 
+ 
+NOTE  
+ 
+In every case, because of variable operating conditions, the operator should establish the frequency of draining off the various drains.  This frequency will be 
+determined by the amount of liquid that 
+collects at each drain point. 
+ 
+5. If separators are used in the compressor system, a schedule must be 
+established whereby they are periodically drained to prevent any liquid 
+carryover into the compressor cylinders, which can cause serious damage.  If 
+automatic drains are furnished, check them for proper operation and be sure that no liquid has accumulated in the level gauge. 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+6. Watch for signs of excessive heating and listen for any unusual noises while the 
+machine is operating.  Any abnormal condition should be investigated 
+immediately. 
+ 
+7. Visually inspect the unit for loose fasteners and supports or for any excessive 
+shaking from tubing or hoses and secure where appropriate. 
+ 
+8. Check all the gas, water and oil piping for leaks. 
+ 
+ 
+ First Week:  
+ 
+1. Visually inspect and spot check with torque wrenches, the fasteners on joints 
+with gaskets and the entire cylinder to frame bolting with the unit shut down.  Take note of any fasteners that have loosened and pay close attention to these fasteners.  Increase the periodic checking of these fasteners if necessary. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during 
+operation.  Tighten the fasteners as required following the procedures outlined 
+in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this Instruction Manual. 
+ 
+3. Check the runout of the compressor piston rods.  Make sure the piston rod is 
+not scored, scratched or discolored. 
+ 
+4. Check the oil scraper packing, piston rod packing and distance piece vents for 
+excessive blowby and/or oil leakage.  If blowby is occurring, determine the cause and if required, replace the packing rings. 
+ 
+5. Check for adequate cylinder and packing lubrication.  This may require the 
+removal of the outer head and/or valve covers.  Compressors typically leave the factory with the cylinder lubrication system set at the maximum flow rate for break-in.  Refer to Section 2-3.4 in this Instruction Manual before reducing the flow rate. 
+ 
+ 
+ Monthly (ALL Daily Checks Plus):  
+NOTE  
+ 
+When the compressor is being operated in an extremely dirty atmosphere, or where it is installed outdoors, operated intermittently, handling foul gas in the cylinders, or 
+operating with high oil temperatures in a 
+very hot atmosphere, it may be necessary to change the oil more often.  Most reputable oil companies offer laboratory analysis of oil samples, the use of this type 
+service is recommended. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+1. Take a sample of the frame oil for analysis.  Compare the oil analysis to a clean 
+reference sample.  Change the oil and oil filter per the analysis or per the 
+compressor manufacturer's recommendations. Refer to Chapter 2 Section 2-2.8. 
+ 
+2. Visually inspect all the loaded joints for motion across the joint (winking) during 
+operation.  Tighten the fasteners as required following the procedures outlined 
+in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, in this 
+Instruction Manual. 
+ 
+3. Visually check the oil scraper packing, piston rod packing and distance piece 
+vents for excessive blow-by and/or oil leakage. 
+ 
+ 
+ Every Three Months (ALL Monthly Checks Plus):  
+ 
+1. Check all of the safety shutdowns and the operation of the loading and 
+unloading devices for proper operation. 
+ 
+2. Lubricate all of the variable volume clearance pocket (VVCP) packing grease fittings (See CHAPTER 4 MAINTENANCE Section 4-19.2 in this Instruction Manual) and check for free motion by moving the pocket in and out with the unit 
+not operating.  Reset the pocket to the correct clearance setting. 
+ 
+3. Check the frame crankcase breather(s) and clean or replace as necessary. 
+ 
+4. Clean the lubricator reservoir and pumping units as necessary or according to 
+the manufacturer’s instructions. 
+ 
+5. Check the compressor piston rings and piston rod for wear and the cylinder bore for scoring, and remove any accumulation of foreign material.  Replace the piston rings if they are worn to their limit.  Benchmark the wear data.  See CHAPTER 4 MAINTENANCE Section 4-14, in this Instruction Manual for the 
+proper procedures on checking the wear rate of, and renewing, PTFE piston 
+and rider rings. 
+ 
+6. Clean the separator sight glasses (if so equipped). 
+ 
+7. Utilizing a temperature measuring gun, measure the temperature of the valve covers; record and benchmark all the data. 
+ 
+8. Check the frame and driver foundation bolts for tightness.  Follow the required procedures and tighten to the proper torque values given in CHAPTER 5 GENERAL DATA AND SPECIFICATIONS Section 5-3, found in this Instruction 
+Manual. 
+ 
+9. Inspect the drive coupling.  Replace any worn or broken components.  Tighten as required. 
+ 
+ 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ Every Six Months (ALL Three Month Checks Plus):  
+ 
+1. Check the crankshaft end play. 
+ 
+2. Inspect the piston rod, pressure packing and oil scraper case for discoloration 
+or excessive leakage.  Replace the rings as required. 
+ 
+3. Replace the cylinder lubricator filters. 
+ 
+ 
+ Annually (ALL Six Month Checks Plus):  
+ 
+1. Check all of the running gear clearances and compare them to the benchmark 
+readings.  If a change is detected, disassemble and inspect those affected parts.  Replace any bearings and/or bushings where necessary. 
+ 
+2. Clean and flush the oil cooler and any other heat exchanger supplied. 
+ 
+3. Check the accuracy of the compressor pressure gauges and recalibrate them 
+as required. 
+ 
+4. Remove all of the inlet and discharge valves.  Clean and inspect the valves for 
+excessive wear and broken parts.  Lap the seats and guards and replace all internal parts.  Refer to the compressor valve instructions located in CHAPTER 4 MAINTENANCE Section 4-18 in this Instruction Manual. 
+ 
+5. Remove the compressor piston and piston rod assemblies and inspect the 
+piston rods, pistons, piston rings and cylinder bore diameters.  Record the 
+cylinder bore diameters.  Replace co mponents where necessary.  Inspections 
+of this nature will indicate the replacement schedule for parts that are subject to wear. 
+ 
+6. Safety valves used in the compressor gas system should have their settings 
+tested at least once a year, and more often under extreme conditions, by a hydraulic test. 
+ 
+7. Examine any separators, bottles, dampers and similar equipment that may be 
+used in the compressor system for accumulation of dirt, rust and other foreign 
+material.  Remove the vessel from the system and clean it if necessary. 
+ 
+8. Visually inspect the packing cups; re-lap as required; replace pressure packing 
+and oil wiper rings. 
+ 
+9. Pull the cylinder lubricator box pump covers and inspect the internal gears and 
+cam shaft.  Replace pumps where necessary. 
+ 
+10. Pressure test divider valves if a block distribution system. 
+ 
+11. Visually inspect cylinder gas passages for debris and remove where needed. 
+   
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, General Information 
+2020, Rev. #0 
+ 
+ Every 4-6 Years (Overhaul):  
+ 
+1. Completely disassemble the compressor. 
+ 
+2. Replace the oil pump. 
+ 
+3. Replace all valves. 
+ 
+4. Replace all wear items such as bearings, bushings, pistons and rings. 
+ 
+5. Replace all seals. 
+ 
+6. Replace piston and piston rod if necessary. 
+ 
+7. Replace all cylinder lubricator pumps and divider blocks.   
+ 
+ 
+1-6.  Unit Throw Configuration  
+See Drawing to View Throw Configuration 
+ 1-7.  Recommended Allowable Forces and Moments  
+See Drawing to View Forces and Moments 
+ 
+ 
+
+
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+Packager Guidelines 
+Section 2: Installation 
+ 
+2-1. Skids 
+ 
+All reciprocating compressors gen erate inherent unbalanced forces. Siemens Energy’s high speed 
+reciprocating compressors are balanced - opposed ty pe compressors in which the weight of one throw 
+is equal to that of the opposing throw. Where requ ired, the reciprocating weig ht of opposing throws is 
+balanced within a specified tolerance by the use of  weighted rod jam nuts, heavy crossheads and/or 
+weights attached to the crossheads. Due to the offs et of the throws, an inherent couple is present, 
+though counterbalance weights are installed on the cr ankshaft to reduce the moments significantly.  
+ 
+Because all compressors have unbalanced forces, an adequate skid and/or foundation is necessary to prevent vibration and movement of the unit. 
+ 
+NOTE 
+ 
+On a one-, three-, or five- cylinder compressor unit, the 
+open throw is fitted with a balancing crosshead or balancing 
+cylinder of sufficient weight to properly counterbalance the 
+weight of the opposing piston and rod assembly. 
+ 
+Foundation mounted skids should be rigid enough to transmit unbalance forces and moments into the 
+foundation.  
+Skids designed to operate without being mounted on  a foundation should have enough mass to properly 
+carry unbalance forces and moments into the soil. 
+ 
+2-1.1. Skid Design 
+ 
+Skid design is the responsibility of the packager; however, the following univers al guidelines are offered 
+to assist the designer:  
+1. It is essential that the frame and the skid shou ld act as a single mass to properly absorb the 
+effects of unbalance forces and moments. To do so, the frame mounting points should be flat, 
+level and smooth enough to transmit these forces into the skid structure. A machined surface 
+can be used to achieve sufficient contact. A pourable chock or grout can also be used to 
+increase the surface contact. 
+ 
+2. Compressor mounting studs should be la rge enough and have enough tensile strength to 
+prevent movement between the compressor base and the skid. The following table lists required 
+stud sizes for each of the frame models. This tabl e is based on studs or bolts with an ultimate 
+strength of 100,000 psi (703.1 kg/cm
+2). Higher strength studs are pr eferred, but if they are used, 
+they should be tightened to approximately 55% of the ultimate strength of the bolt material. 
+ 
+The bolts should be long enough to enable the bolts to remain tight through normal inspection 
+intervals. The longer the bolt, the more stretch and the longer the bolt will stay tight. In all cases, 
+the following guidelines should be adhered to: 
+ 
+• Clean and oil threads before assembly with mineral oil. 
+• Avoid shear loading of bolts. 
+• Use the proper tools for tightening. • Use calibrated torque wrenches. 
+• If grout is used, protect the anchor bolt from adhering to the grout. 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+Table 1. Required Stud Sizes 
+ 
+Compressor 
+Model Mounting 
+Hole Size 
+in. (mm) Required Bolt 
+Size 
+ in. (mm) Min. Torque 
+(oiled threads) 
+ft-lbs. (Nm) 
+MOS 1-5/16 (33.3) 1-1/4-8 (31.6) 710 (963) 
+HOS 2-3/16 (55.6) 2 4- 1/2 (51.0) 2930 (3973) 
+HOS* 1-5/8 (41.3) 1-1/ 2-6 (38.1) 1230 (1668) 
+HOSS 1-5/8 (41.3) 1-1/ 2-6 (38.1) 1230 (1668) 
+ 
+   *Effective 2014 – Verify Actual Size Before Applying Specified Torque 
+ 
+3. The skid must be rigid enough to handle lifting and tr ansporting to the job site without excessive 
+flexing, which creates high stresses on the frame and cylinders. Flexing of the skid between the 
+driver and the compressor should also be held to a minimum to reduce the possibility of 
+damage to compressor or driver bearings or co upling. Multiple runners, heavy cross-section 
+beams, or concrete fill are often us ed to increase skid rigidity. 
+ 
+4. The skid should also be designed so that its nat ural frequency, when installed, is sufficiently far 
+enough away from both the operat ing speed and twice the operating speed of the unit that a 
+resonant vibration will not be present. To avoid a resonant vibration, it is recommended that the 
+natural frequency either be less than 80% of  the minimum operating speed of the unit, or 
+greater than 240% of the maximum operating sp eed. Piping systems and structures that are 
+attached to the skid should also be examined to ensure that they are also outside the critical 
+frequency range. 
+ 
+ 
+2-2. Setting and Leveling (Grouted Frames) 
+ 
+The following procedure describes the setting and leveling of a typical grouted frame: 
+ 
+1. The compressor base is drilled and tapped near each foundation bolt hole for frame leveling 
+setscrews.  Leveling setscrews are not norma lly supplied, but are available upon request. 
+Greasing the leveling setscrews will aid in leveling the frame and make them easier to back off 
+after leveling. A 1/2 inch (13.0 mm) thick steel leveling plate should be placed under each 
+leveling screw as shown in Figure 2 to prevent the setscrews from digging into the foundation. 
+ 2. Prior to setting the frame on the skid, the area of the frame which will contact the grout should 
+be cleaned of all paint and preservative. This will insure a good adhesion of the grout to the 
+frame. 
+ 
+3. Lower the compressor frame over the foundation bolts, at the same time positioning the steel 
+plates under the leveling screws. 
+ 
+4. Place the leveling plates so that they do not extend beyond the outer edges of the compressor 
+base. 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+5. The frame leveling surfaces consist of t he lower crosshead guides and the flat-machined 
+surfaces on top of the frame. Clean all leveling su rfaces of dirt, grease, paint or anything which 
+could result in a false level reading; however,  do not file, grind or use any other cleaning 
+equipment that can remove metal from the leveling surfaces.  
+6. Level the frame both longitudinally and transve rsely by means of the leveling setscrews. The 
+nuts should not be on the foundation bolts at this time. Use a precision machinist's level on the 
+machined leveling surfaces. Bring the frame to its final elevation and level it in both directions, 
+keeping the weight evenly dist ributed on the leveling screws. Run the foundation bolt nuts lightly 
+against the frame base flange to hold the final position. Do not attempt to level the frame by 
+tightening the foundation bolt nuts. 
+ 
+ 
+NOTE 
+ 
+On four and six throw MOS, HOS and HOSS compressors, check at each main 
+bearing with a 0.0015 inch (0.04mm) feeler  to see that there is no clearance 
+between the bearing and the bottom of the crankshaft. A 0.0015 inch (0.04 mm) 
+feeler should also be inserted between the shaft and the bearing at the horizontal centerline and then moved toward the bottom of the bearing on each 
+side to be sure there is clearance just below (about 1 inch or 25.4 mm) the 
+bearing split line.   
+As the final check of frame alignment, a crankshaft deflection check may be 
+made at each crank throw, but this is  not a requirement. Check the crank web 
+deflection as shown in Figure 3. The mi crometer shown consists of an ordinary 
+inside micrometer barrel with pointed extension shaft of the proper length to 
+measure the span between crank webs. Bar the crank over until it points straight 
+up. Insert the pointed end of the micromet er into a prick punch mark and adjust 
+the barrel at the other end until it will just  pass the closest portion of the opposite 
+web. Record the micrometer reading . Bar the crank 90° and take another 
+reading - repeat at 180° and 270°. The four readings should not vary by more 
+than 0.001 inch (0.03 mm) if the crankshaft is satisfactorily aligned. If the unit 
+requires a flywheel, the frame leveling and crankshaft deflection should be done 
+prior to the flywheel installation.  
+ With the frame satisfactorily aligned and the foundation bolt nuts pulled down 
+enough to hold the frame in position, proceed to grout the frame. The area 
+under the center of the frame should not  be grouted. Place foam rubber (DO 
+NOT USE STYROFOAM®) along both sides of the area to be blanked off. This 
+should be in place before lowering the frame to its final elevation. The free 
+height of the foam should be sufficient to allow approximately 1/4-inch (6.4 mm) 
+crush per one inch (25.4 mm) of height w hen the frame is in its final position. A 
+generous bead of caulking compound can be run on the top and bottom of the 
+foam to assure a tight seal against bot h the frame and foundation. The foam can 
+be left in place after the unit is grouted. Another method of blanking off the 
+center of the frame during grouting invo lves placing a piece of foam under the 
+frame to fill the entire area where the gr out is to be exclude d. The foam must 
+then be removed, however, as it is import ant that there is an air space under the 
+unit.  
+ 
+After the unit is grouted, and the grout has been given sufficient time to harden, 
+the leveling screws should be backed o ff and the foundation bolts tightened to 
+the torque recommendations given in CHAPTER 5 of the instruction Manual. 
+ 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+NOTE 
+ 
+We recommend that epoxy grout be used. Field experience has shown that 
+certain types of non-shrink grouts continue to expand in service and can cause 
+alignment problems. If this type of grout is  to be used, the characteristics of the 
+material should be thoroughly investigated with the manufacturer before the 
+selection is made.  
+ 
+The final selection of a particular gr outing method and the brand of grouting 
+material to be used are the responsibility of the customer or his contractor. Also, 
+instructions concerning the use of a particular grouting material are the 
+responsibility of the grout manufacturer.  
+ To assure proper bonding of the epoxy grout to the concrete surface, make 
+proper surface preparations before po sitioning the frame on the foundation for 
+grouting.  
+ 
+ 
+Figure 2. Leveling Setscrew 
+ 
+ 
+NOTE 
+If the frame is to set on sole plates, y ou should ensure that the jackbolts are 
+backed off enough to not contact the sole plates after the frame has been 
+tightened.  
+On frames that are mounted on sole plates, all the feet should be checked for 
+soft foot. To check for soft foot, mount a dial indicator in so it is reading off the top of the frame foot. Torque up the hold down bolt and insure the indicator 
+does not move more than .002 inch (0.05 mm). If you have a higher reading 
+than .002 inch (0.05 mm), the foot must be shimmed.  
+The use of threaded adjustable chocks (e.g. Vibracons), are not recommended 
+with the HOS and HOSS frames. 
+
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+Figure 3. Measuring Crankshaft Deflection 
+ 
+ 2-3. Cylinder Supports  
+HOS and HOSS:  Siemens Energy highly recommends outboard cylinder supports on conventional 
+barrel type cylinders larger than 15” (381 mm), OR on any cylinder size that comes equipped with a 
+VVCP or FVCP for the outer head.  
+MOS:  Siemens Energy highly recommends outboard cylinder supports on cylinders larger than 15” 
+(381 mm).  Cylinder supports are highly reco mmended when distance pieces are required. 
+ 
+MOS cylinders come with supports on the outer end of the cylinder only.  
+All cylinder supports are to be designed to support the cylinder off the machined ledge.  The bolting is 
+provided to insure the support maintains contact wi th the ledge; the bolting is not intended to support 
+any weight. 
+  
+These supports are highly recommended to support the combined weight of the cylinders and pulsation 
+suppression devices, and to aid in stabilizing any horizontal forces generated by mechanical unbalance 
+and gas acoustics.  Experience has shown that w hen these supports are not provided, issues have 
+developed with regard to maintaining proper (free- state) frame main bearing clearances, crosshead 
+running clearances and rod run-out.  Undesirable or ev en excessive vibration can result as well without 
+them.  When the skid is designed to accommodate t hese cylinder supports, they must be bolted to a 
+main member, not just to the steel deck plate, which may cover the skid. Shims must be used to 
+maintain vertical alignment of the cylinders with the frame. 
+ 
+Advantages gained through use of cylinder supports are twofold:  
+1. Support of approximately one-ha lf of the cylinder weight and the total weight of the bottles. 
+ 
+2. Maintenance of cylinder ali gnment with the crosshead guide. 
+
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+NOTE 
+ 
+A careful examination of gas piping and vessel arrangement should be made to 
+ensure that supports indicated by these guidelines are satisfactory.  If the piping 
+system for a packaged compressor contains unusually large and heavy 
+pulsation vessels, or piping configurat ion that will induce high static and 
+dynamic loading on the cylinders, Siemens  Energy recommends the use of a 
+cylinder support for any size cylinder and frame arrangement.  
+ 
+Cylinder supports should be flexible to allow for cylinder movement caused by frame load and inertia 
+forces in a direction parallel to the piston rod cent erline. The supports must be wide at the bottom to 
+restrict cylinder side movement. Construction should be such that support vibrat ion is minimized. This 
+requires proper ribbing and gussets. Sole plates and shims should be used for ease of assembly, 
+alignment and maintenance.  It is important that the cylinder support is designed to capture the machined “ledge” or “lip” provided on the cylinder.  The bolting itself is only expected to keep the 
+support affixed to the cylinder and is not des igned to accept the weight of the cylinder. 
+ 
+Cylinder supports cantilevered from the main skid beams are the least preferred design. When 
+used, ribs must stiffen such supports. Additionally, the skid beam should be ribbed to prevent flexing at 
+point of the cylinder support attachment.  
+If the skid does not extend to the end of the cylinder to provide support, the cylinder should be 
+supported by the main concrete foundation under the skid.  The foundation in this case must be one continuous mass.  Separate foundations under cylinder feet should not be used. 
+ 
+ 
+2-4. Frame Supports (Crosshead Guide and Distance Piece) 
+ 
+HOS and HOSS:  Crosshead guides are integral  with the frame and do not have support 
+accommodations underneath the crosshead guide.  Ho wever, these frames are supplied with distance 
+pieces and Siemens Energy highly recommends these frames be supported at this location. 
+ 
+MOS:  Crosshead guides are integral with t he frame and do not have support accommodations 
+underneath the crosshead guide.  These frames are ty pically not supplied with distance pieces.  When 
+distance pieces are supplied, Siemens Energy highly recommends that these crosshead guides are 
+supported. 
+ All supports should be designed to provide good support in three directions (vertical, horizontal and 
+axial).  When installing these supports, it should be noted that the weight of the cylinders installed on 
+the frame extension/distance piece may cause some def lection, or horizontal droop.  Table 2 lists the 
+amount of droop, which can be expected for various fr ames with various cylinders.  These supports 
+cannot be bolted to the deck plate; t hey must be bolted to the main skid. 
+ 
+         
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Installation 
+2020, Rev. #0 
+ 
+Table 2. Crosshead/Distance Piece Support Preload 
+ 
+Compressor 
+Model Cylinder Size 
+3.50 – 9.25 
+in. (mm) 9.50 – 15 
+in. (mm) 17.25 – 28 
+in. (mm) 
+MOS *** .002” (0.05) .003” (0.08) .005” (0.13) 
+HOS/HOSS .002” (0.05) .003” (0.08) .005” (0.13) 
+*** Required Only When Distance Pieces are Used 
+ 
+ 
+ 
+To properly allow for this droop, the support shou ld be installed with the desired amount of shim 
+material, then the cylinder should be raised enough to add the additional amount of shim from the table. 
+  
+2-5. Paint 
+ 
+All Siemens Energy equipment is shipped from the U.S.  factory with an alkyde primer sealer. It is up to 
+the packager to insure any top coat applied over the alkyde primer  will be compatible with the primer. 
+For specifics of this primer, pleas e call Siemens Energy Engineering. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+Packager Guidelines 
+Section 3: Drive System 
+ 
+3-1.  General 
+The compressor drive system includes the dr iver and coupling, and flywheel if required. 
+Reciprocating compressors are most often driv en by gas engines or electric motors, but 
+occasionally may be driven by gas or steam turbines through a gearbox. The design of 
+the drive system requires consideration of the maximum horsepower available to drive 
+the frame, and the torsional characteristic of both the driver and the compressor frame. 
+Gas engines equipped with viscous damped vibration dampers normally present very few 
+torsional problems, while electric motors often require compromises with the motor 
+supplier to achieve a torsionally acceptable solution. A torsional analysis should be 
+performed when utilizing:   
+• A new engine / frame combination. 
+•  Electric motor drivers, particu larly those with horsepower ratings 
+approaching those of the frame and / or  those with variable speed drives. 
+• Any drive with a gearbox. 
+ 3-2.  Coupling Selection 
+The selection of the coupling will depend on the torsional characteristics and/or 
+horsepower requirements of the driver/frame co mbination. Most direct driven units use a 
+torsionally rigid, flexible disc type coupling. When sizing a flexible disc type coupling, a 
+service factor of 3.0 is often used, t hough it is prudent to consult the coupling 
+manufacturer for their recommendation. In those cases requiring a torsionally soft 
+coupling, care must be taken to insure the supplier is fully aware of the torsional 
+requirements of the coupling, as many are not familiar with reciprocating compressor 
+applications. 
+ 
+All current Siemens Energy HS RC units use keyless shafts and rely upon an interference 
+fit between the coupling hub and the shaft to transmit driver torque. The degree of 
+interference is dependent upon shaft diameter and hub material and design.  
+ 3-3.  Coupling Counterbalance Weight 
+Some couplings supplied on 2 and 4 throw old style HOS compressors where there is 
+only one internal weight connected to the crankshaft at the pump end, need to be equipped with a weight that is fastened to  the coupling hub unless the flywheel has a 
+bolted on weight or a machined flat to counter the internal weight. Together, these two 
+weights convert a large portion of the horizont al moments into vertical moments. This 
+reduces the potential for high mechanical vi bration seen in most reciprocating type 
+compressors. The MOS and new style HOS and HOSS have both these counterweights 
+mounted internal to the frame. 
+ 
+ 
+3-4. Alignment 
+Angular misalignment should be as close to ZERO as possible, and should ideally be 
+within 0.002 inch (0.05 mm) Total Indicator Reading (T.I.R.) for an average 12-inch (305 
+mm) indicated diameter coupling. If it is not pos sible to get this close, we will accept up to 
+0.005 inch (0.13mm) T.I.R. as an outside limit. These figures are not as liberal as those 
+supplied by the coupling manufacturer, but t hose limits refer to what the coupling can 
+tolerate and ignore coupled equipment limitations. The above figures are recommended 
+for Siemens Energy equipment.  
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+When doing coupling alignment, it is important to insure the thrust on the compressor is 
+centered. You want to insure when the compressor is running there is no push or pull on 
+either thrust shoe.  
+After the alignment is done, rotate the engine/motor and compressor through a few 
+revolutions to insure the thrust of the compressor is centered. 
+ 
+ 
+ 
+ 
+ Figure 4. Correcting for Angular Misalignment  
+ 
+  
+ 
+PROCEDURE  
+ 
+1. DIAL INDICATOR READINGS IN THE 
+VERTICAL DIRECTION INDICATE THAT THE 
+DISTANCE BETWEEN COUPLING FACES 
+AT THE 12:00 POSITION IS "a" DIMENSION GREATER THAN AT THE 6:00 POSITION. 
+ 
+2. BY REPOSITIONING THE EQUIPMENT TO 
+NARROW THE DISTANCES AT 12:00 BY a/2 
+THE DISTANCE AT 6:00 IS INCREASED 
+PROPORTIONATELY. THIS ALIGNS THE 
+COUPLED SHAFTS.  
+ 
+3. CORRECTIONS IN THE HORIZONTAL  
+DIRECTION (3:00 AND 9:00 POSITIONS) ARE MADE IN THE SAME MANNER.
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+ 
+3-5.  Flywheel Installation (When required) 
+ The flywheel, when needed, can be installed either with a shrink fit to the compressor 
+shaft, or by use of a tapered bushing. 
+ The following instructions apply to in stallation using the shrink fit bushing. 
+ 
+1.  Clean the bore in the flywheel and the outside of the bushing.  Also clean the bore 
+of the bushing and the corresponding sect ion of the crankshaft. Do not use any 
+type lubricant during assembly. 
+2. Measure the crankshaft OD and the bushing ID. Insure there will be a 0.00050" 
+(0.01 mm) - 0.00075" inch  (0.02 mm) per in ch of shaft diameter interference fit 
+between the two before proceeding. 
+3. Heat the bushing until it has reached an  average temperature of 500° F (260°C). 
+This can be accomplished by using an oven or an acetylene torch in conjunction 
+with a tempstick to monitor the temperature. 
+4. When the bushing comes up to temperatur e, it is vital that it be slipped on in a 
+timely manner and pushed far enough down t he shaft so that it becomes flush 
+with the end of the crankshaft and no further 
+5. At this point, let the bushing cool before assembling the flywheel onto the 
+bushing. 
+6.  Using proper lifting techniques and a hoist having sufficient capacity, install the 
+flywheel onto the bushing. Snug each of the attachment bolts, but do not tighten. 
+7.  With the flywheel firmly in place,  tighten the attachment bolts evenly to the 
+required torque setting. Once tight, there should still be some clearance between the bushing flange and the flywheel. You may also check to ensure the bushing 
+is tight by attempting to insert a 0.001 (0.03 mm) or 0.0015 inch (0.04 mm) feeler 
+gauge between the wheel and the shaft (at two points diametrically opposed). Any clearance indicates improper installation. 
+8.  The T.I.R. as measured on the face of the flywheel where the coupling adapter 
+attaches should not exceed .005 inch (0.01 mm). 
+ 
+The following instructions apply to installation using the tapered bushing.  
+1.  Clean the bore in the flywheel and the outside of the bushing.  Also clean the bore 
+of the bushing and the corre sponding section of  the crankshaft. Do not use or 
+any other type lubricant during assembly. 
+2.  Install the bushing into the flywheel. Snug each of the attachment bolts, but do 
+not tighten. 
+3.  Using proper lifting techniques, and a hoist having sufficient capacity, install the 
+flywheel onto the crankshaft. 
+4.  With the flywheel firmly in place,  tighten the attachment bolts evenly to the 
+required torque setting. Once tight, there should still be some clearance between 
+the bushing flange and the flywheel. You may also check to ensure the bushing 
+is tight by attempting to insert a 0.001 (0.03 mm) or 0.0015 inch (0.04 mm) feeler 
+gauge between the flywheel and the shaft (at two points diametrically opposed). 
+Any clearance indicates improper installation. 
+5.  The T.I.R. as measured on the face of the flywheel where the coupling adapter 
+attaches should not exceed .005 inch (0.01 mm). 
+ 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG. 
+  Packager Guidelines, Drive System 
+2020, Rev. #0 
+NOTE 
+When installing any hub on the compressor 
+crankshaft, there must be no less than 1" clearance 
+from the back of the hub to  the front cover of the 
+frame. This is to facilitat e removal of the crankshaft 
+oil seal if service is required. 
+ 
+3-6.  Compressor Cylinders 
+Compressor cylinders are normally installed on the frame at the factory and shipped 
+complete. Under certain circumstances the cylinders may be shipped loose and then 
+installed at the packagers. If this is the ca se refer to the MAINTENANCE section of the 
+particular compressor Instruction Manual you are working on. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+Packager Guidelines 
+Section 4:  Compressor Cooling 
+ 
+4-1. Frame Oil Cooler 
+ 
+ All HSRC compressors come standard with a fa ctory supplied frame oil cooler to remove 
+heat generated by the friction of moving parts .  It is shipped loose from the compressor 
+and is the responsibility of the packager to incorporate it into the package.  The size and 
+type of cooler largely depends on the amount of heat required to remove from the oil that 
+absorbs this heat; this is typically referred to as "heat rejection", or "heat load".  The 
+frame oil heat rejection requirements vary mainly with compressor size, speed, and 
+ambient conditions.  The maximum heat load for each compressor model are listed in Table 3; these loads are based on the most severe anticipated service conditions 
+(maximum speed).  The factory supplied oil co olers are sized for this condition with the 
+minimum required cooling water flow rates listed in Table 3 as well; note that these flow rates are based on using water with a 140°F (60°C) inlet temperature.  The cooling water 
+temperature to the cooler under any circumstance should never be above 150°F (86°C).  
+To provide for the maximum service interval, the cooling water supplied to this cooler 
+should be clean, with an antifreeze additive  for operation in low ambient temperature.  
+The cooler water flow should be regulated so that the oil temperature is held to a 
+minimum of 130°F (54°C) to prevent excessive oil pressure drops and oil sludging in the crankcase. 
+ 
+ For applications where a factory supplied oil cooler is not furnished and the application 
+involves speeds lower than the maximum, a direct ratio of the speeds (actual/maximum) 
+can be used as a multiplier to determine the required (lower) heat load.  Example: A 
+6HOS2 operating at 890 rpm will have a maximum heat load of (890/1200)•800 = 593 BTU/min. 
+ 
+ 
+!    CAUTION  
+It may be necessary to provide auxiliary heating to bring the inlet water temperature up to the required 
+minimum, or to provide auxiliary cooling to lower the inlet water temperature to acceptable levels.  
+ 
+ 
+Table 3.  Frame Heat Rejection & Cooling Water Requirements (Oil Cooler) 
+ 
+ 
+  
+Model  
+ 
+Max. 
+Speed 
+(RPM) Max 
+Heat 
+Load 
+(BTU/ 
+Minute)  
+Water 
+Flow 
+GPM 
+(LPM) Oil 
+Pump   
+Cap. 
+GPM 
+(LPM) Oil to 
+Cooler 
+& Filter 
+GPM) 
+(LPM)   
+ 
+  
+Model  
+ 
+Max. 
+Speed 
+(RPM) Max 
+Heat 
+Load 
+(BTU/ 
+Minute  
+Water 
+Flow  
+GPM 
+(LPM) Oil 
+Pump   
+Cap. 
+GPM 
+(LPM) Oil to 
+Cooler 
+& Filter 
+GPM 
+(LPM) 
+5MOS2 
+5MOS4 
+5MOS6 
+6MOS2 1500 
+1500 
+1500 
+1200 800 
+1600 
+2400 
+700 20 (76) 
+30 (144) 
+40 (151) 
+20 (76) 32 (121) 
+71 (269) 
+97 (367) 
+31 (117) 16 (61) 
+32 (121) 
+48 (182) 
+16 (61)  5HOS2 
+5HOS4 
+5HOS6 
+6HOS2 1500 
+1500 
+1500 
+1200 900 
+1800 
+2700 
+800 20 (76) 
+30 (114) 
+40 (151) 
+20 (76) 40 (151) 
+70 (265) 
+110 (416) 
+40 (151) 23 (87) 
+46 (114) 
+69 (261) 
+23 (87) 
+6MOS4 6MOS6 
+7MOS2 
+7MOS4 7MOS6 1200 
+1200 
+1000 
+1000 1000 1400 
+2100 
+600 
+1200 1800 30 (114) 
+40 (151) 
+20 (76) 
+30 (114) 40 
+(151) 73 (276) 
+99 (374) 
+32 (121) 
+73 (276) 98 
+(371) 32 (121) 
+48 (182) 
+16 (61) 
+32 (121) 48 
+(182)  6HOS4 
+6HOS6 
+7HOS2 
+7HOS4 7HOS6 1200 
+1200 
+1000 
+1000 1000 1600 
+2400 
+700 
+1400 2100 30 (114) 
+40 (151) 
+20 (76) 
+30 (114) 40 
+(151) 70 (265) 
+110 (416) 
+40 (151) 
+70 (265) 
+110 (416) 46 (114) 
+69 (261) 
+23 (87) 
+46 (114) 69 
+(261) 
+   
+  
+   
+  
+   
+5HOSS2 
+5HOSS4 
+5HOSS6 6HOSS2 6HOSS4 
+6HOSS6 
+7HOSS2 7HOSS4 7HOSS6  
+1500 
+1500 
+1500 1200 1200 
+1200 
+1000 1000 1000  
+1100 
+2200 
+3300 1000 2000 
+3000 
+900 
+1800 2700  
+20 (76) 
+30 (114) 
+40 (151) 
+20 (76) 
+30 (114) 
+40 (151) 
+20 (76) 
+30 (114) 40 
+(151)  
+63 (238) 
+94 (356) 
+125 (473) 
+63 (238) 94 (356) 
+125 (473) 
+63 (238) 94 (356) 
+125 
+(473)  
+32 (121) 
+64 (242) 
+96 (363) 32 (121) 64 (242) 
+96 (363) 
+32 (121) 64 (242) 96 
+(363) 
+             
+If an air-cooled oil cooler is installed in lieu of the standard water-cooled oil cooler, a 
+thermostatic valve should be installed in the oil system to maintain the oil at or above the minimum temperature. 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+ 
+ 
+4-1.1. Thermostatic Control Valves  
+ Temperature Settings 
+  Pre-set Thermostatic Valves, set to predetermi ned temperatures at the factory, eliminates 
+costly errors due to mistakes of operat ing personnel.  Operators do not have the 
+capability of changing operatin g temperatures, running equipment hot or cold.  One pre-
+set Thermostatic Valve must be replaced with another one to make such a change.  
+Siemens Energy typically recommends a Thermo static Valve be preset to 160°F (71°C). 
+ 
+ To extend the life of Thermostatic Valves, they should not be run for extended periods 
+above 25°F (14°C) over their normal ratings.  If temperature requirements are greater, 
+contact the factory for recommendations. 
+ 
+  Operations 
+ 
+ The operating force is generated by the expansion of a special wax which reacts to very 
+small changes in temperature. 
+ 
+ An element assembly of the Model B series with the sliding valve in the cold position is 
+shown in Figure 1A.  The wax like fluid travels out the bypass (Port B as marked on the 
+valve), the direction indicated by the arrow. 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ The sliding valve moves up to the warm, extended position as shown in Figure 1B.  The  
+Bypass is closed off by the sliding valve as it seats and the water is diverted to the outlet 
+(Port C on the valve) as indicated by the arrow head at the Outlet. 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+ 
+ While operating, the sliding valve is usually  in the mid-position.  Rising temperature 
+expands the wax material, forcing the rubber plug into a reduced diameter in the piston guide, which multiples the piston's movement by this extruding action. 
+ 
+ The chemical composition of the wax mate rial determines the operating range of the 
+valve.  The expansion of the wax generates pressure, transferring it to the piston, 
+overcoming a spring force of greater than 100 lbs. (45.4 kg). 
+  A simple, rugged construction is sensitive to  changes in temperature.  Valve construction 
+nullifies the affects of pressure on the element.  Surges in pressure do not tend to upset 
+the stability of the thermostatic valve. 
+ 
+  Piping Diagrams 
+ 
+ Figure 2 represents the most common piping diagram for an engine jacket water 
+temperature control.  A radiator may replace a heat exchanger.  The Thermostatic Valve 
+will operate in any position and may be pos itioned with regard to convenience only. 
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Figure 2.  Cooling water control – Heat Exchanger Va lve shown in “diverting” installation.  Mount valve 
+in dotted position for “mixing” applications. 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+ 
+ Lubricating oil temperatures control for compressors utilizes the thermostatic valve 
+installed directly in the lubricating oil line as  illustrated in Figure 3.  The oil bypasses the 
+heat exchanger when cold will reach the desired operating temperature rapidly.  When 
+warmer, the correct amount of oil will automatically be circulated through the heat 
+exchanger to maintain the desire temperature. 
+ 
+ The system illustrated in Figure 3A is simila r to the standard jacket water temperature 
+control system with the thermostatic valve used  as a diverting valve.  In Figure 3B the 
+Thermostatic Valve is used as a mixing valve, in which hot oil enters Port B and cold oil 
+enters Port C.  The oil is proportionally mixed so as to exit from Port A at the appropriate 
+temperature. 
+ 
+ 
+   
+ 
+    
+ 
+     
+ 
+    
+ 
+   
+Figure 3.  Lube Oil Control Valve shown in diverting posit ion to control oil sump temperature.  In dotted 
+position valve will “mix” hot and cold flow str eams to control supply te mperature to compressor  frame. 
+ 
+ 
+4-2. Cylinder Cooling   
+ 
+ Siemens Energy Gas Field Compressor Cylinders - both gas cooled and water jacketed - 
+are designed for 350°F (177°C) maximum temperature.  Our Siemens Energy Sizing 
+Performance Program has warning flags basis: 
+  Forced cooling is required when the following is met or exceeded… 
+ 
+  Discharge Temperature, Adiabatic 300°F (149°C)   Discharge Temperature, Estimated Actual 350°F (177°C) 
+  Cylinder Average Temperature 220°F (104°C) 
+  ((Ti + Td, adiabatic)/2  
+ 
+ 
+
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+  
+ Water jacketed cylinders may be applied with or without circulating coolant.  If applied 
+without circulating coolant, the water jackets must be vented to atmosphere.  If they can be filled with coolant (normally water/glycol mix) and vented with provision for coolant 
+expansion/contraction such as a standpipe or expansion tank above the cylinders, this 
+would be ideal, but is not required. 
+ 
+ Individual consideration should be given to each compressor application when selecting a 
+particular cooling method.  Cylinder design temperature should never be exceeded under any condition, but the User or Packager has the option to use a circulating water cooling 
+system when jacketed cyl inders are supplied. 
+ 
+4-2.1. Circulated Water Cooling 
+  Circulating coolant through cylinder water jackets is used to remove some of the heat of 
+compression and frictional heat from the cylinders and to provide uniform cylinder wall 
+temperatures.  Circulating systems are most of ten used when gas discharge temperatures 
+approach or exceed 300°F (149ºC) but may be used at lower temperatures if desired --- or 
+when handling special gases that have problem s at high temperatures such as H2, etc. 
+  All forged steel cylinders require a circulating jacket water system and water cooled 
+packing system.  See Paragraph 4.3.1 for ot her cylinders requiring water cooled packing 
+systems. 
+ 
+ Coolant flow rate will vary depending upon the horsepower required by the cylinder and 
+the temperature rise of the coolant.   
+ 
+  Skid-mounted units are usually provided wi th a closed loop cooling system, using a 
+water/glycol mix for coolant.  A surge tank should be included to allow for thermal expansion and makeup.  A prov ision should be made to vent the high point in the system 
+(usually the aerial cooler) through the surge tank.  When filling the cooling system prior to 
+starting the unit, it is important that all air is removed from the cylinder passages and 
+jackets to assure complete and uniform cooling of the cylinder during operation. 
+ 
+!    CAUTION  
+ 
+To prevent condensation from forming on the cylinder walls and gas passages on all cylinders compressing 
+wet gas (with water vapor present), the water inlet 
+temperature to the cylinder should be at least 10°F (5.6ºC) above the gas suction temperature.  
+ 
+ If the water inlet temperature is above the gas inlet temperature to the cylinder, no 
+condensate will form in most cases.  Shou ld condensate form on the cylinder walls and 
+gas passages, it will tend to break down the lubrication qualities of oil and cause 
+excessive wear to the cylinder bore, piston rings and valves, and possibly result in valve breakage. 
+ 
+ The minimum recommended water outlet temperature from the cylinder jackets is about 
+110°F (45ºC).  This will result in optimum oil flow and distribution on the cylinder walls.  
+In all cases, adequate flow must be maintained with a temperature rise across the 
+cylinder of between 10°F (5.6ºC) and 20°F (11º C). 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+ 
+4-3. Packing Coolant   
+  4.3.1  Water Cooled  
+ Some packing assemblies require cooling water to remove the heat of friction generated 
+within the case.  This is required on high pressure applications, long packing cases or 
+boxes, and/or when there are non-lube requiremen ts (see Table 4).  The factors affecting 
+the generation of heat are so varied and differ from application to application that an 
+accurate prediction of the heat duty becomes ve ry difficult.  The best that can be done is 
+to apply a general method of calculation, make certain assumptions, and then correct as 
+necessary based on field result.  Table 5 prov ides an estimate of the coolant flow and 
+respective heat duty of the packing in normal service.  It assumes a 140°F (60°C) coolant 
+inlet temperature. 
+ 
+ The coolant from the auxiliary coolant pump on the engine upstream of the thermostat on 
+an engine driven unit can be used as long as the maximum temperature requirements are 
+adhered to and minimum pressure is no lower than 25 PSIG (1.76 kg/cm2).  These 
+temperatures and pressures need to be checked before installing the system on the entire 
+range of speeds that the engine will be operatin g.  All of the tubing needs to be parallel, 
+not in series; otherwise the head pressure will be too high.  There also needs to be a flow indicator at each point to ensure the flow is adequate.  If you have any questions 
+regarding the setup of a cooling system, please contact the Siemens Energy Marketing or 
+Engineering Department. 
+ 
+Table 4.  Forced Cooling Required 
+ 
+Type 
+Cylinder Normal Operating 
+Discharge Pressure 
+PSIG (kg/cm2)  
+ 
+MOS, HOS, HOSS 
+  
+1750 (123) or Higher 
+ 
+All (Non-Lube) 
+  
+250 (17.6) or Higher 
+ 
+NOTE  
+Due to the excessive pressure drop associated with 
+internally cooled packings, it is recommended that the 
+packing cooling system/piping be independent from any 
+other water system.  An inle t coolant pressure to the 
+packing case of 35 PSIG (2.46 kg/cm2) is recommended 
+along with a minimum pressure drop of 15 PSIG (1.05 
+kg/cm2).  The coolant must be clean, filtered, softened and 
+treated to prevent corrosion or plugging of the water passages in the packing cups. 
+ 
+Table 5.  Cooling Requirements (per packing) 
+ 
+ 
+Type Machine 
+ FLOW 
+GPM 
+(LPM) HEAT LOAD 
+BTU/Minute 
+(joules /minute) 
+ 
+HOSS 
+  
+2.9 (11.0)  
+244 (257433.6) 
+ 
+HOS 
+  
+2.5 (9.5)  
+210 (221561.7) 
+ 
+MOS 
+  
+2.3 (8.7)  
+193 (203836.8) 
+ 
+ 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG. Packager Guidelines, Compressor Cooling 
+2020, Rev. #0 
+ 
+ 
+NOTE  
+ 
+Any cylinder that can be potentially operated at the above listed pressures will be equipped with water 
+cooled cases; this does not mean a water cooling 
+system is required to feed the particular case.  Once 
+again, it's pressure dependent, not cylinder 
+dependent.  
+ 
+ 
+ 4-4. Precautions  
+ 
+ • The coolant must be clean, softened and treated to prevent corrosion or plugging of the 
+water passages in the packing cups. 
+ 
+ • Do not exceed pressure or temperature design limitations.  
+ • Do not allow water to freeze in the piping or cooler; use antifreeze. 
+  • Turn on the cooling water before starting the unit. 
+ 
+ • For closed system, it is recommended usi ng a 50/50 solution of  deionized water and 
+glycol. 
+ 
+ 
+ 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+Packager Guidelines 
+Section 5: Compressor Crankcase Oil System 
+ 
+5-1. Frame Oil Recommendations 
+ 
+General Requirements 
+ 
+The oil must be well-refined petroleum product with low ca rbon residue. It should not contain fats or fixed 
+oil compounding. Oil containing rust and oxidat ion inhibitors and a foam depressant is highly 
+recommended. The oil selected must be substantially non-corrosive to the common bearing metals, with a 
+pour point at least 10°F below ambient temperature when the unit is started for engine drives. The 
+Compressor Cylinder and Packing Lubrication System on new units is designed at the factory based upon 
+the specific application. In most cases, the system is  designed to draw lubricating oil from the compressor 
+crankcase to supply the lubricator pumps unless there are specific reasons why a different type lubricating 
+oil is required for the cylinders. Packager should define  on the Distributor Order Form where they wish to 
+obtain the oil supply to the lubricator. (See Compre ssor Cylinder and Packing Lubrication Guidelines.) 
+ 
+Multiviscosity lubricants may be used in the crankc ase where widely variable ambient temperatures are 
+encountered, provided that the lubricant maintains a viscosity of 115 to 150 SSU (23.7 to 31.8 cSt) at 
+normal operating sump temperature. Provision must  be made to heat the crankcase oil to minimum 
+starting temperatures as outlined in 5-5 Oil Parameter Recommendations.   
+ It is recognized that the oil recommended by the en gine manufacturer (when an engine drive is supplied) 
+is normally heavier (in the SAE 40 visc osity range). When this is the case and the user desires to stock 
+only one oil for use in both the engine and compressor  crankcases, the heavier weight oil recommended 
+for the engine may also be used in the compressor cran kcase. Under cold ambient starting conditions, it 
+is recommended that the oil sump temperature be at least 10°F (5.6°C) to 20°F (2.8°C) above the pour 
+point prior to starting the engine drives. This ma y require the use of auxilia ry crankcase heaters. 
+ 
+If sump oil temperatures are 5°F (2.8°C) higher than the allowable maximum sump temperature for a 
+specific viscosity, the lubricant should be monitored mo re closely for nitration effects and more frequent oil 
+changes should be scheduled to prevent an increase in long term maintenance programs. 
+ Viscosity Requirements 
+ 
+Table 2-1. Crankcase Oil Viscosity Requirements 
+ 
+  
+SUMP OIL TEMPERATURE 
+Below 145°F 
+ (68°C) 
+SAE 20  145-165°F 
+(63-74°C) 
+SAE 30 165-180°F 
+(74-92°C) 
+SAE 40 
+VISCOSITY AT 100°F 
+Saybolt Universal, SSU 
+Kinematic Viscosity, cSt  420 
+90.5 600 
+129.5  750 
+162.5  
+VISCOSITY AT 210°F 
+Saybolt Universal, SSU 
+Kinematic Viscosity, cSt 50 
+7.3 60 
+10.5 70 
+13 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+Inspection 
+ Conduct all testing of the lubricating oil in accord ance with the Standard Methods (latest edition) of the 
+American Society for Testing Materials (ASTM).  
+ Oil Change Schedule 
+ 
+The oil should be changed every 2000 to 4000 hours , or every 6 months , depending on local conditions, 
+or as indicated by oil analysis. Most reputable o il companies offer laboratory analysis services of oil 
+samples on request. We highly recommend the use of this type service. A once-a-month analysis 
+schedule is recommended when the compressor is operated under severe conditions. 
+ 
+Where the compressor is operated in an extremel y dirty atmosphere, installed outdoors, operated 
+intermittently, handling foul gas or where the oil reaches  high temperatures in a very hot atmosphere, it 
+may be necessary to change the oil more often.  In case of dirty atmosphere, consider using sweeping 
+nitrogen purge in crankcase.  
+ 
+Dry Sump Requirements  
+ 
+Any requirements outside these limit ations require an auxiliary oil pump and a deep independent oil sump 
+within the package.  
+Frame Size  Max. Pitch Max Roll  
+MOS, HOS2  3.0 ˚  13 ˚ 
+MOS, HOS4  1.5 ˚  13 ˚ 
+MOS, HOS6  1.0 ˚  13 ˚ 
+HOSS2   2.0 ˚  11 ˚ 
+HOSS4   1.2 ˚  11 ˚ 
+HOSS6   0.8 ˚  11 ˚ 
+ 
+ 
+                                          Dry Sump With Frame Mounted Pump  
+                               
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+ 
+                                          Dry Sump With Off Mounted Pump 
+ 
+                                
+   
+ 
+ 
+5-2.  Oil Cooler and Filter 
+ 
+All units have frame mounted oil filters that are insta lled at the factory and should not be removed for any 
+reason. These filters are normally mounted off the o il pump end of the compressor; alternate locations 
+may be used to suit a particular installation. Filter  internals should be checked for cleanliness and correct 
+positioning. Piping connections to the cooler and filter  must line up properly before they are tightened. Do 
+not spring the piping to make connections, as this may cause leaking joints or resu lt in fatigue failures.  
+ 
+Some customers require duplex type oil filters. In these instances, Siemens Energy recommends the 
+original frame mounted filter be left in place. Afte r 200 hours of run time, the element should be removed 
+and continue flowing through the empty filter housing.  This ensures the oil system has removed any 
+contaminants which may have been introdu ced during the packaging of the unit. 
+ 
+5-3.  Oil Piping 
+ The oil piping in the frame lubrication system downstream of the cooler to the filter must be 
+closely examined and cleaned before charging the system with oil. 
+ Where the customer is supply ing external oil piping, it is his respon sibility to provide piping that has been 
+thoroughly cleaned and completely examined throughout. Any foreign material loosened by the flow of oil 
+through the piping can seriously damage the compressor.  All external oil piping that is supplied by the 
+customer should be the same size as the connec tion on the frame. The piping size should NEVER be 
+stepped down for any reason. 
+ 
+Any check valves included in the oil system shoul d be flapper type FULL flow check valves. A piston 
+check should NEVER be used since th is can act as a restriction. Any type restriction ca n cause severe 
+damage to the frame internals. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Crankcase Oil System 
+2020, Rev. #0 
+ 
+5-4.  Prelube Pumps 
+ Prelube pumps are required on frames that are driven by  an electric motor or whenever the compressor 
+may start-up while unattended. These prelube pumps ma y be electric or pneumatic driven, but require a 
+permissive which will disable the start-up sequence if  oil pressure is below 10 lbs. (0.70 kg/cm
+2). This is 
+the normal range, but some applications may require a different permissive set point due to specifics of 
+that machine; ie, across-the line starts at full speed. The prelube pump should be sized for the minimum 
+recommended flow rates listed below for each frame model.  
+Recommended minimum prelube capacity @35 psi (2.46 kg/cm
+2) (on electric motor driven machines 
+only): 
+ 
+Minimum Recommended Flow Rates 
+ 
+Model 2 Throw 
+GPM (LPM) 4 Throw 
+GPM (LPM) 6 Throw 
+GPM (LPM) 
+MOS 16 (61) 32 (121) 48 (182) 
+HOS 15 (57) 25 (95) 50 (189) 
+HOSS 32 (121) 47 (178) 63 (238) 
+  
+5-4.1.  Hand Pre-Lube Pumps  
+If a hand pre-lube pump is installed, it should have a flapper type check valve installed in the 
+outlet.  
+ 
+ 5-5.  Oil Parameter Recommendations 
+ 
+Lubricating Oil: 
+ 
+Normal Oil Pressure (at Header)         50-65 PSIG (3.5-31.5 kg/cm
+2)  
+Minimum Oil Pressure (at Header)             40 PSIG (2.8 kg/cm2) 
+Shutdown Oil Pressure (at Header)         35 PSIG (2.5 kg/cm2)  
+Minimum Start-Up Oil Temperature (Electric Drives)          80°F (27°C) 
+Miminum Load Oil Temperature (Engine and Electric Drives)         90°F (32°C) Normal Oil Operating Temperature              150 to 170°F (66 to 77°C) 
+**NOTE: Not to exceed 180°F (82°C) for continuous operation 
+  
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+Packager Guidelines 
+Section 6: Cylinder and Packing Lubrication 
+ 
+6-1.  GENERAL 
+ 1. For years, the lubrication r equirements of reciprocating compre ssor cylinders were based on the 
+operator's field experience. Typically, the unit woul d be set up to provide a generous amount of oil 
+to each lube point, based on the operator's field experience. After a short run time, the cylinder was opened up and the bore was checked to confir m that sufficient oil remained on the cylinder 
+bore. While this remains as the most accurate way to determine the lubrication requirements, the 
+shortage of experienced operators, coupled with  the wide range of compressor speeds and gas 
+being compressed, has necessitated a more uniform approach for both break-in and normal 
+operation. 
+ 
+NOTE 
+When shipped from Siemens Energy High Speed 
+Reciprocating Compressors the cylinder lubricators 
+are set wide open to deliver the maximum amount of oil. These will need to be adjusted for break-in and 
+normal operation in the field.  Approximate start-up 
+and break-in rates are shown on the cylinder lubrication schematic supplied in the order specific 
+customer manual. 
+ 
+2.  Start-up and break-in is the most critical ti me in the life of a compressor cylinder and packing. 
+While cylinder bores, piston rings, piston rods, and packing have been manufactured to exacting 
+tolerances and finishes, there still exist small ir regularities between the mating parts. During start-
+up with new components, these regularities come into metal-to-metal contact and are gradually 
+worn away. With a proper lubricant and adequate l ubrication rates, this results in a polished or 
+glazed surface. During break-in, the function of the lu bricant is to fill these irregularities to reduce 
+the rate of abrasion and to flush away the abr aded particles. This glazing process may take 
+anywhere from a few hours to two weeks, and shou ld be monitored closely. Once the seating-in 
+or glazing is complete, lubrication rates can be gradually reduced. 
+ 
+3.  Due to increasing environmental concern and in the interest of economy, it  is desirable to reduce 
+oil consumption to a minimum. Operation at mini mum oil flow rates also minimizes the buildup of 
+carbon in the packing. 
+ 
+4.  Many methods have been used to determine optim um lubrication rates. Most were based on the 
+volume of oil required to cover the required surf ace area, with factors applied to compensate for 
+the effect of pressure, speed, type of gas, diffe rential pressure, etc. This standard has been 
+developed empirically and is the result of input  from several service and engineering sources. 
+ 
+6-2.  Cylinder Lubrication System  
+A mechanical lubricator provides lubrication of the compressor cylinder bores, and pressure piston rod 
+packings. For some applications, "pump-to-point" lubr ication is supplied where each lubrication point is 
+fed from an individual lubricator pumping unit. Normally , a metered "block-type" oil distribution system is 
+furnished with the oil supply coming from the frame. With either method, a check valve is required at the 
+cylinder connection of each oil line to prevent comp ressed gas from passing back through the lubrication 
+system.  
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+Recommendations are given to enable selection of suitable oil for a particular application and to 
+determine an optimum feed rate. For external suction lubricator reservoirs, you must maintain a good 
+grade of lubricant to lubricate internal components wi thin the box. It must be a viscosity grade of ISO 680 
+compounded with acidless tallow AGMA-8. This provides a high degree of sliding motion under pressure 
+and minimizes wear. 
+ 6-3.  Cylinder Oil Recommendations 
+ 
+Four classifications of lubricating oil have been developed to cover the normal lubrication requirements of compressor cylinders. The physical and chemical pro perties of the four oil types generally recommended 
+for these units are listed in Table 2-4. (This table is  general in nature and covers conditions and pressures 
+not necessarily applicable to all compressors.)  
+ 
+Selection of the proper type of oil for your pa rticular application normally will be determined by the 
+discharge pressure and also by the gas quality with  respect to "wetness". Consideration also must be 
+given to the local operating conditions. Review this se t of oil selection instructio ns with your oil supplier 
+and compare your particular operating conditions wi th those listed in Table 2-4 for the various type 
+cylinder oils. 
+ 
+In addition to the operating conditions given in Table 2-4, the following information also must be considered when selecting the type of oil to be used in a particular situation.  
+ 
+For Type 2 and 3 oils, the gases handled must be dry; that is, gases which do not carry suspended liquid, 
+contain water vapor or other condensables which re main in the super-heated vapor state throughout the 
+compression cycle. For Type 2X and 3X oils, the gases handled occasionally may carry small quantities 
+of suspended liquid into the cylinder or may deposit some condensation in the cylinder. Type 2 oils are 
+generally used when the operator wishes to use internal-combustion engine lubricating oil. 
+ 
+A.  General Requirements  
+These oils are well refined petrol eum products of the general types lis ted. They should be prepared from 
+selected stacks of either naphthionic or paraffinic type , processed to minimize deposit formation. Superior 
+rust-preventative properties also are desired. The po ur point must be consistent with the lowest ambient 
+gas intake and cylinder temperatures to be encounter ed. The pour point always must be sufficiently lower 
+than ambient temperature to permit the proper rate of oil feed by the lubricator. In handling low-
+temperature gases, select oil of suitably low pour po int, on the basis of intake and cylinder temperatures, 
+to maintain a fluid of lubricant in the cylinder.  
+This oil must be capable of providing an improved  state of boundary lubrication and must resist the 
+washing effect of the particular condensate involved.  
+Type 2 - Internal-combustion engine lubricating oil of the following classes: 
+ 
+• Straight mineral oil. 
+• Additive-treated, non-detergent oil. 
+• Detergent engine oil. 
+ 
+ 
+Type 2X - Compounded compressor cylinder oil with 5% compounding is recommended. This oil must be 
+capable of providing an improved state of boundary lubrication and must resist the washing 
+effect of the particular condensate involved. 
+ 
+ 
+Type 3 - Rust and/or oxidation-inhibited oil or straight mineral oil is acceptable. 
+ 
+Type 3X- Compound compressor cylinder oil with 5 to 10% compounding is recommended. 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+ 
+Table 2-4. Standard Cylinder Oil Recommendations  
+ 
+Operating Conditions  Type 2  Type 2X  Type 3  Type 3X  
+Discharge Temp. 
+F (°C) 
+ Max. 350
+Max. 177
+ Max. 350
+Max. 177
+ 350
+177
+ 350
+177
+ 
+Condensed water vapor 
+present  NO  POSSIBLE  NO POSSIBLE  
+Suspended liquid present  NO POSSIBLE  NO POSSIBLE  
+Special Requirements: 
+Cylinder with discharge 
+pressure of 2000 to 7000 
+PSIG 
+(13.8 to 48.27 Mpa) NO NO REQUIRED  REQUIRED  
+Flash Point ( F) 
+(Open Cup) (°C) 380Min. 
+193° Min. 380Min. 
+193° Min. 410Min. 
+210° Min. 410Min. 
+210° Min. 
+Viscosity @ 100 F (38C) 
+Sayvolt Universal SSU 
+ Kinematic Viscosity cSt --- 
+--- 780 Max. 
+168.4 Max. --- 
+--- --- 
+--- 
+Viscosity @ 219 F 
+Sayvolt Universal SSU 
+ Kinematic Viscosity cSt 60 Min. 
+10.2 Min. 72 Min. 
+13.3 Min. 105 Min. 
+21.5 Min. 105 Min. 
+21.5 Min. 
+Sulfated Ash 0.50 Max. --- --- --- 
+Neutralization Valve (color): 
+Total Acid Number 
+Strong Acid Number --- 
+0.00 Max. --- 
+0.00 Max. --- 
+0.00 Max. --- 
+0.00 Max. 
+Carbon Residue 
+Conradson 0.45 
+Max 1 0.45 
+Max 1 0.45 
+Max 1 0.45 
+Max 1 
+ NOTES: 1 = Ash-free basis 
+ 
+ B.  Service Considerations 
+ 
+1.  On multi-stage compressors, or other applications involving hi gh cylinder discharge temperatures, 
+it is necessary to use higher viscosity oil than is normal. 
+ 
+2. When a gas being compressed is saturated with wa ter or hydrocarbons, it is mandatory that a 3X 
+oil can be used. 
+ 
+3. Certain lubricating oil additives will cloud the gl ycerin-water often used in lubricator sight feeds, 
+necessitating frequent changes of the mixture.  Compressing air and/or using synthetic oils for 
+cylinder lubrication poses other concerns.  See GFP15 for additional  criteria that must be met. 
+ 
+4.  On services that are compressing air, it is recommended that a synthetic type lubricant is used. 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+ 
+CAUTION 
+The continuous or intermittent carry-over of 
+liquid to compressor cylinders requires the installation of efficient separators. 
+ 
+C.  Inspection 
+ 
+All tests of cylinder lubricants should be conducted in accordance with the Standard Methods (latest 
+edition) of the American Society for Testing Materials (ASTM). 
+ 
+D.  Synthetic Lubricants  
+In recent years many synthetic lubricants that enhance cylinder lu brication have been developed.  
+Synthetic lubricants are essentially pure which mean s that the tendency to oxidize and react with gas 
+constituents is greatly reduced.  Synthetics have al so been developed that resist particular lubrication 
+problems such as condensation, absorption in the gas  stream and downstream c ontamination.  Synthetics 
+are more expensive than petroleum oils, but can often be used in less quantity and can be more easily recovered, reconditioned and reused.  Synthetics ca n also lead to reduced maintenance requirements on 
+valves, unloaders, piston rings and packing rings. 
+ Synthetic lubricants are classified into several gene ral types that have specific properties that can 
+minimize the effect of the undesirable factors t hat have a negative effect on cylinder lubrication. 
+ 
+Synthesized Hydrocarbons (Polyalphaolefins-PAO):  Recommended for applications requiring 
+low pour points, in the presence of liquid water, where constituents of the gas cause deposits with 
+petroleum oils, where downstream contamination is a problem, and where lubricant absorption is 
+a problem.  Synthetic hydrocarbons are suscepti ble to washing by hydrocarbon condensates and 
+should not be used where these are of concern. 
+ 
+Diesters:  Diesters have low pour points and readily ac cept additives which enhance their use.  
+They are not compatible with petroleum based oils.  They are effective in reducing deposits due to break-down of petroleum based oil oils in air compressors.  They are not available in higher 
+viscosities which makes them suspect in higher pressure applications.   
+ Polyglycols (Polyalkalineglycol-PAG):  These lubricants are particularly resistant to washing by 
+hydrocarbon liquids and dilution by high pressure hydrocarbon gases.  They also have low pour 
+points.  They are not compatible with petroleum  based oils.  They are water soluble which is a 
+problem where liquid water is present.  This can be reduced by blending with propylene oxide 
+based polyglycols which are water insoluble but hydrocarbon soluble. 
+ Food Grade Lubricants:  These lubricants are Food & Drug Administration (FDA) approved and 
+are not judged to be harmful to man nor animal.  They are only used in processes where the end 
+product is either intended for or comes in contact with materials that will be consumed by man or 
+animal.  Most applications for food grade lubric ants are in high pressure polyethylene production. 
+ 
+The best choice of lubricant for a particular appl ication depends on both pressure and temperature, as 
+well as gas composition.  Siemens Energy has cla ssified recommended lubricant properties by viscosity 
+requirement in Table 2-4.  Use of this table and th e gas composition will assist in selecting a suitable 
+lubricant.  For particular brands of lubricants that meet  the requirements, work with your lubricant supplier.  
+Siemens Energy does not recommend specific brands of lubricants. 
+  
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+ 
+6-4.  Cylinder Lubrication Rate 
+ 
+1.  Under start-up and break-in conditions, the am ount of cylinder oil required for various cylinder 
+sizes and discharge pressures is shown in Curve 2. These feed rates are approximate and are 
+empirically derived. They are the suggested "break -in" feed rates when the gas is clean. Dirty gas 
+will require increased feed rates as conditions dictate.  Since the vast majority of field gas is water 
+saturated, the rates have been adjusted to include the additional oil required for this condition. 
+ 
+5. Correction factors must be applied to the rates obtained from Curve 2 to account for the effects of 
+speed and stroke, and for the specific gravity of  the gas stream. These correction factors are 
+shown in Curves 3 and 4. 
+ 
+  
+Curve 2. Cylinder Lube Rate 
+ 
+3.  Entrained liquids in the gas stream also will affect the amount  of lubrication required to the 
+cylinder bore. Curve 2 is based on the gas being water saturated at inlet conditions. Additional 
+water in the form of entrained liquid, or if one susp ects that liquids will be present, the lubrication 
+flow rate may need to be increased by up to 60%. 
+ 
+4.  Once you have completed the initial (break-in)  period, you may begin to turn down the lubrication 
+rates by adjusting the pump on the lubricator. This must be accompanied by a routine bore inspection to be sure you maintain a reasonable le vel of bore lubricant. We would expect the final 
+rate to be somewhere between 67% to 50% of the original "break-in" rates. 
+28 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+ 
+Curve 3. Speed Stroke Factor (C1)  
+  
+Curve 4. Gas Density Factor (C2) 
+  
+5.  The best way to insure proper lubrication is the paper test method. To check the cylinders for 
+proper lubrication rates with paper, the following is a good guideline: 
+ 
+Relieve and vent all pressure from all cylinde rs and the system. Lock out  the system so the 
+compressor cannot be rotated or started. Remove the head and position the piston at the 
+innermost stroke. Use two layers of regular unwaxed commercial cigarette papers together. Wipe 
+the cylinder bore at the top with both papers usin g light pressure in a circular motion through 
+about 20°. The paper next to the bore should be stained or wetted with oil, but the second paper 
+should not be soaked through. 
+ 
+
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+Repeat the test at both sides of the bore 90° from the top using two new clean papers for each 
+side. If the paper next to the bore is not stained  through, it may be an indication of under 
+lubrication. This test should be performed on a ll cylinders. If both papers are stained through, it 
+may be an indication of over lubrication. Either way, it is recommended that the lubrication rate be 
+changed accordingly and the cigarette paper test be repeated until passed. If an increase or 
+reduction of the lubrication rate is indicated for a cylinder, change in 5% increments by adjusting 
+the cycle time of the lubricator pumps as out lined in the service manual. Let the machine run 24 
+hours and repeat the film test  for all affected cylinders. 
+ 
+NOTE 
+ 
+The cigarette paper test only gives an indication 
+of oil film quantity. It does not give an indication 
+of viscosity quality. Oils diluted with water, 
+hydrocarbons or other constituents may produce what appears to be an adequate film but the oil 
+may not have the required load-carrying 
+capability due to dilution. 
+ 
+ 
+6-5.  Cylinder Lubricant Distribution 
+ 
+1.  The number of lubrication points will vary depending on cylinder type, bore size and pressure 
+rating. Cylinders have from one to four  points for lubrication as follows: 
+ 
+onventional Cylinders: 
+One Point - Always on top Two Points - One on top and one on bottom 
+    DDV Cylinders - Four points - always on top 
+ 
+When top feeds only are required, the total amount of lubricant is supplied to the top point(s), 
+evenly divided between inner and outer points. Wh en both top and bottom feeds are required, the 
+total amount of lubricant is split, with two thir ds to the top point(s) and one third to the bottom 
+point(s). 
+ 
+2.  In cases of extremely wet or corrosive gases , lubrication atomizers are sometimes placed in the 
+inlet nozzle to lubricate the valves. To be effect ive, the valves must be flooded with oil, so a 
+generous rate of 20 drops per minute (2.0 PPD or .041 cu. in./min.) per point should be used 
+when sizing the distribution system. This amount of oil should supplement the oil fed to the 
+cylinder bore. 
+ 3. When the cylinder lube system includes sucti on port oilers, the outlet connection is capped at the 
+factory for shipment and the Packager is required to  tube it from the divider block or bulkhead to 
+the connection point, which is usually in the suction bottle flange. 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+6-6.  Packing Lubrication Rate 
+ 
+1.  Lubrication rate to the packing is established in much the same way as for the cylinder. The 
+following formula is used to size for th e normal packing lubrication flow rate: 
+ 
+ 
+Q = 0.002 [ (.75) (Rod Diam.) + (.0015) (Str oke) (RPM) + (.00075) (Discharge Pressure) ] 
+ 
+Q is quantity of oil in Cu. In./Min. Rod Diam. is in inches 
+Discharge Pressure in PSIG 
+ 
+ 
+Calculations for the various frames in the HSRC li ne-up reveal that the rod size has very little 
+impact on the lube rate to the rod, therefore, in  the interest of simplicity, Curve 5 has been 
+developed to determine the packing lubrication rate  for various stroke compressors. Multiplying 
+the stroke by the operating speed, and then followi ng the vertical line to the operating pressure 
+will provide the required base lube rate. 
+ 
+ 
+ 
+  
+ 
+Curve 5. Packing Lubrication Rate 
+ 
+
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+ 
+2.  The gas density correction from Curve 4 must be applied for heavy molecular weight gases.  The 
+presence of entrained liquids may require increasin g the lube rate by the same factor as for the 
+cylinder bore.  If corrosive gases are being pumped, the lube rate to the packing should be 
+increased by 50%. 
+ 3. Minimum lube rate at "break-in" to each packing should be 1 pint per day = 0.02 Cu. In./Min. 
+ 
+4. As with cylinder lubrication, the rates are approximate and must be confirmed by examining the 
+rod after operation. 
+ 
+ 
+6-7.  Packing Lubricant Distribution 
+ 1.  The number of lubrication points will vary de pending on compressor type  and pressure rating. 
+Cylinder packing will have from none to two points as follows: 
+ 
+MOS, HOS and HOSS Cylinders: 
+Below 3000 PSIG (211 kg/cm
+2) - One Point 
+3000 PSIG (211 kg/cm2) and above - Two Points 
+ 
+For two point lubrication, two thirds of the lubric ation is to be supplied to the point closest to the 
+cylinder pressure and is usually marked H.P. or Inner Lube on packing cases; and one third is to the L.P. or Outer Lube point. 
+ 
+ 6-8. Points on Lubrication 
+ 
+1. Ensure the proper lubricant is being used for the gas being compressed. 
+ 
+2.  No matter what lubricant is being used, at any  flow rate, it cannot overcome dirt and foreign 
+particles in the gas. Assure the gas, piping and bo ttles are clean and proper inlet filters and/or 
+screens have been installed for start-up. 
+ 
+3.  Injection pumps become erratic in operation at very low flow rates. Pumps should not be set to 
+pump at less than 0.003 cu. in. displacement. 
+ 
+4.  Ensure all lubrication tubing is tight and free from leaks. Just because the pump is pumping does 
+not mean it is getting to the cylinder or packing. In  cases of apparent lack of lubrication, especially 
+on low pressure cylinders, check the internal lubrication piping located inside the gas inlet and discharge piping connections. 
+ 
+6. When using TFE rings and packing in lubricat ed service, black, gummy deposits on pistons, 
+heads and valves usually indicate marginal lubrication. 
+ 
+6.  When reducing lubrication rates, after break- in, reduce in small incremental steps, usually not 
+more than 5 to 10% at a time. The unit should be allowed to operate a minimum of 3 weeks at the 
+reduced rate and then inspected before reducing the rate again. If the cylinder bore, piston rings, 
+rods or packing begin to lose their polish or glaz e and are beginning to turn dull, the lubrication 
+rate is low and should be increased to the last acceptable rate. 
+ 
+7.  With block lubrication systems, any change in rate affects all points. When attempting to reduce 
+rates with a block system, all points lubricated by  the block system must be inspected. To change 
+the rate to one point, the block must be changed. 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Cylinde r and Packing Lubrication 
+2020, Rev. #0 
+8.  Excessive lubricati on will not damage a compress or cylinder, but it c an cause packing or valve 
+failure. Excessive packing lubrication can result in  what is known as "hydraulicing". It lifts the 
+packing off the rod causing blow-by and unequal pressu re distribution across the packing rings. It 
+usually results in packing overheating and extruding  (TFE), or turning a blue color (bronze), while 
+lubrication appears adequate.  Excessive lubrication can also cause valve failures.  If the valves 
+get coated with excessive oil, t he sealing elements can stick causing opening and closing late in 
+the operation cycle.  This causes increased im pact stresses on the sealing elements which can 
+lead to premature failure. 
+ 
+9.  While this Standard compensates for liquids present in the gas, it is recommended that every 
+attempt be made to remove the liquids before the cylinder inlet as they contribute to excessive 
+cylinder wear and in many cases cause valve failures. 
+ 
+ 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+Packager Guidelines 
+Section 7: Compressor Gas Piping 
+ 
+7-0.  GENERAL 
+ We cannot overemphasize the necessi ty for thoroughly cleaning the inside of all piping before running the 
+unit, whether during shop test or after installation in the field. Most package rs use welded carbon steel 
+piping, which often contains mill scale and other debris. It is particularly important that the cylinder intake 
+piping and start-up bypass lines be thoroughly clean. If me tal shavings, pipe scale, rust, welding beads, 
+dirt and all other foreign materials are not carefully and thoroughly removed, the gas flow will loosen this 
+material and carry it into the compressor cylinders causing damage and/or excessive wear. Piping should 
+be fabricated using good shop practice and inspected and cleaned in accordance with industry standards. 
+ Piping should be installed so that there is no stress on attachment points. Once in place, all flange 
+fasteners should be removed to confirm that piping fits without being forced into place. It is important that 
+all piping be properly braced to avoid hanging excessive weight from cylinder connections. 
+ 
+All flanged cylinder connections are closed for shipmen t. Do not remove these closures until the mating 
+piping is ready for assembly. If plugs or covers on any of the compressor connections, or other openings, 
+have become loosened or lost in transit, the inside of the component must be thoroughly wiped out to 
+remove any dirt. 
+ 
+7-1 Cylinder Flange Inlet and Discharge Studs 
+ 
+Cylinders are supplied with Inlet and Discharge (I&D) st uds and nuts.  Cylinder I&D thread projection is 
+dependent on the style of the cylinder  and associated flange size/rating.  Unless specified otherwise by 
+the order, the following methods are used to determine the minimum full thread projections. 
+ 1.  Cast Cylinders with standard ANSI FF Flange and size ratings 
+a. I&D thread projections are based on the sum of the industry standard ANSI RF flange 
+thickness, the raised face, the supplied nut height, an additional 5/8” (15.875 mm) (to account 
+for 2 gaskets at 1/8” (3.175 mm) and 1 orifice plate at 3/8” (9.525 mm), and an additional 1/4” 
+(6.4 mm).  This should leave at least one ex posed thread on each I&D stud after the nut is 
+torqued. 
+2. Forged Steel Cylinders with RTJ (Ring Type Joint) flanges 
+a.  I&D thread projections are based on the sum of the industry standard ANSI RTJ flange 
+thickness, the corresponding oval style ring height, the supplied nut height, an additional 3/8” 
+(9.252 mm) to account for the plate thickness in  a 1-piece ring and orifice plate assembly, and 
+an additional 1/4” (6.4 mm).  This should leav e at least one exposed thread on each I&D stud 
+after the nut is torqued. 
+3. Forged Steel Cylinders with 3.00” (76.2 mm)-6000# (26.69 kN) Special Lens Ring Joint 
+a. I&D Special RF Weld Neck Flanges and special lens ring gaskets are supplied.  The thread 
+projection is based on the sum of the flange thic kness, 1/4” (6.4 mm) raised face, gasket gap, 
+supplied nut height, and an additional 1/4” (6.4 mm).  This should leave at least one exposed 
+thread on each I&D stud after the nut is torqued.   If the application requires an orifice based 
+on the pulsation analysis, it can be incorporated into the lens ring gasket machining upon 
+request. 
+4. Application on Specific Cylinders with Special Flanges 
+a. Occasionally, non-standard, application specific cylinders a nd/or flanges are designed and 
+the I&D thread projection will be comm unicated via Project Engineering. 
+b. 26-28” (660.4-711.2 mm) HOS/HOSS Cylinders have special rectangular I&D flanges due to 
+the geometry.  The I&D thread projection will be communicated via Project Engineering. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+7-2. Cylinder Inlet and Discharge Gasket Recommendations 
+ 
+Siemens Energy offers the following recommendations for gaskets on cast iron cylinders with AISI FF 
+Inlet and Discharge flange connections: 
+ 1. For Class 600 and below, use Flexitalli c® (or equivalent) Style CG gaskets 
+2. For Class 900 and above, use Flexita llic® (or equivalent) Style CGI gaskets 
+ 7-3.  Gas Inlet Piping 
+ 
+The gas must be clean and dry before it enters the comp ressor. Scrubbers or separators of suitable size 
+are often used for this purpose. Carefully arrange the suction or intake piping to prevent loops or pockets 
+in the line. This will avoid the collection of con densate or distillate, which could be drawn into the 
+compressor cylinder and cause serious damage to the unit. Use of suction screens during start-up to filter 
+out pipeline debris and dirt is essential. In some applications, more elaborate filtration systems, even 
+coalescers, may be necessary.  
+On multi-stage installations precautions should be  taken to prevent condensate carry over to the 
+subsequent cylinders. Scrubbers or separators shou ld be provided in the suction piping of second and 
+subsequent stage cylinders. 
+ 
+7-4.  Discharge Piping 
+ 
+The discharge line between the compressor and receiver or aftercooler should drain away from the 
+cylinder, and should be as short as possible, avoiding short bends and fittings.   
+A bypass with proper valving should be located between the compressor discharge line and intake line to 
+aid in starting and stopping the unit. With such a by pass installed around the cylinder and the valves 
+properly manipulated, the bypass opening will reduce  load on the unit and allow starting or stopping the 
+unit against minimal load.  If the unit is using a bypass valve for capacity control,  the suction scrubbers or 
+separators must be suitable to clean the gas along with removing the lubricator oil that is entrained in the 
+gas after the last stage of compression. 
+ Relief valves should be installed in the interstage and discharge lines. The setting should be less than or 
+equal to the lowest maximum allowable working pressure of any pressure-containing component in the 
+system being protected. 
+ 
+Install a drain valve at the lowest point in the discharge line to permit periodic draining of liquids that may 
+accumulate.  
+7-5.  Temporary Suction Screens 
+ 
+WARNING 
+The packager should ensure that the operator 
+has installed a temporary start-up screen. This is 
+required to catch any dirt, chips, or other foreign material that may have been left in the pipe. The 
+pipe must be cleaned first, however, as 
+dependence on the temporary line filter alone is 
+not sufficient. 
+ 
+If there is any possibility that the gas being compressed contains dust, sand, or other abrasive particles, a 
+gas scrubber must be installed permanently and then regularly serviced to keep it clean.  
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+Even though the previous cleaning procedure has b een carefully followed on the compressor piping, a 
+temporary screen should be installed in the intake li ne to remove particles 0.009 inch (0.23 mm) (230 
+microns) in diameter or larger. Provision must also be made in the piping to check the pressure drop 
+across the screen and to permit removal of the scre en for cleaning. If the pressure drop across the screen 
+exceeds 5% of the upstream line pressure, remove t he screen, clean it thoroughly, and reinstall it. The 
+screen should be removed and left out only when the inlet line is completely free of welding beads, pipe 
+scale, and other extraneous matter.  These screens are not intended for permanent installation. We 
+recommend that the screen be installed in a horizontal r un of piping to facilitate cleaning out any material 
+that collects on the upstream side. 
+ 
+7-6.  Safety Valves 
+ 
+The compressor must be fitted with safety valves to  limit suction pressure, interstage pressure and final 
+discharge pressure to a safe maximum. For this application, the term "safety valve" refers to an 
+automatic, pressure-relieving device that is actuated by the static pressure upstream of the valve and 
+characterized by full opening pop action; these are also  often referred to as "pop safety valves." 
+ 
+ 
+CAUTION 
+Always install a safety valve capable of passing 
+the full-load capacity of the compressor cylinder, 
+or cylinders, between the cylinder and the first 
+line valve. UNDER NO CIRCUMSTANCES is a shutoff valve to be installed in any discharge line 
+before the safety valve. 
+ 
+ 
+When a bypass is furnished, a suction pressure sa fety valve should be installed immediately downstream 
+of the bypass valve, on the inlet scrubber, or suction piping.  This valve must be between the line suction 
+valve and the unit. 
+ For recommended safety settings, see chart below: 
+ 
+Relief Valve Settings 
+ 
+Rated Discharge Gauge Pressure 
+(Each Sta ge) Minimum Relief Valve Set 
+Pressure Margin Above Rated 
+Dischar ge Gau ge Pressure 
+PSIG (kg/cm2) PSIG (kg/cm2) 
+≤150 (10.5) 15 (1.1) 
+>150 to 2500 (10.5 to 175.8 ) 10% 
+>2500 to 3500 (175.8 to 246.1 ) 8% 
+>3500 to 5000 (246.1 to 351.3 ) 6% 
+>5000 (351.5 ) See Footnote A 
+a) For rated discharge gauge pressures above 5000 psig (351.5 kg/cm2), 
+the relief valve shall be a greed on b y the purchaser and the vendor. 
+  
+NOTE 
+The pressure at which any safety valve is set to 
+operate must include the e ffects of static head and 
+constant back pressure. Safety valves are selected 
+for the required pressure setting and also for 
+expected gas characteristics and temperature. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+NOTE 
+Rupture discs may be used in place of, or 
+supplementary to, safety valves on certain applications. These are special cases where the 
+proper action of a safety valve might be questionable 
+because of corrosion or deposits caused by the process, where a loss of valuable material by leakage 
+should be avoided, or w here contamination of the 
+atmosphere by leakage of noxious gases must be 
+avoided. 
+ 
+Safety valves must be constructed, located and install ed so that they are readily accessible for inspection 
+and repair and so that they cannot be readily rendered  inoperative. They must also meet any Federal and 
+state or local regulations. 
+ 
+Discharge lines from safety  valves must be designed to facilitate dr ainage, and such lines must lead to a 
+safe place of discharge. The size of the discharge line must be such that any back pressure that may 
+exist or develop will not reduce the relieving capacity of the safety valve below that required to properly 
+protect the compressor. 
+ Further information pertaining to the selection, pressu re settings, installation and piping of safety valve 
+and other relief devices will be found in  one of the pressure vessel codes. 
+ 
+7-7. Intercooler, Aftercooler, Scrubber and Frame 
+ 
+7-7.1.  Intercooler 
+ 
+Intercooling will condense moisture or vapor out of the gas. This moisture must be drained from 
+the cooler to prevent its passing into the high- pressure cylinder where it would interfere with 
+lubrication. It is important that a schedule is established whereby the intercooler is regularly 
+drained as determined by the local conditions , or proper scrubbing equipment is installed. 
+ 
+Intercoolers used on gas field separable applicatio ns are generally the fin-fan type (gas to air), 
+using a heat exchanger in conjunction with a f an drive and, possibly, louvers controlled by a 
+shutterstat. See the applicable manufacturer's liter ature for a description and service procedures. 
+ 
+7-7.2.  Aftercooler  
+For some compressor applications, it is desirabl e to have an aftercooler to cool the discharge 
+gases and to condense any moisture carried by the gas. This prevents the moisture from condensing later in the lines where it might freez e, cause water hammer, or gives other trouble. 
+ 
+7-7.3.  Scrubber  
+Skid-mounted scrubbers are not normally adequat e for proper cleanup of extremely wet or 
+contaminated field gas. Siemens Energy recommends all scrubbers have automatic dumps as well as manual dump connections. Siemens Ener gy also recommends all scrubbers have sight 
+glasses. Gas having these proper ties almost always will cause maintenance problems with the 
+compressor or driver. It is recommended that an of f-skid mounted scrubber be installed if such 
+conditions exist. 
+ 
+7-7.4.  Frame 
+ 
+If the compressor is located inside a building and pumping explosive or toxic gas, the frame 
+should be vented to the outside of the building. 
+ 
+     
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Instrumentation 
+2020, Rev, #0 
+Packager Guidelines 
+Section 8: Instrumentation 
+ 
+8-1.  GENERAL 
+ 1.  Oil Pressure Shutdown Device. The oil pressure device should be sensing the oil pressure at 
+the farthest point away from the oil pump as possible. On the HOSS, HOS and MOS, there is a 
+cast-in oil header and the pressure should be ta ken there at the drive end of the frame.  
+ 
+On all frames, the low oil pressure shutdown set point may differ. To find the correct shutdown 
+point for each particular frame, refer to the Service Manual. 
+ 
+2. Low Frame Oil Level Regulator. All frames have a connection for a frame oil level controller. 
+This device should keep the frame full of oil. The oil level regulator should have a built-in 
+shutdown device which will shut the machine down should the frame oil level fall below a safe 
+operating range. 
+ 
+The oil level must be adjusted so the center of the oil level in the shutdown device is on the same 
+plane as the center of the sight glass in the frame. 
+ 
+3. Lubricator Low Oil Level Regulator. Frames which have suction type lubricator pumps must 
+have a low lubricator oil level regulator/shutdown de vice. This device mounts in the lubricator box 
+and the external oil feed line connects to it. There is  a built-in float to maintain proper oil level. 
+When the float drops, oil will be introduced into t he lubricator box. In t he event the oil supply goes 
+dry, the float will drop and shut the machine down. 
+ 
+4.  Vibration Transmitter/Switch. All frames should have a vibration transmitter/switch mounted on 
+the frame. This device should be mounted per t he Manufacturer's instructions but in such a 
+manner that it would shut down t he machine if any abnormal vibrat ion is sensed. Most of these 
+devices are adjustable and should be adjusted per the Manufacturer's instructions.  
+Transmitters/switch should be mounted on a flat ma chined surface on the crankshaft centerline.  
+A spotface may be required to ensure the transmitter/switch has proper contact to reduce errors 
+in readings. 
+ 
+5.  Pressure Sensors. All packages should be equipped with a connection on the suction and 
+discharge vessels of each cylinder as close to each cylinder flange as possible for sensing the 
+inlet and discharge gas pressure. 
+ 
+6.  Temperature Sensors. All packages should be equipped with a connection on the suction and 
+discharge vessels of each cylinder as close to each cylinder flange as possible for sensing the 
+inlet and discharge gas temperature. 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, 3rd Party Guidelines  
+2020, Rev. #0 
+Packager Guidelines 
+Section 9: 3rd Party Supplier Guideline 
+ 
+9-1.  Purge Flow Estimates 
+ 
+Packing under very good conditions will leak appr oximately .1 of a standard cubic foot per minute 
+(SCFM). Factors such as rod finish, alignment  and case condition will affect the leakage.  
+ The nitrogen usage to the purge connection will be approximately one cubic foot per hour flow rate. This 
+will vary as packing wear occurs. These case improvements have reduced emissions from 1000 PPM 
+down to 10 PPM (without purge gas) and essentially 0 PPM with purge gas applied. 
+ 
+Purge/buffer gas pressure is to be maintained higher than the vent / drain pressure by at least 15 PSI. 
+ 
+ 
+TYPICAL FLOW RATE 
+ 
+ SCFM (M
+3/min) 
+Past Normal Lube Packing Ring .1-.3 (0.002 – 0.008) 
+With Non Lube or Light Gases .2-.6 (0.005 – 0.016) 
+Vent Flow Alarm for System 
+Check .2-.3 (0.005 – 0.008) 
+Purge Gas Into Distance Piece .1-.3 (0.002 – 0.008) 
+Purge Gas Into Vent .1-.3 (0.002 – 0.008) 
+ 
+ 
+Below rates are listed in API Appendixes "G & I". 
+ 
+Purge Gas Rate Initially - 10 SCFH/C ASE = .08 Cubic Decimeters / Sec. 
+Set Meter Range = 5 to 50 SCFH = .04 to .4 Cubic Decimeters / Sec. 
+ 
+ 
+9-2.  Vibration Monitoring 
+ 
+ 
+ 
+        
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, 3rd Party Guidelines  
+2020, Rev. #0 
+ 
+9-3.  Vertical Frame Thermal Growth 
+ 
+The vertical thermal growth (foot to crankshaft) fo r all frames can be expected to be in the following 
+ranges: 
+ 
+MOS  .005” - .008” (0.13 – 0.20 mm) 
+   
+HOS  .005" - .008" (0.13 – 0.20 mm) 
+ 
+HOSS   .007" - .010" (0.18 – 0.25 mm) 
+   
+ 9-4.  Packing RTD Temperat ure Setting Recommendations 
+ 
+The following temperature limits were established to  safeguard the operation of  separable compressor  
+packings.  Packing case temperatur e should not exceed 300° F (149°C). 
+ 
+Alarm Setting     20° F (11°C) Above Normal Packing Operating Temperature Shutdown Setting    30° F (16.7°C) Abov e Normal Packing Operating Temperature 
+ 
+ 
+9-5.  Main Bearing Temperature Setting Recommendations 
+ 
+The following temperature limits were established to  safeguard the operation of  separable compressor  
+main bearings. 
+ 
+Maximum Alarm Setting    210° F (99°C) Maximum Shutdown Setting   220° F (104°C) 
+Main Bearing ΔT (Bearing to Bearing)  Not to Exceed 20°F (11°C) 
+      (Compressor Fully Heat Soaked) 
+ 
+NOTE:  It is recommended that the main bearing RTD alarm and shutdown be set at 20° F (11°C) or  
+30° F (16.7°C) respectively above the averag e of all the main bearing temperatures. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.  
+  Packager Guidelines, Metric Conversions  
+2020, Rev. #0 
+Packager Guidelines  
+Section 10: Metric Conversions  
+ 
+ 
+ METRIC CONVERSION EQUIVALENTS  
+ 
+ — U.S. TO METRIC — 
+     
+ 
+ Multiply   
+By  
+ To Obtain  
+ 
+inches (in)   
+25.4  
+millimetres (mm)  
+ 
+pounds (lbs)   
+0.454   
+kilograms (kg)  
+ 
+gallons (gals)   
+3.785   
+litres (L)  
+ 
+horsepower (HP)   
+0.746   
+kilowatts (kW)  
+ 
+British Thermal Units (Btu)   
+1055  
+joules (j)  
+ 
+degrees Fahrenheit ( °F)  
+0.556 (°F - 32)  
+degrees Celsius ( °C) 
+ 
+pounds per square inch (psi)   
+0.0703  
+ 
+ 
+6.895  
+ 
+0.069   
+kilograms per square 
+centimetre (kg/cm2) 
+ kilopascal (kPa)  
+ 
+bar 
+ 
+cubic feet per minute (CFM)   
+0.0283   
+cubic metres per minute (m
+3/min)  
+ 
+gallons per minute ( GPM)   
+3.785   
+litres per minute (L/min)  
+ 
+torque in foot -pounds (ft -lbs)  
+1.356  
+ 
+0.138   
+newton metres (N •m) 
+ 
+kilogram metres (kg -m) 
+ 
+Saybolt Seconds Universal (SSU):  
+50-100 SSU  
+100-350 SSU  
+over 350 SSU @ 100 °F (40° C) 
+over 350 SSU @ 210 °F (100° C)  
+ 
+(0.226 x  SSU) - (205.3 ÷ SSU)  
+(0.22 x SSU) -  (147.7 ÷ SSU)    
+SSU x 0.21576  
+SSU x 0.21426   
+ 
+kinematic viscosity, 
+centistokes (cSt)  
+ 
+  The metric conversion equivalents listed 
+below represent the more commonly used 
+measuring units in the engine and 
+compressor industry.  

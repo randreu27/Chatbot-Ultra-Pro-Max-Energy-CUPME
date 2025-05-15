@@ -1,0 +1,535 @@
+White Paper “ e-Methanol ” 
+Frei verwendbar   © 202 1 Siemens Energy  Page  1 
+ 
+ 
+  
+siemens -energy.com   
+siemens -energy.com  e-Methanol  
+A universal green fuel  
+
+White Paper “ e-Methanol ” 
+Frei verwendbar   © 202 1 Siemens Energy  Page  2  
+ 
+ 
+siemens -energy.com   Content s 
+01 Introduction  
+01 Decarbonization of global energy systems  
+02     Carbon -free and carbon -neutral energy carriers  
+03     Methanol markets today and tomorrow  
+02 Methanol – characteristics and conversion processes  
+01 Conventional Methanol and e -Methan ol 
+02     CO2 sources for green e -Methanol  
+03     e-Fuels derived from e -Methanol  
+   Methanol -to-Gasoline process  
+   Fischer -Tropsch synthesis  
+03 Economic  factors  and use -cases of e -Methanol for transport  sector  
+01 Cost and prices  
+02     Use-cases in the transport sector  
+   Road transportation  
+   Shipping  
+   Aviation  
+04 Roadmap for implementing e -Methanol  
+01 Pilot and demonstration plants  
+02     Large -scale production  
+ 
+05  An e-Methanol economy – Vison or fantasy?  
+ 
+ 
+ 
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  3 1 Introduction  
+Decarb onization of global energy systems  
+Global emissions of CO 2, the most important greenhouse gas , are continuously  increasing and were predicted  to reach  33 
+Gt in the year 2019. While significant progress has been made in the power sector over the last one to two decades , with 
+a growing share of rene wable energy sources of roughly 22  percent , the rate of greenhouse gas (GHG) emission  in other 
+sectors ha s stagnated or even increased. In the meantime, governments are putting more and more focus on 
+decarbonizing the transport, industry , and heat ing secto rs. 
+Today , 40 percent  of global emissions are from electricity production (Figure 1 ). Due to the steadily improving economics 
+of solar PV and wind power generation, and increasing improvement s in electricity storage costs, the fu ture 
+decarbonization of the power sector will gradually progress. In contrast , the industry and transport sectors are together 
+responsible for 45  percent  of the world’s  CO 2-emissions. In these sectors, r enewable energy sou rces (RES) have only 
+reduced emissions by eight percent . Decarboniz ing these sectors  is more complex and costly compar ed with  the power 
+sector,  and it will most likely come from a  combination of electrification and carbon -neutral fuels and feedstocks.  
+ 
+Figure 1: Energy related global CO 2-emissions and their shares by sectors .   
+It is no surprise, that carbon -free and carbon -neutral energy carriers, that are based on green hydrogen  have recently be-
+come the focus of attention. Renewable electricity product ion costs have dropped to levels far below €25/MWh el at many 
+favorable locations around the globe. Green  hydrogen and synthetic e -fuels based on renewable electricity are therefore 
+seen as favorites for decarboniz ing those sectors, which are not easy to electrify and still use energy carriers with a high 
+carbon footprint.  
+ 
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  4 Carbon -free and carbon -neutral energy carriers  
+e-Fuels and biofuels are highly relevant for reduci ng CO 2-emissions , especially in the transport sector . Using existing 
+infrastructures (distribution, filling stations), this sector’s deep decarbonization is expected to come from these carbon -
+neutral e -fuels. On the other hand , there is a common understanding that global b iofuel resources are limited , and 
+thereby their contribution to decarbonizing of energy systems is limited as well. Furthermore, the restrictions on food -
+based biofuels will become tighter in the future and shrink  these resources even more. e-Fuels are per ceived as the only 
+option for provid ing large volumes of carbon -neutral liquid fuel s in the future (Figure 2).  
+ 
+Figure 2: Low  CO 2-emission fuel options for global transport in million s of tons (source: IEA statistics 2019)  
+Compressed gaseous green hydrogen and liquid e -fuels provide important benefits . They are extremely  energy -dense, 
+easy to store and in addition to serving  as energy carriers , they can be used as carbon -free or low -CO 2 feedstock for indus-
+trial and chemical processes. The m ost prominent hydrogen -based synthetic e -fuels feedstocks are e -Methane, e -Metha-
+nol and e -Ammonia. Each has its own characteristics in terms of production process, combustion features, and safety that 
+mee t the requirements of their various use cases.  
+ 
+Methanol markets today and tomorrow  
+Methanol is a universal chemical compound  that today is still being produced from coal and natural gas -derived synthesis 
+gas (H 2 and CO). It is used in large quantaties  (more than 98 Mt in 2019), primarily  as a feedstock for chemicals (80  
+percent ) and in smaller volumes as an energy carrier (20  percent ). The largest  volumes and strongest growth over the last 
+five years have been  methanol -to-olefin conversion and formaldehyde -production. The production of conventional 
+methanol is well established; large -scale methanol plants have a production -capacity of up to 1.5 Mt/ a. Figure 3 shows 
+the steady growth in global consumption  in recent  years.  
+In the future, non -fossil e -Methanol will see vast new application fields. It becomes sustainable or ”green” when  it is 
+produced from renewable hydrogen of either biological (bio -methanol) or electrochemical origin (e -Methanol) and CO 2. 
+This paper focuses on the green hydrogen path, which uses renewable electricity.  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  5  
+Figure 3: Global annual methanol consumption by application (source: Methanol Institute)  
+Conventional and e -Methanol are chemically identical but are distinctly different in terms of their CO 2 footprint, which is 
+on the order of 10 g CO 2/MJ th for green methanol and  80-90 g CO 2/MJ th for fossil -sourced methanol. Green e -Methanol 
+belongs in the category of carbon -neutral fuels. This means that its combustion releases approximately as much CO 2 as it 
+gets bound when being produced. CO 2 losses are from the conversion process and transportation and di stribution. 
+Independent of the source, reusing emitted CO 2 results in an overall prevention  of nearly net 50 percent  of CO 2 emissions 
+to the atmosphere, and the CO 2 cycle is closed in principle (Figure 4).  
+ 
+Figure 1: Coupling PtL with industrial CO 2-emissions reduces net CO 2-emissions by up to 50  percent  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  6 It is obvious, that the primary energy used to produce largely carbon -neutral energy carrier needs to be green, produced 
+in a dedicated way by renewable electricity. Interaction s with electricity grids should be minimized as long as their 
+electricity  mix is still linked to CO 2 emissions. On the othe r hand, integrating Power -to-Liquids (PtL) processes into the 
+existing grids can contribute to the overall power balance and grid stability as an additional and flexibly usable  electricity -
+consuming element ( demand -side management). These  effects should be  considered in the future design of large PtL 
+facilities and their optional grid connection s. 
+ 
+2 Methanol : Characteristics  and conversion processes  
+Conventional methanol and e -Methanol  
+Methanol (CH 3OH) is the simplest alcohol  and consist s of a methyl group coupled to a hydroxyl group. The single oxygen 
+atom “liquefies” methane (CH 4), and therefore  provides significant advantages in handling compared with  the gaseous 
+methane (natural gas). Methanol is a light, colorless, volatile, flammable , and water -soluble substance with a distinctive 
+alcohol odor. It is toxic but easy to control , especially in industrial applications. The essential advantage of (e -)Met hanol is 
+its high compatibility with existing infrastructure  like tanks, pipelines , and  fueling stations as well as existing propulsion 
+technologies.  
+Today methanol is produced primarily from natural gas by means of  steam methane reforming (SMR), a mature,  highly 
+integrated and cost -effective process. But when derived from fossil sources, th e production of this conven tional “grey” 
+methanol i nvolves  high CO 2 emissions. From an economic  perspective , however, it is hard to outperform when the 
+hydrogen is produ ced from RES and convert ed with CO 2, due to low natural gas and CO 2 prices.  
+The synthesis of methanol from H 2 and CO (synthesis gas) and from H 2 and CO 2 are exothermal chemical reactions. When 
+converting it from CO 2, one mol of H 2 (per mol methanol) is lost as water. The process performance is primarily  
+determined by the reaction temperature, pressure and catalyst  features. To obtain high conversion rates , internal 
+recycling of the product gas is still required  in today’s processes . 
+One method  for partial ly decarboniz ing conventional methanol production from fossil sources uses green hydrogen to 
+balance the potential mismatch of H 2 and CO/CO 2 in the synthesis gas acquired  from substances like  coal (Figure 5).  
+ 
+Figure 5: Pathways for synthesizing methanol  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  7 CO 2 sources for green e -Methanol  
+In terms of the chemistry, all CO 2 sources can be used to produce e -Methanol. The CO 2 molecule is identical, whether it is 
+emitted from a coal -fired power plant or from combusting biomass.  e-fuels and e -Methanol are determined to be green or 
+sustainable as long as the energy required in the processing is renewable.  
+However, there is an ongoing dispute  about whether CO 2 from combustion processes can be used for green products. 
+There is a co ncern, that this could lead to a rationale for  using fossil fuels and thereby emitting greenhouse gases . 
+Biomass -based CO 2 and CO 2 derived from the air  - direct air capture (DAC) - are clearly preferred for produc ing e-fuels 
+because they lead directly to a short -term closed CO 2 cycle (carbon neutrality). On the other hand , CO 2 emissions from 
+specific  industrial sources  like cement production and from steel works are mostly inherent, and thereby unavoidable. Re -
+using the CO 2-emissions for PtL pr ocesses has a similar effect and is clearly environmentally benign. Bonding CO 2 from 
+sour gas treatment and natural gas utilization  like power generation using highly efficient gas turbines, will be evaluated 
+case by case. Each application field and projec t will need  to be ecologically assessed and the produced e -fuel will be 
+certified by independent institutes for their compliance with all environmental measures  including their  GHG impact.  
+Nevertheless, each re -use of CO 2, whatever its  source, has similar CO 2 emission conservation  effects due to the creation of 
+a CO 2-neutral cycle  (see Figure 4 ). While carbon capture from flue gas is technologically developed to a great extend  and 
+the economics  are acceptable , DAC technology is still un der development. Its technological feasibility has been 
+demonstrated in principle in initial  demo -projects, but industrial -grade systems have not yet been built and the capture 
+costs are still too high to implement it in large -scale commercial projects.  
+However, with the projected decrease of investment and operating costs, DAC will support the production of e -Fuels, even 
+in long -term future poor availability of industrial CO 2 sources. In this way the CO 2 supply will become independent of any 
+fossil sources  and thereby PtL projects may be applicable all over the world.  
+ 
+e-Fuels derived from e -Methanol  
+In addition to the direct use of e -Methanol, the methanol pathway opens the route to other carbon -based CO 2-neutral e -
+fuels. When e-Methanol is finished by converting it into e -Dimethylether (CH 30CH 3), e-Hydrocarbons (C xHy) like e-Gasoline 
+and e-Kerosene will be able to replace their fossil counterparts. The electricity -based fuels become in this manner direct 
+drop -in fuels, which are completel y compatible with the existing fossil counterparts. They are synthetically produced and 
+usable in existing engines, turbines and heating systems wit h no  need for extensive modification. Concurrently, all exist-
+ing infrastructure for fuel transport, storage and fueling can be  used without modification . The processes used to conver t 
+methanol  to higher carbon -chain hydrocarbons are called  Methanol -to-Gasoline (MtG) and Methanol -to-Kerosene (MtK).  
+Nevertheless, t oday t he more common  way to produce synthetic gaso line or kerosene uses  the Fischer -Tropsch process. e -
+Diesel and other synthetic products like green -labeled waxes for the cosmetic s industry are also produced using this 
+method . The Fischer -Tropsch process uses hydrogen and carbon monoxide as educts; for t he green path , the CO 2 needs to 
+first be reduced to CO  (see Figure 6 ). 
+ 
+ 
+ 
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  8  
+ 
+Figure 6: Alternative process pathways for the production of green e -Gasoline  
+ 
+ 
+Methanol -to-Gasoline process  
+ExxonMobil’s MtG -technology is a well -known  method for produc ing certificated gasoline from methanol. The first plants 
+were built in the 1980s, and have demonstrated the ir high technology -readiness, process performance , and reliability for 
+decades. At that time , the main purpose for investing in this novel gasoline pro duction route was to become independent 
+of crude oil refining.  
+Today, MtG can support the creation  and strengthening an (e -)methanol economy, using e -Methanol as a commodity  hub 
+for the gasoline and kerosene supply. The chemical route of the MtG process is  based on the intermediate formation of 
+dimethylether (DME) and dehydrogentation. After condens ing of the water , the product spectrum typically contains 85 to 
+90 percent  light gasoline (mainly C 5+ hydrocarbons) and some 10  percent  LPG ( liquified petroleum gas) as a byproduct 
+(Figure 7).  
+ 
+ 
+ 
+Figure 7: Simplified flowsheet of the Methanol -to-Gasoline process (source: Exxon)  
+ 
+The overall energy efficiency of the conversion process has been assessed at 92  percent . Through the electricity -based route 
+leading to e-Gasoline , a decarbonization rate of about 90  percent  compared with  the conventional route can be achieved , and 
+- as a synthetic product - e-Gasoline is free of sulfur and nitrogen. The implementation of the latest technologies  to produce  
+synthetic e -fuels will also lead to the introduction of e -Methanol in the transport sector.  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  9 3 Economic  factors  and use -cases of e -Methanol for transport  
+ 
+Cost and prices  
+The electrical energy needed to split the water is the most dominant economic parameter in the e-Methanol production 
+chain. Its share in the final product cost varies between 30 and 40  percent , depending on regional renewable electricity 
+costs. Figure  8 shows the correlation between electricity price and e -Methanol production cost. Under climate con ditions 
+beneficial for wind power generation in Europe , green electrical energy can be produced at €25-50/MWh el. The 
+electrolysis could be operated at up to 4,500 h/a. These  conditions result in an e -Methanol production cost  of €800 to 
+900/t (Figure 8).   
+ 
+Figure 8: Production cost of e -Methanol based on electricity price  
+In contrast , in many regions worldwide with the most favorable conditions for generating wind and solar , electricity cost s 
+below €20/MWh el and very high load factors for electrolysis are feasible. At th ese locations , the  e-Methanol production 
+cost c ould  be as low as €600-650/t, depending on the cost for CO 2. Our reasons for optimism include  the decreasing cost 
+of equipment and project financing. Even when considering costs for an intercontinental transport of about €30 to 60/t to 
+the European end -consumers , the overa ll cost for imported e -Methanol would be much lower than if it w ere produced  in 
+domestic markets. Furthermore, the potential for gene rating renewable electricity in central Europe, which is limited also 
+for regulatory reasons, could not possibly match the future  demand for e -fuels needed in other  countries.  
+In the past, prices for conventional methanol produced primarily  from natural gas have fluctuated significantly between 
+€300 and more than 450/t. Because  they are related to the prices of fossil sources,  in the future, fluctuating prices for 
+fossil methano l can also be expected. This effect, as well as an increase of CO 2 prices , could make f uture  price calculation s 
+uncertain. e-Methanol production cost are dominated by investment costs and are thereby highly predictable and con-
+stant , from project launch over the plant ’s lifecycle . The curren t price gap between grey and green products is projected to 
+decrease.  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  10 Nevertheless, due to the ir significant ly lower CO 2 footprint , and in order to strengthen the worldwide fuel decarboniza-
+tion efforts, a price premium for green e -fuels is needed. The situation is comparable to biofuels, for which a market price 
+well above that of fossil gasoline has been already established and accepted  in the market. A benchmark for future  e-
+Methanol prices c an be evaluated by looking at the bioethanol sector, which recently experience d a drastic increase in 
+prices. Taking into consideration its energy content and CO 2 footprint , e-Methanol prices up to €1000/t seem to be realis-
+tic in a mid -term future. This scenari o provides a  viable business cases for large -scale e -Methanol plants abroad for export 
+to Europe.  
+ 
+Use-cases in the transport sector  
+Until now, main approaches  for reducing CO 2-emissions from the transport sector have been focus ed on improv ing engine 
+efficiency and blending conventional gasoline/diesel with  biofuels. However, t he remarkable specific emission s savings 
+per car have been  compensated by the increase in the  car fleet and the popularity of big cars. Over the last decade, multi-
+ple low  CO 2-emission drive  concepts have been introduced to the market, at times triggering controversial discussion.  
+The m ost important advances  are electrical drives (e -cars), either directly powered from batteries, or from hydrogen via 
+fuel cells . This  concept  is still facing challenges , including the  high cost and low availability of the appropriate hydrogen 
+infrastructure. Conventional biofuels  have been successfully introduced to the market , but they are approach ing their lim-
+its due to insufficient capacity as well as competition with food production. As a novel decarbonization instrument, e-
+fuels are increasingly considered as serious alternative to other proposed solutions, especially due to their compatibility 
+with established fuel infrastructure. This is an important factor , especially valid for regions with large existing car fleets 
+that also l ack the capital for a radical change to battery or hydrogen drives. Mo st importantly, an  immediate conservation  
+in CO 2-emission can be achieved by implementi ng e-fuels. 
+All of alternatives mentioned will gain  in importance, partly in competition, partly supplementing each other, specifically 
+for each use case, with their individual benefits and disadvantages. Figure 9 summarizes the different aspects.  
+So far, the glo bal low -carbon fuel markets have been  dominated by biofuels. In 2019 roughly  96 Mtoe (million tons oil 
+equivalent) of biofuels were marketed worldwide (IEA). The m ost important biofuels are bioethanol with a global produc-
+tion of about 57 Mtoe and biodiesel  at 39 Mtoe. This corresponds to a share of global fuel consumption in transport sec-
+tor of roughly 4  percent . Global biofuel production would hypothetically need to triple by 2030  in order to fulfill the pro-
+jected demand in the 1.5 K global warming mitigation scenarios. There is a common understanding that worldwide bio-
+mass resources w on’t be sufficient to meet  these requirements , especially considering the tighter regulations on biomass 
+resources that were put in place to prevent competition with fo od production ( second  generation biofuels).  
+e-fuels will be urgently needed in order to overcome these shortages. Up to now, their global production has been  very 
+limited; only a small number of e -Methanol plants are in operation  (see Figure 17 ). Neverthel ess, a future shift to carbon -
+neutral e -fuels, especially e -Methanol, e -Gasoline and e -Kerosene, could make a significant contribution to efforts to de-
+carboniz e the transport sector worldwide.  
+ 
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  11  
+Figure 9: Opportunities for decarbonizing transport sector  
+In general, if renewable electricity is sufficiently available in a given  region, e -mobility based on batteries is prefer red due 
+to its high well -to-wheel efficiency. But even in this case, due to their high weight, batteries for long -distance heavy -duty 
+transport ation vehicles  are most likely not feasible. For these applications , highly energy -dense green hydrogen  and espe-
+cially e -fuels are a better option. And in contrast to electrical energy , they can be economically imported from far away 
+regions abroad:  for example , arid areas  that are rich in wind and solar energy but not suitable for biomass production. 
+Synthetically produced e -fuels a lso contribute to the desulfurization (SO x) and denitrification (NO x) of the transport sec-
+tor. e -Fuels for land mobility can also profit from synergies to shipping and aviation, where e -fuels will need to play an 
+important role in decarbonization.  
+It is true that the various  stages of the conversion chain - from renewable electrical to chemical and finally to motion ( for 
+example  powering  a car) - are associated with different kinds of substantial losses. For land transportation, a well -to-
+wheel efficiency in range of 15  percent  is expected. That is clearly inferior to  e-mob ility. On the other hand , because re-
+newable resources are infinitely available worldwide and will be technically exploited more and more in an increasingly 
+economical way, the losses in efficiency are of lower priority as long as the final economics are ac ceptable (Figure 10).  
+At a first stage, large -scale PtL project at sites with the lowest costs for renewable electricity production, e -Methanol pro-
+duction costs are estimated at €130/MWh th. This corresponds to €150/MWh th for e -Gasoline (about €1.30/l, tax -free).  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  12  
+Figure 10: Energy balance and cost structure  of the Power -to-Gasoline process (simplified)  
+ 
+ 
+Road transportation  
+Methanol has been  an established additive to gasoline as anti -knock agent  for decades . Up to three percent  by volume is 
+allowed for blending with conventional gasoline in accordance with  European specifications; higher admixture rates are 
+technically feasible (Figure 11). Admixing 15 to 20  percent methanol does not require substantial modification  to today’s 
+engines. Eni i n Italy has tested a fuel type containing 20  percent  methanol; in China regulations for up to pure methanol 
+(M15 … M100) have been implemented, modified engines are in operation in large car fleets. So far, China’s motivation 
+for using methanol as a fuel f or transport ation  is to become more independent from oil imports and to mitigate local 
+emissions of pollut ants  from conventional fuels. e -Methanol is becoming increasingly interesting  as an easy drop -in op-
+tion for reduc ing the mobility’s CO 2 footprint.  
+The production of biodiesel requires  about 10  percent methanol, which today is obtained from fossil sources. Simply re-
+placing it with e-Methanol would a lso reduce the carbon footprint of biodiesel. Anti-knock agents based on methanol 
+could be ea sily replaced with  decarbonized e -Methanol.  
+As mentioned, in order to become more compatible with conventional fuels, e -Methanol can be converted into synthetic 
+e-Gasoline (MtG -process). Its CO 2-footprint of app roximately  10 g/MJ th would enable a more than 90  percent  reduction in 
+CO 2-emissions compared with  fossil fuels.  
+DME is also an excellent synthetic substitute for conventional diesel oil with only minor modifications to modern, highly 
+energy -efficient diesel engines. Largely c arbon -neutral e -DME could help decarbonize the transport sector, including 
+buses and freight transport ation . 
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  13   
+Figure 11: Options for blending gasoline with  ethanol and methanol (Source: Turner, Pearson)  
+ 
+Shipping  
+Like the other transportation sectors, the shipping industry is facing significant challenges  resulting from the technologi-
+cal changes forced by global warming. Typical fossil fuels like heavy fuel oil that ha ve dominated this sector for more than 
+100 years will be repla ced by low carbon fuels as the shipping industry urgently seeks  to reduce its pollutants and green-
+house gas emissions. Today , shipping accounts for two to three percent  of global CO 2 emissions, a share that will rise with 
+growing trade if left unchecked. T he International Maritime Organization (IMO) has therefore set a target to reduce emis-
+sions by 50  percent  in 2050 (relative to 2008, Figure 12). Individual companies are moving ahead with more ambitious 
+goals.  
+ 
+Figure 12: GHG strategy of the  International Marine Organization (IMO).  
+Total: refers to the absolute amount of GHG emissions from international shipping. Intensity: Carbon dioxide emitted per 
+ton-mile. (Source: IMO)  
+In addition to improving drive efficiency, better logistics , and redu cing the transportation velocity , changing the fuel s 
+used in the shipping sector  is a promising measure for reduc ing CO 2-emissions. Alternatives to today’s heavy fuel oils  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  14 include  low-carbon or even carbon -free fuels : liquified natural gas (LNG), methanol,  hydrogen and ammonia, all of which 
+are clean fuels that are also highly relevant because of the recent more stringent SO x- and NO x- emissions restrictions . In a 
+first step , they may be still produced from fossil sources  and still charged with associated  CO2 emissions. Nevertheless, the 
+shift toward the green electricity -based variants can be made  smoothly for existing fleets and for new ships, immediately 
+leading to a huge  reduction of CO 2 emissions. However, today it is an open question  as to which of the se e-fuels will pre-
+vail in the shipping sector  over next 10 to 30 years. Each has its advantages in different use cases. Future shipping will 
+most likely implement a more diverse fuel and propulsion spectrum than today.  
+For instance, e -Methanol is predestin ed for large  passenger ships like ferries and cruise  ships , and it can also be easily 
+used in  inland waterways. Methanol -driven ships are already in use, for example  the “Stena -Germanica” ferry since 2015 
+and the  methanol -fueled transport ation  fleet operated by Methanex. An important advantage of methanol over LNG is 
+that there is no climate -damaging methane slip from the reciprocating engine’s operation. In addition to  combustion en-
+gines fuel cells , that run on methanol ( direct methanol fuel cell, DMFC) are under development . They could be used for 
+applications like feeding electrical drives and generat ing power and heat for on -board facilities of cruise ships.  
+For large -scale bulk ships  operated by small, highly trained  crews , e-Ammonia is being intensively discussed as a CO 2-free 
+fuel for ship operation. e-Ammonia is produced from green hydrogen  and nitrogen using the established Haber -Bosch 
+process. The broad introduction of e -Ammonia – similar to e -Methanol – would be able to use an established infrastruc-
+ture for distribution and application. A white paper is  available from Siemens Energy  that addresses e -Ammonia.  
+ 
+Aviatio n 
+Aviation accounts for 2.4  percent  of global CO 2 emissions (918 Mt CO 2 in 2018). In addition to improvements in propul-
+sion efficiency (1.5  percent/ a between 2009 and 2016), the potential future application of batteries for short distance 
+flights , and us ing bio-kerosene, it will be necessary to deploy synthetic e -fuels to mee t the increasing fuel demand and 
+simultaneously significantly reduce CO 2 emissions. High quality synthetic e -Kerosene also reduces the emission of dust; it 
+can be  directly applied without complex and expensive retrofits. Hydrogen  is different: it requires special  tank systems, 
+intensive testing and approvals , and may face acceptance issues. Similar to land transportation, hydrogen requires a  mod-
+ified  supply chain and infrastructure.  
+There are no obligatory CO 2 reduction targets, comparable to the European r egulation s on  land transport, that are ad-
+dressed in the Renewable Energy Directive (RED). Nevertheless, the Air Transport Action Group (ATAG) and International 
+Air Transportation Association (IATA) have committed to the effort by releasing a  target of a 50 percent  reduction in net 
+aviation CO 2 emissions by 2050 (Figure 13). A more stringent commitment published in September 2020 by the “one-
+world” association that unifies 13 airlines and a bout  20 of their affiliates  in an effort to approach net-zero carbon emis-
+sions by 2050.  
+The aviation industry introduced their own category of CO 2-neutral fuels  - Sustainable Aviation Fuels (SAF)  - which can be 
+either produced from biomass, waste or us ing of renewable electrical ene rgy to produce Powerfuels. These are projected  
+to become the best option for implementing RES in the aviation sector. However, until  now, the aviation industry views  
+Powerfuels only as a long -term solution.  
+ 
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  15  
+Figure 13: CO2 emissions reduction targets for  the aviation sector (Source: based on Carbon Offsetting and Reduction 
+Scheme for International Aviation (CORSIA)  
+Similar to  e-Gasoline, e -Kerosene can be synthesized via two routes, the Fischer -Tropsch process  that includ es a refining 
+stage and the more s elective MtK process, which is not yet commercially available, and will be implemented in demon-
+stration projects. Both pathways have achieved comparable technology -readiness levels.  
+The MtK process is quite similar to MtG . It must be modified to produce the C9-C14 chain hydrocarbons, typical of jet fuel. 
+The f irst R&D projects, for example KEROSyN100 , are under development, while Fischer -Tropsch kerosene from biogas has 
+been already certified for 50 percent  blend ing with conventional jet fuel.  
+ 
+ 
+4 Roadmap for implementing e -Methanol   
+ 
+Pilot and demonstration plants  
+As shown in Figure 14, there are very few plants  worldwide  for produc ing of renewable methanol, an most of them are 
+producing bio -methanol from biomass/waste. Only one commercial plant in Iceland uses green Hydrogen from water elec-
+trolysis and CO 2 taken from local geological sources. At 4 kt/yr , its production capacity is quite limited. The small -scale 
+plant has been c ontinuously operated since 2012 and has proven its technological maturity. e -Methanol produced on the 
+island is market ed through various channels in continental Europe. There  are plans to expand the plant’s production ca-
+pacity, but no final investment decision s have been made . 
+In the context  of the BMWi funded E2Fuels project Siemens Energy is working with the Stadtwerke Ha ssfurt, MAN Energy 
+and academia to pursu e the developm ent of the novel PtMethanol concept, which should become more efficient and op-
+erationally flexible, fulfilling  the needs from volatile RES. The r esults of lab-scale tests of the synthesis concept will be 
+implemented in a pilot p roject . The first production of e-Methanol  is expected in 2021.  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  16  
+Figure 14: The f irst projects for renewable methanol production are already in operation  
+ 
+Large -scale production  
+It is clear , that in parallel to small -scale demonstration plants, scalability and ma turity in large -scale plant operation ha ve 
+to be achieved quickly. Only fast development  coupled with lowering the investment risk and construction costs can help 
+to build up required production capacit y. Figure 15 gives an example of estimated  balance data for a PtMethanol plant , 
+which will be constructed in Chile . This project , launched in December 2020 , will demonstrate an interaction of all essen-
+tial plant components , as well as  create a basis for scaling up large size plants , in range of man y hundreds MW. These 
+plants , usually located  in regions with a high production potential and low cost, green electricity , are  dedicated for pro-
+duction of green hydrogen, w/o use of grid electricity . Nevertheless, in regions with weak grid infrastructure , PtL plant s 
+could  be connected to the grid, stabilize and improve its reliability.   
+ 
+Figure 15: Simplified process flow diagram and mass balance for an exemplary Power -to-Methanol plant  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  17 PtL plants can be designed using m odular concepts with single  train ele ctroly sis capacities of up to 200 MW el. High ly 
+standardized process units  for example,  the electrol ysis systems, econom ies-of-scale for the chemical syntheses and pre -
+manufactured components will help reduce invest ment costs  and shorten the construction  time.  
+Nonetheless,  large -size and complex PtL -projects require extensive e xperience in project development, financing and exe-
+cution . During the introduction phase over coming years, risk sharing, close partnerships, governmental support and l ast 
+not at least: public acceptance  can speed up evolvement it this well promising technology , and positively  impact the re-
+duction of net CO2 emissions.  
+In close collaboration with customers and partners Siemens Energy is currently developing its first PtL  projects, by draw-
+ing on the company’s technology expertise, its products, flexible PEM (Polymer Electrolyte Membrane) electrolysis, and its 
+extensive solution and project management experience . The first pre -commercial Haru Oni project will be realized in Pata-
+gonia  Province in Chile , fig. 15, 16. 
+ 
+Figure 16: Haru -Oni pilot plant, Patagonia, Chile  
+The Haru Oni project will be the first commercial industrial-scale plant for production of climate-neutral e-fuels. Produc-
+tion capacities of e-fuels are planned to reach 130,000 litres during the pilot plant operation by 2022, 55 million litres for 
+the first phase of commercial plant by 2024 and up to 550 million litres in the following phase. The “Haru Oni” pilot pro-
+ject takes advantage of the excellent wind conditions in southern Chile to produce carbon-neutral fuel using wind power. 
+Final products will be e-methanol and e-gasoline, produced from methanol via methanol-to-gasoline process. The project 
+is supported through funding by the German government under the National Hydrogen Strategy program. Siemens En-
+ergy has developed the Haru Oni project with partners such as HIF, Porsche AG, and Chilean ENAP. The project will 
+demonstrate the Siemens Energy’s PEM electrolysis technology in an industrial scale.
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  18 Siemens Energy has recognized the value of PtX -solutions for the decarbonization of multiple industries  man y years ago . 
+The company is preparing to provide a full range of customized solutions for each application, beginning with production 
+of electricity from wind, offering of green hydrogen and e -fuels production or ending with carbon -free re-electrification. 
+All of these stages will be available on a component , as well as on a turnkey basis (Figure 17, also see Siemens Energy’s 
+white paper o n Power -to-X). 
+ 
+ 
+ 
+ 
+Figure 1 7: Siemens Energy's modular approach to Power -to-X plants.  
+ 
+ 
+ 
+Using well proven  plant components, known from the electricity production, transformation  and distribution, having ex-
+tensive experience in serving the oil & gas industry , as well as developing own key -PEM electrolysis -technology,  in part-
+nerships with global e -fuel synthesis technology leaders, Siemens Energy is well prepared to deliver any kind of solution 
+with  benefit for the climate protection and customers satisfaction.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  19 5 An e -Methanol economy – Vision or fantasy?  
+Methanol is a universal chemical compound. It can be easily synthesized from material s containing carbon  (CO, CO 2) and 
+H2. And it can  be used as an energy carrier or to produce other fuels as well as a basic feedstock for numerous chemical 
+products.  
+In the 1990s the Nobel laureate chemist George A. Olah was already promot ing the introduction of a so -called methanol 
+economy which, however, has did not enjoy a positive res ponse  from industry and politics at the  time. However, with the 
+need to decarbonize our existing energy consumption patterns and drastically decreasing the cost of electrical energy 
+from RES, his idea of establish ing a methanol economy is being seen completely new light . Olah’s idea of a closed CO 2 
+balance via e -Methanol may very well become a reality for economic and environmental reasons (Figure 1 8).  
+In prin ciple, the transition to a green e -Methanol economy and the installation of e -Methanol hubs would be fairly simple: 
+green hydrogen is produced at RES rich locations, converted into an energy -dense, liquid fuel (methanol), stored and dis-
+tributed using estab lished infrastructures, and used in different applications. This is how e -Methanol can integrate RES all 
+over the world in the existing infrastructures of the transport sector, the chemical industry, and heating and decentral 
+power supply systems. The conc ept becomes even more sustainable if the auxiliary energy - for example, for water treat-
+ment and CO 2 capture and logistics - comes from green sources. Many areas and their populations all over the world 
+would profit by becoming players in an e -Methanol eco nomy – including deserts with no resources to produce green en-
+ergy from biomass, windy regions with no or low industrial development, and oil -exporting countries that are looking for 
+new business opportunities. Regions that were left behind during earlier industrialization would be able to create a sus-
+tainable, autonomous and successful future.  
+ 
+Figure 18: The concept of a sustainable e -Methanol economy  
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  20 Countries like Germany will not be able  to achieve an energy transition that is based entirely on local RES. As with fossil 
+fuels , the need to import energy will persist  in an e -Methanol economy. Applications in the transport sector could pioneer 
+the introduction of e -fuels. Figure 1 9 shows a roadmap of the different applicati on fields and implementation steps for e-
+Methanol and carbon -based e -fuels in general.  
+ 
+Figure 19: Scenario for evolvement of the green e -Methanol economy  
+The technologies needed to realize PtX are ready for scale -up in principle, and the concepts necessa ry to create large -scale 
+PtL plants already exist. Investors are becoming  increasingly interested in these new green opportunities, and e-fuel off -
+takers are recognizing the opportunity to reduce their carbon footprint in a  sustainable  way. If adequately p romoted by 
+policy  – in other words, supported by regulations and incentives during introduction  - and stimulated by the public’s inter-
+est the transition to an e -Methanol economy is likely to succeed . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+White Paper “ e-Methanol ” 
+ © 202 1 Siemens Energy  Page  21 Impressum  
+www.siemens -energy.com/hydrogen  
+ 
+Publishe d by   
+Siemens Energy  Global GmbH & Co . KG 
+Otto -Hahn -Ring 6  
+81739  Munich , Germany  
+ F
+or more information, please contact : support.energy@siemens-energy.com
+ 
+Authors : Dr. Peter Kl uesener, Dr. Ireneusz Pyc, Dr. Gerhard Zimmer mann  
+ 
+Graphics : Siemens Energy  
+ 
+© Siemens Energy, 202 1  
+ 
+Siemens Energy is a registered trademark licensed by Siemens AG.  
+ 
+Siemens Energy  is one of the world’s leading energy technology companies. The company works with its customers and 
+partners on energy systems for the future, thus supporting the transition to a more sustainable world. With its portfolio of 
+products, solutions and services, Siemens Energy covers almost the entire energy value chain – from power generation 
+and transmission to storag e. The portfolio includes conventional and renewable energy technology, such as gas and 
+steam turbines, hybrid power plants operated with hydrogen, and power generators and transformers. More than 50 per-
+cent of the portfolio has already been decarbonized. A majority stake in the listed company Siemens Gamesa Renewable 
+Energy (SGRE) makes Siemens Energy a global market leader for renewable energies. An estimated one -sixth of the elec-
+tricity generated worldwide is based on technologies from Siemens Energy. Si emens Energy employs more than 90,000 
+people worldwide in more than 90 countries and generated revenue of around €27.5 billion in fiscal year 2020.   
+www.siemens -energy.com  
+ 
+Disclaim er 
+Subject to changes and errors. The information given in this document only contains general descriptions 
+and/or performance features which may not always specifically reflect those described, or which may 
+undergo modification in the course of further development of the products.  The requested performance 
+features are binding only when they are expressly agreed upon in the concluded contract. All product 
+designations may be trademarks or product names of Siemens Energy Global GmbH & Co. KG or other 
+companies whose use by third par ties for their own purposes could violate the rights of the owners . 
+   

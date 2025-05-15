@@ -1,0 +1,17 @@
+siemens-energy.com/gasturbines 
+Siemens Energy is a trademark licensed by Siemens AG.Industrial gas turbine 
+SGT-400
+Power Generation Mechanical Drive
+Power 10.5 MW 12.9 MW 14.3 MW 10.8 MW (14,598 hp) 13.8 MW (18,544 hp) 14.9 MW (20,024 hp)
+Gross efficiency 35.4% 34.8% 35.6% 36.8% 36.8% 37.1%
+Heat rate10,173 kJ / kWh
+(9,638 Btu / kWh)10,354 kJ / kWh
+(9,810 Btu / kWh)10,103 kJ / kWh
+(9,572 Btu / kWh)9,774kJ / kWh  
+(6,908 Btu / hph)9,790 kJ / kWh
+(6,919 Btu / hph)9,702 kJ / kWh  
+(6,857 Btu / hph)
+Turbine speed 11,500 rpm 9,500 rpm 9,500 rpm 5,750 / 12,075 rpm 4,750 / 9,975 rpm 4,750 / 9,975 rpm
+Pressure ratio 16.1:1 16.9:1 18.5:1 16.1:1 16.9:1 18.5:1
+Exhaust mass flow 34.2 kg / s (75.4 lb / s) 40.0 kg / s (88.2 lb / s) 44.5 kg / s (98.1 lb / s) 34.2 kg / s (75.4 lb / s) 40.6 kg / s (89.5 lb / s) 44.5 kg / s (98.1 lb / s)
+Exhaust temperature 510°C (950°F) 555°C (1,031°F) 529°C (984°F) 510°C (950°F) 543°C (1,009°F) 529°C (984°F)

@@ -1,0 +1,87 @@
+Initial Situation
+Reduction of nuclear and fossil power and the 
+increase of renewable power is causing stability 
+problems in the high -voltage grid worldwide.
+Our Solution
+Any existing power plant generator type could 
+be converted into a synchronous condenser. It 
+could supply the grid with short circuit power 
+and could ensure permanent dynamic voltage 
+and reactive power control. Synchronous 
+condenser aim to stabilize the frequency and 
+support the voltage also for long distances. 
+They could generate electricity during dynamic 
+peak demands and have the capability to build 
+up the grid after black -out. The project time for 
+converting the plant is usually less than 12 
+months. The solution allows to utilize existing 
+assets and therefore offers a very short Return 
+on Investment (ROI).A synchronous condenser is a generator without a prime mover from a gas or steam turbine. It stabilizes the grid in 
+changing reactive power demands. The rotating mass and the dynamic generation of reactive power stands for the high 
+advantages of this product. Short circuit power supply and the frequency stabilization are the main benefits of the 
+synchronous condenser.
+Your Benefits
+▪Minimum costs due to re -
+use of the existing generator 
+and relevant auxiliary 
+systems. Written -off assets 
+can be reactivated.
+▪Extended lifetime of a power 
+plant generates additional 
+revenue.
+▪Decreased danger for 
+blackouts as grid is in an 
+optimum range of operation 
+due to improved cos and 
+increase of short capability.
+Siemens Energy is a trademark licensed by Siemens AG UnrestrictedReactive power depending on generator size 
+up to +1,500 / -1,000 MVar
+(cap. / ind.)
+System Inertia
+(Kinetic Energy)Up to 4,000 MWs 
+with flywheel
+Short Circuit 
+Power Sk’’Up to 1,800 MVA at point of 
+connectionTechnical dataTechnical Requirements
+•Shaft train calculation
+•Removal of turbine components
+•Foundation verification
+•Axial support of shaft train
+•Turning gear system
+•Cooling system optimization
+•Lube and lifting oil supply adaptation
+•Modification of protection system
+•Modification of the plant DCS
+Over 50 different projects have been 
+developed and planned with customers for 
+OEM and non -OEM plants worldwide. In the 
+meantime, projects have been realized in 
+Germany, Denmark, Sweden and USA.
+Siemens Energy offers a large pool of 
+solutions for different applications all over 
+the world for all types of generators.* brownfield / for (non) -operating power plantsSynchronous 
+Condenser
+Conversions*
+www.siemens -energy.com
+Published by
+Siemens Energy Global GmbH & Co. KG
+Otto -Hahn -Ring 6
+81739 Munich, Germany
+Siemens Energy, Inc.
+15375 Memorial Drive, Suite 700
+Houston, Texas 77079, USA
+For more information, please contact
+Email: sppa -e3000.energy@siemens -energy.com
+© Siemens Energy, 2021
+Siemens Energy is a trademark licensed by Siemens AG
+Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or performance 
+features which may not always specifically reflect those described, or 
+which may undergo modification in the course of further 
+development of the products. The requested performance features 
+are binding only when they are expressly agreed upon in the 
+concluded contract. 
+All product designations may be trademarks or product names of 
+Siemens Energy Global GmbH & Co. KG or other companies whose 
+use by third parties for their own purposes could violate the rights of 
+the owners.

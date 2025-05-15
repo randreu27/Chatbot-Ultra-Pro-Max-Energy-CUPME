@@ -1,0 +1,242 @@
+ 
+   sheet 1 of 7 
+ 
+ 
+  
+siemens -energy.com  SIPREC I  
+IGBT Inverter - HV Power Supply for Electrostatic 
+Precipitator ESP  
+
+ 
+   sheet 2 of 7 SIPREC I P ower Supply  
+The SIPREC I technology is the 4th generation of Siemens inverter technology for ESPs high voltage power 
+supply. The SIPREC I further development comes with:  
+• Modern  IGBT power semiconductors (Insulated Gate  Bipolar Transistors)  
+• PIC167 n ew generation of fully digital microcontroller unit  
+• with high speed data processing and multitasking properties  
+• SITOUCH color operating touch panel  
+• Cubicle arrangement for easy access to all components  
+• Optical interface for signal exchange with high voltage transformer rectifier set (TR set) 
+and PROFIBUS n etworking to prevent possible electrical interferences  
+• SIPREC TR500 high voltage transformer rectifier set  
+ 
+ 
+    
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+For new ESP installations we recommend installing  the SIPREC I power supply system cons isting of the 
+SIPREC I control cubicle and the SIPREC TR500  T/R set for maximum performance . For retrofitting of 
+existing ESPs,  we also offer SIPREC I Hybrid IGBT control cubicle for the reus e of existing and suitable  
+50Hz/60Hz T/R sets.  
+ 
+ 
+  
+
+ 
+   sheet 3 of 7 Advantages of SIPREC I T echnology  
+• Highest ESP collecting efficiency due to maximum corona power especially during flashover  
+processing   
+• Cost saving s of new projects because of the smaller dimensional requirements of the ESP   
+• Boosting the collecting efficie ncy of existing ESPs without much more cost intensive change in 
+the mechanical construction of the ESP  
+• Separation of control cubicle (switch room) and TR set (ESP roof)  
+• Fully  hermetically sealed TR set without require d forced cooling , withstand ing extreme industrial 
+ambient conditions (high humidity, temperature, dust, maritime/tropical climate etc.)  and 
+maintenance free operation  
+• Power factor (cos ϕ ) near 1, no compensation required  
+• 3-phase mains connection with considerably lower system perturbation  
+• Operation  in DC and pulse mode with  superordinated optimization by SIPREC ODS for maximum 
+ESP collecting efficiency at lowest power consumption  
+ 
+SIPREC I T echnology Concept  
+ 
+ 
+The SIPREC I control cubicle consists of a fuse -switch -disconnector  with semiconductor fuses , a line 
+filter, the commutation reactor , a half -controlled six -pulse bridge rectifier , the voltage link capacitors , 
+the IGBT power semiconductor modules  and SIPREC controller components.  The controlled rectifier  
+charges the voltage link and is operated like an uncontrolled diode bridge when a certain link voltage  
+
+ 
+   sheet 4 of 7 level is reached. The voltage link serves as energy stor age. The IGBT inverter can either tap energy or 
+give off energy. The inverter supplies the SIPR EC TR500 transformer rectifier , accommodated in an oil -
+filled transformer tank, with alternating current with 500 Hz. After rectification, a DC current flows 
+with short gaps in a 1000Hz pattern. The coordinating two -level current control operates with a 
+frequency of approx. 10 kHz. The short switching times enable the very fast react ion to precipitator 
+flashovers.  
+ 
+Type Range  
+Mains voltage 
+3AC 380 -690 V  Type (mA  / kV) Power  
+(kVA)  Cubicle size  
+W x D x H  
+(mm)  Cubicle 
+weight  
+(kg) Transformer 
+Rectifier set 
+weight (kg)  
+90 kV            SIPREC I     600  / 90 54 600 x 600 x 2070  270 910 
+SIPREC I   1500  / 90 135 600 x 600 x 2070  280 1110  
+SIPREC I   2200  / 90 200 800 x 600 x 2070  300 1110  
+110 kV                                                                  SIPREC I     500  / 110 55 600 x 600 x 2070  270 1160  
+SIPREC I   1500  / 110 165 800 x 600 x 2070  300 1280  
+SIPREC I   1800  / 110 200 800 x 600 x 2070  300 1480  
+ 
+ 
+   sheet 5 of 7 Increased Corona Power  
+Corona power is the product from the arithmetic 
+mean value of ESP voltage and current  
+(Pcorona  = V prec x I prec).  
+ 
+To achieve the highest possible ESP collecting 
+efficiency, the corona power supplied must be 
+as high as possible ( @ no back corona 
+conditions).  One phase ( W1C) or three phase 
+(W3C ) thyristor- controlled T/R sets cause a ripple 
+of the ESP voltage  (VR = V max - V min) and non-
+continuous DC current b ased on the circuit 
+concept . The voltage ripple value, depending in 
+addition on the thyristor control angle, is typically in the range of ⅓ – ⅔ of V
+max. The 
+arithmetic average values for ESP voltage and 
+curren t are therefore much less than the peak 
+values.  
+Due to the very fast SIPREC I IGBT switching time 
+(10 µsec) and  inverting frequency of 500Hz , the 
+SIPREC TR500 output voltage is nearly ripple-
+free in any working point at every output 
+current .  
+As a matter o f this , the mean value for ESP 
+voltage and current is increased up to the peak values. As a result of this depending on the V / I 
+characteristic , the corona power supplied by 
+SIPREC I can be more than doubled compared to 
+thyristor- controlled  T/R sets . The ESP voltage and therefore the ESP current is 
+limited when reaching the flashover limit value V
+FO due to the appearance of electrical 
+discharges (flashover, spark) .  
+ 
+Flashover / sparks must be detected 
+immediately  and t he short -circuit currents 
+feeding the arc must be stopped as quick as 
+possible to keep the ESP voltage and current 
+values or to enable  the fast recover y.  
+Based on the very short SIPREC I IGBT switching 
+times , these short -circuit currents  are switched -
+off within some µsec only exactly when 
+necessary , which is much faster compared to 
+the thyristor technology .  
+Therefore,  the required de-ionization time  for 
+non-self- quenching flashover is much lower,  
+and the ESP voltage  / current  values are  
+recovered within some milliseconds only. 
+Detected self -quenching flashover (sparks) are 
+processed without a ny de -ionization time.  
+This leads to remarkable increased ESP 
+collecting efficiency during flashover processing typical for all ESP gas inlet fields.
+  
+Partial  discharges typical for wet ESP's are 
+difficult to detect by common detection methods. Not detected discharges however lead 
+to damages on the ESP electrode system, ESP 
+casing or insulators. SIPREC I provide in addition to the common flashover / spark detection a 
+
+ 
+   sheet 6 of 7 special detection for partial  discharges to 
+prevent the formation of arcs and to protect the 
+wet ESP.  
+ 
+Optimum Operating Point with 
+Fuzzy Logic  
+The ESP voltage V prec must be adapted 
+continuously to the flashover limit V FO.  
+VFO varies depending on actual operating 
+conditions (dust concentration  / composition, 
+gas humidity, gas temperature etc.).  
+Fuzzy logic adapts the behavior of the power supply to the best possible operating point and 
+the fast power electronics carries out the 
+commands of the overlaid control even faster 
+than the reaction time of the precipitator.  
+ 
+Collecting Electrode Rapping  
+Besides voltage supply, the effectiveness of collecting electrode rapping is of key 
+importance to achieve best possible dry ESP 
+collection efficiency.  
+To ensure effective collecting electrode rapping, the rapping intervals must  be individually 
+optimized for each electric field to suit the respective operating conditions.  
+In applications involving highly resistive dust or 
+dust wi th a pronounced sticking behavior, the 
+precipitator voltage may have to be reduced or 
+even cyclically blocked during electrode 
+rapping.  
+The c ollecting electrode rapping can  be 
+controlled by SIPREC I  or the rapping signal of 
+the external control (PLC / DCS) can be 
+connected to SIPREC I.  
+The SIPREC I controller provide  10 selectable 
+rapping parameter sets which are adjusted and activated in accordance with the respective 
+process conditions  (e.g. rappin g mode , interval 
+settings , rapping current  decrease, power -off 
+cycle) .  
+The c oordination of the rapping intervals in the 
+individual electric fields is accomplished with the aid of the SIPREC ODS system.  
+ 
+Addon: SIPREC ODS  
+The SIPREC ODS program based on WINDOWS 
+operating system supports the S IPREC HV  power 
+supply systems for central operation, 
+visualization, data archiving of measured 
+operating values, for optimization of the ESP 
+operation  and diagnostic purposes.  
+SIPREC ODS optimize the ESP coll ecting 
+efficiency at lowest power consumption. The 
+extensive diagnostic functions enable beside 
+the fault analysis the evaluation of the ESP 
+operating process and provide information for 
+the predictive maintenance. Furthermore, the 
+diagnostic functions als o form the basis for the 
+fast and inexpensive Siemens Energy remote service.  
+ 
+For further information please see our separate SIPREC ODS brochure .
+
+ 
+        sheet 7 of 7 
+ 
+Take advantage from our experience  
+ 
+We are looking forward answering your questions concerning the modernization of ESP high voltage 
+power supplies, the data exchange to the PLC / DCS, the possible increase in ESP collecting efficiency, 
+potential for power savings or other questions related to the ESP operation.  
+Just get in contact with us.  
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG  
+SE GP G IC DE Electrostatic Precipitator  
+Freyeslebenstrasse 1,  
+91058  ERLANGEN, Germany  
+For more information, please visit our website:  
+www. siemens -energy.com  
+Or sent an email to :  siprec.energy@siemens -energy.com  
+Subject to changes and errors. The information given in this document 
+only contains general descriptions and/or performance  
+features which may not always specifical ly reflect those  
+described, or which may undergo modification in the course of  
+further development of the products. The requested performance  
+features are binding only when they are expressly agreed upon in  
+the concluded contract.  
+ 
+Siemens Energy is a regi stered trademark licensed by Siemens AG.    
+   

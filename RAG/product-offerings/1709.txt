@@ -1,0 +1,398 @@
+Siemens Energy is a trademark licensed by Siemens AG.
+First EU Innovation 
+Conference
+Workshop -Decarbonization of Gas Turbines with Hydrogen
+and Green Fuels
+March 26, 2025, Innovation Center Berlin
+Frida Björneld , Ghenadie Bulat
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Agenda
+2
+1 2 3
+Introduction
+~15 
+The role of Green Fuels in the 
+future Energy LandscapeChallenge No.1
+~15
+Economic and Environmental 
+Impact Forecast
+Formulate Key -Take -Aways ~5Challenge No.2
+~15
+Stakeholder Engagement 
+Strategy
+Formulate Key -Take -Aways ~5
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-264
+Closing
+~5
+Summary & How to partner 
+with SE
+2025 -03-26
+Gas Power Plants operating with Decarbonized Fuels will ensure Security of 
+Supply by providing Residual Load in grids largely dominated by Renewables
+3 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26Residual Load Definition
+Remaining load required to bridge the gap between demand 
+and renewable energy production at any point in time. 
+Characteristics of Residual Load
+•For regions with high RES penetration, the residual load demand 
+may drop to 15 –25% of the hours of the year
+•New build residual load gas power plants must be ready to be upgraded 
+to decarbonized fuels (e.g., hydrogen, bio -or e-fuels) as soon as these 
+fuels become available 
+•Future RES load surpluses will increasingly be used to produce 
+the H2required for later re -electrification especially to cover seasonal 
+RES variationsActual data from 2022
+Simulated data with 86% RES (after 2030)
+Residual load (NG)
+Residual load (decarbonized)
+Source: Agora Energiewende , Future Agorameter , Data for January 15 –31, 2022
+2025 -03-26
+Long Duration Residual Load Events are expected to increase due to more 
+long -lasting stable weather condition events
+4 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025 2025 -03-26
+“Dark doldrum” event January 2017
+Same event with simulated 86% RES coverage
+1 Study Lehmann/ Coumou , Nature Scientific Reports (2015) There are prolonged “dark 
+doldrum” periods of 3 –4 weeks 
+with a continuous lack of sun 
+and wind, which will also
+persist in the future.
+Due to climate change, climate 
+experts1predict more frequent 
+and longer persistent weather 
+events, making residual load 
+events lasting longer in future.Conclusions
+1.These long -term residual load events require a 
+suitable level of capacity of gas -fired power 
+plants operating with H2(batteries are not 
+suited for such long durations)
+2.Residual load shows significant seasonality; in 
+colder countries 
+it tends to happen in winter, creating 
+simultaneously a 
+“residual heat” event 
+3.As a consequence , residual load plants should 
+include Cogeneration wherever feasible!
+2025 -03-26
+Decarbonization pathways for gas turbines
+Hydrogen, sustainable fuels or carbon capture
+5
+                
+      
+         
+          
+            
+        
+            
+                          
+          
+               
+                                            
+          
+          
+                 
+                
+               
+              Renewable 
+Energy
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Hydrogen does not produce CO2emissions, but challenging 
+physical properties require rapid design and testing cycles
+7•H2embrittlement requires upgrade to stainless steel materials  
+•Lower volumetric energy content requires larger flows to be handled by 
+the fuel system 
+•Higher diffusivity requires changes/re -certification of sealing and flanges
+•Higher reactivity and flame velocity pushes flame towards burner 
+and increases risk of flashbacks
+•Higher flame temperature can lead to local hotspots if imperfectly mixed 
+and thus increased NOxemissions
+High -pressure testing 
+at engine conditions
+High-pressure burner tests 
+combined with full engine tests
+Values shown are relative to natural gas (indicative only) 100
+80
+60
+40
+20
+0
+0 10 20 30 40 50 60 70 80 90 100600
+500
+300
+100
+20
+-100200400
+Rel. flame speed (%)Rel. CO2 emissions (%)
+H2(% vol)
+Rel. CO2
+Rel. flame speedChallenges
+Combustion Test 
+Center in BerlinZEHTC -Zero Emission 
+H2Test center 
+(Finspong /SWE)Burner Tests Engine TestsRapid prototyping 
+using AM
+Additive manufacturing 
+reduces lead time and 
+enables better designsHigh fidelity 
+CFD
+High fidelity CFD tools like 
+LES can provide automated 
+optimized designs
+1 2
+3
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Hydrogen co -firing capabilities of Siemens Energy gas turbines
+Heading towards 100% with full fuel flexibility H2→ Natural Gas
+8H₂capabilities 
+in vol. %
+CO₂
+reduction¹
+50 Hz 60 Hz 50 Hzand 60 Hz23% 11% 11% 11% 23% 11% 11% 11% 47% 17% 47% 47% 11%5%/ 
+100%11%/
+36%11%/
+36%11%2%/
+11%530 3050
+30 30 3050
+30 30 3075
+4075100
+1575
+65
+3065
+30 30
+Power output in MW at ISO ambient conditions and natural gas | 1Compared with 100% natural gas operation DLE burner WLE burner Diffusion burner with unabated NOₓ emissionsSGT5 -9000HL
+593 MW
+SGT5 -8000H 
+450 MW
+SGT5 -4000F 
+329/385 MW
+SGT5 -2000E 
+198 MW
+SGT6 -9000HL 
+440 MW
+SGT6 -8000H 
+310 MW
+SGT6 -5000F
+215 to 260 MW
+SGT6 -2000E
+117 MW
+SGT-800
+50 to 62 MW
+SGT-750 
+40/34 to 41 MW
+SGT-700
+33-35/34 -36 MW
+SGT-A35
+27 to 37/28 
+to 38 MW
+SGT-600
+24/25 MW
+SGT-400
+10 to 14/11 
+to 15 MW
+SGT-300
+8/8 to 9 MW
+SGT-100
+5/6 MW
+SGT-A05
+4 to 6 MW
+SGT-50
+2 MW
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+H2Ready Concept with TÜV Süd Certificate
+SE is able to offer H2ready power plants to customer H2requirements
+12
+New build power plants prepared for later retrofit to hydrogen (“H2ready plants”)
+when immediate H2operation is not required/possible yet:
+•Optimized equipment configuration meeting future plant H2roadmap 
+•Plant with low additional front -end investments
+•Offering allows for future H2retrofit with low costs/disruptions
+•Backed by TÜV Süd Certification scheme for bidding, construction and retrofit phases
+The Certificate confirms that SE offering is H2ready according to technical
+requirements and customer specific boundary conditions considering:
+Areas Equipment/Systems considered
+Fuel Supply Materials, sizing, aux. fuel, metering, additional systems...
+Gas Turbine Combustion System, Burner, Package Systems, etc.
+Fire/Ex Protection Fire/Ex protection concepts, space provision for inert. system
+HRSG Materials, temperatures, purging requirements
+I&C & Electrical Design acc. to IIC1
+Safety Safety Integrity Levels definition and designTÜV Süd Concept 
+Certificate
+for Bidding Phase
+1) or equivalent NFPA requirement, e.g., “NEC 500 Class I Div. 2 Group B.”
+2025 -03-26 Unrestricted  © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Bio-diesel in gas turbines 
+HVO100 & FAME (RME)
+16
+Cooperation
+Göteborg Energi and Siemens Energy operated 
+gas turbines 2021 on bio -diesel at Rya CHP
+Reference
+Stockholm Exergi back -up power plant on HVO100 
+Commercial operation 2023Characteristics
+HVO100 behaves closer to an ordinary diesel fuel and is within 
+our current fuel specification whereas FAME (RME) differs more, 
+especially regarding the distillation curve and viscosity.Testing
+HVO100 was 2021 tested in SGT -800 at customer 
+Göteborg Energi’s site Rya CHP. 
+HVO100 has since been released as an 
+approved gas turbine fuelPortfolio Elements 
+3 x SGT -800 gas turbine
+Portfolio Elements 
+1 x SGT -800 gas turbine
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025
+Methanol as a green fuel for gas turbines
+17Emissions reduction 
+and decarbonization
+Demonstrated safe operability 
+with retrofittable solution
+Established global market 
+and safe handling•Easy to handle liquid fuel at atmospheric conditions, ideal alternative to diesel
+•Methanol is readily available with established methods for safe handling and transportation
+•Maintain skilled workforce in power generation and industrial applications whilst 
+increasing life of existing infrastructure
+•Attractiveness of green methanol as shipping fuel and diesel substitute may 
+generate a large supply base long term•10% reduction in CO2emissions from direct combustion (grey methanol). 
+Bio-and e -methanol offer significant additional carbon footprint reduction 
+up to carbon neutrality
+•Up to 80% reduction in NOxemissions compared with traditional liquid fuels –
+improving air quality and reducing smog
+•Eliminates SO2, smoke, and less PM due to cleaner burn
+•Demonstrated methanol capability on several gas turbine models
+•Safe operation from start -up to full power
+•Demonstrated auxiliary systems required to operate 
+gas turbine on methanol fuel
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+SGT-A20 Bio -methanol 
+demonstration test
+18NOx emissions (ppm 15% O2)
+Gas turbine speed (rpm)SGT-A20 non -DLE NOx emissions
+80% 
+reduction 
+in NOxGas turbine exhaust gas horsepowerGas turbine exit temperature (K)SGT-A20 non -DLE exhaust gas power vs. exit temperature
++10% 
+power
+Worlds first demonstration of SGT -A20 operating on 
+Bio-methanol at RWG test facility, Aberdeen in partnership
+with Net Zero Technology Centre (NZTC)
+Significant emissions reductions –60% less CO2footprint, 
+80% reduction in NOx, reduced CO, no SO2and smoke 
+due to cleaner burn and lower flame temperature
+10% power improvement at same operating temperature 
+and 4% increase in thermal efficiency
+Safe gas turbine handling including, start -up, full power, 
+shut down and transient operation
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025
+Ammonia is an attractive fuel for Regions that will have no access to 
+pipeline fed green H2and need to import energy 
+Three alternatives for re -electrifying NH3appear possible
+19Ammonia production
+(overseas)Ammonia re -electrification
+in country of destinationOceanRenewable 
+EnergyElectrolysis 
+PlantAmmonia 
+SynthesisDeep Sea 
+TransportCentralized 
+NH3Cracker (with 
+integrated GT for 
+high efficiency)H2Backbone 
+NetworkHydrogen Power 
+Plant
+Ammonia Power Plant 
+(direct combustion)
+Ammonia Power Plant 
+with integrated 
+decentral cracker
+Centralized 
+Cracking
+Decentralized 
+CrackingDirect 
+Combustion
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Siemens Energy is the right partner for carbon -neutral fuels 
+in gas turbines in a fully decarbonized energy world
+22
+1
+2
+3
+4
+5Gas turbines, CCPPs and CHP Plants are indispensable technologies for providing 
+carbon -neutral residual power and heat in a future decarbonized energy landscape
+While hydrogen is the most attractive carbon -neutral fuel for gas turbines, 
+local conditions may require other green fuels as an alternative
+Both biogenic fuels and hydrogen derivatives can act as alternative carbon -neutral 
+fuels and can be easily transported and stored onsite in liquid form
+Siemens Energy is working on fielding a comprehensive green fuel capability 
+for its turbines, based on hydrogen, biofuels and hydrogen derivates
+Inthe case of e -ammonia, Siemens Energy is prioritizing an optimized integration of 
+ammonia cracker units.
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+Challenge No.1
+Economic and Environmental Impact Forecast
+23 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Forecast the potential economic and environmental impacts of transitioning to hydrogen and green fuels. 
+This should include an estimation of emission reductions and a cost -benefit analysis
+•What is your motivation to support the shift to hydrogen & green 
+fuels for the use in gas turbines?
+•In your daily work, what hinders you to reach your decarbonization 
+targets?
+2025 -03-26
+Challenge No.2
+Stakeholder Engagement Strategy
+24 Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Outline a strategy for engaging key stakeholders (e.g., suppliers, regulatory bodies, local communities) 
+in your decarbonization journey. This strategy should address communication, collaboration, and 
+education efforts.
+•Whom do you consider as most relevant stakeholders for a successful 
+decarbonization of gas turbines?
+•How are you interacting with your stakeholders today?
+•Where do we need to focus on going forward?
+2025 -03-26
+Siemens Energy is a trademark licensed by Siemens AG.Workshop Summary
+Decarbonization  of Gas Turbines  with Hydrogen and Green Fuels 
+Frida Björneld / Ghenadie Bulat
+Overview
+The workshop, held over the course of one hour, featured insightful presentations and engaging discussions on decarbonization of Gas Turbines with Hydrogen and Green Fuels.
+Participants from various backgrounds came together to share their perspectives and expertise, creating a dynamic and collabo rative learning environment.
+Presentations
+• Frida Björneld lead the introduction to the SE GS strategy and new product portfolio for Gast turbines operation on Hydrogen and green fuels
+• Ghenadie Bulat: lead facilitate the panel discussion 
+Discussions
+Morning Session:
+•Business Case Representation: Decisions on investing in alternative fuels cannot be secured without well -prepared business cases. However, if there is longer visibility of upcoming 
+projects expected to generate revenue, a different approach might be considered.
+•Legislation and Fuel Availability: Clearer legislation and fuel availability are needed to support investment decisions and maintain energy security. This inclu dessupply chain 
+readiness and legislative lobbying.
+•Focus on Options: There is a lack of focus on fuel and the lifecycle of solution options, which do not provide a clear roadmap .
+Afternoon Session:
+•Technical Challenges: Discussions centered around the technical challenges of adopting new fuels and the operational requirements of adapted or new products.
+•Fuel Availability and Flexibility: Long -term facilities and supply chain planning face difficulties in foreseeing fuel availability and type at the time.
+•Regulatory Constraints: Actions to accelerate and lobbying mechanisms were discussed, with university participants highlighting the use of new lobbyi ngtools 
+•Participant Diversity: The workshop featured a diverse pool of participants with different approaches and interests, including utilities, academics, and a few suppliers.
+Your topic
+Whom to talk to for details? 
+26Frida Björneld
+VP Product Management for Gas Services 
+Siemens Energy –SE GS PRM
+E-mail frida.bjoerneld@siemens -energy.com
+Ghenadie Bulat
+Head of New Technologies
+Siemens Energy –SE GS PRM NT
+E-mail ghenadie.bulat@siemens -energy.com
+Unrestricted © Siemens Energy, 2025 | 1stEU Innovation Conference 2025Antonio Segarra Lleixà
+Head of Business & Technology Evaluation
+Siemens Energy –Innovation Center Berlin
+Phone +34 629 48 94 03
+E-mail antonio.segarra.ext@siemens -energy.com
+Thank you !
+2025 -03-26
+27H2whitepaper Hydrogen power with 
+Siemens Energy gas turbines | 2022 Siemens Energy Sustainable Fuels web page
+Siemens Energy Sustainable Fuels web pageDecarbonization pathways for gas turbines – white paper
+Decarbonization pathways for gas turbines –white paper
+Hydrogen Decarbonization Calculator
+Hydrogen Decarbonization CalculatorHydrogen Power Plants
+Hydrogen Power Plants
+Zero Emission Hydrogen Turbine Center (ZEHTC) 
+Brownfield Exchange (BEX) Further 
+information
+2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025
+
+LET’S MAKE TOMORROW DIFFERENT TODAY
+28 2025 -03-26 Unrestricted © Siemens Energy, 2025 | 1st EU Innovation Conference 2025

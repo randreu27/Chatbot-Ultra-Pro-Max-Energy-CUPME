@@ -1,0 +1,518 @@
+  
+ 
+Allgemeine Geschä ftsbedingungen der Sieme ns Energy  AG zum Service (Version 04.2021)  
+ 
+    
+© Siemens  Energy 202 1   
+ Die vorliegenden Allgemeinen Bedingungen der Siemens 
+Energy AG zum Service (nachfolgend ABS) sind verbindlich, 
+wenn sie in unserem Angebot  / Auftragsbestätigung oder 
+unserem Rapport  als anwendbar erklärt werden. 
+Anderslautende Bedingungen des Kunde n haben  nur dann 
+Gültigkeit, wenn sie von uns au sdrücklich und schrift lich 
+akzeptiert worden sind.  
+ 
+A. DEFINITIONEN  
+A.1 System : Die Hard - und Software, die Gegenstand des 
+Servicevertrages  oder der Leistungen nach Aufwand sind. 
+Der Begriff „Anlage“ kann synonym verwendet werden.  
+A.2 Serviceleistungen : Servicevertragsleistungen (Ziffer  A.5) 
+und Leistungen nach Aufwand (Ziffer A.3) gemein sam.  
+A.3 Leistungen nach Aufwand : Leistungen, welche wir nach 
+Aufwand zur Erhaltung, Wiederherstellung oder 
+funktionell en Erwe iterung der Betriebsbereitschaft eines 
+Systems erbringen  (Ziffer B) . 
+A.4 Servicevertrag : Individualteil mit kundenspezifischen 
+Angaben und Vereinb arungen.  
+A.5  Servicevertragsleistungen : Alle Leistungen gemäss 
+Service vertrag  (Ziffer C)  
+A.6 Serviceb ereitsc haft: Erreichbarkeit und Bereitstellung 
+von g eeigneten Personal - und Sachmit teln für eine rasche 
+und wirk same Intervention im St örungsfall während der im 
+Servicever trag vereinbarten Serviceberei tschaftszeit.  
+A.7 Normalarbeitszeit : Werktage von M ontag b is Freitag, 
+jeweils von 0800 Uhr bis 1700 Uhr unter Ausschluss der 
+gesetzlichen Feiertage an unsere m Servicestandort.  
+A.8 Pikettdienst : Die Erweiterung der Servicebereitschaft 
+über die Normalarbeitszeit hinaus.  
+A.9 Service  Call Desk : Unsere zentra le Stel le für die 
+Annahme von Störungsmeldungen und deren 
+Weiterleitung an die bei uns zu ständige Person. Die 
+Telefon - und Telefaxnummer sowie gege benenfalls die 
+Internet - oder E -Mailadresse des Service Call Desk sind 
+im Servicevertrag aufg eführt. Der Be griff „ Helpline “ kann 
+synonym  verwendet we rden.  
+A.10 Reaktionszeit : Zeitspanne zwischen dem Anruf des 
+Kunden beim Service Call Desk bis zu unserer ersten 
+fachkundigen te lefonischen Unterstützung während der 
+Servicebereitschaft szeit.  
+A.11 Interventionsz eit: Zeitspanne zwischen dem Anruf des 
+Kunden beim Service Call Desk bis zu unserem ersten 
+fachkundi gen Eingriff am System per Fer nzugriff oder 
+Zugriff vor Ort während der Se rvicebereitschaftszeit.  
+A.12 Fernzugriff : Die Serviceleistungen zur Fehlerdiagn ose, 
+Störungsbehebung oder Überwachung des Systems, die 
+von unse rem Personal von einem unserer Support Center 
+oder einer mobilen Station aus über Mittel der 
+Telekommunikation erfol gen (Internet, Telefon - oder 
+Datenle itung).   
+A.13 Zugriff  vor Ort: Die S ervicel eistungen, die am Standort 
+des Systems erbracht werden.  
+A.14 Update : Korrigierte und / oder weiterentwickelte Fassung 
+der Sof tware des Systems ohne funktionelle Erweiterung.  
+A.15 Upgrade : Korrigierte und / oder weiterentwickelte 
+Fassung der Softwar e oder der Hardware des Systems 
+mit funktioneller Er weiterung.  
+A.16 Höhere  Gewalt : Hindernisse, die wir trotz Anwendung 
+der gebotenen Sorg falt nicht abwenden können, 
+unge achtet, ob diese bei uns, beim Kunden oder bei 
+einem Drit ten entstehen. Als solche Hi ndernis se gelten 
+beispielsweise behö rdliche Massnahmen oder 
+Unterlassun gen; Auf ruhr, Mobil machung,  Krieg; 
+Arbeitskonflikte, Aus sperrungen, Streiks, Un fälle und an -
+dere erhebliche Betriebs störun gen; Epidemien, 
+Naturereig nisse; terroristische Aktivit äten.  
+ 
+ 
+ B. LEISTUNGEN NACH AUFWAND  
+1.  Gegenstand  
+1.1 Wir erbringen – ohne dass ein Servicevertrag besteht – 
+während der Normalarbeitszeit Leistungen nach Aufwand  
+gemäss  individueller Verein barung zwischen uns und dem 
+Kunden . Sofern es uns möglich ist, erbringen wir auch  
+ausserhalb der Normalarbeitszeit  Leistungen nach 
+Aufwand ; diesfalls werden Überzeit - und Pikett zuschläge 
+verrechnet.  
+2.  Kosten und Zahlungsbedingungen  
+2.1 Wir verrechnen die erbrachten Leistungen  nach Aufwand 
+und allfällige Zuschläge zu den Ansätzen gemäs s unserer 
+zum Zeitpunkt der Leistungserbringung gültigen Preisliste.  
+2.2 Unsere Rechnungen sind ohne Skonto und ohne jeden Ab -
+zug innert 30 Tagen nach Rechnungsstellung fällig. Eine 
+Verrechnung mit Gegenforderungen ist nicht zulä ssig. 
+2.3 Hält der K unde die vereinbarten Zahlungstermine nicht ein, 
+so gerät er ohne Mahnung in Verzug und hat ab dem 31. 
+Tag nach Rec hnungsstellung einen Verzugszins von acht 
+Prozent p.a. zu entrichten.  
+C. SERVICEVERTRAGSLEISTUNGEN  
+Hat der Kunde einen Servicevertrag (Ziffer A.4) mit uns ge-
+schlossen, finden zudem die Bestimmungen dieser Ziffer C. 
+Anwendung : 
+3. Gegenstand   
+3.1 Wir stehen  während  der im Servicevertrag vereinbarten 
+Serviceb ereitschaftszeit für die Erbringung der  Service -
+vertrags leistungen  zur Verf ügung.  
+3.2 Fehlerm eldungen muss der Kunde an d en Service Call 
+Desk melden. Ausserhalb der Normal arbeitszeit muss dies 
+per Telefon erfolgen .  
+3.3 Wir nehmen innerhalb der im Servicevertrag vereinbarten 
+Reaktionszeit telefonisch Rücksprache mit dem Ku nden, 
+klassifizieren di e ei ngegangene Fehlermeldung und 
+beginnen in nerhalb der im Se rvicevertrag vereinbarten 
+Interventionszeit mit der Fehlerbeh ebung.  
+3.4 Für den Fall, dass wir gemeinsam vereinbarte Zeiten und 
+Fristen aus eigenem Verschu lden nicht einhalten, ist der 
+Kunde zu  einer im Servicevertrag zu vereinbarenden Gut -
+schrift berechtigt. Die Gutschriften insgesamt sind 
+beschränkt auf maximal zehn Prozent de r pauschalen 
+jährlichen Service gebühr. Weitergehende Ansprüche des 
+Kunden aus Verzug, insbesondere Schadenersatz an-
+sprüc he, sin d ausgeschlos sen. 
+3.5 Beanstandete fehlerhafte Teile des Systems werden nach 
+unserer  Wahl durch Reparatur oder Ersatzlieferung 
+instand gesetzt .  
+3.6 Wir sind  berechtigt, die mit der Fehlersuche verbundenen 
+Kosten zusätzlich zu verrechnen , wenn bean stand ete 
+Fehler weder feststellbar noch reproduzierbar sind oder 
+ihre Ursache ausserhalb des Systems h aben.  
+4. Vom Kunden  zusätzlich  gewünschte Leistungen  
+4.1 Vom Kunden gewünschte, über den im Servicevertrag ver -
+einbarten Umfang hinausgehende Leistungen si nd im 
+Voraus schriftlich zu vereinbaren . Hierfür finden  zusätzlich  
+die Be stimmungen gemäss Ziffer B . Anwendung.  
+5. Pflichten und Obliegenheiten des Kunden  
+5.1 Der Kunde lässt sämtliche Arbe iten am System 
+ausschliess lich durch uns oder durch von uns vorgängi g 
+autor isierte Dritte durchfü hren. 
+5.2 Der Kunde wird die massgeblichen Betriebs - und Bedie -
+nungsanle itungen beachten und insbesondere die für das 
+System genehmi gten Umgebungswerte einhalten.  
+5.3 Können wir eine Servicevertragsleistung beim Kunden aus 
+von ihm zu  vertretenden Gründen  nicht zeitgerecht oder 
+sachgemäss erbri ngen, so sind wir berechtigt, die daraus 
+resultierenden Kosten zu verrechnen .  
+   
+ 
+ 
+Allgemeine Geschäftsb edingungen der Siemens Energy  AG zum Servicevertrag (Version 04.2021)  
+  
+  
+ 
+© Siemens Energy 202 1   Seite 2 von 4 
+ 6. Kosten , Indexi erung, Zahlungskonditionen  
+6.1 Die pauschalen Servicegebühren berechnen sich aus den 
+vereinbar ten Lei stungen gemäss Servicevertrag.  
+6.2 In den pauschalen Servicegebühren nicht eingeschlossen 
+sind Leistungen , die nach Aufwand abgerechnet werden , 
+die zusätzlich auf Wunsch des Kunden erfolgen  (Ziffer 
+C.4) oder die ihre Ursache ausserhalb des Systems 
+haben.  
+6.3 Wir sind berechtigt, die pauschalen Servicegebühren neu 
+festzusetzen, falls sich der Lohnindex des Swissmem  
+(ehemals „ASM Arbeitgeberverband der Schweizer 
+Maschine nindustrie“ ) ändert oder falls Änderungen des 
+Serviceumfanges eing etreten sind.  
+6.4 Unsere Rechnungen sind ohne Skonto und ohne jeden 
+Abzug innert 30 Tagen nach Rechnungsstellung fällig. 
+Eine Verrech nung mit Gegenforderungen ist nicht 
+zulässig. 
+6.5 Hält der Kunde die vereinbarten Zahlungstermine nicht 
+ein, so gerät er ohne Mahnung in  Verzug  und hat ab dem 
+31. Tag nach Rec hnungsstellung einen Verzugszins von 
+acht Prozent  p.a. zu entrichten. Gerät der Kunde mit der 
+Beza hlung der ge schuldeten Vergütung um mehr als drei 
+Monate in Verzug, sind wir berechtigt, die weitere 
+Erbri ngung der Serviceve rtrags leistungen einzustellen. 
+Das Recht zur vorzeitigen Vertragsauf lösung behalten wir 
+uns au sdrücklich vor.  
+7. Vertragsdauer, Kündigung  
+7.1 Der Servicevertrag (inkl. dieser ABS) tritt mit der 
+rechtsgült igen Unterschrift beider Vertragspartner zum im 
+Servicevertrag ver einbarten Termin in Kraft. Wir zeichnen 
+kollektiv zu zwe ien. 
+7.2 Der Servicevertrag wird für die vereinbarte 
+Mindestlaufzeit und da rüber hinaus – sofern im 
+Servicevertrag keine Maximallauf zeit vereinbart ist – auf 
+unbestimmte Dauer a bgeschlossen.  
+7.3 Jeder Vertragspartner ist berechtigt, den Servicevertrag 
+(inkl. dieser ABS) unter Einhaltung einer Kündigung sfrist 
+von drei Monaten auf Ende eines Kalenderjahres, 
+frühestens aber zum Ende der verei nbarten 
+Mindestlaufzeit, schriftlich zu kündige n, sofern nicht 
+anders verei nbart.  
+7.4 Jeder Vertragspartner ist berechtigt, den Servicevertrag 
+(inkl. dieser ABS) aus wichtigem Grund mit sofortiger 
+Wirkung schriftlich zu kündigen . Ein wichtiger Grund liegt 
+insbeson dere vor : (a) bei schuldhafter schwere r 
+Vertragsverletzung durch den and eren Vertragspartner, 
+welche trotz schriftlicher Abmah nung nicht innert 
+angemessener Nachfrist vollständig bese itigt wird; oder  
+(b) w enn der andere Vertragspartner dauerhaft zah -
+lungsunfähig ist oder gegen ihn ein Konkurs - oder 
+Nachlas sverfahren beantragt oder eröffnet wird oder 
+mangels Masse die Eröffnung a bgelehnt wird.  
+7.5 Wir sind berechtigt, den Servicevertrag (inkl. dieser ABS) 
+mit s ofortiger Wirkung schriftlich zu kündigen, falls das 
+System durch u nsachgemäs se Beha ndlung seitens des 
+Kunden oder Dritter oder i nfolge höherer Gewalt schwer 
+beschädigt oder un brauchbar wird. Ein solches Ereignis 
+hat uns der Kunde unver züglich mitzuteilen. Die 
+Vergütung berechnet sich in diesem Fall pro rata 
+temporis. Schadenersa tzanspr üche beha lten wir uns vor.  
+7.6 Nach Beendigung des Servicevertrages (inkl. dieser ABS) 
+ist der Kunde berechtigt, die letzte von uns installierte 
+Ausgabe der Sof tware weiterhin gemäss den für diese 
+geltenden Nut zungsbedingungen zu nu tzen. D. ALLGEME INE BES TIMMUNGEN  FÜR SERVICE -
+LEISTUNGEN  
+8. Allgemeines  
+8.1 Die Serviceleistungen werden nach unserer Wahl durch 
+Fernzugriff, Zugriff vor Ort oder bei uns erbracht.  
+8.2 Wir sind berechtigt  Subunternehmer beizuziehen und 
+haften für deren Serviceleistungen wie für un sere eigenen.  
+8.3 Ersatzteile werden gemäss den gültigen Listenpreisen ver-
+rechnet. Ersatzteile können neu oder neuwertig sein. 
+Soweit fehlerhafte Teile ersetzt werden, gehen die 
+ausgewechselten fehlerhaften Teile in unser Eigentum 
+über. Ersatzteil e gehen in das Eigentum des Kunden über, 
+sobald sie vollständig b ezahlt sind.  
+8.4 Hardwarelieferungen erfolgen EXW, Zürich  (Incoterms 
+2020). 
+8.5 Software und Dokumentationen  übermitteln wir auf einem 
+geeign eten Datenträger unserer Wahl.  
+8.6 Der Kunde ist  verpflic htet, uns die für die Serviceleistungen 
+notwendigen Informationen und Unterlagen vor B eginn der 
+Ausführung der Serviceleistungen zur Ve rfügung zu stellen.  
+8.7 Der Kunde ist für die regelmässige Sicherung seiner Daten 
+selber verantwortlich.  
+8.8 Der Kunde verschafft uns den zur Ausführung der Service -
+leistungen erforderlichen Zugang zum System und stellt die 
+notwendigen Übermittlungsgeräte, Netzwerkanschlüsse 
+und A rbeitsplätze zur Verfügung.  
+8.9 Der Kunde stellt uns, während der zu erbringenden 
+Serviceleistungen einen fachkompetenten Ansprec hpartner 
+zur Ver fügung und informiert uns unaufgefordert über die 
+bei ihm geltenden S icherheitsvorschriften.  
+8.10 Der Kunde anerkennt unser ausschliessliches Verfügungs -
+recht an unseren  am Standort befindlichen  Werkze ugen.  
+9. Geheimhaltung und Datenschutz  
+9.1 Wir verpflichten uns, alle im Zusammenhang mit unseren 
+Serviceleistungen vom Kunden erhaltenen Unterlagen und 
+Informationen, ein schlie sslich aller hiervon erstellter Kopien 
+bzw. Aufzeichnungen  sowie jene Un terlagen und 
+Informationen, wel che wir für den Kunden e rarbeiten 
+werden, jederzeit, auch nach B eendigung der 
+Serviceleistungen , wie eigene Betriebs gehei mnisse 
+vertraulich zu behandeln, firmen - und konzernin tern nicht 
+unnötig zu verbreiten und Dritten - ausgenomme n 
+Subu nternehmer unter Vorbehalt von Ziffer D. 9.3 - weder 
+gesamthaft noch auszugs weise zugängl ich zu machen. 
+Diese Verpflichtung gilt nicht für solche Unterlagen und 
+Informa tionen, die nachweis lich (a) ohne  Verletzung dieser 
+Geheim halteverpfli chtung al lgemein bekannt gewor den; 
+oder (b) ohne Geheimhalteverpflich tung rechtmässig von 
+Dritten erlangt ; oder (c) von uns unabhängig erarbeitet 
+worden sind.  
+9.2 Soweit wir bei unseren Arb eiten an System und 
+Dokumenta tion personen bezogene Daten verarbeit en, 
+werden wir die Weisungen des Kunden und die 
+Datenschutz gesetze beach ten und entsprechende 
+Massnah men zur S icherung solcher Daten vor unbe fugtem 
+Zugriff Dritter treffen.  
+9.3 Wir sind berechtigt, Unterlagen und Infor mationen soweit 
+erforderlich an Subu nternehme r weiterzugeben, so fern 
+diese vorgängig entspre chend dieser Bestimmung 
+schriftlich ver pflich tet wo rden sind.  
+9.4 Der Kunde wird all jene von uns erhaltenen Unterlagen, die 
+mit e inem Vermerk wie "ver traulich", "confi dentia l" oder 
+"Fabrikationsgeh eimnis" e tc. gekennzeichnet sind, 
+entsprechend den vorsteh enden Bestimmungen vertraul ich 
+behandeln und Dritten nicht zugänglich m achen.  
+   
+ 
+ 
+Allgemeine Geschäftsb edingungen der Siemens Energy  AG zum Servicevertrag (Version 04.2021)  
+  
+  
+ 
+© Siemens Energy 202 1   Seite 3 von 4 
+ 10. Rechte an Hard - und Software und Dokumentat ion  
+10.1 Das geistige Eigentum an der von uns gelieferten Hard - 
+und Sof tware , einschl iesslich deren Änderungen wie auch 
+an den Dokumentatio nen gehört unabhängig von deren 
+Schutzfähig keit uns bzw.  unseren Unterliefe ranten.  
+10.2 Der Kunde erhält das Recht, die gelieferte Hard - und 
+Software und die übergebenen Dokumenta tionen gemäs s 
+diesen ABS sowie dem allfälligen Servicevertrag und all -
+fälliger mitgelieferten Lizenzbedingungen zu benutzen. 
+Für Sta ndard-Software und deren Dokumentationen 
+gelten aus schliesslich die massgebenden Liefer - bzw. 
+Lizenz bedingungen der betreffenden Unter lieferanten. 
+10.3 Sofern nicht aus drücklich anders vereinbart, ist der Kunde 
+nicht berec htigt: (a) die gelieferte Hardware oder Teile 
+davon nachzubauen oder nachbauen zu lassen ; oder  (b) 
+die ge lieferte Software zu vervielfältigen (ausgenom men 
+für Sicherun gszwecke ) oder Dritten zugänglich  zu 
+machen ; oder  (c) die zugehörige Dok umentation zu 
+kopieren, zu veröffentli chen  oder kopie ren oder 
+veröffentlichen zu lassen.  
+10.4 Diese Verpflichtungen und Rechte sind bei einer 
+Weitergabe  des Systems auf den Ab nehmer zu 
+überbi nden. 
+11. Sachgewährleistung  
+11.1 Wir leisten keine Gewähr dafür, dass das Sy stem 
+fehlerfrei und o hne Unterbruch in allen vom Kun den 
+gewünsc hten Konfigurationen eingesetzt werden kann.  
+11.2 Für ein Ersatzteil oder Upgrade leisten wir für die Dauer 
+von sechs M onaten nach Lieferdatum Gewähr; bei einem 
+Upgrade b ezieht sich die Gewährleistung ausschliesslich 
+auf die durch den Upgrade erfolgte Funktionserweiterung 
+des Sy stems.  
+11.3 Im Falle einer Serviceleistung oder Lieferung eines 
+Updates lei sten wir fü r die Dau er von drei Monaten nach 
+Vollendung der jeweiligen Serviceleistung bzw. nach 
+Lieferung des Updates Gewähr für fachgemässe und 
+sorgfältige Ausführung.  
+11.4 In jedem Fall e ndet die Gewährleistung spätestens 9 
+Monate nach Beginn der ursprünglichen G ewähr -
+leistungs frist gemäss Ziff. 11.2 bzw. 6  Monate nach 
+Beginn der ursprünglichen Gewährleistungsfrist gemäss 
+Ziff. 11.3. 
+11.5 Für Ve rschleissteile leisten wir keine Gewähr.  
+11.6 Entdeckt der Kunde während der Gewährleistungsfrist 
+einen Fehler oder Mange l, so hat er diesen unverzüglich 
+beim Ser vice Call Desk zu rügen. Wir werden den 
+Fehler/Mangel mit Mitteln unserer Wahl innert 
+angemessener Frist beheben. Für ersetzte Teile gilt Ziffer 
+D. 8.3 analog.  
+11.7 Unter  Fehler/Mangel sind  
+ (a) bei Lieferung von  Hard- oder Software Abweichungen 
+von den in der jeweiligen Spezifikation vereinbarten 
+Eigen schaften und  
+ (b) bei Serviceleistungen eine nicht fachgemässe oder 
+unsorgfältige Au sführung zu verstehen.   
+11.8 Können wir eine n Fehler /Mangel auch innerhalb e iner 
+ange messenen Nachfrist nicht beheben, so ist der Ku nde 
+berechtigt, auf die Behebung zu verzichten und eine 
+angemessene Her absetzung der  Kosten bei Leistungen 
+nach Aufwand bzw. der Service gebühr beim 
+Servicevertrag zu verlangen. Die ange messene 
+Herabsetzung beträgt maximal die Kosten für die  be-
+troffene  Leistung nach Aufwand bzw. maximal die 
+jährliche  pauschale Serviceg ebühr für die  jeweilige 
+Servicevertrags leistung , für die wir die Gewährleistung 
+nicht erfolgreich erbrin gen kon nten.  
+ 11.9 Von de r Gewährlei stung ausgeschlossen sind alle Mängel 
+und Schäden, die nicht nachweisbar infolge schlechten 
+Materials, fehle rhafter Konstruktion oder mangelhafter 
+Ausführung ent standen sind sowie solche, die auf 
+unsachgemässe Bedienung oder Benützung, auf übli che 
+Abnützu ng oder auf Fremdein flüsse wie Störu ngen von 
+Geräten anderer Hersteller oder auf unsachgemässe 
+Eingriffe und Änderungen seitens des Kunden oder nicht 
+von uns autorisierter Dritter zurückzufü hren sind.  
+11.10 Wegen Mängeln/ Fehlern hat der Kunde keine Recht e und 
+Ansprüche ausse r den in Ziff ern D.11 ausdrücklich 
+genannten.  
+12. Schutzrechte und Ansprüche Dritter  
+12.1 Wir werden  in einer für uns möglichen und zumut baren 
+Weise darauf ach ten, dass die gelieferte Hard - und 
+Software, soweit für uns e rkenn bar, nicht in Schutzrechte 
+Dritter eingreift.  
+Macht ein Dritter b erechtigte Ansprüche aus oder im 
+Zusam menhang mit  Schutz rechten (Patente, etc.) wegen 
+der Liefe rung von Hard - oder Software geltend, so wer den 
+wir unter Ausschluss weitergehender Ansprüche nac h 
+unserer W ahl und auf u nsere Kosten  
+a) vom Verfügungs berechtigten ü ber das betref fende 
+Schutz recht ein Benutzungsrecht erwirken,  oder 
+b) die schutzrechtsverletzenden Teile ändern, oder  
+c) die schutzrechts verletzenden Teil e gegen 
+schutzrechtsfreie aus tauschen, oder  
+d) die gelieferte Hardware samt zugehöriger Soft ware 
+gegen Erstat tung des Preises zurücknehmen.  
+Wir sind berechtigt, für die Nu tzung der Software vom 
+Kunden einen angemessen Werte rsatz zu  verlangen.  
+Als berechtigt gelten A nsprüche nur dann, we nn sie 
+entw eder von uns aner kannt oder in einem rechts kräftig 
+abgeschlosse nen Verfah ren zuerkannt worden sind.  
+12.2 Der Kunde ist verpflich tet, uns sofort zu infor mieren, falls 
+ein Drit ter unter irgendeinem Rechts titel gegen uns 
+gerichtete An sprüche ge ltend macht. Der Kunde darf von 
+sich aus sol che Ansprüche nicht an erkennen. Er wird uns 
+bei der Abwehr solcher Ansprüche und der Auseinander -
+setzu ng mit dem Dritten, insbeson dere in einem 
+Rechtsstreit, unterstüt zen und nur nach unseren 
+schrift lichen Anweisu ngen handeln . Wir werden dem 
+Kunden die ihm dadurch ent stehenden und nachgewie -
+senen Auslagen  ersetzen.  
+13. Haftung  
+13.1 Wir haften für von uns zu vertretende Personenschäden 
+unbeschränkt gemäss den gesetzlichen Bestimmungen 
+und ersetzen e inen von uns zu vertr etenden dire kten 
+Sachscha den bis zum Betrag von CHF 1’000’000. - (eine 
+Million) pro Schadensereignis, insgesamt maximal CHF 
+2'000'000. - (zwei Millionen) pro Kale nderjahr.  
+13.2 Bei Verlust oder Beschädigung von Daten oder 
+Datenträger material umfasst unsere  Ersatzpflic ht nicht den 
+Aufwand für die Wiederb eschaffung verlorener oder 
+beschädigter Daten.  
+13.3 Wir haften nicht, wenn wir aus Gründen, die wir nicht zu 
+vertreten haben, an der zeitge rechten oder sachgemässen 
+Erfüllung von Servic eleistungen gehindert  werden.  
+13.4 Weitergehende als die in diesen ABS ausdrücklich 
+genannten Ansprüche des Kunden, insbesondere aus 
+Gewährleistung, Verspätung, Nichterfüllung und 
+Schadenersatz – gleich aus welchem Rechtsgrund – und 
+jede Haftung für Verm ögens schäden, entgange nen 
+Gewinn, Nutzungsausfall, Produkti onsausfall, 
+Betriebsunter brechung oder für Ansprüche Dritter sowie für 
+alle indirekten oder Folgeschäden sind ausge schlossen, 
+sofern nicht wegen rechtswidriger Absicht oder grober 
+Fahrlässigkeit zwingend geha ftet w ird. 
+   
+ 
+ 
+Allgemeine Geschäftsb edingungen der Siemens Energy  AG zum Servicevertrag (Version 04.2021)  
+  
+  
+ 
+© Siemens Energy 202 1   Seite 4 von 4 
+ 14. Offenlegu ng der Geschäftsverbindung und von Daten 
+und Informationen  
+ Der Kunde erklärt sich einverstanden, dass sämtliche für 
+die geschäftlichen Beziehungen erforderlichen oder sich 
+daraus erg ebenden Angaben und Informationen, 
+insbesondere ver traglic he Dokumen te und Unterlagen 
+sowie alle für den Voll zug der vertragl ichen 
+Verpflichtungen erforderlichen Daten und Informationen, 
+des und über den Kunden und dessen Hilfspersonen 
+auch ausserhalb der Schweiz aufbewahrt wer den dürfen. 
+Alle diese Angaben und  Informati onen dürfen darüber 
+hinaus, insbesondere für die Lei stungserfüllung, die 
+Erfüllung gesetzlicher Anforderungen oder für Siemens -
+interne Prüf - und/oder Aufsichts -Zwecke sowohl der 
+Siemens Energy  wie auch deren konzernrechtlich 
+verbundenen Unte rnehmen bekannt ge geben  und zur 
+entsprechenden Bear beitung offengelegt  werden; dies 
+stets unter Einhaltung aller jeweils anwendbaren 
+Datenschutzgesetze.  
+15. Einhaltung von Exportkontrollbestimm ungen  
+15.1 Die Vertragserfüllung durch uns steht unter dem 
+Vorbehalt, dass  der Erfüllun g keine Hindernisse aufgrund 
+von nationalen oder internationalen Vorschriften des 
+Aussenwirt schaftsrechts, insbesondere Exportkontroll -
+bestimmungen, sowie keine Embargos oder sonstige 
+Sanktionen entgegenstehen.  
+15.2 Der Kunde  hat bei Weite rgabe  der von uns gelieferten 
+Waren (Hardware und/ oder Software und/ oder 
+Techno logie sowie dazugehörige Dokumentation, 
+unabhängig von der Art und Weise der Zurverfügung -
+stellung) oder der von uns erbrachten Werk - und 
+Dienstleistungen (einschließlich tech nische r Unterstü -
+tzung jeder Art) an Dritte im In - und Aus land die jeweils 
+anwendbaren Vorschriften des nationalen und 
+internationalen (Re -) Exportkontrollrechts einzuhalten. In 
+jedem Fall hat er dabei die (Re -) Export kontroll -
+vorschriften der Schweiz, de r Bunde srepublik 
+Deut schland, der Europäischen Union und der 
+Vereinigten Staaten von Amerika zu beachten.  
+15.3 Sofern für Exportkontrollprüfungen erforderlich, wird  uns 
+der Kunde  nach Aufforderung unverzüglich alle 
+Informationen über Endempfänger, Endverbl eib und 
+Verwendungs zweck der von uns gelieferten Waren bzw. 
+erbrach ten Werk - und Dienstleistungen sowie 
+diesbezügliche Export kontrollbeschränkungen  
+übermitteln.  
+15.4 Der Kunde  stellt uns von allen Ansprüchen, die von 
+Behörden oder sonstigen Dritten gegenüb er Siem ens 
+Ener gy weg en der Nichtbeachtung vorstehender 
+exportkontrollrecht licher Verpflichtungen durch den 
+Kunden  geltend gemacht werden, in vollem Umfang frei 
+und verpflichtet sich zum Ersatz aller uns in diesem 
+Zusammenhang entstehenden Schäden und 
+Aufw endunge n, es sei denn , der Kunde  hat die 
+Pflichtverletzung nicht zu vertreten. Eine Umkehr der 
+Beweislast ist hiermit nicht verbunden.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 16. Schlussbestimmungen  
+16.1 Änderungen und Ergänzungen dieser ABS sowie des 
+allfälli gen Servicevertrages bedürfe n zu ihre r Wirksamkeit 
+der Schr iftform. Auf dieses Erfordernis darf nur schriftlich 
+verzichtet we rden. 
+16.2 Wir sind berechtigt, diese ABS sowie den allfälligen 
+Service vertrag oder Rechte und Pflichten daraus auf ein 
+konzernrechtlich verbundenes Unterne hmen zu ü ber-
+tragen.  
+16.3 Sollten einzelne Bestimmungen dieser ABS sowie des 
+allfälli gen Servicevertrages ganz oder teilweise unwirksam 
+sein oder we rden oder sich aus Rechtsgründen nicht in der 
+beabsichtigten Weise vollziehen lassen, so ist hiervon 
+deren Wirksamke it im Übrigen nicht be rührt. An die Stelle 
+der unwirksamen Regelung soll eine wirksame Regelung 
+treten, die der unwirksamen Bestimmung wir tschaftlich so 
+nahekommt , wie dies rechtlich mö glich ist.  
+17. Rechtswahl und Gerichtsstand  
+17.1 Diese ABS und d er Servic evertrag untersteht sc hweize-
+rischem Recht. Das Übereinkommen der Vereinten 
+Nationen über den i nternationalen Warenkauf (Wiener 
+Kaufrecht) vom 11. April 1980 ist ausgeschlo ssen. 
+17.2 Gerichtsstand für beide Vertragspartner ist Zürich . Wir sind 
+jedoch berec htigt, den Kunden auch  an dessen Sitz zu 
+belangen. 

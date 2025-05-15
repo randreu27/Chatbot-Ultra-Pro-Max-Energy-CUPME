@@ -1,0 +1,459 @@
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 1 
+ 
+  
+  
+Manuel du  
+Fournisseur   
+Offre scellée  
+ 
+SE E2E ARIBA Implementation  
+siemens -energy.com  
+
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 2 Table des matières  
+ 
+1. APERÇU DE L'OFFRE SCELLÉE  ................................ ................................ ................................ ................................ ............  3 
+1.1. Introduction  ................................ ................................ ................................ ................................ ................................ .. 3 
+1.2. Invitat ion à une eAuction  ................................ ................................ ................................ ................................ ...........  3 
+2. NAVIGATION DANS SAP ARIBA  ................................ ................................ ................................ ................................ ..........  4 
+2.1. Se connecter à ARIBA  ................................ ................................ ................................ ................................ .................  4 
+2.2. Aperçu du tableau de bord  ................................ ................................ ................................ ................................ ........  5 
+2.3. Profil et paramètres utilisateur  ................................ ................................ ................................ ................................  7 
+2.4. Résolution des problèmes  ................................ ................................ ................................ ................................ .........  9 
+3. PROCESSUS DE VENTE AUX ENCHÈRES  ................................ ................................ ................................ ........................  10 
+3.1 Répondre à une eAuction  ................................ ................................ ................................ ................................ ................  10 
+3.2 Examen des prérequis  ................................ ................................ ................................ ................................ ......................  11 
+3.3 Liste de contrôle  ................................ ................................ ................................ ................................ ................................  12 
+3.3.1 Examen des détails de l'événement  ................................ ................................ ................................ .....................  12 
+3.3.2 Examiner et accepter les prérequis  ................................ ................................ ................................ .......................  13 
+3.3.3 Sélectionner les lots/lignes d'articles  ................................ ................................ ................................ ...................  13 
+3.4 Processus de soumission  ................................ ................................ ................................ ................................ .................  14 
+3.4.1 Soumettre une offre  ................................ ................................ ................................ ................................ .................  14 
+3.4.2 Offre  ................................ ................................ ................................ ................................ ................................ ..............  15 
+3.4.3 Soumettre la réponse complète  ................................ ................................ ................................ ............................  16 
+3.4.4 Réviser la réponse  ................................ ................................ ................................ ................................ .....................  17 
+3.5 Phase d'attribution  ................................ ................................ ................................ ................................ ...........................  18 
+3.5.1 Sélection en attente  ................................ ................................ ................................ ................................ ..................  18 
+3.5.2 Notification de sélection en attente  ................................ ................................ ................................ .....................  18 
+3.5.3 État d'exécution  ................................ ................................ ................................ ................................ .........................  19 
+3.5.4 Notification  ................................ ................................ ................................ ................................ ................................ . 19 
+3.5.5 Suivi de l'offre scellée  ................................ ................................ ................................ ................................ ...............  20 
+4. POUR PLUS D'INFORMATIONS, CONSULTEZ LE SITE WEB DU FOURNISSEUR COCKPIT  ................................ .. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dans ce manuel, le masculin générique est utilisé pour une meilleure lisibilité. Les identités féminines et les autres identi tés de genre sont ex-
+plicitement inclu ses dans la mesure où cela est nécessaire pour l'énoncé .  
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 3 1. APERÇU DE L'OFFRE SCELLÉE  
+1.1. Introduction  
+Vous découvrirez dans ce manuel comment participer à une vente aux enchères scellée  dans ARIBA, ce que 
+vous devez garder à l'esprit lorsque vous remplissez le formulaire et comment vous pouvez suivre le processus 
+dans ARIBA.  
+ 
+ 
+1.2. Invitation à une eAuction  
+Une fois sélectionné(e) comme participant(e) à une offre scellée, vous serez automatiquement informé(e) par 
+e-mail  de l'événement, c'est -à-dire de la vente aux enchères.  
+ 
+ 
+  
+
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 4 2. NAVIGATION DANS SAP ARIBA  
+2.1. Se connecter à ARIBA  
+Il existe deux façons de se connecter à votre profil ARIBA : 
+Vous pouvez vous connecter via le site Web du fournisseur ARIBA , accessible à partir de l'adresse 
+service.ariba.com . Si vous avez oublié votre nom d'utilisateur et/ou votre mot de passe , veuillez c liquer sur 
+« Nom d'utilisateur/mot de passe oublié  » (“forgotten Username/password”) (1).  
+ 
+ 
+Vous devez ensuite cliquer sur l'onglet «  Propositions et questionnaires  » (“Proposals  & Questionnaires”) (2) 
+dans la liste déroulante en haut de la page (1).  
+ 
+  
+1 
+1 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 5 Vous pouvez également cliquer directement sur le  lien fourni  (1) dans l'e -mail reçu . Vous serez alors 
+redirigé(e) vers la page de connexion du site Web du fournisseur ARIBA.  Une fois connecté(e), vous accéderez 
+directement à la demande.  
+ 
+ 
+2.2. Aperçu du tableau de bord  
+Avant de nous concentrer sur le formulaire de vente aux enchères, nous allons vous donner un aperçu du 
+tableau  de bord  dans votre profil ARIBA. Vous y trouverez tous les événements, par exemple les eAuctions, 
+pour lesquelles vous avez été invité avec le statut correspondant:  
+« Terminé  » (“Completed”) (1), «  Ouvert  » (“Open”) (2), «  En attente de sélection  » (“Pending selection”) (3) ou 
+« Aperçu  » (“Preview”) (4).  
+ 
+  
+1 
+1 
+4 
+3 
+2 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 6 Dans la colonne «  Type d'événement  » (“Event Type”) (1), vous pouvez voir les détails respectifs, par exemple 
+s'il s'agit d'une vente aux enchères ou non . Juste à côté de c ette colonne, se trouve l' heure de fin (2) de 
+chaque vente aux enchères  listée.   
+Veuillez noter l'heure de début qui est indiquée et définie dans l'eAgreement.   
+Dans la colonne «  Participé  » (“Participated ”) (3) vous voyez au premier coup d'œil, si vous avez participé à un 
+événement, par exemple une RfP, une vente aux enchères, ou si vous n'y avez pas participé.  Si vous souhaitez 
+personnaliser votre tableau de bord, vous pouvez le faire en cliquant sur l'ic ône correspondante en haut du 
+tableau (4).   
+ 
+ 
+Vous trouverez en bas de la page d'autres catégories à titre de référence , par exemple:  « Questionnaires 
+d'enregistrement  » (“Registration Questionnaires”) (1), « Questionnaires de qualification  » (“Qualification 
+Questionnaires”) (2), «  Questionnaires  » (“Questionnaires”) (3), «  Certificats  » (“Certificates”) (4) et «  Catégories 
+au sein des processus du cycle de vie des fournisseurs  » (“Categories within the Suppl ier Lifecycle Processes”) 
+(5). 
+ 
+  
+1 2 3 
+5 4 3 1 
+2 4 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 7 2.3. Profil et paramètres utilisateur  
+Vous pouvez modifier vos paramètres de base  dans ARIBA en cliquant sur l'icône de votre profil (1), puis sur 
+« Mon compte  » (“My Account”) (2).   
+ 
+ 
+Toutes les informations relatives à votre compte (1) et à vos contacts (2), ainsi que vos paramètres de 
+langue  sont répertoriés. Vous pouve z les modifier (3).    
+ 
+ 
+ 
+ 
+  
+1 
+2 
+1 
+3 2 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 8 Si vous cliquez sur l'icône de votre profil (1), vous pouvez cliquer sur la section «  Paramètres  » (“Settings”) (2) 
+puis «  Utilisateurs  » (“Users”) (3) pour modifier les paramètres de votre compte. Il peut par exemple s'agir 
+du rôle (4) et des paramètres utilisateur (5).  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+3 
+2 
+4 5 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 9 2.4. Résolution des problèmes  
+Des messages d'erreur  peuvent apparaître en haut de votre page lorsque vous remplissez le formulaire (1).    
+Veuillez les lire attentivement . ARIBA vous indiquera exactement les informations manquantes ou 
+incorrectement saisies . Veuillez vous rendre à l'endroit correspondant et  modifier les champs en 
+conséquence.  Les messages d'erreur devraient disparaître.  La page et donc toutes les informations de 
+l'événement sont remplies correctement.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 10 3. PROCESSUS DE VENTE AUX ENCHÈRES  
+3.1 Répondre à une eAuction  
+Revenons à l'invitation que vous avez reçu concernant une offre scellée.  Si vous cliquez sur le lien indiqué dans 
+l'e-mail, ou si vous cliquez sur votre vente aux enchères ouverte dans le tableau de bord (1), vous serez 
+redirigé(e) vers le formulaire de réponse  de l'événement dans ARIBA.    
+ 
+ 
+Vous trouverez ici tous les détails de l'événement concernant l'offre scellée (1). Le temps restant  (2) jusqu'à 
+la clôture de la vente aux enchères s'affichera dans le coin supérieur droit.   
+Avant de pouvoir soumettre une réponse ou modifier des données dans le formulaire, il est néc essaire 
+d'examiner et de répondre aux prérequis , c'est -à-dire aux Conditions générales.  Pour cela, veuillez cliquer sur 
+le bouton bleu correspondant «  Examen des prérequis  » (“Review Prerequisites”) (3).  
+ 
+ 
+1 
+1 2 
+3 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 11 3.2 Examen des prérequis  
+Veuillez lire les prérequis et accepter les termes de  l'accord (1).  Pour continuer, veuillez cliquer sur le bouton 
+« OK » (2) puis sur «  Soumettre le présent Accord  » (“Submit this Agreement”) (3).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+3 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 12 3.3 Liste de contrôle  
+Une fois les prérequis acceptés, vous pouvez commencer à remplir toutes les informations nécessaires  
+concernant l'offre scellée dans ARIBA. Sur le côté gauche de la page, une section Liste de contrôle est 
+prés entée (1).   
+ 
+ 
+3.3.1  Examen des détails de l'événement  
+Dans la première section «  Examen des détails de l'événement  » (“Review Event Details”) (1), apparaît le résumé 
+de tous les détails concernant la vente aux enchères  et des informations supplémentaires concernant le 
+format, à savoir dans ce cas une  vente aux enchères scellée (2). Des règles relatives aux délais ou aux offres  
+ont été définies (3). Elles sont pertinentes pour la vente aux enchères.  Dans cette se ction, vous pouvez 
+également voir les fichiers fournis (4) par le client ou les questions auxquelles il faut répondre (5).  
+ 
+ 
+1 
+1 
+2 
+3 4 5 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 13 3.3.2  Examiner et accepter les prérequis  
+Sous «  Examiner et accepter les prérequis  » (“Review and Accept Prerequisites”) (1), vous verrez le résumé des 
+Conditions générales (2) que vous avez acceptées à l'étape précédente.  
+ 
+ 
+3.3.3  Sélectionner les lots/lignes d'articles  
+Dans la section «  Sélectionner les lots/lignes d'articles  » (“Select Lots/Line items”) (1), vous trouverez les lots 
+et les d'article définis par le client dans la vente aux enchères . 
+Vous devez sélectionner tous les articles  auxquels vous avez été invité.  Ces informations sont déjà pré -
+remplies. Il vous suffit de les confirmer en cliquant sur le bouton «  confirmer les lots/lignes d'articles 
+sélectionnés  » (“Confirm Selected Lots/Line Items”) (2).  
+ 
+ 
+1 2 
+1 
+2 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 14 3.4 Processus de soumission  
+3.4.1  Soumettre une offre  
+Après avoir cliqué sur la quatrième section «  Soumettre des offres  » (“Submit Bids”) (1), deux nouvelles 
+catégories apparaîtront sur le côté gauche de la page.   
+Les «  Contenus de l'événement  » (“Event Contents”) (2) s'affiche avec des informations préliminaires sur la 
+vente aux enchères  ainsi que sur les lots respectifs auxquels vous êtes invité à enchérir.  
+Dans la section «  Choisir un lot  » (“Choose Lot”) (3), vous pouvez accéder aux différents articles  définis p ar le 
+client auxquels vous êtes invité à répondre ou à enchérir.   
+Veuillez tenir compte de la valeur de l' offre dégressive qui a été spécifiquement définie et qui indique la 
+valeur minimale permettant de sous -coter  le prix actuel (4).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1 
+2 
+3 4 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 15 3.4.2  Offre  
+Pour présenter votre offre  en fonction des différents articles, veuillez cliquer sur «  Afficher tous les lots  » 
+(“View  All Lots”) (1) et présenter votre offre en conséquence.  Veuillez cliquer sur «  Mettre à jour les totaux  » 
+(“Update Totals”) (2) pour afficher le prix étendu calculé ainsi que les coûts totaux des articles qui seront 
+transférés au client.  
+Les champs obliga toires sont marqués d'un astérisque rouge (3).  
+Pour toute question, vous pouvez en faire part  et entrer en contact avec votre client en cliquant sur le bouton 
+« Rédiger un message  » (“Compose Message”) (4).  Une nouvelle page s'affiche. Vous pouvez y saisir directement 
+votre message et l'envoyer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 2 3 
+4 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 16 3.4.3  Soumettre la réponse complète  
+Une fois le devis rempli , veuillez cliquer sur le bouton « Soumettre la réponse complète  » (“Submit Entire 
+Response”) (1) pour finaliser votre offre et cliquer sur «  OK ». 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+2 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 17 3.4.4  Réviser la réponse  
+Veuillez noter qu'il vous est possible de réviser votre offre  en cliquant sur le bouton «  Recharger la dernière 
+offre  » (“Reload Last Bid”) (1), tant que la vente aux enchères est ouverte et active.    
+ 
+ 
+Vous pouvez également suivre le statut de l'événement  de votre vente aux enchères depuis votre tableau de 
+bord dans ARIBA (1).  
+ 
+ 
+ 
+ 
+1 
+1 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 18 3.5 Phase d'attribution  
+3.5.1  Sélection en attente  
+Une fois l' événement terminé , le statut passera à «  En attente de sélection  » (“Pending Selection”) (1).  Vous 
+pouvez le voir dans votre tableau de bord ARIBA, dans la section correspondante.  
+ 
+ 
+3.5.2  Notification de sélection en attente  
+Vous recevrez une notification par e -mail indiquant que plus aucune réponse n'est acceptée  (1). Cela signifie 
+que la vente aux enchères a été clôturée.  
+ 
+ 
+ 
+1 
+1 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 19 3.5.3  État d'exécution  
+Vous pouvez suivre la vente aux enchères dans votre tableau de bord jusqu'à ce que la phase d'attribution  soit 
+terminée.  L'état s'affichera alors comme «  Terminé  » (“completed”) (1).  
+ 
+ 
+3.5.4  Notification  
+En fonction des paramètres du client, vous pouvez recevoir un message indiquant si vous avez remporté la 
+vente aux enchères  (1) et obtenu le prix ou non.  
+ 
+ 
+ 
+ 
+ 
+1 
+1 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 20 3.5.5  Suivi de l'offre scellée  
+Il vous est toujours possible de cliquer sur la vente aux enchères dans votre profil ARIBA pour voir le résumé 
+de votre offre  au premier coup d'œil.  
+Vous pouvez maintenant  : télécharger le contenu (1), consulter les prérequis de cette vente aux enchères (2 ), 
+imprimer les informations de l'événement (3), consulter les offres (4), télécharger le rapport de modification 
+des offres (5), consulter les prix (6) et télécharger le rapport de synthèse des prix (7).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 2 3 4 6 7 5 
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 21 4. POUR PLUS D'INFORMATIONS, CONSULTEZ LE SITE WEB DU FOUR-
+NISSEUR COCKPIT  
+Pour toute question, veuillez consulter le site Web du cockpit des fournisseurs de Siemens Energy . Vous y 
+trouverez également des informations concernant les différentes possibilités d'assistance. Vous pouvez accé-
+der à la page en cliquant sur ce lien . 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+Manuel du Fournisse ur: Offre scellée  
+ 
+siemens -energy.com  © 202 2 Siemens Energy  Page 22 
+ 
+ 
+Published by  
+ 
+Siemens Energy AG  
+Procurement  
+Otto -Hahn -Ring 6  
+81739 Munich  
+Germany  
+ 
+For more information, please visit our website:  
+ 
+https://www.siemens -energy.com/global/en/company/about/supply -
+chain -management/supplier -cockpit.html  
+ 
+July  2022   Copyrights: All rights, also that of translation, reprint and copy, or parts 
+thereof, are reserved. This document will not be recalled in the event of 
+any alterations.  
+ 
+ 
+ 
+ 
+ 
+© Siemens Energy, 2022 Siemens Energy is a trademark licensed by Sie-
+mens AG.  

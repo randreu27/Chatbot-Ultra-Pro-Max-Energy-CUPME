@@ -1,0 +1,214 @@
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+Packager Guidelines 
+Section 7: Compressor Gas Piping 
+ 
+7-0.  GENERAL 
+ We cannot overemphasize the necessi ty for thoroughly cleaning the inside of all piping before running the 
+unit, whether during shop test or after installation in the field. Most package rs use welded carbon steel 
+piping, which often contains mill scale and other debris. It is particularly important that the cylinder intake 
+piping and start-up bypass lines be thoroughly clean. If me tal shavings, pipe scale, rust, welding beads, 
+dirt and all other foreign materials are not carefully and thoroughly removed, the gas flow will loosen this 
+material and carry it into the compressor cylinders causing damage and/or excessive wear. Piping should 
+be fabricated using good shop practice and inspected and cleaned in accordance with industry standards. 
+ Piping should be installed so that there is no stress on attachment points. Once in place, all flange 
+fasteners should be removed to confirm that piping fits without being forced into place. It is important that 
+all piping be properly braced to avoid hanging excessive weight from cylinder connections. 
+ 
+All flanged cylinder connections are closed for shipmen t. Do not remove these closures until the mating 
+piping is ready for assembly. If plugs or covers on any of the compressor connections, or other openings, 
+have become loosened or lost in transit, the inside of the component must be thoroughly wiped out to 
+remove any dirt. 
+ 
+7-1 Cylinder Flange Inlet and Discharge Studs 
+ 
+Cylinders are supplied with Inlet and Discharge (I&D) st uds and nuts.  Cylinder I&D thread projection is 
+dependent on the style of the cylinder  and associated flange size/rating.  Unless specified otherwise by 
+the order, the following methods are used to determine the minimum full thread projections. 
+ 1.  Cast Cylinders with standard ANSI FF Flange and size ratings 
+a. I&D thread projections are based on the sum of the industry standard ANSI RF flange 
+thickness, the raised face, the supplied nut height, an additional 5/8” (15.875 mm) (to account 
+for 2 gaskets at 1/8” (3.175 mm) and 1 orifice plate at 3/8” (9.525 mm), and an additional 1/4” 
+(6.4 mm).  This should leave at least one ex posed thread on each I&D stud after the nut is 
+torqued. 
+2. Forged Steel Cylinders with RTJ (Ring Type Joint) flanges 
+a.  I&D thread projections are based on the sum of the industry standard ANSI RTJ flange 
+thickness, the corresponding oval style ring height, the supplied nut height, an additional 3/8” 
+(9.252 mm) to account for the plate thickness in  a 1-piece ring and orifice plate assembly, and 
+an additional 1/4” (6.4 mm).  This should leav e at least one exposed thread on each I&D stud 
+after the nut is torqued. 
+3. Forged Steel Cylinders with 3.00” (76.2 mm)-6000# (26.69 kN) Special Lens Ring Joint 
+a. I&D Special RF Weld Neck Flanges and special lens ring gaskets are supplied.  The thread 
+projection is based on the sum of the flange thic kness, 1/4” (6.4 mm) raised face, gasket gap, 
+supplied nut height, and an additional 1/4” (6.4 mm).  This should leave at least one exposed 
+thread on each I&D stud after the nut is torqued.   If the application requires an orifice based 
+on the pulsation analysis, it can be incorporated into the lens ring gasket machining upon 
+request. 
+4. Application on Specific Cylinders with Special Flanges 
+a. Occasionally, non-standard, application specific cylinders a nd/or flanges are designed and 
+the I&D thread projection will be comm unicated via Project Engineering. 
+b. 26-28” (660.4-711.2 mm) HOS/HOSS Cylinders have special rectangular I&D flanges due to 
+the geometry.  The I&D thread projection will be communicated via Project Engineering. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+7-2. Cylinder Inlet and Discharge Gasket Recommendations 
+ 
+Siemens Energy offers the following recommendations for gaskets on cast iron cylinders with AISI FF 
+Inlet and Discharge flange connections: 
+ 1. For Class 600 and below, use Flexitalli c® (or equivalent) Style CG gaskets 
+2. For Class 900 and above, use Flexita llic® (or equivalent) Style CGI gaskets 
+ 7-3.  Gas Inlet Piping 
+ 
+The gas must be clean and dry before it enters the comp ressor. Scrubbers or separators of suitable size 
+are often used for this purpose. Carefully arrange the suction or intake piping to prevent loops or pockets 
+in the line. This will avoid the collection of con densate or distillate, which could be drawn into the 
+compressor cylinder and cause serious damage to the unit. Use of suction screens during start-up to filter 
+out pipeline debris and dirt is essential. In some applications, more elaborate filtration systems, even 
+coalescers, may be necessary.  
+On multi-stage installations precautions should be  taken to prevent condensate carry over to the 
+subsequent cylinders. Scrubbers or separators shou ld be provided in the suction piping of second and 
+subsequent stage cylinders. 
+ 
+7-4.  Discharge Piping 
+ 
+The discharge line between the compressor and receiver or aftercooler should drain away from the 
+cylinder, and should be as short as possible, avoiding short bends and fittings.   
+A bypass with proper valving should be located between the compressor discharge line and intake line to 
+aid in starting and stopping the unit. With such a by pass installed around the cylinder and the valves 
+properly manipulated, the bypass opening will reduce  load on the unit and allow starting or stopping the 
+unit against minimal load.  If the unit is using a bypass valve for capacity control,  the suction scrubbers or 
+separators must be suitable to clean the gas along with removing the lubricator oil that is entrained in the 
+gas after the last stage of compression. 
+ Relief valves should be installed in the interstage and discharge lines. The setting should be less than or 
+equal to the lowest maximum allowable working pressure of any pressure-containing component in the 
+system being protected. 
+ 
+Install a drain valve at the lowest point in the discharge line to permit periodic draining of liquids that may 
+accumulate.  
+7-5.  Temporary Suction Screens 
+ 
+WARNING 
+The packager should ensure that the operator 
+has installed a temporary start-up screen. This is 
+required to catch any dirt, chips, or other foreign material that may have been left in the pipe. The 
+pipe must be cleaned first, however, as 
+dependence on the temporary line filter alone is 
+not sufficient. 
+ 
+If there is any possibility that the gas being compressed contains dust, sand, or other abrasive particles, a 
+gas scrubber must be installed permanently and then regularly serviced to keep it clean.  
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+Even though the previous cleaning procedure has b een carefully followed on the compressor piping, a 
+temporary screen should be installed in the intake li ne to remove particles 0.009 inch (0.23 mm) (230 
+microns) in diameter or larger. Provision must also be made in the piping to check the pressure drop 
+across the screen and to permit removal of the scre en for cleaning. If the pressure drop across the screen 
+exceeds 5% of the upstream line pressure, remove t he screen, clean it thoroughly, and reinstall it. The 
+screen should be removed and left out only when the inlet line is completely free of welding beads, pipe 
+scale, and other extraneous matter.  These screens are not intended for permanent installation. We 
+recommend that the screen be installed in a horizontal r un of piping to facilitate cleaning out any material 
+that collects on the upstream side. 
+ 
+7-6.  Safety Valves 
+ 
+The compressor must be fitted with safety valves to  limit suction pressure, interstage pressure and final 
+discharge pressure to a safe maximum. For this application, the term "safety valve" refers to an 
+automatic, pressure-relieving device that is actuated by the static pressure upstream of the valve and 
+characterized by full opening pop action; these are also  often referred to as "pop safety valves." 
+ 
+ 
+CAUTION 
+Always install a safety valve capable of passing 
+the full-load capacity of the compressor cylinder, 
+or cylinders, between the cylinder and the first 
+line valve. UNDER NO CIRCUMSTANCES is a shutoff valve to be installed in any discharge line 
+before the safety valve. 
+ 
+ 
+When a bypass is furnished, a suction pressure sa fety valve should be installed immediately downstream 
+of the bypass valve, on the inlet scrubber, or suction piping.  This valve must be between the line suction 
+valve and the unit. 
+ For recommended safety settings, see chart below: 
+ 
+Relief Valve Settings 
+ 
+Rated Discharge Gauge Pressure 
+(Each Sta ge) Minimum Relief Valve Set 
+Pressure Margin Above Rated 
+Dischar ge Gau ge Pressure 
+PSIG (kg/cm2) PSIG (kg/cm2) 
+≤150 (10.5) 15 (1.1) 
+>150 to 2500 (10.5 to 175.8 ) 10% 
+>2500 to 3500 (175.8 to 246.1 ) 8% 
+>3500 to 5000 (246.1 to 351.3 ) 6% 
+>5000 (351.5 ) See Footnote A 
+a) For rated discharge gauge pressures above 5000 psig (351.5 kg/cm2), 
+the relief valve shall be a greed on b y the purchaser and the vendor. 
+  
+NOTE 
+The pressure at which any safety valve is set to 
+operate must include the e ffects of static head and 
+constant back pressure. Safety valves are selected 
+for the required pressure setting and also for 
+expected gas characteristics and temperature. 
+ 
+      
+Siemens Energy is a trademark licensed by Siemens AG.   Packager Guidelines, Compressor Gas Piping 
+2020, Rev. #0 
+ 
+NOTE 
+Rupture discs may be used in place of, or 
+supplementary to, safety valves on certain applications. These are special cases where the 
+proper action of a safety valve might be questionable 
+because of corrosion or deposits caused by the process, where a loss of valuable material by leakage 
+should be avoided, or w here contamination of the 
+atmosphere by leakage of noxious gases must be 
+avoided. 
+ 
+Safety valves must be constructed, located and install ed so that they are readily accessible for inspection 
+and repair and so that they cannot be readily rendered  inoperative. They must also meet any Federal and 
+state or local regulations. 
+ 
+Discharge lines from safety  valves must be designed to facilitate dr ainage, and such lines must lead to a 
+safe place of discharge. The size of the discharge line must be such that any back pressure that may 
+exist or develop will not reduce the relieving capacity of the safety valve below that required to properly 
+protect the compressor. 
+ Further information pertaining to the selection, pressu re settings, installation and piping of safety valve 
+and other relief devices will be found in  one of the pressure vessel codes. 
+ 
+7-7. Intercooler, Aftercooler, Scrubber and Frame 
+ 
+7-7.1.  Intercooler 
+ 
+Intercooling will condense moisture or vapor out of the gas. This moisture must be drained from 
+the cooler to prevent its passing into the high- pressure cylinder where it would interfere with 
+lubrication. It is important that a schedule is established whereby the intercooler is regularly 
+drained as determined by the local conditions , or proper scrubbing equipment is installed. 
+ 
+Intercoolers used on gas field separable applicatio ns are generally the fin-fan type (gas to air), 
+using a heat exchanger in conjunction with a f an drive and, possibly, louvers controlled by a 
+shutterstat. See the applicable manufacturer's liter ature for a description and service procedures. 
+ 
+7-7.2.  Aftercooler  
+For some compressor applications, it is desirabl e to have an aftercooler to cool the discharge 
+gases and to condense any moisture carried by the gas. This prevents the moisture from condensing later in the lines where it might freez e, cause water hammer, or gives other trouble. 
+ 
+7-7.3.  Scrubber  
+Skid-mounted scrubbers are not normally adequat e for proper cleanup of extremely wet or 
+contaminated field gas. Siemens Energy recommends all scrubbers have automatic dumps as well as manual dump connections. Siemens Ener gy also recommends all scrubbers have sight 
+glasses. Gas having these proper ties almost always will cause maintenance problems with the 
+compressor or driver. It is recommended that an of f-skid mounted scrubber be installed if such 
+conditions exist. 
+ 
+7-7.4.  Frame 
+ 
+If the compressor is located inside a building and pumping explosive or toxic gas, the frame 
+should be vented to the outside of the building. 
+ 

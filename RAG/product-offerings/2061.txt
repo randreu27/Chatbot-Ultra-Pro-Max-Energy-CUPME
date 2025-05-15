@@ -1,0 +1,199 @@
+SIEMENS ENERGY 2021 Version: 1.2 Page 1 / 7Regelungen für Geschäftspartner
+1.Anwendungsbereich
+Diese Regelungen für Geschäftspartner gelten für Geschäftspartner von Siemens Energy, die im Rahmen eines Ver-
+tragsverhältnisses Zugang oder Zugriff auf IT-Systeme, -Applikationen, -Netze oder Informationen1 haben.
+Die hierin definierten Regeln und Grundsätze gelten unabhängig davon, ob der Geschäftspartner IT-Systeme von Sie-
+mens Energy oder eigene IT-Systeme nutzt, der Geschäftspartner in Räumlichkeiten von Siemens Energy arbeitet oder
+nicht, oder ein Anschluss zu IT-Ressourcen von Siemens Energy erfolgt (z.B. zu einem IT-System oder einer IT-Applika-
+tion).
+Die Cybersecurity Klauseln einer zugrunde liegenden Vereinbarung bleiben hiervon unberührt.
+1.1. Verantwortlichkeiten
+Der Geschäftspartner von Siemens Energy erhält Zugang zu IT-Systemen, Anwendungen, Netzwerken oder Informati-
+onen, um seinen vertraglichen Verpflichtungen nachzukommen und die Effizienz der Geschäftsabwicklung zu stei-
+gern.
+Dies erfordert Maßnahmen zum Schutz von IT-Systemen, Anwendungen, Netzwerken und Informationen, um unbe-
+absichtigte Offenlegung, unbefugten Zugriff, Manipulation, Computerviren, Hacking, Cyberangriffe und andere IT-
+Sicherheitsbedrohungen zu verhindern. Zu diesem Zweck ist es erforderlich, dass die Geschäftspartner von Siemens
+Energy die folgenden Regeln und Grundsätze einhalten und dass Schutzmaßnahmen nicht auf andere Weise deakti-
+viert, umgangen oder geändert werden. Alle diese Maßnahmen sind in Übereinstimmung mit Cybersecurity Standards
+(z.B. ISO27001) nach dem Stand der Technik durchzuführen.
+Der Geschäftspartner verpflichtet sich zusätzlich zu den sonstigen vertraglichen Vereinbarungen, die hierin definierten
+Regeln und Grundsätze zu beachten sowie diese Unterlage seinen Mitarbeitern und allen Subunternehmern, die Zu-
+gang oder Zugriff auf IT-Systeme, -Applikationen und -Netze von Siemens Energy oder Informationen erhalten, zur
+Kenntnis zu bringen, sie auf die Einhaltung zu verpflichten und die Einhaltung in geeigneter Weise zu überprüfen.
+Im Weiteren werden Geschäftspartner und seine Mitarbeiter zusammenfassend als Geschäftspartner bezeichnet.
+Der Geschäftspartner ist verpflichtet, die Richtlinien und Vorschriften von Siemens Energy für die Sicherheit von IT-
+Systemen, Anwendungen und Netzwerken einzuhalten.
+Erfüllen Geschäftspartner ihre vertraglichen Verpflichtungen aus der Ferne/Remote (weder bei Siemens Energy noch
+auf Geschäftspartnergelände), so hat der Geschäftspartner sicherzustellen, dass seine Mitarbeiter zusätzlich zu den
+Regeln und Grundsätzen in diesem Dokument und der zugrunde liegenden vertraglichen Vereinbarung auch die Fern-
+arbeitsrichtlinien nach dem Stand der Technik des Geschäftspartners einhalten (z.B. durch Sensibilisierungstrainings
+für sicheres Arbeiten von zu Hause).
+2.Regeln und Grundsätze
+2.1. Schulung des Geschäftspartnerpersonals
+Zur Erfüllung der vertraglichen Verpflichtungen soll der Geschäftspartner nur Personal engagieren, das auf dem
+Stand der Technik der Informationssicherheit (und ggf. sicherer Programmierung) ausgebildet ist, und sicherstellen,
+dass deren Wissen regelmäßig (mindestens einmal pro Kalenderjahr) aufgefrischt wird.
+1 "Informationen" bedeutet in hier Informationen oder Daten (nicht zugänglich im öffentlichen Bereich), die auf Grundlage aller
+Arten und Formaten, einschließlich digitaler Formate (z.B. Daten, die auf elektronischen oder optischen Medien gespeichert sind)
+oder physischer (z.B. Papier), numerischer, audiovisueller, grafischer, kartografischer, narrativer oder immaterieller Formate (z.B.
+Know-how), erhalten, erzeugt, ausgetauscht, gesammelt oder gespeichert werden und entweder im Besitz von Siemens Energy
+sind oder im Auftrag von Siemens Energy‘ Kunden und Lieferanten verarbeitet werden und dem Geschäftspartner zugänglich
+sind.
+SIEMENS ENERGY 2021 Version: 1.2 Page 2 / 7Die Geschäftspartner machen sich mit den Informationssicherheitsrichtlinien, -standards und -vorgaben von Siemens
+Energy vertraut und nehmen auf Verlangen von Siemens Energy an Schulungen zur Informationssicherheit teil.
+Der Geschäftspartner wird Siemens Energy im Voraus informieren, wenn Personal ausgetauscht wird, welches für die
+Erfüllung der vertraglichen Verpflichtungen benötigt wird.
+2.2. Umgang mit Informationen
+Der Geschäftspartner nutzt die von Siemens Energy bereitgestellten Kommunikations- und Kollaborationslösungen für
+den Austausch von Informationen (siehe Anhang 1 „Secure Data Communication“), sofern zwischen den Parteien
+nichts anderes vereinbart ist.
+Jedwede Form der Verschleierung oder Fälschung der Identität oder der Bedeutung von verwendeten Informationen
+durch den Geschäftspartner ist verboten.
+2.2.1. Schutz von Informationen
+Alle Informationen sind unabhängig von ihrer Erscheinungsform und ihrem Informationsträger gemäß ihrer Einstu-
+fung vor Verlust der Vertraulichkeit, Integrität und Verfügbarkeit zu schützen.
+Für Informationen von Siemens Energy sind drei Schutzklassen vorgesehen: „Intern“, „Vertraulich“ und „Streng vertrau-
+lich“. Entsprechend der Schutzklasse sind bei der Kennzeichnung/Erstellung, Verteilung, Versand und Übertragung,
+Aufbewahrung und Speicherung sowie bei der Entsorgung/Vernichtung/Löschung Schutzmaßnahmen erforderlich, die
+mit zunehmendem Schutzbedarf höher werden.
+Der Geschäftspartner legt in Absprache mit dem Ansprechpartner bei Siemens Energy den Vertraulichkeitsgrad der
+von ihm erstellten Informationen fest. Bei überlassenen Informationen ist der Geschäftspartner verpflichtet, die von
+Siemens Energy definierten Schutzmaßnahmen einzuhalten.
+Informationen dürfen nur auf IT-Systemen, -Applikationen und Dateiablagesystemen gespeichert und verarbeitet wer-
+den, die einen adäquaten Schutz dieser Informationen gewährleisten, d.h. Informationen mit Schutzklasse "Vertrau-
+lich" sind verschlüsselt zu speichern und zu transferieren, während Informationen mit der Schutzklasse "Streng ver-
+traulich" durchgehend (Ende-zu-Ende) verschlüsselt sein müssen.
+Der Geschäftspartner darf ohne vorherige Zustimmung von Siemens Energy oder ohne anderweitige vertragliche Ver-
+einbarung zwischen den Parteien weder Kopien noch Vervielfältigungen von Informationen erstellen, löschen, unter-
+suchen oder modifizieren.
+2.2.2. Übermittlung von E-Mails
+Der sichere Austausch von E-Mails bezieht sich auf E-Mail-Korrespondenz, die von oder zwischen Mitarbeitern und
+Auftragnehmern des Geschäftspartners, IT-Systemen, Anwendungen und Siemens Energy stammt.
+E-Mails, die die Integrität und Vertraulichkeit der Informationen und die Identifizierung des Absenders gewährleisten
+müssen, sind, unter Einhaltung von Standards nach dem Stand der Technik (z. B. NIST SP800-177R1, TN-1945 oder BSI
+ISi-Mail-Server), digital zu signieren und Ende-zu-Ende zu verschlüsseln, sofern sie Informationen mit den Schutzklas-
+sen "Vertraulich" oder "Streng vertraulich" beinhalten (siehe Anhang 1“ Secure Data Communication“).
+Dies umfasst z.B. folgenden Informationsaustausch:
+• E-Mails mit kommerziellen oder rechtlichen Auswirkungen
+• E-Mails, die eine Benutzerinteraktion bedürfen
+• E-Mails, die sich auf den Austausch kritischer Sicherheitsinformationen beziehen
+• E-Mails, die potenzielle schädliche Inhalte enthalten (z. B. URLs, Anhänge)
+Die automatische Weiterleitung eingehender E-Mails an externe Postfächer, E-Mail-Spam, Missbrauch von Siemens
+Energy-E-Mail-Adressen (z.B. Hinzufügen von E-Mails zu Mailinglisten ohne ausdrückliche Zustimmung) sowie die
+Übermittlung vertraulicher oder streng vertraulicher Informationen per Fax ist untersagt.
+SIEMENS ENERGY 2021 Version: 1.2 Page 3 / 72.2.3. Löschung von Informationen
+Der Geschäftspartner hat alle Informationen auf allen seiner Informationsträger, die für die Erbringung der vertraglich
+vereinbarten Aufgaben oder Tätigkeiten nicht mehr benötigt werden, zuverlässig zu löschen, es sei denn, die Aufbe-
+wahrung ist vertraglich vereinbart oder nach den geltenden Gesetzen und Vorschriften erforderlich.
+Informationen, die in elektronischer oder Papierform vorliegen, werden in Abhängigkeit von ihrer Vertraulichkeit unter
+Beachtung von Standards nach dem Stand der Technik (z.B. BS EN 15713 – Schutzstufe 6, NIST SP800-88, DIN 66399-
+2) gelöscht, bereinigt und entsorgt (d.h. Informationen mit Schutzklassen "Vertraulich" oder "Streng vertraulich" sind
+unwiederbringlich zu vernichten).
+2.3. Zugangs- und Zutrittsberechtigungen
+Bei Bedarf und wenn nicht anderweitig zwischen den Parteien vereinbart, soll, in Abhängigkeit der Schutzstufe des
+jeweiligen IT-Systems, der jeweiligen Anwendung und des jeweiligen Netzwerks, der Geschäftspartner Zugriff aus-
+schließlich über Siemens Energy Zugangslösungen auf das Netzwerk und die Informationen von Siemens Energy er-
+halten (z.B. über die angebotene Geschäftspartnerzugangslösung von Siemens Energy).
+Der Geschäftspartner muss seinen Zugang zu Siemens Energy protokollieren und jede Verbindung zwischen dem In-
+tranet von Siemens Energy und seiner Umgebung vor dem Zugriff von Dritten schützen.
+Der Geschäftspartner darf erhaltene Systemzugangs- und Zulassungsberechtigungen (z.B. Passwort- oder Zugangs-
+karten) nur zur Erfüllung seiner vertraglich vereinbarten Aufgaben und Tätigkeiten nutzen. Solche Systemzugangs-
+und Zulassungsberechtigungen sind auf den Grundsätzen "least privilege", "need to know" und "segregation of duties"
+anzuwenden.
+Der Geschäftspartner wird Siemens Energy zeitnah informieren, wenn sich Änderungen bzgl. der Mitarbeiter oder
+Subunternehmer mit entsprechendem Zugang zu Informationen ergeben.
+Die Zulassungen, alle damit verbundenen technischen Konfigurationen oder kryptografischen Materialien sind ver-
+traulich zu behandeln und dürfen weder an Dritte weitergegeben noch veröffentlicht werden.
+Der Geschäftspartner darf diese Zugangslösung und die damit verbundenen Sicherheitsmechanismen nicht umgehen
+oder missbrauchen.
+2.4. Schutz von Systemen und des Datenzugriffs
+IT-Systeme und Informationsträger, die von den Geschäftspartnern genutzt oder von Siemens Energy zur Erfüllung der
+vertraglichen Verpflichtungen zur Verfügung gestellt werden, müssen durch Maßnahmen nach dem Stand der Technik
+vor unbefugtem Zugriff geschützt werden, einschließlich der physischen Sicherheit für die Arbeitsumgebung des Ge-
+schäftspartners.
+2.4.1. IT-Systeme und Informationsträger von Siemens Energy
+IT-Systeme und Informationsträger von Siemens Energy werden auf der Grundlage von Siemens Energy-Regeln und -
+Vorschriften gesichert und regelmäßig überwacht. Solche Sicherheitsmaßnahmen dürfen vom Geschäftspartner nicht
+umgangen oder manipuliert werden. Bei der Nutzung solcher IT-Systeme und Informationsträger lässt der Geschäfts-
+partner die gebotene Sorgfalt walten, was zumindest die folgenden Schutzmaßnahmen umfasst:
+Nutzung des Diebstahlschutzes für mobile Systeme.
+Kein Missbrauch oder unberechtigter Zugriff bei der Nutzung von gemeinsamen Ressourcen.
+Verwendung von unterschiedlichen Passwörtern pro Benutzerkonto (Anonyme- und Gast-Zugänge sind zu de-
+aktivieren).
+Zugriffsrechte dürfen ohne vorherige Zustimmung von Siemens Energy nicht erhöht werden.
+Ausschalten von sprachgesteuerten Smart Devices oder etwaigen Webcams im Arbeitsbereich, die nicht für
+dienstliche Zwecke benötigt werden (z.B. Amazon Alexa, Apple Siri).
+Abmelden und sicheres Aufbewahren der Geräte, wenn sie nicht genutzt werden.
+SIEMENS ENERGY 2021 Version: 1.2 Page 4 / 7Papierdokumente mit vertraulichen oder streng vertraulichen Informationen dürfen nicht offen zugänglich
+sein oder unbeaufsichtigt bleiben. Sie müssen unter Benutzung geeigneter Schutzmechanismen weggeschlos-
+sen werden.
+2.4.2. IT-Systeme und Informationsträger im Eigentum des Geschäftspartners
+In Ergänzung zu Abschnitt 2.4.1 sind die folgenden zusätzliche Mindestschutzmaßnahmen für IT-Systeme und
+Informationsträger im Eigentum des Geschäftspartners umzusetzen:
+Installation der aktuellen Bios-Version und Aktivierung des Bios-Passworts.
+Keine Nutzung von dauerhaft lokalen Administrationsrechten.
+Aktivierung des Bildschirmschoners des Betriebssystems mit Passwortschutz (als Systemsperre für unbeauf-
+sichtigte IT-Systeme).
+Aktivierung von Festplatten- und Dateiverschlüsselung.
+Schutz vor Viren und ähnlicher Schadsoftware nach dem Stand der Technik, sofern die IT-Systeme oder Infor-
+mationsträger solchen Risiken ausgesetzt sind. Für PC-Systeme ist ein aktueller und permanent aktiver Viren-
+schutz einschließlich eines „Endpoint Detection and Response Agents“ zu verwenden.
+Absicherung des Netzwerkzugangs mindestens durch ein Passwort zum Schutz vor unerlaubtem und bösarti-
+gem Netzwerkverkehr (z. B. Whitelisting).
+Keine Verwendung von Standard-Passwörtern. Löschung von Initialpasswörtern nach Erhalt und Verfall nach
+24 Stunden.
+Passwörter müssen aus einer Kombination von Groß- und Kleinbuchstaben, Ziffern und Sonderzeichen erstellt
+werden. Passwörter müssen mindestens 12 Zeichen enthalten (26 Zeichen für Administratorkonten). Für PINs
+sind frei wählbare Ziffern zu verwenden. Passwörter müssen alle 180 Tage (45 Tage für privilegierte Admi-
+nistratorkonten) geändert werden, es sei denn, das Passwort ist Teil einer Zwei-Faktor-Authentifizierung. Die
+letzten 10 Passwörter dürfen nicht wiederverwendet werden.
+Für den Zugriff auf vertrauliche und streng vertrauliche Informationen ist eine Zwei-Faktor-Authentifizierung
+erforderlich.
+Während des Zugriffs auf Siemens Energy IT-Systeme und Netzwerke darf keine zusätzliche Internetverbin-
+dung des Geräts möglich sein.
+Keine Verwendung von Netzwerk- oder Systemanalysegeräten ohne die ausdrückliche vorherige Genehmi-
+gung von Siemens Energy.
+Angeschlossene Netzwerkgeräte und darauf eingesetzte Software von Drittanbietern müssen regelmäßig ge-
+wartet werden und der Geschäftspartner muss sicherstellen, dass der aktuelle Patch-Level eingespielt ist.
+2.5. Informationspflichten, Cybersecurity Kontakt, Kontrolle
+2.5.1. Informationspflichten
+Der Geschäftspartner informiert die definierten Ansprechpartner von Siemens Energy (u.a. Cybersecurity-Ansprech-
+partner, Vertragsinhaber) über Betriebsstörungen, Feststellung von Fehlern und Schadensfaktoren (z.B. Computervi-
+ren, Programmstörungen) in allen für die Zusammenarbeit genutzten IT-Systemen, Anwendungen, Netzwerken oder
+Software.
+Stellt der Geschäftspartner Schwachstellen oder Sicherheitsvorfälle fest oder liegt ein entsprechender Verdacht vor,
+wird Siemens Energy unverzüglich darüber informiert, z. B. bei Verdacht auf Missbrauch oder Offenlegung von
+PINs/Passwörtern.
+SIEMENS ENERGY 2021 Version: 1.2 Page 5 / 72.5.2. Cybersecurity Kontakt
+Neben den jeweiligen Siemens Energy-Ansprechpartnern ist in den folgenden Fällen die entsprechenden Siemens
+Energy cybersecurity-Kontaktadresse unverzüglich zu informieren, sofern potenziell oder tatsächlich eine Verletzung
+von Informationen, IT-Systemen, Applikationen, Netzwerk oder Informationsträgern vorliegt:
+cybertprm@siemens-energy.com
+2.5.3. Kontrolle
+Siemens Energy behält sich das Recht vor, die Einhaltung dieser Regeln und Grundsätze durch den Geschäftspartner
+wie hier beschrieben zu überwachen. Die an die Netzwerke von Siemens Energy angeschlossenen IT-Systeme werden
+nach dem Stand der Technik auf Sicherheitslücken geprüft. Identifizierte Schwachstellen müssen vom Geschäfts-
+partner unverzüglich behoben werden. Alle sicherheitsrelevanten Patches und Hotfixes, die von Dritten freigegeben
+werden, müssen installiert werden, sofern sie im Zusammenhang mit den vertraglichen Verpflichtungen stehen.
+Der Geschäftspartner hat darüber hinaus die Einhaltung der hier festgelegten Regeln und Grundsätze in geeigneter
+Weise zu protokollieren und zu überwachen und dabei die gesetzlichen Vorgaben (z.B. Aufbewahrungsfristen) zu be-
+achten.
+Verstößt der Geschäftspartner gegen die hierin enthaltenen Regeln und Grundsätze, kann dies zur Sperrung seines
+Zugangs zu den Standorten und IT-Systemen von Siemens Energy führen und vertragliche oder rechtliche Konsequen-
+zen nach sich ziehen.
+2.6. Beendigung der Zusammenarbeit
+Bei Beendigung der Geschäftsbeziehung mit Siemens Energy, einschließlich der Beendigung der Geschäftsbeziehung
+mit einem Mitarbeiter des Geschäftspartners, und sofern nicht anders vereinbart oder von Siemens Energy verlangt,
+sind die folgenden Aktivitäten vom Geschäftspartner durchzuführen und schriftlich zu bestätigen:
+Rückgabe aller IT-Systeme, Geräte, Informationen, Informationsträger, Papierunterlagen und Arbeitsmittel
+(inkl. Zugangskarten).
+Rückgabe aller gewährten Zugänge und Angabe zum Zwecke der Deaktivierung oder Löschung (z.B. Zugang
+zu Dateifreigaben, Service-Accounts, etc.).
+Löschung von Informationen auf allen Informationsträgern und Vernichtung von Papierdokumenten gemäß
+Ziffer 2.2.3.
+Deinstallation der von Siemens Energy zur Erbringung der vertraglichen Leistung zur Verfügung gestellten
+Software (z.B. Virtual Client Software).
+SIEMENS ENERGY 2021Anhang 1
+
+SIEMENS ENERGY 2021

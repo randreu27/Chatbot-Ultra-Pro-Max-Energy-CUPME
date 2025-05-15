@@ -1,0 +1,245 @@
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+Product Specifications:  HOSS  
+ 
+ B. Product Specification 
+ 
+  1.0 Cylinder Design  
+   4.75 and 6.00 Cyls: 1 piece design - rectang ular block type cylinder with integral CE 
+head and separate removable OE head. 
+ 
+   6.50 – 24.50 Cyls: 1 piece design - barrel type cylinder with integral CE head and 
+separate removable OE head. 
+ 
+   26.00 and 28.00 Cyls: 2 piece design - clam  shell type cylinder with integral CE head and 
+separate removable OE head. 
+ 
+  2.0 Cylinder Valve Location 
+ 
+   4.75 and 6.00 Cyls. Valves located in cylinder block, tangential to bore, inlet and 
+discharge directly opposed with top suction and bottom discharge. 
+ 
+   6.50 – 24.50 Cyls. Valves located in cylinder barrel, tangential to bore, inlet and 
+discharge directly opposed and offset with top suction and bottom discharge. 
+ 
+   26.00 and 28.00 Cyls. Valves located in cylinder and OE head, tangential to conical 
+sections, inlet and discharge configured for top suction and bottom 
+discharge. 
+   3.0 Cylinder Cooling All cylinder sizes have the option of being provided with jackets for 
+forced water cooling. 
+    4.75 Cyl: Rectangular block type conf iguration with plate manifolded jackets 
+on either side.  Forced water cooling is optional. 
+    6.50 - 15.00 Cyls. Barrel cylinder is jacket ed with cooling loop integral to casting, 
+bottom inlet and top outlet.  Outer heads on 11.50” sizes and up 
+are jacketed.  Forced water cooling is optional. 
+ 
+   17.50 – 24.50 Cyls: Barrel cylinder is jacke tted with cooling loop integral to casting, 
+bottom inlet and top outlet.  Outer heads have independent jackets 
+with bottom inlet and top outlet.  Forced water cooling is optional. 
+    26.00 – 28.00 Cyls. Clam shell cylinder is  jacketted with separate cooling loops for 
+head and cylinder, each loop integral to casting, bottom inlet and 
+top outlet.    Forced water cooling is optional. 
+ 
+ 
+  4.0 Cylinder Gas Connections Top suction and bottom discharge gas connections.  Flange 
+connections are machined to conform to the dimensional 
+requirements of ANSI B16.5. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+   Round Flange Connections  
+     CYLINDER RATING SIZE 
+     SIZE (IN) (LBS)  (IN)  
+       4.75 1500    3 
+     5.75 1500  4      6.00 1500  4 
+     6.50 1500  4 
+     7.00 1500  4      7.75 1500  4 
+     8.00 1500  4 
+     9.00 900  6      9.50 900  6 
+     10.50 900  6 
+     11.50 600  6 
+     12.25 400  8 
+     13.00 400  8      14.00 400  8 
+     15.00 400  8 
+     16.25 300  10      17.50 300  10 
+     19.00 300  10 
+     20.50 300  10      22.00 300  12 
+     23.00 300  12 
+     24.50 150  14           
+   Rectangular Flange Connections (Non ANSI B16.5) 
+      CYLINDER  SIZE 
+     SIZE (IN)  (IN) 
+      26.00  24 x 6 
+     26.50  24 x 6 
+     28.00  24 x 6  
+ 
+  5.0 Capacity Control / Unloading 
+ 
+  5.1 Clearance Bottle Connection  Located in outer head, option to shorten to increase clearance.       See cylinder specifications for exact range of clearance available 
+for each cylinder.  Standard on all cylinders. 
+   5.2 Clearance Pocket (optional) Variable volume , screw operated, located in head end.  Clearance 
+chamber sealed by piston and ring arrangement. 
+   5.3 Unloaders (optional) Pneumatically actu ated plug type depressor unloader.  Located on 
+suction valve on OE only.  Required on each suction valve/end.  
+Air to load. 
+ 
+ 6.0 Instrumentation OE and CE indicato r holes, 2 per end, drilled, tapped and plugged 
+(1/2" NPT). 
+ 
+ 7.0 Protective Coatings Interior surfac e:  sprayed with rust preventive oil. 
+   
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+ 8.0 Bore    Non linered, 32 RMS finish, 1/16" counter bore.  
+   Option Nose to end linered bore, interference fit, positively 
+locked with a dowel.  Slip fit liner on 26" and 26.5" cylinders only. 
+ 
+ 9.0 Piston Assembly Piston and rod assembly  is held together by Supernut style piston 
+nut. 
+ 
+  9.1 Piston Design Configuration  
+    4.75 - 10.50 Cyls. Solid, 1 piece design, cast gray iron. 
+    11.50 – 16.25 Cyls. Gray cast iron, 2- piece design (vented). 
+ 
+   17.5 – 28.00 Cyls. Cored aluminum, 1 piece design.  Pistons are anodized and 
+Teflon® impregnated, surface hardened to a depth of .002” to 385 
+– 400 Brinell hardness. 
+  9.2 Piston Rings 
+ 
+   Combination Rings Combination ring functions as a compression ring and rider band 
+in one.  Radially cut at a 45 degree angle or lap jointed.  Used on 
+all cylinder bores. 
+  10.0 Piston Rod  One piece heat treated alloy steel, 8-16 RMS finish in packing 
+travel area, rolled threads.  Rods are induction hardened in 
+packing travel area (HRC = 50). 
+ 
+   Option              Annealed Alloy Steel (HRC = 22 Max.) with Siemens Enrgy TC3 
+coating in packing travel area.  HRC of coating = 70.  8-12 RMS finish. 
+ 
+   Option              Age Hardened 17-4 PH Stainless Steel (HRC=26-33) with 
+Siemens Energy TC3 coating in packing travel area.  HRC of 
+coating = 70.  6-10 RMS finish. 
+ 
+   Option              Annealed Stai nless Steel (Carpenter Cust om 450) (HRC = 26 to 
+31) with Siemens Energy TC3 coating in packing travel area.  HRC of coating = 70 6-10 RMS finish.  Due to the availability 
+issues associated with this material, please consult HSRC 
+Marketing before applying . 
+ 
+ 11.0 Piston Rod Packing Full floating ring type,  consisting of segmented rings attached by 
+Inconel garter springs in annular cups, loaded by a bolted flange-like gland.  Fully lubricated (one lube point) and vented. 
+ 
+    Option              Purged (see frame section under "distance piece").  
+     Cases are jacketed for forced cooling on high pressure (> 2000 
+psig) cylinders 8.00" and smaller. 
+ 
+  
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+  11.1 Ring Types and No. 
+ 
+    4.75 - 8.00 Cyls. 3 types, 6 pairs:  1 breaker, 5 sealing and 1 vent ring. 
+ 
+    9.00 – 13.00 Cyls. 3 types, 6 pairs:  1 breaker, 5 sealing and 1 vent ring. 
+       14.00 – 28.00 Cyls. 2 types, 5 pairs:  4 sealing and 1 vent ring. 
+  
+  11.2 Ring Descriptions 
+ 
+   Pressure Breaker Consists of a single, coated cast iron ring cut radially into equal 
+segments.  With pressure relief grooves on outer face.    Zero end 
+gap design.  Rings located in cup closest to pressure.  Used in 
+packings rated over 1000 psig. 
+ 
+   Sealing Rings Comprised of one tangential cut Teflon® packing ring and one 
+radial cut coated cast iron backup ri ng.  This arrangement seals in 
+one direction.  Teflon® ring located on flange end of case. 
+    Vent Ring Consists of one pair made up of two double acting tangentially cut 
+Teflon® packing rings.  Ring pair located in flange end of case. 
+  12.0 Cylinder Lubrication 
+ 
+  12.1 System Configuration Di stribution Block Type - mechanica l force feed lubricator driven 
+off crankshaft with individual pumping unit(s) manifolded together 
+and fed into divider block system.  Tubing, fittings, no flow switch 
+and divider valves included. 
+ 
+   Option  (Standard when Pump to Point mechanical force feed lubricator 
+driven off pressures exceed 3000 psig) crankshaft with individual pumping units for each lubrication feed.  Tubing, fittings and check 
+valves are included. 
+ 
+   12.2 Lube Points Two cylinder lube points, one centered at the t op and the other at 
+the bottom.  One lube point for all packing with MAWP's < 2000 psig, two otherwise. 
+ 
+ 13.0 Valves  
+  13.1 Valve Type Siemens Energy High Speed HammerHead Valves.  Consists of 
+valve seat, stop plate, elements and springs.  Non-metallic (PEEK) 
+valve elements. 
+ 
+  13.2 Valve Assembly All cylinders hav e barrel type crabs and O-ring sealed valve 
+covers.  All assemblies are polarized so that an inlet valve cannot 
+be installed in a discharge port. 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.    
+  13.3 Valve Table 
+ 
+  PRESSURE    EFFECTIVE 
+BORE SIZE VALVE RATING PSIG NO. VALVES/ LI FT LIFT AREA FLOW AREA VALVE CLEAR. (CUIN) 
+(IN) SIZE (DIFF/STATIC ) CORNER (IN) (SQ. IN.) (SQ. IN.) INLET DISCH 
+ 
+  4.75"   HH36 1250/2500 1 .060  1.69 1.42   7.60   3.80   5.75” HH48 2000/4000 1 . 060 2.80 2.20 10.32 7.89 
+  6.00” HH48 2000/4000 1 . 060 2.80 2.20 10.32 7.89 
+  6.50” HH48 2000/4000 1 . 060 2.80 2.20 10.32 7.89 
+  7.00” HH48 2000/4000 1 . 060 2.80 2.20 10.32 7.89 
+  7.75” HH48 1200/2400 1 . 060 2.97 2.32 10.32 7.95 
+  8.00” HH60 1500/3000 1 . 060 4.24 3.46 16.95 13.12 
+  9.00” HH48 1200/2400 2 .085/.060 4.20/2.97 2.80/2.32  10.68/10.32 7.95 
+  9.00” HH60 1300/2600 2 .085/.060 6.00/4.24 4.26/3.46  17.48/16.95 12.42 
+  9.50” HH48 1200/2400 2 .085/.060 4.20/2.97 2.80/2.32  10.68/10.32 7.95 
+  9.50” HH60 1300/2600 2 .085/.060 6.00/4.24 4.26/3.46  17.48/16.95 12.42  
+10.50” HH48 1200/2400 2 .085/.060 4. 20/2.97 2.80/2.32 10.68/10.32 7.95 
+10.50” HH60 1300/2600 2 .085/.060 6. 00/4.24 4.26/3.46 17.48/16.95 12.42 
+11.50” HH60 1300/2600 2 .085/.060 6. 00/4.24 4.26/3.46 17.48/16.95 12.42 
+12.25” HH60 600/1200 2 .085  6.00 4.26 17.48 10.58 
+12.25” HH67 400/800 2 .085 7.20 5.28 22.04 10.41 
+13.00” HH60 600/1200 2 .085  6.00 4.26 17.48 10.58 
+13.00” HH67 400/800 2 .085 7.20 5.28 22.04 10.41 
+14.00” HH67 400/800 2 .085 7.20 5.28 22.04 10.41 
+14.00” HH75 375/750 2 .085 10.21 7.27 28.51 16.87 
+15.00” HH67 400/800 2 .085 7.20 5.28 22.04 10.41 
+15.00” HH75 375/750 2 .085 10.21 7.27 28.51 16.87 
+16.25” HH60 600/1200 3 .085  6.00 4.26 17.48 10.58 
+16.25” HH67 400/800 3 .085 7.20 5.28 22.04 10.41 
+17.50” HH67 400/800 3 .085 7.20 5.28 22.04 10.41 
+19.00” HH67 400/800 3 .085 7.20 5.28 22.04 10.41 
+19.00” HH75 375/750 3 .085 10.21 7.27 28.51 16.87 
+20.50” HH75 375/750 3 .085 10.21 7.27 28.51 16.87 
+22.00” HH75 375/750 3 .085 10.21 7.27 28.51 16.87 
+22.00” HH81 250/500 3 .085 10.81 7.87 32.44 15.45 
+23.00” HH81 250/500 3 .085 10.81 7.87 32.44 15.45 
+23.00” HH92 200/400 3 .085 16.21 11.65 44.86 26.53 
+24.50” HH81 250/500 3 .085 10.81 7.87 32.44 15.45 
+24.50” HH92 150/300 3 .085 16.21 11.65 44.86 26.53 
+26.00” HH81 250/500 4 .085 10.81 7.87 32.44 15.45 
+26.50” HH81 250/500 4 .085 10.81 7.87 32.44 15.45 
+28.00” HH92 150/300 4 .085 16.21 11.65 44.86 26.53 
+ 
+ 
+Siemens Energy is a trademark licensed by Siemens AG.     
+   14.0 Quality Assurance All major component s are visually and dimensionally inspected 
+and their material content reviewed for compliance.  Procedures 
+are per Siemens Energy standard m anufacturing specifications.  
+Any records generated as a result are maintained at the factory. 
+ 
+   Cylinder - Hydro-tested per Engineering Standard 21,500-00.      Painted externally with red oxide primer. 
+     Documentation provided:  QAF-014 (assembly and test record) 
+     Option -  Helium tested per Engineering Standard 21,500-00.  
+ 
+   Piston Rods - Wet magnetic particle tested per Engineering Standard 21,102-00. 
+     Documentation provided:  None 
+ 
+   Valving - Leak tested per V & R Standard 97,148-01.      Documentation provided:  None 
+ 
+     NOTE:    Additional dollars are required for the following (see pricing pages): 
+   • Additional QA/QC requirements outside the standard plan. 
+   • Supplying documentation that  normally isn't provided. 
+   • Witnessing any tests or inspection points. 
+ 

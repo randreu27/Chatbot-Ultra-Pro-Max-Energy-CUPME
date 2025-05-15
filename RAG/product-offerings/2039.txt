@@ -1,0 +1,201 @@
+  
+ 
+Intern    Seite  1 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+o
+L
+o
+g
+i
+s
+t
+i
+c  SE Anweisung | Logistics   Dokument en-Nr.: 1_IN_ 20  Version: 1.0 
+ 
+ Beauftragung von Transportdienstleistungen 
+im Inbound Prozess  
+ 
+ Herausgebende Einheit  SE LOG  DG 
+Fachverantwortlicher  Martin Beutel, SE LOG DG, martin.beutel@siemens -energy .com 
+Veröffentlichungsdatum  11.12.2020  
+Veröffentlichungsdatum  Geltungsbereich  alle Siemens Energy Einheiten und Verbundene Unternehmen  
+(SGRE ausgenommen)  
+Prozesskategorien  Logistics; SCM  
+ 
+Geltungsbereich  
+Diese Anweisung richtet sich an  weltweit alle Mitarbeiter im Purchase -to-Pay Prozess für Inbound 
+Transporte der Siemens Energy. Verantwortlich für die Implementierung und Einhaltung dieser 
+Anweisung sind die Leiter der Logistischen Einheiten.  
+ 
+ 
+Kurze Beschreibung  
+Diese Anweisung regelt  die Bestellung von Transportleistungen durch Lieferanten für den 
+Warentransport Siemens Energy eingehend, sog. Inbound Transporte. Diese Transportleistungen 
+sind im Netzwerk der Siemens -Energy Transportdienstleister abzuwickeln. Das Ziel ist, die 
+Purchase -to-Pay Prozesskosten der Transportleistung zu minimieren, die Datenqualität und den 
+Automatisierungsgrad im Prozess zu erhöhen.  
+Der verpflichtende Einsatz von Transport Management Systemen  minimiert den Aufwand von 
+Siemens Energy bei der Disposition diese r Transporte. Der Lieferant wählt systemgestützt den für 
+die Transportart und -strecke günstigsten Transportd ienstleister aus und beauftragt diesen 
+elektronisch. Dies sichert die Compliance in der Beauftragung, erhöht den Automatisierungsgrad und 
+die Daten qualität im Prozess . Alle diese Eigenschaften realisieren zusätzliche Einsparungen bei 
+Frachtprüfung und -abrechnung.  
+ 
+  
+SE Anweisung | Logistics  Dokumenten -Nr. 1_IN_20 , Version 1.0   
+   
+Intern    Seite  2 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+Table of C ontent s 
+ 
+1 Zielsetzung  ................................ ................................ ................................ ................................ ............  3 
+2 Anwendbarkeit  ................................ ................................ ................................ ................................ ....... 3 
+3 Grundsätze / Anforderungen  ................................ ................................ ................................ .................  3 
+4 Durchführung  ................................ ................................ ................................ ................................ .........  4 
+5 Monitoring  ................................ ................................ ................................ ................................ ..............  4 
+6 Dokumentation  ................................ ................................ ................................ ................................ ...... 4 
+6.1 Begriffe, Definitionen und Abkürzungen  ................................ ................................ ........................  4 
+6.2 Mitgeltende und referenzierte Dokumente  ................................ ................................ ....................  5 
+Dokumenten -Index  ................................ ................................ ................................ ................................ ..... 5 
+Dokumentenprüfung  ................................ ................................ ................................ ..............................  5 
+Änderungshistorie  ................................ ................................ ................................ ................................ .. 5 
+Anhang  ................................ ................................ ................................ ................................ .......................  6 
+  
+  
+SE Anweisung | Logistics  Dokumenten -Nr. 1_IN_20 , Version 1.0   
+   
+Intern    Seite  3 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+1 Zielsetzung  
+Diese Anweisung regelt d ie Bes tellung von  Transportleistungen durch L ieferanten für den 
+Warentransport eingehend Siemens Energy , sog. Inbound Transporte. Es sind  Siemens Energy 
+Transportdienstleister einzusetzen, die Purchase -to-Pay Prozesskosten der Transportleistung zu 
+minimieren, die Datenqualität und den Automatisierungsgrad im Prozess zu erhöhen.  Durch 
+Optimierung der Transpo rte wird die resultierenden CO2 Emission minimiert.  
+ 
+2 Anwendbarkeit  
+Diese Anweisung ist verbindlich für alle Einheiten der Siemens Energy AG und richtet sich an seine 
+Verbundenen Unternehmen gemäß dem  SE Rundschreiben Nr. 1_C_1 „Governance System“ , wobei 
+für SGRE (Siemens Gamesa Renewable Energy S.A. und ihrer nachgeordneten Verbundenen 
+Unternehmen) gesonderte Vereinbarungen gelten.  
+ 
+3 Grun dsätze / Anforderungen  
+Um den Transport im Siemens Energy Transportnetzwerk durchführen zu können , muss bei der 
+Bestellung physischer Güter ein F - Incoterm® gewählt werden . Die Beauftragung des Transports vom 
+Übergabepunkt  des Lieferanten zu Siemens -Energy  (sog. Inbound -Transport) muss folgen de 
+Grundsätze erfüll en: 
+• Die Purchase -to-Pay Compliance gem. SE Rundschreiben  1_C_37  „Procurement Principles“  ist 
+sicherzustellen.  
+• Es sind ausschließlich  freigegebene Transportd ienstleister der Nominated  Forwarders  Liste  zu 
+nutzen . 
+• Gemessen an Transportart, -route und -kosten ist d er beste Transportdienstleister 
+auszuw ählen.  
+• Die Beauftragung muss alle notwendigen Referenzen für die Abrechnung des Transportes 
+beinhalten  und das automatisierte Freight Clearing unterstützen.  
+• Initiiert durch den Lieferanten ist der Inbound -Transport über ein systemgestütztes  Verfahren 
+(sog. Inbound Transport Management System) zu beauftragen .  
+• Die Übermittlung der Transportb eauftragung erfolgt ausschließlich im elektronischen 
+Datenaustausch.  
+Die Dienstleister  im Siemens Energy Transportnetzwerk sind durch  die Rahmenver träge zur Nutzung 
+von Transport Management P lattformen  und zum el ektronischen Datenaustausch verpflichtet . 
+  
+  
+SE Anweisung | Logistics  Dokumenten -Nr. 1_IN_20 , Version 1.0   
+   
+Intern    Seite  4 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+4 Durchführung  
+Durch die Nutzung von Inbound Transport Management Systemen stellt Siemens Energy die 
+Einhaltung o.g. Grundsätze bei gleichzeitiger Minimierung von Aufwand und Kosten sicher.  
+Für Warenverkehr innerhalb Nordamerikas (Kanada  und USA) ist ausschließlich das Online -Portal 
+„MercuryGate“ zu verwenden, für jedweden anderweitigen Warenverkehr ist ausschließlich das Online -
+Portal „ILoP“ zu verwenden.  
+Warenverkehr beinhaltet sowohl Materiallieferungen von externen Lieferanten an SE Einheiten, als  
+auch SE Einheiten an weitere SE Einheiten.  
+Die verpflichtende Nutzung der Systeme MercuryGate bzw. ILoP gilt für alle Inbound Transporte mit F- 
+Incoterm ®. Die Nutzung der Systeme ist auszuweiten  und Einheiten , welche die Systeme noch nicht 
+nutzen, haben d iese zu implementieren.  
+Verantwortlich für die Umsetzung dieser Anweisung sind die Leiter der logistischen Einheiten aller 
+Siemens Energy Division en und Business Units . 
+Als Ansprechpartner für Fragen und zur Implementierung steht SE LOG DG, Herr Martin Beutel zur 
+Verfügung.  
+ 
+5 Monitoring  
+Der Einsatz von Inbound T ransport Management Systemen wird über den „Nutzungs grad Inbound 
+TMS“ gemessen. Die Berechnung des Nutzungsgrades erfolgt, in dem die Anzahl der über TMS 
+abgewickelten Bestellungen zur Gesamtanzahl der Warenb estellungen ins Verhältnis gesetzt  wird. 
+Über d ie Veränderung des „Nutzungs grad Inbound TMS“ im Zeitablauf kann  die Umsetzung dieser 
+Regelung gemessen  werden . 
+ 
+6 Dokumentation  
+6.1 Begriffe, Definitionen und Abkürzungen  
+• F- Incoterm®: FCA oder FOB, Erläuterungen zu den Incoterms siehe Link 
+• ILoP („Inbound Logis tics for Plants”) : Online -Portal für Inbound -Transport beauf tragungen 
+bereitgestellt durch die Firma Siemens Digital Logistics GmbH.  Deren AX4 Plattform wird für den 
+Betrieb des Portals genutzt.  
+• Inbound Transport: Zur Abgrenzung siehe Grafik 1 im Anhang  
+• MercuryGate : Online -Portal für Inbound -Transportbeauftragungen der Firma MercuryGate 
+International Inc.  
+• SE: Siemens Energy  
+• SGRE:  Siemens Gamesa Renewable Energy  
+• TMS:  Transportation Management System  
+ 
+ 
+  
+SE Anweisung | Logistics  Dokumenten -Nr. 1_IN_20 , Version 1.0   
+   
+Intern    Seite  5 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+6.2 Mitgeltende und referenzierte Dokumente  
+• SE Rundschreiben Nr. 1_C_1 „Governance System“  
+• SE Rundschreiben Nr. 1_C_37 „Procurement Principles“  
+• Nominated Forwarder Liste (Nominated_Forwarders_List.xlsx ) 
+ 
+ 
+Dokumenten -Index   
+Dokumentenprüfung  
+ Name, Vorname  Org. Code  
+Reviewer  Schmidt, Andreas   SE GP G LRE SCM  
+Fachverantwortlicher  Beutel, Martin  SE LOG DG 
+Governance Owner  Scharf, Oliver  SE LOG DG 
+ 
+ 
+Änderungshistorie  
+Version  Datum  Hinweise  Freigabe  
+1.0 11.12. 2020  Erstveröffentlichung  Oliver Scharf  (SE LOG DG)  
+ 
+01.01.2022  Review Datum   
+ 
+ 
+  
+  
+SE Anweisung | Logistics  Dokumenten -Nr. 1_IN_20 , Version 1.0   
+   
+Intern    Seite  6 von 6 
+ 
+ 
+Das online verfügbare Dokument  
+ist die jeweils gültige Version.  
+Anhang  
+Grafik 1:  Abgrenzung Transport Dienstleistungen im Inbound Prozess  
+ 
+ 
+ 
+Grafik 2:  Verwendung von Mercury Gate und ILoP  
+ 
+ 

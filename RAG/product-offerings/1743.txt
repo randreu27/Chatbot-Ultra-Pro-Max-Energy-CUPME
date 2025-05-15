@@ -1,0 +1,400 @@
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  1 
+ 
+  
+siemens -energy.com /seafloat  Floating  
+Power Plants  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  2 The Siemen s Energy SeaFloat power plants use 
+the company’s proven and reliable equipment , 
+modified for application on floating devices. While 
+the majority of market requests are for the 
+successful SGT -800 gas turbine, solutions based 
+on the e.g. SGT -8000H series have also  been 
+developed to  address a variety of market  needs.  
+The most obvious ch aracteristics of SeaFloat  power plants 
+that distinguish them from conventional land -based  
+equivalents are:  
+ 
+• Mobility:  The entire power plant can be moved to any site 
+that is accessible by sea or major rivers.  
+• Land consumption:  Almost no investment for land  
+acquisition is required; SeaFloat has been designed to be 
+as small as possible, and it has defined a new standard in 
+power density.  
+• Construction in controlled environments:  Since  the 
+plant’ s construction and a large portion of commissioning 
+are performed using standardized equipment under 
+strictly controlled conditions in the world’s leading ship-
+yards, a short lead time can be realized. Construction of 
+the plant also doesn’t interfere with any infrastructure 
+work that might b e required onshore: for example, instal-
+lation of substation, transmission line, and access roads. 
+This can significantly reduce the overall time required for 
+such infrastructure projects.  Typical applications include:  
+ 
+• Powering up of remote areas like is lands  
+• Development of industrial areas on shorelines or major 
+rivers (for example, chemical and desalination plants)  
+• Brownfield applications, in other words, the replacement 
+of outdated plants like coal -fired power plants: The exist-
+ing plant can continue to  operate until the new one is in 
+place and ready to be connected to the grid  
+• Short -term power to the grid in the event of an urgent 
+need: for example, by leasing a SeaFloat power plant  
+• Higher efficiency, lower emissions and lower cost of elec-
+tricity than r eciprocating engines  
+• Can be supplied as a Floating Storage Regasification and 
+Power Unit (FSRP), improving levelized cost of electricity 
+(LCoE)  
+• Readiness for future H2 application  
+Due on the unique advantages of floating power plants, Sie-
+mens Energy sees m ore compelling applications and projects 
+that we are looking forward to developing with trusted part-
+ners. The option to install efficient combined cycle power 
+plants on floating devices creates a wide range of project ap-
+plications.  
+Examples from the oil an d gas business  
+SeaFloat power plants can be installed on a shared power 
+hub that serves several Floating Production Storage and  
+Offloading Units (FPSO) instead of each FPSO needing its 
+own power supply unit. The additional space gained on the 
+FPSO can be utilized to increase its oil storage capacity.  
+Existing platforms with inefficient open cycle power genera-
+tion units can be extended with a bottoming cycle, resulting 
+in a reduced CO₂ footprint.  
+  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  3 The idea of putting power plants out to sea is not new. Float-
+ing power plants with Westinghouse gas turbines can be 
+found dating back to the 1990s. Floating plants that use inef-
+ficient and costly reciprocating engines are available under 
+leasing contracts. Because mobility, flexibility, and popula-
+tion growth are all pressing concerns tod ay, a  
+dedicated and agile team at Siemens  Energy  worked to de-
+velop  
+a floating power plant using the Siemens Energy latest - 
+generation highly efficient gas turbine frames on floating de-
+vices – and they succeeded in creating  SeaFloat,  a new class 
+of floating  power plants.  
+ 
+The SeaFloat technology combines state -of-the-art combined 
+cycle  power plant technology with the mobility and flexibil-
+ity required by the current and future energy market. Sie-
+mens Energy ’s vision is a future with access to affordable but 
+clean electricity and clean water for everyone. This is chal-
+lenging , but a necess ary in light of climate change and the 
+need to provide electrical energy for the world’s growing 
+population.  
+ 
+SeaFloat power plants can be used as an emergency backup 
+for existi ng power plants during peak loads or outages and 
+to provide a power supply in the event of a humanitarian dis-
+aster. SeaFloat power plants can even be supplemented with 
+a desalination plant to provide clean potable water and help 
+prevent disease. A wide ran ge of gas turbine frames and 
+combined cycle configurations are available so that an appro-
+priate solution that meets specific requirements can be de-
+veloped jointly by the SeaFloat team and its customers . 
+ 
+“SeaFloat applications provide the  right an-
+swers to all the flexibility and mobility needs 
+of the future power market.”  
+Hamed Hossain, Business Owner SeaFloat  
+  1 Introduction  
+Contents  
+1. Introduction  
+Page  3 
+2. The benefits of SeaFloat  
+Page  4 
+3. The business cases  
+Page  6 
+4. SeaFloat power plants:  
+Optimization of  proven 
+technology  
+Page  8 
+5. Conclusion/ Outlook  
+Page  10 
+6. Disclaimer  
+Page  11 
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  4 When first discussing floating power plants –on a 
+vessel, barge , or platform , it brings along a lot of 
+questions. What would I need it for? How well 
+does it work? How is the electricity transported to 
+land? How is fuel delivered to the plant? Why did 
+you develop this, what are the advantages? While 
+the technical aspects stimulate t he curiosity of 
+engineers and trigger their can -do mentality, the 
+important question is whether it is worthwhile to 
+invest in a floating power plant. The simple 
+answer is “ yes.” Of course, all these questions 
+deserve more detailed answers, and they need to  
+be considered from two angles. There is the 
+economic view, and there are also social and 
+environmental factors to bear in mind. These 
+factors are connected, but in the following section 
+we’ll be taking a detailed look at each one 
+individually.  
+2.1 Global awar eness  
+With SeaFloat applications, it is possible to electrify remote 
+areas and areas with limited space, as well as sites where the 
+land is unsuitable for construction or industrial applications. 
+SeaFloat enables deployment and development that drives 
+econ omic growth in areas that are inaccessible by road or 
+that lack HV transmission lines to import power. In countries 
+that are hit hard by catastrophes like hurricanes, earth-
+quakes, or tsunamis, immediate power from SeaFloat power 
+plants allows the recovery process to begin as soon as possi-
+ble. When there is extensive damaged or destroyed infra-
+structure, mobile power plants can bring power and hope to 
+people and financial security to banks and lenders.  2.2 Space requirements  
+The SeaFloat’s enhanced power density  enables installation 
+on a floating hull. Compared with typical land -based applica-
+tions, the power supply footprint can be reduced up to  
+50 percent.  
+2.3 Shorter schedule  
+Construction time can be cut by up to 20 percent by building 
+the power plants in the controlled environment  
+of a shipyard. This  results in lower construction costs.  
+ 
+The shorter timeframe for installing a SeaFloat power plant 
+is due to optimized construction sequences and capabilities 
+which can be realized at shipyards. High lifting capabilities 
+and the design of SeaFloat equipmen t as single lift frame al-
+lows the modules to be easily lifted onto a barge in one piece. 
+Space and access constraints as well as a lack of heavy -lift 
+cranes are typical limiting factors at land -based sites. But at 
+shipyards , there are sufficient crane lift ing capabilities avail-
+able, and the infrastructure also provides sufficient space 
+and transport capabilities. Construction at a shipyard in-
+cludes HRSG cleaning and cold  commissioning activities up 
+to the very moment when the equipment is ready for first 
+fire and grid connection. Of  course, these final hot commis-
+sioning activities need to be executed under real grid condi-
+tions at the place of final operation. But with cold  commis-
+sioning being mostly completed at the shipyard, the required 
+activities at the final destination are limited .  
+  2 The benefits of SeaFloat  
+Types of Sea-
+Float plants   
+Length (m)   
+Width (m)   
+Area (m²)  
+SCC -800 2x1  ~80 ~36 ~2,880  
+SCC -800 3x1  ~95 ~36 ~3,456  
+SCC -800 4x1  ~107  ~36 ~3,852  
+SCC5 -8000H 1x1  ~170  ~60  ~10,200  
+    
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  5 The SeaFloat power plant is ready to inject power to the grid 
+in the shortest possible time once it has arrived at its final 
+destination . This is especially attractive when old power 
+plants are being replaced. The switch to the new plant can be 
+accomplished with minimum disruption to the power supply.  
+2.4 Eco-friendliness  
+Floating g as turbine power plants are as eco -friendly as 
+those land -base d. The difference is seen in the unique fea-
+tures of the floating plants. Economic advantages and eco -
+friendliness are no longer mutually exclusive. Encouraging 
+investors to replace inefficient power plants or coal -fired 
+power plants will help fight CO₂ emi ssions and climate 
+change. Existing land -based assets can still be commercially 
+operated during off -site construction of the new and efficient 
+SeaFloat plant.  
+ 
+The off -site manufacture of the new platform prevents major 
+interference during site activities compared with the typical 
+brownfield substitution system used for land -based power 
+plants. Serving remote areas with highly efficient and clean 
+natural gas or LNG -driven power plants eliminates the use of 
+inefficient, outdated diesel generators. This reduc es CO₂ and 
+other greenhouse -gas emissions as well as local pollutants 
+like dust and noise, enhancing the quality of life for the local 
+population. Environmental considerations are becoming 
+more and more important, and many countries are planning 
+a phase -out of coal -fired power plants.   
+SeaFloat power plants can even use existing structures  
+like cooling water and HV grid connections and provide 
+large -scale combined cycle power plants as a replacement. 
+Also applications with Air Cooled Condensers as heat si nk 
+are available for locations with limited cooling water availa-
+bility.  
+SeaFloat power plants can be  an interesting approach for in-
+ternational companies that are looking for opportunities to 
+reduce their CO₂ footprint, especially under the umbrella of 
+the Paris Climate  Agreement.  
+ 
+2.5 Flexible design  
+Our SeaFloat combined cycle solutions can also be designed 
+as full integrated solution with a floating storage regasifica-
+tion power ship (FSRP) for LNG, as well as fixed platform 
+types  like e.g., jack up platforms.  
+ 
+The fully integrated SeaFloat solution with up to 180.000 m³ 
+LNG storage, allows to provide clean and affordable power to 
+locations without access to fuel. Installation of land -based 
+LNG terminals are not necessary anymore.  
+ 
+Alternatively power barge and LNG storage/regasification 
+can be provided as separate assets . 
+ 
+ 
+ 
+  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  6 The economic advantages of SeaFloat power p lants need to 
+be assessed holistically, taking into account not only the cost 
+of the barge but also all project requirements and risk con-
+tingencies, which often have a major impact on the business 
+case evaluation of conventional land -based power plants.  
+Substituting a  SeaFloat applicati on for a  brownfield land -
+based power plant , taking into account demolition work and 
+relocation of existing site infrastructure – may result in a 20 
+percent shorter project schedule. SeaFloat has the potential 
+to reduce CAPEX by 20 percent and yield a 25 pe rcent better 
+net present value, a five percent better internal rate of re-
+turn , and a 45 percent faster payback.  Replacing reciprocating engines with Siemens Energies gas 
+turbines -based SeaFloat power plants can result in the fol-
+lowing benefits:  
+Based on p roject -specific requirements, a SeaFloat solution  
+can provide major benefits of up to 20 percent better (LCoE) 
+compared with reciprocating engines.  
+  3 The business case s 
+• Labor availability in remote areas  
+• Cost of land acquisition  
+• Soil and typical brownfield risks impact ing 
+project schedule and costs  
+• Required site preparation work  
+(including leveling)  
+• Demolition work and required relocation 
+of existing facilities: such as:  sea water intake 
+and outfall facilities and high -voltage switch-
+gear  
+• Interference with , or required shutdown of,  
+existing plants due to new construction ac-
+tivities  
+• Limited accessibility by road  
+• Increased efficiency of gas turbine -based 
+combined cycle plant  
+• Fuel flexibility with focus on LNG, natural 
+gas, ethane, propane, and diesel  
+• Part -load capability and efficiency of steam 
+turbine design  
+• Fewer emissions (COi, NOx, UHC and noise), 
+important in the context of the Paris Cli mate 
+Agreement as well as for financial reasons  
+• Lower space requirements due to higher 
+power density  
+• Long maintenance intervals resulting in 
+fewer required maintenance staff and signifi-
+cantly greater availability  
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  7  
+After carefully screening market and customer 
+requirements, Siemens Energy now offers 
+seaworthy power plants based on SGT -800 
+technology and on the SGT -8000H series, each 
+addressing specific market needs. When 
+modifying the land -based equipment, the 
+characteristic requirements of floating dev ices , 
+primarily motion (“roll and pitch”), acceleration, 
+and deflection , were accommodated  in the design 
+to make the equipment seaworthy.  
+  4 SeaFloat power plants:  
+Optimization of proven technology  
+SGT-800  
+Development of remote areas  
+SeaFloat applications based on the SGT -800 are the 
+front -runners in developin g remote coastal areas. 
+A reliable supply of electrical energy strengthens the 
+economy and opens the door to new investments. 
+Eventually it improves the social and economic cir-
+cumstances of local residents. With solutions available 
+from 150 MW in a SCC -800  2x1 configuration to 450 
+MW in a SCC 800 4x+1 configuration, a wide range of 
+power demands can be addressed.  
+ 
+The SGT -800 gas turbine provides:  
+ 
+• Plug -and-play concept with high degree  
+of automation  
+• Modularized application for high degree of  
+standardizati on and flexible installation  
+• Flexible power plant solution with high  
+efficiency at plant part load  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  8   
+SGT-8000H  
+The high performer of large gas turbines  
+Even the heavy -duty gas turbine – Siemens  Energy ’s 
+high -end SGT -8000H – has been enhanced for SeaFloat 
+application. It is available in SCC -8000H 2x1 and SCC -
+8000H 1x1 combined cycle configurations and deliv-
+ers up to 1,330 MW with a plant efficiency higher than 
+61 percent. This highly efficient and reliabl e large -
+scale power plant is primarily intended to replace 
+older plants like nuclear power plants and coal -fired 
+power plants.  
+ 
+The SCC -8000H SeaFloat power plant consists of a 
+gas-turbine generator package and a single -lift pack-
+age for the steam -turbine g enerator package with con-
+denser. Within the HRSG’s steel structure, flexible ele-
+ments absorb deflections while a compensator decou-
+ples the gas turbine from the HRSG.  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  9 Mobility and flexibility are becoming more and more im-
+portant in tod ay’s world. The prospects for SeaFloat power 
+plants based on state -of-the-art combined cycle technology 
+are diverse and promise wealth and development in many ar-
+eas. Because it is equipped with the latest highly efficient 
+combined cycle technology, SeaFloa t can also play an im-
+portant role in replacing outdated technology and therefore 
+can support the achievement of national and global climate 
+goals (like the Paris Climate Agreement).  
+ 
+SeaFloat power plants are more competitive than compara-
+ble power plants w ith reciprocating engines, and depending 
+on the project requirements, they  are also more cost -efficient 
+than traditional land -based power plants.SeaFloat applications currently use but are not limited to ma-
+chines in the SGT -800 and SGT -8000H series.  
+ 
+Siem ens Energy is looking forward to supplying equipment 
+for floating power plants – and is also seeking partners to re-
+alize extended, forward -looking applications like floating 
+storage regasification and power units (FSRP), where the 
+power plant is mounted on  an FSRU or combined with float-
+ing desalination units. Our vision is to provide access to 
+clean water and energy to everyone.  
+  5 Conclusion/ Outlook  
+
+White paper | SeaFloat | September 2021  
+ © 2021  Siemens Energy  Page  10 Subject to changes and errors. The information given in this 
+document only contains general descriptions and/or perfor-
+mance features which may not always specifically reflect 
+those described, or which may undergo modification in the 
+course of further devel opment of the products. The re-
+quested performance features are binding only when they 
+are expressly agreed upon in the concluded contract. All 
+product designations may be trademarks or product names 
+of Siemens Energy Global GmbH & Co. KG or other companies  
+whose use by third parties for their own purposes could vio-
+late the rights of the owners.  
+ 6 Disclaimer  
+Published by  
+ 
+Siemens Energy Global GmbH & Co. KG  
+Otto -Hahn -Ring 6  
+81739 Munich  
+Germany  
+Article No. PGSO -T10001 -00-7600  
+For more information, please visit our website:  
+https://www.siemens -energy.com/ seafloat  
+Siemens Energy is a trademark licensed by Siemens AG.    
+   

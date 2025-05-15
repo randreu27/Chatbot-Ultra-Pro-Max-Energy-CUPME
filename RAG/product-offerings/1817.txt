@@ -1,0 +1,333 @@
+Reprinted from March 2022 60 HYDROCARBO N 
+ENGINEERING
+
+Reprinted from March 2022 61 HYDROCARBO N 
+ENGINEERING
+Several years ago, while hosting a cybersecurity panel 
+discussion as part of an industry automation 
+conference, a colleague began the session with a 
+telling exercise that revealed how vulnerable 
+unprotected industrial control systems (ICSs) can be. He 
+opened a port on a web server installed on his laptop that 
+was connected to the conference hotel’s internet, and then 
+started the panel discussion. One hour later, after the Q&A, 
+he checked the web server’s firewall log and counted 
+35 different attempts to penetrate it.
+Today, such an exercise would likely have found many 
+more times that number of attack attempts in an hour. In 
+fact, in summer 2021, cybersecurity researchers set up a 
+honeypot experiment with 320 nodes globally. It consisted 
+of purposely misconfigured cloud services – remote desktop 
+protocols (RDP) and secure shell (SSH) protocols among 
+them – as well as several accounts with weak passwords. The 
+researchers found that 80% of the nodes were compromised 
+within 24 hours (many within minutes), and all were 
+penetrated within a week.1 
+Energy: a top target for cyberattacks
+Of course, if the world’s energy industry needed an object 
+lesson in why cybersecurity matters, it receieved a big one in 
+May 2021, as this was when a ransomware attack shut down 
+the 5500-mile Colonial Pipeline in the US for six days, 
+disrupting fuel supplies throughout the East Coast. The 
+collective economic disruption in the region certainly 
+dwarfed the US$4.4 million ransom that the pipeline’s owner 
+reportedly paid the hackers.2   
+This attack dramatically changed risk assessment of the 
+energy industry – and cyber professionals’ perceptions of 
+that risk. According to a 2021 SANS survey on the state of 
+cybersecurity for operational technology (OT) and ICS, the 
+energy sector is now seen as the most at-risk industry for 
+cyberattacks.3  
+The survey’s report echoes Siemens Energy’s experience 
+advising and providing OT cybersecurity services to 
+companies across the energy industry’s value stream. It 
+found that the top challenges facing industrial companies in 
+securing their operations are:3 
+n Technical integration of legacy and ageing OT 
+technology with modern IT systems: 59.4%.
+n Insufficient labour resources to implement existing 
+security plans: 56.0%.
+n IT staff lacking understanding of OT operational 
+requirements: 52.2%.
+n Traditional IT security technologies that are too complex 
+to implement and maintain in an OT environment: 39.6%.Sam Miorelli, Siemens Energy, USA,  
+presents a simplified, four-step 
+approach to stronger cybersecurity 
+in downstream operations.
+Reprinted from March 2022HYDROCARBO N 
+ENGINEERINGYet, despite these obstacles to plugging vulnerability 
+gaps, a common excuse is that budgets to strengthen 
+cyber defenses are constrained in an industry that has 
+under invested in these protections for decades, or are 
+only available if requested in once-annual budget cycles. 
+Some firms find themselves at a loss for where to start, 
+let alone how to build a budget request to their board or 
+senior management to fund better OT cybersecurity. 
+Cybersecurity is not rocket science 
+Certainly, these challenges can be formidable. However, 
+they are not insurmountable, nor are they rocket science 
+to solve. The good news is that downstream oil and gas 
+companies can adopt the straightforward, four-step 
+approach that Siemens Energy’s cybersecurity experts and 
+managed services team have successfully used to close 
+vulnerability gaps for customers worldwide in recent 
+years. 
+This approach is used to turn the unknowns and 
+uncontrolled risks into a change management project – 
+one involving a nexus of technology, people, and 
+processes – that any organisation familiar with the 
+operational rigours of the oil and gas industry can 
+implement successfully. The four steps are:
+ nIdentify and design.
+ nAcquire.
+ nDeploy.
+ nOperate and transition.
+Because OT cybersecurity requirements differ 
+significantly from IT needs, this approach is necessarily 
+OT-oriented. OT environments are deterministic, 
+requiring minimal latencies so that automation 
+commands can be communicated and executed in their 
+often millisecond timeframes, which precludes most 
+forms of active scanning. If those commands are not 
+performed in their specified timeframes – so a valve 
+does not open, or a pump does not start – plant 
+operations can be disrupted, potentially at significant 
+cost to production or even risking environmental, health, 
+or safety dangers. 
+Other challenges facing OT environments with many 
+different ICSs operating in a highly-engineered and 
+orchestrated synchronisation, which are typical of 
+downstream production plants, include the following:
+ nAvoiding or minimising plant disruptions during the 
+deployment of security controls.
+ nSupporting legacy automation equipment and 
+software, given the sunk capital investments and long 
+lifespans of such assets.
+ nAvoiding violating vendor service agreements while 
+deploying third-party security software.
+ nTesting security controls thoroughly to avoid 
+compatibility issues. 
+ nPrioritising worker and plant safety, environmental 
+compliance, and asset availability.
+This article will now take a closer look at each of the 
+four steps in the recommended approach.Step one – identify and design
+This phase is critical. It is where the need to mitigate or 
+remediate what could be a currently unknown or 
+unquantified cybersecurity risk must be identified and 
+prioritised to define the right amount of investment and the 
+timing of that investment. As with any risk management 
+exercise, some are more critical than others, and 
+prioritisation guides a logical cybersecurity journey.  
+Business leaders can often be caught unprepared during 
+the later stages of operating an OT security program due to 
+a lack of proper upfront planning and designing. Given the 
+volume and relevance of this investment – vs a 
+compliance-driven, minimum security investment approach 
+– Siemens Energy recommends a joint discovery process that 
+brings its experts and their OT and IT teams together. 
+Siemens Energy starts by identifying the company’s strategic 
+security goals. This avoids ‘one-size-fits-all’ plans and helps 
+to define each plant’s proper cybersecurity journey. The 
+following are examples of tasks performed in this phase:
+ nConducting a detailed review of what is motivating the 
+cybersecurity investment (e.g. audit results, past 
+incidents, risk assessment results). 
+ nUnderstanding existing industrial automation assets and 
+security safeguards, especially off-the-shelf security 
+tools, and their ages and current operating conditions. 
+ nIdentifying constraints such as lack of vendor support 
+and compatibility for third-party security tools.
+ nAnalysing in detail the requirements for each currently 
+operating security control and its minimum technology 
+features available for use in an upgraded security 
+framework.
+ nCreating a detailed logical and physical network design 
+that considers the impact of the target security 
+architecture and new services to be included.
+ nAligning with the company’s enterprise IT security 
+strategy and interfaces to avoid overlaps and allow for 
+an optimal detection and response strategy going 
+forward.
+ nCreating a new security management system governance 
+framework – policies, procedures, and standards – 
+aligned with the company’s future state vision with 
+accommodations for the particular requirements for 
+every plant.
+ nDeveloping a detailed project plan, incorporating the 
+governance framework, and with clearly written goals, 
+strategies, objectives, tactics, metrics, timelines, 
+responsibilities, and budgets. All stakeholders need to 
+participate in its development, and executive 
+management must sign off on it.
+Step two – acquire
+This step involves selecting the right providers to meet the 
+defined quality, budget, and time constraints identified in 
+step one. It can be a big challenge for companies operating 
+multiple downstream production facilities, especially if 
+those plants are located in different regions of the world. 
+This is where a partner with global reach and a 
+vendor-agnostic approach helps. While Siemens Energy has 
+a rich legacy in original equipment manufacturer (OEM) 
+Reprinted from March 2022HYDROCARBO N 
+ENGINEERINGindustrial controls, its cybersecurity work is aggressively 
+vendor-agnostic both in securing control systems and the 
+tools used to provide that security. In addition, 
+vendor-agnostic solution integrators have the advantage of 
+maintaining many relationships across the industry, which 
+lets them offer the most appropriate tools even as things 
+change at extraordinary speed. Typically, this step will 
+require:
+ nDrafting detailed request for proposals (RFPs) and 
+coordinating subcontractor and vendor 
+communications.
+ nQualifying, selecting and overseeing a plan’s execution 
+with the chosen third-party providers.
+ nMonitoring the shipping and receipt of hardware and 
+software while filling in any gaps or inconsistencies in 
+their order fulfillment.
+ nDetailed coordination with plant operators during 
+planned plant maintenance and outages when new 
+security system safeguards will be installed and 
+commissioned, and when new network segmentations 
+are done.
+ nPlanning and documenting the deployment of new 
+cybersecurity measures, including personnel training, 
+altered management communications, adoption 
+monitoring, and safety hazard assessments where 
+applicable.
+Step three – deploy
+This phase involves installing and commissioning the 
+designed security controls for each cybersecurity risk 
+mitigation. It should include detailed configuration design 
+and testing either in a laboratory, factory acceptance 
+testing (FAT), or site acceptance testing (SAT). The idea is to 
+identify and resolve compatibility issues as much as 
+possible before onsite installation and commissioning 
+occur. This helps to reduce risk during a planned outage 
+and ensure that the plant can resume operations within the 
+allotted timeframe. 
+Typically, Siemens Energy’s engineers are onsite to 
+perform integration testing and refine the rollout plans 
+based on the outcome of the laboratory/FAT tests. To 
+further minimise execution time during the deployment, 
+migrations to the new security system will be planned and 
+grouped together based on similarity and the ability to execute within the outage schedule 
+afforded by the customer’s ongoing 
+operations. This keeps onsite 
+changes and the potential for 
+adverse impacts to a minimum. 
+Notably, the proper backup will 
+be executed in collaboration with 
+the customer’s OT/IT teams before 
+significant changes, with detailed 
+rollback plans drafted and ready for 
+use in each case. The following 
+summarises these and other tasks to 
+be performed:
+n   Planning and designing system 
+and network configuration for 
+every cybersecurity safeguard 
+to be deployed (e.g. design of target hardening 
+policies).
+n   Thorough testing with representative equipment with 
+target system configurations.
+ nCreating detailed rollout and rollback plans to 
+augment and include the overall plan.
+ nCoordinating, aligning, planning and monitoring of 
+tasks to be performed by third-party participants in 
+the new security system’s deployment.
+ nConducting pre-rollout site visits and rehearsing the 
+execution of rollout tasks.  
+ nMonitoring the availability of all assets involved in the 
+security system migration (before, during and after 
+changes).
+ nExecuting other change-management-related practices 
+(e.g. change requests, communications, monitoring, 
+awareness, etc).
+ nUpdating existing documentation or creating new 
+documentation as needed (e.g. updated logical and 
+physical network diagrams, IP numbering 
+standard/procedures) to create a single as-built 
+documentation resource for future consultation and 
+updating as updates and upgrades are made. 
+ nProvisioning a rollout service desk with engineers 
+available to address any adverse impacts on operating 
+assets affected by the migration to the new security 
+system.
+Step four – operate and transition
+In this phase, the customer’s OT/IT teams (and, if applicable, 
+contracted third-party outsourcing providers) will properly 
+operate the newly-deployed security system to its maximum 
+potential. This phase also provides the training that the 
+automation and operations teams will require to learn how to 
+operate the plant in the new security environment, which will 
+likely include new host-based security agents; prohibited and 
+therefore blocked communications that may have been 
+previously considered routine, especially with external parties; 
+and the operation of new security appliances and tools. This 
+will ensure a smooth transition that minimises post-rollout 
+service desk requests related to the change. The following 
+provides a summary of these and other tasks to be performed:
+ nEvaluating operational impacts with the additional security 
+tools, processes and procedures.
+Figure 1.  Siemens Energy has successfully developed a four-step approach 
+to close vulnerability gaps for customers worldwide in recent years (image 
+courtesy of Siemens Energy).
+Reprinted from March 2022HYDROCARBO N 
+ENGINEERING nDesigning the target operations model, as well as its 
+workload and workforce requirements, to properly 
+sustain the change.
+ nRecommending adjustments in the organisational structure, 
+roles and responsibilities to fit the defined ‘responsible, 
+accountable, consulted and informed’ (RACI) model.
+ nDefining target service-level agreements (SLAs) for 
+deployed security services.
+ nDefining the best sourcing strategy for select services 
+across a customer’s different host countries, if applicable.
+ nSupporting the selection of qualified managed service 
+providers, if needed. 
+ nSupporting the transition of service and knowledge 
+transfer to the operations provider.
+Conclusion
+The four steps described herein can help plant operators 
+make cost-effective step changes to close cybersecurity gaps 
+in their operations. This is true even if they currently have 
+little or no knowledge of the topic or find it overwhelming in 
+the context of their highly complex plant operations.
+In many cases, especially in sovereign-owned national plant 
+operations, the local hiring of highly-qualified security talent 
+can be difficult because of its scarcity. To prevent this from 
+becoming a critical path item in developing and enacting more 
+robust cyber safeguards, Siemens Energy usually recommends 
+outsourcing to an OT-managed security services provider for 
+immediate needs, either as a bridge to self-operations or a 
+long-term solution to global cybersecurity staffing shortfalls. As part of step four, Siemens Energy helps its customers 
+adopt the ‘ADKAR’ approach in order to achieve the needed 
+cultural change. ADKAR – awareness, desire, knowledge, 
+ability and reinforcement – are the five changes that need to 
+happen for a change to be successful. After all, an 
+organisational change can only happen when individuals 
+change, and more robust cybersecurity for downstream oil 
+and gas operations is undoubtedly worth the effort and 
+investment.
+Finally, the deployment of a comprehensive, updated 
+cybersecurity system with a mature governance framework 
+must include a high level of OT/IT collaboration, as well as 
+executive management support behind it all – whether the 
+system is deployed across a single plant or multiple plants. 
+Even then, for it to succeed, operational personnel from 
+the front office to the back office and everywhere in 
+between need to be aware of the changes, know their 
+responsibilities for supporting those changes (e.g. not 
+opening unsolicited emails or attachments), and learn what, if 
+anything, they might have to do differently in their 
+day-to-day jobs. In practice, plant cybersecurity is everyone’s 
+responsibility, just like plant safety. 
+References
+1. CHEN, J., ‘Observing Attacks Against Hundreds of Exposed Services in 
+Public Clouds’, Palo Alto Networks, (22 November 2021), https://unit42.
+paloaltonetworks.com/exposed-services-public-clouds/ 
+2. EATON, C., and VOLZ, D., ‘Colonial Pipeline CEO Tells Why He Paid 
+Hackers a $4.4 Million Ransom’, The Wall Street Journal, (19 May 2021).
+3. BRISTOW, M., ‘A SANS 2021 Survey: OT/ICS Cybersecurity’, 
+SANS Institute, (August 2021), pp. 5 – 7.

@@ -1,0 +1,495 @@
+Siemens Energy is a registered trademark licensed by Siemens AG.
+Capital Market 
+Day 2020
+Generation Section
+Jochen Eickholt, Member of the 
+Executive Board of Siemens Energy
+Siemens Energy is a registered trademark licensed by Siemens AG. © Siemens Energy, 2020
+CMD | J. Eickholt | Generation 2
+2020 -09-01 © Siemens Energy, 2020
+Notes and forward -looking statements (I)
+Siemens Energy isa registered trademark licensed bySiemens AG.This presentation andtheinformation contained herein areforinformation purposes only anddonotconstitute aprospectus oranoffer tosellorasolicitation ofanoffer tobuyor
+subscribe foranysecurities ofSiemens AGorSiemens Energy AG.This presentation isnotdirected to,orintended fordistribution tooruseby,anyperson orentity thatisacitizen
+orresident orlocated inanylocality, state, country orother jurisdiction where such distribution, publication, availability orusewould becontrary tolaworregulation ofsuch
+jurisdiction orwhich would require anyregistration orlicensing within such jurisdiction .Anyfailure tocomply with these restrictions may constitute aviolation ofthelaws ofother
+jurisdictions .Anysecurities tobedistributed inconnection withthistransaction have notbeen andwillnotberegistered under theU.S.Securities Actof1933 (asamended) orthe
+laws ofanystate oftheU.S.Neither Siemens AGnorSiemens Energy AGintends toregister anysecurities referred toherein intheU.S.
+This presentation isbeing distributed to,andisdirected only at,persons intheUnited Kingdom (“U.K.”)incircumstances where section 21(1)oftheFinancial Services andMarkets
+Act2000 does notapply .This document does notconstitute anoffer document oranoffer ofsecurities tothepublic intheU.K.towhich section 85oftheFinancial Services and
+Markets Act2000 oftheU.K.applies and isnot,andshould notbeconsidered as,arecommendation thatanyperson should subscribe fororpurchase anysecurities .This
+document isbeing communicated only to(i)persons who areoutside theU.K.;(ii)persons who have professional experience inmatters relating toinvestments falling within article
+19(5)oftheFinancial Services andMarkets Act2000 (Financial Promotion) Order 2005 (asamended) (the“Order”) or(iii)persons within thescope ofarticle 43oftheOrder or(iv)
+high networth companies, unincorporated associations andother bodies who fallwithin article 49(2)(a)to(d)oftheOrder (allsuch persons together being referred toas“Relevant
+Persons”) .Anyinvestment orinvestment activity towhich thisdocument relates isavailable only toandwillbeengaged inonly withRelevant Persons, andanyperson who isnota
+Relevant Person must notactorrelyonthiscommunication oranyofitscontents .This document should notbepublished, reproduced, distributed orotherwise made available, in
+whole orinpart, toanyother person without theprior consent ofSiemens AGorSiemens Energy AG.
+Norepresentation orwarranty, express orimplied, ismade astothefairness, accuracy, completeness orcorrectness oftheinformation contained herein, andnoundue reliance
+should beplaced onit.Neither Siemens AGnorSiemens Energy AGnoranyoftheir affiliates, advisers, connected persons oranyother person accepts anyliability foranyloss
+howsoever arising (innegligence orotherwise), directly orindirectly, from thispresentation oritscontents orotherwise arising inconnection withthispresentation .
+Itshould benoted thatfinancial information regarding Siemens Energy AG's reporting segment Siemens Gamesa Renewable Energy (SGRE) hasbeen taken orderived from the
+combined financial statements ofSiemens Energy orfrom itsaccounting records orinternal management reporting systems anddoes notnecessarily correspond tofinancial
+information publicly reported bySiemens Gamesa Renewable Energy S.A.
+Certain numerical data, financial information andmarket data inthispresentation have been rounded inaccordance with commercial rounding .Unless otherwise indicated, all
+financial data presented inthetextandtables inthispresentation isshown inmillions ofeuros (€million), commercially rounded tothenearest million .Percentage changes and
+ratios inthetextandtables ofthispresentation arecalculated based ontherounded numbers shown inthispresentation, andthen commercially rounded toawhole percentage or
+toonedigit after thedecimal point .Such rounded figures andpercentages may notaddupto100%ortothetotals orsubtotals contained inthispresentation .
+Certain financial data included inthispresentation consists ofnon-IFRS financial measures .These non-IFRS financial measures may notbecomparable tosimilarly titled
+measures presented byother companies, norshould they beconstrued asanalternative toother financial measures determined inaccordance withIFRS .Youarecautioned notto
+place undue reliance onanynon-IFRS financial measures included herein .
+CMD | J. Eickholt | Generation 3
+2020 -09-01 © Siemens Energy, 2020
+Notes and forward -looking statements (II)
+Siemens Energy isa registered trademark licensed bySiemens AG.This presentation contains forward -looking statements .These statements arebased onthecurrent views, expectations, assumptions and information ofthemanagement of
+Siemens AGandSiemens Energy AG.Forward -looking statements involve known andunknown risks anduncertainties and, therefore, should notbeconstrued asguarantees of
+future results, performance andevents .Actual results, performance orevents may differ materially from those described insuch statements dueto,among other things, changes in
+thegeneral economic andcompetitive environment, risks associated with capital markets, currency exchange rate fluctuations, changes ininternational andnational laws and
+regulations, inparticular with respect totaxlaws andregulations, affecting Siemens Energy AG, andother factors .Siemens AGorSiemens Energy AGdonotundertake any
+obligation toupdate anyforward -looking statements .
+Accordingly, anyforward -looking statement relating totheimpact oftheCOVID -19pandemic onSiemens Energy AGoranyofitssubsidiaries isonly anestimate asoftoday .
+Given therapidly evolving nature oftheCOVID -19pandemic andtheuncertainties regarding countermeasures bygovernments around theworld tocombat itseffects, noundue
+reliance should beplaced onsuch forward -looking statements .
+Any assumptions, views oropinions contained inthispresentation represent theassumptions, views oropinions ofSiemens AGorSiemens Energy AGasofthedate ofthis
+presentation andaresubject tochange without notice, unless andupdate isrequired bylaw.Allinformation notseparately sourced isfrom Siemens AGorSiemens Energy AG
+data andestimates .Market andmarket share data isbased oncompany internal estimates derived from continuous analysis andaggregation ofinternal andexternal market data,
+including data from third-party sources .Third party industry publications, studies andsurveys generally state thatthedata contained therein have been obtained from sources
+believed tobereliable, butthatthere isnoguarantee oftheaccuracy orcompleteness ofsuch data.While Siemens Energy AGbelieves thateach ofthese publications, studies
+andsurveys hasbeen prepared byareputable source, neither Siemens AGnorSiemens Energy AGoranyother party hasindependently verified thedata contained therein .
+Accordingly, undue reliance should notbeplaced onanyoftheindustry ormarket data contained inthispresentation .Information contained inthispresentation related topast
+performance isnotanindication offuture performance .The information inthispresentation isnotintended topredict actual results, andnoassurances aregiven with respect
+thereto .
+Advertisement
+This communication isanadvertisement forthepurposes oftheProspectus Regulation EU2017 /1129 andunderlying legislation .Itisnotaprospectus .Thelisting oftheshares of
+Siemens Energy AGontheregulated market oftheFrankfurt Stock Exchange (Frankfurter Wertpapierbörse )willtake place onthebasis ofanapproved prospectus .The
+prospectus has been approved bytheGerman Federal Financial Supervisory Authority (Bundesanstalt fürFinanzdienstleistungsaufsicht –"BaFin ")inaccordance with the
+Prospectus Regulation regime .However, theapproval oftheprospectus byBaFin should notbeunderstood asanendorsement oftheshares ofSiemens Energy AG.Investors
+should purchase shares solely onthebasis oftheprospectus relating totheshares and should read theprospectus before making aninvestment decision inorder tofully
+understand thepotential risks andrewards associated with thedecision toinvest intheshares .Copies oftheprospectus areavailable freeofcharge from Siemens Energy AG,
+Otto-Hahn -Ring 6,81739 Munich, Germany, oronSiemens Energy AG’s website (www .siemens -energy .com/investorrelations) .
+CMD | J. Eickholt | Generation 4
+2020 -09-01 © Siemens Energy, 2020
+Our Management Team
+What we stand for
+Jochen Eickholt
+Member of the 
+Executive Board
+Better performance 
+through Operational 
+Excellence
+4
+2020 -09-01
+ © Siemens Energy, 2020CMD | J. Eickholt | Generation
+5
+2020 -09-01CMD | J. Eickholt | GenerationWe are uniquely positioned across central 
+and distributed generation
+Central generation >100 MW1Distributed generation <100 MW1Business 
+segments
+Customer 
+groups2
+Utilities Municipalities EPCs IPPs IndustriesService –of our large generation fleet (>100 MW)
+Note: Market position related to addressed market according to Siemens Energy internal assessment for FY19; IPP = Independent Power Producer; 
+EPC = Engineering, Procurement, Construction | 1Gas Turbines; Steam –Central: >250 MW, Steam –Distributed: <250 MW | 2Split based on order 
+intake with third parties for new units, FY19~30% ~20% ~20% ~30%#2 globally #1 globally
+© Siemens Energy, 2020
+CMD | J. Eickholt | Generation 6
+2020 -09-01 © Siemens Energy, 2020Snapshot 
+Our SGT5 -9000HL and SGT -800
+1 Compared to coal -fired power plants: 3.7 Mt CO2savings per year; equal to 1 m mid -range cars clocking up 17,500 km a yearSGT5 -9000HL heavy -duty gas turbine SGT-800 industrial gas turbine
+13.0 m5.3 m
+10.5 m3.1 m
+Power output of up to 
+593 MWPowering 3.3 m 
+peopleCO2savings 
+equivalent to 
+1 m cars1Power output of up to 
+62 MW>400 
+turbines soldCapability to burn H2
+of up to 50% 
+7
+2020 -09-01CMD | J. Eickholt | GenerationSiemens Energy Generation 
+by numbers
+Key figures (FY19)
+€8.6 bn €33 bn
+Order backlog Orders
+~27 k €8.2 bn
+Total revenue Employees~28%
+share of Siemens
+Energy total 
+revenue€28.8 bn
+34%
+15%51%€8.2 bn
+1 Total revenue splits calculated before intra -group consolidation and reconciliation effectsSiemens Energy total revenue (FY19)
+Generation total revenue (FY19)1
+Central New Unit
+Distributed New UnitCentral Power
+Generation Service
+© Siemens Energy, 2020
+8
+2020 -09-01CMD | J. Eickholt | GenerationSiemens Energy Generation 
+Monetizing our powerful market position 
+and service business
+Positioning
+Service
+Energy transition
+ValueA market leader with strong global presence, 
+high customer intimacy and highly competitive portfolio
+Resilient service business with strong backlog, 
+attractive profitability and a growing fleet
+Driving the energy transition by distributed offering and 
+innovations in decarbonized energy systems and digital
+Value generation by cost-out programs, footprint consolidation, 
+portfolio streamlining and focus on service and distributed
+© Siemens Energy, 2020
+CMD | J. Eickholt | Generation 9
+2020 -09-01 © Siemens Energy, 2020
+We are leading across 
+our offer spectrum
+Note: Market position related to addressed market according to Siemens Energy internal assessment for FY19 | 1 By market share in number of units | 2Gas and 
+steam, in number of units | 3By market share in terms of order intake in € | 4Considering total global fleet of installed large gas and steam turbines (Siemens Energy 
+internal assessment, based on several industry sources, including fleet data and other market sources; estimated share includ es turbines using SE technology) Central Generation Distributed Generation Service
+inlarge gas turbines (LGT)1 in industrial gas turbines (IGT)1 share of central generation fleet (>100 MW)4
+largest fleet >100 MW2 in industrial steam turbines (IST)3 average duration of service relationship
+9
+2020 -09-01#2 #1 25%
+#2 #1 ~16-18 years
+© Siemens Energy, 2020CMD | J. Eickholt | Generation
+CMD | J. Eickholt | Generation 10
+2020 -09-01 © Siemens Energy, 2020Generation
+share of 
+fleet2~25% ~15% ~30% ~30% ~20%With our broad offering 
+we effectively address local needs
+Note: CHP = Combined Heat and Power; UGTC = China United Heavy -duty Gas Turbine Company
+1 Including Africa | 2 Siemens Energy Generation fleet (including technology ownership) vs. total fleet >100 MW | 3HL-class turbineGeneration
+offering/value 
+propositionKorea HL 
+Market Intro
+Highly efficient solutionUGTC
+Technology partnershipUS Lincoln
+County
+HL3intro and partnershipEgypt 
+Roadmap
+Joint developmentGermany Marl 
+Project
+High CHP efficiency
+Local needs Nuclear 
+to gasCoal to gas Coal to gas and
+gas to powerPower to 
+societyDecarbonizationAPAC China Americas Middle East1 Europe
+CMD | J. Eickholt | Generation 11
+2020 -09-01 © Siemens Energy, 2020The generation market is transforming
+Growth in distributed, decline in central
+Source: SE Common Market Model (CMM Q2/20) | Note: CHP = Combined Heat and Power | 1 Combined view New Unit and Service; decline in gas of 1% 
+is related to LGT market, decline in coal of 9% is related to LST for coal applications. Percentages for market segment sizes based in € | 2Nuclear, oilGrowth in IGT (highly efficient CHP solutions, hybrid)
+Decline in large steam alongside coal
+Increased demand for retrofit and modernizationGlobal LGT demand: ~70-80 units p.a. vs. ~200 in 
+FY14 –growth in powerful jumbo frames (>300 MW)
+Growth in IST in biomass and waste -heat usage
+Service business as a resilient foundationOur addressable market (in € bn, CAGR )
+FY1928
+FY2527
+Growth in both 
+industrial gas and 
+industrial steam
+Central 
+generation1
+(1.4)%
+Modest decline 
+in gas of 1%Decline in coal 
+(steam) of ~9%Other2Distributed 
+generation
++2.0%
+Excludes distributed 
+service as included in 
+Industrial Applications
+12
+2020 -09-01CMD | J. Eickholt | GenerationGas will remain a key technology 
+and decarbonization enabler
+Source: IEA World Energy Outlook 2019, SDS Scenario ( TWh ) 
+Note: CCPP = Combined Cycle Power Plant; CHP = Combined 
+Heat and Power | 1Converting old steam plant into highly
+efficient CCPPGas to Power
+Backbone of a reliable 
+energy system
+Gas-based
+power generation
++17%
+FY18 -25
+Power to Gas
+Storing electricity from 
+renewables•New gas power plants –Highly efficient and reliable, 
+CCPP and CHP applications
+•Coal to gas –Increase efficiency up to 25 pp1,
+reduce CO2emissions
+•Shift to hydrogen –H2co-firing
+•Brownfield engine exchange –Reduce CO2emissions
+•Hybrid solutions –Low to zero carbon emissions, 
+integration of renewables, H2as energy storageOur tailored offerings
+© Siemens Energy, 2020
+CMD | J. Eickholt | Generation 13
+2020 -09-01 © Siemens Energy, 2020Improve performance 
+and defend #1 positionEstablish our competitive 
+next generation gas turbineAmbition Expand market 
+lead furtherMaintain leadership 
+in fragmented marketH/J-Class2SGT-800 F-Class SST-700/900
+Market 
+position 
+(FY19)1#1 #2 #1 #1Efficiency, performance, emissions
+We have a leading technology platform
+1 Large gas turbines and industrial gas turbines by market share in number of units; industrial steam by market share in terms of order intake in € 
+2 New HL -class entered market in 2018
+Customer 
+storyOmaezaki Biomass, JP
+Seventh order from Toyo in Japan
+SST-700/900Keadby 2, UK
+First 50 Hertz HL -class
+SGT5 -9000HLB.Grimm Power, TH
+7x 140 MW power train solutions 
+including 14x SGT -800 and 7x 
+SST-400Bin Qasim III, Pakistan
+First F -Class order from Pakistan
+2x 4000FLarge gas Industrial steam Industrial gas
+… essential in meeting Karachi’s 
+future energy demands . … a 
+testament to KE’s commitment to 
+improving the reliability of power 
+supply …
+Moonis Alvi
+(K-Electric) … UK’s cleanest and most 
+efficient gas -fired power station , 
+displacing older, more carbon -
+intensive generation …
+Stephen Wheeler
+(SSE Thermal)We are very pleased with the 
+performance of our existing fleet 
+of SGT -800’s , so it was natural to 
+choose SGT -800 for the further 
+fleet expansion …
+Preeyanart Soontornwata 
+(B.Grimm Power)Siemens is one of our most 
+important partners , with whom we 
+have a great success in biomass 
+utilizing Siemens’ highly efficient 
+steam turbine generator …
+Keiji Morino
+(Toyo Engineering)
+
+CMD | J. Eickholt | Generation 14
+2020 -09-01 © Siemens Energy, 2020
+We have unique capabilities to realize 
+the world’s most crucial projects
+Support national goals 
+of sustainable economic
+growth Ensure security of supply 
+and growing consumer 
+needs for electricity Provide financing models
+in project developmentSupport district heating of 
+up to 150,000 households
+Egypt France Brazil Germany
+CCPP Gas to Power Megaproject CHP
+Note: CCPP = Combined Cycle Power Plant; CHP = Combined Heat and PowerProject de -risking –reduced scope, capabilities, more selectivity
+CMD | J. Eickholt | Generation 15
+2020 -09-01 © Siemens Energy, 2020A large and attractive 
+service business
+Share of global fleet (>100 MW)1SE fleet by region (>100 MW)1
+25%
+75%31%
+15%20%19%15%
+14 k 3.5 kAmericas
+Middle East2EuropeChina
+APAC
+15>90% of service order backlog is 
+based on long -term service 
+agreements
+Majority of revenue gas 
+related (vs. coal)Siemens Energy
+Competitors
+1 SE fleet (including technology ownership) vs. total fleet >100 MW | 2 Including Africa 3.5 k~16-18 years average duration 
+of service relationship
+~4% p.a. growth of service 
+order backlog (FY17 to FY19)
+#2 installed fleet Wellbalanced globally
+© Siemens Energy, 2020CMD | J. Eickholt | Generation
+CMD | J. Eickholt | Generation 16
+2020 -09-01 © Siemens Energy, 202016Leveraging our powerful 
+service business
+Optimize LTPs
+% of projects sold with LTP or O&MGenerate new business
+~66% projects with >12 years LTP or O&M H~95%
+HL100%
+~40%
+E F
+Strengthen LTPs 
+•Additive Manufacturing
+•Extension of service intervals~75%
+Note: LTP = Long -Term Service Program; O&M = Operation and Maintenance Contract•Brownfield engine exchange 
+•Coal to gas repowering
+•Tailor made service offerings
+•Decarbonization roadmaps 
+•Digital offeringsGrow installed fleet
+Gas turbines installed/under installation
+Drive utilization via upgrades
+•Displacement of older frames
+•Flexibility and performance
+•H2co-firing+ ~6% installed fleet growth until FY25E F H HL~400~800
+~1007
+© Siemens Energy, 2020CMD | J. Eickholt | Generation
+CMD | J. Eickholt | Generation 17
+2020 -09-01 © Siemens Energy, 2020Extending our lead 
+in distributed generation
+Key success factorsIndustrial power plant at Marl 
+Chemical Park, Germany Gaining market share
+… we’re ending our coal -based produc -
+tionof electricity, process steam and 
+district heat in Marl after more than 80 
+years.
+Thomas Wessel, Evonik
+•Turnkey construction of
+two 90 MW power plant units
+•Up to 1 m tons of
+annual CO2 savingsIndustrial gas turbines
+#1 globally
+Market share gain of
+4pp (FY18 -19) to almost 30%1
+Industrial steam turbines
+#1 globally
+~30% market share2–
+well ahead of competitionFocused go -to-
+market approach
+Superior products
+(e.g. SGT -800)
+Pricing and delivery 
+excellence
+Note: Market position related to addressed market according to Siemens Energy internal assessment for FY19
+1 By market share in number of units | 2 By market share in €
+CMD | J. Eickholt | Generation 18
+2020 -09-01 © Siemens Energy, 2020Capturing growth 
+by decarbonizing energy systems
+Deep decarbonizationFuel switch and 
+hybridization Efficiency increase
+Note: CHP = Combined Heat and Power | 1 Provision of 145 MW flexible generation
+Examples
+Customer
+driversEmission reduction, flexibility, grid 
+stability, storage integrationEmissions regulations, 
+cost reductions, reliabilityUp to 100% H2for carbon -free energy 
+production from stored excess 
+renewable energy
+Stadtwerke Leipzig –Coal to gas 
+switch 2x SGT -800 Gas turbines, 
+2x SGen -100A SIESTART battery 
+storageSanto Domingo floating power plant 
+Hybrid power plant solution (SCC -800 
+2x1) with integrated battery energy 
+storage1HYFLEXPOWER
+Decarbonizing a paper factory by 
+modernizing an existing CHP plant
+Readiness for transformation 
+to 100% H2Clean and green electrical 
+energy solutionWorld's first industrial -scale 
+power -to-X-to-power demonstrator
+CMD | J. Eickholt | Generation 19
+2020 -09-01 © Siemens Energy, 2020Unlocking value with 
+our pioneering digital offerings
+Combining digital with our 
+strengths to re -think valueBuilding on a portfolio addressing 
+key customer needs
+•Gas turbine efficiency 
+increase 
+•Reduction of NOX
+emissionIntelligent gas 
+turbine controller
+•Addressing growing $1.3 bn 
+virtual power plant market
+•Up to 4% increase in fleet 
+efficiencyFleet management suite
+ Digital twin and VR
+•Accurate integrated data 
+collection for outage 
+optimization
+•Improving turbine design, 
+planning and processes
+Additional business from new markets, new business models and higher value -add•Moving from remote to 
+managed service models
+•Control powerplants with 
+fewer or no people on -siteFrom remote to auto -
+nomous powerplant
+Siemens Energy isa registered trademark licensed bySiemens AG.
+CMD | J. Eickholt | Generation 20
+2020 -09-01 © Siemens Energy, 2020Decline in LGT market has hit performance
+Rightsizing underway
+20COVID -19 impact on FY20 YTD
+Partial catch -up in FY21Complex organization led to high 
+SG&A and NCCs
+New, leaner setupHigh one -time R&D to accelerate 
+HL-class development
+Successful HL launch~60% LGT market decline 
+(FY14 -18) led to under -absorption 
+and price pressure
+Restructuring programs in placeSiemens Energy Generation
+10.9
+8.5 8.2
+5.8 5.7
+1,044
+225293214
+22
+FY17 FY18 FY19 9M FY19 9M FY20Book -to-Bill
+Adj. EBITA 
+before Special 
+Items (€ m)Order backlog
+(€ bn)32 32 33
+0.8x 1.0x 1.1x 1.0x 1.1x
+9.5% 2.7% 3.6% 3.7% 0.4%32
+© Siemens Energy, 2020Note: Order backlog shown as of fiscal year end. Order backlog defined as order backlog of prior reporting period plus 
+value of orders of current reporting period less revenue recognized in current reporting period and adjusted for direct 
+order value adjustmentsTotal revenue 
+(€ bn)
+CMD | J. Eickholt | Generation
+CMD | J. Eickholt | Generation 21
+2020 -09-01 © Siemens Energy, 2020Full focus on value generation
+No excuses
+•Be selective 
+(de-risking)
+•Reduce NCCs
+•Drive technology 
+partnerships 
+(e.g. GT/P -2-X1)•Review options 
+to exit coal
+•Focus on high -
+margin, high -volume•Focus R&D on 
+core revenue carriers
+•Rightsize support 
+organization
+•Execute cost -out 
+programs•Extend #1 position 
+in IGT and IST
+•Grow service
+•Customer intimacy: 
+Partner of choice for 
+decarbonization•Eliminate over -
+capacities and 
+complexity
+•Optimized 
+manufacturing to 
+improve utilizationProject excellence Portfolio Cost optimization Growth Footprint
+1 GT/P -2-X = Gas Turbine/Power -to-XNew management and organizational structure (since April ’20) –
+from functional setup to product end -to-end responsibilityProfitability
+21
+2020 -09-01 © Siemens Energy, 2020CMD | J. Eickholt | Generation
+
+22
+2020 -09-01CMD | J. Eickholt | GenerationConclusion
+We are ... Highly competitive in central generation
+25% market share and successful launch of HL -class 
+Monetizing our strong position in gas
+Gas to remain a key technology 
+A service powerhouse
+51% of our revenue
+The partner of choice for decarbonization
+From H2co-firing hybrid to deep decarbonization offering
+On a clear path to value generation
+Selectivity, rightsizing of operations and harvest serviceThe clear leader in distributed generation
+#1 in IGT and IST with growing market shares1
+2
+3
+4
+65
+© Siemens Energy, 2020

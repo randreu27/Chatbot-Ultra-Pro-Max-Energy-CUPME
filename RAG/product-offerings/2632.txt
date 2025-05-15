@@ -1,0 +1,862 @@
+Lorem ipsum l Veribus  
+dolorpro  
+WEPS Sensors
+Procedure for Installation, Operation and 
+Maintenance of Subsea Sensors  
+00003075 - Rev AL
+siemens -energy.com  
+Siemens Energy AS 
+Ternetangen 65  
+N-5420 Rubbestadneset 
+NORWAY
+Document No  : 00003075  Page  : 2 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+Unrestricted Siemens Energy is a trademark licensed by Siemens AG
+Revision List  
+Rev Date  Description  Author  Reviewed  Approved  
+Y 01.09.2016  Updated references  
+Added info about 20K PSI  
+Updated ch. 7  EV IMB AE 
+Z 29.03.2017  Added flange type to section 6.2  AE EV BH 
+AA 03.11.2017  Updated section for analogue sensors.  
+Added ref. [38] EV IMB AE 
+AB 02.01.2018  Updated references  
+Updated ch. 7.1  EV JIF IMB 
+AC 23.07.2018  Improved wording section 6.2, page 10  AE CS JV 
+AD 05.02.2019  Revised wording section 4  and 8 – storage 
+temp requirements  AE JIF EV 
+AE 26.02.2019  Section 8 – Improved wording for onsite 
+testing  AE TKG EV 
+AF 12.05.2020  Section 5 – Updated wording to describe 
+correct lifting technical for sensors supplied 
+with dedicated lifting points.  
+Added now section 7 /8/9 for instructions 
+regarding IR testing , welding and painting.  
+Updated section 3 with correct revision.  
+Section 6.2 – Added flange  AE TKG EV 
+AG 12.08.2020  Fixed typo in ch. 10.1  
+Changed company name to Siemens 
+Energy (former Siemens)  
+Updated logo on front page and header.  
+Updated references.  EV JIF AE 
+AH 24.08.2020  Fixed wrong chapter reference to SIL 
+sensors in ch. 10.1  EV JIF AE 
+AI 28.09.2020  Added pictures to chapter 8  EV SKL AE 
+AJ 26.11.2020  Added pictures to chapter 8  SKL EV AE 
+AK 31.05.2021  Added WEPS -300 information  + SE logos  AE EV SKL 
+AL 14.10.2021  Corrected reference to 6A + improved 
+wording  SKL EV AE 
+      
+      
+Document No  : 00003075   Page  : 3 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+TABLE OF CONTENTS  
+ 
+1 CAUTIONS  ................................ ................................ ................................ ................................ .............  4 
+2 ABBREVIATIONS  ................................ ................................ ................................ ................................ .. 5 
+3 REFERENCES  ................................ ................................ ................................ ................................ ....... 6 
+4 PACKING AND TRANSPORTATION  ................................ ................................ ................................ ... 7 
+5 HEALTH AND SAFETY STATEMENTS  ................................ ................................ ...............................  8 
+6 INSTALLATION  ................................ ................................ ................................ ................................ ..... 9 
+6.1 INSTALLATION INSTRUCTIONS  ................................ ................................ ................................ .. 9 
+6.2 MECHANICAL INTERFACE  ................................ ................................ ................................ ...........  9 
+7 INSULATI ON RESISTANCE TESTING  ................................ ................................ ..............................  11 
+8 WELDING  ................................ ................................ ................................ ................................ ............  12 
+8.1 NO FLYING LEADS  ................................ ................................ ................................ ......................  12 
+8.2 HOW TO GROUND FLYING LEADS  ................................ ................................ ...........................  13 
+8.3 SENSORS WITH FLYING LEADS  ................................ ................................ ...............................  17 
+8.4 SENSOR SUPPLIED WITH CONNECTOR  ................................ ................................ .................  17 
+8.5 SENSOR HARNESS  ................................ ................................ ................................ ....................  18 
+9 PAINTING ON STRUCTURE  ................................ ................................ ................................ ..............  19 
+10 OPERATING INSTRUCTIONS  ................................ ................................ ................................ ............  19 
+10.1  ANALOGUE SENSORS  ................................ ................................ ................................ ...............  19 
+10.2  DIGITAL SENSORS  ................................ ................................ ................................ .....................  20 
+10.3  SIL RATED SENSORS  ................................ ................................ ................................ .................  24 
+11 MAINTENANCE  ................................ ................................ ................................ ................................ ... 25 
+ 
+      
+      
+Document No  : 00003075   Page  : 4 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+1 CAUTIONS  
+ PLEASE READ THE COMPLETE INSTALLATION, OPERATION 
+AND MAINTENANCE MANUAL BEFORE ANY WORK START.  
+ Avoid manual handling !  
+ 
+Manual Handling by an individual at this weight should be avoided 
+at all times.  
+ 
+Suitable mechanical lifting aids should be identified, and used for 
+the movement of Sensors, avoiding Musculoskeletal damage to 
+the operator. The weight of the sensor will be found on the Weight 
+Certificate for each individual type of sensor.  
+ Unless the sensor is within its transport case, it shall only be 
+handled by personnel authorised by the client.  
+ 
+Installation shall only be undertaken by personnel authorised by 
+the client.  
+ Never use air tools when fixing the remote seal - and main body  
+bolts.  
+ 
+Avoid other types of shock and vibration impacts  
+ At any time during any type of welding operations in vicinity of the 
+sensor, all cables shall be grounded.  
+ 
+Twist all leads of the sensor and ensure that they are  
+properly connected to the sensor housing.  
+ 
+ Membrane system must be handled with extreme care, do not:  
+• Touch or come near the membrane surface by hand or any 
+object.  
+Note that the membrane is very thin and fragile, even the slightest 
+contact with a sharp object may permanently da mage the 
+complete sensor.  
+ 
+      
+      
+Document No  : 00003075   Page  : 5 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+2 ABBREVIATIONS  
+Abbreviation  Description  
+API American Petroleum Institute  
+CAN  Controller Area Network  
+CANopen  CAN Standard based on EN50325  
+CiA  CAN in Automation  
+CRC  Cyclic Redundancy Check  
+FAT Factory Acceptance Test  
+FT Fault Tolerant  
+HS High Speed   
+NMT  Network Management, CAN Application Layer  
+PDO  Process Data Object  
+PFD Probability of Failure on Demand  
+PPE Personal Protective Equipment  
+RTU Remote Terminal Unit  
+SFF Safe Failure Function  
+SIF  Safety Instrumented Function  
+SIL  Safety Integrity Level  
+SIS Safety Instrumented System  
+SRS Safety Requirement Specification  
+SYNC  Synchronous Transmission  
+ 
+   
+   
+    
+   
+   
+  
+   
+   
+   
+   
+   
+    
+    
+   
+   
+      
+      
+Document No  : 00003075   Page  : 6 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+3 REFERENCES  
+Ref Doc. No.  Version  Title 
+[1]  CiA-443 1.0, 2.0 
+or 3.0  CANopen Device Profile for SIIS level -2 devices  
+[2]  CiA-401 3.0 CANopen Device Profile for Generic I/O Modules  
+[3]  CiA-301 4.2.0  CANopen application layer and communication profile  
+[4]  API 6A  2019 Specification for Wellhead and Christmas Tree Equipment  
+[5]  00002015  B Safety Manual WEPS -100 Series 4 -20 mA SIL  
+[6]  00003816  M Procedure for Packing, Preservation, Handling and Shipping of Subsea 
+Pressure and Temperature Sensors  
+[7]  00004614  C Specification for Subsea Instrumentation with CiA -401 Interface  
+[8]  00004615  D Specification for WEPS -6153 SIL3 CiA -401 Interface  
+[9]  00004616  G Specification for WEPS -100 Series Modbus Interface  
+[10]  00004617  D Specification for WEPS -100 Series RS485 KOS Interface  
+[11]  00004621  D Specification for WEPS -6122 and WEPS -6152 SIL2 CiA -401 Interface  
+[12]  00004622  D Specification for WEPS -642 and WEPS -645 Modbus Interface  
+[13]  00004623  N Specification Weps -100 Series CANopen Interface  
+[14]  00004627  B Specification for WADS CiA -443 v2.0 Interface  
+[15]  00004798  D Specification WEPS -25 CIA -443 v2.0 Interface  
+[16]  00004799  C Specification for WEPS -100 Series 4 -20 mA SIL Interface  
+[17]  00004805  F Specification WEPS -25 CIA -443 v1.0 Interface  
+[18]  00004833  C Specification for WEPS RS485 KOS Interface  
+[19]  00004836  F Specification for WEPS -612 and WEPS -615 CiA -443 v.2.0 Interface  
+[20]  00004848  C Specification for WEPS -6121 and WEPS -6151 SIL1 CIA -401 Interface  
+[21]  00004850  C Specification for WEPS -95 CiA -443 Interface  
+[22]  00007067  C Specification WEPS -2 and WEPS -25 Profibus Interface  
+[23]  00007070  B Specification WEPS -3 Profibus Interface  
+[24]  00010690  A Specification for WEPS -3 CiA -443 v2.0 Interface  
+[25]  00014628  A Specification for WEPS -612 and WEPS -615 CiA -401 Interface  
+[26]  00020420  A Safety Requirement Specification SRS SIL1 WEPS -612 and WEPS -615 
+CANopen FT  
+[27]  00020423  A Safety Requirement Specification SRS SIL2 WEPS -6122 & 6152 
+CANopen HS  
+[28]  00020428  A Safety Requirement Specification SRS SIL2 WEPS -5 FR 4 -20 mA  
+[29]  00020431  A Safety Requirement Specification SRS SIL3 WEPS -6153 CANopen FT  
+[30]  00032571  E Software Manual for WEPS -900 HT Series CANopen CiA -443 SIL3 
+Interface  
+[31]  10000657  B Specification for WEPS -100 Series 4 -20 mA PT Interface  
+[32]  10000659  B Specification for WEPS -100 Series 4 -20 mA TT Interface  
+[33]  10001535  D Safety Manual WEPS -900 Series HT CANopen SIL3  
+[34]  10024259  B Software Manual for WEPS -900 HT Series CANopen CiA -443 Interface  
+[35]  10033064  D Software Manual for WEPS -900 HP Series CANopen CiA -443 SIL3 
+Interface  
+[36]  10033065  B Software Manual for WEPS -900 HP Series CANopen CiA -443 Interface  
+[37]  10033584  C Safety Manual WEPS -900 Series HP CANopen SIL3  
+[38]  SIIS_RP  01 Subsea Instrumentation Interface Standardisation (SIIS)  
+Recommended Practice  
+[39]  10229667  01 Software Manual WEPS -300 Series CANopen CiA -443 
+      
+      
+Document No  : 00003075   Page  : 7 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+4 PACKING AND TRANSPORTATION  
+Avoid excessive shock and vibrations during transport and handling, even though the 
+equipment itself is resistant towards shock and vibration, this is only true when the units 
+are properly fixed and secured.  
+ 
+A special transport case is prepared for packing, storing and transport of the subsea 
+sensor. We strongly advise that the unit is kept secured in this box until the final installation 
+destination is reached.  
+ 
+The transportation case must be in its upright position at all times (see marking on the  
+case).  
+ 
+The weight of the subsea sensor makes a dangerous combination if the transportation 
+cases is handled roughly (dropped, turned from upright positions etc).  
+ 
+Storage temperature limits are defined as -40 to +70 °C, however it is recommended to 
+store the subsea sensors at room temperature if possible. Humidity control is not required.  
+ 
+Note: For further information regarding packing, handling and storage specifications, see 
+ref. [6]. 
+      
+      
+Document No  : 00003075   Page  : 8 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+5 HEALTH AND SAFETY STATEMENTS  
+It is recommended that the client performs a risk Assessment for all aspects of the sensor 
+Installation from initial delivery to final dispatch, to identify the hazards associated with the 
+work.  
+ 
+Each S ensor unit weighs between 1 0 to 55 Kgs. Those staff preparing to move a sensor 
+unit from the delivery box must ensure that they assess the identified hazards for each 
+movement of the sensor.  
+ 
+Sensors with large flanges such as 3 1/16” 15K or 2 1/16” 20K a re provided with dedicated 
+threaded holes on the flange edge for eyebolts. Eyebolts are not Siemens Energy scope 
+of supply, however Siemens Energy insist that only suitably rated and approved eyebolts 
+are used.  
+ 
+Manual handling by an individual at this wei ght should be avoided at all times.  Suitable 
+mechanical lifting aids should be used to avoid  musculoskeletal damage to the operator.  
+ 
+Personal Protective Equipment in the form of:  
+o Safety Shoes/ Boots  
+o Protective Gloves  
+Is highly recommended for the protect ion of staff whilst working with Sensors. Additional 
+PPE may be required for the working environment / Client Safety Rules  
+ 
+The sensors do not contain any chemicals or compositions that could be hazardous upon 
+exposure.  
+ 
+During soldering operations it is recommended that fumes are removed from the immediate 
+working area to avoid inhalation by the operator.  
+ 
+ Any soldering shall not take place unless the soldering procedure 
+and/or soldering company have the appropriate skills and are 
+approved by Siemens Energy .  
+ 
+ 
+ Care in the selection of the correct tools for the final “Torque Setting 
+of the API Bolts” is i mportant to avoid accidents through 
+damaged/poorly maintained tooling.  
+ 
+See API 6A ref. [4] 
+ 
+ 
+ 
+      
+      
+Document No  : 00003075   Page  : 9 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+6 INSTALLATION  
+6.1 INSTALLATION INSTRUCTIONS  
+CAUTION:   UNLESS THE SUBSEA SENSOR IS WITHIN ITS  
+   TRANSPORT CASES/CRADLE IT SHALL  
+   ONLY BE HANDLED BY PERSONNEL  
+   AUTHORISED BY THE CLIENT.  
+ 
+   INSTALLATION SHALL ONLY BE  
+   UNDERTAKEN BY PERSONNEL  
+   AUTHORISED BY THE CLIENT.  
+ 
+   HANDLE THE SUBSEA SENSOR WITH CARE - 
+   HEAVY SHOCK AND/OR VIBRATIONS, HIGH    
+   TEMPERATURES MAY DAMAGE THE UNIT.  
+6.2 MECHANICAL INTERFACE  
+ Never use air tools when fixing the remote seal - and main body 
+bolts.  
+Also avoid other types of shock and vibration impact.  
+The Subsea Sensor shall be installed with BX Ring in accordance with the respective 
+mechanical interface drawing for the Subsea Sensor.  
+ 
+Available flanges according to API 6A, ref. [4]: 
+• 2 1/16”, 5k PSI, BX -152, 8 bolt.  
+• 2 1/16”, 10k PSI, BX -152, 8 bolt.  
+• 1 13/16”, 5k PSI, BX -151, 8 bolt.  
+• 1 13/16”,10k PSI, BX -151, 8 bolt.  
+• 2 1/16”, 15k PSI, BX -152, 8 bolt.  
+• 3 1/16”, 10k PSI, BX -154, 8 bolt.  
+ 
+In addition following flange alternatives:  
+• 1 11/16”, 10k  PSI, BX -150, 4 bolt.  
+• 1 11/16”, 15k PSI, BX -150, 6 bolt . 
+• 2 1/16”, 15k PSI, BX -152, 10 bolt.  
+• 2 1/16”, 20k PSI, BX -152, 10 bolt.  
+ 
+Nuts and bolts used for installation : According to clients specifications.  
+Material : According to clients specifications.  
+Torque Settings : According to Clients specifications.  
+      
+      
+Document No  : 00003075   Page  : 10 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+No requirements regarding orientation.  
+All surfaces shall be cleaned and inspected for damage before installation.  
+ 
+Nuts, bolts and gaskets are not part of Siemens Energy delivery, however sensors are 
+designed to be used with nuts, bolts and gaskets according to API 6A ref. [4]. 
+  
+      
+      
+Document No  : 00003075   Page  : 11 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+7 INSULATION RESISTANCE TESTING  
+ Insulation Resistance Test:  
+Test voltage shall never exceed 50 VDC.  
+ 
+If there is a need to conduct insulation resistance testing of the sensor on site, the 
+follow ing best practice routine is to be followed.  
+ 
+1. Hook up the EUT as per the sketch below.  
+ 
+2. Connect the insulation tester with the negative terminal to the metallic body of the 
+sensor. Connect all pins to the insulation tester positive terminal.  
+  
+3. Measure the insulation resistance at 50VDC @ dry conditions for 1 minute.  
+ 
+4. If the insulation resista nce value is below the acceptance criteria, contact Siemens 
+Energy  for further assistance.  
+ 
+Acceptance Criteria : IR ≥ 1Gohm  
+ 
+ 
+  
+Megger 
+MIT430  
+or similar   Sensor Connection*  
+*an approved  and correct  mating test 
+connector must only be used. I f the 
+sensor forms part of a 
+jumper/harness,  the test must be 
+conducted through the  end of leg 
+connector(s), again using an 
+approved and correct test connector.  
+      
+      
+Document No  : 00003075   Page  : 12 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+8 WELDING  
+ Always ensure sensor is removed from the structure or grounded 
+before commencing any welding.   
+At any time during any type of welding operations in the vicinity of the sensor , the sensor 
+needs to be  removed from the structure being welded entirely or  grounde d. 
+Best practice for grounding the sensor  is: 
+8.1 NO FLYING LEADS  
+For sensors  supplied with no fl ying leads the sensor is grounded by spring between the 
+pins and the sensor housing.  This spring is supplied and mounted by Siemens Energy  
+before shipping.  The picture below shows a spring mounted onto a four pin penetrator 
+with no flying leads. The same s pring can be used for sensors supplied with 8 -pin 
+penetrators.  
+ 
+  
+
+      
+      
+Document No  : 00003075   Page  : 13 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+8.2 HOW TO GROUND FLYING LEADS  
+Remove the isolation from the  end of the  leads, as demonstrated in picture below. About 
+1cm should be sufficient.  
+ 
+Figure 1: Example of flying leads with isolation removed at ends.  
+Wind a steel wire around (max) four flying leads at a time . The steel wire mounted onto 
+the flying leads and supplied by Siemens Energy before shipping  can be used for this.  
+ 
+Figure 2: Steel wire ready to be winded around s et of four flying leads .   
+
+      
+      
+Document No  : 00003075   Page  : 14 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+ 
+Figure 3: Example of steel wire winded around a set of four flying leads.  
+Use the same steel wire to ground several sets of four (or less) flying leads. This is 
+demonstrated in picture below.  
+ 
+Figure 4: Example  of steel wire wound around several sets of four flying leads.  
+Note:  It is also possible to use phoenix connectors to ground flying leads. The leads are 
+then assembled to  the phoenix connector. A steel wire is used to connect all leads in side 
+the connecto r and then connected to metal part of sensor as de monstrated  below.   
+
+      
+      
+Document No  : 00003075   Page  : 15 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+ 
+Figure 5: Example of  grounding using phoenix connector.   
+The sensor is grounded when all the flying leads are in contact with a steel part of the 
+sensor. Best practise is to use a clamping tool as demonstrated in the picture below. The 
+steel wire which is in contact with all flying leads is winded around the cla mp to ensure 
+contact with steel part of sensor.  
+ 
+Figure 6: Example of how to ensure flying lead contact with steel part of sensor. Steel 
+wire clamped to housing.  
+
+      
+      
+Document No  : 00003075   Page  : 16 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+ 
+Figure 7: Example of how to ensure flying lead contact with steel part of sensor. Steel 
+wire clamped to flange.  
+Test connectors with flying leads are grounded in the same manner.  
+ 
+Figure 8: Example of test connector – grounded using phoenix connectors  
+  
+
+      
+      
+Document No  : 00003075   Page  : 17 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+8.3 SENSORS WITH FLYING LEADS  
+All flying leads must be grounded before welding can start.  Please refer to chapter 8.2 for 
+information on how to ground flying leads.  
+ 
+Figure 9: Sketch demonstrating grounding of all pins.  
+8.4 SENSOR SUPPLIED WITH CONNECTOR  
+For sensors  supplied with connector best practice is to use a test  connector with flying 
+leads.  The flying leads are then grounded . Please refer to chapter 8.2 for information on 
+how to ground flying leads.  
+ 
+ 
+Figure 10: Sketch demonstrating grounding of sensor using test connector.  
+  
+Sensor penetrator 
+connections  
+All wires connected 
+together  
+Sensor test connector 
+connections  
+All wires connected 
+together  
+      
+      
+Document No  : 00003075   Page  : 18 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+8.5 SENSOR HARNESS  
+ Always use test connectors to ground sensor harnesses.    
+ 
+Sensor harness, both 1 leg and multiple leg harness must be grounded using test 
+connectors. Please refer to chapter 8.2 for information on how to ground flying leads and 
+test connector.  
+ 
+Figure 11: Sketch demonstrating grounding of sensor 1 leg jumper harness using test 
+connector.  
+ 
+Figure 12: Sketch demonstrating grounding of sensor multiple leg jumper harness using 
+test connectors.  
+  
+Test connector 
+grounded to sensor  One leg jumper harness  
+Multiple leg jumper harness  
+Test connectors 
+grounded to sensor  
+      
+      
+Document No  : 00003075   Page  : 19 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+9 PAINTING ON STRUCTURE  
+ Always ensure sensor is removed from the structure or grounded 
+before commencing any blasting.   
+If the sensor is supplied un -painted, t he sensor can be prepared and painted along with 
+the host structure.  During surface preparation, e.g. blasting, Pin Hole Tests or other test 
+methods that utilising an electrical method , the sensor  needs to be grounded as described 
+in section 8. 
+Special consideration should be taken towards masking of the electrical connector.  
+10 OPERATING INSTRUCTIONS  
+After installation, check the Subsea Sensor(s) at ambient pressure and/or temperature to 
+varify  that the sensor is still functioning properly.  
+ 
+10.1 ANALOGUE SENSORS  
+The output can be measured by the use of a loop tester. The loop tester should be 
+according to  SIIS RP, ref. [38], capable of providing 24 Volt for minimum of 40mA during 
+start up.  
+ 
+Recommended loop tester:  Drück UPS III  
+ 
+Note:  The Fluke 707 instrument has a current limitation lower than SIIS RP and cou ld 
+prevent the sensor from starting  up correctly and cannot be used as an instrument to 
+read this sensor.  
+The pressure output(s) shall give a mA output according to the calibrated range and the 
+ambient pressure. The temperature output(s) shall give a mA -value corresponding to the 
+calibrated range and the ambient temperature.  
+The pressure output(s) are calibrated from: MinCalibPress to MaxCalibPress. This is the 
+calibrated sensor range for pressure. See sensor marking.  
+The temperature output(s) are calibrat ed from: MinCalibTemp to MaxCalibTemp. This is 
+the calibrated sensor range for temperature. See sensor marking.  
+The conversion from mA to engineering units such as Bara and deg C is as follows:  
+Pressure = {(mAvalue - 4)* ((MaxCalibPress - MinCalibPress/16) )} + MinCalibPress.  
+Temp. = {(mAvalue - 4)* ((MaxCalibTemp. - MinCalibTemp)/16)} + MinCalibTemp.  
+      
+      
+Document No  : 00003075   Page  : 20 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+For more details regarding the 4 -20 mA interface for WEPS -100 Series of sensors please 
+see the following interface specifications:  
+• WEPS -100 Series PT: Ref. [31]. 
+• WEPS -100 Series TT: Ref. [32]. 
+• WEPS -100 Series SIL: Ref. [16]. 
+• WEPS -5 FR SIL: Ref. [28]. 
+NOTE: 
+Regarding SIL rated analogue sensors please see also ch. 10.3 and ch. 11. 
+10.2 DIGITAL SENSORS  
+The Subsea sensors will communicate with the supply/receiver circuitry through RS485 
+(KOS/Modbus/Profibus) protocol or on CANopen.  
+ 
+The sensor signal is transmitted in engineering units. Most often this is in Bara/ C, but 
+sensors can also be delivered with  PSI /Fahrenheit on request.  
+ 
+After installation subsea, the signal from the subsea sensor will form a part of the client’s 
+main system, and all operational instructions should be according to the client’s 
+procedures.  
+10.2.1  RS485 Modbus  
+The master unit can start communication with the sensor 5 seconds after power up. The 
+master needs to send request to the sensor, then it will transmit messages with sensor 
+data in return.  
+ 
+The electrical interface between the master and the sensor is based on the RS485 
+stand ard. 
+The format of each byte in RTU mode is:  
+ 
+ Interface    : RS485 (two -wire)  
+ Baud rate                         :  default 1200 (2400, 4800, 9600, 19200 and    
+38400 is available)  
+ Coding system   : 8-bit binary  
+ Number of start bits  : 1 
+ Data bits    : 8 
+ Parity    : No 
+ Stop bits    : 1 (2 stop bit is available on request)  
+ Error checking   : CRC  
+ 
+For more details regarding the Modbus interface, please see the corresponding interface 
+specification:  
+• WEPS -100 Series Modbus: Ref. [9]. 
+• WEPS -600 Series Modbus: Ref. [12]. 
+  
+      
+      
+Document No  : 00003075   Page  : 21 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+10.2.2  RS485 PROFIBUS  
+The electrical interface between the master a nd the sensor is based on the Profibus DP 
+standard, EN 50170.  
+ 
+ Interface    : RS485 (two -wire)  
+ Baud rate    : Auto (9600 or 19200)  
+ Address    : 2 to 125  
+ 
+For more details regarding the Profibus interface, please see the corresponding interface 
+specifications:  
+• Weps -2 and Weps -25 Profibus  :  Ref.[22]. 
+• Weps -3 Profibus    :  Ref.[23]. 
+10.2.3  RS485 KOS   
+After power up, the sensor starts transmitting messages within 5 seconds. The protocol is 
+unidirectional.  
+ 
+Messages are sent from the sensor when new measurements are ready, twice a second.  
+ 
+The electrical interface between th e master and the sensor is based on the RS485 
+standard, optional R S422.  
+ 
+ Interface    : RS485 (two -wire)  
+ Baud rate    : 1200  
+ Coding system   : 8-bit binary  
+ Number of start bits   : 1 
+ Data bits    : 8 
+ Parity     : No 
+ Stop bits    : 1 
+ Error checking   : Checksum  
+ 
+For more details regarding the KOS interface, please see the corresponding interface 
+specifications:  
+• WEPS -100 Series RS485 KOS  : Ref. [10]. 
+• Other Sensors wi th RS485 KOS  : Ref. [18].  
+      
+      
+Document No  : 00003075   Page  : 22 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+10.2.4  CANopen  
+The sensor can be configured before delivery to support two different device profiles: 
+CiA-401 or CiA -443. 
+Device Profile 401  
+If the sensor is configured for device profile 401, ref. [2], the sensor enters the application 
+and NMT pre -operational mode after power -on. In pre -operational mode , the sensor 
+application starts to read and calculate process values (typically pressure and 
+temperature). When the sensor receives the “NMT start command” it will enter NMT state 
+operational (if no failures detected). After the start command is received t he sensor will 
+start to transmit process data according to the transmission type and configuration.  
+ 
+Process measurements are transmitted periodically (according to configuration) by the 
+means of PDO, using transmission type 254. It is possible to use SYN C transmission 1 -
+240. See CiA -301, ref. [3]. 
+ 
+For more details regarding the sensor interface, please see the corresponding interface 
+specifications:  
+• WEPS -100 Series  with CiA -401 : Ref. [13]. 
+• WEPS -6153 CiA -401  : Ref. [8]. 
+• WEPS -6122 Ci A-401  : Ref. [11]. 
+• WEPS -6152 CiA -401  : Ref. [11]. 
+• WEPS -612 CiA -401   : Ref. [25]. 
+• WEPS -615 CiA -401   : Ref. [25]. 
+• WEPS -6121 CiA -401  : Ref. [20]. 
+• WEPS -6151 CiA -401  : Ref. [20]. 
+• Other sensors with CiA -401 : Ref. [7]. 
+Device Profile 443  
+If the sensor is configured for device profile 443, ref. [1], the sensor stays in boot loader 
+program and enters NMT pre -operational mode after power -on.  
+ 
+In the boot loader program only the LSS layer and some d ictionary objects are 
+implemented. Process measurements and PDO are not implemented; hence setting the 
+boot loader program in NMT operational mode makes no sense.  
+ 
+The application is started by using the dictionary object 1F51h Program Control, writing 1 
+to sub -index 1.  
+ 
+The application will then start up in NMT pre -operational mode and the sensor starts to 
+read and calculate process values (typically pressure and temperature). When the sensor 
+receives the NMT start command it will enter NMT operational mo de (if no failures 
+detected).  
+ 
+After the start command is received  the sensor will start to transmit process data according 
+to the transmission type and configuration.  
+      
+      
+Document No  : 00003075   Page  : 23 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+Process measurements are transmitted continuously (according to configuration) by the 
+means of PDO using transmission type 255. It is possible to use SYN C transmission 1 -
+240, or transmission type 254.  
+ 
+ Interface    : CANopen (two -wire)  
+             Baud rate    : CANopen FT:  
+      50 (default) and 125kbit  
+      CANopen HS:  
+      10, 20, 50 (default) 125 and 250kbit  
+ 
+For more details regarding the sensor int erface, please see the corresponding interface 
+specifications or user manual:  
+• WEPS -300 Series with CiA -443 : Ref. [13]. 
+• WEPS -100 Series with CiA -443 : Ref. [13]. 
+• WADS with CiA -443   : Ref. [14]. 
+• WEPS -25 with CiA -443 v.1   : Ref.  [17]. 
+• WEPS -25 with CiA -443 v.2   : Ref. [15]. 
+• WEPS -3 with CiA -443  : Ref. [24]. 
+• WEPS -95 with CiA -443  : Ref. [21] 
+• WEPS -612 CiA -443   : Ref. [19]. 
+• WEPS -615 CiA -443   : Ref. [19]. 
+• WEPS -900 HT Series   : Ref. [34]. 
+• WEPS -900 HP Series   : Ref. [36]. 
+ 
+NOTE:  
+Regarding SIL rated digital sensors please see ch.10.3 and ch. 11. 
+ 
+  
+      
+      
+Document No  : 00003075   Page  : 24 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+10.3 SIL RATED SENSORS  
+SIL is a measure of safety system performance, or probability of failure on demand (PFD) 
+for a SIF or SIS. The higher the SIL level, the lower the probability of failure on demand 
+for the safety system and the better the system performance.   
+ 
+SIEMENS ENERGY  SIL 1, SIL 2 and SIL 3 rated sensors are suitable for application in 
+SIL 1, SIL 2 and SIL 3 Safety Instrumented System respectively.  
+ 
+All SIEMENS ENERGY  SIL rated sensor are independently certified and approved by 
+certification authority.   
+ 
+Type of communication protocol that is suitable for SIL rated sensor is dependent on type 
+of platform for which sensors have been developed, for example 4 -20mA, CAN bus etc.    
+ 
+Please r efer to independent senor’s interface speciation, software manual or safety 
+manual for SIL rated sensor. This documentation will provide information about 
+communication protocol being used, safe state indication, PFD and SFF etc.  
+ 
+• WEPS -6121 and WEPS -6151 S IL1 : See ref. [26], SRS for details.  
+• WEPS -6122 and WEPS -6152 SIL2  : See ref. [27], SRS for details.  
+• WEPS 6153 SIL3     : See ref. [29], SRS for details.  
+• WEPS -5 Fast Response SIL2   : See ref. [28], SRS for details.  
+• WEPS -100 Series 4 -20 mA SIL3   : See ref. [5], Safety Manual for details.  
+• WEPS -900 Series H T SIL3   : See ref. [33], Safety Manual for details.  
+• WEPS -900 Series HP SIL3   : See ref. [37], Safety Manual for details.  
+ 
+      
+      
+Document No  : 00003075   Page  : 25 of 25 
+Document Title  : Procedure for  Installation, Operation and Maintenance of 
+Subsea Sensors  Rev. : AL 
+ 
+Unrestricted   Siemens Energy is a trademark licensed by Siemens AG  
+ 
+11 MAINTENANCE  
+Before installation, confirm if the Subsea Sensor(s) have been stored for more than six - 6 
+- months, if so, a test of the sensor signal at ambient pressure and temperature should be 
+carried out. Use of calibrated reference instruments is required to ensure correct test 
+results.  
+ 
+If the result from the test shows any discrepancy ( ≥1Bar / ≥1°C)  in the sensor signal contact 
+Siemens Energy for further assistance. If required the sensors could be returned to the 
+manufacturer for adjustment or a note should be made of the difference and adjusted on 
+the Company’s topside system after installation sub sea. 
+ 
+After installation subsea, it will not be possible to carry out any maintenance of the sensor. 
+However, if possible, a periodical test of the sensors should be carried out. At known 
+pressure the signal from the pressure outputs should correspond to the ref erence pressure. 
+If it is possible to have a known temperature reference, a similar test should be carried out 
+for the temperature outputs. In case of any drift, the sensor signal should be corrected on 
+the topside system. The top side system has to have t he facility of an offset adjustment of 
+the sensors to be able to carry out this test.  
+ 
+SIL rated sensors should have proof test on regular basis, ref. Safety Requirement 
+Specification (SRS) or Safety Manual for the specific sensor.  
+ 
+If the structure for an y reason should be retrieved after installation, the sensor should be 
+controlled as in section 10, (Operating Instructions) above or returned to the manufacturer 
+for a complete check/recalibration.  
+ 
+Lorem ipsum l Veribus  
+dolorpro  
+© 2020 Siemens Energy  Page 25 
+Publshed by y
+Siemens Energy Global GmbH & Co. KG
+Transformation of Industry
+Siemenspromenade 9
+91058 Erlangen
+Germany
+For the US Published by
+Siemens Energy, Inc.
+Transformation of Industry
+4400 N Alafaya Trail
+Orlando, FL 32826
+USA
+E-mail:  subsea@siemens-energy.com
+For more information, please visit our website:
+www.siemens-energy.com/subsea
+Subject to changes and errors.  The information given in this document
+only contains general descriptions and/or performance featu res which
+may not always specifically reflect those described, or which may
+undergo modification in the course of future development of the
+products.  The requested performance features are bin ding only when
+they are expressly agreed upon in the concluded contract.
+Siemens Energy is a trademark licensed by Siemens AG

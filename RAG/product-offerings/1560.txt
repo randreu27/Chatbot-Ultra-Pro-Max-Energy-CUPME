@@ -1,0 +1,268 @@
+Intern © Siemens Energy, 2020 Siemens Energy is a registered trademark licensed by Siemens AG.
+2021 -03-19
+ Siemens Energy is a registered trademark licensed by Siemens AG.New Energy Business
+Large -scale PEM Electrolysis 
+for Industrial Applications
+Prof. Dr. Armin Schnettler
+Marc h 19, 2021
+© Siemens Energy, 20212
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.
+Siemens Energy is a registered trademark licensed by Siemens AG.Disclaimer
+INFORMATION AND FORWARD -LOOKING STATEMENTS This document contains statements related to our future business and financial perfor mance, and future events or 
+developments involving Siemens Energy that may constitute forward -looking statements. These statements may be identified by word s such as “expect,” “look forward to,” 
+“anticipate” “intend,” “plan,” “believe,” “seek,” “estimate,” “will,” “project,” or words of similar meaning. We may also mak e forward -looking statements in other reports, prospectuses, 
+in presentations, in material delivered to shareholders, and in press releases. In addition, our representatives may from tim e to time make oral forward -looking statements. Such 
+statements are based on the current expectations and certain assumptions of Siemens Energy ´s management, of which many are beyond Siemens Energy ´s control. These are 
+subject to a number of risks, uncertainties, and other factors, including, but not limited to, those described in disclosures , in particular in the chapter “Report on expected 
+developments and associated material opportunities and risks” in the Annual Report. Should one or more of these risks or unce rtainties materialize, should acts of force majeure, 
+such as pandemics, occur, or should underlying expectations including future events occur at a later date or not at all, or s hould assumptions prove incorrect, Siemens Energy ´s 
+actual results, performance, or achievements may (negatively or positively) vary materially from those described explicitly o r implicitly in the relevant forward -looking statement. 
+Siemens Energy neither intends, nor assumes any obligation, to update or revise these forward -looking statements in light of dev elopments which differ from those anticipated. This 
+document includes supplemental financial measures –that are not clearly defined in the applicable financial reporting framework –and that are or may be alternative performance 
+measures (non -GAAP -measures). These supplemental financial measures should not be viewed in isolation or as alternatives to meas ures of Siemens Energy ´s net assets and 
+financial position or results of operations as presented in accordance with the applicable financial reporting framework in i ts consolidated financial statements. Other companies 
+that report or describe similarly titled alternative performance measures may calculate them differently. Due to rounding, nu mbers presented throughout this and other documents 
+may not add up precisely to the totals provided and percentages may not precisely reflect the absolute figures.
+© Siemens Energy, 20213
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Hydrogen Systems
+Industry grade Power -to-
+hydrogen systems and 
+servicesPower -to-X-Solutions
+•Power -to-Hydrogen and Power -to-
+Liquids solutions and services
+•Turnkey solution package Energy Consulting & Digital Services 
+•Electrolyzer -integrating Energy system design
+•Power -to-X digital services and optimization solutionsNew Energy Business
+By enabling the green hydrogen economy, we lead the transition towards 
+a decarbonized world together with our customers and partners
+
+© Siemens Energy, 20214
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Siemens Energy is a registered trademark licensed by Siemens AG.
+Operational performance
+Clean by nature
+CompetitivenessFocus on Proton Exchange Membrane (PEM) 
+electrolyzer system technology
+•Small footprint compared to alkaline systems
+•Lower OPEX compared to alkaline systems due to maintenance -free stack
+•Competitive hydrogen price per kg at green electricity prices below 3 ct/kWh•Fast start -up and shut -down
+•Highest operational flexibility 
+•Cold start capability
+•Highest hydrogen purity >99.9%
+•No aggressive chemical electrolyte
+•No contaminants –only water, hydrogen and oxygen in the system
+© Siemens Energy, 20215 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.We are front runner in industrial scale PEM technology 
+innovation based on our in -house expertise
+In-house 
+expertise
+•Membrane Electrode 
+Assembly (MEA): 
+•Electrode coating, cell and 
+system design, testing and 
+productionIndustry Scale 
+design 
+•Vertical cell design: 
+•Specific cell frame material: Intellectual
+Property
+•Broad set of Patents: 
+•Patented GDL design: 
+© Siemens Energy, 20216 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Siemens Energy Electrolyzer portfolio scales up 
+by factor 10 every 4 –5 years
+Siemens Energy is a registered trademark licensed by Siemens AG.Silyzer portfolio roadmap
+0.1 MW 1 MW 10 MW 100 MW 1,000 MW
+2011 2015 2018 2023+ 2028+
+Silyzer 100
+Lab scale demo
+~20 kOH1 
+~30 t of H2Silyzer 300 Large scale, modular design
+electrolyzer plantsSilyzer 300 plant
+ Silyzer 200
+~130 kOH1
+~1700 t of H2
+World’s largest Power -to-
+Gas plants with PEM 
+electrolyzers in 2015 and 
+2017 built by SiemensBiggest PEM cell in the
+world built by Siemens
+© Siemens Energy, 20216
+2021 -03-191 Operating Hours; Data OH & tons as of Oct 2020
+Pre-engineered and pre -
+fabricated electrolyzer
+systems enhanced with 
+optimized operational 
+concepts (digital twin)
+Hydrogen Day | A. Schnettler
+© Siemens Energy, 20217
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Silyzer 300 –Full Module Array
+The next paradigm in PEM electrolysis
+© Siemens Energy, 2021
+17.5 MW
+plant power demand
+>75.5%
+plant efficiency 
+24 modules
+to build a full module array
+335 kg
+hydrogen per hour 
+Silyzer 300 
+Full module array 
+(24 modules) …
+… and close -up of 6 
+modules (Linz plant)
+Siemens Energy is a registered trademark licensed by Siemens AG.Hydrogen Day | A. Schnettler 7
+© Siemens Energy, 20218
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Siemens Energy is a registered trademark licensed by Siemens AG.
+German government funding drives innovation and 
+development of electrolyzer production and technology
+Siemens Energy is a registered trademark licensed by Siemens AG. © Siemens Energy, 2021We leverage 
+funding in 
+innovation on 
+production and 
+innovationH2Giga project draft accepted by Ministry of Education and Research
+Initiator
+German Federal 
+Ministry of Education and 
+ResearchDuration 
+5/2021 to 4/2025Status
+H2Giga project draft 
+accepted by BMBF –
+full application ongoing
+01 SEGIWA
+Development of GW scale serial 
+production of PEM type
+water electrolyzers02 DERIVA 
+Green H2 based biogenic 
+kerosene production
+2021 -03-19
+SEGIWA –SEries production GIgaWAtt
+DERIVA  –DERIsking of VAlue chain
+Hydrogen Day | A. Schnettler 8
+© Siemens Energy, 20219
+ Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Siemens Energy is a registered trademark licensed by Siemens AG.
+Prepared for delivery at Gigawatt scale 
+Standardization, Modularization and Manufacturing
+•Ramp -up of manufacturing towards a lean 
+Gigafactory
+•Flexible expansion to Multi -GW
+•Automated , highest -quality Silyzer production•Standardized plant design based 
+on modular building -blocks 
+•Pre-fabricated groups with pre -defined interfaces
+•Integrated digital engineering tools 
+Silyzer 300 array system design
+ Prefabricated group of 4 modules 
+50 MW plant design based on Silyzer 300 Digital engineering
+
+© Siemens Energy, 202110 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Strong partnerships facilitate NEB business success
+Project -specific/technology partners
+Development of dedicated projects and coverage of 
+complementary technologies in the PtH2/PtLvalue chain
+Partnerships with regional focus
+Strengthened regional market access and 
+localized parts of the value creation
+Long -term, strategic alliance
+Joint projects, manufacturing, innovation and eco system
+Siemens ecosystem
+SGRE and Siemens MobilitySiemens Mobility
+© Siemens Energy, 202110
+ Hydrogen Day | A. Schnettler
+© Siemens Energy, 202111 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.
+H2FUTURE
+A European Flagship project for 
+generation and use of green hydrogen 
+Project Use cases
+•Partner: VERBUND (coordination), 
+voestalpine , Austrian Power Grid 
+(APG), TNO, K1 -MET
+•Country: Austria
+•Installed: 2019
+•Product: Silyzer 300
+Challenge
+•Potential for “breakthrough” steelmaking 
+technologies which replace carbon by green 
+hydrogen as basis for further upscaling to 
+industrial dimensions
+•Installation and integration into an existing 
+coke oven gas pipeline at the steel plant
+•High electrolysis system efficiency of 80%Solutions
+•Operation of a 12 -module array Silyzer 300
+•Highly dynamic power consumption –
+enabling grid services
+•State -of-the-art process control technology 
+based on SIMATIC PCS 7Hydrogen for the steel making process 
+Supply grid services
+This project has received funding from the Fuel Cells and Hydrogen 2 Joint Undertaking under grant agreement 
+No 735503. This Joint Undertaking receives support from the European Union’s Horizon 2020 research and 
+innovative programme and Hydrogen Europe and NERGHY
+6 MW
+Power demand based 
+on Silyzer 300
+1,200 Nm3
+of green hydrogen per hour
+
+© Siemens Energy, 202112 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.
+Haru Oni Pilot Project 
+First integrated plant for climate -neutral 
+e-fuel production from wind and water 
+750,000 liters
+of e-methanol per year from 2022
+(130,000 liters of e -gasoline)
+>55m liters
+e-fuel per year 
+planned from 2024Project Use cases
+•Customer: HIF (Highly Innovative Fuels) 
+•Off-taker: Porsche AG
+•Country: Chile, Patagonia
+•Installation: 2021
+•Product: Power -to-methanol solution 
+based on SE Electrolyzer
+Opportunity
+•Huge wind energy potential in Magallanes
+•Existing industry and port infrastructure
+→Perfect conditions to export green energy 
+from Chile to the worldSolutions
+•Production of e -gasoline and e -methanol 
+at one of the best spots worldwide 
+for wind energy
+•Co-developer Siemens Energy realizing 
+the system integration from wind energy 
+to e-fuel production
+•International Partners like Porsche and AMEE-Fuel for Porsche cars
+Potential for adding Kerosene
+or Diesel production in future phases
+Methanol for ship motors
+>550m liters
+e-fuel per year 
+planned from 2026
+© Siemens Energy, 202113 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.Competitiveness to grey hydrogen expected by 2025
+based on large scale commercial projects in operation
+16
+US$/MWh
+6,000
+OHs per year1.5
+US$/kg
+OHs: Operating hours | Assumptions: GW manufacturing, 100 MW electrolyzer capacity, scope w/o gas treatment/compression systemsgreen
+hydrogen wind 
+power
+© Siemens Energy, 202114 Hydrogen Day | A. Schnettler
+2021 -03-19 Siemens Energy is a registered trademark licensed by Siemens AG.
+Conclusions WHY•Green hydrogen is the second stage of 
+the energy transition 
+•Indispensable for decarbonization
+HOW•Secure technology and cost leadership
+•Implement Giga factory
+•Strong international partner ecosystemWHAT•In-house PEM electrolysis technology
+•Large Power -to-X solutions enabled by 
+the full Siemens Energy competence
+•Digital twin and service concepts
+2021 -03-19We know how to industrialize technologies! 

@@ -1,0 +1,166 @@
+GC: How important is Waste Heat Recovery 
+(WHR) in the cement sector’s race to net-zero? 
+Tobias Panse (TP):  WHR is one key lever to reduce 
+CO 2 emissions by utilising waste heat to produce 
+electrical power, which can then be used for the 
+internal power consumption of the cement plant. 
+WHR systems are thus important in the race to 
+reach net-zero by 2050, particularly as they are an 
+established technology that can be used to achieve 
+incremental emissions reductions in a cost-effective 
+way. Using WHR, alongside other technologies 
+like carbon capture and green hydrogen will be a 
+powerful path to decarbonisation. While progress 
+is certainly being made, more aggressive action is 
+needed to meet intermediate emissions targets.GC: What is the typical amount of electrical 
+energy that WHR systems can generate?
+TP: Several factors determine the amount of steam 
+and power that can be produced from the waste 
+heat, including the waste gas temperature and com -
+position, kiln design, kiln capacity and raw material 
+moisture content. Typically, a WHR system can 
+generate around one third of the entire cement 
+factory power consumption. The installation of a 
+WHR system will improve the CO 2 footprint sig -
+nificantly, particularly when the electrical power 
+comes from fossil fuels.
+ 
+GC:  Which WHR technology offers the biggest 
+potential to the sector?
+GLOBAL CEMENT: WASTE HEAT RECOVERY
+20 Global Cement  Magazine   May 2023Interview by Peter Edwards, Global Cement MagazineInterview by Peter Edwards, Global Cement Magazine
+WASTE HEAT  
+RECOVERY TRENDS
+What can be done to 
+encourage greater uptake of 
+waste heat recovery in the 
+global cement sector?TOBIAS PANSE 
+SIEMENS ENERGY
+GLOBAL CEMENT: WASTE HEAT RECOVERY
+21 Global Cement  Magazine   May 2023Interview by Peter Edwards, Global Cement MagazineInterview by Peter Edwards, Global Cement Magazine
+Tobias Panse joined Siemens AG  
+in 2006 and, for 10 years, held various  
+positions within Supply Management for 
+Industrial and Utility Steam and Gas Turbines. 
+After serving four years in Hungary as the 
+Managing Director for the factory and country 
+CEO, he now leads Siemens Energy’s worldwide 
+service and new unit manufacturing for industrial 
+steam turbines and generators and is driving the 
+transformation of industry to help decarbonise 
+the world for future generations. 
+Table 1 Unit ORC WHR Steam WHR sCO 2 WHR
+Performance @ Design Conditions
+Type of Cooling ACC WCC ACC WCC ACC WCC
+Heat recovered (PH & CC) MWth 25.7 25.6 28.8 29.0 28.6 28.6
+Gross Power Output MWe 6.4 6.3 7.0 7.3 8.2 8.3
+Efficiency (Gross) % 24.8 24.5 24.2 25.0 28.7 29.0
+Auxiliary Power Consumption MWe 0.6 0.7 0.5 0.7 3.9 3.8
+Net Power Output MWe 5.8 5.6 6.5 6.6 4.3 4.5
+Efficiency (Net) % 22.5 21.8 22.4 22.7 15.0 15.7Figure 1: Annual net power production 
+(MWh) based on 8000 operating hours.
+Ambient Design Conditions  
+Temperature = 20°C  
+Pressure = 1018mBar  
+Relative Humidity = 74%  
+ 
+WHR Unit Preheater  
+Design Conditions  
+Mass flow = 73.4kg/s  
+WHR inlet temp.  = 330°C  
+WHR outlet temp. = 195°C
+ 
+WHR Unit Clinker  
+Cooler Design Conditions  
+Mass flow = 70.4kg/s  
+WHR inlet temp.  = 350°C  
+WHR outlet temp. = Down to min
+46,40044,800
+ORCACCWCC52,00052,800
+SRCACCWCC34,40036,000
+sCO 2
+ACCWCC
+TP: This depends on the individual project and the 
+site boundaries. Currently two main technologies 
+are in competition: Steam Rankine Cycle (SRC), also 
+known as Water-Steam-Cycle, and Organic Rankine 
+Cycle (ORC). Most of the WHR systems installed are 
+based on SRC but there is a growing number of ORC 
+installations as well. At Siemens Energy we have sig -
+nificant experience in applying the technology best 
+fitting to the specific customer application.
+GC: Which parts of the plant are most ripe for use 
+of WHR?
+TP: The most widely accepted WHR method in 
+cement plants is to capture and combust flue and 
+waste gas streams from the pre-heater tower and the 
+clinker cooler.
+GC:  How are new technologies changing the an -
+swer to the previous three questions?
+TP: In addition to the currently available tech -
+nologies (ORC, SRC) alternative cycles that use 
+super critical CO 2 (sCO 2) as a medium to further 
+increase efficiency beyond the current limits have  
+been investigated. 
+Studies conducted alongside cement producers 
+by Siemens Energy in recent years to determine the 
+most efficient way of generating power from WHR 
+show that, for the most part, a traditional steam cycle 
+outperforms alternative technologies, i.e.: net elec -
+trical output for both air-cooled and water-cooled 
+applications.  (Table 1 & Figure 1).ACC = Air cooled condenser WCC = Water cooled condenser
+GLOBAL CEMENT: WASTE HEAT RECOVERY
+22 Global Cement  Magazine   May 2023Markets and drivers
+GC: Which countries lead the way in WHR 
+use for cement production?
+TP: The biggest markets for WHR in cement pro -
+duction we see currently are in China and India. 
+In both countries government legislation and cost 
+competitiveness have driven our customers to in -
+stall WHR systems in their plants.
+GC: Where are the most exciting regions or 
+countries for WHR right now?
+TP: We must take action now in Europe to meet our 
+decarbonisation targets. Here, we see industry lead -
+ers in cement communicating their roadmaps to 
+fully decarbonise cement production. In addition, 
+energy prices in the region have been increasing 
+substantially. This drives the interest of our cus -
+tomers to invest into WHR systems for new and 
+existing assets.
+GC: What can be done to help areas that are
+further behind?
+TP: Power and emissions pricing, as well as 
+regulation, are major factors that can be used by 
+governments in order to motivate the installation 
+of environmentally friendly technologies such 
+as WHR. While this is the situation in Europe, as 
+mentioned above, the roll-out of WHR in the global 
+cement sector is currently constricted by the lack 
+of government initiatives and regulation. The main focus in the cement sector is in increasing pro -
+duction capacity, which leaves limited investment 
+available for improving process efficiency. 'Green' 
+cement is technically possible and needs to become 
+economically attractive. China and India prove this 
+is possible.
+GC: What can be done to overcome 
+these limitations?
+TP: Increasing social awareness of 'green cement'  
+products amongst the general public would create 
+additional value for the cement sector to imple -
+ment environmentally-friendly technologies such 
+as WHR.
+GC: What are producers like Siemens Energy 
+doing to help the adoption of WHR in high-
+intensity industries like cement?
+TP: We are ready, but we can't do this alone. As 
+a solution and technology provider, we prefer to 
+co-create the optimum solutions together with our 
+customers. We are continuously investing in future-
+oriented technologies and portfolio elements to 
+provide the highest value for our customers and the 
+environment. 
+GC: Tobias Panse, thank you for your time today.
+TP: Y ou are very welcome indeed!
+A cement plant on the banks of the Yangtze River in China, one of 
+the countries with the largest uptakes of WHR units in the world.

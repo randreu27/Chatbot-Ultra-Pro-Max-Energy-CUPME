@@ -1,0 +1,36 @@
+Transaction:
+Published 11/23/2020
+LEI 5299005CHJZ14D4FDJ62
+Date 11/20/2020 UTC+1
+Type of
+transactionOther
+Entitlement to receive Siemens Energy shares for an amount of 3,829.80 EUR
+without additional payment (in connection with a Siemens Energy share
+program). The number of shares is based on the volume weighted average price
+of the Siemens Energy share in Xetra trading at the Frankfurt Stock Exchange in
+the period from 2020-09-28, +02:00 to 2020-11-25, +01:00 inclusive. The shares
+will be allocated as of 2020-11-26, +01:00.
+Transaction linked to the exercise of share option programmes
+Description of
+financial
+instrument:Share
+ISIN DE000ENER6Y0
+Place Outside a trading venue
+a) Price and Volume Price Volume
+not numberable not numberable
+b) Aggregated
+informationPrice Volume
+not numberable not numberable
+  
+Details of person:
+Name/Company Andreas Feldmüller
+Reason Member of the administrative or supervisory body
+Initial notification /
+CorrectionInitial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 

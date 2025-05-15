@@ -1,0 +1,85 @@
+UnrestrictedSiemens Energy 2025. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.
+Ikke kontrollert hvis utenfor dokumentstyringssystemet
+Side iaviDokumentnavn: BRUKSANVISNING FOR TC6A -1190 TESTADAPTER
+Dokumentnummer: E1A4405430
+Revisjon Skrevet av Kontrollert av Godkjent av Utgitt dato
+A D. MCDOUGLE J. Pridmore K. Turner 20/01/2025
+FØRSTE UTGAVE
+REVISJONSKONTROLL: Historikk for revisjonskontroll administreres av dokumentstyringssystemet.
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORDok.nr.: E1A4405430
+Rev: A
+Side: 1av2
+UnrestrictedSiemens Energy 2025. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.1FORMÅL OG OMFANG
+Formålet med denne prosedyren er å beskrive prosessen for bruk av trykktestadapter TC6A -1190 for dry mate -
+hunnkonnektor.
+Testadapter TC6A -1190 brukes under installasjon på stedet av dry mate -hunnkonnektorer i konnektorseriene
+TC6A -512 og TC6A -716.
+Denne adapteren kan monteres på kundens slangeoppheng ved hjelp av enten 2 eller 4 av de medfølgende
+hetteskruene. Ved bruk i konfigurasjonen med to bolter er det maksimale testtrykket som kan påføres 10 000
+psi (689 bar).
+Maksimalt tillatt arbeidstrykk (MAWP) for testadapteren er 1086 bar (15 750 psi). DETTE MÅIKKE OVERSKRIDES.
+Testadapteren er egnet for gjentatt testing. Så lenge kontrollkravene som er beskrevet i avsnitt 5er oppfylt.
+2TILHØRENDE DOKUMENTER OG TEGNINGER
+Nummer Navn Sted
+10032136 TC6A -512 Product Data Sheet Teamcenter
+10204852 ElecTRON Installation, Operations and
+Maintenance ManualSiemens -energy.com/subsea
+SD00021200 TC6A -1190 Product Data Sheet Teamcenter
+SD00021241 TC6A -716 Product Data Sheet Teamcenter
+T31549 TC6A -1190 Drawing and Associated BOM Teamcenter
+3UTSTYR
+Følgende utstyr kreves for å fullføre denne installasjonen:
+1/2" momentnøkkel klassifisert for 54 Nm (40 lbf ∙ft)–f.eks. NOR -13019.
+3/8" A/F momentnøkkel med 1/2" sekskantfeste.
+5/16" unbrakonøkkel 1/2" feste.
+4GENERELL SIKKERHETSINFORMASJON OG RISIKOER
+For fullstendig sikkerhets -og fareinformasjon, se ElecTRON IOM eller sikkerhetsdatabladet for
+testmediene som brukes.
+Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor mineralbaserte
+oljer.
+Bruk egnet håndbeskyttelse ved håndtering av produkter eller mineraloljer eller syntetiske oljer.
+Advarsel! Risiko for mindre personskade og/eller skade på materiale eller miljø under montering.
+Det må utvises forsiktighet under montering for å sikre at koplinger og hydraulisk/pneumatisk utstyr
+er riktig installert.
+Advarsel! Risiko for personskade som følge av at trykkbærende deler skytes ut på grunn av for høyt
+trykk i systemet.
+Advarsel! Risiko for hydraulisk injisering. Skal kun brukes under MAWP med olje og egnet pumpe i
+samsvar med (sikkerhets -) forskrift (2016) om trykkpåkjent utstyr eller relevant lokalt alternativ ved
+bruk i utlandet.
+
+OPERATING GUIDELINES FOR TC6A -1190 TEST ADAPTORDok.nr.: E1A4405430
+Rev: A
+Side: 2av2
+UnrestrictedSiemens Energy 2025. Alle rettigheter forbeholdt
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.5KLARGJØRING
+Inspiser enheten visuelt for å sikre at det ikke er skade på tetningskjeglene, elastomertetningen,
+gjengene eller huset til testadapteren. Hvis det er tvil om integriteten til testadapteren eller noen av
+komponentene, må arbeidet stoppes umiddelbart, utsty ret settes i karantene og Siemens Energys
+tekniske avdeling kontaktes.
+Rengjør testadapteren med isopropanolservietter eller en egnet lofri klut og isopropanol, og vær
+spesielt oppmerksom på tetningskjeglens overflate.
+6PROSESS
+1.Se tegning T31549 og tilhørende BOM.
+2.Kontroller at de to O -ringene (20) er montert på testadapteren (10), og at O -ringen (60) er montert
+på flensadapteren (50).
+3.Hvis en TC6A -512 testes, må Seal Energiser -pluggen (70) monteres på testadapteren (10).
+4.Monter testadapterenheten på konnektoren som skal testes. Kontroller at flensadapterhuset sitter tett
+mot bunnen av slangeopphenget
+5.Monter hetteskruene (30) og skivene (40) etter behov, og stram dem for hånd før de strammes til en
+verdi på 54 Nm (40 lbf ft).
+6.Fest slangen fra testutstyret til testadapteren (10), stram til 20 Nm (14,75 lbf ft)
+7.Utfør testen som angitt i den tilhørende installasjonsprosedyren, og overhold testadapterens MAWP
+på 1086 bar (15 750 psi), som ikke må overskrides.
+8.Når testen er fullført, reduserer du trykket til omgivelsestrykk og fjerner oljeslangen.
+9.Løsne hetteskruene og fjern testadapterenheten fra slangeopphenget.
+10.Tørk opp eventuelle oljerester fra testadapteren og konnektoren som testes.
+11.Gjenta den visuelle kontrollen som beskrevet i avsnitt 5.
+SLUTT PÅ PROSEDYREN1.Merk: Hvis en TC6A -716 testes, må Seal Energiser -pluggen (element 70 på T31549)
+fjernes. Hvis den ikke fjernes, kan det føre til at dry mate -kontaktpinnen på TC6A -716 blir
+skadet.2.
+3.Viktig merknad! Ved bruk av denne adapteren i konfigurasjonen med 2 bolter må
+testtrykket IKKE OVERSTIGE 10 000 psi.
+4.Merk :Installasjonsprosedyren som brukes vil være prosjektavhengig, og er forskjellig for
+TC6A -512 og TC6A -716. Disse er oppført på det aktuelle produktdatabladet.

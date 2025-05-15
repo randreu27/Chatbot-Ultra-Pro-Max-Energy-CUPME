@@ -1,0 +1,255 @@
+Softwarelösung 
+EMIDATE –  
+Emissionen im Griff
+Rasche, systematische Erfassung  
+und Auswertung von Emissionsdaten
+Das ermöglicht, den Ausstoß von Schadstoffen auf 
+zulässige Grenzwerte zu überwachen. Die Ergebnisse 
+werden grafisch visualisiert und protokolliert.
+Geprüft und zertifiziert
+Auf Basis österreichischer Gesetze und Verordnungen sowie 
+deren Normen wurde seit Ende der 1980er Jahre die Soft -
+warelösung EMIDATE entwickelt, mit der Emissionen präzise 
+kontrollierbar sind.
+Die aktuelle Version wurde
+• vom TÜV Österreich eignungsgeprüft  
+nach ÖNORM M9412,
+• von CSA Group MCERTS zertifiziert,
+• von SYNLAB hinsichtlich der EN 14181 zertifiziert.
+Erfüllte Anforderungen
+• LCPD (Großfeuerungsanlagen)
+• WID (Müllverbrennungen)Modulares System
+Das System ist modular aufgebaut – setzt also auf bewährten 
+Standardkomponenten auf und ist leicht  erweiterbar. Vom 
+Standard abweichende Anforderungen von Kunden und 
+Behörden sind somit flexibel integrier- und erfüllbar.
+Die Datenerfassung erfolgt primär über Ethernet. Als Peri -
+pheriekomponenten können SIMATIC Steuerungen aller 
+Generationen mit Ethernet-Schnittstelle eingesetzt werden. 
+Durch die Verwendung einer SIMATIC CPU als Gateway 
+können auch andere, mit SIMATIC CPUs kompatible, 
+Systeme angeschlossen werden. Dadurch können unter 
+anderem folgende Protokolle verwendet werden:
+• Profibus
+• Profinet
+• S7-Verbindungen
+• Modbus TCP
+Alles aus einer Hand:
+Siemens Energy Austria 
+GmbH liefert auf Anforde -
+rung ein komplettes 
+Analysen  system – von 
+der Gasentnahme, der 
+Gasaufbereitung über 
+die Analysengeräte 
+bis hin zum Emissions -
+datenerfassungssystem 
+EMIDATE – inklusive Hard- 
+und Software-Engineering 
+sowie Inbetriebnahme 
+vor Ort.Leitsystem
+Ethernet
+EMIDATE ClientRouter/  
+Firewall
+IntranetEMIDATE Server
+Internet BehördeBüro-PC mit  
+EMIDATE ClientFernwartungSystemtopologieMit der Softwarelösung EMIDATE werden alle  
+ erzeugungsrelevanten Emissionen und Anlagen­
+zustände rasch und systematisch erfasst,  
+beobachtet, bewertet und gespeichert.
+Modbus TCP Profibus/ProfinetSPS
+AnalysatorAnalysator
+SPS
+Ethernet• EN 172 55
+64 x  
+Österreich
+10 x  
+Slowenien5 x 
+Kroatien
+10 x  
+Serbien
+2 x  
+Türkei
+4 x  
+Israel
+3 x  
+Südafrika4 x  
+Dubai5 x  
+Kuwait3 x  
+Niederlande
+2 x  
+Belgien
+3 x  
+Vereinigte 
+Arabische 
+Emirate5 x  
+Thailand
+4 x  
+Vietnam
+8 x  
+Chile3 x  
+Indien
+5 x  
+Singapur35 x  
+Saudi ArabienEMIDATE ist weltweit mehr als 200 Mal im Einsatz:  
+in Kraftwerken, Müllverbrennungsanlagen und  
+Fernheizwerken sowie u. a. in der Chemie ­, Zement ­  
+und Papierindustrie.
+Highlights von EMIDATE
+• Online parametrierbar
+• Einfach administrierbare und erweiterbare 
+ Mehrsprachigkeit
+• Frei parametrierbare Momentan- und  Verdichtungszyklen
+• Einfacher Zugriff auf gespeicherte Daten  
+(grafisch und tabellarisch)
+• Automatischer Export von Daten ins Intra- und Internet
+• Meldesystem inkl. akustischer Signalisierung
+• Eingabe von Kommentaren durch den Anlagenfahrer – 
+spontan oder durch ein bestimmtes Ereignis ausgelöst 
+(optional mit Freigabeprozess)
+Eine Lizenz – viele Möglichkeiten
+Das strukturierte Lizenzmodell ermöglicht einen kosten -
+effektiven Einsatz von kleinen bis zu sehr komplexen 
+Anlagen. Aufgrund der Server/Client Architektur von 
+EMIDATE kann in einem Netzwerk jeder Server auch als 
+Client für andere Server verwendet werden. Emissions -
+daten (Online-Werte und gespeicherte Werte) können 
+auf verschiedenen Clients visualisiert werden – auch 
+auf  Office-Rechnern.Protokollierung
+Protokolle, die unter anderem dem Nachweis der Erfüllung 
+von Behördenauflagen dienen, sind zyklisch oder auf Anfor -de
+rung generierbar. Die generierten Berichte werden
+entweder gedruckt oder als PDF-Datei gespeichert, wobei 
+die PDF-Dateien über E-Mail oder FTP versendet werden 
+können. Zusätzlich zu den in der ÖNORM geforderten 
+Protokollen ist unter anderem ein Excel-Protokoll verfügbar, 
+in dem alle in EMIDATE gespeicherten Daten mit den Excel-
+Funktionalitäten aufbereitet und dargestellt werden können. 
+Als Vorlagen stehen alle IED-Protokolle zur Verfügung. 
+Als weiteres Feature steht der zyklische Export der Daten in 
+maschinenlesbarer Form zur Verteilung in einem Netzwerk 
+über FTP zur Verfügung. Damit lassen sich verschiedenste 
+Datenauskopplungen an Leitsystem oder Behörden verwirk -
+lichen. 
+Einsatz in unterschiedlichen Branchen
+EMIDATE wird vorwiegend in Kraftwerken, Müllverbren -
+nungsanlagen und Fernheizwerken eingesetzt, aber auch 
+in anderen Branchen wie zum Beispiel in der Chemie-, 
+Zement- und Papierindustrie. Auch als Datenerfassungs -
+system für nicht emissionsrelevante Anwendungen kann 
+das System verwendet werden.2 xH
+ong Kong4 x
+Irland
+Herausgeber
+Siemens Energy Global GmbH & Co. KG
+Transformation of Industry 
+Siemenspromenade 9
+91058 Erlangen
+Germany 
+ 
+Für weitere Informationen können Sie uns hier kontaktieren:
+E-Mail: emidate.at@siemens-energy.com
+Oder besuchen Sie unsere Website:
+siemens-energy.com/global/en/home/products-services/product/emidate.html©
+ Siemens Energy, 2024
+Siemens Energy ist eine durch die Siemens AG lizenzierte Marke. 
+Änderungen und Irrtümer vorbehalten. Die Informationen in diesem Dokument enthalten lediglich allgemeine Beschreibungen bzw. Leistungs 
+merkmale, welche im konkreten Anwendungsfall nicht immer in der beschriebenen Form zutreffen bzw. welche sich durch Weiterentwicklung der 
+Produkte ändern können. Die gewünschten Leistungsmerkmale sind nur dann verbindlich, wenn sie bei Vertragsschluss ausdrücklich vereinbart 
+werden. Alle Erzeugnisbezeichnungen können Marken oder Erzeugnisnamen der Siemens Energy Austria GmbH oder anderer Unternehmen sein, 
+deren Benutzung durch Dritte für deren Zwecke die Rechte der Inhaber verletzen kann.Land Referenzen
+Ägypten Beni Suef, Burullus, 
+New Capital
+Argentinien Energetico Zarate, Genelba
+Armenien Yerevan
+Aserbaidschan Sumgait
+Australien Kogan Creek
+Bahrain AlEzzel
+Belgien Antwerpen, Stein (2 x)
+Brasilien Fortaleza, Novo Tempo
+Chile Quintero (2 x), San Isidro 
+(2 x), Taltal (2 x), Tarapaca, 
+Aconcagua
+Dom. Rep. Los Minas
+Dubai AlAweer (2 x), Jamex, 
+Jebel Ali K
+England Marchwood, Severn Power, 
+Saica, Keadby
+Frankreich Landivisiau
+Hongkong Black Point
+Indien Samsun, Sugen (2 x)
+Irland Huntstown
+Israel Alon Tavor, Ramat Gavriel, 
+Sugat, Beer Tuvia
+Jemen Marib
+Katar Ras Laffan
+Kosovo KEK
+Kroatien INA Rijeka, INA Sisak, 
+TE-TO Zagreb, ELTO ZagrebLand Referenzen
+Kuwait AzZour (2 x), Sabiya (3 x)
+Malaysia Panglima, Pengerang
+Malta Delimara
+Montenegro Pljevlja
+Niederlande Diemen, Hemweg, 
+Enecogen
+Norwegen Karstoe
+Österreich MSD, EVN (14 x), 
+Wienenergie (9 x), FHKW 
+Wels, FHKW Graz, TRV 
+Niklasdorf, KRV, Energie AG 
+(4 x), Voest Linz, Verbund, 
+Magna CMST, UPM, 
+Werndorf, SCA Laakirchen, 
+Lenzing Chemie Linz (3 x), 
+Jungbunzlauer, Infineon 
+Villach, AKH, KH Wien 
+Nord, Krematorium Graz, 
+Krematorium Wien, Kaindl, 
+Swarovski (2 x), BHKW 
+Villach, Wattenspapier, 
+Montanwerke Brixlegg, 
+MAN Steyr, MM Karton, 
+Rauch, Smurfit Kappa
+Oman Barka, Qurayyah, Sohar
+Philippinen San Gabriel
+Polen Plock
+Portugal Ribatejo
+Rumänien Vega Refinery
+Russland MVA MoskauLand Referenzen
+Saudi-Arabien AlWadjh, Arar, Duba, 
+Jeddah (2 x), Al Jubail 
+(4 x), Makkah, Rabigh 
+(2 x), Rafha, RasAlKahir, 
+Shuaibah, Tabuk (2 x), Ta‘if, 
+Al Khobar (2 x), Al Khabij, 
+PP9 (3 x), Al Shuquaiq, 
+Yanbu (2 x), Shoiba (2 x), 
+Juba (2 x), Hail (2 x)
+Serbien Elixir Zorka, TENT A, TENT 
+B, TE Kolubara, Vreoci, 
+Morava
+Singapur DGEN, GMR Singapur, 
+Pulau Seraya (2 x), 
+Tuaspring
+Slowenien Acroni, Energetika 
+Ljubljana, Energetika 
+Maribor, Knauf, Lafarge 
+Trbovlje, LEK Lendava, LEK 
+Menges, TETOL Ljubljana, 
+TE Brestanica, Vipap Krsko
+Spanien Arrubal
+Südafrika Ankerlig (2 x), Gouriakwa
+Thailand Bang Pakong, Chana, 
+Songkhla, Wang Noi, 
+Bangkok
+Türkei Antalya (2 x)
+Vereinigte 
+Arabische 
+EmirateShuweihat (2 x), Taweelah
+Vietnam Ca Mau (2 x), Nhon Trach, 
+Phu MyReferenzen
+EMIDATE ist weltweit mehr als 200 Mal im Einsatz.
+EMIDATE ist zertifiziert von:
+MCERTS 
+DownloadSchweizZ AB Bazenheid, Agro 
+Küssnacht

@@ -1,0 +1,550 @@
+Lorem ipsum l Veribus  
+dolorpro  
+DigiTRON
+Site Received Test Manual 
+SRT-002  - Rev05
+siemens -energy.com  
+DigiTRON Single Connector
+Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  2 of 15 
+Unrestricted  Thank you for purchasing a Siemens Energy  Subsea product.  
+IMPORTANT  
+READ CAREFULLY BEFORE USE  
+KEEP FOR FUTURE REFERENC E 
+This doc ument must be read in conjunction with the Installation , Operatio n 
+and Mainten ance document IOM -002, which contains  all specifications , 
+product use instructions and product  safety information.  
+This can be found on S ieme ns Energy  Subsea  website  
+https://www.siemens -energy.com  / search Subsea  
+5 R. Wyatt 25/09/2020  R. Wyatt 25/09/2020  Statement added to use this document in 
+conjunction with IOM -002. 
+H&S section updated.  C ontact details 
+added . 
+4 L.Belcher 09.06.2015  M.D.Bell 09.06.2015  Warning note with regard to lifti ng and PPE 
+added a t Section 6.  
+3 P.Westwell B.Leach 29.4.2014  New Cover design & co mplete document 
+reformat.  
+2 P.Westwell B.Leach 18.3.2014  Re-format, various text amendments, 
+1 P.Westwell B.Leach 1.8.2013  First issue  
+By Date  By Issue 
+Date  
+Rev Compiled  Checked Remarks  
+© Siemens Subsea Connectors,  Page No.  
+(a division of Siemens plc), Subsea Excellence 
+Centre, Ulverston, Cumbria, LA12 9EE, England  2 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  3 of 15 
+ 
+Unrestricted   
+Contents  
+ 
+1. INTRODUCTION  ................................ ................................ ..........................  4 
+2. SCOPE  ................................ ................................ ................................ ........  4 
+3. CONTACT DETAILS AND FEEDBACK  ................................ ......................  4 
+4. ABBREVIATIONS  ................................ ................................ .......................  5 
+5. PURPOSE  ................................ ................................ ................................ ... 6 
+6. RESPONSIBILITIES  ................................ ................................ ....................  6 
+7. HEALTH & SAFETY  ................................ ................................ ....................  6 
+8. VISUAL INSPECTION AND CHECKS  ................................ .........................  7 
+9. ELECTRICAL TESTING  ................................ ................................ ..............  9 
+10. CONTINUITY TEST  ................................ ................................ .....................  9 
+11. IR TEST  ................................ ................................ ................................ ..... 12 
+12. FAULT INVESTIGATION  ................................ ................................ ...........  14 
+13. FINAL INSPECTION  ................................ ................................ ..................  14 
+14. CUSTOMER COMMENTS / FEEDBACK  ................................ ..................  15 
+ 
+ 
+ 
+ 
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  4 of 15 
+ 
+Unrestricted   
+1. INTRODUCTION  
+This document is to provide the customer a simple test and check procedure to perform  on 
+receipt of sup plied DigiTRON connectors  to confirm identification, quality and operation  
+ 
+This doc ument must be read in conjunction with the Installation , Operation  and 
+Mainten ance document IOM -002, which contains  all specifications , product use 
+instru ctions and product  safety information.  
+ 
+This can be found on S ieme ns Energy  Subsea  website  https://www.siemens -energy.com  / 
+search Sub sea 
+ 
+2. SCOPE  
+This doc ument defines the proc edure and equipment required to carry out the Site Received 
+Test on DigiTRON connectors . This is to determine no damage has taken place in transit 
+and the connector  is fit to be deployed. This test will also confirm  basic electrical 
+performance.  
+ 
+3. CONTACT DETAILS AND FEEDBACK  
+For additional information or questions regards the products visit the Siemens Energy  
+website  www. siemens -energy .com  /search Subsea or contact the fo llowing . 
+ 
+Departmen t E-mail address  
+Product Safety  Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Technical Support  connectortechnicalsupport.gb@siem ens-energy.com  
+Service (Site Team)  susultlcmsupport.gb@siemens -energy.com  
+Sales  conne ctorsales.gb@siemens -energy.com  
+ 
+Any information, records , or Health and Safety feedback that needs to be detailed can be 
+recorded in  section  Error! Reference source not found.  of this document and sent to t he 
+relevant email address.  
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  5 of 15 
+ 
+Unrestricted   
+4. ABBREVIATIONS  
+ 
+A  Ampere  
+AC  Alternating Current  
+Assy   Assembly  
+API  American Pet roleum Institute  
+AWG   American Wire Gauge  
+BOM   Bill of Material  
+°C  Degree Celsius  
+CE  Community European  
+Comms  Communication Signal  
+CP  Cathodi c Protection  
+DC  Direct Current  
+DWG   Drawing  
+EFL   Electrical Flying Leads  
+EMF   Electrical Magnetic field  
+FAT   Factory Acceptance Test  
+IR   Insulation Resistance  
+ISO   International Organization for Standardization  
+ITP       Inspection Test Plan  
+K   Kelv in 
+LTC   Long Term Cover  
+M   Metres  
+Max.   Maximum  
+MFG   Manufacturer  
+Min.   Minimum  
+No.   Number  
+ROV     Remote ly Operated Vehicle  
+SI   Standard International  
+SRT   Site Received Test  
+SST   Stainless Steel  
+TBD   To Be Defined  
+TSP          Twisted Screened  Pairs  
+UNS   Unified Numbering System for Metals an d Alloys  
+V   Volt 
+   
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  6 of 15 
+ 
+Unrestricted  5. PURPOSE  
+The purpose of this document is to ensure that the Site Received Test is performed where 
+specified, on all DigiTRON connectors . IR and Continuity tests will be performed along  with 
+a visual inspection for any damage pre and p ost test.  
+ 
+6. RESPONSIBILITIES  
+It is the operators’ responsibility to comply with this instruction and to ensure all test 
+equipment is within calibration and report any problems to the Quality Control Inspecto r. 
+ 
+The operator shall also be responsible for com pleting the Test Results Sheets.  
+All tests shall be carried out within a test cell, or specifically designed test area, which shall 
+be clearly identified. Controlled access to such areas shall be enforced.  
+Care must be taken during handling, any damage to  the connectors can result in schedule 
+delays.  
+ 
+7. HEALTH & SAFETY  
+Before any work begins , document IOM -002 must be referred to for safety information  
+relating to the product and use of.  
+ 
+Only suitably qualifi ed and ex perienced person s (SQEP)  should perform the tasks listed  in 
+this document . 
+ 
+All high voltage equipment should have  been checked for safety within the last 12 months 
+from the date of use.  
+The operator shall  be protected from electrocution by earth -screened enclosures that 
+conta in the H.V.  hazard . 
+After every H.V. test, an earth stick shall be used to ensure  that the conductors are  
+discharged.  
+For tests involving D.C. sufficient time must be allowed for the circuit to discharge before  
+touching the co nductors. The discharge period  shall be at least e qual to the period of  
+charging.  
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  7 of 15 
+ 
+Unrestricted  8. VISUAL INSPECTION AND CHECKS  
+• Upon receipt of each connector please handle in accordance with procedures 
+detailed in IOM -002. 
+ 
+• Each page of this document contains a signatur e section to be completed by the 
+user.  
+ 
+• Visual ins pection  for damage to be completed by Siemens trained technician  
+ 
+Please use check box as shown                                         Pass   ✓           Fail     
+         
+Check each connector is correct part ordered.  
+If connector is wrong part please stop te st and inform Technical Dept...................  
+ 
+Place  connector on a clean surface and check for any visual damage  
+or leaks.  Some exa mple  images can be found are on pg 8....................................  
+ 
+Check tails are undamaged along length (wher e fitted) ............ ...............................  
+ 
+Remove protective caps from connectors and check contact face / seal  
+for Debris or  damage ................................................................ ..............................  
+ 
+Check pins / so ckets for damage ............................................. ..............................  
+ 
+Inspect connector body for any impact dama ge, scratches .....................................  
+ 
+Re-install protective caps ........................................ ................... ..............................  
+ 
+Check tagging and etching is to project requirements .................. ............... .............  
+ 
+Repackage and store in accordance with IOM -002 manual .....................................  
+ 
+Any failure  to this criterion must be recorded on the Information and Notes / Health  
+and Safety Feedback list at the back of this document and the technical department  
+must be informed  
+ 
+Photos must be taken as evidence to help rectify any non -conformance    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  8 of 15 
+ 
+Unrestricted   
+Example images : - To help identify damage, debris, defects  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Check connector body for damage 
+such as dents, scratches  
+(Picture shows damage to body )  
+Check tail wires along their length, 
+for damage or breaks.  
+(Picture shows broken tail wire)  
+ 
+Make sure all contacts and mating 
+faces are Clean and free from debris.     
+(Picture shows debris in co ntact)                               
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  9 of 15 
+ 
+Unrestricted  9. ELECTRICAL TESTING  
+ 
+ALL TESTS TO BE PERFORMED BY SIEMENS TRAINED OPERA TIVE S ONLY . 
+ 
+General Equipment : 
+Ambient temperature / humidity recorder  
+Barometer  
+ 
+Record atmospheric pressure, tempera ture & humidity (in accordance with the IEC 
+60060 standard) during electrical & function testing  
+ 
+Note: All calibrated equipment must ha ve a current calibration certification at the time 
+of the test. Details must be recorded on the results Record Sheets i ncluded in this 
+document  
+ 
+The appropriate test connector must always be used to make electrical contact during 
+testing. UNDER NO CIRCUMST ANCES should a foreign object (such as a 
+screwdriver, test probe, or crocodile clip) be used as a test connection as th is could 
+damage the seals and insulation. Such actions will invalidate the warranty of the 
+connector / harness.  
+ 
+10. CONTINU ITY TEST  
+Equipmen t Required  
+Continuity Bleep Tester.  
+Cropico or Black Star Digital Ohmmeter.  
+Wiring diagram (where applicable)  
+Test conn ector (where applicable)  
+ 
+All equipment is functional and with calibration certificates ...............................  
+ 
+Pre test Visual  inspection of connectors completed ............................................  
+ 
+Test connector and leads to be inspec ted for damage debris .............................  
+ 
+If the above criterion is passed testing may begin .................................. .............  
+ 
+If at any point the connector fails the test, stop testing and go to section 10 . 
+ 
+          Procedure  
+• Touch the conductive ends of the test leads together. If the tester is in working order 
+it will sound a "bleep".  
+ 
+• Attach one of the free e nds of the test leads to one conductor, pin or socket 
+(ensuring the plating is not damaged by the test lead).  
+ 
+• Attach t he other test lead to the opposite end of the same conductor, pin or socket.  
+ 
+• If there is a "bleep" continuity is acceptable and recorded  as a PASS, If there is no 
+bleep there is a break in continuity and must be recorded as a FAIL.  
+  
+ 
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  10 of 15 
+ 
+Unrestricted   
+ • With the test lead at tached to the first conductor the second test lead shall be attached 
+to each of the remaining conductors in turn. The bleep must not soun d during this test 
+as this determines if a contact has been shorted or cross connected and shall ensure 
+each conductor is isolated from the remaining conductors. If the bleep does sound the 
+item must be reworked.  
+ 
+Table 1, Continuity test results  
+Project:  Part No:  Each pin to all 
+others  Equipment used:  Serial No:  
+Connector  A - Pin Connector B - Pin PASS / FAIL  PASS / FAIL  
+1 1   
+2 2   
+3 3   
+4 4   
+5 5   
+6 6   
+7 7   
+8 8   
+9 9   
+10 10   
+11 11   
+12 12   
+Pin……. to body  Pin…… to body     
+        
+      Table 5, Continuity Test Sign Off  
+Technician Name   Date   
+ 
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  11 of 15 
+ 
+Unrestricted   
+Shunted  / Shorted Connector Continuity Test:  
+          Perform a continuity bleep  test on shorted connectors between required pins  
+          Record  pin numbers and  results in Table 3.  
+          Perform a resistance test on shunted connectors between required .  
+          Record pin numbers and results i n Table 4  
+ 
+Table 3 , Continuity Test Results                           Table 4 , Resistance Test Results  
+(Shorted Connector)                                              (Shunted Connector)  
+ Pins  Pass/Fail    Pins  Reading  Confirm 
+Resistor 
+Yes/No   
+eg: 1kΩ 
+-  -    Ω Ω 
+-  - Ω Ω 
+-  - Ω Ω 
+-  - Ω Ω 
+-  - Ω Ω 
+-  -    Ω Ω 
+        
+      Table 5, Continuity Test Sign Off  
+Technician Name   Date   
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  12 of 15 
+ 
+Unrestricted  11. IR TEST  
+ 
+Equipment Required:  
+DC H.V tester (BM 21/MIT520 Megger or similar).  
+Electrical test board with  up to 12 connections.   
+Suitable Test Connector where applicable  
+Test connector mount fixture where applicable  
+Wiring Diagram  
+All equipment to be inspected for functionality prior to starting testing completed  
+ 
+All equipment is functional and with calibr ation certificates ..........................  
+ 
+Pre test Visual inspection of connectors completed .......... .............................  
+ 
+Test connector and leads to be inspected for damage debris ........................  
+ 
+If the above criterion is passed  testing may begin ............. .............................  
+ 
+ 
+IR TEST PROCEDURE:  
+ 
+             Tailed connector  
+Insulation Resistance Test in accordance with procedure  
+• Test Voltage: 1000 Vdc for 60 seconds  pin to pin and all pins to earth.  
+• Acceptance Cri teria: No breakdown or flashover shall occur and resistance 
+values are to be >100G . 
+ 
+             Open circuit or Shorted connector  
+Insulation Resistance Test in accordance with procedure  
+• Test Voltage: 1500 Vdc for 60 seconds  pin to pin and all pins to earth.  
+• Acceptance Criteria: No breakdown or flashover shall occur and resistance 
+values are to be >100G . 
+ 
+Shorting Resistor Circuit  
+Insulation Resistance Test in accordance with procedure TSC -352-006 
+• Test Voltage: 50 Vdc for 60 seconds pin to pin and all pins to earth. If all 
+contacts are linked then only perform all pins to earth test.  
+• Acceptance Criteria: No breakdown or flashover shall occur and resistance 
+values are to be >1G . 
+ 
+Note:  
+Blank term sleeves to be used on all un -used solder cups.  
+If no inserts are required do not do any electrical testing.  
+ 
+If at any point the connector f ails the test, stop testing and go to section 1 1.  
+ 
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  13 of 15 
+ 
+Unrestricted  Table 6, Insulation Resistance Test Results  
+Pins  Reading   
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+    Ω  
+All Above to 
+Body     Ω  
+Temperature    °C   °F 
+Humidity  % 
+Barometric 
+Pressure  mb 
+ 
+ 
+ Technician Name   Date    
+ 
+Table 7, Insulation Resistance Test Sign Off  
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  14 of 15 
+ 
+Unrestricted  11.1 FAULT INVESTIGATION     
+(only complete if a fault is present)  
+ 
+If Connector fails test:  
+  
+Check all connections are fully connected ........ ................................................  
+ 
+Remove all connections and inspect all contacts for damage or debris .........  
+ 
+While disconnected check all equipment is working and set up correctly ...... 
+ 
+If using a bench test board this must be fully ch ecked for correct  
+Operation ...............................................................................................................  
+ 
+Re-connect all equipment and repeat tests ........................................................  
+ 
+If there is st ill a fail please stop test and contact Technical Dept  
+ 
+12. FINAL INSPECTION  
+Check connector and verify no damage has occurred. .....................................  
+ 
+Ensure protective caps are fitted. ......... ................................................. .............  
+ 
+Check to ensure that tags are fitted in accordance with the relevant  
+drawing or tag schedule. ......................................................................................  
+ 
+Ensure loo se items (if any) are attached with connector. ................................  
+ 
+ 
+FINAL CHECK  
+Make sure this document has been fully completed and all results / information recorded  in 
+the correct section.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Document  No: SRT-002 
+Issue  Date:  25/09/2020  
+Revision:  5 
+Page:  15 of 15 
+ 
+Unrestricted  13. CUSTOMER COMMENTS / FEEDBACK  
+Pleas e complete  the Sign Off section at the bottom of form to confirm each page of this 
+document has been read and complied with in full.  
+Originator Name and Initials (BLOCK CAPITALS)  Date  
+  
+ Contact Details   Contact Details  
+  
+Project Reference  Customer  Region  
+   
+Product Type  Part Number (P/N)  Serial Number (S/N)  
+   
+Please enter details below e.g. comments; complaints; evidence of good practice; incident 
+reports; observations and recommendations, including any associated with health, safety or 
+the env ironment, etc.,  also include any names/contact details of other rele vant personnel.  
+  
+ 
+Sign Off Section  
+Name (BLOCK CAPITALS)  Signature  Date  
+   
+Please e -mail completed form to the Product Safety Officer at the following address: 
+subsea.connectors.productsafety.gb @siemens -energy.com  
+ 
+Lorem ipsum l Veribus  
+dolorpro  
+© 2020 Siemens Energy  Page 25 
+Publshed by
+Oestre Aker vei 88  Oslo, 
+Norway 0596
+E-mail:  subsea@siemens-energy.com 
+For more information, please visit our website: 
+www.siemens-energy.com/subsea
+Subject to changes and errors.  The information given in this document 
+only contains general descriptions and/or performance featu res which 
+may not always specifically reflect those described, or which may 
+undergo modification in the course of future development of the 
+products.  The requested performance features are bin ding only when  
+they are expressly agreed upon in the concluded contract.  
+Siemens Energy is a trademark licensed by Siemens AG

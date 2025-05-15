@@ -1,0 +1,331 @@
+ 
+ 
+General Terms and Conditions of Purchase – Siemens Energy (“Siemens Energy”)  (Version 05.2023) 
+ 
+© Siemens  Energy  2021 
+1. General  
+1.1 Our orders shall be binding if they are placed in writing. Oral and 
+telephone agreements are confirmed by us in writing. The same 
+shall apply for all amendments, supplements, specifications, etc.  
+1.2 Unless otherwise agreed in writing for particular cases the 
+present terms and conditions shall prevail for all our orders 
+placed. Terms and conditions stipulated by supplier  shall be 
+binding upon us if and to the extent we have expressly accepted 
+them in w riting.  
+1.3 Should business transactions with any supplier be carried out 
+mainly via EDI, the conditions to be applied shall previously be 
+agreed upon in writing, specifying both the business partners and 
+the respective business transactions.  
+1.4 Third par ties within the meaning of these terms and conditions 
+are also subsidiaries, holding and group companies.  
+2. Rights of Use, Rights of Development Designs, Open 
+Source Software  
+2.1 Supplier shall grant us the worldwide, perpetual, non-exclusive, 
+transferable right of use for the standard software included in the 
+service. Supplier shall guarantee that it has the relevant rights of 
+use and rights of sale at its own disposal and shall indemnify us 
+from any claims of the third parties i n connection with 
+infringements of those rights.  
+2.2 As far as construction or development results emerge from the 
+performance of the services, in case of a construction or 
+development order, we shall hold property and exclusive use of 
+all construction and  development results deriving there from. 
+Without our express written consent the constructions and 
+developments shall neither be made available to third parties in 
+whole or in part nor used for own or other purposes.  
+2.3 Supplier shall inform us - at the latest at the time the order is 
+confirmed - whether the products and services to be delivered 
+contain open source components.  
+ In the context of this provision “open source components” means 
+any software, hardware or other information that is provided 
+royalty-free by the respective licensor to any user on the basis of 
+a license with the right to modify and/or to distribute (e.g. GNU 
+General Public License (GPL), the GNU Lesser GPL (LGPL), or 
+the MIT License). Should the products and services delivered by 
+supplier contain open source components, supplier shall comply 
+with all applicable open source license terms and shall grant all 
+those rights to us and provide all information which we need in 
+order to comply himself with the applicable license terms. In 
+particular, supplier must deliver to us promptly after the order is 
+confirmed the following:  
+- A schedule of all open source components used, indicating 
+the relevant license, its version and including a copy of the 
+complete text of such license and including a reference to 
+copyright and/or authorship. Such schedule must have an 
+understandable structure and contain a table of contents.  
+- The complete source code of the relevant open source 
+software, including scripts and information regarding its 
+generating en vironment insofar as the applicable open 
+source conditions require this.  
+2.4  Supplier shall by the time of order confirmation at the latest 
+inform us in writing whether any open source licenses used by 
+supplier might be subject to a Copyleft Effect which could affect 
+our products. In the context of this provision, “Copyleft Effect“ 
+means that the provisions of the open source license require that 
+certain of supplier’s products, as well as any products derived 
+from such products, may only be redistributed in accordance with 
+the terms of the open source license, e.g. only if the source code is disclosed. In case any open source licenses used by supplier 
+are subj ect to a “Copyleft Effect” as defined above, then we are  
+entitled to cancel the order within two weeks of receipt of this 
+information.  
+3. Documents and Auxiliary Material  
+3.1 Documents (drawings; manufacturing, testing and delivery 
+instructions; etc.) and other operating or auxiliary material 
+(samples, models, etc.) we made available shall remain our 
+property and shall be marked accordingly.  
+3.2 Without our express written consent the abovementioned 
+documents shall neither be copied nor made available to third 
+parties and be used for no other purpose but completing our 
+order. The documents and auxiliary material shall be returned to 
+us intact any time upon our request, at the latest, however, upon 
+delivery of the goods, or - if expres sly agreed - be stored by 
+supplier  until revoked.  
+3.3 Supplier  shall be liable for any damage to our property and thus 
+obliged to store and treat the documents and auxiliary material 
+appropriately, and to insure them, in agreement with us, against 
+possible  damage.  
+4. Prices and Terms of Payment  
+4.1 The agreed prices are firm prices. Change in prices and 
+respective other reservations shall only be binding if and to the 
+extent they are expressly acknowledged by us in writing.  
+4.2 Each delivery shall be invoic ed immediately upon shipping. A 
+separate invoice shall be made out for each delivery indicating 
+both VAT and our job order code. Invoices lacking this 
+information are rejected. Registered c.o.d. consignments are not 
+accepted.  
+4.3 Our payments are effected irrespective of an examination of the 
+goods upon receipt at their destination. Consequently, our 
+payments or partial payments do not constitute acknowledgment 
+of quantity, price and quality. Thus, we shall still be fully entitled 
+to legal claims even after  payment of the goods.  
+4.4 Unless provided otherwise, our payments shall be settled not 
+later than on the 90th day counting from the date of the invoice.  
+4.5 Assignment of claims against us as well as setting off against 
+counterclaims is not permitted.  
+5. Deliveries and Services of the Supplier  
+5.1 The quantities specified in our orders shall be complied with. We 
+reserve the right to place surplus parts at the disposal of supplier  
+against full compensation of our expenses and in case of 
+reduce d quantity to insist on the performance of the quantity 
+ordered.  
+5.2 Deliveries of supplier s and sub -contractors are object of our 
+quality assurance system pursuant to ISO9001 / EN29001. Our 
+suppliers and sub -contractors are appraised accordingly.  
+5.3 Shou ld supplier deliver products, substances of which are set out 
+in the so -called “List of Declarable Substances” 
+(www.bomcheck.net/suppliers/ Unrestricted -and-declarable -
+substances -list) applicable at the time of the order or which are 
+subject to statutorily  imposed substance restrictions and/or 
+information requirements (e. g. REACH, RoHS), supplier shall 
+declare such substances in the web database BOMcheck 
+(www.BOMcheck.net) no later than the date of first delivery of 
+products.  
+5.4 Should the delivery contain goods which – according to 
+international regulations – are classified as dangerous goods, 
+supplier will inform us hereof in a form agreed upon between 
+supplier and us, but in no case later than the date of order 
+confirmation.  
+ 
+ 
+General Terms and Conditions of Purchase – Siemens Energy (“Siemens Energy”)  (Version 05.2023) 
+ 
+© Siemens  Energy  2021 
+6. Packing and Shipping  
+6.1 Packing shall be adapted to the goods and the mode of 
+transportation. Preference shall be given to environmentally 
+friendly packaging material. Loss and damage of goods 
+attributable to defective packing shall be at supplier 's expe nse. 
+6.2 Each delivery / partial delivery shall contain a delivery note 
+specifying our job order code, article no. and description of 
+goods, net and gross weight and / or exact number of pieces. 
+Partial deliveries shall be indicated as such.  
+6.3 Each docum ent regarding the order shall at least specify our job 
+order code.  
+7. Dates and Periods of Delivery, Default in Delivery  
+7.1 The dates and periods of delivery fixed by us shall be binding 
+(also for partial deliveries). They shall be regarded as observed 
+if the goods arrive at their destination prior to the expiration of the 
+dates and periods fixed.  
+7.2 Failure to observe the agreed dates and periods of delivery (also 
+for partial deliveries) shall entitle us to waive performance of the 
+service without granti ng an additional period of time, and to 
+withdraw from the contract. Legal claims for damages shall be 
+reserved.  
+7.3 For deliveries that effected earlier than agreed, we shall reserve 
+the right to pay the respective invoice at the agreed time of 
+delivery.  
+7.4 If a speedy dispatch (freight, express delivery, etc.) is necessary 
+due to delayed delivery, the additional freight charges shall be 
+borne by supplier . Additional expenses for not required express 
+deliveries shall also be borne by supplier . 
+8. Place of Performance, Passage of Benefit and Risk  
+8.1 The place of performance for the delivery of goods is their 
+destination, and for the payment it is our domicile.  
+8.2 Upon delivery of the goods at their destination benefit and risk 
+are passed to us.  
+9. Examination, Warranty, Liability for Defects  
+9.1 Supplier  shall examine the quantity and quality of the goods 
+before they are shipped.  
+9.2 Supplier  shall be  liable that the services according to the contract 
+have no legal or physical defects and are both in perfect condition 
+and made with high -quality raw materials fit for the intended use.  
+9.3 The obligation of immediate examination and notification 
+accordin g to Art 201 CO shall be waived. By the acceptance of 
+our purchase order supplier  recognizes order notifications of 
+defects without adherence to a notification period as obtained in 
+time.  
+9.4 The right to claims for rescission of sale, reduction in price, 
+improvement or replacement and damages (Art. 205 et seq. and 
+368 CO) is reserved. Furthermore, we reserve the right to retain 
+the payment fully or partly until, (i) if we require replacement, 
+supplier  has fulfilled his duty to deliver a faultless replaceme nt or 
+(ii) the circumstances regarding any rescission of sale, reduction 
+in price and damages have been settled bindingly.  
+9.5 We do not accept reduction of the warranty periods provided by 
+the law. In any case the warranty period shall be not less than 2 
+years starting with receiving respectively acceptance on the 
+occasion of a separately agreed formal acceptance test 
+(whichever occurs later).  
+10.  Product Liability  
+ We will immediately notify supplier  of any defect in the product 
+known to us, if the defect caused or could cause an accident 
+resulting in death, personal injury or material damage, and discuss the steps to be taken together with supplier . Supplier  
+shall support us in the dispute with the i njured and indemnify us 
+against legitimate claims as well as for costs of any recall action 
+attributable to defects in the goods for which supplier  is 
+responsible.  
+11. Liability  
+ Supplier  shall fully indemnify us from any harm or claims in 
+connection with services, as well as from any claims of third 
+parties, regardless of their legal cause, be it warranty, default, 
+product liability, infringement of industrial and intellectual 
+property rights or any other cause.  
+12. Confidentiality  
+ Supplier shall not mak e available to any third party any 
+information obtained from us or the present business 
+relationship. Insofar as we agree to any subcontracting to a third 
+party, such third party shall agree to such terms in writing.  
+13. Disclosure of the Business Relation ship, Data and 
+Information  
+ Supplier  shall agree that all data and information required for the 
+business relationships or resulting from said relationships, 
+especially contractual documents and papers as well as data and 
+information necessary for the perfo rmance of the contract of and 
+about supplier  and their auxiliary persons (Hilfspersonen) may 
+also be stored outside Switzerland. Furthermore, all this data and 
+information may be disclosed to Siemens AG as well as to their 
+associated companies for correspo nding processing, especially 
+for providing services, fulfillment of legal requirements or for 
+Siemens -internal audit and/or supervisory requirements; this 
+always in compliance with respectively applicable data protection 
+laws.  
+14. Code of Conduct for Suppliers  
+ Supplier  is obliged to comply with the laws of the applicable legal 
+system(s). In particular, supplier  will not engage, actively or 
+passively, nor directly or indirectly in any form of bribery, in any 
+violation of basic human rights of employees  or any child labor. 
+Moreover, supplier  will take responsibility for the health and 
+safety of its employees, supplier  will act in accordance with the 
+applicable environmental laws and will use best efforts to 
+promote this Code of Conduct among its supplier s. In addition to 
+other rights and remedies we may have, we may terminate the 
+contract and/or any purchase order issued there under in case of 
+breach of these obligations by supplier . However, provided that 
+supplier’s breach of contract is capable of remed y, our right to 
+terminate is subject to the proviso that such breach has not been 
+remedied by supplier  within a reasonable grace period set by us.  
+15. Cybersecurity  
+15.1 Supplier shall take appropriate organizational and technical 
+measures to ensure the c onfidentiality, authenticity, integrity and 
+availability of Supplier Operations as well as products and 
+services. These measures shall be consistent with good industry 
+practice and shall include an appropriate information security 
+management system consist ent with standards such as ISO/IEC 
+27001 or IEC 62443 (to the extent applicable).  
+15.2 “Supplier Operations” means all assets, processes and systems 
+(including information systems), data (including Customer  data), 
+personnel, and sites, used or processed by supplier from time to 
+time in the performance of this contract.  
+15.3 Should products or services contain software, firmware, or 
+chipsets:  
+15.3.1  Supplier shall implement appropriate standards, processes a nd 
+methods to prevent, identify, evaluate and repair any 
+vulnerabilities, malicious code, and security incidents in products 
+and services which shall be consistent with good industry 
+ 
+ 
+General Terms and Conditions of Purchase – Siemens Energy (“Siemens Energy”)  (Version 05.2023) 
+ 
+© Siemens  Energy  2021 
+practice and standards such as ISO/IEC 27001 or IEC 62443 (to 
+the extent applicable);  
+15.3.2  Supplier shall continue to support and provide services to repair, 
+update, upgrade and maintain products and services including 
+the provision of patches to us remedying vulnerabilities for the 
+reasonable lifetime of the products and services;  
+15.3.3  Supplie r shall provide to us a bill of materials identifying all third -
+party software components contained in the products. Third -
+party software shall be up -to-date at the time of delivery;  
+15.3.4  Supplier shall grant to us the right, but we shall not be obliged,  to 
+test or have tested products for malicious code and vulnerabilities 
+at any time, and shall adequately support us;  
+15.3.5  Supplier shall provide us a contact for all information security 
+related issues (available during business hours).  
+15.4 Supplier s hall promptly report to us all relevant information 
+security incidents occurred or suspected and vulnerabilities 
+discovered in any Supplier Operations, services and products, if 
+and to the extent we are or are likely to be materially affected.  
+15.5 Suppli er shall take appropriate measures to achieve that its 
+subcontractors and suppliers shall, within a reasonable time, be 
+bound by obligations similar to the provisions of this section 15.    
+15.6 Upon our request, supplier shall provide written evidence of its 
+compliance with this section 15 including generally accepted 
+audit reports (e.g. SSAE -16 SOC 2 Type II).  
+16. Export control and Foreign Trade Data Regulations  
+16.1 For all Products to be delivered and Services to be provided 
+according to this Agreement Supplier shall comply with all 
+applicable export control, customs and foreign trade regulations 
+(“Foreign Trade Regulations”) and shall obtain all necessary 
+export lic enses, unless Buyer or any party other than Supplier is 
+required to apply for the export licenses pursuant to the 
+applicable Foreign Trade Regulations.  
+Supplier  represents and warrants that none of its Products nor its 
+Services provided under this Agreemen t contain products and/or 
+services restricted for import under the Foreign Trade 
+Regulations which, in any case, include the Council Regulations 
+(EU) 833/2014, 692/2014, 2022/263 or 765/2006, each as 
+amended, and import restrictions enforced by the U.S. Cu stoms 
+and Border Protection .  
+16.2 Supplier shall advise us in writing within  two weeks following the 
+receipt of the order  - and in case of any change s without undue 
+delay - of any information and data required by us to comply with 
+all Foreign Trade Regulations in case of export and import as 
+well as re -export , including without limitation : 
+- All applicable export list numbers, including the Export 
+Control Classification Numbe r according to the U.S. 
+Commerce Control List (ECCN); and  
+- the statistical commodity code according to the current 
+commodity classification for foreign trade statistics and the 
+HS (Harmonized System) coding; and  
+- the country of origin (non-preferential origin); and upon our 
+request: Supplier’s declaration for preferential origin (in case 
+of European suppliers) or preferential certificates (in case of 
+non-European suppliers).  
+16.3 Supplier shall be liable for any expenses and/or damage i ncurred 
+by Buyer due to any breach of the obligations according to 16.1 
+to 16.3. 
+ 
+17. Reservation Clause   We shall not be obligated to fulfill this agreement if such 
+fulfillment is prevented by any impediments arising out of national 
+or international foreign trade or customs requirements or any 
+embargoes or other sanctions.  
+18. Applicable Law  
+ The present contractual relationship shall be governed by Swiss 
+substantive law. The application of the United Nations 
+Convention on Contracts for the International Sale of Goods of 
+April 11, 1980 ("the Vienna Law on the International Sale of 
+Goods") shall be excluded . 
+19. Jurisdiction  
+ Place of jurisdiction shall be Zurich. We reserve ourselves, 
+however, the right to sue supplier at its seat.   
+ 

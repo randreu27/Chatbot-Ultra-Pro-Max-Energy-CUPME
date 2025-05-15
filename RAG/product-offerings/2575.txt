@@ -1,0 +1,1382 @@
+ 
+Unrestricted  Lorem ipsum l Veribus 
+dolorpro  
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f 
+Installasjons -, drifts - og 
+vedlikeholdshåndbok  
+IOM-008 Rev. 5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f EFL-er, jumperkabler og kabelnett  
+Instruksjoner for beskyttelse, oppbevaring, forsendelse, 
+utpakking, distribusjon og vedlikehold  
+ 
+siemens -energy.com  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  2 av 44 
+ 
+Unrestricted   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DigiTRON f EFL-er, jumperkabler og kabelnett  
+Instruksjoner for beskyttelse, oppbevaring, forsendelse, 
+utpakking, distribusjon og vedlikehold  
+  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  3 av 44 
+ 
+Unrestricted   
+Takk for at du kjøpte et Siemens Energy Subsea -produkt. Informasjonen i dette dokumentet er en 
+oversikt over beskyttelse, lagring, forsendelse, utpakking, distribusjon og vedlikehold av 
+produktserien DigiTRON Connector.  
+VIKTIG  
+LES NØYE FØR BRUK  
+OPPBEVARES FOR FREMTIDIG BRUK  
+ 
+ 
+ 
+Rev. Utarbeidet 
+av Dato  Godkjent 
+av Utgitt dato  Berørte sider/merknader  
+01 M Tucker  09.11.2020  R Wyatt  09.11.2020  Første utgave  
+02 J.Pridmore  23.08.2021  M.Tucker  23.08.2021  Inngraveringsdetaljer oppdatert  
+Konnektorspesifikasjon oppdatert med fysisk 
+kontakttype og antall måter  
+Flere forkortelser lagt til i avsnitt 4  
+Bildene er oppdatert for å vise det nye 
+håndtaket av spadetype  
+Lagringstemperaturområde for 
+sammenkoblings -/frakoblingsverktøy lagt til  
+03 J.Pridmore  31.08.2021  M.Tucker  31.08.2021  Tegning av koblingsboksens grensesnitt 
+endret til 10199114  
+04 R Wyatt  27.06.2022  R Wyatt  27.06.2022  Berørte avsnitt: 2.4   3.3.5   5.1   5.2   6.3   
+6.4.1   6.4.2   6.4.3   7.3.2   7.3.3  
+Siemens Energy omslagssider er lagt til.  
+05 R Wyatt  17.03.2023  JP Smith  17.03.2023  Berørte avsnitt: 2.2, 6.1, 6.2, 6.4, 7.4, 8.2, 9.5 9.7, 
+9.8. Informasjon lagt til eller endret: 
+temperaturgrenser for oppbevaring 50 °C lufttemp. 
+Utendørs lagring av trekasser. Bøyeradiusmål og 
+beskyttelse mot kassekanter. Ko ntroller for 
+testkonnektorer, inkl. mål for bøyde pinner. 
+Inspeksjon for korrosjon, skade på fronttetninger 
+lagt til. Rengjøring med IPA lagt til. 
+Leppetetningsindikatorens synlighet sett fra siden.  
+ 
+ 
+  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  4 av 44 
+ 
+Unrestricted   
+Innhold  
+1 PRODUKTER SOM DEKKES AV DENNE HÅNDBOKEN  ...............................  7 
+2 GRUNNLEGGENDE INFORMASJON OG HURTIGREFERANSE  ..................  8 
+2.1 Produktoversikt  ................................ ................................ ........................  8 
+2.2 Produktspesifikasjon og -sertifisering  ................................ ..................  9 
+2.3 Kontaktinformasjon og tilbakemeldinger  ................................ ............  10 
+2.4 Etikett med produktråd ................................ ................................ ..........  10 
+2.5 Produktmerking  ................................ ................................ .....................  11 
+2.6 Produkteksempler  ................................ ................................ ..................  12 
+3 PRODUKTSIKKERHET  ................................ ................................ ..................  14 
+3.1 Handlingsrelaterte advarsler  ................................ ................................  14 
+3.2 Bruksområde  ................................ ................................ ..........................  14 
+3.3 Generell sikkerhetsinformasjon  ................................ ...........................  15 
+3.4 Relaterte dokumenter  ................................ ................................ ............  17 
+3.5 Kontroll av helsefarlige stoffer (COSHH)  ................................ ............  18 
+4 FORKORTELSER  ................................ ................................ ...........................  19 
+5 SPESIFIKASJONER  ................................ ................................ .......................  20 
+5.1 Konnektorspesifikasjon  ................................ ................................ ........  20 
+5.2 Siemens Energy AquaTRON  trykkbalansert oljefylt 
+slangespesifikasjon  ................................ ................................ .......................  21 
+6 KLARGJØRE PRODUKTET FOR BRUK ELLER LAGRING  ........................  22 
+6.1 Produktbeskyttelse og emballasje  ................................ .......................  22 
+6.2 Utpakking  ................................ ................................ ................................  23 
+6.3 Løfting av kabelnett og OFL -er ................................ .............................  23 
+6.4 Oppbevaring, beskyttelse og endt levetid  ................................ ...........  24 
+7 INSTALLASJON OG MONTERING  ................................ ................................  27 
+7.1 Kontroller før installasjon for OFL -er ................................ ..................  27 
+7.2 Katodisk beskyttelse  ................................ ................................ .............  27 
+7.3 Installasjon av kabelnett med flenskonnektorer og/eller 
+fiberkoblingsenhet  ................................ ................................ .........................  27 
+7.4 TESTING AV OFL-ER ................................ ................................ .............  31 
+8 INFORMASJON TIL BRUKEREN UNDER NORMAL DRIFT OG 
+FEILFORHOLD  ................................ ................................ ................................ ....... 33 
+8.1 Synlige/hørbare signaler  ................................ ................................ ....... 33 
+8.2 Normal og feil/farlig drift  ................................ ................................ ....... 33 
+8.3 Feilsøking  ................................ ................................ ...............................  33 
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  5 av 44 
+ 
+Unrestricted   
+9 BRUK OG VEDLIKEHOLD AV PRODUKTET  ................................ ...............  34 
+9.1 Sikkerhetsregler  ................................ ................................ .....................  34 
+9.2 Produktvedlikehold og service  ................................ .............................  34 
+9.3 Produktbeskyttelse; hetter og blindkonnektorer  ................................  34 
+9.4 Live sammenkobling/frakobling  ................................ ...........................  35 
+9.5 Inspeksjon og rengjøring av konnektorprodukter  ..............................  35 
+9.6 Fjerning av marin vekst og kalkholdige avleiringer  ...........................  35 
+9.7 Kontroller før sammenkobling av produktet  ................................ ....... 37 
+9.8 Sammenkobling og frakobling av ROV -konnektorer  .........................  37 
+9.9 Manuell (for hånd) sammenkobling og fra kobling av konnektorene  39 
+10 KUNDEKOMMENTARER/TILBAKEMELDINGER  ................................ .........  43 
+ 
+Tabeller  
+Table 1  Liste over andre installasjons -, drifts - og vedlikeholdshåndbøker for 
+DigiTRON -produktserien  ................................ ................................ ................................ ..... 7 
+Table 2  Identifisering av DigiTRONf -produktserien  ................................ .................  8 
+Table 3  DigiTRONf produktspesifikasjon og -sertifisering  ................................ ...... 9 
+Table 4  Kontaktinformasjon for DigiTRON -produkter  ................................ ...........  10 
+Table 5  AquaTRON oljefylt slangespesifikasjon  ................................ ....................  21 
+Table 6  Feilsøking av produkt, kontaktinformasjon  ................................ ..............  33 
+ 
+Illustras joner  
+Figure 1  Etikett med produktråd  ................................ ................................ ...............  11 
+Figure 2  Produktmerking på DigiTRON -produkt  ................................ .....................  11 
+Figure 3  Typisk OFL (Optical Flying Lead) ................................ ...............................  12 
+Figure 4  Eksempel på OFL  ................................ ................................ ........................  12 
+Figure 5  Typisk OFL eller kabelnett med flere kabler  ................................ ..............  13 
+Figure 6  Typisk AFT til mottakerkonnektor  (1ut-kabelnett)  ................................ .... 13 
+Figure 7  Eksempler på DigiTRONf oljeslangekonnektorer  ................................ ..... 13 
+Figure 8  AquaTRON slange, størrelse 50 (1/2" innv. diameter) og størrelse 75 (3/4" 
+innv. diameter)  ................................ ................................ ................................ ...................  21 
+Figure 9  Akseptabel emballasje for forsendelse  ................................ .....................  22 
+Figure 10  Uakseptabel emballasje og lagring  ................................ ............................  23 
+Figure 11  Måler for minst e bøyeradius  ................................ ................................ ....... 23 
+Figure 12  Illustrasjon av stroppepunkter for løfting av slangeenheter  ....................  24 
+Figure 13  Installasjon av  kompatibel flensmontert ROV hunnkonnektor  ................  28 
+Figure 14  Tverrsnitt av installasjon og deler av konnektor med kompatibelt feste  28 
+Figure 15  Montering av koblingsboks vannrett (venstre) og loddrett (høyre)  .........  29 
+Figure 16  Festebrakettenhet for koblingsboks  ................................ ..........................  30 
+Figure 17  FMU riktig installert på strukturen  ................................ .............................  30 
+Figure 18  Testkabelnett  ................................ ................................ ...............................  32 
+Figure 19  Transporthetter (venstre) og beskyttelseshetter (høyre)  .........................  34 
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  6 av 44 
+ 
+Unrestricted   
+Figure 20  Typiske subsea -beskyttelseshetter  ................................ ...........................  35 
+Figure 21  Tillatt v annspyling  ................................ ................................ .......................  36 
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  7 av 44 
+ 
+Unrestricted   
+1 PRODUKTER SOM DEKKES AV DENNE HÅNDBOKEN  
+Denne håndboken inneholder informasjon om DigiTRON f-produktserien med optiske flying leads 
+(OFL), jumperka bler og kabelnett, inkludert konnektorer som er en del av disse, samt deres optiske 
+og mekaniske spesifikasjoner.  
+Denne håndboken inneholder også detaljer om installasjon av DigiTRON -produktserien med 
+konnektorer som er montert som en del av en oljefylt sl ange - eller kabelenhet.  
+ 
+Installasjons -, drifts - og vedlikeholdsmanualer for andre DigiTRON -produkter som ikke omfattes av 
+dette dokumentet, finnes på Siemens Energy Subseas nettsider www.siemens -energy.com   /søk 
+etter Subsea, som beskrevet i Table 1 . 
+Hvis en kobling fra andre leverandører enn Siemens -kontakt er montert som en del av OFL eller 
+kabelnettet, må den aktuelle produsenten kontaktes for å få IOM -håndboken.  
+DOK. Nr.  PRODUKT  
+IOM-002 DigiTRON enkle konnektorer  
+IOM-003 Foreldet, erstattet av IOM -002. 
+IOM-004 Ikke i bruk  
+IOM-005 Gjenvinnbar elektrisk distribusjonsenhet (REDU), 2. generasjon  
+IOM-006 Gjenvinnbar elektrisk distribusjonsenhet (REDU), 1. generasjon  
+IOM-007 Frakoblingsbare koblingsbokser av type TC3A -107 og lignende elektriske 
+distribusjonsenheter (EDU -enheter).  
+IOM-009 DigiTRONf enkle konnektorer  
+00003075  Subsea PT/TT -sensorer  
+00007464  Differensialtrykksensorer SDP -6 / SDP -8 
+Table 1  Liste over andre installasjons -, drifts - og vedlikeholdshåndbøker for DigiTRON -
+produktserien  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  8 av 44 
+ 
+Unrestricted   
+2 GRUNNLEGGENDE INFORMASJON OG HURTIGREFERANSE  
+2.1 Produktoversikt  
+DigiTRON f konnektorer, optical flying leads (OFL -er), jumperkabler og kabelnett er ment å sørge for 
+kommunikasjon og op tiske datakoblinger mellom deler av optisk utstyr som er nedsenket i vann, 
+f.eks. subsea.  
+DigiTRON f-serien med konnektorer er utviklet for langsiktig og pålitelig optisk kommunikasjon i 
+subsea -applikasjoner. Konnektorenes sammenkoblingskapasitet under vann oppnås ved bruk av 
+trykkkompenserte optiske innsatser som bruker CE -prinsippet «kontrollert miljø».  
+En OFL er helt uavhengig av annet utstyr, og er utstyrt med ROV - eller dykkerinstallerbare 
+konnektorer i hver ende. Alle OFL-er er oljefylte, trykkkompenserte slangeenheter, og leveres som 
+komplette, ferdige produkter fra fabrikken.  
+Alle OFL -er skal kunne gjenvinnes, og når de installeres, skal de ikke krysse hverandre.  
+Noen illustrasjoner er vist i avsnitt 2.6 for å hjelpe til med å identifisere en OFL og jumperkabel 
+(kabelnett).  
+Table 2  nedenfor identifiserer hver produkttype i DigiTRONf -produktserien.  
+Produkten e ser svært like ut, så det er viktig å merke seg identifikatoren for hver produkttype.  
+ 
+Produktutvalg  Beskrivelse  Typisk delenummer (inngravert på 
+konnektoren)  
+DigiTRON f 12-veis fiberoptisk 
+konnektor for 
+våtsammenkobling  DFRV -….….  
+DFST -.…….  
+DFDV - ........  
+Table 2  Identifisering av DigiTRONf -produktserien   
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  9 av 44 
+ 
+Unrestricted   
+2.2  Produktspesifikasjon og -sertifisering  
+Table 3  nedenfor inneholder grunnleggende spesifikasjoner for alle produkter som dekkes av denne 
+håndboken. Ytterligere spesifikasjoner finnes i avsnitt 5. 
+Forventet levetid:  30 år i subsea -miljø  
+Optisk ytelse  
+1550 nm og 1625 nm  Innsettin gstap  -  typisk ≤0,2  dB   [maks 0,5  dB, 75  % ≤0,4  dB] 
+Returtap     -  typisk ≥70  dB    [min 45  dB, 75  % ≥55  dB] 
+Krysstale          ≤ -60 dB 
+Nominelt antall 
+operasjoner  1000 (750 tørr/250 våt) sammenkoblings -/frakoblingssykluser  
+Vanndybde  4000 m (13 123 fot)  
+Lagringstemperatur  -40 °C +70 °C ( -40 °F +158 °F) (øvre grense er overflatetemperaturen til 
+produktet og inkluderer solvarme fra sterkt sollys)  
+Anbefalt maksimal omgivelsestemperatur +50 °C (122 °F).  
+Driftstemp.  Subsea: -5 °C  +50  °C (+23  °F  +122  °F) 
+I luft: -20 °C  +50  °C (-4 °F  +122  °F) 
+  
+Produktsertifisering:  
+Standard  Beskrivelse  
+API-17F  Standard for kontrollsystemer for subseaproduksjon  
+Merk: Egensertifisert via intern testing.  
+Table 3  DigiTRONf produktspesifikasjon og -sertifisering  
+  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  10 av 44 
+ 
+Unrestricted   
+2.3 Kontaktinformasjon og tilbakemeldinger  
+For ytterligere informasjon eller spørsmål om produktene, besøk nettstedet for Siemens Energy på 
+https://www.siemens -energy.com  /søk etter Subsea, eller kontakt følgende  
+Avdeling  E-postadresse  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Teknisk støtte  conne ctortechnicalsupport.gb@siemens -energy.com  
+Service (anleggsteam)  susultlcmsupport.gb@siemens -energy.com  
+Salg connectorsales.gb@siemens -energy.com  
+Table 4  Kontaktinformasjon for DigiTRON -produkter  
+Eventuelle tilleggsopplysninger, registre eller tilbakemeldinger angående helse o g sikkerhet som 
+krever ytterligere beskrivelse, kan angis i avsnitt 10 i dette dokumentet og sendes til den relevante 
+avdelingen i Table 4 . 
+ 
+2.4 Etikett med produktråd  
+Følgende etikett med produktråd leveres med alle Siemens Energy Subsea -produkter.  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  11 av 44 
+ 
+Unrestricted   
+ 
+Figure 1  Etikett med produktråd  
+2.5 Produktmerking  
+Siemens Energy Subsea DigiTRON -produkter er merket med Siemens Energys delenummer og et 
+unikt serienummer. Spenning, temperatur og vanndybde er også angitt. Merkingen er vanligvis 
+plassert på metalldelene på konnektorene. Se Figure 2 . 
+ 
+Figure 2  Produktmerking på DigiTRON -produkt  
+Kabelnett er også merket med Siemens Energy Subseas unike serienummer.  
+Etiketter har vanligvis svart tekst på gul bakgrunn under et klart beskyttende omslag, og er vanligvis 
+plassert i hver ende og på midten av kabel nettet. Kundens egen informasjon legges ofte til disse 
+etikettene.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  12 av 44 
+ 
+Unrestricted   
+2.6 Produkteksempler  
+En OFL som vist i Figure 3  og Figure 4  har alltid minst én skjøteenhet, som kan være plassert i ulike 
+posisjoner langs slangen. Det trengs to skjøteenheter for lengder over 45 m (150 fot).  
+ 
+Figure 3  Typisk OFL (Optical Flying Lead)  
+  
+Figure 4  Eksempel på OFL  
+Kabelnett med flere kabler er vist i Figure 5 . Det kan være opptil fire kabler på hver side av Fiber 
+Marshalling -enheten (FMU). Hver slange kan utstyres med en flying  plug eller en flensmontert 
+kobling.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  13 av 44 
+ 
+Unrestricted   
+ 
+Figure 5  Typisk OFL eller kabelnett med flere kabler  
+For å avslutte fiberoptiske kabler som er lagt opp i en umbilical -kabel (f.eks. stål - eller kobberrør som 
+inneholder de optiske fibrene) brukes en Advanced Fiber Termination  Unit (AFT). Dette krysses over 
+fra umbilical -kabelen til det oljefylte slangesystemet. AFT -enheten kan ha opptil 4 slangeutganger. 
+Eksempel på enkel utgang er vist i Figure 6  
+ 
+Figure 6  Typisk AFT til mottakerkonnektor (1ut -kabelnett)  
+ 
+Figure 7  Eksempler på DigiTRONf oljeslangekonnektorer  
+ 
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  14 av 44 
+ 
+Unrestricted   
+3 PRODUKTSIKKERHET  
+Siemens Energy Subsea anbefaler at terminering av alt utstyr kun utføres av opplært, tilstrekkelig 
+kvalifisert og erfarent personell (SQEP), dvs. en kvalifisert person.  
+Hvis du har tilbakemeldinger etter installasjon, idriftsetting eller distribusjon av p roduktet, fyller du ut 
+og returner kundekommentar -/tilbakemeldingsskjemaet (avsnitt 10). Send det utfylte skjemaet på e -
+post til Product Safety Officer på subsea.connectors.productsafety.gb@siemens -energy.com  
+3.1 Handlingsrelaterte advarsler  
+Klassifisering av handlingsrelaterte advarsler  
+De handlingsrelaterte advarslene er klassifisert i henhold til alvorlighetsgraden til den mu lige faren 
+ved hjelp av følgende varselskilt og signalord:  
+Advarselssymboler og signalord  
+ Fare!  
+Overhengende livsfare for liv eller alvorlig personskade  
+ Advarsel!  
+Risiko for mindre personskade  
+ Forsiktig!  
+Risiko for materielle skader eller miljøskader  
+3.2 Bruksområde  
+Produktet er ment som et lavfiberoptisk tilkoblingssystem for bruk under vann  
+Feil bruk eller bruk utenfor det tiltenkte bruksområdet medfører fare for personskade eller dødsfall 
+for brukeren eller andre, eller for skade på produkt et og annen eiendom.  
+Tiltenkt bruk omfatter følgende:  
+- Følg instruksjonene for installasjon og bruk som følger med produktet og andre 
+systemkomponenter.  
+- samsvar med alle inspeksjons - og vedlikeholdsforhold som er oppført i instruksjonene.  
+- bruk av alt anbefalt verktøy som er egnet for spesifikke oppgaver.  
+- alle aktiviteter skal utføres av en kompetent person (se definisjon i 3.3.1 ).  
+All annen bruk som ikke er spesifisert i dette dokumentet eller beskrevet i installasjons - og 
+driftsinstruksjonene, eller utover det som er spesifisert i dette dokumentet, skal anses som fe il bruk.  
+ Fare!  Risiko for umiddelbar livsfare eller alvorlig personskade.  
+Plutselig utslipp av lagret trykk.  
+DigiTRON -produktene er ikke ment for bruk som penetrering for faste trykkbeholdere 
+på overflaten eller på land. De er ikke utformet for å samsva re med kravene i direktivet 
+for trykkpåkjent utstyr (2014/68/EU). De er kun ment for integrering i undersjøisk utstyr.  
+All trykktesting av DigiTRON -produktet skal utføres av en kompetent person.  
+ Forsiktig!  Risiko for materielle skader eller miljøskader.  Alle former for feil bruk er forbudt.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  15 av 44 
+ 
+Unrestricted   
+3.3 Generell sikkerhetsinformasjon  
+ Installasjon skal kun utføres av kompetente personer  
+Installasjon, inspeksjon, vedlikehold og reparasjon av produktet skal utføres av opplært, kvalifisert 
+og erfarent personell (SQEP), dvs. person som er kompetent til å utføre en spesifisert aktivitet. 
+Installasjon, inspeksjon, vedlikehold og reparasjon av produkter som utføres av personer uten 
+opplæring og kompetanse kan føre til at produktgarantien blir ugyldig.  
+For y tterligere informasjon, kontakt Siemens Energy Lifecycle Management (Site Team) 
+susultlcmsupport.gb@siemens -energy.com   
+ Personlig verneutstyr (PVU)  
+Personlig  verneutstyr (PVU) er juridisk definert som «alt utstyr (inkludert klær som gir beskyttelse 
+mot været) som er ment å brukes eller holdes av en person på jobben og som beskytter brukeren 
+mot én eller flere risikoer for helse eller sikkerhet».  
+I hierarkiet f or risikokontroll anses PVU å være lavest rangert, og representerer alternativet for siste 
+utvei. PVU er bare egnet der den aktuelle faren ikke kan fjernes eller kontrolleres fullstendig på en 
+slik måte at skade er usannsynlig (for eksempel ved å isolere f aren eller redusere risikoen ved kilden 
+til et akseptabelt nivå).  
+Alle ansatte og operatører i selskapet skal bruke egnet personlig verneutstyr (PVU) som er definert 
+etter relevante risikovurderinger i samsvar med bestemmelsene for personlig verneutstyr (P VU). 
+Bruk egnet PVU i henhold til rådene for produktsikkerhet i dette dokumentet  
+ Fare som følge av feil bruk og forutsigbar misbruk  
+Feil bruk og forutsigbart misbruk kan utgjøre en fare for deg og andre, og kan forårsake materielle 
+skader. Les nøye gjennom  de vedlagte instruksjonene og alle andre gjeldende dokumenter, spesielt 
+avsnittet «Sikkerhet» og advarslene.  
+ Fare! Risiko for overhengende fare for liv, risiko for alvorlig personskade forårsaket av at 
+en spennstift skytes ut på grunn av at spennstiften  er skadet f.eks. med en skrutrekker 
+(forutsigbart misbruk).  
+- Vedlikehold og testing skal kun utføres av en kvalifisert person.  
+- Riktig verktøy må alltid brukes.  
+ 
+  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  16 av 44 
+ 
+Unrestricted   
+ Risiko for personskade og materielle skader som følge av testing, 
+vedlikehold og reparasjoner som er feil utført eller ikke utført  
+De oljefylte slangene og konnektorene kan ikke repareres av brukeren. Ved mistanke om feil på 
+produktet (se avsnitt 8.2), må produktet ikke brukes, og Siemens Energy Technical Suppor t eller 
+Siemens Energy Product Safety må kontaktes for råd. Forsøk aldri å utføre vedlikeholdsarbeid eller 
+reparasjoner på produktet selv.  
+ Fare! Risiko for overhengende livsfare, risiko for alvorlig personskade forårsaket av 
+trykkutslipp og/eller prosjektil på grunn av feilmontert trykkholdeprodukt (f.eks. 
+skottkonnektor eller penetrator) under systemtrykktesten, eller når produktets nominelle 
+differansetrykk overskrides  
+- Sørg for at alle aktiviteter knyttet til montering og testing av produktet utføres av 
+kompetente personer.  
+- Ikke overskrid den maksimale differansetrykkgrensen for det installerte produktet.  
+- Individuelle produkter har ulike differan setrykklassifiseringer. Se det spesifikke 
+produktdatabladet eller kontakt Siemens Energy Technical Support   
+ Fare! Risiko for alvorlig øyeskade på grunn av at olje spruter ut av en skadet slange eller 
+ved fjerning av fylle -/ventilasjonsskrue.  
+- Sørg for a t all testing av produkter både på fabrikken og i felten utføres av kompetente 
+personer.  
+ Advarsel! Risiko for øye -/kroppsskade forårsaket av frigjort trykk under demontering av 
+produktet, i tilfelle gjenvinning fra havbunn med en feil som fører til at dybdetrykket fanges 
+inne i produktet.  
+- Sørg for at all demontering av produktet utføres av kompetente p ersoner i samsvar 
+med relevante prosedyrer og med bruk av relevant personlig verneutstyr (PVU).  
+ Advarsel! Risiko for personskade som følge av at trykkbærende deler skytes ut på grunn 
+av for høyt trykk i systemet, f.eks. under installasjonstest på stedet  (SIT).  
+- Sikre at alle SIT -aktiviteter med produktet fullføres av kompetente personer i samsvar 
+med relevante prosedyrer.   
+ Risiko for personskade og materielle skader som følge av manuell 
+håndtering  
+Manuell håndtering, løfting og bæring er blant de vanlig ste årsakene til yrkesskader. Bruk mekaniske 
+håndteringshjelpemidler der det er mulig, for å unngå manuell håndtering. Der manuell håndtering 
+vurderes egnet for oppgaven, må retningslinjene for håndtering/løfting følges, f.eks. bruk riktig 
+arbeidsstilling,  vurdere teamløfting, bruk sikker løfteteknikk osv. Kun kompetente personer har 
+tillatelse til å utføre oppgaver uten tilsyn. Spør hvis du er i tvil.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  17 av 44 
+ 
+Unrestricted   
+ Advarsel! Risiko for muskel -/skjelettskade fra koblinger ved manuell sammenkobling eller 
+frakobling.  
+- Sørg for at det tas egnede forholdsregler for manuell håndtering med tanke på 
+sammenkoblings -/frakoblingskreftene som er spesifisert her. Det anbefales å bruke 
+sammenkoblings -/frakoblingsverktøy som er konstruert for dette formålet (se avsnitt 
+9.9). 
+- Sikre at alle SIT -testaktiviteter med produktet fullføres av kompetente personer i 
+samsvar med relevante prosedyrer.  
+ Advarsel! Risiko for muskel -/skjelettskade ved manuell håndtering av tunge produkter. Se 
+produktets vekt i fraktinformasjonen eller produktdatabladet.  
+- Bruk mekaniske håndteringshjelpemidler der det er mulig, for å unngå manuell 
+håndtering.  
+- Der manuell håndtering vurderes egnet for oppgaven, må retningslinjene for 
+håndtering/løfting følges, f.eks. bruk riktig arbeidsstilling, vurdere teamløfting, bruk 
+sikker løfteteknikk osv.  
+- Kun kompetente personer har tillatelse til å utføre oppgaver uten tilsyn. Spør hvis du 
+er i tvil.  
+ Advarsel! Risiko for personskade som følge av at et tungt produkt faller under løft med 
+maskineri.  
+- Lokale forskrifter for mekanisk assistert løfteoperasjoner og løfteutstyr må følges, f.eks. 
+"LOLER" i Storbritannia.  
+ Advarsel! Risiko for mindre personskade for personer med overfølsomhet overfor silikon - 
+eller mineralbaserte oljer.  
+- – Det er en liten risiko for at olje kan lekke fra produktet hvis det er defekt. Bruk egnet 
+håndbeskyttelse ved håndtering av produkter eller mineral - eller syntetiske oljer i tilfelle 
+olje lekker fra koblingen på grunn av en feil.  
+ Advarsel! Risiko for mindre personskader og materielle skader på grunn av at man glir, 
+snubler og/eller faller.  
+- –God orden forhindrer skli -, snuble - og fallskader. Hold området rent og ryddig.  
+3.4 Relaterte dokumenter  
+Montørene skal gjennomføre en fullstendig risikovurdering av anlegget og iverksette alle nødvendige 
+tiltak og prosedyrer for å overholde gjeldende helse - og sikkerhetslovgivning for området, re gionalt, 
+nasjonalt eller internasjonalt, f.eks. Health and Safety at Work Act (HASAWA) i Storbritannia og 
+ivareta sin egen og andres sikkerhet når det gjelder krav til manuell håndtering og arbeid i høyden.  
+Vær forsiktig under installasjon av produktet (og  eventuelt påfølgende arbeid). Alle installatører og 
+operatører som er involvert fra lossing av produktet til det er plassert på det endelige 
+installasjonsstedet, må ta fullt ansvar for seg selv og andre med tanke på sikkerhet. Ved løfting og 
+håndtering av  dette produktet skal operatørene bruke hjelp om nødvendig. I visse situasjoner kan 
+det være nødvendig å bruke mekaniske håndteringshjelpemidler. Unngå snublefare, glatte eller våte 
+overflater.  
+Arbeidsgivere og installatører i Storbritannia finner fullsten dige råd og veiledninger om 
+vurderingsskjemaer for manuell håndtering (MAC) på nettstedet Health and Safety Executive (HSE).  
+I tillegg skal det, der det ikke er gitt noen spesifikke instruksjoner, henvises til, men ikke begrenses 
+til, der det er aktuelt, britiske standarder og regler for god praksis, for eksempel følgende:  
+- Health and Safety at Work Act.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  18 av 44 
+ 
+Unrestricted   
+- COSHH Kontroll av helsefarlige stoffer  
+Det er operatørens og installatørenes ansvar å overholde gjeldende helse og sikkerhetslover og -
+forskrifter  for selskaper, områder samt regionale, nasjonale eller internasjonale lover og forskrifter.  
+3.5 Kontroll av helsefarlige stoffer (COSHH)  
+Farlige stoffer, Kontroll av helsefarlige stoffer (COSHH) Vurdering av materialer som elastomerer og 
+oljer osv. i DigiTRO N-produkter er tilgjengelig på forespørsel fra Product Safety Officer på 
+subsea.connectors.productsafety.gb@siemens -energy.com  
+ 
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  19 av 44 
+ 
+Unrestricted   
+4 FORKORTELSER  
+AFT Advanced Fibre Termination Unit (avansert fibertermineringsenhet)  
+APC Angled Physical Contact (vinklet fysisk kontakt)  
+Enh. Enhet  
+API American Petroleum Institute  
+°C Grader celsius  
+°F  Grader fahrenheit  
+CE Det europeiske fellesskap  
+COSHH  Kontroll av he lsefarlige stoffer  
+CP Katodisk beskyttelse  
+DWG  Tegning  
+FAT Factory Acceptance Test (fabrikkakseptansetest)  
+FMU  Fibre Management Unit (fiberhåndteringsenhet)  
+FO Fiberoptisk  
+HASAWA  Health and Safety at Work Act (britisk yrkeshelselov)   
+HMS -ansvarlig  Ansvarlig for helse, miljø og sikkerhet  
+IL Insertion Loss (innsettingstap)  
+LBF Pund -kraft 
+Tom.  Tommer  
+ISO International Organization for Standardization  
+ITP Inspeksjonstestplan  
+LB Pund  
+LTC Long Term Cover/Cap (langtidsdeksel/ -hette)  
+m meter  
+Maks.  Maksimum  
+Min. Minimum  
+Nr. Nummer  
+OFL Optisk Flying Lead -kabel  
+PVU Personlig verneutstyr  
+RL Return Loss (returtap)  
+ROV  Remotely Operated Vehicle (fjernstyrt undervannsfarkost)  
+SI Standard International  
+SIT Site Installa tion Test (installasjonstest på stedet)  
+SQEP  Suitably Qualified Experienced Persons (personer med egnede kvalifikasjoner og erfaring)  
+SRT Site Received Test (mottakstest på stedet)  
+SST Rustfritt stål  
+TBD To Be Defined (skal defineres)  
+UNS  Enhetlig nummerer ingssystem for metaller og legeringer  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  20 av 44 
+ 
+Unrestricted   
+5 SPESIFIKASJONER  
+Følgende er en grunnleggende spesifikasjon for DigiTRON -produkter. Faktisk produkt kan variere. 
+Se produktspesifikke dataark på nettstedet  https://www.siemens -energy.com  /søk etter Subsea, 
+eller kontakt Siemens Energy Technical Support connectortechnicalsupport.gb@siemens -
+energy.com  for mer detaljert informasjon.  
+Generelle spesifikasjoner for produktet er angitt i avsnitt 2.2. Ytterligere spesifikasjoner er som 
+følger.  
+5.1 Konnektorspesifikasjon  
+ ROV -styrt 
+Feilinnretting(føyelig montert 
+hunnkonnektor):   
+Rotasjon (0°)  ±12º 
+Radial  ±20 mm (0,787")  
+Vinkel  ±5º 
+  
+Feilinnretting (skottmontert 
+hunnkonnektor):   
+Rotasjon (0°)  ±9° 
+Radial  ±8 mm (0,315")  
+Vinkel  ±6º 
+  
+Koblingskraft  <800N (179 lb)  
+Frakoblingskraft  <800N (179 lb)  
+Overbelastningsmotstand:   
+Aksial belastning  <5000  N (1124 lb)  
+Bøyebelastning  <1250  N (281 lb)  
+Maksimal koblingshastighet 
+Maksimal frakoblingshastighet  0,5 m/s (1,6 fot/s)  
+1 m/s (3,3 fot/s)  
+Utplasseringshastighet  350 m/min (1149 ft/min)  
+Fysisk kontakttype  APC 
+Maksimalt antall linjer  12 
+ 
+  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  21 av 44 
+ 
+Unrestricted   
+5.2 Siemens Energy AquaTRON  trykkbalansert oljefylt slangespesifikasjon  
+ 
+Figure 8  AquaTRON slange, størrelse 50 (1/2" innv. diameter) og størrelse 75 (3/4" innv. diameter)  
+Slangetype  AquaTRON 50  
+Diameter  Ø50 mm UD, ½” innv. 
+diameter  
+Min. bøyeradius (statisk og 
+dynamisk)  ±125 mm (4,9")  
+Maksimal aksial belastning  <5000  N (1121 lb)  
+Maksimal vridning  180° per 5 m (16,4 fot) lengde  
+Masse (luft)  0,66 kg/m (0,44 lb/ft)  
+Vekt (vann)  0,14 kg/m (0,09 lb/ft)  
+Maks. vanndybde  4000 m (13 123 fot)  
+Oljepåfyllingstrykk  15 bar (218 psi)  
+Fyllingsmiddel  Dow Corning 200 silikonolje  
+Utplasseringshastighet  350 m/min (1149 ft/min)  
+Table 5  AquaTRON oljefylt slangespesifikasjon  
+ 
+  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  22 av 44 
+ 
+Unrestricted   
+6 KLARGJØRE PRODUKTET FOR BRUK ELLER LAGRING  
+6.1 Produktbeskyttelse og emballasje  
+Siemens Energy Subsea optiske konnektorer er først og fremst produsert av Super Duplex rustfritt 
+stål, og er dermed designet for å tåle krevende saltdannende miljøer. De eksponerte delene av 
+kontakten er imidlertid utsatt for mekaniske skader hvis de ikke beskyttes. Transporthetter ell er 
+acetal -beskyttelseshetter må monteres på alle Siemens Energy Subsea -konnektorer før transport.  
+ Forsiktig!  Risiko for skade på eiendom. Transporthetter eller beskyttelseshetter må alltid 
+monteres på en utilkoblet kobling under transport, og skal være p å plass på overflaten før 
+utplassering  
+ 
+Produktene kan lagres i originalemballasjen eller eskene på ubestemt tid.  
+Emballasjekasser i tre som leveres med Siemens Energy -produkter er ikke værbestandige.  
+Som en veiledning bør utendørs lagring begrenses til 3 måneder med beskyttelse mot direkte sollys 
+og regnvær. Faktisk varighet vil avhenge av miljøforholdene, f.eks. ved tempererte tørre forhold kan 
+mer enn 3 måneder være akseptabelt, under tøffere værforhold eller offshore kan varigheten være 
+mindre enn 3 måneder. Det anbefales å inspisere kassene regelmessig under lagring utendørs for 
+å vurdere om de er egnet til å beskytte produktene mot det ytre miljøet og til å tåle håndtering.  
+ 
+Vær svært forsiktig ved montering av ekstra skruer, spiker ell er stifter på kassen, slik at de ikke 
+stikker ut på innsiden av kassene. Dette kan lett skade slangene på innsiden.  
+Konnektorer kan leveres enkeltvis eller i pakninger med flere. Pass på å beskytte kontakten(e) med 
+"Instapack", bobleplast eller lignende in npakningsmateriale for å unngå overflateskade under 
+transport. Hvis et stort antall sendes i én forsendelse, vil en forsterket transportkasse være 
+nødvendig for å tåle vekten. Se Figure 9  og Figure 10 . 
+ 
+Figure 9  Akseptabel emballasje for forsendelse  
+  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  23 av 44 
+ 
+Unrestricted   
+Figure 10  Uakseptabel emballasje og lagring  
+Koblinger av skottype med eksponerte optiske fibre skal pakkes og sendes i en boks av egnet 
+størrelse for å gi tilstrekkelig plass og beskyttelse av fibrene uten bøying eller knekk.  
+Konnektorene er konstruert for å motstå vibrasjoner under transport og for å motstå fall fra en høyde 
+på 1 m (3,3 fot) i emballasjen.  
+Hvis konnektorene er montert på slanger, må de kveiles opp og festes med tape for å hindre at de 
+vikles ut under transport.  Overhold slangens minste bøyeradius (se avsnitt 5.2) En måler for minste 
+bøyeradius kan brukes ved ompakking av enheter i en kasse, Figure 11 , 3D-modell tilgjengelig fra 
+Siemens Energy, som kan brukes til 3D -utskrift av måleren.  
+  
+Figure 11  Måler for minste bøyeradius  
+ 
+6.2 Utpakking  
+Fjern emballasjen og kontroller om det finnes overflateskader eller gjenstander som kan ha løsnet 
+fra koblingen, for eksempel "O" -tetninger. Ikke bruk kniv til å skjære i emballasjen, da dette kan føre 
+til skade på eventuelle elastomerdeler på konnektorene . Ikke fjern beskyttelseshettene før 
+konnektorene er klare for installasjon.  
+Ved fjerning av slangeenhetene fra emballasjekassene, må slangene ikke trekkes over kantene på 
+emballasjekassen. Dekk om nødvendig kanten av kassen med et ikke-slipende materiale for å 
+beskytte slangen, og pass på at slangens minste bøyeradius overholdes.  
+6.3 Løfting av kabelnett og OFL -er 
+Unngå å løfte slangeenhetene (OFL -er, kabelnett) etter konnektoren. Anbefalt praksis for å 
+manøvrere enheter inn eller ut av  fraktkasser og distribusjonskurver er å løfte hele enheten likt.  
+Det anbefales å kveile den pent inn i en sirkel eller et åttetall (overhold slangens bøyeradius, avsnitt 
+5.2) 
+Deretter skal det brukes stropper på minst 3 steder med lik avstand rundt sirkelen (eller flere hvis 
+slangen er kveilet i stor diameter) for å hindre at slangen knekker, samt i krysningspunktet hvis 
+åttetallskveil brukes. Pass på at stroppene pl asseres under den nedre spolen, og fang alle spolene 
+opp til den øverste spolen ( Figure 12 ). 
+Hvis tungt utstyr er terminert til slangen (f.eks. sensor eller annet i nstrument, eller store 
+koblingsbokser) som veier >5 kg, må det brukes ekstra sikring og/eller stropping.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  24 av 44 
+ 
+Unrestricted   
+ 
+Figure 12  Illustrasjon av stroppepunkter for løfting av slangeenheter  
+6.4 Oppbevaring, beskyttelse og endt levetid  
+Konnektorene er følsomme for miljøer der grus el ler smuss forekommer. Alle konnektorer leveres 
+med en transporthette. Det anbefales å la hettene sitte på når det er mulig. Hettene må fjernes før 
+utplassering under vann.  
+Konnektoren kan være utstyrt med en beskyttelseshette i svart plast ( Figure 19 ), som kan kjøpes 
+separat (etter kundens ønske). Disse hettene gir en høyere grad av mekanisk beskyttelse av 
+koblingen enn transporthettene.  
+Se avsnitt 9.3 for detaljer om hvilke typer hetter og blindk onnektorer som er tilgjengelige for 
+beskyttelse under lagring.  
+ 
+Konnektorene og slange -/kabelenhetene må oppbevares på et rent, tørt sted og beskyttes med 
+bobleplast eller lignende.  
+Det anbefales å oppbevare produktene i originalemballasjen (f.eks. kasser eller kasser av tre, og å 
+notere utendørs lagring av kasser per seksjon 6.1Error! Reference source not found. ). 
+For å unngå forurensning av produkter i rustfritt stål må det ikke være karbonstål til stede ved lagring 
+av produktene.  
+Hvis produktet er blitt gjenvunnet etter undersjøisk bruk, må det rengjøres før oppbevaring. Rengjør 
+bare med ferskvann eller 50 % sitronsyreløsning. Hvis det ikke utføres 50 % sitronsyrevask, skal det 
+som et minimum vaskes med rent vann for å f jerne eventuelt saltvann på produktene.  
+ Korttidslagring  
+Lagring der temperatur og fuktighet ikke er kontrollert, skal begrenses til 4 uker  
+Lagringstemperatur: -40 °C til +50 °C lufttemperatur ( -40 til 122 °F). Luftfuktighet under 75 % ved 
+lagring. Maksimal overflatetemperatur på produktet må ikke overstige 70 °C (158 °F), inkludert 
+solvarme som følge av eksponering for sollys.  
+ 
+ Forsiktig!  Risiko for skade på eiendom. Hvis lagringen utføres i saltvannsforhold, f.eks. 
+på et skipsdekk eller i lasterom, skal det brukes en subsea -miljøhette eller 
+blindpluggkonnektor for å beskytte hunnkonnektorpinnene mot korrosjon.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  25 av 44 
+ 
+Unrestricted   
+ Langtidslagrin g av konnektorer  
+Disse anbefalingene gjelder for produkter både før og etter montering på annet utstyr (f.eks. XT, 
+manifolder, SCM).  
+Omgivelsestemperaturen skal være mellom -40 °C og +50 °C ( -40 til 122 °F). Luftfuktighet under 75 
+% ved lagring. Svært fukt ige eller svært tørre forhold bør unngås. Utstyret  må beskyttes mot sterkt 
+sollys og sterkt kunstig lys med høyt ultrafiolett innhold.  
+Maksimal overflatetemperatur på produktet må ikke overstige 70 °C (158 °F), inkludert solvarme 
+som følge av eksponering f or sollys.  
+Etter 5 års lagring anbefales det å utføre en visuell undersøkelse og optiske tester for å bekrefte at 
+produktet fortsatt er egnet for formålet og innenfor spesifikasjonene. Kontroller om det er 
+oljelekkasjer eller tydelige tegn på skade på konn ektorene. Se "Mottakstest på stedet", dokumentet 
+SRT-004, som er tilgjengelig på nettstedet Siemens -Energy/subsea, for krav til optisk test.  
+For produkter som allerede er montert på annet utstyr, skal testregimet for det aktuelle utstyret ha 
+forrang over S RT-dokumentet, f.eks. IR -tester er kanskje ikke tillatt, funksjonstest kan være 
+nødvendig.  
+Ved lagring ut over 5 år anbefales ny inspeksjon og testing hvert 2. år, og før produktet tas i bruk.  
+For produkter som oppbevares ved lufttemperaturer som er kontinuerlig over 25 °C, anbefales det å 
+utføre ny inspeksjon og test hver 12. måned.  
+ Forsiktig!  Risiko for skade på eiendom. Maksimal oppbevaringstemperatur er medregnet 
+solvarme. Overflatetemperaturen må ikke overstige 70 °C (15 8 °F). Egnet beskyttelse må 
+brukes for å sikre at maksimal oppbevaringstemperatur ikke overskrides.  
+ Forsiktig!  Risiko for skade på eiendom. Konnektorene må ikke komme i kontakt med 
+løsemidler, olje, fett eller andre halvfaste materialer.  
+ Siemens Energ y trykkbalansert oljefylt slange, lagring  
+Det anbefales å lagre slange - og koblingsboksenheter i de originale emballasjekassene. 
+Hvis ikke, må de beskyttes mot direkte sollys og sterkt kunstig lys med presenning eller 
+tilsvarende.  
+ 
+Maksimal første lagrings periode: 2 år lagret i samsvar med ISO 2230 (trykksatt) og i henhold til 
+lagringskravene i avsnitt 6.4.2 . 
+Utfør deretter visuelle kontroller og optiske tester. Se "Mottakstest på stedet", dokumentet SRT -003, 
+som er tilgjengelig på nettstedet Siemens -Energy/subsea, for krav til optisk test.  
+Trykks atte slangeenheter må inspiseres visuelt for:  
+• Permanente forvrengninger, som skrukker eller flate partier  
+• Mekaniske skader, som kutt, rifter, slipte områder eller delaminaterte lag  
+• Overflatesprekker  
+• Endringer i overflatens tilstand, som herding, mykhet eller klebrighet.  
+ 
+Etter at inspeksjonen er fullført og data registrert, kan utstyret lagres i ytterligere 2 år, rullerende 
+program. For produkter som oppbevares ved lufttemperaturer som er kontinuerlig over 25 °C, 
+anbefales det å utføre ny inspeksj on og test hver 12. måned.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  26 av 44 
+ 
+Unrestricted   
+ Langtidslagring av elastomer  
+For anbefalt oppbevaring av elastomerkomponenter, f.eks. termineringshylser og kabelsko, se 
+Siemens Energy Subsea Document MH006 - Prosedyre for lagring og håndtering av elastomere 
+materialer, tilgjen gelig fra Siemens Energy Technical Support.  
+ Ompakking for å hindre skade under transport  
+Hvis det er nødvendig å returnere et produkt til produsenten (Siemens Energy Subsea Connectors), 
+anbefales det at transporthette, beskyttelseshette eller egnet støvhe tte settes på koblingen(e), og 
+koblingen(e) må beskyttes nøye med bobleplast eller lignende innpakningsmateriale for å unngå 
+overflateskade  
+Hvis flere konnektorer skal returneres, anbefales det å bruke en egnet forsterket kasse som tåler 
+vekten ved transpo rt i én forsendelse. Kontakt Siemens Energy Technical Support 
+connectortechnicalsupport.gb@siemens -energy.com  for informasjon om egnede kasser.  
+Se avsnitt 6.1Error! Reference source not found.  for mer informasjon om ompakking av slange - o
+g kabelenheter.  
+For å unngå forurensning av produkter i rustfritt stål må det ikke være karbonstål til stede ved lagring 
+av produktene.  
+  
+ Kasserin g og resirkulering  
+Det anbefales å kassere eller resirkulere avfallsemballasje og/eller utrangert produkt på en sikker 
+måte ifølge lokale, regionale, nasjonale eller internasjonale miljøbestemmelser der det er aktuelt.  
+For retur av avfallsemballasje og/el ler utrangert produkt til produsenten, kontakt Product Safety 
+Officer på subsea.connectors.productsafety.gb@siemens -energy.com . 
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  27 av 44 
+ 
+Unrestricted   
+7 INSTALLASJON OG M ONTERING  
+Hvis du er i tvil, kontakt Siemens Energy Technical Support 
+connectortechnicalsupport.gb@siemens -energy.com  for mer detaljert informasjon.  
+ Forsiktig! Risiko for skade på eiendom. Optiske fibre blir lett skadet, og er sårbare når de 
+ikke oppbevares i originalemballasjen som følger med koblingen.  
+Vær oppmerksom på fiberens minste bøyeradius. Fibrene må ikke under noen 
+omstendighet brukes til å løfte produktet.  
+7.1 Kontroller før installasjon for OFL -er 
+• Kontroller merkeinformasjonen på slangen er riktig i henhold til tegningens/merkeplanen.  
+• Forsikre deg om at Flying Lead -kabelen har bestått Site Received Test (se Siemens 
+Energy -dokument SRT -005, tilgjengelig på Siemens Energy Subsea -nettstedet).  
+• En visuell inspeksjon av Flying Lead -kabelen skal utføres før den installeres.  
+• Ingen deler av konnektorene må demonteres før eller under utplassering, bortsett fra 
+fjerning av besk yttelseshetter. Utstyret inneholder ingen deler som kan vedlikeholdes av 
+brukeren.  
+• Eventuelle defekter registreres på skjemaet i avsnitt 10 i dette dokumentet, med bilder av 
+eventuelle problemer der det er mulig, og problemet regist reres og Siemens Energy 
+Technical Department informeres.  
+ 
+7.2 Katodisk beskyttelse  
+ROV -konnektorer er produsert i superdupleks rustfritt stål og er designet for å fungere isolert fra CP -
+systemet (katodisk beskyttelse). Slike konnektorer leveres med alt nødvend ig utstyr for å isolere 
+konnektoren fra strukturen den skal monteres på.  
+ROV -konnektorer som kobles til CP -systemet blir ikke umiddelbart skadet, men det er en økt risiko 
+for hydrogensprøhet i metallet (mulig sprekkdannelse ved høy mekanisk belastning), og  økt 
+forekomst av kalkavleiringer på produktet (som kan føre til problemer med å løsne konnektorene).  
+ 
+Ikke monter «ring» -anoder rundt slangen eller kabelen som en del av CP -beskyttelsen. Disse kan 
+lett skade slangen eller kabelen når anodene korroderer.  
+7.3 Installasjon av kabelnett med flenskonnektorer og/eller 
+fiberkoblingsenhet  
+Nødvendig verktøy  
+• ¼ tommers momentnøkkel 0 -25 Nm (18,4 lbf.ft) 4 mm unbrakonøkkel  
+• Loctite 243  
+ 
+Hvis det brukes buntebånd til å feste kabelnett til strukturer, må de festes løst på slangen. 
+De må ikke komprimeres.  
+ 
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  28 av 44 
+ 
+Unrestricted   
+ ROV -konnektorer  
+Se Figure 13  og Figure 14 , fjern M6 -festeskruene og orienteringsskiven, før fronten på kontakten 
+gjennom grensesnittet, installer 4 stk. M6 -festeskruer og justeringsskive, fest skruene med Loctite 
+243 på gjengene og trekk til med et moment på 10 -12 Nm (7,38 – 8,85 lbf.ft).  
+MERK:  
+Justeringskjeglen på kontakten må kanskje fjernes for å kunne installere koblingen, og deretter 
+monteres på nytt. Sørg for riktig orientering i forhold til den interne kilesporet.  
+ 
+ 
+ 
+Figure 13  Installasjon av kompatibel flensmontert ROV hunnkonnektor  
+ 
+ 
+ 
+Figure 14  Tverrsnitt av installasjon og deler av konnektor med kompatibelt feste  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  29 av 44 
+ 
+Unrestricted   
+ Installasjon av fiberkoblingsenhet  
+I henhold til Figure 15  kan FMU monteres h orisontalt eller vertikalt. Hvis slangen er montert 
+vertikalt, må det sikres at den støttes tilstrekkelig opp til å opprettholde minimum bøyeradius.  
+ 
+  
+Figure 15  Montering av koblingsboks vannrett (venstre) og loddrett (høyre)  
+Det er svært viktig at brakettene for koblingsboksen installeres som vist på Siemens Energy -
+tegning 10199114, som er tilgjengelig fra Siemens Energy Technical Support  
+ 
+Bor grensesnitthull etter behov for installasjon i henhold til tegning 10199114.  
+ 
+Påfør Loctite 243  på gjengene  på hetteskruene. Fest koblingsboksen til  strukturen med 4x M8 -
+skruer, trekk til med 10 -12 Nm (7,38 – 8,85 lbf.ft)  
+ 
+Hvis brakettene leveres separat fra FMU -enheten, må de monteres og installeres. Hvis aktuelt: 
+Monter brakettene på huset med hensyn til anti rotasjonstappen, som skal plasseres på undersiden 
+av enheten og plasseres i en fordypning i huset. Monter 1 svart nitrillist på hver brakett på motsatt 
+side av antirotasjonspinnen. Stram M6 -festene til 3,5 Nm (2,58 lbf.ft) for å fullføre 
+brakettinstallasjo nen. Se Figure 16  og Figure 17 . 
+ 
+FMU -hoveddelens materiale er superdupleks rustfritt stål og krever ikke CP -beskyttelse.  
+ 
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  30 av 44 
+ 
+Unrestricted   
+ 
+Figure 16  Festebrakettenhet for koblingsboks  
+Kontroller at festebrakettene er sikre og at FMU er riktig orientert. Dette fullfører installasjonen av 
+koblingsboksen.  
+ 
+Figure 17  FMU riktig installert på strukturen  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  31 av 44 
+ 
+Unrestricted   
+ Produkt montert i umbilical -termineringsenheter (UTA)  
+Dette avsnittet gjelder AFT -enheter (Advanced Fiber Termination) med oljefylte slanger og 
+konnektorer som termineres til umbilicalen og monteres inne i UTA.  
+Disse produktene skal monteres sikkert på UTA -strukturen ved bruk av festeanordningene som 
+følger med produktet, eller egnede alternativer. Fiberkabelen fra umbilicalen skal trekkes inne i UTA 
+slik at det ikke påføres unødig belastning der kabelen går inn i produktet.  
+Kabelen skal klemmes fast i en kabelrenne eller lignende før produktet føres inn, slik at bevegelse i 
+kabelen i UTA (planlagt eller på annen måte, f.eks. støtbelastning) ikke overfører belastning til 
+produktet. Det anbefales å plassere en kabelklemme ca. 200 mm før kabelinnføringen til produktet 
+og koaksialt for å sikre rett kabelinnføring frem til produktet.  
+ 
+ 
+7.4 TESTING AV OFL -ER 
+DigiTRON f-testkabelnett består av en standard subsea -konnektor, slangerør som inneholder fibrene 
+(ingen olje), og en termineringsboks, som vist i Figure 18 . Termineringsboksen godtar tilkobling av 
+patch -ledninger via E2000 -kontakter  
+Testkabelnettet kan brukes tørt eller til testing på grunt vann. Termineringsboksen er ikke vanntett, 
+så den må ikke senkes ned i vann, dvs. ved testing på grunt vann er koblingen n edsenket og 
+termineringsboksen tørr.  
+ Fare!  Risiko for umiddelbar livsfare eller alvorlig personskade.  
+Plutselig utslipp av lagret trykk.  
+DigiTRON -produktene er ikke ment for bruk som penetrering for faste trykkbeholdere 
+på overflaten eller på land. De er ikke utformet for å samsvare med kravene i direktivet 
+for trykkpåkjent utstyr (2014/68/EU). De er kun ment for integrering i undersjøisk utstyr.  
+All trykktesting av DigiTRON -produktet skal utføres av en kompetent person.  
+ Advarsel! Risiko for muskel -/skjelettskade ved manuell sammenkobling eller frakobling.  
+- Sørg for at det tas egnede forholdsregler for manuell håndtering med tanke på 
+sammenkoblings -/frakoblingskreftene som er spesifisert her. Det anbefales å bruke 
+manuelt sammenkoblingsverktøy (Manual  Mate Tool) til å koble til og fjerne koblingen.  
+- Sikre at alle SIT -testaktiviteter med produktet fullføres av kompetente personer i 
+samsvar med relevante prosedyrer.  
+ Forsiktig!  Risiko for skade på eiendom. Egnet testkabelnett må alltid brukes til å opprette 
+optisk kontakt under testing.  
+ Forsiktig!  Risiko for skade på eiendom. Testkabelnettets termineringsboks må aldri 
+brukes i vann. Det medfører stor fare for skade på testkabelnettet.  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  32 av 44 
+ 
+Unrestricted   
+ 
+Test-mottakerkonnektor                                                                                 
+Testpl ugg                          
+Figure 18   Testkabelnett   
+ 
+Alle testkonnektorer skal inspiseres og rengjøres regelmessig (se avsnitt 9.5). Optisk integritet skal 
+kontrolleres ved å måle innsettingstap og returtap.  
+Kontroller at det ikke er smuss eller rusk på testkonnektoren. Dette kan overføres til konnektoren 
+under testen.  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  33 av 44 
+ 
+Unrestricted   
+8 INFORMASJON TIL BRUKEREN UNDER NORMAL DRIFT OG 
+FEILFORHOLD  
+8.1 Synlige/hørbare signaler  
+Det er ingen synlige eller hørbare signaler fra produktet under bruk som identifiserer bestemte 
+operasjoner for brukeren.  
+Produktet skal være stille under drift, og utseend et skal ikke endres.  
+8.2 Normal og feil/farlig drift  
+Ikke bruk produktet hvis det ser ut til å ha oppstått feil. Kontakt Siemens Energy Technical Support 
+hvis du er i tvil. Eksemplene nedenfor beskriver noen indikasjoner på produktfeil.  
+• Løse gjenstander som me talldeler, festemidler og andre festeanordninger  
+• Oljelekkasje, enten fra koblingen, fra de oljefylte slangene eller fra fiberskjøter eller 
+sammenkoblingsenhetene.  
+• Eventuelle skader på gummitetningen foran på pluggkontakten, f.eks. rifter eller hakk  
+• Sverting eller mørke områder på gummitetningene foran på pluggkontakten  
+• Enhver støy fra produktet.  
+8.3 Feilsøking  
+Kontakt Siemens Energy for råd hvis det oppstår problemer med at produktet ikke fungerer som det 
+skal. Ikke demonter produktet på noen måte.  
+Avdeling  E-postadresse  
+Product Safety Officer  subsea.connectors.productsafety.gb@siemens -
+energy.com  
+Teknisk støtte  connectortechnicalsupport.gb@siemens -energy.com  
+Service (anleggsteam)  susultlcmsupport.gb@siemens -energy.com  
+Table 6  Feilsøking av produkt, kontaktinformasjon  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  34 av 44 
+ 
+Unrestricted   
+9 BRUK OG VEDLIKEHOLD AV PRODUKTET  
+9.1 Sikkerhetsregler  
+Les avsnitt 3 om produktsikkerhetsråd før bruk.  
+9.2 Produktvedlikehold og service  
+DigiTRON -produkter krever ikke noe vedlikehold i løpet av sin 30 -årige levetid på havbunnen og 
+opptil 250 undersjøiske sammenkoblings - og frakoblingssykluser.  
+Det er ingen deler i konnektorene, OFL -ene, jumperne eller kabelnettene som brukeren kan utføre 
+service på. Produktet må ikke demonteres. Hvis det oppstår problemer med produktet, må brukeren 
+kontakte Siemens Energy Technical Support for råd.  
+9.3 Produktbeskyttelse; hetter og blindkonnektorer  
+Det finnes fem typer hetter og blindkonnektorer for å beskytte produktet i bruk. Følgende beskriver 
+brukstilfellet for hver type.  
+ Topphetter  
+Se Figure 19 : 
+• Transporthette : Leveres med koblingen for å beskytte mot skade under tran sport  
+• Beskyttelseshette : Gir større grad av mekanisk beskyttelse av konnektoren enn 
+transporthetten. Anbefales når konnektorene er utsatt for høyere risiko for skade utenfor 
+transport  
+Topphetter kan monteres og fjernes for hånd  
+Topphetter skal ikke legges ut på havbunnen.  
+ 
+ Forsiktig!  Risiko for skade på eiendom. Hvis lagringen utføres i saltvannsforhold, f.eks. 
+på et skipsdekk eller i lasterom, skal det brukes en subsea -miljøhette eller 
+blindpluggkonnektor for å beskytte hunnkonnektorpinnene mot ko rrosjon.  
+ 
+    
+Figure 19   Transporthetter (venstre) og beskyttelseshetter (høyre)  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  35 av 44 
+ 
+Unrestricted   
+ Subsea -hetter  
+Figure 20  viser fra venstre til høyre Subsea beskyttelseshet ter, Subsea -miljøhette og Loopback -
+plugg.  
+• Subsea -beskyttelseshette:  Beskytter konnektoren mot alvorlig mekanisk skade når den er 
+plassert subsea. Brukes vanligvis til kortvarig beskyttelse, f.eks. montering for utplassering 
+av konnektoren før den fjernes e tter noen uker for å koble til flying lead -kabelen. Disse 
+hettene kan brukes til langvarig beskyttelse i ufarlige undersjøiske miljøer (f.eks. steder med 
+lav marin forurensning). Disse hettene beskytter ikke de fremre tetningene på koblingen.  
+• Subsea -miljøhette : Beskytter beholderen mot alvorlig mekanisk skade og miljøbeskyttelse av 
+frontforseglingene på beholderen. Brukes vanligvis til langsiktig undersjøisk lagring, spesielt 
+i områder med høy marin vekst. Denne hetten har ingen optisk funksjon . 
+• Loopback -plugg:  Gir samme beskyttelse som en standard subsea flying -plugg, pluss 
+loopback -testfunksjon.  
+    
+Figure 20  Typiske subsea -beskyttelseshetter  
+9.4 Live sammenkobling/frakobling  
+Konnektorene kan sammenkobles eller frakobles mens transport av optiske signaler pågår.  
+9.5 Inspeksjon og rengjøring av konnektorprodukter  
+Alle konnektorprodukter må inspiseres nøye før bruk. Se avsnitt 8.2 for potensielle fe il som må 
+undersøkes.  
+Konnektorene kan trygt rengjøres med isopropanol (IPA) og en lofri klut, men produktet må ikke 
+bløtlegges i isopropanol. La isopropanolen fordampe før konnektoren kobles sammen . Pass på at 
+det ikke etterlates tekstilfibre på forsiden av pluggen eller på hunnkonnektoren. Andre 
+rengjøringsmidler skal ikke brukes, da de kanskje ikke er kompatible med gummi - eller 
+plastmaterialene som brukes i produktet.  
+Det må ikke under noen omstendighet brukes andre gjenstander til å trykke ned spennsti ftene på 
+pluggen.  
+9.6 Fjerning av marin vekst og kalkholdige avleiringer  
+Det anbefales å fjerne kalkholdige avleiringer fra Siemens Energy Subsea -konnektorer med en 
+løsning med 50 % sitronsyre. Alle materialer som er eksponert for sjøvann i Siemens Energy 
+Subs ea-konnektorer er fullstendig testet mot 50 % sitronsyre, og er føyelige i en periode på 1 time. 
+I tillegg har de termoplastiske materialene god bestandighet mot sitronsyre.  
+Andre syreholdige rengjøringsmidler, som 50 % eddiksyre, skal ikke brukes da de ka n forårsake 
+forringelse av elastomermaterialer. Meisling og sliping anbefales ikke. Bruk av vannspyling er 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  36 av 44 
+ 
+Unrestricted   
+akseptabelt, men strålen må ikke rettes mot spennstiftene foran på pluggen eller forsiden av 
+kontakten, da det kan føre til at vann blir tvunget gjen nom primærtetningene.  
+Vannstråle er tillatt subsea (ikke i luft) forutsatt at vannstrålen ikke rettes mot endene av 
+konnektorene (se nedenfor). Etter vannspyling anbefales det å inspisere konnektorene visuelt for 
+tegn på skade  
+ 
+ 
+Figure 21  Tillatt vannspyling  
+ 
+ Advarsel!  Risiko for mindre personskade. Personer med overfølsomhet overfor en 
+oppløsning med 50 % sitronsyre må bruke egnet verneutstyr for hender og øyne ved 
+håndtering.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  37 av 44 
+ 
+Unrestricted   
+ Forsiktig!  Risiko for skade på eiendom. Andre syreholdige rengjøringsmidler, som 50 % 
+eddiksyre, skal ikke brukes da de kan forårsake forringelse av elastomermaterialer.  
+ Forsiktig!  Risiko for skade på eiendom. Meisling og sliping anbefales ikke. Bruk av 
+vannspyling er akseptabelt, men strålen må ikke rettes mot spennstiftene foran på 
+pluggen, da det kan føre til at vann blir tvunget gjennom primærtetningene.  
+ 
+9.7 Kontroller før sammenk obling av produktet  
+Transport - og topphetter må fjernes før utplassering i sjøen  
+Kontroller hunnkonnektoren for smuss og skade før sammenkobling. Konnektorene er konstruert for 
+å tåle sand - og slamforurensning, men store partikler må fjernes. Bruk en vanns tråle hvis den er 
+plassert ut i sjøen. Se detaljer om vannspyling i avsnitt 9.5  
+Kontroller fronten på pluggkonnektoren. Gummien skal ikke ha rifter eller mørk misfarging.  
+Hvis det finnes tegn på slike feil, må koblingen ikke brukes. Ta kontakt med Siemens Energy 
+Technical Support for råd.  
+9.8 Sammenkobling og frakobling av ROV -konnektorer  
+ Advarsel! Risiko for muskel -/skjelettskade ved manuell sammenkobling eller frakobling.  
+- Sørg for at det tas egnede forholdsregler for manuell håndtering med tanke på 
+sammenkoblings -/frakoblingskreftene som er spesifisert her. Det anbefales å bruke 
+manuelt sammenkoblingsverktøy (Manual Mate Tool) til å koble til og fjerne koblingen.  
+- Sikre at alle SIT -testaktiviteter med produktet fullføres av kompetente personer i 
+samsv ar med relevante prosedyrer.  
+ 
+ Innretting og sammenkobling av ROV -konnektor  
+Disse instruksjonene gjelder for flying -pluggen (på en OFL) og loopback -pluggen.  
+Se bilder av innrettingsmerker og sammenkobling i Figure 22  
+• DigiTron f -konnektorene er konstruert for å justere seg selv under tilkobling.  
+• Konnektorene må grovjusteres ved hjelp av innrettingsmerkene på plugghuset, 
+innrettingsskiven og hunn -kontaktkjeglen.  
+• Monteringen av ROV -håndtaket har tilstrekkelig fleksibilitet til at den kan finjusteres under 
+den endelige innsettingen av konnektoren.  
+• Pass på at innrettingsskiven har riktig orientering  
+• Når konnektoren er helt sammenkoblet, vil leppetetningen ikke være synlig fra ROV -
+kameraets førstepersonsvisning, dvs. sett fra baksiden av konnektoren. En tynn oransje 
+strek på ca. 2 mm kan være synlig s ett fra siden.  
+• Hvis leppetetningen fortsatt er synlig i førstepersonsvisning, fjerner du den og prøver å 
+koble til på nytt ved å følge prosedyren igjen.  
+• Hvis leppetetningen fortsatt er synlig, fjerner du den og prøver å koble til på nytt ved å følge 
+prosed yren igjen.  
+• Hvis konnektorene ikke kan kobles til, må både pluggen og kontakten inspiseres for skader 
+eller smuss som kan hindre tilkoblingen.  
+• Kontakt Siemens Energy Technical Support for å få råd hvis det har oppstått skader.  
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  38 av 44 
+ 
+Unrestricted   
+ Sett ovenfra  
+ 
+ 
+ 
+ 
+ 
+Sett fra siden  
+ 
+ 
+    
+Figure 22   Innrettingsmerker og sammenkoblingsindikator på leppetetning  
+ 
+ ROV -konnektorens maksimale feilinnrettingsverdier og 
+sammenkoblingskrefter  
+Se avsnitt 5.1 
+ Sammenkoblings -/frakoblingshastighet for ROV -konnektor  
+Konnektorene er konstruert for å fungere over et bredt spekter av sammenkoblings -
+/frakoblingshastigheter. D et er ingen praktisk grense for hvor raskt konnektorene kan 
+sammenkobles/frakobles, men som en veiledning bør sammenkoblings -/frakoblingshastigheten ikke 
+overskride hastighetene i avsnitt 5.1. 
+ 
+Justeringsmerker  
+Indikator leppetetning  
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  39 av 44 
+ 
+Unrestricted   
+ Kontroll av ROV -konnektor etter sammenkobling  
+Under sammenkobling foldes den oransje leppetetningen på pluggkonnektoren tilbake og forsvinner 
+inn i justeringskonusen på hunnkontakten. Etter vellykket sammenkobling skal ingen del av 
+leppetetningen på indikatoren stikke ut i skjøten mellom pluggen og hunnkonnektoren.  
+ Frakobling av ROV -konnektor  
+Frakobling utføres ved å trekke ROV -håndtaket rett ut, tilstrekkelig til å frigjøre låseringen. 
+Nødvendig kraft er beskrevet under de me kaniske kreftene i avsnitt 5.1 
+9.9 Manuell (for hånd) sammenkobling og frakobling av konnektorene  
+Ved manuell sammenkobling og frakobling (for hånd) av konnektorene skal manuelt 
+sammenkoblings -/frakoblingsverktøy brukes ( Figure 23 ). Dette gjelder ved sammenkobling i tørr 
+tilstand, og også for dykkere som opererer un dervannsproduktet.  
+Verktøyet må justeres for enten sammenkobling eller frakobling ved å flytte vippearmens dreiepinne 
+til en annen posisjon, se Figure 24 . Gjør dette før du bruker verktøyet.  
+Verktøyet skal ikke oppbevares under vann, men hentes opp til overflaten etter at arbeidet er fullført, 
+og vaskes med ferskvann. Verktøyets oppbevaringstemperaturområde er -40 °C til +70 °C  
+ Advarsel! Risiko for at hender eller fi ngre kommer i klem, med personskade eller tap av 
+fingre som konsekvens.  
+Ikke fjern de gjennomsiktige plastdekslene fra verktøyet. Ikke bruk verktøyet hvis dekslene 
+er skadet eller mangler.  
+ Advarsel! Risiko for personskade som følge av frigivelse av lagr et mekanisk energi når 
+konnektorene er sammenkoblet eller delvis sammenkoblet.  
+Ikke modifiser verktøyet på noen måte. Det kan føre til at den mekaniske styrken svekkes.  
+ Advarsel! Risiko for personskade som følge av at lagret mekanisk energi frigjøres nå r 
+konnektorene frakobles  
+På grunn av de høye belastningene fra fjæranordningen inne i konnektorene, kan det 
+under frakoblingsprosessen føles et lite "tilbakeslag" gjennom verktøyet når pluggen 
+brytes løs fra låsefunksjonen med hunn -kontakten. Dette er norm al funksjonalitet, og 
+operatøren må være forberedt på dette når verktøyet brukes, slik at det ikke oppstår noen 
+overraskelser som kan føre til annen risiko, for eksempel fall - eller snubleulykker.  
+ Advarsel! Risiko for personskade som følge av frigivelse  av lagret mekanisk energi når 
+konnektorene er sammenkoblet eller delvis sammenkoblet.  
+Forsøk aldri å flytte dreiepinnen når konnektorene er delvis sammenkoblet.  
+ Advarsel! Risiko for personskade som følge av frigivelse av lagret mekanisk energi når 
+konnektorene er sammenkoblet eller delvis sammenkoblet.  
+Kontroller at verktøyet er riktig og fast plassert på pluggen og hunn -koblingen, slik at det 
+ikke kan gli av konnektorene under bruk. Det vil føre til et kraftig tilbakeslag i 
+pluggkoblingen og/eller verktøyet mot operatøren på grunn av den høye kontaktkraften 
+mellom konnektorene.  
+Kontroller at konnektorene er frie for smuss og marin vekst før verktøyet brukes, spesielt 
+rundt konusen på kontakten der verktøyet monteres ( Figure 26 ). 
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  40 av 44 
+ 
+Unrestricted   
+ 
+ 
+Figure 23  Manuelt sammenkoblings -/frakoblingsverktøy, delenummer S1U10509147  
+ 
+ 
+Figure 24  Posisjon for sammenkoblings -/frakoblingsspakens dreiepinne  
+ 
+ 
+ Montere pluggen på sammenkoblings -/frakoblingsverktøyet  
+• Verktøyet er konstruert for å motta pluggen via ROV -håndtaket og låse den i posisjon ved å 
+dreie utløserspaken, som vist nedenfor ( Figure 25 ). 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  41 av 44 
+ 
+Unrestricted   
+ 
+Figure 25  Pluggfeste til sammenkoblings -/frakoblingsverktøy  
+ Koble verktøyet til mottakerkonnektoren  
+Når pluggen er låst på plass, kan verktøyet settes på linje med innrettingsmerkene på 
+hunnkonnektoren ( Figure 22 ). Det er tilstrekkelig fleksibilitet til å tilpasse verktøyet som skal 
+vippes slik at hesteskoen på verktøyet kan kobles inn bak konusen på hunnkonnektoren som 
+vist nedenfor ( Figure 26 ). 
+ 
+ 
+ 
+ 
+ 
+Figure 26  Hunnkonnektorfeste på sammenkoblings -/frakoblingsverktøy  
+ 
+ 
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  42 av 44 
+ 
+Unrestricted   
+ Sammenkobling  
+Koble sammen ved å bevege spakene som vist nedenfor ( Figure 27 ) 
+ 
+ 
+Figure 27  Sammenkobling  
+ Frakobling  
+• Kontroller at spakens dreiepinne er i frakoblingsposisjon ( Figure 24 ), eller sett den i riktig 
+posisjon. Gjør dette før du prøver å utføre frakobling  
+• Monter verktøyet som tidligere på den sammenkoblede konnektoren, og koble deretter fra 
+konnektoren ved å bevege  spakarmene som vist i Figure 28 . 
+ 
+Figure 28  Frakobling  
+ 
+
+  Dokumentnr.:  IOM-008 
+ Utgitt dato:  17.03.2023  
+ Revisjon:  05 
+ Side:  43 av 44 
+ 
+Unrestricted   
+10 KUNDEKOMMENTARER/TILBAKEMELDINGER  
+Fyll ut godkjenningsdelen nederst i skjemaet for å bekrefte at hver side i dette do kumentet er lest og 
+fulgt i sin helhet.  
+Opphavspersonens navn og initialer 
+(BLOKKBOKSTAVER)  Dato  
+  
+ Kontaktopplysninger   Kontaktopplysninger  
+  
+Prosjektreferanse  Kunde  Region  
+   
+Produkttype  Delenummer (P/N)  Serienummer (S/N)  
+   
+Skriv inn flere opplysninger nedenfor, f.eks. kommentarer, klager, dokumentasjon på beste 
+praksis, avviksrapporter, observasjoner og anbefalinger, inkludert eventuelle punkter assosiert 
+med helse, miljø eller sikkerhet osv. Inkluder også eventuelle navn/kontaktopply sninger til annet 
+relevant personell.  
+  
+ 
+Godkjenningsdel  
+Navn (BLOKKBOKSTAVER)  Signatur  Dato  
+   
+Send det utfylte skjemaet på e -post til Product Safety Officer på følgende adresse: 
+subsea.connectors.productsafety.gb@siemens -energy.com
+ 
+Unrestricted  
+ 
+Publisert av:  
+Siemens Energy Global GmbH & Co. KG  
+Industrial Applications  
+Freyeslebenstraße 1  
+91058 Erlangen  
+Tyskland  
+E-post: subsea@siemens -energy.com  
+For mer informasjon, besøk vårt nettsted:  
+www.siemens -energy.com/subsea  
+ 
+Med forbehold om endringer og feil. Informasjonen i dette dokumentet inneholder bare generelle 
+beskri velser og/eller ytelsesegenskaper som kanskje ikke alltid gjenspeiler de som er beskrevet, 
+eller som kan bli endret i forbindelse med videreutvikling av produktene. De forespurte 
+ytelsesegenskapene er bare bindende når de er uttrykkelig avtalt i den inngåt te kontrakten.  
+ 
+ 
+ 
+Siemens Energy er et registrert varemerke lisensiert av Siemens AG.  For USA publisert av  
+Siemens Energy, Inc.  
+Industrial Applications  
+15375 Memorial Drive, Suit 700  
+Houston, TX 77079  
+USA  

@@ -1,0 +1,27 @@
+Transaction:
+Published 12/20/2022
+LEI 5299005CHJZ14D4FDJ62
+Date 12/19/2022 UTC+1
+Type of transaction Acquisition
+Description of financial instrument: Share
+ISIN DE000ENER6Y0
+Place Xetra
+a) Price and Volume Price Volume
+EUR 16.85000 EUR 89,608.30
+EUR 16.85500 EUR 78,915.11
+EUR 16.87500 EUR 16,132.50
+EUR 16.88000 EUR 321,462.72
+b) Aggregated information Price Volume
+EUR 16.87060 EUR 506,118.63
+  
+Details of person:
+Name/Company Maria Ferraro
+Reason Member of the managing body
+Initial notification / Correction Initial notiﬁcation
+  
+Basic data:
+Issuer Siemens Energy AG
+Otto-Hahn-Ring 6
+81739 München
+Deutschland
+ 
