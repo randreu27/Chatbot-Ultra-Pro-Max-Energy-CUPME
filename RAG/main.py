@@ -11,6 +11,10 @@ from typing import List, Dict, Any
 # Import our RAG assistant class
 from rag_pinecone import SiemensEnergyAssistant
 
+# Get the absolute path to the directory where main.py is located
+base_dir = os.path.dirname(os.path.abspath(__file__))
+static_dir = os.path.join(base_dir, "static")
+
 # Initialize the SiemensEnergyAssistant
 assistant = SiemensEnergyAssistant()
 
@@ -26,8 +30,8 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Mount static files (frontend)
-app.mount("/static", StaticFiles(directory="static"), name="static")
+# Mount the static directory
+app.mount("/static", StaticFiles(directory=static_dir), name="static")
 
 # Define the input model for the chat
 class ChatRequest(BaseModel):
