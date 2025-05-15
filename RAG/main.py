@@ -66,7 +66,7 @@ async def chat(request: ChatRequest):
 # Serve the index.html file at the root path
 @app.get("/")
 async def root():
-    return FileResponse("static/index.html")
+    return FileResponse(os.path.join(static_dir, "index.html"))
 
 # Health endpoint
 @app.get("/health")
@@ -78,4 +78,4 @@ if __name__ == "__main__":
     os.makedirs("static", exist_ok=True)
     
     # Run on all interfaces (0.0.0.0) to be accessible from other devices
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="localhost", port=8000)
