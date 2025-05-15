@@ -43,17 +43,10 @@ class ChatRequest(BaseModel):
 async def chat(request: ChatRequest):
     print(request)
     try:
-        # Convert history to LangChain message format
-        chat_history = []
-        for pair in request.history:
-            chat_history.append(HumanMessage(content=pair["user"]))
-            chat_history.append(AIMessage(content=pair["ai"]))
-        
-        # Set the assistant's chat history
-        assistant.chat_history = chat_history
-        
         # Process the query using the assistant
         answer = assistant.process_query(request.message)
+        # Update the chat history
+        assistant.update_chat_history(request.message, answer)
         
         # Return the response
         return {"response": answer}
