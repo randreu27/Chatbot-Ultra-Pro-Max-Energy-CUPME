@@ -78,7 +78,8 @@ class SiemensEnergyAssistant:
             "If you DO NOT KNOW the answer, just say that you "
             "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
             "Use five sentences maximum and keep the answer concise."
-            "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links. (separated by a line break). "
+            "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links."
+            "(separated by a line break and no repetition). "
         )
 
         self.qa_prompt = ChatPromptTemplate.from_messages([
