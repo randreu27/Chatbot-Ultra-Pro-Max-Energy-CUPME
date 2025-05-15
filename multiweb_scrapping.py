@@ -9,16 +9,21 @@ import ast
 import json
 
 class CustomHTMLParser:
-    def __init__(self, documents: Optional[List[Dict[str, str]]] = []) -> None:
+    def __init__(self, documents: Optional[List[Dict[str, str]]] = [], no_pdfs: Optional[List] = []) -> None:
 
         self.documents = documents
         self.visited = set()
         self.pdfs = []
+        if no_pdfs == []:
+            self.no_pdfs = ['_CV_', '-pt-','-CN-', '-HU-', '-NO-', '-VI-', '-ES-', '-ZH-', '-CZ-', '-DE-', '-FR-', '-IT-', '-de-', '-fr-', '-it-']
+        else:
+            self.no_pdfs = no_pdfs
 
     def scrape_recursive(self, url: str, domain: str) -> None:
         """ Recursively scrape a webpage and its links. """
         # Check if the URL has already been visited or if it doesn't start with the domain
-        if url in self.visited or not url.startswith(domain):
+        
+        if url in self.visited or not url.startswith(domain) or "/global" not in url:
             return
         self.visited.add(url)
 
@@ -37,18 +42,18 @@ class CustomHTMLParser:
                     link_url = link['href']
                     
                     # Keep the PDFs
-                    if 'pdf' in link_url and "_CV_" not in link_url:
-                        if link_url not in self.pdfs:
+                    if 'pdf' in link_url:
+                        if all(elem not in link_url for elem in self.no_pdfs):
                             self.pdfs.append(link_url)
-                     
+                            
                     # Check for links that start with /global
                     if '/global' in link_url:
                         if '#' in link_url:
                             unique_url = link_url.split('#')[0]
                         else:
                             unique_url = link_url
-                    href = urljoin(url, unique_url)
-                    self.scrape_recursive(href, domain)
+                        href = urljoin(url, unique_url)
+                        self.scrape_recursive(href, domain)
                 
         except Exception as e:
             print(f"Error in {url}: {e}")
@@ -90,14 +95,10 @@ def main(start_urls: List[str] , domain: str) -> None:
     parser = CustomHTMLParser()
     for url in start_urls:
         parser.scrape_recursive(url, domain)
-    
+    print(len(parser.pdfs))
     for pdf_url in parser.pdfs:
         pdf_text = parser.extract_pdf_text(pdf_url)
         parser.documents.append({"url": pdf_url, "text": pdf_text})      
 
-    parser.save_documents()
-
-    
-
-
-
+    parser.save_documents(parser.documents)
+    return parser
