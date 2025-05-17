@@ -6,7 +6,7 @@
 
 - Python 3.11+
 - API keys for:
-  - [Google API](https://console.cloud.google.com/apis/credentials) (for services like Maps, Search, and Translate)
+  - [Google API](https://console.cloud.google.com/apis/credentials) (for LLM)
   - [Pinecone API](https://app.pinecone.io/) (for vector database)
 
 ### Quick Setup
