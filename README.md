@@ -55,6 +55,9 @@ cp .env.template .env
 
 ## 🖥️ Usage
 
+### Running the Backend
+
+1. Start the backend server:
 ```bash
 # Enter the directory
 cd RAG
@@ -62,8 +65,30 @@ cd RAG
 # Running
 python main.py
 ```
+2. The API will be available at http://localhost:8000.
 
-Access the chatbot interface at http://localhost:8000.
+### Running the Frontend
+The frontend is served by the FastAPI backend, so there's no need to start it separately. Simply access the application at http://localhost:8000 after starting the backend.
+
+
+### Using the Chatbot
+
+1. Access the web interface through your browser at http://localhost:8000
+2. Type your query related to Siemens Energy in the input field or click the microphone button to use voice input
+3. For voice input:
+
+- Ensure your microphone is connected and working
+- Click the microphone icon in the chat interface
+- In the voice modal that appears, click "Start" to begin speaking
+- Speak your question clearly
+- Click "Stop" when finished or let it automatically detect when you've stopped speaking
+- The voice recognition system will convert your speech to text
+- The chatbot will process your query and respond
+
+4. Receive knowledgeable responses based on the Siemens Energy documentation
+5. Continue the conversation with follow-up questions as needed, using either text or voice input
+
+
 
 ## 👥 Authors
 
