@@ -25,6 +25,26 @@ The application follows a RAG (Retrieval-Augmented Generation) architecture:
 - LLM Integration: Uses a language model to generate responses based on retrieved context
 - Web Interface: Provides a clean interface for users to interact with the chatbot
 
+
+## Technology Stack
+
+This project leverages the following technologies:
+
+### Backend
+
+- **FastAPI**: High-performance web framework for building APIs
+- **LangChain**: Framework for developing applications powered by language models
+- **Pinecone**: Vector database for efficient similarity search
+- **Google Gemini**: Language model for generating human-like responses
+- **Uvicorn**: ASGI server for running the FastAPI application
+
+### Frontend
+
+- **HTML/CSS/JavaScript**: Core web technologies
+- **TailwindCSS**: Utility-first CSS framework for styling
+- **Web Speech API**: Browser API for voice recognition and text-to-speech
+
+
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -71,7 +91,7 @@ python main.py
 The frontend is served by the FastAPI backend, so there's no need to start it separately. Simply access the application at http://localhost:8000 after starting the backend.
 
 
-### Using the Chatbot
+## Using the Chatbot
 
 1. Access the web interface through your browser at http://localhost:8000
 2. Type your query related to Siemens Energy in the input field or click the microphone button to use voice input
