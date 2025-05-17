@@ -66,7 +66,7 @@ Access the chatbot interface at http://localhost:8000.
 
 ## 👥 Authors
 
-Ramon Andreu
-Pengcheng Chen
-Zhihao Chen
-Zhiqian Zhou
+- **Ramon Andreu**
+- **Pengcheng Chen**
+- **Zhihao Chen**
+- **Zhiqian Zhou**
