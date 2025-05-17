@@ -75,8 +75,6 @@ cp .env.template .env
 
 ## 🖥️ Usage
 
-### Running the Backend
-
 1. Start the backend server:
 ```bash
 # Enter the directory
@@ -85,11 +83,7 @@ cd RAG
 # Running
 python main.py
 ```
-2. The API will be available at http://localhost:8000.
-
-### Running the Frontend
-The frontend is served by the FastAPI backend, so there's no need to start it separately. Simply access the application at http://localhost:8000 after starting the backend.
-
+2. The API will be available at http://localhost:8000. Access the application at http://localhost:8000 after starting the backend.
 
 ## Using the Chatbot
 
