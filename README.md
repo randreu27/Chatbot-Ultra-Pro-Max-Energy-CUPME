@@ -8,7 +8,6 @@ This RAG-based chatbot provides Siemens Energy with an intelligent assistant tha
 
 ## ✨ Features
 
-- **Natural Language Understanding**: Processes and understands user queries in natural language
 - **Voice Recognition**: Supports voice input for hands-free interaction with the chatbot
 - **Knowledge-Grounded Responses**: Leverages RAG to provide accurate responses based on Siemens Energy documentation
 - **Context-Aware Conversations**: Maintains context throughout the conversation
