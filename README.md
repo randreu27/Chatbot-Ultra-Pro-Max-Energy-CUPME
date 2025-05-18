@@ -12,7 +12,6 @@ This RAG-based chatbot provides Siemens Energy with an intelligent assistant tha
 - **Knowledge-Grounded Responses**: Leverages RAG to provide accurate responses based on Siemens Energy documentation
 - **Context-Aware Conversations**: Maintains context throughout the conversation
 - **Real-time Interaction**: Offers fast response times for enhanced user experience
-- **Customizable Knowledge Base**: Can be updated with new information and documentation
 - **Chat History**: Maintains conversation history for reference
 - **User-Friendly Interface**: Intuitive web interface for easy interaction
 
