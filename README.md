@@ -63,7 +63,7 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install package
-pip install -r requirements_now.txt.
+pip install -r requirements.txt.
 
 # Configure API keys
 cp .env.example .env
