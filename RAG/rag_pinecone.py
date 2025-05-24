@@ -7,8 +7,6 @@ from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from voice_recognition import VoiceRecognition
-
 
 class SiemensEnergyAssistant:
     """A RAG-based voice assistant for answering questions about Siemens Energy products."""
@@ -23,7 +21,6 @@ class SiemensEnergyAssistant:
         # Initialize components
         self.chat_history = []
         self.current_language = "en"  # Default language
-        self.voice_recognition = VoiceRecognition()
         self._initialize_models()
         self._create_prompt_templates()
         self._setup_history_aware_retriever()
@@ -93,12 +90,13 @@ class SiemensEnergyAssistant:
         try:
             source_language = self._get_language_name(self.current_language)
             
-            translation_prompt = f"""Translate the following text from {source_language} to English. 
-Only return the translation, nothing else. Do not add explanations or comments.
+            translation_prompt = f"""
+            Translate the following text from {source_language} to English. 
+            Only return the translation, nothing else. Do not add explanations or comments.
 
-Text to translate: {text}
+            Text to translate: {text}
 
-Translation:"""
+            Translation:"""
             
             response = self.llm.invoke(translation_prompt)
             translated_text = response.content.strip()
@@ -243,47 +241,6 @@ Translation:"""
         """
         return input("You (text): ")
     
-    def get_voice_input(self):
-        """Get user input through voice recognition.
-        
-        Returns:
-            str: The transcribed voice input or None if recognition failed
-        """
-        query = None
-        while query is None:
-            # Start recording
-            print("Press Enter to start recording...")
-            input()
-            self.voice_recognition.start_recording()
-            
-            # Stop recording and get the recognized text
-            print("Recording... Press Enter to stop recording")
-            input()
-            query = self.voice_recognition.stop_recording()
-            
-            if query is None:
-                print("Sorry, I didn't catch that. Please try again or type 'text' to switch to text input.")
-                choice = input("Try voice again? (y/n): ")
-                if choice.lower() != 'y':
-                    return self.get_text_input()
-        
-        print(f"You (voice): {query}")
-        return query
-    
-    def get_user_input(self):
-        """Get user input with choice between voice and text.
-        
-        Returns:
-            str: The user's query text
-        """
-        print("\nHow would you like to input your question (1: Voice input / 2: Text input)?")
-        choice = input("Your choice (1/2): ")
-        
-        if choice == '1':
-            return self.get_voice_input()
-        else:
-            return self.get_text_input()
-    
     def process_query(self, query):
         """Process a user query using the RAG pipeline with translation.
         
@@ -362,7 +319,7 @@ Translation:"""
         # Begin conversation loop
         while True:
             # Get user input with choice between voice and text
-            query = self.get_user_input()
+            query = self.get_text_input()
             
             if query.lower() == "exit":
                 print("Goodbye! Thanks for chatting.")
