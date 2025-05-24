@@ -3,11 +3,12 @@ langchain==0.2.1
 langchain-community==0.2.1
 langchain-pinecone==0.1.2
 langchain-google-genai==1.0.5
-fastapi
-uvicorn
-pydantic
+fastapi==0.115.12
+uvicorn==0.34.2
+pydantic==2.11.4
 SpeechRecognition==3.10.0
 pyaudio==0.2.13
-torch
+torch==2.7.0
 sentence-transformers==3.0.0
-pinecone-client
+pinecone-client==4.1.2
+transformers==4.51.3
