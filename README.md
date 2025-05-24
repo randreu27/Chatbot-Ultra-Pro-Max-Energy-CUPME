@@ -8,12 +8,10 @@ This RAG-based chatbot provides Siemens Energy with an intelligent assistant tha
 
 ## ✨ Features
 
-- **Natural Language Understanding**: Processes and understands user queries in natural language
 - **Voice Recognition**: Supports voice input for hands-free interaction with the chatbot
 - **Knowledge-Grounded Responses**: Leverages RAG to provide accurate responses based on Siemens Energy documentation
 - **Context-Aware Conversations**: Maintains context throughout the conversation
 - **Real-time Interaction**: Offers fast response times for enhanced user experience
-- **Customizable Knowledge Base**: Can be updated with new information and documentation
 - **Chat History**: Maintains conversation history for reference
 - **User-Friendly Interface**: Intuitive web interface for easy interaction
 
@@ -68,7 +66,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements_now.txt.
 
 # Configure API keys
-cp .env.template .env
+cp .env.example .env
 # Edit .env with your API keys
 ```
 
