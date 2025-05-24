@@ -1,7 +1,16 @@
-// Variables to store message history
-let chatHistory = [];
+console.log('🚀 APP.JS LOADED - NEW VERSION - ' + new Date().toISOString());
+// Variables to store message history and language preference
 let isRecording = false;
 let recognition = null;
+let selectedLanguage = null;
+
+// Language welcome messages
+const welcomeMessages = {
+    es: "Hola, soy el Asistente de Siemens Energy. Estoy aquí para ayudarte con información sobre nuestras soluciones energéticas sostenibles, servicios e innovaciones. Puedes escribir o usar entrada de voz para hacerme preguntas. ¿Cómo puedo ayudarte hoy?",
+    ca: "Hola, sóc l'Assistent de Siemens Energy. Estic aquí per ajudar-te amb informació sobre les nostres solucions energètiques sostenibles, serveis i innovacions. Pots escriure o usar entrada de veu per fer-me preguntes. Com puc ajudar-te avui?",
+    en: "Hello, I'm the Siemens Energy Assistant. I'm here to help you with information about our sustainable energy solutions, services, and innovations. You can type or use voice input to ask me questions. How can I assist you today?",
+    zh: "您好，我是西门子能源助手。我在这里帮助您了解我们的可持续能源解决方案、服务和创新。您可以打字或使用语音输入向我提问。我今天能为您做些什么？"
+};
 
 // Check if the browser supports the Web Speech API
 const isSpeechRecognitionSupported = 'webkitSpeechRecognition' in window || 'SpeechRecognition' in window;
@@ -22,6 +31,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const voiceResult = document.getElementById('voiceResult');
     const voiceStatus = document.getElementById('voiceStatus');
     const voiceAnimation = document.getElementById('voiceAnimation');
+    const languageModal = document.getElementById('languageModal');
+    const languageOptions = document.querySelectorAll('.language-option');
 
     // Check that all necessary elements exist
     if(!sendButton || !inputMessage || !chatbox) {
@@ -112,13 +123,60 @@ document.addEventListener('DOMContentLoaded', function() {
         return `${hours}:${minutes} ${ampm}`;
     }
 
+    // Function to check if dark mode is active
+    function isDarkModeActive() {
+        return document.body.classList.contains('dark-mode');
+    }
+
+    // Function to apply dark mode styles to an element
+    function applyDarkModeToElement(element) {
+        if (isDarkModeActive()) {
+            // Apply dark mode styles to message bubbles
+            const lightBubbles = element.querySelectorAll('.bg-siemens-light');
+            lightBubbles.forEach(el => {
+                el.style.backgroundColor = '#6b7280';
+            });
+            
+            // Apply dark mode styles to text
+            const grayText = element.querySelectorAll('.text-gray-800');
+            grayText.forEach(el => {
+                el.style.color = '#f9fafb';
+            });
+            
+            const gray700Text = element.querySelectorAll('.text-gray-700');
+            gray700Text.forEach(el => {
+                el.style.color = '#d1d5db';
+            });
+            
+            const gray500Text = element.querySelectorAll('.text-gray-500');
+            gray500Text.forEach(el => {
+                el.style.color = '#9ca3af';
+            });
+            
+            // Apply dark mode to sources cards
+            const sourcesCards = element.querySelectorAll('.sources-card');
+            sourcesCards.forEach(el => {
+                el.style.backgroundColor = '#4b5563';
+                el.style.borderColor = '#009999';
+            });
+            
+            // Apply dark mode to link cards
+            const linkCards = element.querySelectorAll('.link-card a');
+            linkCards.forEach(el => {
+                el.style.backgroundColor = '#4b5563';
+                el.style.borderColor = '#6b7280';
+            });
+        }
+    }
+
     // Function to create a user message with styling
     function createUserMessage(message) {
-        return `
+        const fontSize = document.documentElement.style.getPropertyValue('--message-font-size') || '1rem';
+        const messageHtml = `
         <div class="flex flex-col items-end message-container animate-slideIn">
             <div class="flex items-start justify-end">
                 <div class="bg-siemens-accent p-4 rounded-2xl rounded-tr-none max-w-[75%] shadow-md">
-                    <p class="text-white message-text">${escapeHtml(message)}</p>
+                    <p class="text-white message-text" style="font-size: ${fontSize}">${escapeHtml(message)}</p>
                 </div>
                 <div class="rounded-full bg-siemens-accent p-2 ml-3 shadow-md">
                     <i class="fas fa-user text-white"></i>
@@ -127,6 +185,13 @@ document.addEventListener('DOMContentLoaded', function() {
             <p class="text-xs text-gray-500 mr-14 mt-1">${getCurrentTime()}</p>
         </div>
         `;
+        
+        // Create a temporary container to apply dark mode styles
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = messageHtml;
+        applyDarkModeToElement(tempDiv);
+        
+        return tempDiv.innerHTML;
     }
 
     // Function to process links in bot messages
@@ -169,26 +234,34 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="font-medium text-siemens-secondary mb-1">
                     <i class="fas fa-book-open mr-2"></i>SOURCES
                 </div>
-                <div class="text-sm">${sourcesContent.replace('SOURCES:', '')}</div>
+                <div class="text-sm text-gray-700">${sourcesContent.replace('SOURCES:', '')}</div>
             </div>`;
         }
 
         // Process links to make them clickable and display as cards
         formattedMessage = processLinks(formattedMessage);
         
-        return `
+        const fontSize = document.documentElement.style.getPropertyValue('--message-font-size') || '1rem';
+        const messageHtml = `
         <div class="flex flex-col items-start message-container animate-slideIn">
             <div class="flex items-start">
                 <div class="rounded-full bg-siemens-light p-2 mr-3 shadow-md">
                     <i class="fas fa-robot text-siemens-primary"></i>
                 </div>
                 <div class="bg-siemens-light p-4 rounded-2xl rounded-tl-none max-w-[75%] shadow-md">
-                    <p class="text-gray-800 message-text">${formattedMessage}</p>
+                    <p class="text-gray-800 message-text" style="font-size: ${fontSize}">${formattedMessage}</p>
                 </div>
             </div>
             <p class="text-xs text-gray-500 ml-14 mt-1">${getCurrentTime()}</p>
         </div>
         `;
+        
+        // Create a temporary container to apply dark mode styles
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = messageHtml;
+        applyDarkModeToElement(tempDiv);
+        
+        return tempDiv.innerHTML;
     }
 
     // Function to show loading indicator
@@ -247,21 +320,23 @@ document.addEventListener('DOMContentLoaded', function() {
         showLoadingIndicator();
 
         try {
-            // Send the message to the backend with chat history
+            // Send the message to the backend WITH language preference
             const response = await fetch('http://127.0.0.1:8000/chat', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ 
-                    message: message, 
-                    history: chatHistory 
+                    message: message,
+                    language: selectedLanguage
                 })
             });
 
             if (!response.ok) {
                 throw new Error('Error in server response');
             }
-
-            const data = await response.json();
+            console.log('HTTP response status:', response.status);
+            const text = await response.text();
+            console.log('Texto crudo recibido del backend:', text);
+            const data = JSON.parse(text);
             
             // Remove loading indicator
             removeLoadingIndicator();
@@ -269,24 +344,85 @@ document.addEventListener('DOMContentLoaded', function() {
             // Show the AI response
             chatbox.innerHTML += createBotMessage(data.response);
             
-            // Update chat history
-            chatHistory.push({
-                user: message,
-                ai: data.response
-            });
-            
             // Scroll the chat down
             chatbox.scrollTop = chatbox.scrollHeight;
 
             // Enable text to speech for accessibility
             if (window.speechSynthesis && document.getElementById('ttsToggle').checked) {
-                const utterance = new SpeechSynthesisUtterance(data.response.replace(/<[^>]*>?/gm, ''));
-                utterance.lang = 'en-US';
-                utterance.rate = 1;
-                window.speechSynthesis.speak(utterance);
+                // Function to clean text for speech
+                function cleanTextForSpeech(text) {
+                    let cleanText = text;
+                    
+                    cleanText = cleanText.replace(/<div class="sources-card[^>]*>[\s\S]*?<\/div>/gi, '');
+                    cleanText = cleanText.replace(/SOURCES:[\s\S]*$/gi, '');
+                    
+                    const tempDiv = document.createElement('div');
+                    tempDiv.innerHTML = cleanText;
+                    
+                    const linkCards = tempDiv.querySelectorAll('.link-card');
+                    linkCards.forEach(card => card.remove());
+                    
+                    const anchors = tempDiv.querySelectorAll('a');
+                    anchors.forEach(anchor => {
+                        const textContent = anchor.textContent.trim();
+                        if (textContent && !textContent.match(/^https?:\/\//)) {
+                            anchor.replaceWith(document.createTextNode(textContent));
+                        } else {
+                            anchor.remove();
+                        }
+                    });
+                    
+                    let finalText = tempDiv.textContent || tempDiv.innerText || '';
+                    
+                    finalText = finalText
+                        .replace(/https?:\/\/[^\s]+/g, '')
+                        .replace(/www\.[^\s]+/g, '')
+                        .replace(/Resource Link/gi, '')
+                        .replace(/SOURCES:?/gi, '')
+                        .replace(/Source:?/gi, '')
+                        .replace(/\.(pdf|doc|docx|txt|html|htm)/gi, '')
+                        .replace(/\s+/g, ' ')
+                        .trim();
+                    
+                    return finalText;
+                }
+                
+                const cleanedText = cleanTextForSpeech(data.response);
+                if (cleanedText.length > 0) {
+                    // Set language for text-to-speech based on selected language
+                    const ttsLanguages = {
+                        'es': 'es-ES',
+                        'ca': 'ca-ES',
+                        'en': 'en-US',
+                        'zh': 'zh-CN'
+                    };
+                    
+                    const utterance = new SpeechSynthesisUtterance(cleanedText);
+                    utterance.lang = ttsLanguages[selectedLanguage] || 'en-US';
+                    utterance.rate = 1;
+                    
+                    // Try to find a voice for the selected language
+                    const voices = window.speechSynthesis.getVoices();
+                    const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
+                    
+                    // Find a voice that matches the language
+                    const matchingVoice = voices.find(voice => 
+                        voice.lang === targetLang || 
+                        voice.lang.startsWith(targetLang.split('-')[0])
+                    );
+                    
+                    if (matchingVoice) {
+                        utterance.voice = matchingVoice;
+                        console.log(`🔊 Using voice: ${matchingVoice.name} for language: ${targetLang}`);
+                    } else {
+                        console.log(`⚠️ No specific voice found for ${targetLang}, using default`);
+                    }
+                    
+                    window.speechSynthesis.speak(utterance);
+                }
             }
         } catch (error) {
-            console.error('Error:', error);
+            console.error('ERROR EN FETCH O JSON:', error);
             removeLoadingIndicator();
             chatbox.innerHTML += createBotMessage('Sorry, an error occurred while processing your question. Please try again.');
             chatbox.scrollTop = chatbox.scrollHeight;
@@ -305,24 +441,52 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Function to clear chat history
-    const clearChat = () => {
-        // Keep only the welcome message
-        chatbox.innerHTML = `
+    // Function to update welcome message
+    function updateWelcomeMessage() {
+        const welcomeMessage = welcomeMessages[selectedLanguage] || welcomeMessages.en;
+        const fontSize = document.documentElement.style.getPropertyValue('--message-font-size') || '1rem';
+        
+        const welcomeHtml = `
         <div class="flex flex-col items-start message-container">
             <div class="flex items-start">
                 <div class="rounded-full bg-siemens-light p-2 mr-3 shadow-md">
                     <i class="fas fa-robot text-siemens-primary"></i>
                 </div>
                 <div class="bg-siemens-light p-4 rounded-2xl rounded-tl-none max-w-[75%] shadow-md">
-                    <p class="text-gray-800 message-text">Hello, I'm the Siemens Energy Assistant. I'm here to help you with information about our sustainable energy solutions, services, and innovations. You can type or use voice input to ask me questions. How can I assist you today?</p>
+                    <p class="text-gray-800 message-text" style="font-size: ${fontSize}">${welcomeMessage}</p>
                 </div>
             </div>
             <p class="text-xs text-gray-500 ml-14 mt-1">${getCurrentTime()}</p>
         </div>`;
         
-        // Clear the chat history array
-        chatHistory = [];
+        // Create temporary container and apply dark mode if needed
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = welcomeHtml;
+        applyDarkModeToElement(tempDiv);
+        chatbox.innerHTML = tempDiv.innerHTML;
+    }
+
+    // Function to clear chat history
+    const clearChat = async () => {
+        try {
+            // Call backend to clear history
+            const response = await fetch('http://127.0.0.1:8000/clear-history', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' }
+            });
+
+            if (!response.ok) {
+                throw new Error('Error clearing chat history');
+            }
+
+            // Update welcome message based on current language
+            updateWelcomeMessage();
+            
+        } catch (error) {
+            console.error('Error clearing chat history:', error);
+            // Still update welcome message on error
+            updateWelcomeMessage();
+        }
     };
 
     // Function to handle voice input
@@ -358,6 +522,54 @@ document.addEventListener('DOMContentLoaded', function() {
             recognition.stop();
         }
     }
+
+    // Handle language selection
+    languageOptions.forEach(option => {
+        option.addEventListener('click', function() {
+            selectedLanguage = this.dataset.lang;
+            const languageName = this.dataset.name;
+            
+            // Hide language modal
+            languageModal.classList.add('hidden');
+            
+            // Update welcome message based on selected language
+            updateWelcomeMessage();
+            
+            // Set speech recognition language
+            if (recognition) {
+                const langCodes = {
+                    es: 'es-ES',
+                    ca: 'ca-ES', 
+                    en: 'en-US',
+                    zh: 'zh-CN'
+                };
+                recognition.lang = langCodes[selectedLanguage] || 'en-US';
+            }
+            
+            // Load voices for the selected language (for TTS)
+            if (window.speechSynthesis) {
+                // Ensure voices are loaded
+                window.speechSynthesis.getVoices();
+                window.speechSynthesis.onvoiceschanged = function() {
+                    const voices = window.speechSynthesis.getVoices();
+                    const ttsLanguages = {
+                        'es': 'es-ES',
+                        'ca': 'ca-ES',
+                        'en': 'en-US',
+                        'zh': 'zh-CN'
+                    };
+                    const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
+                    const availableVoices = voices.filter(voice => 
+                        voice.lang === targetLang || 
+                        voice.lang.startsWith(targetLang.split('-')[0])
+                    );
+                    console.log(`🔊 Available voices for ${targetLang}:`, availableVoices.map(v => v.name));
+                };
+            }
+            
+            console.log('Language selected:', selectedLanguage);
+        });
+    });
 
     // Add event to the send button
     sendButton.addEventListener('click', sendMessage);

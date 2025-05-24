@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Siemens Energy Assistant</title>
+    <title>Chatbot Ultra Pro Max Energy</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -38,16 +38,12 @@
         <div class="header-container bg-gradient-to-r from-siemens-primary to-siemens-secondary p-5 rounded-t-xl flex items-center justify-between relative">
             <div class="header-pattern"></div>
             <div class="flex items-center z-10">
-                <!-- Siemens Energy Logo -->
-                <svg class="w-10 h-10 mr-3" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <circle cx="50" cy="50" r="45" fill="white"/>
-                    <path d="M30 35H70V40H30V35Z" fill="#009999"/>
-                    <path d="M30 45H70V50H30V45Z" fill="#009999"/>
-                    <path d="M30 55H70V60H30V55Z" fill="#009999"/>
-                    <path d="M30 65H50V70H30V65Z" fill="#009999"/>
-                </svg>
+                <!-- Chatbot Logo -->
+                <div class="w-10 h-10 mr-3 bg-white rounded-full flex items-center justify-center shadow-md">
+                    <i class="fas fa-robot text-siemens-primary text-xl"></i>
+                </div>
                 <div>
-                    <h1 class="text-2xl font-bold text-white header-title">Siemens Energy Assistant</h1>
+                    <h1 class="text-2xl font-bold text-white header-title">Chatbot Ultra Pro Max Energy</h1>
                     <div class="value-badges flex mt-1 overflow-x-auto">
                         <span class="value-badge"><i class="fas fa-leaf mr-1"></i>Sustainability</span>
                         <span class="value-badge"><i class="fas fa-lightbulb mr-1"></i>Innovation</span>
@@ -84,10 +80,10 @@
                 </div>
                 <div class="mr-4 flex items-center">
                     <label class="toggle-switch mr-2">
-                        <input type="checkbox" id="highContrastToggle">
+                        <input type="checkbox" id="darkModeToggle">
                         <span class="toggle-slider"></span>
                     </label>
-                    <span class="text-sm text-gray-700">High Contrast</span>
+                    <span class="text-sm text-gray-700">Dark Mode</span>
                 </div>
                 <div class="text-sm ml-auto">
                     <button id="increaseFontBtn" class="bg-gray-200 hover:bg-gray-300 px-2 py-1 rounded-l-md">
@@ -149,6 +145,37 @@
         </div>
     </div>
 
+    <!-- Language Selection Modal (shown on page load) -->
+    <div id="languageModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+        <div class="bg-white rounded-xl shadow-2xl w-full max-w-md p-6 text-center">
+            <div class="mb-6">
+                <div class="w-16 h-16 mx-auto mb-4 bg-siemens-light rounded-full flex items-center justify-center">
+                    <i class="fas fa-globe text-siemens-primary text-2xl"></i>
+                </div>
+                <h3 class="text-2xl font-semibold text-siemens-secondary mb-2">Select Your Language</h3>
+                <p class="text-gray-600">Choose your preferred language for this conversation</p>
+            </div>
+            <div class="grid grid-cols-2 gap-3">
+                <button class="language-option" data-lang="es" data-name="Español">
+                    <i class="fas fa-flag mr-2"></i>
+                    <span>Español</span>
+                </button>
+                <button class="language-option" data-lang="ca" data-name="Català">
+                    <i class="fas fa-flag mr-2"></i>
+                    <span>Català</span>
+                </button>
+                <button class="language-option" data-lang="en" data-name="English">
+                    <i class="fas fa-flag mr-2"></i>
+                    <span>English</span>
+                </button>
+                <button class="language-option" data-lang="zh" data-name="中文">
+                    <i class="fas fa-flag mr-2"></i>
+                    <span>中文</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
     <!-- Voice input modal (initially hidden) -->
     <div id="voiceModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
         <div class="bg-white rounded-xl shadow-2xl w-full max-w-sm p-6 text-center">
@@ -189,11 +216,18 @@
             document.getElementById('accessibilityPanel').classList.add('hidden');
         });
         
-        // Font size adjustment
+        // Font size adjustment - moved to global scope
         let currentFontSize = 1; // rem
+        
+        // Set initial CSS custom property
+        document.documentElement.style.setProperty('--message-font-size', currentFontSize + 'rem');
+        
         document.getElementById('increaseFontBtn').addEventListener('click', function() {
             if (currentFontSize < 1.5) {
                 currentFontSize += 0.1;
+                // Update CSS custom property for all messages
+                document.documentElement.style.setProperty('--message-font-size', currentFontSize + 'rem');
+                // Update existing messages
                 document.querySelectorAll('.message-text').forEach(el => {
                     el.style.fontSize = currentFontSize + 'rem';
                 });
@@ -203,28 +237,147 @@
         document.getElementById('decreaseFontBtn').addEventListener('click', function() {
             if (currentFontSize > 0.8) {
                 currentFontSize -= 0.1;
+                // Update CSS custom property for all messages
+                document.documentElement.style.setProperty('--message-font-size', currentFontSize + 'rem');
+                // Update existing messages
                 document.querySelectorAll('.message-text').forEach(el => {
                     el.style.fontSize = currentFontSize + 'rem';
                 });
             }
         });
         
-        // High contrast toggle
-        document.getElementById('highContrastToggle').addEventListener('change', function() {
+        // Dark mode toggle
+        document.getElementById('darkModeToggle').addEventListener('change', function() {
             if (this.checked) {
-                document.body.classList.add('high-contrast');
+                // Apply dark mode
+                document.body.classList.add('dark-mode');
+                document.body.style.background = 'linear-gradient(to bottom right, #1f2937, #111827)';
+                
+                // Update chat container
+                const chatContainer = document.querySelector('.bg-white.rounded-xl.shadow-2xl');
+                chatContainer.style.backgroundColor = '#374151';
+                chatContainer.style.color = '#f9fafb';
+                
+                // Update chatbox
+                const chatbox = document.getElementById('chatbox');
+                chatbox.style.backgroundColor = '#374151';
+                
+                // Update input container
+                const inputContainer = document.querySelector('.border-t.border-gray-200');
+                inputContainer.style.backgroundColor = '#4b5563';
+                inputContainer.style.borderColor = '#6b7280';
+                
+                // Update input field container
+                const inputField = document.querySelector('.input-container');
+                inputField.style.backgroundColor = '#6b7280';
+                
+                // Update input field
+                const input = document.getElementById('inputMessage');
+                input.style.backgroundColor = 'transparent';
+                input.style.color = '#f9fafb';
+                
+                // Update accessibility panel
+                const accessPanel = document.getElementById('accessibilityPanel');
+                accessPanel.style.backgroundColor = '#4b5563';
+                accessPanel.style.borderColor = '#6b7280';
+                
+                // Update font size buttons to keep black text
+                document.querySelectorAll('#increaseFontBtn, #decreaseFontBtn').forEach(btn => {
+                    btn.style.backgroundColor = '#e5e7eb';
+                    btn.style.color = '#000000';
+                });
+                
+                // Update all message bubbles
                 document.querySelectorAll('.bg-siemens-light').forEach(el => {
-                    el.style.backgroundColor = '#FFFFFF';
+                    el.style.backgroundColor = '#6b7280';
                 });
                 document.querySelectorAll('.text-gray-800').forEach(el => {
-                    el.style.color = '#000000';
+                    el.style.color = '#f9fafb';
+                });
+                
+                // Update sources cards with darker background
+                document.querySelectorAll('.sources-card').forEach(el => {
+                    el.style.backgroundColor = '#4b5563';
+                    el.style.borderColor = '#009999';
+                });
+                
+                // Update link cards
+                document.querySelectorAll('.link-card a').forEach(el => {
+                    el.style.backgroundColor = '#4b5563';
+                    el.style.borderColor = '#6b7280';
+                });
+                
+                // Update text colors
+                document.querySelectorAll('.text-gray-700').forEach(el => {
+                    el.style.color = '#d1d5db';
+                });
+                document.querySelectorAll('.text-gray-500').forEach(el => {
+                    el.style.color = '#9ca3af';
                 });
             } else {
-                document.body.classList.remove('high-contrast');
+                // Remove dark mode
+                document.body.classList.remove('dark-mode');
+                document.body.style.background = '';
+                
+                // Reset chat container
+                const chatContainer = document.querySelector('.bg-white.rounded-xl.shadow-2xl');
+                chatContainer.style.backgroundColor = '';
+                chatContainer.style.color = '';
+                
+                // Reset chatbox
+                const chatbox = document.getElementById('chatbox');
+                chatbox.style.backgroundColor = '';
+                
+                // Reset input container
+                const inputContainer = document.querySelector('.border-t.border-gray-200');
+                inputContainer.style.backgroundColor = '';
+                inputContainer.style.borderColor = '';
+                
+                // Reset input field container
+                const inputField = document.querySelector('.input-container');
+                inputField.style.backgroundColor = '';
+                
+                // Reset input field
+                const input = document.getElementById('inputMessage');
+                input.style.backgroundColor = '';
+                input.style.color = '';
+                
+                // Reset accessibility panel
+                const accessPanel = document.getElementById('accessibilityPanel');
+                accessPanel.style.backgroundColor = '';
+                accessPanel.style.borderColor = '';
+                
+                // Reset font size buttons
+                document.querySelectorAll('#increaseFontBtn, #decreaseFontBtn').forEach(btn => {
+                    btn.style.backgroundColor = '';
+                    btn.style.color = '';
+                });
+                
+                // Reset all message bubbles
                 document.querySelectorAll('.bg-siemens-light').forEach(el => {
                     el.style.backgroundColor = '';
                 });
                 document.querySelectorAll('.text-gray-800').forEach(el => {
+                    el.style.color = '';
+                });
+                
+                // Reset sources cards
+                document.querySelectorAll('.sources-card').forEach(el => {
+                    el.style.backgroundColor = '';
+                    el.style.borderColor = '';
+                });
+                
+                // Reset link cards
+                document.querySelectorAll('.link-card a').forEach(el => {
+                    el.style.backgroundColor = '';
+                    el.style.borderColor = '';
+                });
+                
+                // Reset text colors
+                document.querySelectorAll('.text-gray-700').forEach(el => {
+                    el.style.color = '';
+                });
+                document.querySelectorAll('.text-gray-500').forEach(el => {
                     el.style.color = '';
                 });
             }
