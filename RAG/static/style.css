@@ -234,6 +234,31 @@ input:checked + .toggle-slider:before {
     transform: translateX(20px);
 }
 
+/* Language selection modal */
+.language-option {
+    padding: 1rem;
+    border: 2px solid #e5e7eb;
+    border-radius: 0.75rem;
+    background-color: white;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    color: #4b5563;
+}
+
+.language-option:hover {
+    border-color: #009999;
+    background-color: #f0fdff;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 153, 153, 0.1);
+}
+
+.language-option:active {
+    transform: translateY(0);
+}
+
 /* Mobile styles */
 @media (max-width: 640px) {
     .header-title {
