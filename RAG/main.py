@@ -42,8 +42,8 @@ class ChatRequest(BaseModel):
 @app.post("/chat")
 async def chat(request: ChatRequest):
     print(request)
-    print(f"📚 Historial ANTES del procesamiento: {len(assistant.chat_manager.chat_history)} elementos")
-    print(f"🌍 Processing in language: {request.language}")
+    print(f"Chat History BEFORE the process: {len(assistant.chat_manager.chat_history)} elements")
+    print(f"Processing in language: {request.language}")
     try:
         # Set language preference in assistant
         assistant.set_language(request.language)
@@ -52,7 +52,7 @@ async def chat(request: ChatRequest):
         answer = assistant.process_query(request.message)
         # Update the chat history in backend
         assistant.update_chat_history(request.message, answer)
-        print(f"📚 Historial DESPUÉS del procesamiento: {len(assistant.chat_manager.chat_history)} elementos")
+        print(f"Chat History AFTER the process: {len(assistant.chat_manager.chat_history)} elements")
         # Return the response
         return {"response": answer}
 
@@ -74,9 +74,9 @@ async def chat(request: ChatRequest):
 async def clear_history():
     try:
         # Clear the chat history in the assistant
-        print(f"🗑️ Limpiando historial. Elementos antes: {len(assistant.chat_manager.chat_history)}")
+        print(f"Clearing chat history. Elements BEFORE: {len(assistant.chat_manager.chat_history)}")
         assistant.chat_manager.chat_history = []
-        print(f"🗑️ Historial limpiado. Elementos después: {len(assistant.chat_manager.chat_history)}")
+        print(f"Chat history cleared. Elements AFTER: {len(assistant.chat_manager.chat_history)}")
         return {"status": "success", "message": "Chat history cleared"}
     
     except Exception as e:
