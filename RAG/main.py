@@ -9,7 +9,7 @@ import os
 from typing import List, Dict, Any
 
 # Import our RAG assistant class
-from rag_pinecone import SiemensEnergyAssistant
+from siemens_energy_assistant import SiemensEnergyAssistant
 
 # Get the absolute path to the directory where main.py is located
 base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -42,7 +42,7 @@ class ChatRequest(BaseModel):
 @app.post("/chat")
 async def chat(request: ChatRequest):
     print(request)
-    print(f"📚 Historial ANTES del procesamiento: {len(assistant.chat_history)} elementos")
+    print(f"📚 Historial ANTES del procesamiento: {len(assistant.chat_manager.chat_history)} elementos")
     print(f"🌍 Processing in language: {request.language}")
     try:
         # Set language preference in assistant
@@ -52,7 +52,7 @@ async def chat(request: ChatRequest):
         answer = assistant.process_query(request.message)
         # Update the chat history in backend
         assistant.update_chat_history(request.message, answer)
-        print(f"📚 Historial DESPUÉS del procesamiento: {len(assistant.chat_history)} elementos")
+        print(f"📚 Historial DESPUÉS del procesamiento: {len(assistant.chat_manager.chat_history)} elementos")
         # Return the response
         return {"response": answer}
 
@@ -74,9 +74,9 @@ async def chat(request: ChatRequest):
 async def clear_history():
     try:
         # Clear the chat history in the assistant
-        print(f"🗑️ Limpiando historial. Elementos antes: {len(assistant.chat_history)}")
-        assistant.chat_history = []
-        print(f"🗑️ Historial limpiado. Elementos después: {len(assistant.chat_history)}")
+        print(f"🗑️ Limpiando historial. Elementos antes: {len(assistant.chat_manager.chat_history)}")
+        assistant.chat_manager.chat_history = []
+        print(f"🗑️ Historial limpiado. Elementos después: {len(assistant.chat_manager.chat_history)}")
         return {"status": "success", "message": "Chat history cleared"}
     
     except Exception as e:
