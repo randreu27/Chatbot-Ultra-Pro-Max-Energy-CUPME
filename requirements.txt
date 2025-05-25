@@ -12,3 +12,4 @@ torch==2.7.0
 sentence-transformers==3.0.0
 pinecone-client==4.1.2
 transformers==4.51.3
+tiktoken==0.7.0
