@@ -1,0 +1,175 @@
+/* Additional styles for Siemens Energy website */
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fadeInUp {
+    animation: fadeInUp 0.6s ease-out;
+}
+
+/* Chatbot widget animations */
+#chatbot-toggle {
+    transition: all 0.3s ease;
+}
+
+#chatbot-toggle:hover {
+    transform: scale(1.1);
+}
+
+/* Chatbot container - simple and fixed */
+#chatbot-container {
+    position: fixed !important;
+    top: 20px !important; /* Desde arriba */
+    right: 20px !important;
+    width: 66.666vw !important; /* 2/3 de la pantalla */
+    height: calc(100vh - 40px) !important; /* Altura completa menos márgenes */
+    z-index: 1000 !important;
+    background: white !important;
+    border-radius: 12px !important;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
+    overflow: hidden !important;
+    border: 2px solid #663399 !important;
+}
+
+/* Simple header */
+.chatbot-header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: linear-gradient(135deg, #663399, #8A2BE2);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    z-index: 1001;
+    border-radius: 10px 10px 0 0;
+}
+
+.chatbot-header .title {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.chatbot-close {
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.chatbot-close:hover {
+    background: rgba(255, 255, 255, 0.3);
+    transform: scale(1.1);
+}
+
+/* iframe styling */
+#chatbot-container iframe {
+    border: none !important;
+    outline: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+    width: 100% !important;
+    height: calc(100% - 40px) !important;
+    margin-top: 40px !important;
+}
+
+/* Hidden state */
+#chatbot-container.hidden {
+    display: none !important;
+}
+
+#chatbot-container:not(.hidden) {
+    display: block !important;
+    animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px) scale(0.95);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+/* Responsive design */
+@media (max-width: 1024px) {
+    #chatbot-container {
+        width: 80vw !important;
+        height: calc(100vh - 40px) !important; /* Altura completa en tablet */
+    }
+}
+
+@media (max-width: 768px) {
+    #chatbot-container {
+        width: 95vw !important;
+        height: calc(100vh - 20px) !important; /* Altura completa en móvil */
+        top: 10px !important;
+        right: 10px !important;
+        left: 10px !important;
+        margin: 0 auto !important;
+    }
+}
+
+/* Hero section background pattern */
+.hero-pattern {
+    background-image: radial-gradient(circle at 25px 25px, rgba(255, 255, 255, 0.1) 2px, transparent 0);
+    background-size: 50px 50px;
+}
+
+/* Card hover effects */
+.card-hover {
+    transition: all 0.3s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-5px);
+}
+
+/* Custom scrollbar for webkit browsers */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #663399; /* Siemens purple */
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4a1a66; /* Darker purple */
+}

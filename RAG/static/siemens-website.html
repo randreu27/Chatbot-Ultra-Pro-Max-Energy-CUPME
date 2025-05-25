@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siemens Energy - Powering the Future</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="static/website-style.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'siemens-primary': '#663399', // Siemens purple
+                        'siemens-secondary': '#4a1a66', // Darker purple
+                        'siemens-light': '#f3e6ff', // Light purple
+                        'siemens-dark': '#2d0a4d', // Very dark purple
+                        'siemens-accent': '#8A2BE2' // Blue violet accent
+                    },
+                    fontFamily: {
+                        'sans': ['Open Sans', 'Segoe UI', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="font-sans">
+    <!-- Header -->
+    <header class="bg-white shadow-md relative z-40">
+        <div class="container mx-auto px-6 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center">
+                    <div class="w-12 h-12 bg-siemens-primary rounded-lg flex items-center justify-center mr-4">
+                        <i class="fas fa-bolt text-white text-xl"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-2xl font-bold text-siemens-dark">Siemens Energy</h1>
+                        <p class="text-sm text-gray-600">Powering the Future</p>
+                    </div>
+                </div>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">Solutions</a>
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">Products</a>
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">Services</a>
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">Sustainability</a>
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">About</a>
+                    <a href="#" class="text-gray-700 hover:text-siemens-primary transition-colors">Contact</a>
+                </nav>
+                <button class="md:hidden">
+                    <i class="fas fa-bars text-gray-700"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-siemens-primary to-siemens-secondary text-white py-20">
+        <div class="container mx-auto px-6">
+            <div class="max-w-4xl mx-auto text-center">
+                <h1 class="text-5xl font-bold mb-6">Transforming the Energy Landscape</h1>
+                <p class="text-xl mb-8 opacity-90">We're accelerating the transformation of the energy industry towards a more sustainable future with innovative technologies and solutions.</p>
+                <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                    <button class="bg-white text-siemens-primary px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors">
+                        Explore Solutions
+                    </button>
+                    <button class="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-siemens-primary transition-colors">
+                        Learn More
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Solutions Section -->
+    <section class="py-16 bg-gray-50">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-siemens-dark mb-4">Our Energy Solutions</h2>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">From wind turbines to gas turbines, we provide comprehensive energy solutions for a sustainable future.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-white rounded-xl shadow-lg p-8 hover:shadow-xl transition-shadow">
+                    <div class="w-16 h-16 bg-siemens-light rounded-lg flex items-center justify-center mb-6">
+                        <i class="fas fa-wind text-siemens-primary text-2xl"></i>
+                    </div>
+                    <h3 class="text-2xl font-semibold text-siemens-dark mb-4">Wind Power</h3>
+                    <p class="text-gray-600 mb-6">Advanced wind turbines and solutions for onshore and offshore wind energy generation.</p>
+                    <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                        Learn More <i class="fas fa-arrow-right ml-2"></i>
+                    </a>
+                </div>
+                <div class="bg-white rounded-xl shadow-lg p-8 hover:shadow-xl transition-shadow">
+                    <div class="w-16 h-16 bg-siemens-light rounded-lg flex items-center justify-center mb-6">
+                        <i class="fas fa-fire text-siemens-primary text-2xl"></i>
+                    </div>
+                    <h3 class="text-2xl font-semibold text-siemens-dark mb-4">Gas Turbines</h3>
+                    <p class="text-gray-600 mb-6">High-efficiency gas turbines for power generation and industrial applications.</p>
+                    <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                        Learn More <i class="fas fa-arrow-right ml-2"></i>
+                    </a>
+                </div>
+                <div class="bg-white rounded-xl shadow-lg p-8 hover:shadow-xl transition-shadow">
+                    <div class="w-16 h-16 bg-siemens-light rounded-lg flex items-center justify-center mb-6">
+                        <i class="fas fa-plug text-siemens-primary text-2xl"></i>
+                    </div>
+                    <h3 class="text-2xl font-semibold text-siemens-dark mb-4">Grid Technologies</h3>
+                    <p class="text-gray-600 mb-6">Smart grid solutions for efficient energy transmission and distribution.</p>
+                    <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                        Learn More <i class="fas fa-arrow-right ml-2"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="py-16 bg-siemens-dark text-white">
+        <div class="container mx-auto px-6">
+            <div class="grid md:grid-cols-4 gap-8 text-center">
+                <div>
+                    <div class="text-4xl font-bold text-siemens-accent mb-2">120+</div>
+                    <div class="text-lg">Countries Served</div>
+                </div>
+                <div>
+                    <div class="text-4xl font-bold text-siemens-accent mb-2">91,000+</div>
+                    <div class="text-lg">Employees Worldwide</div>
+                </div>
+                <div>
+                    <div class="text-4xl font-bold text-siemens-accent mb-2">300+</div>
+                    <div class="text-lg">GW Installed Capacity</div>
+                </div>
+                <div>
+                    <div class="text-4xl font-bold text-siemens-accent mb-2">150+</div>
+                    <div class="text-lg">Years of Innovation</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- News Section -->
+    <section class="py-16">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12">
+                <h2 class="text-4xl font-bold text-siemens-dark mb-4">Latest News & Insights</h2>
+                <p class="text-xl text-gray-600">Stay updated with our latest developments and industry insights.</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <article class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                    <div class="h-48 bg-gradient-to-r from-siemens-primary to-siemens-accent"></div>
+                    <div class="p-6">
+                        <div class="text-sm text-gray-500 mb-2">March 15, 2024</div>
+                        <h3 class="text-xl font-semibold text-siemens-dark mb-3">Revolutionary Wind Turbine Technology</h3>
+                        <p class="text-gray-600 mb-4">Our latest offshore wind turbines achieve record-breaking efficiency rates...</p>
+                        <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                            Read More <i class="fas fa-arrow-right ml-2"></i>
+                        </a>
+                    </div>
+                </article>
+                <article class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                    <div class="h-48 bg-gradient-to-r from-siemens-accent to-siemens-secondary"></div>
+                    <div class="p-6">
+                        <div class="text-sm text-gray-500 mb-2">March 12, 2024</div>
+                        <h3 class="text-xl font-semibold text-siemens-dark mb-3">Hydrogen Partnership Announcement</h3>
+                        <p class="text-gray-600 mb-4">Strategic partnership to accelerate green hydrogen production globally...</p>
+                        <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                            Read More <i class="fas fa-arrow-right ml-2"></i>
+                        </a>
+                    </div>
+                </article>
+                <article class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow">
+                    <div class="h-48 bg-gradient-to-r from-siemens-secondary to-siemens-primary"></div>
+                    <div class="p-6">
+                        <div class="text-sm text-gray-500 mb-2">March 10, 2024</div>
+                        <h3 class="text-xl font-semibold text-siemens-dark mb-3">Sustainability Report 2024</h3>
+                        <p class="text-gray-600 mb-4">Our commitment to carbon neutrality and sustainable energy solutions...</p>
+                        <a href="#" class="text-siemens-primary font-semibold hover:text-siemens-secondary transition-colors">
+                            Read More <i class="fas fa-arrow-right ml-2"></i>
+                        </a>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center mb-4">
+                        <div class="w-10 h-10 bg-siemens-primary rounded-lg flex items-center justify-center mr-3">
+                            <i class="fas fa-bolt text-white"></i>
+                        </div>
+                        <span class="text-xl font-bold">Siemens Energy</span>
+                    </div>
+                    <p class="text-gray-400 mb-4">Transforming the energy industry for a sustainable future.</p>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-gray-400 hover:text-siemens-primary transition-colors">
+                            <i class="fab fa-linkedin text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-siemens-primary transition-colors">
+                            <i class="fab fa-twitter text-xl"></i>
+                        </a>
+                        <a href="#" class="text-gray-400 hover:text-siemens-primary transition-colors">
+                            <i class="fab fa-facebook text-xl"></i>
+                        </a>
+                    </div>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Solutions</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Wind Power</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Gas Turbines</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Grid Technologies</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Energy Storage</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Company</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">About Us</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Careers</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Sustainability</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Investors</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Support</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Contact</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Documentation</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Privacy Policy</a></li>
+                        <li><a href="#" class="hover:text-siemens-primary transition-colors">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+                <p>&copy; 2024 Siemens Energy. All rights reserved. | This is a simulation for educational purposes.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Floating Chatbot Widget - SIMPLIFIED -->
+    <div id="chatbot-widget" class="fixed bottom-6 right-6 z-50">
+        <!-- Chatbot Button -->
+        <button id="chatbot-toggle" class="bg-siemens-primary hover:bg-siemens-secondary text-white rounded-full w-16 h-16 flex items-center justify-center shadow-lg hover:shadow-xl transition-all transform hover:scale-110">
+            <i class="fas fa-robot text-2xl"></i>
+        </button>
+        
+        <!-- Chatbot Container (initially hidden) -->
+        <div id="chatbot-container" class="hidden">
+            <!-- Simple header with close button -->
+            <div class="chatbot-header">
+                <div class="title">
+                    <i class="fas fa-robot"></i>
+                    Siemens Energy Assistant
+                </div>
+                <button class="chatbot-close" id="chatbot-close">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            
+            <!-- Iframe content -->
+            <iframe src="/chatbot" frameborder="0" allow="microphone"></iframe>
+        </div>
+    </div>
+
+    <script>
+        // Simple chatbot functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatbotToggle = document.getElementById('chatbot-toggle');
+            const chatbotContainer = document.getElementById('chatbot-container');
+            const chatbotClose = document.getElementById('chatbot-close');
+            
+            let isOpen = false;
+
+            console.log('Simple chatbot widget initialized');
+
+            // Toggle chatbot
+            chatbotToggle.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                
+                if (isOpen) {
+                    closeChatbot();
+                } else {
+                    openChatbot();
+                }
+            });
+
+            // Close button
+            chatbotClose.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                closeChatbot();
+            });
+
+            // Open chatbot
+            function openChatbot() {
+                chatbotContainer.classList.remove('hidden');
+                chatbotToggle.innerHTML = '<i class="fas fa-comments text-2xl"></i>';
+                isOpen = true;
+                console.log('Chatbot opened');
+            }
+
+            // Close chatbot
+            function closeChatbot() {
+                chatbotContainer.classList.add('hidden');
+                chatbotToggle.innerHTML = '<i class="fas fa-robot text-2xl"></i>';
+                isOpen = false;
+                console.log('Chatbot closed');
+            }
+
+            // Close chatbot when clicking outside
+            document.addEventListener('click', function(event) {
+                const widget = document.getElementById('chatbot-widget');
+                if (isOpen && widget && !widget.contains(event.target)) {
+                    closeChatbot();
+                }
+            });
+
+            // Prevent chatbot container clicks from closing the widget
+            chatbotContainer.addEventListener('click', function(e) {
+                e.stopPropagation();
+            });
+
+            // ESC key to close
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && isOpen) {
+                    closeChatbot();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

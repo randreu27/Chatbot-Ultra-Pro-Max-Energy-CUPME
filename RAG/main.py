@@ -83,9 +83,14 @@ async def clear_history():
         print(f"Error clearing history: {str(e)}")
         raise HTTPException(status_code=500, detail="Error clearing chat history")
 
-# Serve the index.html file at the root path
+# Serve the main Siemens Energy website at the root path
 @app.get("/")
 async def root():
+    return FileResponse(os.path.join(static_dir, "siemens-website.html"))
+
+# Serve the chatbot interface at /chatbot
+@app.get("/chatbot")
+async def chatbot_page():
     return FileResponse(os.path.join(static_dir, "index.html"))
 
 # Health endpoint
