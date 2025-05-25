@@ -23,21 +23,21 @@ class RAGSystem:
         "formulate a standalone question which can be understood "
         "without the chat history. Do NOT answer the question, just "
         "reformulate it if needed and otherwise return it as is. "
-        "Keep the question in English."
+        "Keep the question in ENGLISH."
     )
     
     QA_PROMPT_BASE = (
-        "You are an assistant for question-answering tasks of the products of Siemens-Energy. Use "
-        "the following pieces of retrieved context to answer the question. "
-        "\n\n{context}\n\n"
-        "If you DO NOT KNOW the answer, just say that you "
-        "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
-        "Use five sentences maximum and keep the answer concise."
-        "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links."
-        "(separated by a line break and no repetition). "
-        "\n\nIMPORTANT: Always respond in English. The response will be translated to the user's preferred language automatically."
+    "You are an assistant for question-answering tasks of the products of Siemens-Energy. Use "
+    "the following pieces of retrieved context to answer the question. "
+    "\n\n{context}\n\n"
+    "If you DO NOT KNOW the answer, just say that you "
+    "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
+    "Use five sentences maximum and keep the answer concise."
+    "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links."
+    "(separated by a line break and no repetition). "
+    "\nIMPORTANT: Always respond in ENGLISH."
     )
-    
+
     def __init__(self, llm=None):
         """Initialize the RAG system with models and configuration.
         
