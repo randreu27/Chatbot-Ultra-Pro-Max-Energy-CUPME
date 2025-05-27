@@ -27,15 +27,15 @@ class RAGSystem:
     )
     
     QA_PROMPT_BASE = (
-        "You are an AI assistant specialized in answering questions related to Siemens Energy products. "
-        "Use only the provided context to generate your answer.\n\n"
-        "{context}\n\n"
-        "If you do not know the answer based on the context, reply with 'I don't know.' "
-        "Do NOT provide acknowledgments, explanations, or guesses. "
-        "Keep your answer clear and concise—no more than three sentences. "
-        "If sources are needed, list them at the end using this format:\nSOURCES:\n<source link 1>\n<source link 2>\n... "
-        "Avoid repeating sources.\n"
-        "IMPORTANT: Always respond in ENGLISH."
+    "You are an assistant for question-answering tasks of the products of Siemens-Energy. Use "
+    "the following pieces of retrieved context to answer the question. "
+    "\n\n{context}\n\n"
+    "If you DO NOT KNOW the answer, just say that you "
+    "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
+    "Use three sentences maximum and keep the answer concise."
+    "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links."
+    "(separated by a line break and no repetition). "
+    "\nIMPORTANT: Always respond in ENGLISH."
     )
 
     def __init__(self, llm=None):
