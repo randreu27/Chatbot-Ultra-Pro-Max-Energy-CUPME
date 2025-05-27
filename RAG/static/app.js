@@ -300,6 +300,202 @@ document.addEventListener('DOMContentLoaded', function() {
             .replace(/'/g, "&#039;");
     }
 
+    // Function to convert Catalan text to phonetic Spanish approximation
+    function catalanToSpanishPhonetics(text) {
+        let converted = text;
+        
+        // Basic Catalan to Spanish phonetic conversions
+        const conversions = [
+            // Vowels with accents - normalize to base vowels
+            [/[àá]/g, 'a'],
+            [/[èé]/g, 'e'],
+            [/[íì]/g, 'i'],
+            [/[òó]/g, 'o'],
+            [/[úù]/g, 'u'],
+            [/ü/g, 'u'],
+            
+            // G phonetics - very important in Catalan
+            [/\bge\b/gi, 'je'],           // "ge" (the) -> "je"
+            [/\bges\b/gi, 'jes'],         // "ges" -> "jes"  
+            [/gi([aou])/gi, 'ji$1'],      // "gia", "gio", "giu" -> "jia", "jio", "jiu"
+            [/ge([aou])/gi, 'je$1'],      // "gea", "geo", "geu" -> "jea", "jeo", "jeu"
+            [/gg/g, 'g'],                 // double g -> single g
+            [/\bgen/gi, 'jen'],           // "gen" -> "jen"
+            [/\bgent/gi, 'jent'],         // "gent" (people) -> "jent"
+            [/\bger/gi, 'jer'],           // "ger" -> "jer"
+            [/\bgest/gi, 'jest'],         // "gest" -> "jest"
+            [/\bgir/gi, 'jir'],           // "gir" -> "jir"
+            [/\bginyo/gi, 'jinyo'],       // "ginyo" -> "jinyo"
+            
+            // J phonetics in Catalan
+            [/\bj([aeiou])/gi, 'y$1'],    // j + vowel -> y + vowel
+            [/ja\b/gi, 'ya'],             // "ja" -> "ya"
+            [/jo\b/gi, 'yo'],             // "jo" -> "yo"
+            
+            // Consonant clusters and special sounds
+            [/ny/g, 'ñ'],                 // ny -> ñ
+            [/ig\b/g, 'ic'],              // word ending 'ig' -> 'ic'
+            [/\btj/g, 'ch'],              // tj at start -> ch
+            [/tg/g, 'ch'],                // tg -> ch
+            [/\btx/g, 'ch'],              // tx -> ch
+            [/dj/g, 'y'],                 // dj -> y
+            [/\bqu/g, 'cu'],              // qu at start -> cu
+            [/x\b/g, 'ks'],               // x at end -> ks
+            [/\bx/g, 'sh'],               // x at start -> sh (approximate)
+            [/ll/g, 'y'],                 // ll -> y (yeísmo)
+            [/rr/g, 'r'],                 // double r -> single r for clarity
+            
+            // V/B confusion (common in Catalan)
+            [/\bv([aeiou])/gi, 'b$1'],    // v + vowel -> b + vowel at word start
+            [/va\b/gi, 'ba'],             // "va" -> "ba"
+            [/ve\b/gi, 'be'],             // "ve" -> "be"
+            [/vi\b/gi, 'bi'],             // "vi" -> "bi"
+            [/vo\b/gi, 'bo'],             // "vo" -> "bo"
+            [/vu\b/gi, 'bu'],             // "vu" -> "bu"
+            
+            // C phonetics
+            [/\bce([aou])/gi, 'se$1'],    // "cea", "ceo", "ceu" -> "sea", "seo", "seu"
+            [/\bci([aou])/gi, 'si$1'],    // "cia", "cio", "ciu" -> "sia", "sio", "siu"
+            [/ç/g, 's'],                  // ç -> s
+            
+            // Common Catalan words - phonetic spelling for Spanish TTS
+            [/\bmolt\b/gi, 'molt'],
+            [/\bmolta\b/gi, 'molta'],
+            [/\bmolts\b/gi, 'molts'],
+            [/\bmoltes\b/gi, 'moltes'],
+            [/\baquesta\b/gi, 'akesta'],
+            [/\baquest\b/gi, 'akest'],
+            [/\baquests\b/gi, 'akests'],
+            [/\baquestes\b/gi, 'akestes'],
+            [/\bque\b/gi, 'ke'],
+            [/\bquè\b/gi, 'ke'],
+            [/\bqui\b/gi, 'ki'],
+            [/\bcom\b/gi, 'kom'],
+            [/\bamb\b/gi, 'am'],
+            [/\bper\b/gi, 'per'],
+            [/\bde\b/gi, 'de'],
+            [/\bel\b/gi, 'el'],
+            [/\bla\b/gi, 'la'],
+            [/\bels\b/gi, 'els'],
+            [/\bles\b/gi, 'les'],
+            [/\bun\b/gi, 'un'],
+            [/\buna\b/gi, 'una'],
+            [/\buns\b/gi, 'uns'],
+            [/\bunes\b/gi, 'unes'],
+            
+            // Prepositions and common words
+            [/\ben\b/gi, 'en'],
+            [/\ba\b/gi, 'a'],
+            [/\bi\b/gi, 'i'],
+            [/\bo\b/gi, 'o'],
+            [/\bper\b/gi, 'per'],
+            [/\bsense\b/gi, 'sense'],
+            [/\bsobre\b/gi, 'sobre'],
+            [/\bentre\b/gi, 'entre'],
+            [/\bdes\b/gi, 'des'],
+            [/\bdesprés\b/gi, 'després'],
+            [/\bavant\b/gi, 'avant'],
+            [/\bdarrera\b/gi, 'darrera'],
+            
+            // Technical terms common in energy context
+            [/energia/gi, 'enerzhía'],
+            [/energies/gi, 'enerzhíes'],
+            [/energètic/gi, 'enerzhétik'],
+            [/energètica/gi, 'enerzhétika'],
+            [/energètiques/gi, 'enerzhétikes'],
+            [/solució/gi, 'solusió'],
+            [/solucions/gi, 'solusions'],
+            [/sostenible/gi, 'sostenible'],
+            [/sostenibles/gi, 'sostenibles'],
+            [/sostenibilitat/gi, 'sostenibilitat'],
+            [/innovació/gi, 'inobasió'],
+            [/innovacions/gi, 'inobasions'],
+            [/innovador/gi, 'inobasior'],
+            [/innovadora/gi, 'inobasiora'],
+            [/tecnologia/gi, 'teknolojía'],
+            [/tecnologies/gi, 'teknolojíes'],
+            [/tecnològic/gi, 'teknolójik'],
+            [/tecnològica/gi, 'teknolójika'],
+            [/servei/gi, 'serbéi'],
+            [/serveis/gi, 'serbéis'],
+            [/sistema/gi, 'sistema'],
+            [/sistemes/gi, 'sistemes'],
+            [/eòlica/gi, 'eólika'],
+            [/eòliques/gi, 'eólikas'],
+            [/fotovoltaica/gi, 'fotoboltáika'],
+            [/fotovoltaiques/gi, 'fotoboltáikes'],
+            [/renovable/gi, 'renobable'],
+            [/renovables/gi, 'renobables'],
+            [/generació/gi, 'jenerasió'],
+            [/generador/gi, 'jenerasior'],
+            [/gestió/gi, 'jestió'],
+            [/eficiència/gi, 'efisiènsia'],
+            [/eficient/gi, 'efisient'],
+            
+            // Common verbs and their conjugations
+            [/\bpodem\b/gi, 'podem'],
+            [/\bpodeu\b/gi, 'podeu'],
+            [/\bpoden\b/gi, 'poden'],
+            [/\bvolem\b/gi, 'bolem'],
+            [/\bvoleu\b/gi, 'boleu'],
+            [/\bvolen\b/gi, 'bolen'],
+            [/\btenim\b/gi, 'tenim'],
+            [/\bteniu\b/gi, 'teniu'],
+            [/\btenen\b/gi, 'tenen'],
+            [/\bfem\b/gi, 'fem'],
+            [/\bfeu\b/gi, 'feu'],
+            [/\bfan\b/gi, 'fan'],
+            [/\bsom\b/gi, 'som'],
+            [/\bsou\b/gi, 'sou'],
+            [/\bsón\b/gi, 'són'],
+            [/\bestà\b/gi, 'está'],
+            [/\bestem\b/gi, 'estem'],
+            [/\besteu\b/gi, 'esteu'],
+            [/\bestan\b/gi, 'estan'],
+            [/\bvaig\b/gi, 'baig'],
+            [/\bvas\b/gi, 'bas'],
+            [/\bva\b/gi, 'ba'],
+            [/\bvam\b/gi, 'bam'],
+            [/\bvau\b/gi, 'bau'],
+            [/\bvan\b/gi, 'ban'],
+            
+            // Numbers in Catalan
+            [/\bun\b/gi, 'un'],
+            [/\bdos\b/gi, 'dos'],
+            [/\btres\b/gi, 'tres'],
+            [/\bquatre\b/gi, 'kuatre'],
+            [/\bcinc\b/gi, 'sink'],
+            [/\bsis\b/gi, 'sis'],
+            [/\bset\b/gi, 'set'],
+            [/\bvuit\b/gi, 'buit'],
+            [/\bnou\b/gi, 'nou'],
+            [/\bdeu\b/gi, 'deu'],
+            
+            // Prepositions and articles adjustments
+            [/\bd'un\b/gi, 'dun'],
+            [/\bd'una\b/gi, 'duna'],
+            [/\bd'aquest\b/gi, 'dakest'],
+            [/\bd'aquesta\b/gi, 'dakesta'],
+            [/\bl'energia\b/gi, 'l enerzhía'],
+            [/\bl'innovació\b/gi, 'l inobasió'],
+            [/\bl'eficiència\b/gi, 'l efisiènsia'],
+            [/\bs'ha\b/gi, 'sa'],
+            [/\bs'han\b/gi, 'san'],
+            [/\bm'agrada\b/gi, 'magrada'],
+            [/\bt'agrada\b/gi, 'tagrada'],
+            
+            // Final adjustments for better flow
+            [/\s+/g, ' '],                // Multiple spaces -> single space
+        ];
+        
+        // Apply all conversions
+        conversions.forEach(([pattern, replacement]) => {
+            converted = converted.replace(pattern, replacement);
+        });
+        
+        return converted.trim();
+    }
+
     // Function to send message to backend and get the response
     const sendMessage = async () => {
         console.log('sendMessage function executed');
@@ -389,36 +585,69 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 const cleanedText = cleanTextForSpeech(data.response);
                 if (cleanedText.length > 0) {
-                    // Set language for text-to-speech based on selected language
-                    const ttsLanguages = {
-                        'es': 'es-ES',
-                        'ca': 'ca-ES',
-                        'en': 'en-US',
-                        'zh': 'zh-CN'
-                    };
-                    
-                    const utterance = new SpeechSynthesisUtterance(cleanedText);
-                    utterance.lang = ttsLanguages[selectedLanguage] || 'en-US';
-                    utterance.rate = 1;
-                    
-                    // Try to find a voice for the selected language
-                    const voices = window.speechSynthesis.getVoices();
-                    const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
-                    
-                    // Find a voice that matches the language
-                    const matchingVoice = voices.find(voice => 
-                        voice.lang === targetLang || 
-                        voice.lang.startsWith(targetLang.split('-')[0])
-                    );
-                    
-                    if (matchingVoice) {
-                        utterance.voice = matchingVoice;
-                        console.log(`🔊 Using voice: ${matchingVoice.name} for language: ${targetLang}`);
+                    // Special handling for Catalan - convert to phonetic Spanish
+                    if (selectedLanguage === 'ca') {
+                        const phoneticText = catalanToSpanishPhonetics(cleanedText);
+                        console.log('🔊 Original Catalan:', cleanedText);
+                        console.log('🔊 Phonetic Spanish:', phoneticText);
+                        
+                        const utterance = new SpeechSynthesisUtterance(phoneticText);
+                        
+                        const voices = window.speechSynthesis.getVoices();
+                        const spanishVoice = voices.find(voice => 
+                            voice.lang === 'es-ES' && 
+                            (voice.name.toLowerCase().includes('spain') ||
+                             voice.name.toLowerCase().includes('españa') ||
+                             voice.name.toLowerCase().includes('european') ||
+                             voice.name.toLowerCase().includes('iberian'))
+                        ) || voices.find(voice => voice.lang === 'es-ES') ||
+                             voices.find(voice => voice.lang.startsWith('es'));
+                        
+                        if (spanishVoice) {
+                            utterance.voice = spanishVoice;
+                            utterance.lang = spanishVoice.lang;
+                            console.log(`🔊 Using Spanish voice for Catalan: ${spanishVoice.name} (${spanishVoice.lang})`);
+                        } else {
+                            utterance.lang = 'es-ES';
+                            console.log('🔊 Using default Spanish for Catalan');
+                        }
+                        
+                        utterance.rate = 0.8;
+                        utterance.pitch = 1.1;
+                        utterance.volume = 1.0;
+                        
+                        window.speechSynthesis.speak(utterance);
+                        
                     } else {
-                        console.log(`⚠️ No specific voice found for ${targetLang}, using default`);
+                        const ttsLanguages = {
+                            'es': 'es-ES',
+                            'en': 'en-US',
+                            'zh': 'zh-CN'
+                        };
+                        
+                        const utterance = new SpeechSynthesisUtterance(cleanedText);
+                        utterance.rate = 0.9;
+                        utterance.pitch = 1.0;
+                        
+                        const voices = window.speechSynthesis.getVoices();
+                        const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
+                        
+                        const selectedVoice = voices.find(voice => 
+                            voice.lang === targetLang || 
+                            voice.lang.startsWith(targetLang.split('-')[0])
+                        );
+                        
+                        if (selectedVoice) {
+                            utterance.voice = selectedVoice;
+                            utterance.lang = selectedVoice.lang;
+                            console.log(`🔊 Using voice: ${selectedVoice.name} (${selectedVoice.lang})`);
+                        } else {
+                            utterance.lang = targetLang;
+                            console.log(`⚠️ Using default voice for ${targetLang}`);
+                        }
+                        
+                        window.speechSynthesis.speak(utterance);
                     }
-                    
-                    window.speechSynthesis.speak(utterance);
                 }
             }
         } catch (error) {
@@ -548,23 +777,48 @@ document.addEventListener('DOMContentLoaded', function() {
             
             // Load voices for the selected language (for TTS)
             if (window.speechSynthesis) {
-                // Ensure voices are loaded
-                window.speechSynthesis.getVoices();
-                window.speechSynthesis.onvoiceschanged = function() {
+                // Function to load and log available voices
+                function loadVoicesForLanguage() {
                     const voices = window.speechSynthesis.getVoices();
-                    const ttsLanguages = {
-                        'es': 'es-ES',
-                        'ca': 'ca-ES',
-                        'en': 'en-US',
-                        'zh': 'zh-CN'
-                    };
-                    const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
-                    const availableVoices = voices.filter(voice => 
-                        voice.lang === targetLang || 
-                        voice.lang.startsWith(targetLang.split('-')[0])
-                    );
-                    console.log(`🔊 Available voices for ${targetLang}:`, availableVoices.map(v => v.name));
-                };
+                    
+                    if (selectedLanguage === 'ca') {
+                        const spanishVoices = voices.filter(voice => 
+                            voice.lang.startsWith('es')
+                        );
+                        console.log(`🔊 Available Spanish voices for Catalan approximation:`, 
+                            spanishVoices.map(v => `${v.name} (${v.lang})`));
+                        
+                        const bestVoice = spanishVoices.find(voice => 
+                            voice.lang === 'es-ES' && 
+                            (voice.name.toLowerCase().includes('spain') ||
+                             voice.name.toLowerCase().includes('españa'))
+                        ) || spanishVoices.find(voice => voice.lang === 'es-ES') ||
+                             spanishVoices[0];
+                        
+                        if (bestVoice) {
+                            console.log(`🔊 Recommended voice for Catalan: ${bestVoice.name} (${bestVoice.lang})`);
+                        }
+                        
+                    } else {
+                        const ttsLanguages = {
+                            'es': 'es-ES',
+                            'en': 'en-US', 
+                            'zh': 'zh-CN'
+                        };
+                        const targetLang = ttsLanguages[selectedLanguage] || 'en-US';
+                        const availableVoices = voices.filter(voice => 
+                            voice.lang === targetLang || 
+                            voice.lang.startsWith(targetLang.split('-')[0])
+                        );
+                        console.log(`🔊 Available voices for ${targetLang}:`, availableVoices.map(v => v.name));
+                    }
+                }
+                
+                if (window.speechSynthesis.getVoices().length > 0) {
+                    loadVoicesForLanguage();
+                } else {
+                    window.speechSynthesis.onvoiceschanged = loadVoicesForLanguage;
+                }
             }
             
             console.log('Language selected:', selectedLanguage);
