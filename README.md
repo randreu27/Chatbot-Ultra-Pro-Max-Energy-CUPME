@@ -86,8 +86,11 @@ python scrap_main.py
 
 ### Vector Store
 1. Place your text files in the RAG/vector_store/product-offerings directory.
-2. Create a file_url_pairs.json file in RAG/vector_store to associate each file with its source URL or any other relevant metadata. 
+2. Create a file_url_pairs.json file in RAG/vector_store to associate each file with its source URL or any other relevant metadata.
+>   Note: You can move these directories and files here after running the web scraping module.
+
 3. Edit RAG/vector_store/vector_store_pinecone.py to set up your embedding model and Pinecone connection.
+
 ```bash
 # Enter to the vector store directory
 cd RAG/vector_store
