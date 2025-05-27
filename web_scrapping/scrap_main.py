@@ -5,5 +5,3 @@ domain = "https://www.siemens-energy.com"
 
 main(start_urls, domain)
 
-shutil.move("./product-offering", "../RAG/vector_store")
-shutil.move("./file_url_pairs.json", "../RAG/vector_store")
