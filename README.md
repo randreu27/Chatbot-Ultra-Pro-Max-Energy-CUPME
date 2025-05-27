@@ -1,3 +1,5 @@
+![Banner](images/prev.png)
+
 # Chatbot Ultra Pro Max Energy
 
 A Retrieval-Augmented Generation (RAG) based chatbot application specifically designed for Siemens Energy. This intelligent assistant can answer queries about Siemens Energy products, services, and documentation by leveraging a knowledge base with accurate information retrieval.
