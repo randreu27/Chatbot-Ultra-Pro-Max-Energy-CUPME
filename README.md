@@ -73,6 +73,28 @@ cp .env.example .env
 
 ## 🖥️ Usage
 
+### Web Scraping
+
+### Vector Store
+1. Place your text files in the RAG/vector_store/product-offerings directory.
+2. Create a file_url_pairs.json file in RAG/vector_store to associate each file with its source URL (OPTIONAL, you can associate it with other information). 
+3. Edit RAG/vector_store/vector_store_pinecone.py to set up your embedding model and Pinecone connection.
+```bash
+# Enter to the vector store directory
+cd RAG/vector_store
+
+# Create the data directory
+mkdir -p product-offerings
+
+# Create or edit the file-URL mapping
+vi file_url_pairs.json
+
+# Run the script to populate the vector store
+python vector_store_pinecone.py
+```
+
+### RAG System
+
 1. Start the backend server:
 ```bash
 # Enter the directory
