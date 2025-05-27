@@ -61,7 +61,7 @@ print(f"Number of document chunks: {len(docs)}")
 # Create embeddings
 print("\n--- Creating embeddings ---")
 embeddings = HuggingFaceEmbeddings(
-    model_name="BAAI/bge-m3",
+    model_name="BAAI/bge-small-en-v1.5",
     model_kwargs={"device": "cuda"}  # Use GPU
 )
 
@@ -74,7 +74,7 @@ print("\n--- Creating and persisting vector store ---")
 vector_store = PineconeVectorStore.from_documents(
     documents=docs,
     embedding=embeddings,
-    index_name="rag-siemens-embed1024",
+    index_name="rag-siemens-embed384",
     namespace="complete_docs",  
 )
 print("--- Finished creating and persisting vector store ---")
