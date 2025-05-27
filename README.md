@@ -24,7 +24,7 @@ The application follows a RAG (Retrieval-Augmented Generation) architecture:
 - Web Interface: Provides a clean interface for users to interact with the chatbot
 
 
-## Technology Stack
+## ⚙️ Technology Stack
 
 This project leverages the following technologies:
 
@@ -73,6 +73,28 @@ cp .env.example .env
 
 ## 🖥️ Usage
 
+### Web Scraping
+
+### Vector Store
+1. Place your text files in the RAG/vector_store/product-offerings directory.
+2. Create a file_url_pairs.json file in RAG/vector_store to associate each file with its source URL or any other relevant metadata.. 
+3. Edit RAG/vector_store/vector_store_pinecone.py to set up your embedding model and Pinecone connection.
+```bash
+# Enter to the vector store directory
+cd RAG/vector_store
+
+# Create the data directory
+mkdir -p product-offerings
+
+# Create or edit the file-URL mapping
+vi file_url_pairs.json
+
+# Run the script to populate the vector store
+python vector_store_pinecone.py
+```
+
+### RAG System
+
 1. Start the backend server:
 ```bash
 # Enter the directory
@@ -83,7 +105,7 @@ python main.py
 ```
 2. The API will be available at http://localhost:8000. Access the application at http://localhost:8000 after starting the backend.
 
-## Using the Chatbot
+## 🤖 Using the Chatbot
 
 1. Access the web interface through your browser at http://localhost:8000
 2. Type your query related to Siemens Energy in the input field or click the microphone button to use voice input
