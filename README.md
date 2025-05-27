@@ -74,6 +74,15 @@ cp .env.example .env
 ## 🖥️ Usage
 
 ### Web Scraping
+1. Select the page domain you want to scrape and the page where the scrape starts.
+2. Execute the main function, with the list of pages and the domain.
+```bash
+# Enter to the web scraping directory
+cd web_scraping
+
+# Run the script to scrape webs and PDFs
+python scrap_main.py
+```
 
 ### Vector Store
 1. Place your text files in the RAG/vector_store/product-offerings directory.
