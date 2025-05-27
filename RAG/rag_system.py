@@ -33,7 +33,7 @@ class RAGSystem:
     "If you DO NOT KNOW the answer, just say that you "
     "don't know. NO ACKNOWLEDGEMENTS, NO EXPLANATIONS."
     "Use three sentences maximum and keep the answer concise."
-    "At the end of your answer, cite your sources (if necessary) by writing \nSOURCES: followed by the source links."
+    "At the end of your answer, cite your sources by writing \nSOURCES: followed by the source links."
     "(separated by a line break and no repetition). "
     "\nIMPORTANT: Always respond in ENGLISH."
     )
