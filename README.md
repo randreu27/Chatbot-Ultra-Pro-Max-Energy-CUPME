@@ -68,7 +68,7 @@ This application uses lightweight, efficient, and freely available models optimi
 
 ```bash
 # Clone and enter repository
-git clone https://github.com/randreu27/PIA-Siemens
+git clone https://github.com/randreu27/Chatbot-Ultra-Pro-Max-Energy-CUPME
 
 # Set up virtual environment
 python -m venv venv
