@@ -8,20 +8,23 @@ This RAG-based chatbot provides Siemens Energy with an intelligent assistant tha
 
 ## ✨ Features
 
-- **Voice Recognition**: Supports voice input for hands-free interaction with the chatbot
 - **Knowledge-Grounded Responses**: Leverages RAG to provide accurate responses based on Siemens Energy documentation
 - **Context-Aware Conversations**: Maintains context throughout the conversation
 - **Real-time Interaction**: Offers fast response times for enhanced user experience
 - **Chat History**: Maintains conversation history for reference
-- **User-Friendly Interface**: Intuitive web interface for easy interaction
+- **User-Friendly Web Interface**: Features an intuitive extension embedded in the web interface for seamless interaction.
+- **Voice Interaction**: Supports both voice input and text-to-speech output for hands-free communication.
+- **Multilingual Support**: Communicates in English, Spanish, Catalan, and Chinese.
+- **Customizable Interface**: Allows users to adjust text size and toggle dark mode for better accessibility.
 
 ## 🏗️ Architecture
 The application follows a RAG (Retrieval-Augmented Generation) architecture:
 
-- Vector Database: Stores embeddings of the knowledge base documents
-- Retriever: Finds relevant documents based on the user query
-- LLM Integration: Uses a language model to generate responses based on retrieved context
-- Web Interface: Provides a clean interface for users to interact with the chatbot
+- **Vector Database**: Stores embeddings of the knowledge base documents
+- **Retriever**: Finds relevant documents based on the user query
+- **LLM Response Generator**: Uses a language model to generate responses based on retrieved context
+- **LLM Translator**: Translates user queries and chatbot responses to and from the target language, enabling more accurate retrieval using a monolingual embeddings model.
+- **Web Interface**: Provides a clean interface for users to interact with the chatbot
 
 
 ## ⚙️ Technology Stack
@@ -30,10 +33,9 @@ This project leverages the following technologies:
 
 ### Backend
 
-- **FastAPI**: High-performance web framework for building APIs
 - **LangChain**: Framework for developing applications powered by language models
 - **Pinecone**: Vector database for efficient similarity search
-- **Google Gemini**: Language model for generating human-like responses
+- **FastAPI**: High-performance web framework for building APIs
 - **Uvicorn**: ASGI server for running the FastAPI application
 
 ### Frontend
@@ -41,6 +43,16 @@ This project leverages the following technologies:
 - **HTML/CSS/JavaScript**: Core web technologies
 - **TailwindCSS**: Utility-first CSS framework for styling
 - **Web Speech API**: Browser API for voice recognition and text-to-speech
+
+## 🧠 Models Used
+
+This application uses lightweight, efficient, and freely available models optimized for speed and cost-effectiveness:
+
+- **LLM Response Generator**: [Google Gemini 1.5 Flash](https://deepmind.google/discover/blog/gemini-15-pro-and-flash/)  
+  A fast, cost-efficient large language model used to generate responses based on retrieved context.
+
+- **Embedding Model**: [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)  
+  A compact English embedding model from BAAI, ideal for generating semantic embeddings quickly and accurately.
 
 
 ## 🛠️ Installation
@@ -120,8 +132,9 @@ python main.py
 ## 🤖 Using the Chatbot
 
 1. Access the web interface through your browser at http://localhost:8000
-2. Type your query related to Siemens Energy in the input field or click the microphone button to use voice input
-3. For voice input:
+2. Click the chatbot icon (works like an extension) and choose your preferred language.
+3. Type your query related to Siemens Energy in the input field or click the microphone button to use voice input
+4. For voice input:
 
 - Ensure your microphone is connected and working
 - Click the microphone icon in the chat interface
@@ -131,9 +144,12 @@ python main.py
 - The voice recognition system will convert your speech to text
 - The chatbot will process your query and respond
 
-4. Receive knowledgeable responses based on the Siemens Energy documentation
-5. Continue the conversation with follow-up questions as needed, using either text or voice input
+5. Receive knowledgeable responses based on the Siemens Energy documentation
+6. Continue the conversation with follow-up questions as needed, using either text or voice input
 
+> **Tip:** In the chatbot window, click the button in the upper-right corner (Accessibility Options) to adjust text size, switch to dark mode, or enable text-to-speech to listen to responses.
+
+![Chatbot interface screenshot](./chatbot_interface.png)
 
 
 ## 👥 Authors
