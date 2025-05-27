@@ -74,8 +74,8 @@ class CustomHTMLParser:
         file_url_pairs = {}
         
         # Create directory if it doesn't exist
-        if not os.path.exists("product-offerings"):
-            os.makedirs("product-offerings")
+        if not os.path.exists("./product-offerings"):
+            os.makedirs("./product-offerings")
 
         # Save each document as a text file
         for i in range(len(documents)): 
