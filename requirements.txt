@@ -13,3 +13,7 @@ sentence-transformers==3.0.0
 pinecone-client==4.1.2
 transformers==4.51.3
 tiktoken==0.7.0
+firestore==0.0.8
+beautifulsoup4==4.13.3
+requests==2.32.3
+PyPDF2==3.0.1
