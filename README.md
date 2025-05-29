@@ -151,7 +151,7 @@ python main.py
 
 > **Tip:** In the chatbot window, click the button in the upper-right corner (Accessibility Options) to adjust text size, switch to dark mode, or enable text-to-speech to listen to responses.
 
-![Chatbot interface screenshot](./images/chatbot_interface.png)
+https://github.com/user-attachments/assets/4439c56c-0ef1-4b20-a4e5-31c3ce58d7a9
 
 
 ## 👥 Authors
